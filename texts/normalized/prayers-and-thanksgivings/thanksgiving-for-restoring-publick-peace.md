@@ -1,4 +1,4 @@
-# For Restoring Public Peace at Home.
+# For Restoring Public Peace at Home
 
-O ETERNAL God, our heavenly Father, who alone makest men to be of one mind in a house, and stillest the outrage of a violent and unruly people; We bless thy holy Name, that it hath pleased thee to appease the seditious tumults which have been lately raised up against us; most humbly beseeching thee to grant to all of us grace, that we may henceforth obediently walk in thy holy commandments; and, leading a quiet and peaceable life in all godliness and honesty, may continually offer unto thee our sacrifice of praise and thanksgiving for these thy mercies towards us, through Jesus Christ our Lord.
+O ETERNAL God, our heavenly Father, who alone makest men to be of one mind in a house, and stillest the outrage of a violent and unruly people; We bless thy holy Name, that it hath pleased thee to appease the seditious tumults which have been lately raised up amongst us; most humbly beseeching thee to grant to all of us grace, that we may henceforth obediently walk in thy holy commandments and, leading a quiet and peaceable life in all godliness and honesty, may continually offer unto thee our sacrifice of praise and thanks giving for these thy mercies towards us through Jesus Christ our Lord.
 Amen.
