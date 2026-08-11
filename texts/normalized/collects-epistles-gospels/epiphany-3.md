@@ -11,4 +11,4 @@ Romans 12:16
 
 ## The Gospel
 
-Matthew 8:1
+John 2:1

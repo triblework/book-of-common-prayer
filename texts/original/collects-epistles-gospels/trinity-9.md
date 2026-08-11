@@ -11,4 +11,4 @@ Amen.
 
 ## The Gospel
 
-Luke 16:1
+Luke 15:11
