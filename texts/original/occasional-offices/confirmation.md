@@ -1,5 +1,7 @@
 # Confirmacion, wherein is conteined a Catechisme for children.
 
+<!-- 1604 Confirmation derived from the 1559 office via the justus 1559 apparatus (no separate 1604 page survives on justus): the 1604 book removes 'bothe' from the versicle response ('Which hath made heaven and earth') and reads 'prayers' for 'prayer' ('Lord hear our prayers'). The 1604-added Catechism material (the sacraments Q&A) belongs to the Catechism service (a later wave), not this office. -->
+
 ## The Preface
 
 > TO thende that confirmacion may be ministred to the more edifying of suche, as shal receive it (according unto S. Paules doctrine, who teacheth that al things should he doen in ye Church, to the edification of the same) it is thought good that none hereafter shalbe confyrmed but suche as can saie in their mother tongue the articles of the faith, the Lordes praier, and the x Commaundementes: And can also answere to suche questions of this short Catechisme, as the Bishop (or suche as he shal appoinct) shal by hys discretion appose theim in.
@@ -28,15 +30,13 @@ A Catechisme, that is to say, an instruction to be learned of every childe befor
 
 Our helpe is in the name of the Lorde.
 
-**Aunswere.** Whiche hath made bothe heaven and earth.
-<!-- VERIFY: source prints 'bothe' with footnote "'bothe' removed in 1604"; kept as printed; confirm against a page scan -->
+**Aunswere.** Whiche hath made heaven and earth.
 
 **Minister.** Blessed is the name of the Lorde.
 
 **Aunswere.** Hencefurthe worlde without ende.
 
-**Minister.** Lorde heare our prayer.
-<!-- VERIFY: source prints 'prayer' with footnote "'prayers' in 1604"; kept as printed; confirm against a page scan -->
+**Minister.** Lorde heare our prayers.
 
 **Aunswere.** And let our crie come to the.
 

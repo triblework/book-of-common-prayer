@@ -2,8 +2,7 @@
 
 ## The Procession
 
-> The prieste metyng the corpse at the Church style, shal say, Or els the priestes and clerkes shall syng, and so go eyther unto the church, or towardes the grave.
-> <!-- VERIFY: source prints 'unto'; a footnote notes 'into' in 1604 printings; kept as printed; confirm against a page scan -->
+> The prieste metyng the corpse at the Church style, shal say, Or els the priestes and clerkes shall syng, and so go eyther into the church, or towardes the grave.
 
 I AM the resurrection and the life (saith the Lord) he that beleveth in me: yea, thoughe he were dead, yet shall he live.
 And whosoever liveth, and believeth in me, shall not dye for ever.

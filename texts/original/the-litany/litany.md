@@ -32,11 +32,13 @@ In al tyme of our tribulacion, in al tyme of our welth, in the houre of death, a
 Good Lorde delyver us.
 We synners do beseche the to heare us (O Lord God,) and that it may please the to rule and governe thy holy Churche universally, in the right way.
 We beseche the to heare us good Lorde.
-That it may please the, to kepe and strengthen in the true worshipping of the in righteousnes and holynes of lyfe, thy servaunt Elizabeth our most gracious Quene and governour.
+That it may please the, to kepe and strengthen in the true worshipping of the in righteousnes and holynes of lyfe, thy servaunt JAMES our most gracious king and governour.
 We beseche the to heare us good Lorde.
-That it may please the, to rule her harte in thy faith, feare, and love, that she may evermore have affiaunce in the, and ever seke thy honoure and glory.
+That it may please the, to rule his harte in thy faith, feare, and love, that he may evermore have affiaunce in the, and ever seke thy honoure and glory.
 We beseche the to heare us good Lorde.
-That it may please the, to be her defender and keper, geving her the victory over al her enemyes.
+That it may please the, to be his defender and keper, geving him the victory over al his enemyes.
+We beseche the to heare us good Lorde.
+That it may please thee to blesse and preserve our gracious Queen Anne, Prince Henry, and the rest of the King and Queens Royall issue.
 We beseche the to heare us good Lorde.
 That it may please the to illuminate all Byshoppes, Pastours, and ministers of the Church, with true knowledge, and understanding of thy words, and that both by their preaching and livinge, they may sette it furth and shewe it accordingly.
 We beseche the to heare us good Lorde.
@@ -88,6 +90,8 @@ Our father whiche art in heaven.
 And leade us not into temptacion.
 But delyver us from evyll.
 Amen.
+<!-- VERIFY: 'thy servaunt JAMES our most gracious king and governour' — the 1604 Litany is derived from the justus 1559 apparatus page, which documents the Jacobean change of the monarch to JAMES and the added Royal-Family petition (Queen Anne, Prince Henry); the feminine->masculine pronouns (her->his) follow from the male sovereign. Confirm against a 1604 page scan. -->
+
 ## The Prayers
 
 **The Versycle.** O Lorde deale not with us after our synnes.
