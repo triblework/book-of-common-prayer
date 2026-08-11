@@ -1,13 +1,15 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
-# The Epiphany
+# The Epiphany, or the Manifestation of
 
 ## The Collect
 
-O God, who by the leading of a star didst manifest thy only-begotten Son to the Gentiles: Mercifully grant, that we, which know thee now by faith, may after this life have the fruition of thy glorious Godhead; through Jesus Christ our Lord.
+O GOD, who by the leading of a star didst manifest thy only-begotten Son to the Gentiles; Mercifully grant that we, who know thee now by faith, may after this life have the fruition of thy glorious Godhead; through* Jesus Christ our Lord.
 Amen.
 
-> January 6
+> This Collect to be said daily throughout the Octave.
+
+> The same Collect, Epistle, and Gospel shall serve for every day after, unto the next Sunday.
+
+> The same Epistle and Gospel shall serve unto the next Sunday.
 
 ## The Epistle
 
