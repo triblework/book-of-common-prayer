@@ -2,15 +2,20 @@
 
 ## The Collect
 
-MERCYFULL
+MERCYFULL.
+Amen.
 
-Lorde, we beseche thee to caste thy bryght beames of lyght upon thy
+Lorde, we beseche thee to caste thy bryght beames of lyght upon thy.
+Amen.
 
-Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle
+Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle.
+Amen.
 
-and Euangelyste John may attayne to thy euerlastyng gyftes; Through
+and Euangelyste John may attayne to thy euerlastyng gyftes; Through.
+Amen.
 
 Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

@@ -4,17 +4,23 @@
 
 ## The Collect
 
-ALMIGHTYE and
+ALMIGHTYE and.
+Amen.
 
-everlastyng God, whiche hatest nothyng that thou haste made, and doest
+everlastyng God, whiche hatest nothyng that thou haste made, and doest.
+Amen.
 
-forgeve the sins of all them that be penitente; Creat and make in
+forgeve the sins of all them that be penitente; Creat and make in.
+Amen.
 
-us newe and contrite heartes, that wee worthely lamentyng oure sins,
+us newe and contrite heartes, that wee worthely lamentyng oure sins,.
+Amen.
 
-and knowlegyng our wretchednes, maye obtaine of thee, the God of all
+and knowlegyng our wretchednes, maye obtaine of thee, the God of all.
+Amen.
 
 mercye, perfect remission and forgevenes; thorough Jesus Christ.
+Amen.
 
 ## The Epistle
 

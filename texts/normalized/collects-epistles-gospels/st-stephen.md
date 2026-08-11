@@ -2,15 +2,20 @@
 
 ## The Collect
 
-GRAUNTE
+GRAUNTE.
+Amen.
 
-us, O Lorde, to learne to love oure enemies, by the example of thy marter
+us, O Lorde, to learne to love oure enemies, by the example of thy marter.
+Amen.
 
-saincte Stephin, who prayed to thee for hys persecutors; whiche liuest
+saincte Stephin, who prayed to thee for hys persecutors; whiche liuest.
+Amen.
 
 and reignest, &c.
+Amen.
 
 continually unto newe years daye]*.
+Amen.
 
 > Then shall folowe a Collect of the Nativitie [which shalbe said
 

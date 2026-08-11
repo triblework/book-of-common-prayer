@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMIGHTIE
+ALMIGHTIE.
+Amen.
 
-god, we beseche thee graciously to behold this thy famely, for the which
+god, we beseche thee graciously to behold this thy famely, for the which.
+Amen.
 
-our lord Jesus Christ was contented to bee betrayed, and geven up into
+our lord Jesus Christ was contented to bee betrayed, and geven up into.
+Amen.
 
-the handes of wicked men, and to suffre death upon the crosse: who liveth
+the handes of wicked men, and to suffre death upon the crosse: who liveth.
+Amen.
 
 and reigneth, &c.
+Amen.
 
 > After the ii Collectes at the Communion shalbe sayd these ii Collectes
 

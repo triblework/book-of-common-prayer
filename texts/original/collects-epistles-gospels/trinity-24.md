@@ -2,15 +2,20 @@
 
 ## The Collect
 
-LORD we beseche
+LORD we beseche.
+Amen.
 
-thee, assoyle thy people from their
+thee, assoyle thy people from their.
+Amen.
 
-offences, that through thy bountiful goodnes we maye bee delyvered from
+offences, that through thy bountiful goodnes we maye bee delyvered from.
+Amen.
 
-the handes of all those synnes, whiche by our frayltye we have committed
+the handes of all those synnes, whiche by our frayltye we have committed.
+Amen.
 
 : Graunt this, &c.
+Amen.
 
 ## The Epistle
 

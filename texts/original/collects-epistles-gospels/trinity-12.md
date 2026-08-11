@@ -2,17 +2,23 @@
 
 ## The Collect
 
-ALMIGHTIE and
+ALMIGHTIE and.
+Amen.
 
-everlastyng God, which art alwayes more ready to heare then we to praye,
+everlastyng God, which art alwayes more ready to heare then we to praye,.
+Amen.
 
-and art wont to geve more than eyther we desyre or deserve; Powre downe
+and art wont to geve more than eyther we desyre or deserve; Powre downe.
+Amen.
 
-upon us the aboundance of thy mercy; forgeving us those thynges wherof
+upon us the aboundance of thy mercy; forgeving us those thynges wherof.
+Amen.
 
-our conscience is afrayde, and gevyng unto us that that our prayer dare
+our conscience is afrayde, and gevyng unto us that that our prayer dare.
+Amen.
 
 not presume to aske, through Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

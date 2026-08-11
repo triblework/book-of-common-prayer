@@ -1,18 +1,15 @@
 # The Order how the Psalter is appointed to be read
 
-THE Psalter shalbe readde through once every Moneth.
-And because that some Monethes be longer than some other be, it is thought good to make them even by thys meanes.
+THE Psalter shalbe readde through, ones every moneth, and because that some Monethes bee longer then some other be; It is thought good, to make them even by this meanes.
 
-To everye Moneth shalbe appoynted (as concernynge thys purpose) just xxx dayes.
+To every moneth shalbe appointed (as concerning this purpose) just xxx dayes.
 
-And because January and Marche hath one daie above the sayed numbre, and February whiche is placed betwene them bothe hath only xxviii days: February shal borowe of either of the Monethes (of January and Marche) one daye.
-And so the Psalter which shalbe readde in February, muste begyn the last daye of January, and ende the first daye of Marche.
+And because January and Marche hathe one daye above the sayed nomber, and February, which is placed betwene them bothe, hath only xxviii dayes, February shall borow of either of the monethes (of January and Marche) one day, and so the Psalter, which shalbe redde in February, must begin the last daie of January, and ende the first daie of Marche.
 
-And where as May, July, August, October and December, have xxxi days a piece, it is ordered that the same Psalms shalbe read the laste daye of the sayed Monethes, whiche were reade the daye before.
-So that the Psalter may begyn agayn the fyrst day of the nexte Monethes ensuynge.
+And where as May, July, August, October and December, hath xxxi dayes a pece, it is ordred that the same Psalmes shalbe redde the haste day of the sayed Monethes, which were redde the daye before, so that the Psalter may beginne again the first daie of the next Monethe ensuyng.
 
-Nowe to know whate Psalms shalbe read everye daye, loke in the Kalendar, the numbre that is appointed for the Psalmes, and then finde the same numbre in thys table, and upon that numbre shal you see, what Psalmes shalbe sayed at Mornyng and Evenyng prayer.
+Now to knowe what Psalmes shalbe redde every daie, looke in the Kalender, the nomber that is appointed for the Psalmes, and then fynde thesame nomber in this Table, and upon that nomber shall you see, what Psalmes shalbe said at Morning and Evening prayer.
 
-And where the cxix Psalme is divided into xxii porcions, and is overlonge to be read at one tyme: it is so ordered, that at one tyme shall not be read above foure or fyve of the sayed porcions, as you shall perceyve to be noted in thys Table folowyng.
+And where the cxix Psalme, is devided into xxii porcions, and is overlong to be redde at one time: it is so ordred, that, at one time, shal not be readde above foure or fyve of the said porcions, as you shall perceive to be noted in this Table folowyng.
 
-And here is also to be noted, that in thys table, and in all other partes of the Servyce, where anye Psalmes are appoynted, the numbre is expressed after the greate Englyshe Bible, which from the ix Psalme unto the cxlviiithe Psalm (folowyng the division of the Hebrues) doth varie in numbres from the common Latyn translacion.
+And here is also to be noted, that in this Table, and in all other partes of the service, where any Psalmes are appoyncted, the nombre is expressed after the greate Englyshe Bible, whiche from the ix Psalme, unto the cxlviii Psalme (folowing the devision of the Hebrues) doth vary in nombres from the common Latine translacion.

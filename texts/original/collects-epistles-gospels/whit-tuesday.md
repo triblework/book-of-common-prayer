@@ -3,6 +3,7 @@
 ## The Collect
 
 GOD, which &c., as upon witsonday.
+Amen.
 
 ## The Epistle
 

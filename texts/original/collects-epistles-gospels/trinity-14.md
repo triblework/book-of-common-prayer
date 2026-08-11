@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMIGHTYE
+ALMIGHTYE.
+Amen.
 
-and everlastyng God, geve unto us the increase of faythe, hope, and
+and everlastyng God, geve unto us the increase of faythe, hope, and.
+Amen.
 
-charitie; and that we may obteine that whiche thou doest promise; make
+charitie; and that we may obteine that whiche thou doest promise; make.
+Amen.
 
-us to love that whiche thou doest commaunde, through Jesus Christe our
+us to love that whiche thou doest commaunde, through Jesus Christe our.
+Amen.
 
 Lorde.
+Amen.
 
 ## The Epistle
 

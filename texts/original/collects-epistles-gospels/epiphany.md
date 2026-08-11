@@ -2,13 +2,17 @@
 
 ## The Collect
 
-OGOD, which by the leading of a starre diddest manifest thy onelye begotten
+OGOD, which by the leading of a starre diddest manifest thy onelye begotten.
+Amen.
 
-sonne to the Gentiles; Mercifully graunt, that we, which know thee now
+sonne to the Gentiles; Mercifully graunt, that we, which know thee now.
+Amen.
 
-by faith, may after this life have the fruicion of thy glorious Godhead;
+by faith, may after this life have the fruicion of thy glorious Godhead;.
+Amen.
 
 through Christe our Lorde.
+Amen.
 
 ## The Epistle
 

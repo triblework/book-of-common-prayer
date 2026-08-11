@@ -4,15 +4,20 @@
 
 ## The Collect
 
-GOD, whiche knoweste
+GOD, whiche knoweste.
+Amen.
 
-us to bee set in the middest of so many and great daungers, that for
+us to bee set in the middest of so many and great daungers, that for.
+Amen.
 
-mannes fraylnes we cannot alwayes stande uprightly; Graunt to us the
+mannes fraylnes we cannot alwayes stande uprightly; Graunt to us the.
+Amen.
 
-health of body and soule that al those thinges which we suffer for sinne,
+health of body and soule that al those thinges which we suffer for sinne,.
+Amen.
 
 by thy helpe we may wel passe and overcome; through Christ our lorde.
+Amen.
 
 ## The Epistle
 

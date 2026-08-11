@@ -3,30 +3,42 @@
 ## The Collect
 
 1549, 1552, and early printings of 1559.
+Amen.
 
-ALMYGHTIE God, whiche haste instructed
+ALMYGHTIE God, whiche haste instructed.
+Amen.
 
-thy holy Church with the heavenly doctrine of thy Evangelist Sainct
+thy holy Church with the heavenly doctrine of thy Evangelist Sainct. Amen.
 
-Marke: Geve us grace so to be established by thy holy Gospel, that
+Marke: Geve us grace so to be established by thy holy Gospel, that.
+Amen.
 
-we be not, lyke chyldren, caried away with every blast of vaine Doctrine;
+we be not, lyke chyldren, caried away with every blast of vaine Doctrine;.
+Amen.
 
 through Jesus Christ our Lorde.
+Amen.
 
-Introduced
+Introduced.
+Amen.
 
-in the late 1500's:
+in the late 1500's:.
+Amen.
 
-ALMYGHTIE
+ALMYGHTIE.
+Amen.
 
-God, whiche hast instructed thy holy Church with the heavenly doctrine
+God, whiche hast instructed thy holy Church with the heavenly doctrine.
+Amen.
 
-of thy Evangelist S. Marke: give us grace, that we be not like children,
+of thy Evangelist S. Marke: give us grace, that we be not like children,.
+Amen.
 
-carried away with every blast of vaine doctrine: but formely to be established
+carried away with every blast of vaine doctrine: but formely to be established.
+Amen.
 
 in the trueth of thy holy Gospel, through Jesus Christ our Lord.
+Amen.
 
 ## The Epistle
 
