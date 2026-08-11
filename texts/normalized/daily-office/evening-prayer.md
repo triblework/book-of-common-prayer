@@ -14,10 +14,9 @@ O Lord open thou our lippes.
 **Aunswere.** And our mouth shall show furth thy prayse.
 **Priest.** O God make spede to save us.
 **Aunswere.** Lord, make haste to helpe us.
-<!-- VERIFY: 'Lord, make haste to helpe us' — the justus 1559 EP page omits the initial 'O' (1552 Morning Prayer has 'O Lord, make haste'); the same omission is flagged at 1559 Morning Prayer; may be a transcription slip; confirm against a 1559 scan -->
-**Priest.** Glory be to the father, and to the sonne: and to the holy ghoste.
-As it was in the beginninge, is nowe, and ever shal be : world wythout ende.
-Amen.
+<!-- VERIFY: 'Lord, make haste to helpe us' — carried from 1559: the justus EP page omits the initial 'O' (1552 Morning Prayer has 'O Lord, make haste'); may be a transcription slip; confirm against a page scan -->
+**Priest.** Glory be to the father, and to the sonne, &c.
+As it was in the beginninge, &c.
 Praise ye the Lorde.
 
 ## The Psalms
@@ -37,7 +36,7 @@ Praise ye the Lorde.
 MY soul doeth magnifie the Lorde.
 And my spirit hath rejoysed in god my saviour.
 For he hath regarded the lowelines of his handmaiden.
-<!-- VERIFY: 'And my sprit ... the loweliries of his handmaiden' — the justus 1559 page prints OCR forms 'sprit' (spirit) and 'loweliries' (lowelines); rendered as the intended words here; confirm the 1559 spelling against a page scan -->
+<!-- VERIFY: 'And my sprit ... the loweliries of his handmaiden' — carried from 1559: the justus page prints OCR forms 'sprit' (spirit) and 'loweliries' (lowelines); rendered as the intended words here; confirm the spelling against a page scan -->
 For beholde from hencefurth al generacions shall call me blessed.
 For he that is mighty hath magnified me : and holy is his name.
 And his mercy is on them that feare him : throughout all generacions.
@@ -45,9 +44,8 @@ He hath showed strength with his arme; he hath scatered the proude in the imagin
 He hath put downe the mightye from theyr seate : and hath exalted the humble and meke.
 He hath filled the hungry with good thinges : and the ryche he hath sent empty away.
 He remembring his mercy, hath holpen his servaunte Israel as he promysed to our forefathers, Abraham and his sede for ever.
-Glory be to the Father, and to the sonne, and to the holy Ghoste.
-As it was in the beginninge, is nowe, and ever shalbe, world without ende.
-Amen.
+Glory be to the Father, and to the sonne, &c.
+As it was in the beginninge, &c.
 
 ## Cantate Domino
 
@@ -64,9 +62,8 @@ With trumpettes also and shawmes : O show your selfes joyful before the Lord the
 Let the Sea make a noyse, and all that therein is : the rounde world and they that dwell therin.
 Let the floudes clappe their handes, and let the hylles be joyful togyther before the Lord : for he is come to judge the earth.
 With righteousnes shal he judge the world : and the people with equitie.
-Glory be to the Father, and to the Sonne, and to the holy Ghoste.
-As it was in the beginninge, is nowe, and ever shalbe, world without ende.
-Amen.
+Glory be to the Father, and to the Sonne, &c.
+As it was in the beginninge, &c.
 
 ## The Second Lesson
 
@@ -79,9 +76,8 @@ LORDE, nowe lettest thou thy servaunt departe in peace : according to thy word.
 For myne eyes have sene : thy salvacion.
 Whiche thou haste prepared : before the face of all people;
 To be a lyght to lyghten the Gentiles : and to be the glorye of thy people Israell.
-Glorye be to the father, and to the sonne, and to the holy ghoste.
-As it was in the beginning, is nowe, and ever shall be, world withoute ende.
-Amen.
+Glorye be to the father, and to the sonne, &c.
+As it was in the beginning, &c.
 
 ## Deus Misereatur
 

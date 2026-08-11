@@ -48,22 +48,21 @@ Amen.
 
 ## The Suffrages
 
-**Priest.** O Lorde save this woman thy servaunt.
-<!-- VERIFY: source prints 'Priest'; footnote notes 'Minister' in 1604; confirm against a page scan -->
+**Minister.** O Lorde save this woman thy servaunt.
 
 **Aunswere.** Whiche putteth her trust in the.
 
-**Priest.** Be thou to her a strong Towre.
+**Minister.** Be thou to her a strong Towre.
 
 **Aunswere.** From the face of her enemy.
 
-**Priest.** Lorde heare our praier.
+**Minister.** Lorde heare our praier.
 
 **Aunswere.** And let our crie come unto the.
 
 ## The Prayer
 
-**Priest.**
+**Minister.**
 
 > Let us praie.
 

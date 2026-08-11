@@ -58,18 +58,20 @@ Wherefore the Lorde blessed the seventh daye and halowed it.
 
 ## The Collects
 
-> Then shall folowe the Collect of the day with one of these two Collectes folawyng for the Quene, the Priest standyng up and saying.
+> Then shall folowe the Collect of the day with one of these two Collectes folawyng for the King, the Priest standyng up and saying.
 
 > Let us praye.
 
 > Priest.
 
-## The Collect for the Queen
+## The Collect for the King
 
-ALMIGHTY God, whose kyngdom is everlasting, and power infinite, have mercy upon the whole congregacion, and so rule the heart of thy chose servant Elizabeth our Quene and governoure that she (knowing whose minister she is) may above all thinges, seke thy honoure and glorye: and that we her subjectes, (duly considering whose aucthority she hath) may faithfully serve, honour, and humblye obey her in the and for the, according to thy blessed worde, and ordinance, through Jesus Christ our Lord, who with the and the holye ghost, lyveth and reygneth ever one God, worlde without ende.
+<!-- VERIFY: 1604 Holy Communion is derived from the 1559 text via the justus apparatus, which documents the Jacobean change of the sovereign to 'JAMES our King and governoure' (with the feminine->masculine pronouns following from the male King); no separate 1604 Communion page survives on justus; confirm the exact 1604 readings against a page scan -->
+
+ALMIGHTY God, whose kyngdom is everlasting, and power infinite, have mercy upon the whole congregacion, and so rule the heart of thy chose servant JAMES our King and governoure that he (knowing whose minister he is) may above all thinges, seke thy honoure and glorye: and that we his subjectes, (duly considering whose aucthority he hath) may faithfully serve, honour, and humblye obey him in the and for the, according to thy blessed worde, and ordinance, through Jesus Christ our Lord, who with the and the holye ghost, lyveth and reygneth ever one God, worlde without ende.
 Amen.
 
-ALMIGHTY and everlastinge God, we be taughte by thy holy word, that the hartes of Princes are in thy rule and governauce, and that thou doest dispose, and turne them as it semeth best to thy Godly wysedome: we humbly beseche thee, so to dispose and governe the harte of Elizabeth, thy servaunte, our Quene and governour, that in all her thoughtes, wordes, and workes she may ever seke thy honoure and glorye, and studye to preserve thy people committed to her charge, in welth, peace and godlynes.
+ALMIGHTY and everlastinge God, we be taughte by thy holy word, that the hartes of Princes are in thy rule and governauce, and that thou doest dispose, and turne them as it semeth best to thy Godly wysedome: we humbly beseche thee, so to dispose and governe the harte of JAMES, thy servaunte, our King and governour, that in all his thoughtes, wordes, and workes he may ever seke thy honoure and glorye, and studye to preserve thy people committed to his charge, in welth, peace and godlynes.
 Graunt this O merciful father, for thy deare sonnes sake Jesus Christ our Lorde.
 Amen.
 
@@ -172,7 +174,7 @@ Psal. lxi.
 Let us pray for the whole estate of Christes Churche militant here in earth.
 
 ALMIGHTYE and everliving God, whych by thy holye Apostle hast taughte us to make prayers and supplicacyons, and to geve thanckes for all men: We humbly beseche thee moste mercifully (to accepte our almose) and to receyve these our prayers whyche of we offer unto thy divine majestie, beseechyng the to inspire continually, the universal Churche wyth the spiryte of truthe, unitye, and concorde: And graunt that all they that do confesse thy holy name, may agree in the truthe of thy holy woorde, and lyve in unytye and godlye love.
-We beseche thee also to save and defend alle Christyane Kynges, Prynces, and Governours, and specially thy servaunt, Elyzabeth our Quene that under her we may be godly and quietly governed: and graunt unto her whole Counsaill, and to all that be put in aucthoritye under her, that they may truely and indifferently minister justice, to the punishement of wyckednes and vice, and to the maintenaunce of goddes true religion and vertue.
+We beseche thee also to save and defend alle Christyane Kynges, Prynces, and Governours, and specially thy servaunt, JAMES our King that under him we may be godly and quietly governed: and graunt unto his whole Counsaill, and to all that be put in aucthoritye under him, that they may truely and indifferently minister justice, to the punishement of wyckednes and vice, and to the maintenaunce of goddes true religion and vertue.
 Give grace (O heavenly Father) to al Bishopes, Pastours and Curates, that they may bothe by theyr life and doctrine set furth thy true and lively worde and rightely and duely administer thy holy Sacramentes: and to all thy people gyve thy heavenlye grace, and especially to thys congregacion heare present, that with meke harte and due reverence, they may heare and receive thy holy worde, truely servyng the in holines and ryghtuousnes all the dayes of theyr lyfe.
 And we moost humbly beseche the of thy goodnes (O Lord) to comfort and succoure all theym whyche in thys transitory lyfe bee in trouble, Sorowe, nede, sicknes, or any other adversity.
 Graunt this, O father, for Jesus Christes sake our onely Mediatour and advocate.
