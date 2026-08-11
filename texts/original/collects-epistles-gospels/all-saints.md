@@ -1,29 +1,16 @@
-# All Saynctes
+# All Saints day
 
 ## The Collect
 
-ALMIGHTIE God,.
+ALmighty God, which hast knit together thy elect in one Communion and fellowship in the mysticall body of thy Sonne Jesus Christ our Lord: grant us grace so to follow thy holy Saints in all vertuous and godly living, that wee may come to those unspeakeable joyes, which thou hast prepared for all them that unfainedly love thee, through Jesus Christ our Lord.
 Amen.
 
-whiche haste knitte together thy electe in one Communion and felowship,.
-Amen.
-
-in the misticall body of thy sonne Christe our Lord; graunt us grace.
-Amen.
-
-so to folow thy holy Saynctes in all virtues*, and godly livyng, that.
-Amen.
-
-we maye come to those inspeakeable joyes, whiche thou hast prepared.
-Amen.
-
-for all them that unfaynedly love thee; through Jesus Christe.
-Amen.
+Nov. 1
 
 ## The Epistle
 
-Revelation 7
+Revelation 7:2
 
 ## The Gospel
 
-Matthew 5
+Matthew 5:1

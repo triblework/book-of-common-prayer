@@ -1,9 +1,9 @@
-# Monday before Easter
+# Munday before Easter
 
 ## The Epistle
 
-Isaiah 63
+Isaiah 63:1
 
 ## The Gospel
 
-Mark 14
+Mark 14:1

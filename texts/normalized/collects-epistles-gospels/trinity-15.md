@@ -1,23 +1,14 @@
-# The xv Sonday
+# The xv. Sunday after Trinity
 
 ## The Collect
 
-KEPE we beseche thee, O Lorde, thy Church with thy perpetuall mercye: and.
-Amen.
-
-because the frailtie of man without thee, cannot but fall: Kepe us ever.
-Amen.
-
-by thy helpe, and leade us to al thynges profitable to our salvacion;.
-Amen.
-
-through Jesus Christe our Lorde.
+KEep we beseech thee, O Lord, thy Church, with thy perpetuall mercy: And because the frailty of man without thee, cannot but fall, keep us ever by thy help, and lead us to all things profitable to our salvation, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Galatians 6
+Galatians 6:11
 
 ## The Gospel
 
-Matthew 6
+Matthew 6:24

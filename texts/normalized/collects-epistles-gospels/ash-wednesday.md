@@ -1,31 +1,16 @@
-# The fyrst day of Lent[, commonly called
-
-<!-- VERIFY: 'The fyrst day of Lent[, commonly called' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# called Ashwednesday
 
 ## The Collect
 
-ALMIGHTYE and.
-Amen.
-
-everlastyng God, whiche hatest nothyng that thou haste made, and doest.
-Amen.
-
-forgeve the sins of all them that be penitente; Creat and make in.
-Amen.
-
-us newe and contrite heartes, that wee worthely lamentyng oure sins,.
-Amen.
-
-and knowlegyng our wretchednes, maye obtaine of thee, the God of all.
-Amen.
-
-mercye, perfect remission and forgevenes; thorough Jesus Christ.
+ALmighty and everlasting God, whiche hatest nothing that thou hast made, and doest forgive the sins of all them that be penitent: create and make in us new and contrite hearts, that wee worthily lamenting our sins, and acknowleging our wretchednesse, may obtain of thee, the God of all mercy, perfect remission and forgivenesse; thorough Jesus Christ.
 Amen.
 
 ## The Epistle
 
-Joel 2
+Joel 2:12
 
 ## The Gospel
 
-Matthew 6
+> From Ashwednesday to the first Sunday in Lent shall be used the same Collect, Epistle, and Gospel which were used on Ashwednesday.
+
+Matthew 6:16
