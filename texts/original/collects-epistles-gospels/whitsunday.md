@@ -1,5 +1,7 @@
 # Whitsunday
 
+<!-- VERIFY: 'Whitsunday' — WHITSUNTIDE. Pentecost, commonly called Whitsunday. in 1928 — and "Rubric and Readings for a second service added in 1928"; the second service's readings are not separately printed on the page, so they are not represented here. -->
+
 ## The Collect
 
 O GOD, who as at this time didst teach the hearts of thy faithful people, by sending* to them the light of thy Holy Spirit; Grant us by the same Spirit to have a right judgment in all things, and evermore to rejoice in his holy comfort; through the merits of Christ Jesus our Saviour, who liveth and reigneth with thee, in the unity of the same Spirit, one God, world without end.

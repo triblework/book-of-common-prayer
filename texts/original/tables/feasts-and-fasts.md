@@ -1,18 +1,16 @@
 # Tables and Rules for the Feasts and Fasts
 
-Tables and Rules for tbe Movable and Immovable Feasts,
+Tables and Rules for the Movable and Immovable Feasts,
 
-TOGETHER WITH THE DAYS OF FASTING AND ABSTINENCE, THROUGH THE WHOLE YEAR.
+Together with the Days of Fasting and Abstinence, through the Whole Year.
 
-RULES
+RULES TO KNOW WHEN THE MOVABLE FEASTS AND HOLY DAYS BEGIN.
 
-TO KNOW WHEN THE MOVABLE FEASTS AND HOLY-DAYS BEGIN.
+EASTER DAY, on which the rest depend, is always the First Sunday after the Full Moon, which happens upon or next after the Twenty-first Day of March; and if the Full Moon happen upon a Sunday, Easter Day is the Sunday after.
 
-EASTER.DAY, on which the rest depend, is always the First Sunday after the Full Moon, which happens upon or next after the Twenty-first Day of March; and if the Full Moon happen upon a Sunday, Easter-day is the Sunday after.
+But NOTE, That the Full Moon, for the purposes of these Rules and Tables, is the Fourteenth Day of a Lunar Month, reckoned according to an ancient Ecclesiastical computation, and not the real or Astronomical Full Moon.
 
-But Note, That the Full Moon, for the purposes of these Rules and Tables, is the Fourteenth Day of a Lunar Month, reckoned according to an ancient Ecclesiastical computation, and not the real or Astronomical Full Moon.
-
-Advent-Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
+Advent Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
 
 Septuagesima Sunday is Nine Weeks before Easter.
 
@@ -22,96 +20,171 @@ Quinquagesima Sunday is Seven Weeks before Easter.
 
 Quadragesima Sunday is Six Weeks before Easter.
 
-Rogation-Sunday is Five Weeks after Easter.
+Rogation Sunday is Five Weeks after Easter.
 
-Ascension-day is Forty Days after Easter.
+Ascension Day is Forty Days after Easter.
 
 Whitsunday is Seven Weeks after Easter.
 
-Trinity-Sunday is Eight Weeks after Easter.
+Trinity Sunday is Eight Weeks after Easter.
 
 A TABLE OF FEASTS,
 
 TO BE OBSERVED IN THIS CHURCH THROUGHOUT THE YEAR.
 
-All Sundays in the Year.
+All Sundays in the Year
 
-The Circumcision of our Lord JESUS CHRIST.
+The Circumcision of our Lord JESUS CHRIST
 
-The Epiphany.
+The Epiphany
 
-The Conversion of St. Paul.
+The Conversion of St. Paul
 
-The Purification of the Blessed Virgin.
+The Purification of the Blessed Virgin
 
-St. Matthias the Apostle.
+St. Matthias the Apostle
 
-The Annunciation of the Blessed Virgin.
+The Annunciation of the Blessed Virgin
 
-St. Mark the Evangelist.
+St. Mark the Evangelist
 
-St. Philip and St. James the Apostles.
+St. Philip and St. James, Apostles
 
-The Ascension of our Lord JESUS CHRIST.
+The Ascension of our Lord JESUS CHRIST
 
-St. Barnabas the Apostle.
+St. Barnabas the Apostle
 
-The Nativity of St. John Baptist.
+The Nativity of St. John Baptist
 
-St. Peter the Apostle.
+St. Peter the Apostle
 
-St. James the Apostle.
+St. James the Apostle
 
-The Transfiguration of our Lord JESUS CHRIST.
+The Transfiguration of our Lord JESUS CHRIST
 
-St. Bartholomew the Apostle.
+St. Bartholomew the Apostle
 
-St. Matthew the Apostle.
+St. Matthew, Apostle and Evangelist
 
-St. Michael and all Angels.
+St. Michael and all Angels
 
-St. Luke the Evangelist.
+St. Luke the Evangelist
 
-St. Simon & St. Jude the Apostles.
+St. Simon and St. Jude, Apostles
 
-All Saints.
+All Saints
 
-St. Andrew the Apostle.
+St. Andrew the Apostle
 
-St. Thomas the Apostle.
+St. Thomas the Apostle
 
-The Nativity of our Lord JESUS CHRIST.
+The Nativity of our Lord JESUS CHRIST
 
-St. Stephen the Martyr.
+St. Stephen, Deacon and Martyr
 
-St. John the Evangelist.
+St. John, Apostle and Evangelist
 
-The Holy Innocents.
+The Holy Innocents
 
-Monday and Tuesday In Easter week.
+Monday and Tuesday in Easter Week
 
-Monday and Tuesday in Whitsun week.
+Monday and Tuesday in Whitsun Week
 
 A TABLE OF FASTS.
 
-Ash-Wednesday.
+Ash Wednesday
 
-Good Friday.
+Good Friday
 
-OTHER DAYS OF FASTING,
-
-ON WHICH THE CHURCH REQUIRES SUCH A MEASURE OF ABSTINENCE AS IS MORE ESPECIALLY SUITED TO EXTRAORDINARY ACTS AND EXERCISES OF DEVOTION.
+OTHER DAYS OF FASTING, ON WHICH THE CHURCH REQUIRES SUCH A MEASURE OF ABSTINENCE AS IS MORE ESPECIALLY SUITED TO EXTRAORDINARY ACTS AND EXERCISES OF DEVOTION.
 
 I.
 The Forty Days of Lent.
 
 II.
-The Ember-days at the Four Seasons, being the Wednesday, Friday, and Saturday after The First Sunday in Lent, The Feast of Pentecost, September 14, and December 18.
+The Ember Days at the Four Seasons, being the Wednesday, Friday, and Saturday after the First Sunday in Lent, the Feast of Pentecost, September 14, and December 13.
 
 III.
-The three Rogation-days, being the Monday, Tuesday and Wednesday before Holy Thursday, or the Ascension of our Lord.
+All the Fridays in the Year, except Christmas Day, and The Epiphany, or any Friday which may intervene between these Feasts.
 
-IV.
-All the Fridays in the Year, except Christmas-day.
+DAYS OF SOLEMN SUPPLICATION.
 
-In addition to the above, the first Thursday in November (or, if any other day be appointed by the Civil Authorlty, then such day) shall be observed as a Day of Thanksgiving to Almighty God for the Fruits of the Earth, and all other Blessings of his merciful Providence.
+The three Rogation Days, being the Monday, Tuesday, and Wednesday before Holy Thursday, or the Ascension of our Lord.
+
+TABLES OF PRECEDENCE.
+
+The Holy Days following have precedence of any other Sunday or Holy Day:
+
+The Sundays in Advent
+
+Christmas Day
+
+The Epiphany
+
+Septuagesima Sunday
+
+Sexagesima Sunday
+
+Quinquagesima Sunday
+
+Ash Wednesday
+
+The Sundays in Lent
+
+All the days of Holy Week
+
+Easter Day; and the seven following days
+
+Rogation Sunday
+
+The Ascension Day; and the Sunday after Ascension Day
+
+Whitsunday; and the six following days
+
+Trinity Sunday
+
+If any other Holy Day fall on any day noted in the preceding Table, the observance of such Holy Day shall be transferred to the first convenient open day.
+
+The following Holy Days have precedence of days not noted in the foregoing Table:
+
+St. Stephen, Deacon and Martyr
+
+St. John, Apostle and Evangelist
+
+The Holy Innocents
+
+The Circumcision of Christ
+
+The Conversion of St. Paul
+
+The Purification of St. Mary the Virgin
+
+St. John Baptist
+
+All Feasts of Apostles or Evangelists
+
+The Transfiguration of Christ
+
+St. Michael and all Angels
+
+All Saints
+
+On these Holy Days the Collect, Epistle, and Gospel for the Feast shall be used; but on Sundays the Collect for the Feast shall be followed by the Collect for the Sunday.
+
+A TABLE
+
+OF THOSE DAYS OR OCCASIONS FOR WHICH COLLECT, EPISTLE, GOSPEL ARE PROVIDED IN THIS BOOK AND WHICH, NOT BEING FIXED DAYS, DO NOT APPEAR IN THE CALENDAR.
+
+The Ember Days
+
+The Rogation Days
+
+Thanksgiving Day
+
+A Saint’s Day
+
+Feast of the Dedication of a Church
+
+The Solemnization of Matrimony
+
+The Burial of the Dead
