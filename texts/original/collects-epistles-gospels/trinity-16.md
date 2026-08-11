@@ -1,20 +1,14 @@
-# The xvi Sonday
+# The xvj. Sunday after Trinity
 
 ## The Collect
 
-LORD, we beseche thee, let thy continual pitie clense and defende thy congregacion;.
-Amen.
-
-and, because it cannot continue in safetie without thy succoure, preserve.
-Amen.
-
-it evermore by thy helpe and goodnes; through Jesus Christ our Lorde.
+LORD wee beseech thee, let thy continuall pitie cleanse and defend thy Church: and because it cannot continue in safetie without thy succour, preserve it evermore by thy help and goodnesse, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 3
+Ephesians 3:13
 
 ## The Gospel
 
-Luke 7
+Luke 7:11

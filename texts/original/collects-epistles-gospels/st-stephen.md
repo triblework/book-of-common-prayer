@@ -1,28 +1,13 @@
-# St. Stephin's Day
+# Saint Stevens day
 
 ## The Collect
 
-GRAUNTE.
-Amen.
-
-us, O Lorde, to learne to loue oure enemies, by the example of thy marter.
-Amen.
-
-saincte Stephin, who prayed to thee for hys persecutors; whiche liuest.
-Amen.
-
-and reignest, &c.
-Amen.
-
-continually unto newe years daye]*.
-Amen.
-
-> Then shall folowe a Collect of the Nativitie [which shalbe sayd
+GRant us, O LORD, to learn to love our enemies, by the example of thy Martyr Saint Steven, who prayed for his persecutours, to thee which livest and reignest, &c.
 
 ## The Epistle
 
-Acts 7
+Acts 7:55
 
 ## The Gospel
 
-Matthew 23
+Matthew 23:34

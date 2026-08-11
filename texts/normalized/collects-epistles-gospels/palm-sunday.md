@@ -1,32 +1,14 @@
-# The Sonday next before Easter
+# Sunday next before Easter
 
 ## The Collect
 
-ALMIGHTY and.
-Amen.
-
-everlastynge God, whiche of thy tender love towarde man, haste sente.
-Amen.
-
-our savior Jesus Christ, to take upon him oure fleshe, and to suffre.
-Amen.
-
-death upon the crosse, that all mankynde shoulde folowe the example.
-Amen.
-
-of his greate humilitie; mercifully graunte that we both folowe the.
-Amen.
-
-example of his pacience, and be made partakers of his resurreccion;.
-Amen.
-
-thoroughe the same Jesus Christ our lorde.
+ALmighty and everlasting God, which of thy tender love towards man, hast sent our Saviour Jesus Christ, to take upon him our flesh, and to suffer death upon the Crosse, that all mankind should follow the example of his greate humility: mercifully grant that wee both follow the example of his patience, and be made partakers of his resurrection; thorough the same Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Philippians 2
+Philippians 2:5
 
 ## The Gospel
 
-Matthew 26 and 27
+Matthew 26:1

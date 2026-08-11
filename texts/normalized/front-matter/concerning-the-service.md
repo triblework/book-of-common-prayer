@@ -1,33 +1,31 @@
 # The Preface
 
-THERE was never anye thynge by the wytte of man so wel devised, or so sure established, whiche (in continuance of tyme) hath not been corrupted: as (emong other thynges) it may playnlye appeare by the common prayers in the Church commonlye called divine servyce: the firste originall and grounde whereof yf a manne woulde searche out by auncient fathers, he shall fynde that the same was not ordayned but of a good purpose, and for a great advancemente of godlynesse.
-For they so ordered the matter, that all the whole Bible (or the greatest part thereof) shoulde be readde over once in the yeare entendynge thereby, that the clergie and speciallye suche as were ministers of the congregacion, should (by often readynge and meditacion of Godde's woorde) be stirred up to godlynesse themselves, and be more able also to exhorte other by whole some doctrine, and to confute them that were adversaries to the trueth.
-And further, that the people (by daily hearynge of holye scripture read in the Church) should continuallye profyte more and more in the knowledge of God, and be the more in flamed with the love of hys true religion.
-But these manye yeres passed, this godly and decent order of the auncient fathers hath been so altered, broken, and neglected, by plantinge in uncertayn Stories, Legendes, Respondes, Verses, vayne repeticions, Commemoracions, and Sinodalles, that commonlye when anye boke of the Bible was begonne, before three or foure Chapters were read out, al the rest were unread.
-And in thys sorte the boke of Esay [Isaiah] was begonne in Advent, and the boke of Genesis in Septuagesima: but they were only begonne, and never read through.
-After a lyke sorte were other bokes of holy scripture used.
-And moreover, where as Sainct Paule woulde have such language spoken to the people in the Church, as thei might understande, and have profite by hearing the same; the service in this Church of Englande (these manye yeres) hath been read in Latyn to the people, whiche they understode not: so that they have heard with their eares only; and their heartes, spirit, and mynde, have not been edified thereby.
-And furthermore, notwithstandynge that the auncient fathers have divided the Psalmes into seven porcions, whereof everye one was called a Nocturne; nowe of late tyme, a fewe of them have been daily said (and ofte repeated) and the rest utterlye omitted.
-Moreover, the numbre and hardnesse of the rules, called the Pie, and the manyfolde chaungynges of the servyce, was the cause, that to tourne the boke only was so harde and intricate a matter, that manye tymes there was more busynesse to fynde out what shoulde be read, then to reade it when it was founde out.
+THE Church of Christ hath in all ages had a prescript forme of Common prayer, or Divine service, as appeareth by the ancient Liturgies of the Greeke and Latine Churches.
+This was done, as for other great causes, so likewise for retaining an uniformitie in God’s worship : a thing most beseeming them that are of one and the same profession.
+For by the forme that is kept in the outward worship of God, men commonly judge of Religion.
+If in that there be a diversitie, straight they are apt to conceive the Religion to bee diverse.
+Wherefore it were to be wished, that the whole Church of Christ were one as well in forme of public worship, as in doctrine : And that as it hath but one Lord and one Faith, so it had but one heart and one mouth.
+This would prevent many schisms and divisions, and serve much to the preserving of unitie.
+But since that cannot be hoped for in the whole Catholic Christian Church, yet at least in the Churches that are under the protection of one Soveraigne Prince the same ought to be endeavoured.
 
-These inconveniences therefore consydered, here is set furthe suche an order, whereby the same shalbe redressed.
-And for a redynesse in thys matter, here is drawen out a kalendar for that purpose, whiche is playne and easye to be understanden: wherin (so muche as may be) the readynge of holye scriptures is so set furthe, that all thynges shalbe doen in order, without breakynge one pyece thereof from another.
-For thys cause be cut of Anthemes, Respondes, Invitatories, and suche lyke thynges, as dyd breake the continuall course of the readynge of the scripture.
-Yet because there is no remedye, but that of necessitie there must be some rules, therefore certayn rules are here sette furth, whiche as they be fewe in numbre, so they be playn and easie to be understanden.
-So that here you have an order for prayer (as touchynge the readynge of holye scripture) muche agreable to the mynde and purpose of thold fathers, and a great deale more profitable and commodious, then that which of late was used.
-It is more profitable, because here are lefte out manye thynges, where of some be untrue, some uncertayn, some vayne and supersticious, and is ordeined nothynge to be read, but the very pure word of God, the holye scriptures, or that which is evidentlye grounded upon the same, and that in such a language and order, as is most easy and playne for the understandynge bothe of the readers and hearers.
-It is also more commodious, bothe for the shortness thereof, and for the playnnesse of the order, and for that the rules be fewe and easye.
-Furthermore, by thys order, the curates shall nede none other bokes for their publyke service, but thys boke, and the Bible: By the meanse whereof, the people shall not be at so greate charge for bokes, as in tyme paste they have been.
+It was not the least part of our late Soveraigne King JAMES of blessed memory his care, to work this uniformitie in all his Dominions : but while he was about to do it, it pleased God to translate him to a better kingdome.
+His MAJESTY that now raigneth (and long may He raigne over us in all happinesse) not suffering his Fathers good purpose to fall to thin ground, but treading the same path, with the like zeale and pious affection, gave order soon after his coming to the Crown, for the framing of a book of Common prayer, like unto that which is received in the Churches of England and Ireland, for the use of this Church.
+After many lets [=obstacles] and hindrances, the same cometh now to be published, to the good, we trust, of all God’s people, and the increase of true pietie, and sincere devotion amongst them.
+<!-- VERIFY: 'to fall to thin ground' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan -->
 
-And where heretofore there hath been greate diversitie in sayeng and syngyng in Churches within this realme, some folowynge Salisbury use, some of Herford use, some the use of Bangor, some of Yorke, and some of Lincolne.
-Nowe from hence furthe, all the whole realme shall have but one use.
-And yf any woulde judge thys way more painful, because that all thynges muste be read upon the booke where as before by the reason of so often repeticion, they could say many thynges by heart; yf those men wyl weygh their laboure, with the profyte and knowledge, which daily they shal obtayne by readyng upon the boke, they wyl not refuse the payne, in consideracion of the great profite that shal ensue therof.
+But as there is nothing, how good and warrantable soever in it self, against which, some will not except: so it may be that exceptions will be taken against this good and most pious work, and perhaps none more pressed, than that we have followed the Service book of England.
+But we should desire them that shall take this exception, to consider, that being as we are by Gods mercy of one true profession, and otherwise united by many bonds, it had not been fitting to vary much from theirs, our especially coming forth after theirs, seeing the disturbers of the Church both here and there, should by our differences, if they had been great, taken occasion to worke more trouble.
+Therefore did wee think meet to adhere to their forme, even in the festivals, and some other rites, not as yet received, nor observed in our Church, rather then by omitting them, to give the Adversarie to think, that we disliked any part of their Service.
 
-And for asmuche as nothynge can almoste be so playnly set furthe, but doubtes may ryse in the use and practisynge of the same: To appease all suche diversitie (yf any aryse), and for the resolucion of all doubtes concemynge the maner howe to understande doe and execute the thynges conteyned in this boke: the partes that so doubt, or diversly take any thyng, shall alway resorte to the Byshoppe of the Diocesse, who by hys discrecion shall take order for the quietynge and appeasyng of the same: so that the same order be not contrarye to anye thynge conteyned in thys boke.
-And yf the Byshoppe of the Diocesse be in anye doubte, then maye he sende for the resolution thereof unto the Archebyshoppe.
+Our first Reformers were of the same minde with us, as appeareth by the ordinance they made, that in all the Parishes of this Realme, the Common prayer should he read weekly on Sundaies, and other Festivall dayes, with the Lessons of the old and new Testament, conforme to the order of the book of Common prayer, (meaning that of England ; for it is known that divers years after we had no other order for common prayer.)
+This is recorded to have been the first head concluded in a frequent Councell of the Lords and Barons professing Christ Jesus.
+We keep the words of the history; Religion was not then placed in rites and gestures, nor men taken with the fancy of extemporary prayers.
+Sure, the public worship of God in his Church, being the most solemne action of us his poor creatures here below, ought to be performed by a Liturgie advisedly set and framed, and not according to the sudden and various fancies of men.
+This shall suffice for the present to have said.
+The God of mercy confirm our hearts in his truth, and preserve us alike from profanenesss and superstition.
+Amen.
 
-Though it be appoynted in the afore wrytten Preface, that all thynges shalbe read and songe in the Church in the Englyshe tongue, to the ende that the congregacion maye be thereby edified: yet it is not ment, but when menne say Mornyng and Evenynge prayer privatly, they may saie the same in anye language that they themselves do understande.
+ALL Presbyters and Deacons shall be bound to say daily the Morning and Evening Prayer, either privately or openly, except they be let [prevented] by some urgent Cause.
+Of which Cause, if it be frequently pretended, they are to make the Bishop of the Diocese, or the Archbishop of the Province, the Judge and Allower.
 
-And all Priestes and Deacons shalbe bounde to say daily the Mornynge and Evenyng prayer, either privatly or openly, excepte they be letted by preaching, studeing of divinityie, or by some other urgent cause.
-
-And the Curate that ministreth in every Parish Church or Chapell, beyng at home, and not beyng otherwise reasonably letted [prevented], shall say the same in the Parishe Church or Chapell where he ministreth, and shall tolle a belle thereto, a convenient tyme before he begyn, that suche as be disposed maye come to heare Goddes word, and to praie with hym.
+And the curate that ministereth in every Parish-Church, or Chappel, being at Home and not being otherwise reasonably letted [prevented], shall say the same in the Parish- Church or Chappel where he ministereth, and shall toll a Bell thereto, a convenient Time before he begin, that such as be disposed, may come to hear God’s Word and to pray with him.

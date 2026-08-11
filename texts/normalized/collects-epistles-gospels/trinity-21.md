@@ -1,24 +1,14 @@
-# The xxi Sondaie
+# The xxj. Sunday after Trinity
 
 ## The Collect
 
-GRAUNT we beseche.
-Amen.
-
-thee, merciful Lord, to thy faithful people pardon and peace, that.
-Amen.
-
-they maye bee clensed from all.
-their sins, and serve thee with a. Amen.
-
-quiet mynde.
-Through Jesus Christ our Lorde.
+GRant we beseech thee, merciful Lord, to thy faithful people pardon and peace, that they may bee cleansed from all their sins, and serve thee with a quiet mind, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 6
+Ephesians 6:10
 
 ## The Gospel
 
-John 4
+John 4:46

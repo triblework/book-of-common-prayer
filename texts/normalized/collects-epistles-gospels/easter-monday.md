@@ -1,31 +1,13 @@
-# Monedaye in Easter weke
+# Munday in Easter week
 
 ## The Collect
 
-ALMIGHTYE.
-Amen.
-
-God, whiche through thy onelye begotten sonne Jesus Christe hast overcome.
-Amen.
-
-deathe, and opened unto us the gate of everlastyng lyfe; we humbly beseche.
-Amen.
-
-thee, that as by thy speciall grace, preventyng.
-Amen.
-
-us, thou doest putte in our myndes good desyres, so by thy continuall.
-Amen.
-
-helpe we may bryng the same to good effecte, through Jesus Christ our.
-Amen.
-
-lorde, who lyveth and reigneth, etc. Amen.
+ALmighty God, which through thy only begotten Son Jesus Christ, hast overcome death, and opened unto us the gate of everlasting life, we humbly beseech thee, that, as by thy speciall grace, preventing us, thou doest put in our mindes good desires, so by thy continuall help we may bring the same to good effect; through Jesus Christ our Lord who liveth, &c.
 
 ## The Epistle
 
-Acts 10
+Acts 10:34
 
 ## The Gospel
 
-Luke 24
+Luke 24:13

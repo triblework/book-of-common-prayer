@@ -1,28 +1,14 @@
-# The iiii Sonday[after the
-
-<!-- VERIFY: 'The iiii Sonday[after the' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The iiij. Sunday after the Epiphany
 
 ## The Collect
 
-GOD, whiche knoweste.
-Amen.
-
-us to bee set in the middest of so many and great daungers, that for.
-Amen.
-
-mannes fraylnes we cannot alwayes stande uprightly; Graunt to us the.
-Amen.
-
-health of body and soule that al those thinges which we suffer for sinne,.
-Amen.
-
-by thy helpe we may wel passe and overcome; through Christ our lorde.
+GOD which knowest us to bee set in the midst of so many and great dangers, that for mans frailnesse we cannot allwayes stand uprightly: grant to us the health of body and soule, that all those things which wee suffer for sinne, by thy help wee may well passe and overcome; through Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Romans 13
+Romans 13:1
 
 ## The Gospel
 
-Matthew 8
+Matthew 8:23

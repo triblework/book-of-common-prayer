@@ -1,26 +1,14 @@
-# The xx Sondaie
+# The xx. Sunday after Trinity
 
 ## The Collect
 
-ALMIGHTIE.
-Amen.
-
-and merciful God, of thy bountiful goodnes, kepe us from all thynges.
-Amen.
-
-that maye hurte us; that we, beyng ready bothe in body and soule, maye.
-Amen.
-
-with free heartes accomplishe those thynges that thou wouldest have.
-Amen.
-
-doen; Through Jesus Christ our Lorde.
+ALmighty and merciful God, of thy bountiful goodness keep us from all things that may hurt us: that we being ready both in body and soul, may with free hearts accomplish those things that thou wouldest have done, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 5
+Ephesians 5:15
 
 ## The Gospel
 
-Matthew 22
+Matthew 22:1

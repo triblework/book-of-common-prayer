@@ -1,108 +1,106 @@
-# Of them that be baptised in private houses, in tyme of necessitie.
-
-<!-- 1604 Private Baptism derived from the justus 1559 page, which prints the 1559 text with the 1604 readings interleaved (no separate 1604 book survives on justus). This is the Hampton-Court reform of private baptism: the office is restricted to a lawful Minister (the added subtitle, and "the said lawfull Minister" in the form); the doubt-rubric is expanded to the parish-minister certification; a fuller examination is added ("And because some things essentiall... I demand further of you"); the certificate reads "finde"/"bring"/"all is well done"; and the conditional rubric reads "such uncertaine answers". Sections not flagged as changed (Gospel, Exhortation, Vows, Thanksgiving, Final Exhortation) are the shared 1559/1604 text. -->
-
-> [By the lawful Minister of the Parish, or any other lawful Minister that can be procured.]
+# Of them that are to bee baptized in private houses, in time of necessity, by the Presbyter or Minister of the parish, or any other lawfull Presbyter or Minister that can be procured.
 
 ## The Introduction
 
-> The Pastours and Curates shal oft admonish the people, that they deferre not the Baptisme of enfantes any longer then the Sonday, or other holy day, next after the childe be borne unlesse upon a great and reasonable cause declared to the Curate, and by him approved.
+> THe Pastours and Curates shall oft admonish the people, that they deferre not the Baptisme of Infants any longer then the Sunday, or other Holyday next after the childe be born, unlesse upon a great and reasonable cause declared to the Curate, and by him approved.
 
-> And also they shall warne them, that without great cause and necessity, they procure not their children to be baptized at home in their houses.
-> And when great need shall compel them so to do, that then Baptisme shall be administered in this fashion.
+> And also they shall warne them, that without great cause and necessity they procure not their children to be baptized at home in their houses.
+> And when great need shall compell them so to do, then Baptisme shall be administered in this fashion.
 
 ## The Private Baptism
 
-> First, let the lawfull Minister, and them that be present, call upon God for his grace and say the Lord's Prayer, if the time will suffer.
-> And then the childe being named by some one that is present, the said lawfull Minister shall dip it in water, or poure water upon it, saying these words.
+> First let the lawfull presbyter or Minister, and them that be present, call upon God for his grace, and say the Lords prayer, if time will suffer.
+> And then the childe being named by some one that is present, the said lawfull Presbyter or Minister shall dip it in water, or poure water upon it, saying these words.
 
 > N.
-> I Baptise thee in the Name of the Father, and of the Sonne, and of the holy Ghost.
+> I baptize thee in the Name of the Father, and of the Sonne, and of the holy Ghost.
 > Amen.
 
-> And let them not doubte, but that the childe so Baptised, is lawfully and sufficiently Baptised, and ought not to be Baptised agayne in the Church.
-> But yet neverthles, if the child whyche is after this sorte Baptised, do afterwarde live, it is expediente that he be broughte into the Churche, to the entent that if the Priest or Minister of the same Parish did himself baptize that childe, the Congregation may be certified of the true forme of Baptisme, by him privately before used: Or if the child were baptized by any other lawfull Minister, that then the Minister of the Parish where the childe was borne or Christened, shall examine and trie whether this childe be lawfully baptized, or no. In which case, if those that bring any childe to the Church, do answer that the same child is already baptized, then shall the Minister examine them further, saying,
+> And let them not doubt, but that the childe so baptized is lawfully and sufficiently baptized, and ought not to be baptized again in the church.
+> But yet neverthelesse, if the childe which is after this sort baptized do afterward live, it is expedient that he be brought into the Church, to the intent that if the Presbyter or Minister of the same Parish did himself baptize that child, the Congregation may be certified of the true forme of Baptisme by him privately before used.
+> Or if the childe were baptized by any other lawfull Presbyter or Minister, that then the Presbyter of the Parish, where the childe was borne or christened, shall examine and trie whether this childe be lawfully baptized or no. In which case if those that bring any child to the Church, do answer that the same childe is already baptized, then shall the Presbyter or Minister examine them further, saying,
 
 ## The Examination
 
-> By whom the childe was baptized?
+BY whom the childe was baptized?
 
-> Who was present when the childe was baptized?
+Who was present when the childe was baptized?
 
-> And because some things essentiall to this Sacrament may happen to be omitted through fear or haste in such times of extremitie; therefore I demand further of you,
+And because some things essentiall to this Sacrament may happen to be omitted through fear or haste in such times of extremitie : therefore I demand further.
 
-> With what matter was the childe baptized?
+With what matter was the childe baptized?
 
-> With what words was the childe baptized?
+With what words the childe was baptized?
 
-> Whether think you the childe to bee lawfully and perfectly baptized?
+Whether think you the childe to bee lawfully and perfectly baptized?
 
-> And yf the Minister shall finde by the answers of such, as bring the childe, that all thinges were done as they oughte to be: Then shal not he Christen the childe againe, but shall receyve him, as one of the flocke of the true Christian people, saiynge thus.
+> And if the Presbyter or Minister shall finde by the answers of such as bring the childe, that all things were done as they ought to be : then shall not he christen the child againe, but shall receive him as one of the flocke of the true Christian people, saying thus,
 
 ## The Certificate
 
-I CERTIFY you, that in this case all is well done, and according unto due ordre concerning the Baptising of this childe, whiche beyng borne in Originall sinne and in the wrathe of God, is nowe by the laver of regeneracion in Baptisme, received into the nomber of the children of God, and heires of everlasting life, for our Lorde Jesus Christ doeth not deny his grace and mercy unto such infantes, but most lovingly doth cal the unto him: as the holy gospel doth witnes to our comfort on this wise.
+I Certify you, that in this case all is well done, and according unto due order, concerning the baptizing of this childe, which being born in originall sinne, and in the wrath of God, is now by the laver of regeneration in Baptisme, received into the number of the children of God, and heires of everlasting life.
+For our Lord Jesus Christ doth not denie his grace and mercy unto such Infants, but most lovingly doth call them unto him, as the holy gospel doth witnesse to our comfort on this wise.
 
 ## The Gospel
 
-AT a certaine time they brought children unto Christ that he should touche them, and his dysciples rebuked those that brought them.
-But when Jesus saw it, he was displeased, and said unto them: Suffre litle children to come unto me, and forbid theim not, for to such belongeth the kingdome of God.
-Verely I say unto you, whosoever doth not receive the kingdom of God as a litle child, he shal not entre therin.
-And when he had taken them up in his armes, he put his handes upon them, and blessed them.
+AT a certain time they brought children to Christ that he should touch them, and his disciples rebuked those that brought them.
+But when Jesus saw it, he was much displeased, and said unto them, Suffer little children to come unto me, and forbid them not : for of such is the kingdome of God.
+Verily I say unto you, Whosoever shall not receive the kingdome of God as a little childe, he shall not enter therein.
+And when he had taken them up in his arms, put his hands upon them, and blessed them.
 
 ## The Exhortation upon the Gospel
 
-> After the Gospel is redde, the minister shal make this exhortacion upon the wordes of the Gospel.
+> After the Gospel is read, the Presbyter or Minister shall make this brief exhortation upon the words of the Gospel.
 
-FRENDES, ye heare in this Gospell the wordes of oure saviour Christe, that he commaunded the chyldren to bee brought unto hym: howe he blamed those that woulde have kepte theym from him, howe he exhorted all men to folowe their innocencye: Ye perceive how by his outward gesture in dede he declared his good wil toward them.
-For he embraced them in his armes, he laied his hands upon them, and blessed them, doubt not you therefore, but earnestly beleve, that he hath likewise fauourably received this present infant, that he hathe embraced hym wyth the armes of hys mercy, that he hath geven unto him the blessing of eternal life, and made him partaker of his everlasting kingdom.
-Wherfore we beyng thus perswaded of the good wil of our heavenly father declared by his sonne Jesus Christ towards this infant, Let us faithfully and devoutly geve thankes unto him, and say the praier, which the lord him self taught, and in declaracion of our faith, let us recite the articles conteined in our Crede.
+FRiends, you heare in this Gospel the words of our Saviour Christ, that he commanded the children to be brought unto him : how he blamed those that would have kept them from him : how he exhorted all men to follow their innocency.
+Ye perceive how by his outward gesture and deed he declared his good will toward them : for he embraced them in his arms, he laid his hands upon them, and blessed them.
+Doubt ye not therefore, but stedfastly beleeve, that he hath likewise favourably received this present Infant, that he hath embraced him with the arms of his mercy, that he hath given unto him the blessing of eternall life, and made him partaker of his everlasting Kingdome.
+Wherefore wee being thus perswaded of the good will of our heavenly Father, declared by his Sonne Jesus Christ toward this Infant, let us faithfully and devoutly give thanks unto him, and say the prayer which the Lord himself taught, and in declaration of our Faith, let us recite the Articles contained in our Creede.
 
 ## The Lord's Prayer
 
-> Here the Minister with the Godfathers, and Godmothers shall say.
+> Here the Presbyter or Minister with the Godfathers and Godmothers shall say.
 
-OUR Father which &c.
+Our Father which art in heaven, &c.
 
 ## The Vows
 
-> Then the Priest shal demand the name of the child, which beyng by the Godfathers, and Godmothers pronounced, the Minister shall say,
+> Then shall the Presbyter demand the name of the childe, which being by the Godfathers and Godmothers pronounced, the Minister shall say.
 
-DOEST thou in the name of this child forsake the devil, and al his workes, the vaine pompe, and glory of the world, with al the covetous desires of the same, the carnal desires of the fleshe, and not to folowe and be ledde by them?
+Mark 10, 13.
 
-**Aunswere.** I forsake them al.
+Doest thou in the name of this childe forsake the devil and all his works, the vain pomp and glory of the world, with all the covetous desires of the same, the carnall desires of the flesh, so that thou wilt not follow, nor be led by them?
 
-**The Minister.** Doest thou in the name of this childe professe this faith, to beleve in God the father almighty, maker of heaven and earth And in Jesus Christ his only begotten son our Lord, and that he was conceived by the holy ghost, borne of the virgin Mary: that he suffered under ponce Pilate, was crucified, dead, and buried, that he wet doune into hel, and also did rise again the iii daye: that he ascended into heaven, and sytteth at the ryght hande of God the father almightye: and from thence he shal come again at the ende of the world, to judge the quicke and the dead?
-And do you in his name beleve in the holy gost the holy Catholicque church, the communion of sainctes, the remission of sinnes, resurreccion of the fleshe, and everlasting life after death?
-<!-- VERIFY: source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan -->
-<!-- VERIFY: source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan -->
+**Answer.** I forsake them all.
 
-**Aunswere.** All this I steadfastly beleve.
+**Presbyter.** Doest thou in the Name of this childe profess this faith, to beleeve in God the Father Almighty, maker of heaven and earth?
+And in Jesus Christ his only begotten Son our Lord?
+and that he was conceived by the holy Ghost, born of the Virgin Mary, that he suffered under Pontius Pilate, was crucified, dead, and buried, that he went down into hell, and also did rise again the third day, that he ascended into heaven, and sitteth at the right hand of God the Father Almighty, and from thence he shall come again at the end of the world to judge the quick and the dead?
+And do you in his name beleeve in the holy Ghost, the holy Catholike Church, the Communion of Saints, the Remission of sinnes, the resurrection of the body, and everlasting life after death?
+
+**Answer.** All this I steadfastly beleeve.
 
 ## The Thanksgiving
 
 > Let us pray.
 
-ALMIGHTY and everlasting God, heavenly father, we geve thee humble thanckes, for that thou hast vouchedsafed to call us to the knowledge of thy grace and faythe in thee: increase this knowledge, and confyrme this faythe in us evermore: Geve thy holye spirite to this infante, that he beynge borne agayne and beynge made heyre of everlastynge salvacion, through our Lord Jesus Christ, may continue thy servant, and atteine thy promise, through the same our Lorde Jesus Christ thy sonne, who liveth and reigneth with the in the unitie of the same holy spirit everlasting.
+ALmighty and everlasting God, heavenly Father, we give thee humble thanks, for that thou hast vouchsafed to call us to the knowledge of thy grace and faith in thee : increase this knowledge, and confirme this faith in us evermore.
+Give thy holy Spirit to this Infant, that he being born again, and being made heire of everlasting Salvation, through our Lord Jesus Christ, may continue thy servant, and attaine thy promise; through the same our Lord Jesus Christ thy Sonne, who liveth and reigneth with thee in the unity of the same holy Spirit everlastingly.
 Amen.
 
 ## The Final Exhortation
 
-> Then shal the Minister make this exhortacion, to the Godfathers and Godmothers.
+> Then shall the Presbyter or Minister make this exhortation to the Godfathers and Godmothers.
 
-FORASMUCHE as this childe hath promised by you to forsake the devil and al his workes, to beleve in God, and to serve him: you must remembre that it is your part and dutie, to see that this enfante be taught (so sone as he shalbe able to learne) what a solempne vowe promise, and profession he hath made by you.
-And that he may know these thinges the better, ye shal call upon him to hear sermons.
-And chiefly ye shal provide that he may learne the Crede, the Lordes praier and the x Commaundementes in the English tongue, and al other thinges which a Christian man ought to know, and beleve to his soules health, and that this chyld may be vertuously brought up, to leade a godly, and a christian lyfe.
-Remembring alway that Baptisme doeth represent unto us our profession, which is to folow the example of our Saviour Christ, and be made like unto him, that as he died and rose againe for us, so shoulde we which are Baptized, dye from sinne, and rise againe unto righteousnes, continually mortifying all our evil and corrupt affections, and daily proceding in al vertue, and godlines of living, etc:
+FOreasmuch as this childe hath promised by you to forsake the devil and all his works, to beleeve in God, and to serve him : you must remember that it is your part and duty to see that this Infant be taught, so soon as he shall bee able to learn, what a solemn vow, promise, and profession he hath made by you.
+And that he may know these things the better, yee shall call upon him to hear Sermons, and chiefly ye shall provide that he may learn the Creede, the Lords prayer, and the ten Commandments in the English tongue, and all other things which a Christian man ought to know and beleeve to his souls health : and that this childe may be virtuously brought up, to lead a godly and a Christian life, remembering alway that Baptisme doth represent unto us our profession, which is to follow the example of our Saviour Christ, and be made like unto him, that as he dyed and rose again for us, so should we which are baptized, dye from sinne, and rise again unto righteousnesse, continually mortifying all our evil and corrupt affections, and daily proceeding in all vertue and godlinesse of living.
 
-> As in Publique Baptisme.
+> And so forth, as in Public Baptism.
 
 ## Conditional Baptism
 
-> But if they which bring the enfantes to the Church, do make such uncertaine answers to the Priestes questions, and say that they cannot tel what they thought, didde, or said, in yt great feare, and trouble of minde: (as ofte times it chaunseth) then let the Priest Baptise him in forme above written, concerning publique Baptisme, saving that at the dipping of the chylde in the Fonte, he shal use this forme of wordes.
+> But if they which bring the Infants to the Church do make an uncertaine answer to the Presbyters questions, as that it cannot appeare that the childe was baptized with water, In the Name of the Father, and of the Sonne, and of the holy Ghost (which are the Essentiall parts of Baptisme) then shall the Presbyter baptize it in forme above written, concerning publique Baptisme, saving that at the dipping of the childe in the Font, he shall use this forme of words.
 
-If thou be not Baptized al ready, N.
-I baptise the in the name of the father, and of the Sonne, and of the holy Ghoste.
+IF thou be not already baptized, N.
+I baptize thee in the Name of the Father, and of the Sonne, and of the holy Ghost.
 Amen.
-
-Marke x.
