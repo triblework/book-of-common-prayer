@@ -1,0 +1,172 @@
+# editions.yaml — the ordered genealogy that tools/build_history.py replays.
+#
+# This file is the single source of truth for the SHAPE of the published
+# history: which editions exist, on which branch, descending from which parent,
+# under which tag, carrying which services. The TEXT of each service lives under
+# editions/<year>/<service>.md (authored/changed here) or is inherited from the
+# parent edition (see the inheritance model in the spec §2.4).
+#
+# Published branches (main, scottish, american) and every vYYYY tag are OUTPUTS
+# of the builder. Nobody hand-commits to them. See tools/build_history.py.
+
+# ---------------------------------------------------------------------------
+# Build metadata. Timestamps and identity are pinned so the rebuild is fully
+# deterministic: same authoring input => identical published trees AND SHAs.
+# ---------------------------------------------------------------------------
+meta:
+  author_name: BCP History Builder
+  author_email: build@book-of-common-prayer.local
+  # The scaffold commit is stamped at base_date; each subsequent edition commit
+  # is stamped one second later, in the topological order listed below.
+  base_date: "2026-08-11T00:00:00+00:00"
+
+scaffold:
+  branch: main
+  commit_message: |
+    Scaffold repository structure and tooling
+
+    - Config: .gitattributes (prose diff), .gitignore, MIT LICENSE (code only)
+    - Docs: README, CONTRIBUTING, NOTICE (copyright + BCP 1662), SOURCES
+    - Tools: build_history.py (history as a build artifact), scrape.py
+      (allow-listed, cached, rate-limited), sentence_split.py
+      (one-unit-per-line, idempotent), normalize.py (original->normalized,
+      deterministic), normalization_rules.yaml (spelling-only rules),
+      verify_index.py (inline VERIFY <-> provenance.yaml reconciliation)
+
+# ---------------------------------------------------------------------------
+# The genealogy, in topological (build) order. A branch's first edition sets
+# `branch_from` to the TAG it is created at; the parent whose materialized tree
+# it inherits is `parent`.
+#
+# Service ids are repo-relative paths WITHOUT the texts/original/ prefix and
+# WITHOUT the .md extension, e.g. `daily-office/morning-prayer` resolves to
+# texts/original/daily-office/morning-prayer.md in the published tree and to
+# editions/<year>/daily-office/morning-prayer.md in this authoring tree.
+# ---------------------------------------------------------------------------
+editions:
+  # ---- English line (main) ----
+  - id: 1549
+    year: 1549
+    branch: main
+    parent: null                     # first edition commit after the scaffold
+    tag: v1549
+    tag_message: "1549 — First Book of Common Prayer (Edward VI)"
+    commit_message: "1549 Book of Common Prayer (First Edwardian)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1552
+    year: 1552
+    branch: main
+    parent: 1549
+    tag: v1552
+    tag_message: "1552 — Second Book of Common Prayer (Edward VI)"
+    commit_message: "1552 revision (Second Edwardian)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1559
+    year: 1559
+    branch: main
+    parent: 1552
+    tag: v1559
+    tag_message: "1559 — Elizabethan Book of Common Prayer"
+    commit_message: "1559 revision (Elizabethan Settlement)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1604
+    year: 1604
+    branch: main
+    parent: 1559
+    tag: v1604
+    tag_message: "1604 — Jacobean Book of Common Prayer"
+    commit_message: "1604 revision (Jacobean / Hampton Court)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1662
+    year: 1662
+    branch: main
+    parent: 1604
+    tag: v1662
+    tag_message: "1662 — Book of Common Prayer (Church of England standard)"
+    commit_message: "1662 revision (Restoration; standard Church of England book)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  # ---- Scottish line (scottish), forks from v1604 ----
+  - id: 1637
+    year: 1637
+    branch: scottish
+    branch_from: v1604
+    parent: 1604
+    tag: v1637
+    tag_message: "1637 — Scottish Prayer Book (Laud's Liturgy)"
+    commit_message: "1637 Scottish Book of Common Prayer (Laud's Liturgy)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1764
+    year: 1764
+    branch: scottish
+    parent: 1637
+    tag: v1764
+    tag_message: "1764 — Scottish Communion Office"
+    commit_message: "1764 Scottish Communion Office"
+    # The "Wee Bookie" is a Communion Office only: Morning Prayer is dropped so
+    # the removal shows cleanly in the diff against v1637.
+    present: [holy-communion/holy-communion]
+    absent: [daily-office/morning-prayer]
+
+  - id: 1929
+    year: 1929
+    branch: scottish
+    parent: 1764
+    tag: v1929
+    tag_message: "1929 — Scottish Book of Common Prayer"
+    commit_message: "1929 Scottish Book of Common Prayer"
+    present: [holy-communion/holy-communion]
+    absent: []
+
+  # ---- American line (american), forks from v1662 ----
+  - id: 1789
+    year: 1789
+    branch: american
+    branch_from: v1662
+    parent: 1662
+    tag: v1789
+    tag_message: "1789 — First American Book of Common Prayer"
+    commit_message: "1789 Book of Common Prayer (Protestant Episcopal Church, first American)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1892
+    year: 1892
+    branch: american
+    parent: 1789
+    tag: v1892
+    tag_message: "1892 — American Book of Common Prayer"
+    commit_message: "1892 revision (Episcopal Church)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1928
+    year: 1928
+    branch: american
+    parent: 1892
+    tag: v1928
+    tag_message: "1928 — American Book of Common Prayer"
+    commit_message: "1928 revision (Episcopal Church)"
+    present: [daily-office/morning-prayer]
+    absent: []
+
+  - id: 1979
+    year: 1979
+    branch: american
+    parent: 1928
+    tag: v1979
+    tag_message: "1979 — American Book of Common Prayer (current)"
+    commit_message: "1979 revision (Episcopal Church, current)"
+    present: [daily-office/morning-prayer]
+    absent: []

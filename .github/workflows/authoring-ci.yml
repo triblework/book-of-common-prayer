@@ -1,0 +1,39 @@
+name: Authoring CI
+
+# Runs on the `authoring` orphan branch (the source of truth). It cannot run the
+# published-tree checks (there is no texts/ here) — instead it validates the
+# authoring inputs and that they still reproduce the live published history.
+#
+#   * verify_index.py (authoring context): inline VERIFY <-> provenance.yaml.
+#   * build_history.py --check: the full rebuild matches every live tag's texts/.
+
+on:
+  push:
+    branches: [authoring]
+  pull_request:
+    branches: [authoring]
+
+jobs:
+  authoring-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: authoring
+          fetch-depth: 0
+
+      - name: Fetch published tags for the rebuild comparison
+        run: git fetch --tags origin
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: inline VERIFY comments reconcile with provenance.yaml
+        run: python tools/verify_index.py --root . --check
+
+      - name: rebuild reproduces every live tag's texts/ tree byte-for-byte
+        run: python tools/build_history.py --authoring . --live-repo . --check

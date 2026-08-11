@@ -1,0 +1,184 @@
+# provenance.yaml — machine-readable source/verify metadata, one record per
+# <service, edition>. This is the authoritative index that tools/verify_index.py
+# reconciles against the inline `<!-- VERIFY: ... -->` comments in the text, and
+# that (optionally) tools/gen_sources.py renders into SOURCES.md.
+#
+# status vocabulary (spec §7.1):
+#   transcribed          -- authored fresh from an allow-listed source and
+#                           verified against a scan.
+#   reviewed-unchanged   -- confirmed identical to the parent against a source
+#                           (a real, checked "no change this edition").
+#   inherited-unreviewed -- inherited (or carried forward) but not yet checked
+#                           against a source. A wave is NOT done while any
+#                           in-scope cell is inherited-unreviewed.
+#
+# verify_items: each corresponds 1:1 to an inline `<!-- VERIFY -->` comment in
+# the service text. `source_reading` is the exact doubtful reading as printed by
+# the source; verify_index.py matches it (normalized) to the inline comment.
+#
+# NOTE ON SCOPE (Wave 0): the transcribed slice presently covers the opening of
+# each service (Morning Prayer through the Venite; Scottish Communion
+# exhortation + offertory). Tier-1 depth (spec §3) is the target of Waves 1+.
+# These records describe what is transcribed today; `depth: opening-slice` marks
+# cells that Waves 1+ will deepen to `depth: tier-1`.
+
+records:
+  # ---- English line (main) ----
+  - edition: 1549
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1549/Matins_1549.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1552
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1552/MP_1552.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Opening Sentences
+        source_reading: "Psalm ii"
+        note: "source (justus) prints 'Psalm ii'; the verse is Psalm 51:3, likely a 'li'->'ii' printer error; confirm against a page scan"
+      - anchor: The Opening Sentences
+        source_reading: "Jerem ii"
+        note: "source (justus) prints 'Jerem ii'; the verse is Jeremiah 10:24, likely a printer error, and 1559 carries the same reading; confirm against a page scan"
+
+  - edition: 1559
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1559/MP_1559.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord, make haste to helpe us"
+        note: "source (justus) reads 'Lord, make haste to helpe us' (1552 has 'O Lord'); the missing 'O' may be a transcription slip; confirm against a page scan"
+
+  - edition: 1604
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1559/MP_1559.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    note: "Jacobean changes to the MP opening are documented inline on the justus 1559 apparatus page; derived from it."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord, make haste to helpe us"
+        note: "carried from 1559: source reads 'Lord, make haste to helpe us' (1552 has 'O Lord'); confirm against a page scan"
+
+  - edition: 1662
+    service: daily-office/morning-prayer
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/order-morning-prayer
+    retrieved: 2026-08-10
+    cross_check:
+      - "justus Baskerville 1762 PDF (.../1662/mp.pdf) — ligature-lossy, used for cross-check only"
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Clean text from the Church of England website (authoritative 1662 publisher; Crown copyright in the UK). A modern interpolated rubric ('If no priest be present...') was excluded as not part of the 1662 book."
+    verify_items: []
+
+  # ---- Scottish line (scottish) ----
+  - edition: 1637
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/MP_1637.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Opening Sentences
+        source_reading: "Ps. 28"
+        note: "source prints 'Ps. 28'; this sentence is Proverbs 28:13; confirm against a page scan"
+
+  - edition: 1764
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Scot1764_Communion.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    note: "Communion Office only ('Wee Bookie'); Morning Prayer is absent by design on this commit. Transcribed: exhortation + offertory."
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "Matth vi 9 20"
+        note: "source prints 'Matth vi 9 20'; the passage is Matthew 6:19-20, so '9' is likely a printer or scan error for '19'; confirm against a page scan"
+
+  - edition: 1929
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Scot_Scottish_Communion.htm
+    retrieved: 2026-08-10
+    cross_check:
+      - "justus full-book PDF (Scottish_BCP1929.pdf) is an image/OCR scan — NOT used for text"
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "Acts 20. 85"
+        note: "source prints 'Acts 20. 85'; the verse is Acts 20:35, so '85' is likely a scan or typographic error; confirm against a page scan"
+
+  # ---- American line (american) ----
+  - edition: 1789
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1789/MP_1789.htm
+    retrieved: 2026-08-10
+    cross_check:
+      - "parallel 1662 sentences used to reconstruct OCR-damaged citations"
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Opening Sentences
+        source_reading: "Psalm ii 17"
+        note: "several roman-numeral verse citations on the justus 1789 page were damaged in transcription (e.g. it prints 'Psalm ii 17' for Psalm 51:17); read against the parallel 1662 sentences; confirm against a page scan"
+
+  - edition: 1892
+    service: daily-office/morning-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1892/MP_1892.htm
+    retrieved: 2026-08-10
+    cross_check: []
+    status: transcribed
+    depth: opening-slice
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1928
+    service: daily-office/morning-prayer
+    source_url: null
+    retrieved: null
+    cross_check:
+      - "justus 1928 offered only as image/OCR PDF — not usable for faithful text this pass"
+      - "spec §4.1: justus /1928/MP.htm (Satucket clean HTML) closes this gap in a later wave"
+    status: inherited-unreviewed
+    depth: gap
+    verifier: bcp-authoring
+    note: "GAP: carries the 1892 Daily Office forward unchanged with an inline <!-- SCOPE (1928) --> note. The 1928-specific text is a documented TODO (spec §4.1 identifies a clean source: justus /1928/MP.htm)."
+    verify_items: []
+
+  - edition: 1979
+    service: daily-office/morning-prayer
+    source_url: null
+    retrieved: null
+    cross_check:
+      - "1979 lives on JS/day-generated sites the static scraper can't capture this pass"
+      - "spec §4.2: justus public-domain ASCII e-text (bcpprayr.txt / bcp10.txt) closes this gap in a later wave"
+    status: inherited-unreviewed
+    depth: gap
+    verifier: bcp-authoring
+    note: "GAP: carries the prior Daily Office forward with an inline <!-- SCOPE (1979) --> note. Rite I / Rite II text is a documented TODO (spec §4.2 identifies a clean PD source; convention: Rite I in office files, Rite II as a separate section)."
+    verify_items: []

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+texts/**/*.md diff=prose
+*.py text
+*.yaml text
+*.md text
