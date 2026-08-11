@@ -1,10 +1,5 @@
 # The first Sonday in Lent
 
-## The Introit
-
-Beati, quorum.
-Psalm 32
-
 ## The Collect
 
 O LORD, whiche

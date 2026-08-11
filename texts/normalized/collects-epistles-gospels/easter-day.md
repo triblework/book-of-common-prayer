@@ -1,10 +1,5 @@
 # Easter Daye
 
-## The Introit
-
-Conserva me, Domine.
-Psalm 16
-
 ## The Collect
 
 ALMIGHTY God,
@@ -20,12 +15,6 @@ us, thou doest put in our mindes good desires, so by thy continuall
 help we may bring the same to good effect; through Jesus Christ our
 
 Lorde who lyveth and reigneth, &c.
-
-> In the mornyng, afore Mattyns,
-
-> At Morning Prayer, instead of the Psalm, O come let us, &c.
-
-> Proper Psalmes and lessons.
 
 ## The Epistle
 
@@ -54,32 +43,3 @@ of living and trueth; through Jesus Christe oure Lorde.
 ## The Gospel (Second Communion)
 
 Mark 16
-
-## The Proper Lessons
-
-> At Matins.
-
-> The first lesson, Exod. xii.
-> to thende.
-
-> Psalms
-
-> ii.
-> lvii.
-> cxi.
-
-> The seconde lesson, Roma vi.
-> to thende.
-
-> At the fyrst Communion.
-
-> At Evensong.
-
-> Proper Psalms and Lessons.
-
-> Psalms cxiii.
-> cxiv.
-> cxviii.
-
-> The Second Lesson, Acts ii.
-> unto the end.

@@ -1,10 +1,5 @@
 # Sainct Andrewes Daye
 
-## The Introit
-
-Sæpe expugnaverunt.
-Psalm 129
-
 ## The Collect
 
 1549 only:
