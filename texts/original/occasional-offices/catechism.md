@@ -1,38 +1,57 @@
-# A Catechism; that is to say, an Instruction, to be learned by every person before he be brought to be confirmed by the Bishop.
+# Offices of Instruction
 
-## The Baptismal Covenant
+## The First Office
 
-**Question.** WHAT is your Name?
+> After the singing of a Hymn, shall be said by the Minister and People together, all kneeling, the following Prayer, the Minister first pronouncing,
 
-**Answer.** N.
-or M.
+The Lord be with you.
+
+**Answer.** And with thy spirit.
+
+Let us pray.
+
+LORD of all power and might, Who art the author and giver of all good things; Graft in our hearts the love of thy Name, Increase in us true religion, Nourish us with all goodness, And of thy great mercy keep us in the same; Through Jesus Christ our Lord.
+Amen.
+
+> Then, the People being seated, the Minister shall ask them the Questions which follow, the People reading or repeating the Answers as appointed.
+
+**Question.** What is your Christian Name?
+
+**Answer.** My Christian Name is ——.
 
 **Question.** Who gave you this Name?
 
-**Answer.** My Sponsors in Baptism; wherein I was made a member of Christ, the child of God, and an inheritor of the kingdom of heaven.
+**Answer.** My Sponsors gave me this Name in Baptism; wherein I was made a member of Christ, the child of God, and an inheritor of the kingdom of heaven.
 
-**Question.** What did your Sponsors then for you?
+**Question.** What did your Sponsors then promise for you?
 
-**Answer.** They did promise and vow three things in my name.
-First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh.
-Secondly, that I should believe all the Articles of the Christian Faith.
-And Thirdly, that I should keep God's holy will and commandments, and walk in the same all the days of my life.
+**Answer.** My Sponsors did promise and vow three things in my name: First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh; Secondly, that I should believe all the Articles of the Christian Faith; And Thirdly, that I should keep God’s holy will and commandments, and walk in the same all the days of my life.
 
-**Question.** Dost thou not think that thou art bound to believe, and to do, as they have promised for thee?
+**Question.** Do you not think that you are bound so to do?
 
 **Answer.** Yes, verily; and by God's help so I will.
 And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour.
-And I pray unto God to give me his grace, that I may continue in the same unto my life's end.
+And I pray unto God to give me his grace, that I may continue in the same unto my life’s end.
 
 ## The Creed
 
-**Catechist.** Rehearse the Articles of thy Belief.
+> Then the Minister shall say,
 
-**Answer.** I BELIEVE in God the Father Almighty, Maker of heaven and earth: And in Jesus Christ his only Son our Lord; Who was conceived by the Holy Ghost, Born of the Virgin Mary; Suffered under Pontius Pilate, Was crucified, dead, and buried; He descended into hell, The third day he rose from the dead; He ascended into heaven, And sitteth on the right hand of God the Father Almighty; From thence he shall come to judge the quick and the dead.
-I believe in the Holy Ghost; The holy Catholic Church; The communion of Saints; The Forgiveness of sins; The Resurrection of the body; And the Life everlasting.
+YOU said that your Sponsors promised and vowed that you should believe all the Articles of the Christian Faith.
+Recite the Articles of the Christian Faith as contained in the Apostles’ Creed.
+
+> Then, all standing, shall be said the Apostles' Creed by the Minister and People.
+
+I BELIEVE in God the Father Almighty, Maker of heaven and earth:
+
+And in Jesus Christ his only Son our Lord: Who was conceived by the Holy Ghost, Born of the Virgin Mary: Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead: He ascended into heaven, And sitteth on the right hand of God the Father Almighty: From thence he shall come to judge the quick and the dead.
+
+I believe in the Holy Ghost: The holy Catholic Church; The Communion of Saints: The Forgiveness of sins: The Resurrection of the body: And the Life everlasting.
 Amen.
 
-**Question.** What dost thou chiefly learn in these Articles of thy Belief?
+> Then, the Minister, turning to the People, shall ask the Question following, the People responding.
+
+**Question.** What do you chiefly learn in these Articles of your Belief?
 
 **Answer.** First, I learn to believe in God the Father, who hath made me, and all the world.
 
@@ -40,139 +59,342 @@ Secondly, in God the Son, who hath redeemed me, and all mankind.
 
 Thirdly, in God the Holy Ghost, who sanctifieth me, and all the people of God.
 
+And this Holy Trinity, One God, I praise and magnify, saying,
+
+> Minister and People.
+
+GLORY be to the Father, and to the Son, and to the Holy Ghost;
+
+As it was in the beginning, is now, and ever shall be, world without end.
+Amen.
+
 ## The Ten Commandments
 
-**Question.** You said that your Sponsors did promise for you, that you should keep God's Commandments.
-Tell me how many there are?
+> Here may be sung a Hymn, after which the Minister, turning to the People, shall say,
 
-**Answer.** Ten.
+YOU said that your Sponsors promised and vowed that you should keep God’s holy will and commandments.
+Tell me how many Commandments there are.
 
-**Question.** Which are they?
+**Answer.** There are Ten Commandments, given in old time by God to the people of Israel.
 
-**Answer.** THE same which God spake in the twentieth Chapter of Exodus, saying, I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+> Then shall the Minister say,
+
+Let us ask God's help to know and to keep them.
+
+The Lord be with you.
+
+**Answer.** And with thy spirit.
+
+Let us pray.
+
+> Then shall be said this Prayer by the Minister and People together, all kneeling.
+
+O ALMIGHTY God, Who alone canst order the unruly wills and affections of sinful men; Grant unto thy people, That they may love the thing which thou commandest, And desire that which thou dost promise; That so, among the sundry and manifold changes of the world, Our hearts may surely there be fixed, Where true joys are to be found; Through Jesus Christ our Lord.
+Amen.
+
+> Then shall the Minister repeat the Ten Commandments, and after every Commandment the People shall say the response.
+> But NOTE, That where so instructed, the People may repeat the Commandments, the Minister saying the response.
+> And NOTE further, That the part of the Commandment which is inset may be omitted.
 
 I.
 Thou shalt have none other gods but me.
 
+Lord, have mercy upon us, and incline our hearts to keep this law.
+
 II.
-Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth.
-Thou shalt not bow down to them nor worship them: for I the Lord thy God am a jealous God, and visit the sins of the fathers upon the children, unto the third and fourth generation of them that hate me; and show mercy unto thousands in them that love me and keep my commandments.
+Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth; thou shalt not bow down to them, nor worship them;
+
+for I the LORD thy God am a jealous God, and visit the sins of the fathers upon the children, unto the third and fourth generation of them that hate me; and show mercy unto thousands in them that love me and keep my commandments.
+
+Lord, have mercy upon us, and incline our hearts to keep this law.
 
 III.
-Thou shalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his Name in vain.
+Thou shalt not take the Name of the LORD thy God in vain
+
+for the LORD will not hold him guiltless, that taketh his Name in vain.
+
+Lord, have mercy upon us, and incline our hearts to keep this law.
 
 IV.
-Remember that thou keep holy the Sabbath day.
-Six days shalt thou labour and do all that thou hast to do; but the seventh day is the Sabbath of the Lord thy God.
-In it thou shalt do no manner of work; thou and thy son and thy daughter, thy man servant, and thy maid servant, thy cattle and the stranger that is within thy gates.
-For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the seventh day, and hallowed it.
+Remember that thou keep holy the Sabbath-day.
+
+Six days shalt thou labour, and do all that thou hast to do; but the seventh day is the Sabbath of the LORD thy God.
+In it thou shalt do no manner of work; thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant, thy cattle, and the stranger that is within thy gates.
+For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the seventh day, and hallowed it.
+
+Lord, have mercy upon us, and incline our hearts to keep this law.
 
 V.
-Honour thy father and thy mother; that thy days may be long in the land which the Lord thy God giveth thee.
+Honour thy father and thy mother;
+
+that thy days may be long in the land which the Lord thy God giveth thee.
+
+Lord, have mercy upon us, and incline our hearts to keep this law.
 
 VI.
 Thou shalt do no murder.
 
+Lord, have mercy upon us, and incline our hearts to keep this law.
+
 VII.
 Thou shalt not commit adultery.
+
+Lord, have mercy upon us, and incline our hearts to keep this law.
 
 VIII.
 Thou shalt not steal.
 
+Lord, have mercy upon us, and incline our hearts to keep this law.
+
 IX.
 Thou shalt not bear false witness against thy neighbour.
 
+Lord, have mercy upon us, and incline our hearts to keep this law.
+
 X.
-Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+Thou shalt not covet
 
-**Question.** What dost thou chiefly learn by these Commandments?
+thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
-**Answer.** I learn two things; my duty towards God, and my duty towards my Neighbour.
+Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
-**Question.** What is thy duty towards God?
+> Then shall the Minister say,
 
-**Answer.** My duty towards God, is to believe in him, to fear him, and to love him with all my heart, with all my mind, with all my soul, and with all my strength; to worship him, to give him thanks, to put my whole trust in him, to call upon him, to honour his holy Name and his Word, and to serve him truly all the days of my life.
+GRANT to us, Lord, we beseech thee, the spirit to think and do always such things as are right; that we, who cannot do any thing that is good without thee, may by thee be enabled to live according to thy will; through Jesus Christ our Lord.
+Amen.
 
-**Question.** What is thy duty towards thy Neighbour?
+> After this, the People being seated, the Minister, turning to them, shall ask the Questions which follow, the People reading or repeating the Answers.
 
-**Answer.** My duty towards my Neighbour, is to love him as myself, and to do to all men, as I would they should do unto me: To love, honour, and succour my father and mother: To honour and obey the civil authority: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters: To hurt nobody by word or deed: To be true and just in all my dealings: To bear no malice nor hatred in my heart: To keep my hands from picking and stealing, and my tongue from evil speaking, lying, and slandering: To keep my body in temperance, soberness, and chastity: Not to covet nor desire other men's goods; but to learn and labour truly to get mine own living, and to do my duty in that state of life unto which it shall please God to call me.
+**Question.** What does our Lord Jesus Christ teach us about these Commandments?
+
+**Answer.** Our Lord Jesus Christ teaches us that they are summed up in these two Commandments: Thou shalt love the Lord thy God with all thy heart, with all thy mind, with all thy soul, and with all thy strength; this is the first and great Commandment.
+And the second is: Thou shalt love thy neighbour as thyself.
+
+**Question.** What then do you chiefly learn from the Ten Commandments?
+
+**Answer.** I learn two things from these Commandments; my duty towards God, and my duty towards my Neighbour.
+
+**Question.** What is your duty towards God?
+
+**Answer.** My duty towards God is To believe in him, to fear him, And to love him with all my heart, with all my mind, with all my soul, and with all my strength:
+
+I., II.
+To worship him, to give him thanks: To put my whole trust in him, to call upon him:
+
+III.
+To honour his holy Name and his Word:
+
+IV.
+And to serve him truly all the days of my life.
+
+**Question.** What is your duty towards your Neighbour?
+
+**Answer.** My duty towards my Neighbour is To love him as myself, and to do to all men as I would they should do unto me:
+
+V.
+To love, honour, and help my father and mother: To honour and obey the civil authority: To submit myself to all my governors, teachers, spiritual pastors and masters: And to order myself in that lowliness and reverence which becometh a servant of God:
+
+VI.
+To hurt nobody by word or deed: To bear no malice nor hatred in my heart:
+
+VII.
+To keep my body in temperance, soberness, and chastity:
+
+VIII.
+To keep my hands from picking and stealing: To be true and just in all my dealings:
+
+IX.
+To keep my tongue from evil speaking, lying, and slandering:
+
+X.
+Not to covet nor desire other men's goods; But to learn and labour truly to earn mine own living, And to do my duty in that state of life unto which it shall please God to call me.
 
 ## The Lord's Prayer
 
-**Catechist.** My good Child, know this; that thou art not able to do these things of thyself, nor to walk in the Commandments of God, and to serve him, without his special grace; which thou must learn at all times to call for by diligent prayer.
-Let me hear, therefore, if thou canst say the Lord's Prayer.
+> Then shall be sung a Hymn, after which the Minister shall say as followeth.
 
-**Answer.** OUR Father, who art in heaven, Hallowed be thy Name.
+KNOW this; that you are not able to do these things of yourself, nor to walk in the Commandments of God, and to serve him, without his special grace; which you must learn at all times to call for by diligent prayer.
+What is the prayer that our Lord taught us to pray?
+
+**Answer.** The Lord's Prayer.
+
+**Minister.** Let us pray, as our Saviour Christ hath taught us, and say,
+
+> Then shall be said by the Minister and People together, all kneeling,
+
+OUR Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
-Thy will be done on earth, As it is in heaven.
+Thy will be done, On earth as it is in heaven.
 Give us this day our daily bread.
 And forgive us our trespasses, As we forgive those who trespass against us.
-And lead us not into temptation; But deliver us from evil.
+And lead us not into temptation, But deliver us from evil.
+For thine is the kingdom, and the power, and the glory, for ever and ever.
 Amen.
 
-**Question.** What desirest thou of God in this Prayer?
+THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
+Amen.
 
-**Answer.** I desire my Lord God, our heavenly Father, who is the giver of all goodness, to send his grace unto me, and to all people; that we may worship him, serve him, and obey him, as we ought to do.
-And I pray unto God, that he will send us all things that are needful both for our souls and bodies; and that he will be merciful unto us, and forgive us our sins; and that it will please him to save and defend us in all dangers both of soul and body; and that he will keep us from all sin and wickedness, and from our spiritual enemy, and from everlasting death.
-And this I trust he will do of his mercy and goodness, through our Lord Jesus Christ.
-And therefore I say, Amen, So be it.
+## The Second Office
+
+> After the singing of a Hymn, there shall be said the following Sentence by the Minister and People together.
+
+COME ye, and let us walk in the light of the Lord.
+And he will teach us of his ways, and we will walk in his paths.
+
+**Minister.** Show thy servants thy work;
+
+**People.** And their children thy glory.
+
+**Minister.** Let thy merciful kindness, O Lord, be upon us;
+
+**People.** As we do put our trust in thee.
+
+**Minister.** Not unto us, O Lord, not unto us,
+
+**People.** But unto thy Name be the praise.
+
+**Minister.** Lord, hear our prayer.
+
+**People.** And let our cry come unto thee.
+
+**Minister.** The Lord be with you.
+
+**People.** And with thy spirit.
+
+**Minister.** Let us pray.
+
+O ALMIGHTY God, who hast built thy Church upon the foundation of the Apostles and Prophets, Jesus Christ himself being the head corner-stone; Grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple acceptable unto thee; through the same Jesus Christ our Lord.
+Amen.
+
+## The Church
+
+> Here may be sung a Hymn, after which, the People being seated, the Minister shall ask them the Questions concerning the Church which follow, the People responding.
+
+WHEN were you made a member of the Church?
+
+**Answer.** I was made a member of the Church when I was baptized.
+
+**Question.** What is the Church?
+
+**Answer.** The Church is the Body of which Jesus Christ is the Head, and all baptized people are the members.
+
+**Question.** How is the Church described in the Apostles' and Nicene Creeds?
+
+**Answer.** The Church is described in the Creeds as One, Holy, Catholic, and Apostolic.
+
+**Question.** What do we mean by these words?
+
+**Answer.** We mean that the Church is
+
+One; because it is one Body under one Head;
+
+Holy; because the Holy Spirit dwells in it, and sanctifies its members;
+
+Catholic; because it is universal, holding earnestly the Faith for all time, in all countries, and for all people; and is sent to preach the Gospel to the whole world;
+
+Apostolic; because it continues stedfastly in the Apostles' teaching and fellowship.
+
+**Question.** What is your bounden duty as a member of the Church?
+
+**Answer.** My bounden duty is to follow Christ, to worship God every Sunday in his Church; and to work and pray and give for the spread of his kingdom.
+
+**Question.** What special means does the Church provide to help you to do all these things?
+
+**Answer.** The Church provides the Laying on of Hands, or Confirmation, wherein, after renewing the promises and vows of my Baptism, and declaring my loyalty and devotion to Christ as my Master, I receive the strengthening gifts of the Holy Spirit.
+
+**Question.** After you have been confirmed, what great privilege doth our Lord provide for you?
+
+**Answer.** Our Lord provides the Sacrament of the Lord’s Supper, or Holy Communion, for the continual strengthening and refreshing of my soul.
 
 ## The Sacraments
 
-**Question.** HOW many Sacraments hath Christ ordained in his Church?
+> After another Hymn, the Minister shall proceed with the Questions on the Sacraments, as followeth.
 
-**Answer.** Two only as generally necessary to salvation; that is to say, Baptism and the Supper of the Lord.
+HOW many Sacraments hath Christ ordained in his Church?
 
-**Question.** What meanest thou by this word Sacrament?
+**Answer.** Christ hath ordained two Sacraments only, as generally necessary to salvation; that is to say, Baptism, and the Supper of the Lord.
 
-**Answer.** I mean an outward and visible sign of an inward and spiritual grace given unto us; ordained by Christ himself, as a means whereby we receive the same, and a pledge to assure us thereof.
+**Question.** What do you mean by this word Sacrament?
+
+**Answer.** I mean by this word Sacrament an outward and visible sign of an inward and spiritual grace given unto us; ordained by Christ himself, as a means whereby we receive this grace, and a pledge to assure us thereof.
 
 **Question.** How many parts are there in a Sacrament?
 
-**Answer.** Two; the outward visible sign, and the inward spiritual grace.
+**Answer.** There are two parts in a Sacrament; the outward and visible sign, and the inward and spiritual grace.
 
-**Question.** What is the outward visible sign or form in Baptism?
+**Question.** What is the outward and visible sign or form in Baptism?
 
-**Answer.** Water; wherein the person is baptized, In the Name of the Father, and of the Son, and of the Holy Ghost.
+**Answer.** The outward and visible sign or form in Baptism is Water; wherein the person is baptized, In the Name of the Father, and of the Son, and of the Holy Ghost.
 
-**Question.** What is the inward and spiritual grace?
+**Question.** What is the inward and spiritual grace in Baptism?
 
-**Answer.** A death unto sin, and a new birth unto righteousness: for being by nature born in sin, and the children of wrath, we are hereby made the children of grace.
+**Answer.** The inward and spiritual grace in Baptism is a death unto sin, and a new birth unto righteousness; whereby we are made the children of grace.
 
 **Question.** What is required of persons to be baptized?
 
-**Answer.** Repentance, whereby they forsake sin; and Faith, whereby they steadfastly believe the promises of God made to them in that Sacrament.
+**Answer.** Repentance, whereby they forsake sin; and Faith, whereby they stedfastly believe the promises of God to them in that Sacrament.
 
-**Question.** Why then are Infants baptized, when by reason of their tender age they cannot perform them?
+**Question.** Why then are infants baptized, when by reason of their tender age they cannot perform them?
 
-**Answer.** Because they promise them both by their Sureties; which promise, when they come to age, themselves are bound to perform.
+**Answer.** Because, by the faith of their Sponsors, infants are received into Christ's Church, become the recipients of his grace, and are trained in the household of faith.
 
 **Question.** Why was the Sacrament of the Lord's Supper ordained?
 
-**Answer.** For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
+**Answer.** The Sacrament of the Lord's Supper was ordained for the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
 
 **Question.** What is the outward part or sign of the Lord's Supper?
 
-**Answer.** Bread and Wine, which the Lord hath commanded to be received.
+**Answer.** The outward part or sign of the Lord's Supper is, Bread and Wine, which the Lord hath commanded to be received.
 
 **Question.** What is the inward part, or thing signified?
 
-**Answer.** The Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord's Supper.
+**Answer.** The inward part, or thing signified, is the Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord's Supper.
 
-**Question.** What are the benefits whereof we are partakers thereby?
+**Question.** What are the benefits whereof we are partakers in the Lord's Supper?
 
-**Answer.** The strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are by the Bread and Wine.
+**Answer.** The benefits whereof we are partakers in the Lord’s Supper are the strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are strengthened and refreshed by the Bread and Wine.
 
 **Question.** What is required of those who come to the Lord's Supper?
 
-**Answer.** To examine themselves, whether they repent them truly of their former sins, steadfastly purposing to lead a new life; have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and be in charity with all men.
+**Answer.** It is required of those who come to the Lord's Supper to examine themselves, whether they repent them truly of their former sins, with stedfast purpose to lead a new life; to have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and to be in charity with all men.
 
-## The Rubrics
+## The Ministry
 
-> The Minister of every Parish shall diligently, upon Sundays and Holy Days, or on some other convenient occasions, openly in the Church, instruct or examine so many Children of his Parish, sent unto him, as he shall think convenient, in some part of this Catechism.
+> Here may be sung a Hymn, after which the Minister shall ask the People the following Questions concerning the Ministry, the People responding.
 
-> And all Fathers, Mothers, Masters, and Mistresses, shall cause their Children, Servants, and Apprentices, who have not learned their Catechism, to come to the Church at the time appointed, and obediently to hear and to be ordered by the Minister, until such time as they have learned all that is here appointed for them to learn.
+WHAT orders of Ministers are there in the Church?
 
-> So soon as Children are come to a competent age, and can say the Creed, the Lord's Prayer, and the Ten Commandments, and can answer to the other questions of this short Catechism, they shall be brought to the Bishop.
+**Answer.** Bishops, Priests, and Deacons; which orders have been in the Church from the earliest times.
 
-> And whensoever the Bishop shall give knowledge for Children to be brought unto him for their Confirmation, the Minister of every Parish shall either bring, or send in writing, with his hand subscribed thereunto, the Names of all such Persons within his Parish, as he shall think fit to be presented to the Bishop to be Confirmed.
+**Question.** What is the office of a Bishop?
+
+**Answer.** The office of a Bishop is, to be a chief pastor in the Church; to confer Holy Orders; and to administer Confirmation.
+
+**Question.** What is the office of a Priest?
+
+**Answer.** The office of a Priest is, to minister to the people committed to his care; to preach the Word of God; to baptize; to celebrate the Holy Communion; and to pronounce Absolution and Blessing in God's Name.
+
+**Question.** What is the office of a Deacon?
+
+**Answer.** The office of a Deacon is, to assist the Priest in Divine Service, and in his other ministrations, under the direction of the Bishop.
+
+> Then shall the Minister add,
+
+The Lord be with you.
+
+**Answer.** And with thy spirit.
+
+Let us pray.
+
+GRANT, O Lord, that they who shall renew the promises and vows of their Baptism, and be confirmed by the Bishop, may receive such a measure of thy Holy Spirit, that they may grow in grace unto their life's end; through Jesus Christ our Lord.
+Amen.
+
+GRANT, O Father, that when we receive the blessed Sacrament of the Body and Blood of Christ, coming to those holy mysteries in faith, and love, and true repentance, we may receive remission of our sins, and be filled with thy grace and heavenly benediction; through Jesus Christ our Lord.
+Amen.
+
+THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
+Amen.
+
+> The Minister of every Parish shall diligently, upon Sundays and Holy Days, or on some other convenient occasions, openly in the Church, instruct or examine the Youth of his Parish.
+
+> And all Fathers, Mothers, Guardians, and Sponsors shall bring those, for whose religious nurture they are responsible, to the Church at the time appointed, to receive instruction by the Minister.
