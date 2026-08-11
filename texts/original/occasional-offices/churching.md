@@ -1,77 +1,73 @@
-# The Order of the Purificacion of Weomen.
+# The Thankes Geving of Women after Childe Birth, commonly called the Churchyng of Women.
 
 ## The Introduction
 
-> The woman shall come into the churche, and there shal knele downe in some conveniente place, nygh unto the quier doore: and the prieste standyng by her shall saye these woordes, or suche lyke, as the case shall require.
+> The woman shall come into the churche, and there shall knele downe in some conveniente place, nighe unto the place where the table standeth: and the prieste standyng by her, shall say these wordes, or suche like, as the case shal require.
 
-FORASMUCHE as it hath pleased almightie god of hys goodnes to geve you safe deliveraunce, and your childe baptisme, and hath preserved you in the greate daunger of childebirth: ye shal therefore geve hartie thankes unto god, and pray.
+FORASMUCH as it hath pleased almightie God of his goodnes to geve you safe deliveraunce, and hath preserved you in the great daunger of Childe birth: ye shall therefore geve harty thankes unto god, and praye.
 
 ## The Psalm
 
-> Then shall the prieste save this psalme.
+> Then shall the priest say thys Psalme.
 
-Levavi oculos.
-Psalm cxxi.
+I HAVE lyfted up myne eyes unto the hilles from whence cometh my helpe.
 
-I HAVE lifted up mine iyes unto the hilles, from whence cummeth my helpe?
+My helpe cometh even from the lord : which hath made heaven and earth.
 
-My help cummeth even from the lord, which hath made heaven and earth.
+He wil not suffre thy fote to be moved : and he that kepeth thee wil not slepe.
 
-He will not suffer thy foote to be moved, and he that kepeth thee wil not slepe.
+Beholde, he that kepeth Israel : shall neither slumber nor slepe.
 
-Beholde he that kepeth Israel, shal neither slumber nor slepe.
+The lorde hymselfe is thy keper : the lorde is thy defence upon thy right hande.
 
-The lorde himselfe is thy keper, the lorde is thy defence upon thy right hande.
+So that the Sunne shal not burne thee by daye : neyther the Moone by nyghte.
 
-So that the sonne shall not burne thee by daye, neyther the moone by nyght.
+The Lorde shall preserve thee from al evil : yea, it is even he that shal kepe thy soule.
 
-The lord shal preserve thee from al evil, yea it is even he that shal kepe thy soule.
+The Lord shall preserve thy going out, and thy coming in from this time furth for evermore.
 
-The lord shal preserve thy going out, and thy cumming in, from this tyme furth for evermore.
+Glory be to the father, and to the sonne, and to, &c.
 
-Glorye to the father, &c.
-
-As it was in the beginning, &c.
+As it was in the begynnyng, is nowe, and ever, &c.
 
 ## The Lord's Prayer
 
-Lord have mercie upon us.
+Lorde, have mercy upon us.
 
-Christ have mercie upon us.
+Christe, have mercy upon us.
 
-Lord have mercie upon us.
+Lorde, have mercy upon us.
 
-> Our father whiche art in heaven, &c.
+Our Father, which, &c.
 
 And leade us not into temptacion.
 
-**Aunswere.** But deliver us from evil.
+**Aunswere.** But delyver us from evill.
 Amen.
 
 ## The Suffrages
 
-**Priest.** O lord save this woman thy servaunt.
+**Priest.** O Lorde, save this woman thy servaunt.
 
-**Aunswere.** Whiche putteth her trust in thee.
+**Aunswere.** Which putteth her trust in thee.
 
-**Priest.** Bee thou to her a strong tower.
+**Priest.** Be thou to her a strong tower.
 
-**Aunswere.** From the face of her enemie.
+**Aunswere.** From the face of her enemye.
 
-**Priest.** O Lorde heare our prayer.
+**Priest.** Lorde, heare our prayer.
 
-**Aunswere.** And let our crye come to thee.
+**Aunswere.** And let our crie come unto thee.
 
 ## The Prayer
 
 **Priest.**
 
-> Let us pray.
+> Let us praye.
 
-O ALMIGHTIE God, which hast delivered this woman thy servant from the great payne and peril of childbirth: Graunt, we beseche thee (most mercifull father), that she through thy helpe may both faithfully lyve, and walke in her vocacyon accordynge to thy will in thys lyfe presente; and also may be partaker of everlastyng glorye in the lyfe to come: through Jesus Christ our lorde.
+O ALMIGHTIE god, whiche hast delyvered this woman thy servant from the great paine and peryl of childe birth: Graunte, we beseche thee, (most mercifull father,) that she through thy helpe, maye both faythfully lyve, and walke in her vocacion, accordyng to thy wyl in thys lyfe present; and also maye bee partaker of everlastinge glorye in the life to come: through Jesus Christe our Lorde.
 Amen.
 
 ## The Rubrics
 
-> The woman that is purifyed, must offer her Crysome and other accustomed offeringes.
-> And if there be a communion, it is convenient that she receive the holy communion.
+> The woman that cometh to geve her thankes, muste offre accustomed offerynges: and if there be a Communion, it is conveniente that she receyve the holy Communyon.

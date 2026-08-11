@@ -16,10 +16,6 @@ helpe we may bryng the same to good effecte, through Jesus Christ our
 
 lorde, who lyveth and reigneth, etc.
 
-> The ii.
-> Lesson, Matt. xxviii.
-> unto thende.]*
-
 ## The Epistle
 
 Acts 10

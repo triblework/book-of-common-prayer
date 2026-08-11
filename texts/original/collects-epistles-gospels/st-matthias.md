@@ -1,10 +1,5 @@
 # Saint Mathies' daie
 
-## The Introit
-
-Eripe me.
-Psalm 140
-
 ## The Collect
 
 ALMYGHTYE God,

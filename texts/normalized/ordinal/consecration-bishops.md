@@ -2,9 +2,9 @@
 
 ## The Epistle
 
-> The Psalme for the Introyte at the Communion, as at the orderyng of Priestes.
+> At the Communion.
 
-> The Epistle. 1 Tim. iii.
+> The Epistle.
 
 This is a true saying, if a man desire the office of a Bisshoppe, he desireth an honest woorke.
 A Bishoppe therefore muste bee blamelesse, the husbande of one wyfe, dilygent, sober, discrete, a keper of hospitalitie, apte to teache, not geven to overmuche wyne, no fyghter, not gredy of filthy lucre, but gentle, abhorring fightynge, abhorrynge covetousnesse, one that ruleth wel his own house, one that hath children in subjeccion with al reverence.
@@ -29,15 +29,15 @@ Jesus said unto hym, fede my shepe.
 
 ## The Presentation
 
-> After the gospel and Credo ended, firste the elected Bisshoppe havyng upon hym a Surples and Cope shall bee presented by two Bisshoppes (beeyng also in surplesses and copes, and having theyr pastorall staves in their handes) unto the Archebisshoppe of that Province, or to some other Bysshoppe appoynted by his commission: The Bisshoppes that present hym saying.
+> After the gospel and Credo ended, firste the elected Bisshoppe shall bee presented by two Bisshoppes unto the Archebisshoppe of that Province, or to some other Bysshoppe appoynted by his commission: The Bisshoppes that present hym saying.
 
 Most reverend father in god, we presente unto you this godly and wel learned man to be consecrated Bisshoppe.
 
 ## The Oath of Due Obedience
 
-> And then the Kynges mandate to the Archebisshoppe for the consecracion shalbe read.
-> And the othe touching the knowledging of the kinges supremacie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
-> And then shalbe ministred also, the othe of due obedience unto the Archebisshoppe, as foloweth.
+> Then shal the Archebisshoppe demand the Kynges mandate for the consecracion and cause it to be read.
+> And the othe touching the knowledge of the kinges supremacie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
+> And then shalbe ministred also the othe of due obedience unto the Archebishoppe, as foloweth.
 
 > The Othe of Due Obedience to the Archebisshoppe.
 
@@ -45,7 +45,7 @@ In the name of God, Amen.
 I, N.
 chosen Bisshoppe of the Church and sie of N.
 doe professe and promesse, al due reverence and obedience to the Archebisshoppe, and to the Metropoliticall church of N.
-and to their successours: so helpe me God, and his holy gospel.
+and to their successours: so helpe me God throughe Jesus Chryste.
 
 > This othe shal not be made at the consecracion of an Archebishoppe.
 
@@ -104,7 +104,7 @@ And suche as be unquiete, disobedyente, and criminous within your Diocesse, corr
 
 **The Archebisshoppe.** Wil you show yourself gentle, and be merciful for Christes sake to poore and nedy people, and to all straungers destitute of helpe?
 
-**Aunswere.** I wyll so show myselfe by gods grace.
+**Aunswere.** I wyll so show myselfe by gods helpe.
 
 **The Archebisshoppe.** Almighty God oure heavenly father, who hath geven you a good wil to doe all these thinges, graunt also unto you, strengthe and power to performe the same, that he accomplishing in you, the good worke which he hath begon, ye may be found perfecte, and irreprehensible at the latter day, through Jesu Chryst our Lord.
 Amen.
@@ -118,9 +118,9 @@ Amen.
 
 > That ended, the Archebisshoppe shall say.
 
-The Lord be with you.
+Lorde, heare our prayer.
 
-**Aunswere.** And with thy spirit.
+**Aunswer.** And let our crie come unto thee.
 
 > Let us praye.
 
@@ -133,21 +133,17 @@ Take the holy gost, and remember that thou stirre up the grace of god, whiche is
 
 ## The Delivery of the Bible
 
-> Then the Archebisshoppe shal lay the Bible upon hys necke, saying.
+> Then the Archebisshoppe shal deliver him the Bible, saying.
 
 Geve hede unto reading, exhortacion and doctrine.
 Thinke upon these thinges conteined in this boke, be diligent in them, that the encrease comyng therby, may be manyfest unto all men.
-Take hede unto thyselfe, and unto teaching, and be diligent in doing them, for by doing this thou shalt save thyselfe, and them that heare thee: through Jesus Christe our Lorde.
-
-> Then shal the Archebisshoppe putte into his hande the pastorall staffe, saying.
-
-Be to the flocke of Christ a shepeheard, not a wolfe: feede them, devoure them not; holde up the weake, heale the sicke, binde together the broken, bryng again the outcastes, seke the lost.
+Take hede unto thyselfe, and unto teaching, and be diligent in doing them, for by doing this thou shalt save thyselfe, and them that heare thee; bee to the flocke of Christ a shepeheard, not a wolfe: feede them, devoure them not; holde up the weake, heale the sicke, binde together the broken, bryng again the outcastes, seke the lost.
 Be so merciful, that you be not to remisse, so minister discipline, that ye forgeat not mercy; that when the chief shepheard shal come, ye may receyve the immarcessible croune of glory, through Jesus Christ our lord.
 Amen.
 
 ## The Communion
 
-> Then the Archebisshoppe shal procede to the Communion, with whom the newe consecrated Bysshopp shal also communicate.
+> Then the Archebisshoppe shal procede to the Communion, with whom the newe consecrated Bysshopp with other, shal also communicate.
 > And after the laste Collecte, immediatlye afore the benediccyon, shall bee sayed thys prayer:
 
 Most merciful father, we beseche thee to send down upon this thy servaunt, thy heavenly blessynge, and so endue hym with thy holy spirit, that he preaching thy word, may not only be earneste to reprove, beseche, and rebuke with al pacience and doctryne, but also may be to such as beleve, an wholesome example in word, in conversacion, in love, in faith, in chastitie, and puritie, that faythfully fulfilling his course, at the latter day he may receive the croune of righteousnesse, laied up by the Lord, the righteous judge, who liveth and reigneth, one god with the father and holy gost, world withoute ende.

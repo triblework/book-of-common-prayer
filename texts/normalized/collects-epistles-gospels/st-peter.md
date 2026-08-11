@@ -1,10 +1,5 @@
 # Saint Peter's Day
 
-## The Introit
-
-Benedictus Dominus.
-Psalm 144
-
 ## The Collect
 
 ALMIGHTY God,
@@ -28,14 +23,3 @@ Acts 12
 ## The Gospel
 
 Matthew 16
-
-## The Proper Lessons
-
-> At Matins.
-
-> The Second Lesson, Acts iii.
-> unto the end.
-
-> At Evensong.
-
-> The Second Lesson, Act iiii unto the ende.

@@ -1,10 +1,5 @@
 # Sainct Markes day
 
-## The Introit
-
-Domine, clamavi.
-Psalm 141
-
 ## The Collect
 
 1549, 1552, and early printings of 1559.

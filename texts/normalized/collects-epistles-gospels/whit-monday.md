@@ -1,10 +1,5 @@
 # Monday in whitsonweke
 
-## The Introit
-
-Jubilate Deo.
-Psalm 100
-
 ## The Collect
 
 God, which, &c.

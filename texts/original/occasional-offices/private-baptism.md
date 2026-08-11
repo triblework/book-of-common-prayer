@@ -1,176 +1,110 @@
-# Of them that be baptized in private houses in tyme of necessitie.
+# Of them that be baptysed in private houses in tyme of necessitie.
 
 ## The Introduction
 
-> The pastours and curates shall oft admonyshe the people, that they differ not the Baptisme of infantes any longer then the Sondaye, or other holy daye, nexte after the chylde bee borne, onlesse upon a great and reasonable cause declared to the curate and by hym approved.
+> The Pastours and Curates shall oft admonishe the People that they deferre not the Baptisme of Infantes anye longer than the Sondaye, or other holye daye nexte after the chyld bee borne, unlesse upon a great and reasonable cause declared to the Curate and by him approved.
 
-> And also they shal warne them that without great cause, and necessitie, they Baptize not children at home in theyr houses.
-> And when great nede shall compell them so to doe, that then they minister it on this fashion.
+> And also they shal warne them, that without great cause and necessitie, they baptyse not chyldren at home in theyre houses.
+> And when great nede shal compel them so to do, that then they minister it on this fashion.
+<!-- VERIFY: source prints 'shot compel'; likely 'shal compel'; kept as printed; confirm against a page scan -->
 
 ## The Private Baptism
 
-> First let them that be present cal upon God for his grace, and saye the Lordes prayer, yf the tyme will suffre.
-> And then one of them shal name the childe, and dippe him in the water, or poure water upon him, saying these woordes.
+> First let them that be Present cal upon God for his grace, and saye the Lordes prayer, yf the tyme wyl suffre.
+> And then one of them shall name the chyld, and dippe him in the water, or Powre water upon him, saying these wordes.
 
 > N.
-> I Baptise the in the name of the father, and of the sonne and of the holy ghoste.
+> I Baptyse thee in the name of the father, and of the sonne, and of the holy ghost.
 > Amen.
 
-> And let them not doubt, but that the childe so Baptised, is lawfully and sufficiently Baptized, and ought not to be Baptized againe, in the Churche.
-> But yet neverthelesse if the childe whiche is after this sorte Baptized, doe afterwarde lyve: it is expedient that he be brought into the Churche, to thentent the prieste maye examine and trye, whether the childe be lawfully Baptized or no. And yf those that bryng any childe to the Churche doe aunswere that he is alreadye Baptized: Then shall the priest examin them, further.
-<!-- VERIFY: source prints 'he*' with a footnote '* they in some printings'; 'he' kept as the primary reading; confirm against a page scan -->
+> And let them not doubt, but that the child so Baptised, is lawfully and sufficiently Baptised, and ought not to be Baptized agayne, in the Church.
+> But yet neverthelesse yf the child which is after this sorte Baptised, do afterward lyve, it is expedient that he be brought into the churche, to the entent the Priest may examine and trie, whether the child be lawfully Baptized or no. And yf those that bringe any child to the church do answere that he is already baptysed, then shall the Priest examine them further.
 
 ## The Examination
 
-> By whom the childe was Baptised?
+> By whom the chyld was Baptysed?
 
-Who was presente when the childe was baptised?
+Who was present when the chyld was Baptysed?
 
-Whether they called upon God for grace and succoure in that necessitie?
+Whether they called upon God for grace and succour in that necessitie?
 
-With what thyng, or what matter they dyd Baptise the childe?
+With what thing, or what matter, they dyd Baptyse the chylde.
 
-With what woordes the childe was Baptised?
+With what wordes the chide was Baptised?
 
-Whether they thinke the childe to be lawfully and perfectly Baptised?
+Whether they thinke the childe to bee lawefully and perfectly Baptysed?
 
-> And if the ministers shall prove by the aunswers of suche as brought the childe, that all thynges were done, as they ought to be: Then shall not he christen the childe agayne, but shall receyve hym, as one of the flocke of the true christian people, saying thus.
+> And yf the ministers shall prove by the aunsweres of suche as brought the childe, that at thinges were done as they ought to be: Then shall not he Christen the chylde agayne but shal receyve him, as one of the flocke of the true Christian People, sayinge thus.
 
 ## The Certificate
 
-I CERTIFIE you, that in this case ye have doen wel, and according unto due ordre concerning the baptising of this child, which being borne in original synne, and in the wrathe of God, is nowe by the laver of regeneracion in Baptisme, made the childe of God, and heire of everlastyng life: for oure Lorde Jesus Christe doeth not denye hys grace and mercie unto such infantes, but most lovingly doeth call them unto him.
-As the holy ghospell doeth witnesse to our coumforte on this wyse.
+I CERTIFIE you, that in this case ye have done well, and according unto due order concerning the baptysing of this child, which beynge born in original synne and in the wrathe of God, is nowe by the laver of regeneracion in Baptisme receyved into the noumbre of the children of God, and heyres of everlasting lyfe: for our Lorde Jesus Christ doeth not denie his grace and mercie unto such infantes, but most lovingly doth cal them unto him, as the holy gospel doeth witnesse to our comfort, on this wyse.
 
 ## The Gospel
 
-AT a certaine time thei brought children unto Christ that he should touch them, and his disciples rebuked those that brought them.
-But when Jesus sawe it, he was displeased, and sayed unto them: Suffre lytle chyldren to come unto me, and forbidde them not, for to suche belongeth the kingdome of God.
-Verely I saye unto you, whosoever doeth not receyve the kingdom of God as a lytle chylde, he shall not enter therin.
-And when he had taken them up in his armes, he put his handes upon them, and blissed them.
+AT a certayne tyme they brought chyldren unto Christ that he should touche them, and his disciples rebuked those that brought them.
+But when Jesus saw it, he was displeased, and sayde unto them: Suffre litle chyldren to come unto me, and forbid them not, for to such belongeth the kingdom of God.
+Verely I saye unto you, whosoever doeth not receyve the kyngdome of God as a litle chyld, he shal not entre therein.
+And when he had taken them up in his arms, he put his handes upon them and blessed them.
+Mark x.
 
 ## The Exhortation upon the Gospel
 
-> After the ghospell is read: the minister shall make this exhortacion upon the woordes of the ghospell.
+> After the Gospell is read, the Minister shall make this exhortacion upon the words of the Gospel.
 
-FRENDES ye heare in this ghospell the woordes of our Saveoure Christ, that he commaunded the children to be brought unto him, how he blamed those that would have kept them from hym, howe he exhorted all men to folowe their innocencie: Ye perceive how by his outward gesture and dede he declared his good wyll towarde them, for he embraced them in his armes, he layed his handes upon them, and blessed them.
-Doubt you not therfore, but earnestly beleve, that he hath lykewyse favourably receyved this presente infante, that he hath embraced him with the armes of his mercy, that he hath geven unto him the blessing of eternal lyfe, and made him partaker of his everlasting kingdom.
-Wherfore we beyng thus persuaded of the good will of oure heavenly father, declared by his sonne Jesus Christ towardes this infante: Let us faythfully and devoutly geve thankes unto him, and saye the prayer whiche the Lorde himselfe taught; and in declaracion of our fayth, let us also recyte the articles conteined in our Crede.
+FRENDES, youe heare in this Gospell the wordes of our Saviour Christe, that he commaunded the chyldren to bee broughte unto him: howe he blamed those that woulde have kepte them from him: howe he exhorted all men to folow their innocencie: ye perceyne howe by his outwarde gesture and dede he declared his good wyll toward them.
+For he embrased them in his arms, he layde his handes upon them, and blessed them.
+Doubt ye not therefore, but earnestly believe, that he hath lykewise favourably receyved thys present infante, that he hath embrased him with the armes of his mercie, that he hath geven unto him the blessinge of eternall lyfe, and made him partaker of his everlasting kyngdome.
+Wherfore we beeing thus perswaded of the good wyll of our heavenly father, declared by hys sonne Jesus Christ towardes this infant: Let us faythfully and devoutly geve thankes unto hym, and saye the prayer which the Lorde himselfe taught; and in declaracion of our fayth, let us recyte the articles conteyned in our Crede.
 
 ## The Lord's Prayer
 
-> Here the minister with the Godfathers and Godmothers shall saye.
+> Here the Ministre with the Godfathers and Godmothers shall say.
 
-OUR father whiche arte in heaven, halowed be thy name, &c.
-
-## The Creed
-
-> Then shall they saye the Crede, and then the prieste shall demaund the name of the childe, whiche beyng by the Godfathers and Godmothers pronounced, the minister shall saye.
+OUR father which art in heaven, &c.
 
 ## The Vows
 
-> N.
-> Doest thou forsake the devill and all his workes?
+> Then shal the Priest demaund the name of the chyld, which beyng by the Godfathers and Godmothers pronounced, the Ministre shall saye.
 
-Aunswere.
-I forsake them.
+N.
+Doest thou in the name of this childe forsake the Devill and all hys woorks, the vayne pompe and glorye of the worlde, with all the covetous desyres of the same, the carnall desyres of the flesh, and not to folow, and be ledde by them?
 
-Minister.
-Doest thou forsake the vaine pompe and glory of the worlde, with all the covetous desyres of the same?
-
-Aunswere.
-I forsake them.
+Answere.
+I forsake them all.
 
 Minister.
-Doest thou forsake the carnall desyres of the flesh, so that thou wilt not folowe and be led by them?
+Doest thou in the name of this childe professe thys fayth, to beleve in God the father almightye, maker of heaven and earth.
+And in Jesus Christ his onely begotten sonne our Lorde: and that he was conceived by the holy ghoste, borne of the vyrgin Marye, that he suffred under Poncius Pilate, was crucifyed, dead and buried, that he went downe into hell, and also dyd ryse agayne the thyrde day: that he ascended into heaven, and sytteth at the ryght hande of God the father almightie: and from thence he shall come agayne at the ende of the worlde to judge the quicke and the dead?
+
+And doe you in hys name beleve in the holy gost.
+The holy catholique Churche.
+The Communion of saincts.
+The remission of synnes.
+Resurreccion, and everlasting lyfe after death?
 
 Aunswere.
-I forsake them.
-
-Minister.
-Doest thou beleve in God the father almyghtie, maker of heaven and yearth?
-
-Aunswere.
-I beleve.
-
-Minister.
-Doest thou beleve in Jesus Christe hys onely begotten sonne our lorde, and that he was conceyved by the holy Gost, borne of the virgin Marie, that he suffered under Pontius Pilate, was crucifyed, dead, and buried, that he went downe into hel, and also did arise againe the third day, that he ascended into heaven, and sitteth on the righte hande of god the father almightie: And from thence shal come agayn at the ende of the world to judge the quicke and the dead, doest thou beleve thus?
-
-Aunswere.
-I beleve.
-
-Minister.
-Doest thou beleve in the holy goste, the holy catholyke Churche, the Communion of Saintes, Remission of sinnes, Resurreccion of the flesh, and everlasting life after deth?
-
-Aunswere.
-I beleve.
-
-## The White Vesture
-
-> Then the minister shal put the white vesture, commonly colled the Crysome, upon the childe, saying.
-
-TAKE thys whyte vesture for a token of the innocencie whiche by goddes grace in the holy sacramente of baptysme is geven unto thee, and for a signe wherby thou art admonished so long as thou shalt lyve, to geve thyselfe to innocencye of livyng, that after this transitory life, thou maiest be partaker of the life everlasting.
-Amen.
+All this I stedfastly believe.
 
 ## The Thanksgiving
 
-> Let us pray.
+> Let us praye.
 
-ALMIGHTIE and everlasting god heavenly father, wee geve thee humble thankes that thou hast vouchesafed to cal us to the knowlege of thy grace, and faith in thee: Increase and confirme this fayth in us evermore: Geve thy holy spirite to this infant, that he being borne agayne, and beeing made heyre of everlasting salvacion through our lord Jesus Christ, may continue thy servaunt, and attein thy promises through the same our lorde Jesus Christe thy sonne, who liveth and reigneth with the in unitie of the same holy spirite everlastinglye.
+ALMIGHTIE and everlastyng God, heavenly father, we geve thee humble thankes, for that thou hast vouchsafed to cal us to the knowledge of thy grace, and fayth in thee: increase this knowledge and confyrme this fayth in us evermore: Geve thy holy spirit to this infante, that he beyng borne agayne, and beeyng made heyre of everlasting salvacion, through oure Lorde Jesus Christe, maye continue thy servaunt, and attayne thy promyse, through the same oure Lord Jesus Christ thy sonne: who lyveth and reygneth with thee in unitie of the same holy spirite everlastingly.
 Amen.
 
 ## The Final Exhortation
 
-> Then shall the minister make this exhortacion, to the Godfathers, and Godmothers.
+> Then shal the minister make this exhortacion to the Godfathers, and Godmothers.
 
-FORASMUCHE as this chylde hath promised by you to forsake the devil and al his workes, to beleve in god, and to serve him, you must remember that it is your partes and duetie to see that this infant be taught, so sone as he shalbe able to learne, what a solemne vowe, promise, and profession he hath made by you, and that he may know these thinges the better, ye shall call upon hym to heare sermons: and chiefly ye shal provide that he may learne the Crede, the Lordes prayer, and the ten commaundementes in the english tong, and al other thinges which a christian man ought to know and beleve to his soules health, and that this childe may bee vertuously brought up, to leade a godly and a christian life.
-Remembring alway that baptisme doeth represent unto us our profession, which is to folow thexample of our saviour Christe, and to be made like unto him, that as he died and rose again for us: so should we whiche are baptized, dye from sin, and ryse againe unto righteousnes, continually mortifying al our evil and corrupt affeccions, and dayly proceding in al vertue and godlines of living.
+FORASMUCHE as thys chylde hath promysed by you to forsake the devill and all his works, to beleve in God, and to serve him: you must remembre that it is youre parte and duetie to see that this infante be taughte so soone as he shalbe able to learne, what a solemne vowe, promyse, and profession he hath made by you: and that he maye knowe these thyngs the better, ye shall call upon hym to heare sermons: And chieflye ye shall provyde that he maye learne the Crede, the Lordes Prayer, and the ten Commaundements in the Englishe tongue, and all other thyngs whiche a Chrystian man ought to knowe, and beleve, to his soules health, and that thys childe maye be vertuously broughte up, to leade a godly and a Christen lyfe: Remembryng alwaye that Baptisme doeth represente unto us our profession, which is to folowe the example of our saviour Christe, and be made lyke unto hym: that as he dyed and rose agayne for us, so should we, which are baptized, die from synne, and ryse agayne unto righteousnesse, continually mortyfyyng al our evill and corrupte affeccions, and dayly proceding in all vertue, and godlynes of lyving.
 
-> &c.
-> As in Publike Baptisme.
+> And so forth, as in Publique Baptisme.
 
 ## Conditional Baptism
 
-> But if they which bring the infantes to the church, do make an uncertain answere to the priestes questions, and say that they cannot tel what they thought, did, or sayde in that great feare and trouble of mynde (as oftentymes it chaunseth): Then let the priest Baptize him in forme above written, concernyng publyke Baptisme, savyng that at the dyppyng of the childe in the fonte, he shall use this forme of woordes.
+> But yf they which bring the infantes to the Churche, doe make an uncertayn aunswere to the Priestes questions, and saye that they cannot tel what they thoughte, dyd, or sayde, in that greate feare and trouble of mynd (as oftentymes it chaunceth): then lette the Priest baptyse him in forme above wrytten concernynge Publique Baptysme, savyng that at the dypping of the Chyld in the Fonte, he shal use this forme of wordes.
 
-IF thou be not Baptized already, N.
-I Baptize thee in the name of the father, and of the sonne, and of the holy gost.
+IF thou be not baptysed already, N.
+I baptise thee in the name of the father, and of the sonne, and of the holy goste.
 Amen.
-Marke x.
-
-## The Blessing of the Font
-
-> The water in the fonte shalbe chaunged every moneth once at the lest, and afore any child be Baptized in the water so chaunged, the priest shall say at the font these prayers folowing.
-
-O MOSTE mercifull god our savioure Jesu Christ, who hast ordeyned the element of water for the regeneracion of thy faythful people, upon whom, beyng baptised in the river of Jordane, the holye ghoste came down in the likenesse of a doove: Sende down we beseche thee the same thy holye spirite to assiste us, and to bee present at this our invocacion of thy holy name: Sanctifie this fountaine of baptisme, thou that art the sanctifier of al thynges, that by the power of thy worde, all those that shall he baptized therein, maye be spirituallye regenerated, and made the children of everlasting adopcion.
-Amen.
-<!-- VERIFY: 'all those that shall he baptized' — the justus 1549 text reads "shall he baptized"; an OCR/print slip for "shall be baptized"; left as-sourced pending a 1549 scan -->
-
-O MERCIFULL God , graunte that the olde Adam, in them that shalbe baptized in this fountayne, maye so be buried, that the newe man may be raised up agayne.
-Amen.
-
-GRAUNT that all carnal affeccions maie die in them; and that all thynges, belongyng to the spirite maye live and growe in them.
-Amen.
-
-GRAUNT to all them which at this fountayne forsake the devill and all his workes: that they maye have power and strength to have victorye and to triumph againste hym, the worlde, and the fleshe.
-Amen.
-
-WHOSOEVER shal confesse the, o lorde: recognise him also in thy kingdome.
-Amen.
-
-GRAUNT that al sinne and vice here maie bee so extinct: that thei never have power to raigne in thy servauntes.
-Amen.
-
-GRAUNTE that whosoever here shall begynne to be of thy flocke: maie evermore continue in the same.
-Amen.
-
-GRAUNT that all they which for thy sake in this life doe denie and forsake themselfes: may winne and purchase thee (o lord) which art everlasting treasure.
-Amen.
-
-GRAUNT that whosoever is here dedicated to thee by our office and ministerie: maye also bee endewed with heavenly vertues, and everlastinglye rewarded through thy mercie, O Blessed lorde God, who doest live and governe al thinges world without ende.
-Amen.
-
-The Lorde be with you.
-**Answer.** The people.
-And with thy spirite.
-
-ALMIGHTYE everliving God, whose moste derely beloved sonne Jesus Christe, for the forgevenesse of our sinnes did shead out of his moste precious side bothe water and bloude, and gave commaundemente to his disciples that they shoulde goe teache all nacions, and baptise them in the name of the father, the sonne, and the holye ghoste: Regarde, we beseche thee, the supplicacions of thy congregacion, and graunte that all thy servauntes which shall bee baptized in this water prepared for the mynystracion of thy holy sacrament, maye receive the fulnesse of thy grace, and ever remaine in the noumbre of thy faithful, and elect children, through Jesus Christ our Lord.

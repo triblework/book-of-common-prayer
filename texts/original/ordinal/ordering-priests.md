@@ -2,11 +2,8 @@
 
 ## The Epistle
 
-> When the exhortacion is ended, then shall be song, for the introyte to the Communion, this psalme -- Expectans expectavi Dominum, Psal. xl.
-> Or els this psalme -- Memento Domine David, Psalm cxxxii.
-> Or els this Psalme -- Laudate nomen Domini, Psalm cxxxv.
-
-> Then shalbe reed for the Epistle this out of the twentieth Chapter of the Actes of the Apostles.
+> When the exhortacion is ended, then shal folowe the Communion.
+> And for the Epistle shalbe red out of the twentieth Chapter of the Actes of the Apostles as foloweth.
 
 From Mileto Paule sent messengers to Ephesus, and called the Elders of the congregacion; which when they were come to him, he sayde unto them.
 Ye know, that from the first day that I came into Asia, after what maner I have been wyth you at al seasons, servynge the Lord wyth al humblenes of mynde, and wyth many teares and temptacions which happened unto me by the layinges awayte of the Jewes, because I would kepe backe nothinge that was profitable unto you, but to shewe you and teache you openly throughout every house: witnessing bothe to the Jewes, and also to the Grekes, the repentaunce that is towarde God, and the fayth whiche is towarde oure Lorde Jesus.
@@ -151,7 +148,7 @@ Amen.
 
 ## The Presentation
 
-> And then the Archedeacon shalt present unto the Bisshop, all them that shall receyve the order of Priesthode that daye, every of them having upon hym a playne Albe.
+> And then the Archedeacon shalt present unto the Bisshop, all them that shall receyve the order of Priesthode that daye.
 > The Archedeacon sayinge.
 
 Reverende Father in God, I presente unto you, these persones presente, to bee admitted to the ordre of Priesthode,
@@ -243,10 +240,6 @@ Almightie god, who hath geven you this wyl to doe al these thynges, graunt also 
 
 > That doen, the Bisshoppe shall praye in this wyse.
 
-The Lorde be with you.
-
-**Aunswere.** And with thy spirite.
-
 > Let us praye.
 
 Almightie god and heavenly father, which of thy infinite love and goodnes towardes us, hast geven to us thy onely and moste deare beloved sonne Jesus Christe, to be our redemer and aucthour of everlasting life: who after he had made perfecte our redempcion by hys death, and was ascended into heaven, sent abrode into the worlde hys Apostles, Prophetes, Evangelistes, Doctours and Pastours, by whose labour and ministere, he gathered together a greate flocke in al the partes of the worlde, to set furth the eternal praise of thy holy name.
@@ -263,7 +256,7 @@ Receive the holy goste, whose synnes thou doest forgeve, they are forgeven: and 
 In the name of the father, and of the sonne, and of the holy gost.
 Amen.
 
-> The Bisshop shall deliver to every one of them, the Bible in the one hande, and the Chalice or cuppe with the breade, in the other hande, and saying.
+> The Bisshop shall deliver to every one of them, the Bible in his hande, saying.
 
 Take thou aucthoritie to preache the word of god, and to minister the holy Sacramentes in thys congregacion, where thou shalt be so appointed.
 <!-- VERIFY: 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan -->
