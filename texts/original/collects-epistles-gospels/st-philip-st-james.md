@@ -19,10 +19,3 @@ James 1
 ## The Gospel
 
 John 14
-
-## The Proper Lessons
-
-> At Matins.
-
-> The Second Lesson, Acts viii.
-> unto "When the apostles."

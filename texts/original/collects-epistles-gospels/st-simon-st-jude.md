@@ -1,10 +1,5 @@
 # Symon and Jude Apostles
 
-## The Introit
-
-Laudate Dominum.
-Psalm 150
-
 ## The Collect
 
 ALMIGHTIE God,

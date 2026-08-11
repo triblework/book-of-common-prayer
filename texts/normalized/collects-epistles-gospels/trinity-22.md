@@ -1,10 +1,5 @@
 # The xxii Sondaye
 
-## The Introit
-
-Appropinquet deprecatio.
-Psalm 119
-
 ## The Collect
 
 LORDE we beseche

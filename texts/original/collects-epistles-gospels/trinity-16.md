@@ -1,10 +1,5 @@
 # The xvi Sonday
 
-## The Introit
-
-Feci judicium.
-Psalm 119
-
 ## The Collect
 
 LORD, we beseche thee, let thy continual pitie clense and defende thy congregacion;

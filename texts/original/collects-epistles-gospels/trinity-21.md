@@ -1,10 +1,5 @@
 # The xxi Sondaie
 
-## The Introit
-
-Principes persecuti.
-Psalm 119
-
 ## The Collect
 
 GRAUNT we beseche

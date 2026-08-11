@@ -1,10 +1,5 @@
 # Sainct Luke evangelist
 
-## The Introit
-
-Super flumina.
-Psalm 137
-
 ## The Collect
 
 ALMIGHTY God

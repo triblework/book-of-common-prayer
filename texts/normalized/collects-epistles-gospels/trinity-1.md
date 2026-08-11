@@ -1,10 +1,5 @@
 # The first Sonday after Trinitie Sonday
 
-## The Introit
-
-Beati immaculati.
-Psalm 119
-
 ## The Collect
 
 GOD, the strength of all theym that trust in thee, mercifully accept our
