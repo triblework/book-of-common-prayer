@@ -2,12 +2,14 @@
 
 ## The Collect
 
-ALMIGHTY
+ALMIGHTY.
+Amen.
 
 Father, &c.
-as at the Communion on Easter
+as at the second Communion on Easter. Amen.
 
 day.
+Amen.
 
 ## The Epistle
 

@@ -2,11 +2,14 @@
 
 ## The Collect
 
-STIERE
+STIERE.
+Amen.
 
-up we beseche thee, O Lord, the wylles of thy faythful people, that
+up we beseche thee, O Lord, the wylles of thy faythful people, that.
+Amen.
 
-they, plenteously bringing furth the fruite of good workes; may of thee,
+they, plenteously bringing furth the fruite of good workes; may of thee,.
+Amen.
 
 be plenteously rewarded; through Jesus Christe our Lorde.
 Amen.

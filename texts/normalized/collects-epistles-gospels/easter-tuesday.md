@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMYGHTY
+ALMYGHTY.
+Amen.
 
-father, whiche haste geven thy only sonne to dye for our sins, and
+father, whiche haste geven thy only sonne to dye for our sins, and.
+Amen.
 
-to ryse agayne for oure justificacion; Graunt us so to put awaye the
+to ryse agayne for oure justificacion; Graunt us so to put awaye the.
+Amen.
 
-leven of malyce and wyckednes, that we maye alwaye serve thee in purenes
+leven of malyce and wyckednes, that we maye alwaye serve thee in purenes.
+Amen.
 
 of lyvynge and truth; through Jesus Christe oure Lorde.
+Amen.
 
 ## The Epistle
 

@@ -2,15 +2,20 @@
 
 ## The Collect
 
-EVERLASTYNG
+EVERLASTYNG.
+Amen.
 
-God, which haste ordayned and constituted the services of all Angels
+God, which haste ordayned and constituted the services of all Angels.
+Amen.
 
-and men in a wonderful ordre: mercifully graunt, that they whiche alwaye
+and men in a wonderful ordre: mercifully graunt, that they whiche alwaye.
+Amen.
 
-doe thee service in heaven, may by thy appoyntment succour and defende
+doe thee service in heaven, may by thy appoyntment succour and defende.
+Amen.
 
 us in earth: through Jesus Christe our Lorde, &c.
+Amen.
 
 ## The Epistle
 

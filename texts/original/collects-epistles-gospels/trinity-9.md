@@ -2,13 +2,17 @@
 
 ## The Collect
 
-GRAUNT to us Lorde
+GRAUNT to us Lorde.
+Amen.
 
-we beseche thee, the spirite to thinke and doe alwayes suche thynges
+we beseche thee, the spirite to thinke and doe alwayes suche thynges.
+Amen.
 
-as be rightfull; that we, which cannot be without thee, may by thee
+as be rightfull; that we, which cannot be without thee, may by thee.
+Amen.
 
 be able to live accordyng to thy wyll; Through Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

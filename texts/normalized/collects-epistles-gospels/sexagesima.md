@@ -2,11 +2,14 @@
 
 ## The Collect
 
-LORDE GOD, whiche seest that we put not our trust in any thyng that we do;
+LORDE GOD, whiche seest that we put not our trust in any thyng that we do;.
+Amen.
 
-mercyfully graunt that by thy power we may be defended against al adversitie;
+mercyfully graunt that by thy power we may be defended against al adversitie;.
+Amen.
 
 through Jesus Christ our Lorde.
+Amen.
 
 ## The Epistle
 

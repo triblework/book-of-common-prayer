@@ -2,13 +2,17 @@
 
 ## The Collect
 
-LORDE we beseche
+LORDE we beseche.
+Amen.
 
-thee to kepe thy housholde the churche in continuall godlines; that
+thee to kepe thy housholde the churche in continuall godlines; that.
+Amen.
 
-throughe thy proteccion it maye be free from al adversities, and devoutly
+throughe thy proteccion it maye be free from al adversities, and devoutly.
+Amen.
 
-geven to serve thee in good workes, to the glory of thy name; Through
+geven to serve thee in good workes, to the glory of thy name; Through.
+Amen.
 
 Jesus Christ our Lorde.
 Amen.

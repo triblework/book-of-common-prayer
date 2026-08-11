@@ -4,15 +4,20 @@
 
 ## The Collect
 
-LORDE of all power
+LORDE of all power.
+Amen.
 
-and might, whiche art the author and gever of all good thynges; graffe
+and might, whiche art the author and gever of all good thynges; graffe.
+Amen.
 
-in our hartes the love of thy name, increase in us true religion, norishe
+in our hartes the love of thy name, increase in us true religion, norishe.
+Amen.
 
-us with all goodnes, and of thy great mercy kepe us in the same; Through
+us with all goodnes, and of thy great mercy kepe us in the same; Through.
+Amen.
 
 Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

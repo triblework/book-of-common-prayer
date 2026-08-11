@@ -2,19 +2,25 @@
 
 ## The Collect
 
-ALMIGHTYE
+ALMIGHTYE.
+Amen.
 
-God, whiche through thy onelye begotten sonne Jesus Christe hast overcome
+God, whiche through thy onelye begotten sonne Jesus Christe hast overcome.
+Amen.
 
-deathe, and opened unto us the gate of everlastyng lyfe; we humbly beseche
+deathe, and opened unto us the gate of everlastyng lyfe; we humbly beseche.
+Amen.
 
-thee, that as by thy speciall grace, preventyng
+thee, that as by thy speciall grace, preventyng.
+Amen.
 
-us, thou doest putte in our myndes good desyres, so by thy continuall
+us, thou doest putte in our myndes good desyres, so by thy continuall.
+Amen.
 
-helpe we may bryng the same to good effecte, through Jesus Christ our
+helpe we may bryng the same to good effecte, through Jesus Christ our.
+Amen.
 
-lorde, who lyveth and reigneth, etc.
+lorde, who lyveth and reigneth, etc. Amen.
 
 ## The Epistle
 

@@ -35,8 +35,8 @@ Most reverend father in god, we presente unto you this godly and wel learned man
 
 ## The Oath of Due Obedience
 
-> Then shal the Archebisshoppe demand the Kynges mandate for the consecracion and cause it to be read.
-> And the othe touching the knowledge of the kinges supremacie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
+> Then shal the Archebisshoppe demand the Quenes Mandate for the consecracion and cause it to be read.
+> And the othe touching the knowledging of the Quenes Souveraintie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
 > And then shalbe ministred also the othe of due obedience unto the Archebishoppe, as foloweth.
 
 > The Othe of Due Obedience to the Archebisshoppe.
