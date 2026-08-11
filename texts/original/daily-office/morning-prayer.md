@@ -43,7 +43,7 @@ wherfore I praye and beseche you, as many as be here presente, to accompany me w
 
 ## The General Confession
 
-> A generall confession, to be saide of the whole congregacion after the minister, knelyng.
+> A generall confession, to be made of the whole congregacion after the minister, knelyng.
 
 Almightie and most merciful father, we have erred and straied from thy waies, lyke lost shepe.
 we have folowed to much the devises and desires of our owne hartes.
@@ -55,7 +55,7 @@ Amen.
 
 ## The Absolution
 
-> The absolution to be pronounced by the Minister alone.
+> The absolution, or remission of sins, to be pronounced by the Minister alone.
 
 Almighty God, the father of our Lord Jesus Christ, which desireth not the deathe of a sinner, but rather that he maye turne from his wickednesse and lyve: and hath geven power and commaundement to hys Ministers, to declare and pronounce to his people beyng penitent, the absolution and remission of their synnes: he pardoneth and absolveth all them which truly repent, and unfeinedly beleve his holy gospel.
 Wherefore we beseche him to graunt us true repentaunce and hys holy spirite, that those thynges may please hym, whych we doe at thys present, and that the rest of our life hereafter may be pure and holy so that at the last we may come to his eternall ioye, through Jesus Christe our lorde.
@@ -81,14 +81,13 @@ Amen.
 
 > Then likewise he shall saye.
 
-O Lord, open thou our lippes.
+**Priest.** O Lord, open thou our lippes.
 **Aunswere.** And our mouthe shall shewe furth thy prayse.
 **Prieste.** O God, make spede to save us.
 **Aunswere.** Lord, make haste to helpe us.
 <!-- VERIFY: source (justus) reads 'Lord, make haste to helpe us' (1552 has 'O Lord'); the missing 'O' may be a transcription slip; confirm against a page scan -->
-**Prieste.** Glory be to the father, and to the sonne, and to the holye Ghoste.
-As it was in the beginning, is nowe and ever shalbe: worlde without ende.
-Amen.
+**Prieste.** Glory be to the father, and to the sonne, &c.
+As it was in the beginning, &c.
 Praise ye the Lorde.
 
 ## Venite
@@ -194,8 +193,8 @@ O ye servauntes of the Lord, blesse ye the Lord : prayse him, and magnifye him f
 O ye sprites and soules of the righteous, blesse ye the Lord : prayse him, and magnify him for ever.
 O ye holy and humble men of herte, blesse ye the Lord : praise him, and magnifye him for ever.
 O Ananias, Azarias, and Misael, blesse ye the lord : prayse him, and magnifye him for ever.
-Glory be to the father, and to the Sonne : and to the holye Ghoste.
-As it was in the begynninge, is nowe, and ever, etc.
+Glory be to the father, and to the Sonne, &c.
+As it was in the begynninge, is nowe, &c.
 
 ## The Second Lesson
 
@@ -215,9 +214,8 @@ And thou Chylde, shalt be called the Prophete of the hyghest : for thou shalt go
 To geve knowledge of salvacion unto hys people : for the remission of theyr synnes,
 Through the tender mercie of our God : whereby the day spring from on hyghe, hath visited us;
 To geve light to them that sitte in darckenes, and in the shadowe of death : and to guyde our feete into the waye of peace.
-Glory be to the father, and to the sonne, and to the holy Gost.
-As it was in the beginning, is now, and ever shalbe : worlde wythout ende.
-Amen.
+Glory be to the father, and to the sonne, &c.
+As it was in the beginning, is now, &c.
 
 ## Jubilate Deo
 
