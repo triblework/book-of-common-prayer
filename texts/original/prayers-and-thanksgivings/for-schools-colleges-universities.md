@@ -1,4 +1,16 @@
-# For Schools, Colleges. and Universities.
+# For Schools and Colleges
 
-ALMIGHTY God, we beseech thee, with thy gracious favour, to behold our universities, colleges, and schools, that knowledge may be increased among us, and all good learning flourish and abound; bless all who teach and all who learn; and grant that in humility of heart they may ever look unto thee, who art the fountain of all wisdom; through Jesus Christ our Lord.
-Amen.
+O Eternal God, bless all schools, colleges, and universities
+
+[and especially &mdash.], that they may be lively centers for
+
+sound learning, new discovery, and the pursuit of wisdom;
+
+and grant that those who teach and those who learn may find
+
+you to be the source of all truth; through Jesus Christ our
+
+Lord.
+=Amen.=
+
+*For Education, see Various Occasions no. 23.*

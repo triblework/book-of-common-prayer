@@ -1,0 +1,12 @@
+# For Quiet Confidence
+
+O God of peace, =who hast= taught us that in returning and
+
+rest we shall be saved, in quietness and confidence shall be
+
+our strength:  By the might of =thy= Spirit lift us, we pray =thee=,
+
+to =thy= presence, where we may be still and know that =thou
+
+art= God; through Jesus Christ our Lord.
+=Amen.=

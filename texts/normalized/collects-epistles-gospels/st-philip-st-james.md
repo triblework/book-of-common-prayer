@@ -1,14 +1,13 @@
-# Saint Philip and Saint James's Day
+# Saint Philip and Saint James
+
+<!-- VERIFY: 'Saint Philip and Saint James' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O ALMIGHTY God, whom truly to know is ever-lasting life; Grant us perfectly to know thy Son Jesus Christ to be the way, the truth, and the life; that, following the steps of thy holy Apostles, Saint Philip and Saint James, we may stedfastly walk in the way that leadeth to eternal life through the same thy Son Jesus Christ our Lord.
+Almighty God, who didst give to thine apostles Philip and James grace and strength to bear witness to the truth: Grant that we, being mindful of their victory of faith, may glorify in life and death the Name of our Lord Jesus Christ; who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-James 1:1
-
-## The Gospel
-
-John 14:1
+Almighty God, who gave to your apostles Philip and James grace and strength to bear witness to the truth: Grant that we, being mindful of their victory of faith, may glorify in life and death the Name of our Lord Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, now and for ever.
+Amen.

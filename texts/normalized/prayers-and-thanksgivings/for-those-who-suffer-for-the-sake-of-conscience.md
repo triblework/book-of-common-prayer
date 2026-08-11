@@ -1,0 +1,21 @@
+# For those who suffer for the sake of Conscience
+
+O God our Father, whose Son forgave his enemies while he
+
+was suffering shame and death: Strengthen those who suffer
+
+for the sake of conscience; when they are accused, save them
+
+from speaking in hate; when they are rejected, save them
+
+from bitterness; when they are imprisoned, save them from
+
+despair; and to us your servants, give grace to respect their
+
+witness and to discern the truth, that our society may be
+
+cleansed and strengthened.
+This we ask for the sake of Jesus
+
+Christ, our merciful and righteous Judge.
+=Amen.=

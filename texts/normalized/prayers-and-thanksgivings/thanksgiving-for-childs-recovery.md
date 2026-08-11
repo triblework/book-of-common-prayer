@@ -1,6 +1,0 @@
-# For a Child’s Recovery from Sickness.
-
-ALMIGHTY God and heavenly Father, we give thee humble thanks for that thou hast been graciously pleased to deliver from his bodily sickness the child in whose behalf we bless and praise thy Name, in the presence of all thy people.
-Grant, we beseech thee, O gracious Father, that.
-he, through thy help, may both faithfully live in this world according to thy will, and also may be partaker of everlasting glory in the life to come; through Jesus Christ our Lord.
-Amen.

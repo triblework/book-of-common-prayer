@@ -1,7 +1,28 @@
 # Concerning the Service of the Church
 
-THE Order for Holy Communion, the Order for Morning Prayer, the Order for Evening Prayer, and the Litany, as set forth in this Book, are the regular Services appointed for Public Worship in this Church, and shall be used accordingly; Provided, that in addition to these Services, the Minister, in his discretion, subject to the direction of the Ordinary, may use other devotions taken from this Book or set forth by lawful authority within this Church, or from Holy Scripture; and Provided further, that, subject to the direction of the Ordinary, in Mission Churches or Chapels, and also, when expressly authorized by the Ordinary, in Cathedral or Parish Churches or other places, such other devotions as aforesaid may be used, when the edification of the Congregation so requires, in place of the Order for Morning Prayer, or the Order for Evening Prayer.
+The Holy Eucharist, the principal act of Christian worship on the Lord's Day and other major Feasts, and Daily Morning and Evening Prayer, as set forth in this Book, are the regular services appointed for public worship in the Church.
 
-For Days of Fasting and Thanksgiving appointed by the Civil or Ecclesiastical Authority, and for other special occasions, for which no Service or Prayer hath been provided in this Book, the Bishop may set forth such form or forms as he shall see fit, in which case none other shall be used.
+In addition to these services and the other rites contained in this Book, other forms set forth by authority within this Church may be used.
+Also, subject to the direction of the bishop, special devotions taken from this Book, or from Holy Scripture, may be used when the needs of the congregation so require.
 
-NOTE: That in the directions for the several Services in this Book, it is not intended, by the use of any particular word denoting vocal utterance, to prescribe the tone or manner of their recitation.
+For special days of thanksgiving, appointed by civil or Church authority, and for other special occasions for which no service or prayer has been provided in this Book, the bishop may set forth such forms as are fitting to the occasion.
+
+In all services, the entire Christian assembly participates in such a way that the members of each order within the Church, lay persons, bishops, priests, and deacons, fulful the functions proper to their respective orders, as set forth in the rubrical directions for each service.
+<!-- VERIFY: 'fulful' — the justus 1979 public-domain e-text reads "fulful"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check -->
+
+The leader of worship in a Christian assembly is normally a bishop or priest.
+Deacons by virtue of their order do not exercise a presiding function; but, like lay persons, may officiate in the Liturgy of the Word, whether in the form provided in the Daily Office, or (when a bishop or priest is not present) in the form appointed at the Eucharist.
+Under exceptional circumstances, when the services of a priest cannot be obtained, the bishop may, at discretion, authorize a deacon to preside at other rites also, subject to the limitations described in the directions for each service.
+
+In any of the Proper Liturgies for Special Days, and in other services contained within this Book celebrated in the context of a Rite One service, the contemporary idiom may be conformed to traditional language.
+
+Hymns referred to in the rubrics of this Book are understood as those authorized by this Church.
+The words of anthems are to be from Holy Scripture, or from this Book, or from texts congruent with them.
+
+On occasion, and as appropriate, instrumental music may be substituted for a hymn or anthem.
+
+Where rubrics indicate that a part of a service is to be "said," it must be understood to include "or sung," and vice versa.
+
+When it is desired to use music composed for them, previously authorized liturgical texts may be used in place of the corresponding texts in this Book.
+
+Scriptural citations in this Book, except for the Psalms, follow the numeration of the Revised Standard Version of the Bible.

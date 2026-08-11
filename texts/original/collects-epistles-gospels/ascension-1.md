@@ -1,14 +1,13 @@
-# Sunday after Ascension-day
+# Seventh Sunday of Easter: The Sunday after Ascension Day
+
+<!-- VERIFY: 'Seventh Sunday of Easter: The Sunday after Ascension Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O GOD, the King of glory, who hast exalted thine only Son Jesus Christ with great triumph unto thy kingdom in heaven; We beseech thee, leave us not comfortless; but send to us thine Holy Ghost to comfort us, and exalt us unto the same place whither our Saviour Christ is gone before, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
+O God, the King of glory, you have exalted thine only Son Jesus Christ with great triumph to thy kingdom in heaven: We beseech thee, leave us not comfortless, but send us thine Holy Ghost to comfort us, and exalt us to the same place where our Savior Christ is gone before; who liveth and reigneth with thee and the same Holy Ghost, one God, world without end.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-1 Peter 4:7
-
-## The Gospel
-
-John 15:26, and part of chapter 16
+O God, the King of glory, you have exalted your only Son Jesus Christ with great triumph to your kingdom in heaven: Do not leave us comfortless, but send us your Holy Spirit to strengthen us, and exalt us to that place where our Savior Christ has gone before; who lives and reigns with you and the Holy Spirit, one God, in glory everlasting.
+Amen.
