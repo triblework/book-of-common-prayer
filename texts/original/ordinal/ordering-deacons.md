@@ -54,7 +54,7 @@ From lighteninges and tempestes, from plague, pestilence, and famine, from batta
 
 Good lord, deliver us.
 
-From all sedicion and pryvie conspiracie, from the tyrannye of the Bysshop of Rome, and al hys detestable enormities, from al false doctryne and heresy, from hardnes of hearte, and contempte of thy worde and commaundement.
+From all sedicion and privey conspiracye, frome all false doctrine and heresy, from hardnes of herte, and contempte of thy worde and commaundement.
 
 Good lord, deliver us.
 
@@ -74,23 +74,20 @@ We synners doe beseche thee to heare us (O Lorde God), and that it may please th
 
 We beseche thee to heare us good Lorde.
 
-That it may please the, to kepe Edward the sixth our Kynge and governour.
+That it may please the, to kepe and strengthen in the true worshippinge of thee, in righteousnes, and holynes of lyfe, thy servaunt Elizabeth our most gracious Quene and governour.
+<!-- VERIFY: 'Elizabeth'; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note 'changed appropriately for Queen Elizabeth, King James & King Charles'; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan -->
 
 We beseche thee to heare us good lord.
 
-That it may please thee, to rule his heart in thy fayth feare and love, that he may alwayes have affiaunce in thee, and ever seke thy honour and glory.
+That it may please thee, to rule her heart in thy fayth feare and love, that she may alwayes have affiaunce in thee, and ever seke thy honour and glory.
 
 We beseche thee to heare us good Lorde.
 
-That it may please thee, to be his defendour and keper, gevyng hym the victorie over all his enemies.
+That it may please thee, to be her defendour and keper, gevyng her the victorie over all her enemies.
 
 We beseche thee to heare us good Lord.
 
 That it may please thee, to illuminate al Bisshops, Pastours, and Ministers of the Churche, wyth true knowledge, and understanding of thy worde, and that both by theyr preachynge and lyving, they may sette it forth and shewe it accordingly.
-
-We beseche thee to heare us good Lorde.
-
-That it may please thee, to blesse these men, and send thy grace upon them, that they maye duelye execute the offyce nowe to bee commytted unto them, to the edifyinge of thy Churche, and to thy honoure, prayse, and glorye.
 
 We beseche thee to heare us good Lorde.
 
@@ -180,7 +177,7 @@ Lorde have mercy upon us.
 
 Lorde have mercy upon us.
 
-Our father which art in heaven, &c.
+Our father which art in heaven, etc.
 
 And leade us not into temptacion.
 
@@ -264,16 +261,15 @@ And they chose Stephin, a man ful of fayth, and ful of the holy ghoste, and Phil
 These they set before the Apostles: and when they had prayed, they layed theyr handes on them.
 And the worde of God increased, and the nombre of the Disciples multiplied in Jerusalem greatly, and a great companie of the Priestes, were obedient unto the fayth.
 
-## The Oath of the Kynges Supremacie
+## The Oath of the Quenes Soveraintie
 
-> And before the Gospel, the Bisshop sittinge in a Chaire, shall cause the Othe of the Kynges Supremacie, and against the power and aucthoritie of the Bishop of Rome, to be ministred unto every of them that are to be Ordred.
+> And before the Gospell, the Bisshop sittyinge in a chayre, shall cause the Othe of the Quenes Souveraintie, and against the power and authoritye of all foreyn pontentates, to be ministred unto every of them that are to be ordered.
 
-> The Othe of the Kynges Supremacie.
+> The Othe of the Quenes Soverainte.
 
-I from henceforth shal utterly renounce, refuse, relinquisshe and forsake the Bysshop of Rome, and hys aucthoritie, power, and jurisdiction.
-And I shal never consent nor agree, that the Bysshop of Rome shall practyse, exercyse, or have any maner of aucthoritie, Jurisdiction, or Power wythin thys Realme, or anye other the Kynges dominions, but shall resyste the same at all tymes, to the uttermoste of my power.
-And I from hence foorth wyll accepte, repute, and take the Kynges Maiestie, to be the onelye Supreme head in earth, of the Church of Englande: And to my connynge, wytte, and uttermoste of my power, wythoute guyle, fraude, or other undue meane, I wyll observe, kepe, maynteyne and defende, the whole effectes and contentes, of al, and synguler actes and Statutes made, and to be made wythin thys realme in derogacion, extirpacion, and extinguishment of the Bisshop of Rome and his aucthoritie, and al other Actes and Statutes, made or to be made, in confirmacion and corroboracion of the Kynges power, of the supreme head in earth, of the Church of Englande: and this I wyll do agaynst all maner of persones, of what estate, dignitie or degree, or condicion they be, and in no wise do nor attempt, nor to my power, suffre to be done or attempted, directely or indirectly, any thing or thinges, prively or appertelye, to the let, hinderaunce, dammage, or derogacion thereof, or any part thereof, by any maner of meanes, or for any maner of pretence.
-And in case any othe bee made, or hath been made by me, to any person or persones, in mayntenaunce, defence, or favoure of the Bisshoppe of Rome, or hys aucthoritie, jurisdiction, or power, I repute the same, as vayne and adnichilate: so help me God through Jesus Christ.
+I A.
+B.
+do utterly testifie and declare in my conscience that the quenes highnesse is the onely supreame Governoure of this Realme and of all other her highnesse dominions and countreyes, aswell in all spirituall or ecclesiasticall thinges or causes: as temporall, and that no forrayn prince, person, prelate, state, or potentate, hath or ought to have any jursidiction, power, superioritie, preheminence or aucthoritie ecclesiasticall or spiritual within this realme, and therefore I do utterly renounce and forsake all forayn jurisdictions, powers, superiorities, and aucthorities, and do promyse that from henceforth I shall beare fayth and trewe allegyaunce to the Quenes hyghnes, her heyres and lawfull successours, and to my power shall assiste and defende all jurisdictions, privileges, preheminences, and aucthorities graunted or belonging to the Quenes hyghnesse, her heyres and successours, or united and annexed to thimperiall Croune of thys realme, so helpe me God, and the contentes of thys boke.
 
 ## The Examination
 
