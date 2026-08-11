@@ -1,26 +1,16 @@
-# The conversion of sainct Paule
+# The Conversion of S. Paul
 
 ## The Collect
 
-GOD, whiche haste.
+GOD, which hast taught all the world, through the preaching of thy blessed Apostle Saint Paul: grant we beseech thee, that we which have his wonderful conversion in remembrance, may follow and fulfill the holy doctrine that he taught, through Jesus Christ our Lord.
 Amen.
 
-taughte all the world, through the preachyng of thy blessed apostle.
-Amen.
-
-saincte Paule; graunt, we beseche thee, that we whiche have hys wonderful.
-Amen.
-
-conversion in remembraunce, maye folowe and fulfill the holy doctryne.
-Amen.
-
-that he taughte; through Jesus Christ our Lorde.
-Amen.
+Jan. 25
 
 ## The Epistle
 
-Acts 9
+Acts 9:1
 
 ## The Gospel
 
-Matthew 19
+Matthew 19:27

@@ -1,32 +1,16 @@
-# Saint Peter's Day
+# Saint Peters day
 
 ## The Collect
 
-ALMIGHTY God,.
+ALmighty GOD, which by thy Sonne Jesus Christ hast given to thy Apostle Saint Peter many excellent gifts, and commandedst him earnestly to feed thy fiock: make, we beseech thee, all Bishops, Presbyters and Ministers diligently to preach thy holy word, and the people obediently to follow the same, that they may receive the crown of everlasting glory, through Jesus Christ our Lord.
 Amen.
 
-whiche by thy sonne Jesus Christe haste geven to thy Apostle saincte.
-Amen.
-
-Peter many excellente giftes, and commaundeste him earnestly to feede.
-Amen.
-
-thy fiocke; make, wee beseche thee, all bishops and pastors diligently.
-Amen.
-
-to preache thy holy woorde and the people obediently to folowe the same,.
-Amen.
-
-that they maye receive the croune of everlasting glory; through Jesus.
-Amen.
-
-Christ our Lord.
-Amen.
+June 29
 
 ## The Epistle
 
-Acts 12
+Acts 12:1
 
 ## The Gospel
 
-Matthew 16
+Matthew 16:13

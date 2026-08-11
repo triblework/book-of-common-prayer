@@ -1,32 +1,16 @@
-# Saynct Thomas the Apostle
+# Saint Thomas the Apostle
 
 ## The Collect
 
-ALMIGHTY.
-Amen.
+ALmighty and everliving God, which for the more confirmation of the Faith, didst suffer thy holy Apostle Saint Thomas to be doubtful in thy Sonnes Resurrection: grant us so perfectly, and without all doubt to beleeve in thy Sonne Jesus Christ, that our Faith in thy sight never bee reproved.
+Hear us, O Lord, through the same Jesus Christ, to whom with thee and the holy Ghost bee all honour, &c.
 
-and* everliving God, whiche for the more confyrmacion of the faith didst.
-Amen.
-
-suffer thy holy apostle Thomas to bee doubtful in thy sonnes resurreccyon;.
-Amen.
-
-graunte us so perfectly, and without all doubt, to beleve in thy sonne.
-Amen.
-
-Jesus Christe, that our faith in thy syghte may* never be reproved;.
-Amen.
-
-here us, O Lorde, through the same Jesus Christe, to whome with thee.
-Amen.
-
-and the holy goste be all honour, &c.
-Amen.
+Dec. 21
 
 ## The Epistle
 
-Ephesians 2
+Ephesians 2:19
 
 ## The Gospel
 
-John 20
+John 20:24

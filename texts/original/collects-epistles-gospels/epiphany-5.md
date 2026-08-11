@@ -1,25 +1,16 @@
-# The v. Sonday[after the
-
-<!-- VERIFY: 'The v. Sonday[after the' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The fifth Sunday after the Epiphany
 
 ## The Collect
 
-LORD, we beseche.
-Amen.
-
-thee to kepe thy Churche and housholde continually in thy true religion;.
-Amen.
-
-that they whiche do leane onlye upon hope of thy heavenly grace may.
-Amen.
-
-evermore bee defended by thy mightie power; through Christ our lorde.
+LORD, we beseech thee to keep thy Church and houshold continually in thy true religion, that they which do lean onely upon hope of thy heavenly grace may evermore bee defended by thy mighty power; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Colossians 3
+Colossians 3:12
 
 ## The Gospel
 
-Matthew 13
+> The sixth Sunday (if there be so many) shall have the same Collect, Epistle, and Gospel, that was upon the fifth Sunday.
+
+Matthew 13:24
