@@ -1,10 +1,5 @@
 # Saynct Thomas the Apostle
 
-## The Introit
-
-Beati omnes.
-Psalm 128
-
 ## The Collect
 
 ALMIGHTIE

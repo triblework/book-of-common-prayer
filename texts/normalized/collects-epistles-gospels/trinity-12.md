@@ -1,10 +1,5 @@
 # The xii Sunday
 
-## The Introit
-
-In æternum, Domine.
-Psalm 119
-
 ## The Collect
 
 ALMIGHTY and
