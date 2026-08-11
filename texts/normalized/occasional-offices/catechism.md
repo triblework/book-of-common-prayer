@@ -14,7 +14,7 @@ or M.
 **Question.** What did your godfathers and godmothers then for you?
 
 **Aunswere.** They did promise, and vowe iii thinges in my name.
-First, that I should forsake the devil, and all his workes and pompes, the vanities of the wicked world, and al the sinful lustes of the fleshe.
+First, that I should forsake the devil, and all his workes, the pompes and vanities of the wicked world, and al the sinful lustes of the fleshe.
 Secondly, that I should beleve al the articles of the Christian faith.
 And thirdely, that I should kepe Goddes holy wil and Commaundementes, and walke in the same al the daies of my lyfe.
 <!-- VERIFY: source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan -->
@@ -149,3 +149,54 @@ And this I trust he wil do of his mercye and goodnes, throughe our lord Jesu Chr
 And therefore I say.
 Amen.
 So be it.
+
+## The Sacraments
+
+**Question.** HOW many Sacraments hath Christ ordained in his Church?
+
+**Answer.** Two only as generally necessary to salvation; that is to say, Baptisme and the Supper of the Lord.
+
+**Question.** What meanest thou by this word Sacrament?
+
+**Answer.** I meane an outward and visible signe of an inward and spirituall grace given unto us; ordained by Christ himselfe, as a means whereby we receive the same, and a pledge to assure us thereof.
+
+**Question.** How many parts be there in a Sacrament?
+
+**Answer.** Two; the outward visible signe, and the inward spirituall grace.
+
+**Question.** What is the outward visible signe or forme in Baptisme?
+
+**Answer.** Water: wherein the person baptized is dipped or sprinkled with it, In the name the Name of the Father, and of Sonne, and of the holy Ghost.
+<!-- VERIFY: source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan -->
+
+**Question.** What is the inward and spirituall grace?
+
+**Answer.** A death unto sin, and a new birth unto righteousnesse: for being by nature borne in sin, and the children of wrath, we are hereby made the children of grace.
+
+**Question.** What is required of persons to be baptized?
+
+**Answer.** Repentance, whereby they forsake sin; and faith, whereby they stedfastly beleeve the promises of God, made to them in that Sacrament.
+
+**Question.** Why then are Infants baptized, when by reason of their tender age they cannot performe them?
+
+**Answer.** Yes: they doe performe them by their Sureties; who promise and vow them both, in their names: which when they come to age, themselves are bound to performe.
+
+**Question.** Why was the Sacrament of the Lords Supper ordained?
+
+**Answer.** For the continuall remembrance of the Sacrifice of the death of Christ, and the benefits which we receive thereby.
+
+**Question.** What is the outward part or signe of the Lords Supper?
+
+**Answer.** Bread and wine, which the Lord hath commanded to bee received.
+
+**Question.** What is the inward part or thing signified?
+
+**Answer.** The Body and Blood of Christ, which are verely and indeed taken and received of the faithful in the Lords Supper.
+
+**Question.** What are the benefits whereof we are partakers thereby?
+
+**Answer.** The strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are by the Bread and wine.
+
+**Question.** What is required of those which come to the Lords Supper?
+
+**Answer.** To examine themselves, whether they repent them truely of their former sins, stedfastly purposing to leade a new life; have a lively faith in Gods mercy through Christ, with a thankeful remembrance of his death; and be in charitie with all men.

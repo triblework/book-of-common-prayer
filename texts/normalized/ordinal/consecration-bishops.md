@@ -35,9 +35,10 @@ Most reverend father in god, we presente unto you this godly and wel learned man
 
 ## The Oath of Due Obedience
 
-> Then shal the Archebisshoppe demand the Quenes Mandate for the consecracion and cause it to be read.
-> And the othe touching the knowledging of the Quenes Souveraintie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
+> Then shal the Archebisshoppe demand the Kings Mandate for the consecracion and cause it to be read.
+> And the othe touching the knowledging of the Kings Souveraintie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
 > And then shalbe ministred also the othe of due obedience unto the Archebishoppe, as foloweth.
+<!-- VERIFY: 'Kings'; there is no 1604 justus Ordinal page; the King's Mandate/Sovereignty is derived from the 1559 Queen's readings per the synoptic 'Kings supremacie in 1604' note; confirm against a 1604 page scan -->
 
 > The Othe of Due Obedience to the Archebisshoppe.
 
@@ -125,7 +126,7 @@ Lorde, heare our prayer.
 
 > Let us praye.
 
-Almighty God and moste mercyful father, which of thy infinite goodnesse haste geven to us thy only and most dere beloved sonne Jesus Chryst, to be our redemer and aucthour of everlasting life; who after that he had made perfecte our redempcion by his deathe, and was ascended into heaven, powred downe his gyftes aboundauntly upon men, making some Apostles, some Prophetes, some Evangelistes, some Pastours and doctours, to the edifying and makyng perfecte of his congregacion: graunt we beseche the, to this thy servaunt suche grace, that he may be evermore ready to spreade abrode thy gospel, and glad tidinges of reconcilement to God, and to use the aucthoritie geven unto him, not to destroie, but to save, not to hurt, but to helpe: so that he as a wise and a faithful servaunt, geving to thy family meate in due season, may at the last daye be received into joye, through Jesu Christ our lorde, who with thee, and the holy goste liveth and reigneth one God, world without ende.
+Almighty God and moste mercyful father, which of thy infinite goodnesse haste geven to us thy only and most dere beloved sonne Jesus Chryst, to be our redemer and aucthour of everlasting life; who after that he had made perfecte our redempcion by his deathe, and was ascended into heaven, powred downe his gyftes aboundauntly upon men, making some Apostles, some Prophetes, some Evangelistes, some Pastours and doctours, to the edifying and makyng perfecte of his congregacion: graunt we beseche the, to this thy servaunt suche grace, that he may be evermore ready to spreade abrode thy gospel, and glad tidinges of reconcilement to God, and to use the aucthoritie geven unto him, not to destroie, but to save, not to hurt, but to helpe: so that he as a wise and a faithful servaunt, geving to thy family meate in due season, may at the last be received into joye, through Jesu Christ our lorde, who with thee, and the holy goste liveth and reigneth one God, world without ende.
 Amen.
 
 > Then the Archebisshoppe and Bisshoppes present, shal lay their handes upon the head of the elect Bisshop, the Archebisshoppe saying.

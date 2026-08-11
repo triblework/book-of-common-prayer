@@ -74,16 +74,16 @@ We synners doe beseche thee to heare us (O Lorde God), and that it may please th
 
 We beseche thee to heare us good Lorde.
 
-That it may please the, to kepe and strengthen in the true worshippinge of thee, in righteousnes, and holynes of lyfe, thy servaunt Elizabeth our most gracious Quene and governour.
-<!-- VERIFY: 'Elizabeth'; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note 'changed appropriately for Queen Elizabeth, King James and King Charles'; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan -->
+That it may please the, to kepe and strengthen in the true worshippinge of thee, in righteousnes, and holynes of lyfe, thy servaunt James our most gracious Kynge and governour.
+<!-- VERIFY: 'James'; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note 'changed appropriately for … King James'; confirm against a 1604 page scan -->
 
 We beseche thee to heare us good lord.
 
-That it may please thee, to rule her heart in thy faith feare and love, that she may alwayes have affiaunce in thee, and ever seke thy honour and glory.
+That it may please thee, to rule his heart in thy faith feare and love, that he may alwayes have affiaunce in thee, and ever seke thy honour and glory.
 
 We beseche thee to heare us good Lorde.
 
-That it may please thee, to be her defendour and keper, gevyng her the victorie over all her enemies.
+That it may please thee, to be his defendour and keper, gevyng him the victorie over all his enemies.
 
 We beseche thee to heare us good Lord.
 
@@ -261,15 +261,16 @@ And they chose Stephin, a man ful of faith, and ful of the holy ghoste, and Phil
 These they set before the Apostles: and when they had prayed, they layed theyr handes on them.
 And the word of God increased, and the nombre of the Disciples multiplied in Jerusalem greatly, and a great companie of the Priestes, were obedient unto the faith.
 
-## The Oath of the Quenes Soveraintie
+## The Oath of the Kings Soveraintie
 
-> And before the Gospel, the Bisshop sittyinge in a chayre, shall cause the Othe of the Quenes Souveraintie, and against the power and authoritye of all foreyn pontentates, to be ministred unto every of them that are to be ordered.
+> And before the Gospel, the Bisshop sittyinge in a chayre, shall cause the Othe of the Kings Souveraintie, and against the power and authoritye of all foreyn pontentates, to be ministred unto every of them that are to be ordered.
 
-> The Othe of the Quenes Soverainte.
+> The Othe of the Kings Soverainte.
 
 I A.
 B.
-do utterly testifie and declare in my conscience that the quenes highnesse is the only supreame Governoure of this Realme and of all other her highnesse dominions and countreyes, aswell in all spirituall or ecclesiasticall thinges or causes: as temporall, and that no forrayn prince, person, prelate, state, or potentate, hath or ought to have any jursidiction, power, superioritie, preheminence or aucthoritie ecclesiasticall or spiritual within this realme, and therefore I do utterly renounce and forsake all forayn jurisdictions, powers, superiorities, and aucthorities, and do promyse that from henceforth I shall beare faith and trewe allegyaunce to the Quenes hyghnes, her heyres and lawful successours, and to my power shall assiste and defende all jurisdictions, privileges, preheminences, and aucthorities graunted or belonging to the Quenes hyghnesse, her heyres and successours, or united and annexed to thimperiall Croune of thys realme, so helpe me God, and the contentes of thys boke.
+do utterly testifie and declare in my conscience that the Kings highnesse is the only supreame Governoure of this Realme and of all other his highnesse dominions and countreyes, aswell in all spirituall or ecclesiasticall thinges or causes: as temporall, and that no forrayn prince, person, prelate, state, or potentate, hath or ought to have any jursidiction, power, superioritie, preheminence or aucthoritie ecclesiasticall or spiritual within this realme, and therefore I do utterly renounce and forsake all forayn jurisdictions, powers, superiorities, and aucthorities, and do promyse that from henceforth I shall beare faith and trewe allegyaunce to the Kings hyghnes, his heyres and lawful successours, and to my power shall assiste and defende all jurisdictions, privileges, preheminences, and aucthorities graunted or belonging to the Kings hyghnesse, his heyres and successours, or united and annexed to thimperiall Croune of thys realme, so helpe me God, and the contentes of thys boke.
+<!-- VERIFY: 'Kings'; the 1604 King's-Sovereignty oath is derived from the 1559 Queen's oath per the justus note 'Kings supremacie in 1604' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan -->
 
 ## The Examination
 
