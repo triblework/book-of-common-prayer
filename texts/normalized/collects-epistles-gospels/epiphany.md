@@ -1,5 +1,7 @@
 # The Epiphany, or the Manifestation of
 
+<!-- VERIFY: 'The Epiphany, or the Manifestation of' — This rubric dropped in 1928. -->
+
 ## The Collect
 
 O GOD, who by the leading of a star didst manifest thy only-begotten Son to the Gentiles; Mercifully grant that we, who know thee now by faith, may after this life have the fruition of thy glorious Godhead; through* Jesus Christ our Lord.

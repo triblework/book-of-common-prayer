@@ -2,7 +2,7 @@
 
 ## The Collect
 
-ALMIGHTY God, who calledst Luke the Physician, whose praise is in the Gospel, to an Evangelist, and Physician of the soul: May it please thee that, by the wholesome medicines of the doctrine delivered by him, all the diseases of our souls may be healed; through the merits of thy Son Jesus Christ our Lord.
+ALMIGHTY God, who didst inspire thy servant Saint Luke the Physician, to set forth in the Gospel the love and healing power of thy Son; Manifest in thy Church the like power and love, to the healing of our bodies and our souls; through the same thy Son Jesus Christ our Lord.
 Amen.
 
 ## The Epistle

@@ -1,0 +1,6 @@
+# A Collect.
+
+> To be used after the Collects of Morning or Evening Prayer, or Communion, at the discretion of the Minister.
+
+ALMIGHTY God, who hast promised to hear the petitions of those who ask in thy Son’s Name; We beseech thee mercifully to incline thine ears to us who have now made our prayers and supplications unto thee; and grant that those things which we have faithfully asked according to thy will, may effectually be obtained, to the relief of our necessity, and to the setting forth of thy glory; through Jesus Christ our Lord.
+Amen.

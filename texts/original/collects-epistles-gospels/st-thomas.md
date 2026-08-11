@@ -16,7 +16,7 @@ Now faith is the substance of things hoped for, the evidence of things not seen.
 
 ## The Epistle
 
-Ephesians 2:19
+Hebrews 10:35, and part of chapter 11
 
 ## The Gospel
 

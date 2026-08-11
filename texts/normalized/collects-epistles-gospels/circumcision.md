@@ -1,5 +1,7 @@
 # The Circumcision of Christ
 
+<!-- VERIFY: 'The Circumcision of Christ' — the apparatus labels the earlier Epistle "1786, 1786, 1892" -- 1786 twice and no 1789 -- evidently a typo for "1786, 1789, 1892"; read as including 1789, whose base text it is. -->
+
 ## The Collect
 
 ALMIGHTY God, who madest thy blessed Son to be circumcised, and obedient to the law for man; Grant us the true circumcision of the Spirit; that, our hearts, and all our members, being mortified from all worldly and carnal lusts, we may in all things obey thy blessed will; through time same thy Son Jesus Christ our Lord.
@@ -21,7 +23,7 @@ For it is God which worketh in you both to will and to do of his good pleasure.
 
 ## The Epistle
 
-Romans 4:8
+Philippians 2:9
 
 ## The Gospel
 
