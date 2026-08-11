@@ -1,16 +1,13 @@
-# The Second Sunday in Advent
+# Second Sunday of Advent
 
-<!-- VERIFY: 'The Second Sunday in Advent' — * Comma was before the word 'ever' until 1892. -->
+<!-- VERIFY: 'Second Sunday of Advent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-BLESSED Lord, who hast caused all holy Scriptures to be written for our learning; Grant that we may in such wise hear them, read, mark, learn, and inwardly digest them, that by patience and comfort of thy holy Word, we may embrace, and ever hold fast, the blessed hope of everlasting life, which thou hast given us in our Saviour Jesus Christ.
+Merciful God, who sent thy messengers the prophets to preach repentance and prepare the way for our salvation: Give us grace to heed their warnings and forsake our sins, that we may greet with joy the coming of Jesus Christ our Redeemer; who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Romans 15:4
-
-## The Gospel
-
-Luke 21:25
+Merciful God, who sent your messengers the prophets to preach repentance and prepare the way for our salvation: Give us grace to heed their warnings and forsake our sins, that we may greet with joy the coming of Jesus Christ our Redeemer; who lives and reigns with you and the Holy Spirit, one God, now and for ever.
+Amen.

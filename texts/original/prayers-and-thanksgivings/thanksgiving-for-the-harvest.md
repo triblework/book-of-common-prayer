@@ -1,0 +1,27 @@
+# For the Harvest
+
+Most gracious God, by whose knowledge the depths are
+
+broken up and the clouds drop down the dew:  We yield thee
+
+hearty thanks and praise for the return of seed
+
+time and harvest,
+
+for the increase of the ground and the gathering in of its fruits,
+
+and for all other blessings of thy merciful providence
+
+bestowed upon this nation and people.
+And, we beseech thee,
+
+give us a just sense of these great mercies, such as may appear
+
+in our lives by a humble, holy, and obedient walking before
+
+thee all our days; through Jesus Christ our Lord, to whom,
+
+with thee and the Holy Ghost be all glory and honor, world
+
+without end.
+=Amen.=

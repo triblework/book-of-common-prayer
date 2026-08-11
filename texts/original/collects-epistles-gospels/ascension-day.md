@@ -1,20 +1,18 @@
-# The Ascension-day
+# Ascension Day
+
+<!-- VERIFY: 'Ascension Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-GRANT, we beseech thee, Almighty God, that like as we do believe thy only-begotten Son our Lord Jesus Christ to have ascended into the heavens; so we may also in heart and mind thither ascend, and with him continually dwell, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
+Almighty God, whose blessed Son our Savior Jesus Christ ascended far above all heavens that he might fill all things: Mercifully give us faith to perceive that, according to his promise, he abides with his Church on earth, even to the end of the ages; through the same Jesus Christ our Lord, cend, and with him continually dwell; who liveth and reigneth with you and the Holy Spirit, one God, world without end.
 Amen.
 
-> This Collect is to be said daily throughout the Octave.
+## The Collect (Contemporary)
 
-> The same Collect, Epistle, and Gospel shall serve for every day after unto the next Sunday, except upon the Feast of St. Philip and St. James. This rubric added in 1892.
+Almighty God, whos blessed Son our Savior Jesus Christ ascended far above all heavens that he might fill all things: Mercifully give us faith to perceive that, according to his promise, he abides with his Church on earth, even to the end of the ages; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, in glory everlasting.
+Amen.
 
-## The Epistle
+> Or this.
 
-> For the Epistle.
-
-Acts 1:1
-
-## The Gospel
-
-Luke 24:49
+Grant, we pray, Almighty God, that as we believe your only-begotten Son our Lord Jesus Christ to have ascended into heaven, so we may also in heart and mind there ascend, and with him continually dwell; who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+Amen.

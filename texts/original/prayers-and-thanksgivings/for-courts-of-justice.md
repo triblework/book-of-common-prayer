@@ -1,4 +1,16 @@
-# For Courts of Justice.
+# For Courts of Justice
 
-ALMIGHTY God, who sittest in the throne judging right; We humbly beseech thee to bless the courts of justice and the magistrates in all this land; and give unto them the spirit of wisdom and understanding, that they may discern the truth and impartially administer the law in the fear of thee alone; through him who shall come to be our judge, thy Son, our Saviour, Jesus Christ.
-Amen.
+Almighty God, =who sittest= in the throne judging right:  We
+
+humbly beseech =thee= to bless the courts of justice and the
+
+magistrates in all this land; and give =unto= them the spirit of
+
+wisdom and understanding, that they may discern the truth,
+
+and impartially administer the law in the fear of =thee= alone;
+
+through him who shall come to be our Judge, =thy= Son our
+
+Savior Jesus Christ.
+=Amen.=

@@ -1,18 +1,13 @@
-# The First Sunday in Advent
+# First Sunday of Advent
 
-<!-- VERIFY: 'The First Sunday in Advent' — * "unto" in 1892 only — the source marks the variant with an asterisk in the rubric but does not give the surrounding wording, so the 1789 reading is kept here. -->
+<!-- VERIFY: 'First Sunday of Advent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY God, give us grace that we may cast away the works of darkness, and put upon us the armour of light, now in the time of this mortal life, in which thy Son Jesus Christ came to visit us in great humility; that in the last day, when he shall come again in his glorious majesty to judge both the quick and dead, we may rise to the life immortal, through him who liveth and reigneth with thee and the Holy Ghost, now and ever.
+Almighty God, give us grace that we may cast away the works of darkness, and put upon us the armor of light, now in the time of this mortal life in which thy Son Jesus Christ came to visit us in great humility; that in the last day, when he shall come again in his glorious majesty to judge both the quick and the dead, we may rise to the life immortal; through him who liveth and reigneth with thee and the Holy Ghost, one God, now and for ever.
 Amen.
 
-> This Collect is to be repeated every day, with the other Collects in Advent, until* Christmas-day.
+## The Collect (Contemporary)
 
-## The Epistle
-
-Romans 13:8
-
-## The Gospel
-
-Matthew 21:1
+Almighty God, give us grace to cast away the works of darkness, and put on the armor of light, now in the time of this mortal life in which your Son Jesus Christ came to visit us in great humility; that in the last day, when he shall come again in his glorious majesty to judge both the living and the dead, we may rise to the life immortal; through him who lives and reigns with you and the Holy Spirit, one God, now and for ever.
+Amen.

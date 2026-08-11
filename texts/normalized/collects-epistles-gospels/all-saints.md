@@ -1,18 +1,13 @@
-# All Saints' Day
+# All Saint's Day
+
+<!-- VERIFY: 'All Saint's Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O ALMIGHTY God, who hast knit together thine elect in one communion and fellowship, in the mystical body of thy Son Christ our Lord; Grant us grace so to follow thy blessed Saints in all virtuous and godly living, that we may come to those unspeakable joys which thou hast prepared for those who unfeignedly love thee; through* Jesus Christ our Lord.
+Almighty God, who hast knit together thine elect in one communion and fellowship in the mystical body of thy Son Christ our Lord: Give us grace so to follow thy blessed saints in all virtuous and godly living, that we may come to those ineffable joys that thou hast prepared for those who unfeignedly love thee; through the same Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, in glory everlasting.
 Amen.
 
-> This Collect is to be said daily throughout the Octave.
+## The Collect (Contemporary)
 
-## The Epistle
-
-> For the Epistle.
-
-Revelation 7:2
-
-## The Gospel
-
-Matthew 5:1
+Almighty God, you have knit together your elect in one communion and fellowship in the mystical body of your Son Christ our Lord: Give us grace so to follow your blessed saints in all virtuous and godly living, that we may come to those ineffable joys that you have prepared for those who truly love you; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, in glory everlasting.
+Amen.

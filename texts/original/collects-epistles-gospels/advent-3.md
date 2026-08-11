@@ -1,16 +1,13 @@
-# The Third Sunday in Advent
+# Third Sunday of Advent
 
-<!-- VERIFY: 'The Third Sunday in Advent' — * against myself in 1928 -->
+<!-- VERIFY: 'Third Sunday of Advent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O LORD Jesus Christ, who at thy first coming didst send thy messenger to prepare thy way before thee; Grant that the ministers and stewards of thy mysteries may likewise so prepare and make ready thy way, by turning the hearts of the disobedient to the wisdom of the just, that at thy second coming to judge the world we may be found an acceptable people in thy sight, who livest and reignest with the Father and the Holy Spirit ever,* one God, world without end.
+Stir up thy power, O Lord, and with great might come among us; and, because we are sorely hindered by our sins, let thy bountiful grace and mercy speedily help and deliver us; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be honor and glory, world without end.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-1 Corinthians 4:1
-
-## The Gospel
-
-Matthew 11:2
+Stir up your power, O Lord, and with great might come among us; and, because we are sorely hindered by our sins, let your bountiful grace and mercy speedily help and deliver us; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be honor and glory, now and for ever.
+Amen.

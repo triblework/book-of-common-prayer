@@ -1,6 +1,17 @@
-# For the Church.
+# For the Church
 
-O GRACIOUS Father, we humbly beseech thee for thy holy Catholic Church; that thou wouldst be pleased to fill it with all truth, in all peace.
-Where it is corrupt, purify it; where it is in error, direct it; where in anything it is amiss, reform it.
-Where it is right, establish it; where it is in want, provide for it; where it is divided, reunite it; for the sake of him who died and rose again, and ever liveth to make intercession for us, Jesus Christ, thy Son, our Lord.
-Amen.
+Gracious Father, we pray for they holy Catholic Church.
+Fill it
+
+with all truth, in all truth with all peace.
+Where it is corrupt,
+
+purify it; where it is in error, direct it; where in any thing it is
+
+amiss, reform it.
+Where it is right, strengthen it; where it is in
+
+want, provide for it; where it is divided, reunite it; for the sake
+
+of Jesus Christ thy Son our Savior.
+=Amen.=

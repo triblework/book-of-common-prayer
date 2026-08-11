@@ -1,4 +1,0 @@
-# For a Sick Child.
-
-O HEAVENLY Father, watch with us, we pray thee, over the sick child for whom our prayers are offered, and grant that he may be restored to that perfect health which it is thine alone to give; through Jesus Christ our Lord.
-Amen.
