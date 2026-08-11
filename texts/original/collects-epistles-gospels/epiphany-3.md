@@ -1,14 +1,13 @@
-# The Third Sunday after the Epiphany,
+# Third Sunday after the Epiphany
+
+<!-- VERIFY: 'Third Sunday after the Epiphany' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY and everlasting God, mercifully look upon our infirmities, and in all our dangers and necessities stretch forth thy right hand to help and defend us; through Jesus Christ our Lord.
+Give us grace, O Lord, to answer readily the call of our Savior Jesus Christ and proclaim to all people the Good News of his salvation, that we and the whole world may perceive the glory of his marvelous works; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Romans 12:16
-
-## The Gospel
-
-John 2:1
+Give us grace, O Lord, to answer readily the call of our Savior Jesus Christ and proclaim to all people the Good News of his salvation, that we and the whole world may perceive the glory of his marvelous works; who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+Amen.

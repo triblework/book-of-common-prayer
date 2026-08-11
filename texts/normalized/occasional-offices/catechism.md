@@ -1,398 +1,576 @@
-# Offices of Instruction
+# An Outline of the Faith, commonly called the Catechism.
 
-## The First Office
+<!-- 1979 (public domain). The contemporary-language recasting of the Catechism as "An Outline of the Faith"; its own printed section headings (Human Nature, God the Father, ... The Christian Hope) are the anchors, and it opens with its "Concerning the Catechism" preface. Source: justus PD ASCII e-text bcpprayr.txt (spec §4.2). Mechanically reflowed; verify against a scan before sign-off. -->
 
-> After the singing of a Hymn, shall be said by the Minister and People together, all kneeling, the following Prayer, the Minister first pronouncing,
+## Concerning the Catechism
 
-The Lord be with you.
+> This catechism is primarily intended for use by parish priests, deacons, and lay catechists, to give an outline for instruction.
+> It is a commentary on the creeds, but is not meant to be a complete statement of belief and practices; rather, it is a point of departure for the teacher, and it is cast in the traditional question and answer form for ease of reference.
 
-**Answer.** And with thy spirit.
+> The second use of this catechism is to provide a brief summary of the Church's teaching for an inquiring stranger who picks up a Prayer Book.
 
-Let us pray.
+> It may also be used to form a simple service; since the matter is arranged under headings, it is suitable for selective use, and the leader may introduce prayers and hymns as needed.
 
-LORD of all power and might, Who art the author and giver of all good things; Graft in our hearts the love of thy Name, Increase in us true religion, Nourish us with all goodness, And of thy great mercy keep us in the same; Through Jesus Christ our Lord.
-Amen.
+## Human Nature
 
-> Then, the People being seated, the Minister shall ask them the Questions which follow, the People reading or repeating the Answers as appointed.
+**Q.** What are we by nature?
 
-**Question.** What is your Christian Name?
+**A.** We are part of God's creation, made in the image of God.
 
-**Answer.** My Christian Name is ——.
+**Q.** What does it mean to be created in the image of God?
 
-**Question.** Who gave you this Name?
+**A.** It means that we are free to make choices: to love, to create, to reason, and to live in harmony with creation and with God.
 
-**Answer.** My Sponsors gave me this Name in Baptism; wherein I was made a member of Christ, the child of God, and an inheritor of the kingdom of heaven.
+**Q.** Why then do we live apart from God and out of harmony with creation?
 
-**Question.** What did your Sponsors then promise for you?
+**A.** From the beginning, human beings have misused their freedom and made wrong choices.
 
-**Answer.** My Sponsors did promise and vow three things in my name: First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh; Secondly, that I should believe all the Articles of the Christian Faith; And Thirdly, that I should keep God’s holy will and commandments, and walk in the same all the days of my life.
+**Q.** Why do we not use our freedom as we should?
 
-**Question.** Do you not think that you are bound so to do?
+**A.** Because we rebel against God, and we put ourselves in the place of God.
 
-**Answer.** Yes, verily; and by God's help so I will.
-And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour.
-And I pray unto God to give me his grace, that I may continue in the same unto my life’s end.
+**Q.** What help is there for us?
 
-## The Creed
+**A.** Our help is in God.
 
-> Then the Minister shall say,
+**Q.** How did God first help us?
 
-YOU said that your Sponsors promised and vowed that you should believe all the Articles of the Christian Faith.
-Recite the Articles of the Christian Faith as contained in the Apostles’ Creed.
+**A.** God first helped us by revealing himself and his will, through nature and history, through many seers and saints, and especially the prophets of Israel.
 
-> Then, all standing, shall be said the Apostles' Creed by the Minister and People.
+## God the Father
 
-I BELIEVE in God the Father Almighty, Maker of heaven and earth:
+**Q.** What do we learn about God as creator from the revelation to Israel?
 
-And in Jesus Christ his only Son our Lord: Who was conceived by the Holy Ghost, Born of the Virgin Mary: Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead: He ascended into heaven, And sitteth on the right hand of God the Father Almighty: From thence he shall come to judge the quick and the dead.
+**A.** We learn that there is one God, the Father Almighty, creator of heaven and earth, of all that is, seen and unseen.
 
-I believe in the Holy Ghost: The holy Catholic Church; The Communion of Saints: The Forgiveness of sins: The Resurrection of the body: And the Life everlasting.
-Amen.
+**Q.** What does this mean?
 
-> Then, the Minister, turning to the People, shall ask the Question following, the People responding.
+**A.** This means that the universe is good, that it is the work of a single loving God who creates, sustains, and directs it.
 
-**Question.** What do you chiefly learn in these Articles of your Belief?
+**Q.** What does this mean about our place in the universe?
 
-**Answer.** First, I learn to believe in God the Father, who hath made me, and all the world.
+**A.** It means that the world belongs to its creator; and that we are called to enjoy it and to care for it in accordance with God's purposes.
 
-Secondly, in God the Son, who hath redeemed me, and all mankind.
+**Q.** What does this mean about human life?
 
-Thirdly, in God the Holy Ghost, who sanctifieth me, and all the people of God.
+**A.** It means that all people are worthy of respect and honor, because all are created in the image of God, and all can respond to the love of God.
 
-And this Holy Trinity, One God, I praise and magnify, saying,
+**Q.** How was this revelation handed down to us?
 
-> Minister and People.
+**A.** This revelation was handed down to us through a community created by a covenant with God.
 
-GLORY be to the Father, and to the Son, and to the Holy Ghost;
+## The Old Covenant
 
-As it was in the beginning, is now, and ever shall be, world without end.
-Amen.
+**Q.** What is meant by a covenant with God?
+
+**A.** A covenant is a relationship initiated by God, to which a body of people responds in faith.
+
+**Q.** What is the Old Covenant?
+
+**A.** The Old Covenant is the one given by God to the Hebrew people.
+
+**Q.** What did God promise them?
+
+**A.** God promised that they would be his people to bring all the nations of the world to him.
+
+**Q.** What response did God require from the chosen people?
+
+**A.** God required the chosen people to be faithful; to love justice, to do mercy, and to walk humbly with their God.
+
+**Q.** Where is this Old Covenant to be found?
+
+**A.** The covenant with the Hebrew people is to be found in the books which we call the Old Testament.
+
+**Q.** Where in the Old Testament is God's will for us shown most clearly?
+
+**A.** God's will for us is shown most clearly in the Ten Commandments.
 
 ## The Ten Commandments
 
-> Here may be sung a Hymn, after which the Minister, turning to the People, shall say,
+> See pages 317 and 350.
 
-YOU said that your Sponsors promised and vowed that you should keep God’s holy will and commandments.
-Tell me how many Commandments there are.
+**Q.** What are the Ten Commandments?
 
-**Answer.** There are Ten Commandments, given in old time by God to the people of Israel.
+**A.** The Ten Commandments are the laws give to Moses and the people of Israel.
 
-> Then shall the Minister say,
+**Q.** What do we learn from these commandments?
 
-Let us ask God's help to know and to keep them.
+**A.** We learn two things: our duty to God, and our duty to our neighbors.
 
-The Lord be with you.
+**Q.** What is our duty to God?
 
-**Answer.** And with thy spirit.
+**A.** Our duty is to believe and trust in God;
 
-Let us pray.
+I To love and obey God and to bring others to know him;
 
-> Then shall be said this Prayer by the Minister and People together, all kneeling.
+II To put nothing in the place of God;
 
-O ALMIGHTY God, Who alone canst order the unruly wills and affections of sinful men; Grant unto thy people, That they may love the thing which thou commandest, And desire that which thou dost promise; That so, among the sundry and manifold changes of the world, Our hearts may surely there be fixed, Where true joys are to be found; Through Jesus Christ our Lord.
-Amen.
+III To show God respect in thought, word, and deed;
 
-> Then shall the Minister repeat the Ten Commandments, and after every Commandment the People shall say the response.
-> But NOTE, That where so instructed, the People may repeat the Commandments, the Minister saying the response.
-> And NOTE further, That the part of the Commandment which is inset may be omitted.
+IV And to set aside regular times for worship, prayer, and the study of God's ways.
 
-I.
-Thou shalt have none other gods but me.
+**Q.** What is our duty to our neighbors?
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**A.** Our duty to our neighbors is to love them as ourselves, and to do to other people as we wish them to do to us;
 
-II.
-Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth; thou shalt not bow down to them, nor worship them;
+V To love, honor, and help our parents and family; to honor those in authority, and to meet their just demands;
 
-for I the LORD thy God am a jealous God, and visit the sins of the fathers upon the children, unto the third and fourth generation of them that hate me; and show mercy unto thousands in them that love me and keep my commandments.
+VI To show respect for the life God has given us; to work and pray for peace; to bear no malice, prejudice, or hatred in our hearts; and to be kind to all the creatures of God;
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+VII To use our bodily desires as God intended;
 
-III.
-Thou shalt not take the Name of the LORD thy God in vain
+VIII To be honest and fair in our dealings; to seek justice, freedom, and the necessities of life for all people; and to use our talents and possessions as ones who must answer for them to God;
 
-for the LORD will not hold him guiltless, that taketh his Name in vain.
+IX To speak the truth, and not to mislead others by our silence;
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+X To resist temptations to envy, greed, and jealousy; to rejoice in other people's gifts and graces; and to do our duty for the love of God, who has called us into fellowship with him.
 
-IV.
-Remember that thou keep holy the Sabbath-day.
+**Q.** What is the purpose of the Ten Commandments?
 
-Six days shalt thou labour, and do all that thou hast to do; but the seventh day is the Sabbath of the LORD thy God.
-In it thou shalt do no manner of work; thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant, thy cattle, and the stranger that is within thy gates.
-For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the seventh day, and hallowed it.
+**A.** The Ten Commandments were given to define our relationship with God and our neighbors.
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** Since we do not fully obey them, are they useful at all?
 
-V. Honour thy father and thy mother;
+**A.** Since we do not filly obey them, we see more clearly our sin and our need for redemption.
 
-that thy days may be long in the land which the Lord thy God giveth thee.
+## Sin and Redemption
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** What is sin?
 
-VI.
-Thou shalt do no murder.
+**A.** Sin is the seeking of our own will instead of the will of God, thus distorting our relationship with God, with other people, and with all creation.
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** How does sin have power over us?
 
-VII.
-Thou shalt not commit adultery.
+**A.** Sin has power over us because we lose our liberty when our relationship with God is distorted.
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** What is redemption?
 
-VIII.
-Thou shalt not steal.
+**A.** Redemption is the act of God which sets us free from the power of evil, sin, and death.
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** How did God prepare us for redemption?
 
-IX.
-Thou shalt not bear false witness against thy neighbour.
+**A.** God sent the prophets to call us back to himself, to show us our need for redemption, and to announce the coming of the Messiah.
 
-Lord, have mercy upon us, and incline our hearts to keep this law.
+**Q.** What is meant by the Messiah?
 
-X.
-Thou shalt not covet
+**A.** The Messiah is one sent by God to free us from the power of sin, so that with the help of God we may live in harmony with God, within ourselves, with our neighbors, and with all creation.
 
-thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+**Q.** Who do we believe is the Messiah?
 
-Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
+**A.** The Messiah, or Christ, is Jesus of Nazareth, the only Son of God.
 
-> Then shall the Minister say,
+## God the Son
 
-GRANT to us, Lord, we beseech thee, the spirit to think and do always such things as are right; that we, who cannot do any thing that is good without thee, may by thee be enabled to live according to thy will; through Jesus Christ our Lord.
-Amen.
+**Q.** What do we mean when we say that Jesus is the only Son of God?
 
-> After this, the People being seated, the Minister, turning to them, shall ask the Questions which follow, the People reading or repeating the Answers.
+**A.** We mean that Jesus is the only perfect image of the Father, and shows us the nature of God.
 
-**Question.** What does our Lord Jesus Christ teach us about these Commandments?
+**Q.** What is the nature of God revealed in Jesus?
 
-**Answer.** Our Lord Jesus Christ teaches us that they are summed up in these two Commandments: Thou shalt love the Lord thy God with all thy heart, with all thy mind, with all thy soul, and with all thy strength; this is the first and great Commandment.
-And the second is: Thou shalt love thy neighbour as thyself.
+**A.** God is love.
 
-**Question.** What then do you chiefly learn from the Ten Commandments?
+**Q.** What do we mean when we say that Jesus was conceived by the power of the Holy Spirit and became incarnate from the Virgin Mary?
 
-**Answer.** I learn two things from these Commandments; my duty towards God, and my duty towards my Neighbour.
+**A.** We mean that by God's own act, his divine Son received our human nature from the Virgin Mary, his mother.
 
-**Question.** What is your duty towards God?
+**Q.** Why did he take our human nature?
 
-**Answer.** My duty towards God is To believe in him, to fear him, And to love him with all my heart, with all my mind, with all my soul, and with all my strength:
+**A.** The divine Son became human, so that in him human beings might be adopted as children of God, and be made heirs of God's kingdom.
 
-I., II.
-To worship him, to give him thanks: To put my whole trust in him, to call upon him:
+**Q.** What is the great importance of Jesus' suffering and death?
 
-III.
-To honour his holy Name and his Word:
+**A.** By his obedience, even to suffering and death, Jesus made the offering which we could not make; in him we are freed from the power of sin and reconciled to God.
 
-IV.
-And to serve him truly all the days of my life.
+**Q.** What is the significance of Jesus' resurrection?
 
-**Question.** What is your duty towards your Neighbour?
+**A.** By his resurrection, Jesus overcame death and opened for us the way of eternal life.
 
-**Answer.** My duty towards my Neighbour is To love him as myself, and to do to all men as I would they should do unto me:
+**Q.** What do we mean when we say that he descended to the dead?
 
-V. To love, honour, and help my father and mother: To honour and obey the civil authority: To submit myself to all my governors, teachers, spiritual pastors and masters: And to order myself in that lowliness and reverence which becometh a servant of God:
+**A.** We mean that he went to the departed and offered them also the benefits of redemption.
 
-VI.
-To hurt nobody by word or deed: To bear no malice nor hatred in my heart:
+**Q.** What do we mean when we say that he ascended into heaven and is seated at the right hand of the Father?
 
-VII.
-To keep my body in temperance, soberness, and chastity:
+**A.** We mean that Jesus took our human nature into heaven where he now reigns with the Father and intercedes for us.
 
-VIII.
-To keep my hands from picking and stealing: To be true and just in all my dealings:
+**Q.** How can we share in his victory over sin, suffering, and death?
 
-IX.
-To keep my tongue from evil speaking, lying, and slandering:
+**A.** We share in his victory when we are baptized into the New Covenant and become living members of Christ.
 
-X.
-Not to covet nor desire other men's goods; But to learn and labour truly to earn mine own living, And to do my duty in that state of life unto which it shall please God to call me.
+## The New Covenant
 
-## The Lord's Prayer
+**Q.** What is the New Covenant?
 
-> Then shall be sung a Hymn, after which the Minister shall say as followeth.
+**A.** The New Covenant is the new relationship with God given by Jesus Christ, the Messiah, to the apostles; and, through them, to all who believe in him.
 
-KNOW this; that you are not able to do these things of yourself, nor to walk in the Commandments of God, and to serve him, without his special grace; which you must learn at all times to call for by diligent prayer.
-What is the prayer that our Lord taught us to pray?
+**Q.** What did the Messiah promise in the New Covenant?
 
-**Answer.** The Lord's Prayer.
+**A.** Christ promised to bring us into the kingdom of God and give life in all its fullness.
 
-**Minister.** Let us pray, as our Saviour Christ hath taught us, and say,
+**Q.** What response did Christ require?
 
-> Then shall be said by the Minister and People together, all kneeling,
+**A.** Christ commanded us to believe in him and to keep his commandments.
 
-OUR Father, who art in heaven, Hallowed be thy Name.
-Thy kingdom come.
-Thy will be done, On earth as it is in heaven.
-Give us this day our daily bread.
-And forgive us our trespasses, As we forgive those who trespass against us.
-And lead us not into temptation, But deliver us from evil.
-For thine is the kingdom, and the power, and the glory, for ever and ever.
-Amen.
+**Q.** What are the commandments taught by Christ?
 
-THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
-Amen.
+**A.** Christ taught us the Summary of the Law and gave us the New Commandment.
 
-## The Second Office
+**Q.** What is the Summary of the Law?
 
-> After the singing of a Hymn, there shall be said the following Sentence by the Minister and People together.
+**A.** You shall love the Lord your God with all your heart, with all your soul, and with all your mind.
+This is the first and great commandment.
+And the second is like it: You shall love your neighbor as yourself.
 
-COME ye, and let us walk in the light of the Lord.
-And he will teach us of his ways, and we will walk in his paths.
+**Q.** What is the New Commandment?
 
-**Minister.** Show thy servants thy work;
+**A.** The New Commandment is that we love one another as Christ loved us.
 
-**People.** And their children thy glory.
+**Q.** Where may we find what Christians believe about Christ?
 
-**Minister.** Let thy merciful kindness, O Lord, be upon us;
+**A.** What Christians believe about Christ is found in the Scriptures and summed up in the creeds.
 
-**People.** As we do put our trust in thee.
+## The Creeds
 
-**Minister.** Not unto us, O Lord, not unto us,
+*See pages 53, 96, 326, 327, and 864
 
-**People.** But unto thy Name be the praise.
+**Q.** What are the creeds?
 
-**Minister.** Lord, hear our prayer.
+**A.** The creeds are statements of our basic beliefs about God.
 
-**People.** And let our cry come unto thee.
+**Q.** How many creeds does this Church use in its worship?
 
-**Minister.** The Lord be with you.
+**A.** This Church uses two creeds: The Apostles' Creed and the Nicene Creed.
 
-**People.** And with thy spirit.
+**Q.** What is the Apostles' Creed?
 
-**Minister.** Let us pray.
+**A.** The Apostles' Creed is the ancient creed of Baptism; it is used in the Church's daily worship to recall our Baptismal Covenant.
 
-O ALMIGHTY God, who hast built thy Church upon the foundation of the Apostles and Prophets, Jesus Christ himself being the head corner-stone; Grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple acceptable unto thee; through the same Jesus Christ our Lord.
-Amen.
+**Q.** What is the Nicene Creed?
+
+**A.** The Nicene Creed is the creed of the universal Church and is used at the Eucharist.
+
+**Q.** What, then, is the Athanasian Creed?
+
+**A.** The Athanasian Creed is an ancient document proclaiming the nature of the Incarnation and of God as Trinity.
+
+**Q.** What is the Trinity?
+
+**A.** The Trinity is one God: Father, Son, and Holy Spirit.
+
+## The Holy Spirit
+
+**Q.** What is the Holy Spirit?
+
+**A.** The Holy Spirit is the Third Person of the Trinity, God at work in the world and in the Church even now.
+
+**Q.** How is the Holy Spirit revealed in the Old Covenant?
+
+**A.** The Holy Spirit is revealed in the Old Covenant as the giver of life, the One who spoke through the prophets.
+
+**Q.** How is the Holy Spirit revealed in the New Covenant?
+
+**A.** The Holy Spirit is revealed as the Lord who leads us into all truth and enables us to grow in the likeness of Christ.
+
+**Q.** How do we recognize the presence of the Holy Spirit in our lives?
+
+**A.** We recognize the presence of the Holy Spirit when we confess Jesus Christ as Lord and are brought into love and harmony with God, with ourselves, with our neighbors, and with all creation.
+
+**Q.** How do we recognize the truths taught by the Holy Spirit?
+
+**A.** We recognize truths to be taught by the Holy Spirit when they are in accord with the Scriptures.
+
+## The Holy Scriptures
+
+**Q.** What are the Holy Scriptures?
+
+**A.** The Holy Scriptures, commonly called the Bible, are the books of the Old and New Testaments; other books, called the Apocrypha, are often included in the Bible.
+
+**Q.** What is the Old Testament?
+
+**A.** The Old Testament consists of books written by the people of the Old Covenant, under the inspiration of the Holy Spirit, to show God at work in nature and history.
+
+**Q.** What is the New Testament?
+
+**A.** The New Testament consists of books written by the people of the New Covenant, under the inspiration of the Holy Spirit, to set forth the life and teachings of Jesus and to proclaim the Good News of the Kingdom for all people.
+
+**Q.** What is the Apocrypha?
+
+**A.** The Apocrypha is a collection of additional books written by people of the Old Covenant, and used in the Christian Church.
+
+**Q.** Why do we call the Holy Scriptures the Word of God?
+
+**A.** We call them the Word of God because God inspired their human authors and because God still speaks to us through the Bible.
+
+**Q.** How do we understand the meaning of the Bible?
+
+**A.** We understand the meaning of the Bible by the help of [ Page 854> the Holy Spirit, who guides the Church in the true interpretation of the Scriptures.
 
 ## The Church
 
-> Here may be sung a Hymn, after which, the People being seated, the Minister shall ask them the Questions concerning the Church which follow, the People responding.
+**Q.** What is the Church?
 
-WHEN were you made a member of the Church?
+**A.** The Church is the community of the New Covenant.
 
-**Answer.** I was made a member of the Church when I was baptized.
+**Q.** How is the Church described in the Bible?
 
-**Question.** What is the Church?
+**A.** The Church is described as the Body of which Jesus Christ is the Head and of which all baptized persons are members.
+It is called the People of God, the New Israel, a holy nation, a royal priesthood, and the pillar and ground of truth.
 
-**Answer.** The Church is the Body of which Jesus Christ is the Head, and all baptized people are the members.
+**Q.** How is the Church described in the creeds?
 
-**Question.** How is the Church described in the Apostles' and Nicene Creeds?
+**A.** The Church is described as one, holy, catholic, and apostolic.
 
-**Answer.** The Church is described in the Creeds as One, Holy, Catholic, and Apostolic.
+**Q.** Why is the Church described as one?
 
-**Question.** What do we mean by these words?
+**A.** The Church is one, because it is one Body, under one Head, our Lord Jesus Christ.
 
-**Answer.** We mean that the Church is
+**Q.** Why is the Church described as holy?
 
-One; because it is one Body under one Head;
+**A.** The Church is holy, because the Holy Spirit dwells in it, consecrates its members, and guides them to do God's work.
 
-Holy; because the Holy Spirit dwells in it, and sanctifies its members;
+**Q.** Why is the Church described as catholic?
 
-Catholic; because it is universal, holding earnestly the Faith for all time, in all countries, and for all people; and is sent to preach the Gospel to the whole world;
+**A.** The Church is catholic, because it proclaims the whole Faith to all people, to the end of time.
 
-Apostolic; because it continues stedfastly in the Apostles' teaching and fellowship.
+**Q.** Why is the Church described as apostolic?
 
-**Question.** What is your bounden duty as a member of the Church?
+**A.** The Church is apostolic, because it continues in the teaching and fellowship of the apostles and is sent to carry out Christ's mission to all people.
 
-**Answer.** My bounden duty is to follow Christ, to worship God every Sunday in his Church; and to work and pray and give for the spread of his kingdom.
+**Q.** What is the mission of the Church?
 
-**Question.** What special means does the Church provide to help you to do all these things?
+**A.** The mission of the Church is to restore all people to unity with God and each other in Christ.
 
-**Answer.** The Church provides the Laying on of Hands, or Confirmation, wherein, after renewing the promises and vows of my Baptism, and declaring my loyalty and devotion to Christ as my Master, I receive the strengthening gifts of the Holy Spirit.
+**Q.** How does the Church pursue its mission?
 
-**Question.** After you have been confirmed, what great privilege doth our Lord provide for you?
+**A.** The Church pursues its mission as it prays and worships, proclaims the Gospel, and promotes justice, peace, and love.
 
-**Answer.** Our Lord provides the Sacrament of the Lord’s Supper, or Holy Communion, for the continual strengthening and refreshing of my soul.
+**Q.** Through whom does the Church carry out its mission?
 
-## The Sacraments
-
-> After another Hymn, the Minister shall proceed with the Questions on the Sacraments, as followeth.
-
-HOW many Sacraments hath Christ ordained in his Church?
-
-**Answer.** Christ hath ordained two Sacraments only, as generally necessary to salvation; that is to say, Baptism, and the Supper of the Lord.
-
-**Question.** What do you mean by this word Sacrament?
-
-**Answer.** I mean by this word Sacrament an outward and visible sign of an inward and spiritual grace given unto us; ordained by Christ himself, as a means whereby we receive this grace, and a pledge to assure us thereof.
-
-**Question.** How many parts are there in a Sacrament?
-
-**Answer.** There are two parts in a Sacrament; the outward and visible sign, and the inward and spiritual grace.
-
-**Question.** What is the outward and visible sign or form in Baptism?
-
-**Answer.** The outward and visible sign or form in Baptism is Water; wherein the person is baptized, In the Name of the Father, and of the Son, and of the Holy Ghost.
-
-**Question.** What is the inward and spiritual grace in Baptism?
-
-**Answer.** The inward and spiritual grace in Baptism is a death unto sin, and a new birth unto righteousness; whereby we are made the children of grace.
-
-**Question.** What is required of persons to be baptized?
-
-**Answer.** Repentance, whereby they forsake sin; and Faith, whereby they stedfastly believe the promises of God to them in that Sacrament.
-
-**Question.** Why then are infants baptized, when by reason of their tender age they cannot perform them?
-
-**Answer.** Because, by the faith of their Sponsors, infants are received into Christ's Church, become the recipients of his grace, and are trained in the household of faith.
-
-**Question.** Why was the Sacrament of the Lord's Supper ordained?
-
-**Answer.** The Sacrament of the Lord's Supper was ordained for the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
-
-**Question.** What is the outward part or sign of the Lord's Supper?
-
-**Answer.** The outward part or sign of the Lord's Supper is, Bread and Wine, which the Lord hath commanded to be received.
-
-**Question.** What is the inward part, or thing signified?
-
-**Answer.** The inward part, or thing signified, is the Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord's Supper.
-
-**Question.** What are the benefits whereof we are partakers in the Lord's Supper?
-
-**Answer.** The benefits whereof we are partakers in the Lord’s Supper are the strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are strengthened and refreshed by the Bread and Wine.
-
-**Question.** What is required of those who come to the Lord's Supper?
-
-**Answer.** It is required of those who come to the Lord's Supper to examine themselves, whether they repent them truly of their former sins, with stedfast purpose to lead a new life; to have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and to be in charity with all men.
+**A.** The church carries out its mission through the ministry of all its members.
 
 ## The Ministry
 
-> Here may be sung a Hymn, after which the Minister shall ask the People the following Questions concerning the Ministry, the People responding.
+**Q.** Who are the ministers of the Church?
 
-WHAT orders of Ministers are there in the Church?
+**A.** The ministers of the Church are lay persons, bishops, priests, and deacons.
 
-**Answer.** Bishops, Priests, and Deacons; which orders have been in the Church from the earliest times.
+**Q.** What is the ministry of the laity?
 
-**Question.** What is the office of a Bishop?
+**A.** The ministry of lay persons is the represent Christ and his Church; to bear witness to him wherever they may be; and, according to the gifts given them, to carry on Christ's work of reconciliation in the world; and to take their place in the life, worship, and governance of the Church.
 
-**Answer.** The office of a Bishop is, to be a chief pastor in the Church; to confer Holy Orders; and to administer Confirmation.
+**Q.** What is the ministry of a bishop?
 
-**Question.** What is the office of a Priest?
+**A.** The minsitry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ's name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ's ministry.
 
-**Answer.** The office of a Priest is, to minister to the people committed to his care; to preach the Word of God; to baptize; to celebrate the Holy Communion; and to pronounce Absolution and Blessing in God's Name.
+**Q.** What is the ministry of a priest or presbyter?
 
-**Question.** What is the office of a Deacon?
+**A.** The ministry of a priest is to represent Christ and his Church, particularly as pastor to the people; to share with the bishop in the overseeing of the Church; to proclaim the Gospel; to administer the sacraments; and to bless and declare pardon in the name of God.
 
-**Answer.** The office of a Deacon is, to assist the Priest in Divine Service, and in his other ministrations, under the direction of the Bishop.
+**Q.** What is the ministry of a deacon?
 
-> Then shall the Minister add,
+**A.** The ministry of a deacon is to represent Christ and his Church, particularly as a servant of those in need; and to assist bishops and priests in the proclamation of the Gospel and the administration of the sacraments.
 
-The Lord be with you.
+**Q.** What is the duty of all Christians?
 
-**Answer.** And with thy spirit.
+**A.** The duty of all Christians is to follow Christ; to come together week by week for corporate worship; and to work, pray, and give for the spread of the kingdom of God.
 
-Let us pray.
+## Prayer and Worship
 
-GRANT, O Lord, that they who shall renew the promises and vows of their Baptism, and be confirmed by the Bishop, may receive such a measure of thy Holy Spirit, that they may grow in grace unto their life's end; through Jesus Christ our Lord.
+**Q.** What is prayer?
+
+**A.** Prayer is responding to God, by thought and by deeds, with or without words.
+
+**Q.** What is Christian Prayer?
+
+**A.** Christian prayer is response of God the Father, through Jesus Christ, in the power of the Holy Spirit.
+
+**Q.** What prayer did Christ teach us?
+
+**A.** Our Lord gave us the example of prayer knows as the Lord's Prayer.
+
+> See page 364
+
+**Q.** What are the principle kinds of prayer?
+
+**A.** The principle kinds of prayer are adoration, praise, thanksgiving, penitence, oblation, intercession, and petition.
+
+**Q.** What is adoration?
+
+**A.** Adoration is the lifting up of the heart and mind to God, asking nothing but to enjoy God's presence.
+
+**Q.** Why do we praise God?
+
+**A.** We praise God, not to obtain anything, but because God's Being draws praise from us.
+
+**Q.** For what do we offer thanksgiving?
+
+**A.** Thanksgiving is offered to God for all the blessings of this life, for our redemption, and for whatever draws us closer to God.
+
+**Q.** What is penitence?
+
+**A.** In penitence, we confess our sins and make restitution where possible, with the intention to amend our lives.
+
+**Q.** What is prayer of oblation?
+
+**A.** Oblation is an offering of ourselves, our lives and labors, in union with Christ, for the purposes of God.
+
+**Q.** What are intercession and petition?
+
+**A.** Intercession brings before god the needs of others; in petition, we present our own needs, that God's will may be done.
+
+**Q.** What is corporate worship?
+
+**A.** In corporate worship, we unite ourselves with others to acknowledge the holiness of God, to hear God's Word, to offer prayer, and to celebrate the sacraments.
+
+## The Sacraments
+
+**Q.** What are the sacraments?
+
+**A.** The sacraments are outward and visible signs of inward and spiritual grace, given by Christ as sure and certain means by which we receive that grace.
+
+**Q.** What is grace?
+
+**A.** Grace is God's favor toward us, unearned and undeserved; by grace God forgives our sins, enlightens our minds, stirs our hearts, and strengthens our wills.
+
+**Q.** What are the two great sacraments of the Gospel?
+
+**A.** The two great sacraments given by Christ to his Church are Holy Baptism and the Holy Eucharist.
+
+## Holy Baptism
+
+**Q.** What is Holy Baptism?
+
+**A.** Holy Baptism is the sacrament by which God adopts us as his children and makes us members of Christ's Body, the Church, and inheritors of the kingdom of God.
+
+**Q.** What is the outward and visible sign in Baptism?
+
+**A.** The outward and visible sign in Baptism is water, in which the person is baptized in the Name of the Father, and of the Son, and of the Holy Spirit.
+
+**Q.** What is the inward and spiritual grace in Baptism?
+
+**A.** The inward and spiritual grace in Baptism is union with Christ in his death and resurrection, birth into God's family the Church, forgiveness of sins, and new life in the Holy Spirit.
+
+**Q.** What is required of us at Baptism?
+
+**A.** It is required that we renounce Satan, repent of our sins, and accept Jesus as our Lord and Savior.
+
+**Q.** Why then are infants baptized?
+
+**A.** Infants are baptized so that they can share citizenship in the Covenant, membership in Christ, and redemption by God.
+
+**Q.** How are the promises for infants made and carried out?
+
+**A.** Promises are made for them by their parents and sponsors, who guarantee that the infants will be brought up within the Church, to know Christ and be able to follow him.
+
+## The Holy Eucharist
+
+**Q.** What is the Holy Eucharist?
+
+**A.** The Holy Eucharist is the sacrament commanded by Christ for the continual remembrance of his life, death, and resurrection, until his coming again.
+
+**Q.** Why is the Eucharist called a sacrifice?
+
+**A.** Because the Eucharist, the Church's sacrifice of praise and thanksgiving, is the way by which the sacrifice of Christ is made present, and in which he unites us to his one offering of himself.
+
+**Q.** By what other names is this service known?
+
+**A.** The Holy Eucharist is called the Lord's Supper, and Holy Communion; it is also known as the Divine Liturgy, the Mass, and the Great Offering.
+
+**Q.** What is the outward and visible sign in the Eucharist?
+
+**A.** The outward and visible sign in the Eucharist is bread and wine, give and received according to Christ's command.
+
+**Q.** What is the inward and spiritual grace given in the Eucharist?
+
+**A.** The inward and spiritual grace in the Holy Communion is the Body and Blood of Christ give to his people, and received by faith.
+
+**Q.** What are the benefits which we receive in the Lord's Supper?
+
+**A.** The benefits we receive are the forgiveness of our sins, [ Page 860> the strengthening of our union with Christ and one another, and the foretaste of the heavenly banquet which is our nourishment in eternal life.
+
+**Q.** What is required of us when we come to the Eucharist?
+
+**A.** It is required that we should examine our lives, repent of our sins, and be in love and charity with all people.
+
+## Other Sacramental Rites
+
+**Q.** What other sacramental rites evolved in the Church under the guidance of the Holy Spirit?
+
+**A.** Other sacramental rites which evolved in the Church include confirmation, ordination, holy matrimony, reconciliation of a penitent, and unction.
+
+**Q.** How do they differ from the two sacraments of the Gospel?
+
+**A.** Although they are means of grace, they are not necessary for all persons in the same way that Baptism and the Eucharist are.
+
+**Q.** What is Confirmation?
+
+**A.** Confirmation is the rite in which we express a mature commitment to Christ, and receive strength from the Holy Spirit through prayer and the laying on of hands by a bishop.
+
+**Q.** What is required of those to be confirmed?
+
+**A.** It is required of those to be confirmed that they have been baptized, are sufficiently instructed in the Christian Faith, are penitent for their sins, and are ready to affirm their confession of Jesus Christ as Savior and Lord.
+
+**Q.** What is Ordination?
+
+**A.** Ordination is the rite in which God gives authority and the grace of the Holy Spirit to those being made bishops,
+
+priests, and deacons, through prayer and the laying on of hands by bishops.
+
+**Q.** What is Holy Matrimony?
+
+**A.** Holy Matrimony is Christian marriage, in which the woman and man enter into a life-long union, make their vows before God and the Church, and receive the grace and blessing of God to help them fulfill their vows.
+
+**Q.** What is Reconciliation of a Penitent?
+
+**A.** Reconciliation of a Penitent, or Penance, is the rite in which those who repent of their sins may confess them to God in the presence of a priest, and receive the assurance of pardon and the grace of absolution.
+
+**Q.** What is Unction of the Sick?
+
+**A.** Unction is the rite of anointing the sick with oil, or the laying on of hands, by which God's grace is given for the healing of spirit, mind, and body.
+
+**Q.** Is God's activity limited to these rites?
+
+**A.** God does not limit himself to these rites; they are patterns of countless ways by which God uses material things to reach out to us.
+
+**Q.** How are the sacraments related to our Christian hope?
+
+**A.** Sacraments sustain our present hope and anticipate its future fulfillment.
+
+## The Christian Hope
+
+**Q.** What is the Christian hope?
+
+**A.** The Christian hope is to live with confidence in newness and fullness of life, and to await the coming of Christ in glory, and the completion of God's purpose for the world.
+
+**Q.** What do we mean by the coming of Christ in glory?
+
+**A.** By the coming of Christ in glory, we mean that Christ will come, not in weakness but in power, and will make all things new.
+
+**Q.** What do we mean by heaven and hell?
+
+**A.** By heaven, we mean eternal life in our enjoyment of God; by hell, we mean eternal death in our rejection of God.
+
+**Q.** Why do we pray for the dead?
+
+**A.** We pray for them, because we still hold them in our love, and because we trust that in God's presence those who have chosen to serve him will grow in his love, until they see him as he is.
+
+**Q.** What do we mean by the last judgment?
+
+**A.** We believe that Christ will come in glory and judge the living and the dead.
+
+**Q.** What do we mean by the resurrection of the body?
+
+**A.** We mean that God will raise us from death in the fullness of our being, that we may live with Christ in the communion of the saints.
+
+**Q.** What is the communion of saints?
+
+**A.** The communion of saints is the whole family of God, the living and the dead, those whom we love and those whom we hurt, bound together in Christ by sacrament, prayer, and praise.
+
+**Q.** What do we mean by everlasting life?
+
+**A.** By everlasting life, we mean a new existence, in which we are united with all the people of God, in the joy of fully knowing and loving God and each other.
+
+**Q.** What, then, is our assurance as Christians?
+
+**A.** Our assurance as Christians is that nothing, not even death, shall separate us from the love of God which is in Christ Jesus our Lord.
 Amen.
-
-GRANT, O Father, that when we receive the blessed Sacrament of the Body and Blood of Christ, coming to those holy mysteries in faith, and love, and true repentance, we may receive remission of our sins, and be filled with thy grace and heavenly benediction; through Jesus Christ our Lord.
-Amen.
-
-THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
-Amen.
-
-> The Minister of every Parish shall diligently, upon Sundays and Holy Days, or on some other convenient occasions, openly in the Church, instruct or examine the Youth of his Parish.
-
-> And all Fathers, Mothers, Guardians, and Sponsors shall bring those, for whose religious nurture they are responsible, to the Church at the time appointed, to receive instruction by the Minister.

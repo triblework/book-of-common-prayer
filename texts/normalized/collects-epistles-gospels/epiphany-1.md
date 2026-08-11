@@ -1,14 +1,13 @@
-# The First Sunday after the Epiphany
+# First Sunday after the Epiphany: The Baptism of our Lord
+
+<!-- VERIFY: 'First Sunday after the Epiphany: The Baptism of our Lord' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O LORD, we beseech thee mercifully to receive the prayers of thy people who call upon thee; and grant that they may both perceive and know what things they ought to do, and also may have grace and power faithfully to fulfil the same; through Jesus Christ our Lord.
+Father in heaven, who at the baptism of Jesus in the River Jordan didst proclaim him thy beloved Son and anoint him with the Holy Spirit: Grant that all who are baptized into his Name may keep the covenant they have made, and boldly confess him as Lord and Savior; who with thee and the same Holy Spirit liveth and reigneth, one God, in glory everlasting.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Romans 12:1
-
-## The Gospel
-
-Luke 2:41
+Father in heaven, who at the baptism of Jesus in the River Jordan proclaimed him your beloved Son and anointed him with the Holy Spirit: Grant that all who are baptized into his Name may keep the covenant they have made, and boldly confess him as Lord and Savior; who with you and the Holy Spirit lives and reigns, one God, in glory everlasting.
+Amen.

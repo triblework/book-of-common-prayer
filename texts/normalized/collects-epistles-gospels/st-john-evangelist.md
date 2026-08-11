@@ -1,14 +1,13 @@
-# Saint John the Evangelist's Day
+# Saint John
+
+<!-- VERIFY: 'Saint John' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-MERCIFUL Lord, we beseech thee to cast thy bright beams of light upon thy Church, that it, being instructed* by the doctrine of thy blessed Apostle and Evangelist Saint John, may so walk in the light of thy truth, that it may at length attain to everlasting life†; through Jesus Christ our Lord.
+Shed upon thy Church, we beseech thee, O Lord, the brightness of thy light, that we, being illumined by the teaching of thine apostle and evangelist John, may so walk in the light of thy truth, that at length we may attain to the fullness of eternal life; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-1 John 1:1
-
-## The Gospel
-
-John 21:19
+Shed upon your Church, O Lord, the brightness of your light, that we, being illumined by the teaching of your apostle and evangelist John, may so walk in the light of your truth, that at length we may attain to the fullness of eternal life; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+Amen.

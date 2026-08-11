@@ -1,23 +1,13 @@
-# Saint Thomas the Apostle
+# Saint Thomas
+
+<!-- VERIFY: 'Saint Thomas' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY and everliving God, who, for the greater* confirmation of the faith, didst suffer thy holy Apostle Thomas to be doubtful in thy Son's resurrection; Grant us so perfectly, and without all doubt, to believe in thy Son Jesus Christ, that our faith in thy sight may never be reproved.
-Hear us, O Lord, through the same Jesus Christ, to whom, with thee and the Holy Ghost, be all honour and glory, now and for evermore, Amen.
+Everliving God, who didst strengthen thy apostle Thomas with firm and certain faith in thy Son's resurrection: Grant us so perfectly and without doubt to believe in Jesus Christ, our Lord and our God, that our faith may never be found wanting in thy sight; through him who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever.
+Amen.
 
-NOW therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; and are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; in whom all the building fitly framed together groweth unto an holy temple in the Lord: in whom ye also are builded together for an habitation of God through the Spirit.
+## The Collect (Contemporary)
 
-CAST not away therefore your confidence, which hath great recompence of reward.
-For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
-For yet a little while, and he that shall come will come, and will not tarry.
-Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.
-But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
-Now faith is the substance of things hoped for, the evidence of things not seen.
-
-## The Epistle
-
-Hebrews 10:35, and part of chapter 11
-
-## The Gospel
-
-John 20:24
+Everliving God, who strengthened your apostle Thomas with firm and certain faith in your Son's resurrection: Grant us so perfectly and without doubt to believe in Jesus Christ, our Lord and our God, that our faith may never be found wanting in your sight; through him who lives and reigns with yuo and the Holy Spirit, one God, now and for ever.
+Amen.

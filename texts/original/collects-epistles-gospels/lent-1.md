@@ -1,14 +1,13 @@
-# The First Sunday in Lent
+# First Sunday in Lent
+
+<!-- VERIFY: 'First Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O LORD, who for our sake didst fast forty days and forty nights; Give us grace to use such abstinence, that, our flesh being subdued to the Spirit, we may ever obey thy godly motions in righteousness, and true holiness, to thy honour and glory, who livest and reignest with the Father and the Holy Ghost, one God, world without end.
+Almighty God, whose blessed Son was led by the Spirit to be tempted by Satan; Come quickly to help us who are assaulted by many temptations; and, as you know the weaknesses of each of us, let each one find you mighty to save; through Jesus Christ thy Son our Lord, who liveth and reigneth with you and the Holy Spirit, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-2 Corinthians 6:1
-
-## The Gospel
-
-Matthew 4:1
+Almighty God, whose blessed Son was led by the Spirit to be tempted by Satan; Come quickly to help us who are assaulted by many temptations; and, as you know the weaknesses of each of us, let each one find you mighty to save; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.
+Amen.

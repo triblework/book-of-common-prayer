@@ -1,16 +1,13 @@
-# Saint Peter the Apostle
+# Saint Peter and Saint Paul
+
+<!-- VERIFY: 'Saint Peter and Saint Paul' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O ALMIGHTY God, who by thy Son Jesus Christ didst give to thy Apostle Saint Peter many excellent gifts, and commandedst him earnestly to feed thy flock; Make, we beseech thee, all Bishops and Pastors diligently to preach thy holy Word, and the people obediently to follow the same, that they may receive the crown of everlasting glory; through* Jesus Christ our Lord.
+Almighty God, whose blessed apostles Peter and Paul glorified you by their martyrdom: Grant that thy Church, instructed by their teaching and example, and knit together in unity by thy Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord; who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-> For the Epistle.
-
-Acts 12:1
-
-## The Gospel
-
-Matthew 16:13
+Almighty God, whose blessed apostles Peter and Paul glorified you by their martyrdom: Grant that your Church, instructed by their teaching and example, and knit together in unity by your Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.
+Amen.

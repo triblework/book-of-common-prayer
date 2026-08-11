@@ -1,0 +1,18 @@
+# For the Absent
+
+O God, whose fatherly care =reacheth= to the uttermost parts
+
+of the earth:  We humbly beseech =thee= graciously to behold
+
+and bless whom we love, now absent from us.
+Defend
+
+them from all dangers of soul and body; and grant that both
+
+they and we, drawing nearer to =thee=, may be bound together
+
+by =thy= love in the communion of =thy= Holy Spirit, and in the
+
+fellowship of =thy= saints; through Jesus Christ our Lord.
+
+=Amen.=

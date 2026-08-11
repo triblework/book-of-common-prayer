@@ -1,0 +1,16 @@
+# For Heroic Service
+
+O Judge of the nations, we remember before you with grateful
+
+hearts the men and women of our country who in the day of
+
+decision ventured much for the liberties we now enjoy.
+Grant
+
+that we may not rest until all the people of this land share the
+
+benefits of true freedom and gladly accept its disciplines.
+This
+
+we ask in the Name of Jesus Christ our Lord.
+=Amen.=

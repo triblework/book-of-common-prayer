@@ -1,24 +1,10 @@
-# Saint Simon and Saint Jude, Apostles
+# Saint Simon and Saint Jude
+
+<!-- VERIFY: 'Saint Simon and Saint Jude' — the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. -->
+
+<!-- VERIFY: 'Saint Simon and Saint Jude' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O ALMIGHTY God, who hast built thy Church upon the foundation of the Apostles and Prophets, Jesus Christ himself being the head corner-stone; Grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple acceptable unto thee; through Jesus Christ our Lord.
+O God, we thank you for the glorious company of the apostles, and especially on this day for Simon and Jude; and we pray that, as they were faithful and zealous in their mission, so we may with ardent devotion make known the love and mercy of our Lord and Savior Jesus Christ; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.
 Amen.
-
-JUDE, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called: Mercy unto you, and peace, and love, be multiplied.
-Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
-For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the race of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
-I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
-And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
-Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
-Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
-
-NOW therefore ye are no more strangers and foreigners, but fellow-citizens with the saints, and of the house-hold of God; and are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner-stone; in whom all the building fitly framed together groweth unto an holy temple in the Lord: in whom ye also are builded together for an habitation of God through the Spirit.
-
-## The Epistle
-
-Ephesians 2:19
-
-## The Gospel
-
-John 15:17

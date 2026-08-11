@@ -1,23 +1,13 @@
-# Thursday before Easter
+# Maundy Thursday
+
+<!-- VERIFY: 'Maundy Thursday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY Father, whose dear Son, on the night before he suffered, did institute the Sacrament of his Body and Blood; Mercifully grant that we may thankfully receive the same in remembrance of him, who in these holy mysteries giveth us a pledge of life eternal; the same thy Son Jesus Christ our Lord, who now liveth and reigneth with thee and the Holy Spirit ever, one God, world without end.
+Almighty Father, whose dear Son, on the night before he suffered, instituted the Sacrament of his Body and Blood: Mercifully grant that we may receive it thankfully in remembrance of Jesus Christ our Lord, who in these holy mysteries gives us a pledge of eternal life; and who now liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.
 Amen.
 
-commonly called
+## The Collect (Contemporary)
 
-Maundy Thursday.
-added to title, 1928.
-
-Collect added in 1928.
-
-> Or else this that followeth.
-
-## The Epistle
-
-1 Corinthians 11:17
-
-## The Gospel
-
-Luke 23:1
+Almighty Father, whose dear Son, on the night before he suffered, instituted the Sacrament of his Body and Blood: Mercifully grant that we may receive it thankfully in remembrance of Jesus Christ our Lord, who in these holy mysteries gives us a pledge of eternal life; and who now lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+Amen.

@@ -1,16 +1,10 @@
-# The Fourth Sunday in Advent
+# Fourth Sunday of Advent
 
-<!-- VERIFY: 'The Fourth Sunday in Advent' — * through Jesus Christ our Lord in 1928 -->
+<!-- VERIFY: 'Fourth Sunday of Advent' — the traditional-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. -->
 
-## The Collect
+<!-- VERIFY: 'Fourth Sunday of Advent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
-O LORD, raise up, we pray thee, thy power, and come among us, and with great might succour us; that whereas, through our sins and wickedness, we are sore let and hindered in running the race that is set before us, thy bountiful grace and mercy may speedily help and 'deliver us; through the satisfaction of thy Son our Lord*, to whom, with thee and the Holy Ghost, be honour and glory, world with out end.
+## The Collect (Contemporary)
+
+Purify our conscience, Almighty God, by your daily visitation, that your Son Jesus Christ, at his coming, may find in us a mansion prepared for himself; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.
 Amen.
-
-## The Epistle
-
-Philippians 4:4
-
-## The Gospel
-
-John 1:19

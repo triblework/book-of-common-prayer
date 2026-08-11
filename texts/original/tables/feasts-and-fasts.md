@@ -1,162 +1,129 @@
 # Tables and Rules for the Feasts and Fasts
 
-Tables and Rules for tbe Movable and Immovable Feasts,
+The Church Year consists of two cycles of feasts and holy days: one is dependent upon the movable date of the Sunday of the Resurrection or Easter Day; the other, upon the fixed date of December 25, the Feast of our Lord's Nativity or Christmas Day.
 
-TOGETHER WITH THE DAYS OF FASTING AND ABSTINENCE, THROUGH THE WHOLE YEAR.
+Easter Day is always the first Sunday after the full moon that falls on or after March 21.
+It cannot occur before March 22 or after April 25.
 
-RULES
+The sequence of all Sundays of the Church Year depends upon the date of Easter Day.
+But the Sundays of Advent are always the four Sundays before Christmas Day, whether it occurs on a Sunday or a weekday.
+The date of Easter also determines the beginning of Lent on Ash Wednesday, and the feast of the Ascension on a Thursday forty days after Easter Day.
 
-TO KNOW WHEN THE MOVABLE FEASTS AND HOLY-DAYS BEGIN.
+## 1. Principal Feasts
 
-EASTER.DAY, on which the rest depend, is always the First Sunday after the Full Moon, which happens upon or next after the Twenty-first Day of March; and if the Full Moon happen upon a Sunday, Easter-day is the Sunday after.
+The Principle Feasts observed in this Church are the following:
 
-But Note, That the Full Moon, for the purposes of these Rules and Tables, is the Fourteenth Day of a Lunar Month, reckoned according to an ancient Ecclesiastical computation, and not the real or Astronomical Full Moon.
+Easter Day
 
-Advent-Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
+Ascension Day
 
-> Septuagesima
+The Day of Pentecost
 
-> Sexagesima
+Trinity Sunday
 
-> Quinquagesima
+All Saint's Day : November 1
 
-> Quadragesima
+Christmas Day : December 25
 
-Sunday is
+The Epiphany : January 6
 
-Nine
+These feasts take precedence of any other day or observance.
+All Saints' Day may always be observed on the Sunday following November 1, in addition to its observance on the fixed date.
 
-Eight
+## 2. Sundays
 
-Seven
+All Sundays of the year are feasts of our Lord Jesus Christ.
+In addition to the dated days listed above, only the following feasts, appointed on fixed days, take precedence of a Sunday:
 
-Six
+The Holy Name
 
-Weeks before Easter.
+The Presentation
 
-> Rogation-Sunday
+The Transfiguration
 
-> Ascension-day
+The feast of the Dedication of a Church, and the feast of its patron or title, may be observed on, or be transferred to, a Sunday, except in the seasons of Advent, Lent, and Easter.
 
-> Whitsunday
+All other Feasts of our Lord, and all other Major Feasts appointed on fixed days in the Calendar, when they occur on a Sunday, are normally transferred to the first convenient open day within the week. When desired, however, the Collect, Preface, and one or more of the Lessons appointed for the Feast may be substituted for those of the Sunday, but not from the Last Sunday after Pentecost through the First Sunday after the Epiphany, or from the Last Sunday after the Epiphany through Trinity Sunday.
 
-> Trinity-Sunday
+With the express permission of the bishop, and for urgent and sufficient reason, some other special occasion may be observed on a Sunday.
 
-is
+## 3. Holy Days
 
-Five Weeks
+The following Holy Days are regularly observed throughout the year.
+Unless otherwise ordered in the preceding rules concerning Sundays, they have precedence over all other days of commemoration or of special observance:
 
-Forty Days
+Other Feasts of Our Lord
 
-Seven Weeks
+The Holy Name
 
-Eight Weeks
+The Presentation
 
-after Easter.
+The Annunciation
 
-A TABLE OF FEASTS,
+The Visitation
 
-TO BE OBSERVED IN THIS CHURCH THROUGHOUT THE YEAR.
+Saint John the Baptist
 
-All Sundays in the Year.
+The Transfiguration
 
-The Circumcision of our Lord
+Holy Cross Day
 
-JESUS CHRIST.
+Other Major Feasts
 
-The Epiphany.
+All feasts of Apostles
 
-The Conversion of St. Paul.
+All feasts of Evangelists
 
-The Purification of the Blessed
+Saint Stephen
 
-Virgin.
+The Holy Innocents
 
-St. Matthias the Apostle.
+Saint Joseph
 
-The Annunciation of the
+Saint Mary Magdalene
 
-Blessed Virgin.
+Saint Mary the Virgin
 
-St. Mark the Evangelist.
+Saint Michael and All Angels
 
-St. Philip and St. James the
+Saint James of Jerusalem
 
-Apostles.
+Independence Day
 
-The Ascension of our Lord
+Thanksgiving Day
 
-JESUS CHRIST.
+Fasts
 
-St. Barnabas the Apostle.
+Ash Wednesday
 
-The Nativity of St. John Baptist.
+Good Friday
 
-St. Peter the Apostle.
+Feasts appointed of fixed days in the Calendar are not observed on the days of Holy Week or of Easter Week. Major Feasts falling in these weeks are transferred to the week following the Second Sunday of Easter, in the order of their occurrence.
 
-St. James the Apostle.
-The Transfiguration of our Lord
+Feasts appointed on fixed days in the Calendar do not take precedence of Ash Wednesday.
 
-JESUS CHRIST.
+Feasts of our Lord and other Major Feasts appointed on fixed days, which fall upon or are transferred to a weekday, may be observed on any open day within the week. This provision does not apply to Christmas Day, the Epiphany, and All Saints' Day.
 
-St. Bartholomew the Apostle.
+## 4. Days of Special Devotion
 
-St. Matthew the Apostle.
+The following days are observed by special acts of discipline and self-denial:
 
-St. Michael and all Angels.
+Ash Wednesday and the other weekdays of Lent and of Holy Week, except the feast of the Annunciation.
 
-St. Luke the Evangelist.
+Good Friday and all other Fridays of the year, in commemoration of the Lord's crucifixion, except for Fridays in the Christmas and Easter seasons, and any Feasts of our Lord which occur on a Friday.
 
-St. Simon & St. Jude
+## 5. Days of Optional Observance
 
-the Apostles.
+Subject to the rules of precedence governing Principal Feasts, Sundays, and Holy Days, the following may be observed with the Collects, Psalms, and Lessons duly authorized by this Church:
 
-All Saints.
+Commemorations listed in the Calendar
 
-St. Andrew the Apostle.
+Other Commemorations, using the Common of Saints
 
-St. Thomas the Apostle.
+The Ember Days, traditionally observed on the Wednesdays, Fridays, and Saturdays after the First Sunday in Lent, the Day of Pentecost, Holy Cross Day, and December 13.
 
-The Nativity of our Lord
+The Rogation Days, traditionally observed on Monday, Tuesday, and Wednesday before Ascension Day
 
-JESUS CHRIST.
+Various Occasions
 
-St. Stephen the Martyr.
-
-St. John the Evangelist.
-
-The Holy Innocents.
-
-Monday and Tuesday In Easter
-
-week.
-
-Monday and Tuesday in
-
-Whitsun week.
-
-A TABLE OF FASTS.
-
-Ash-Wednesday. Good Friday.
-
-OTHER DAYS OF FASTING,
-
-ON WHICH THE CHURCH REQUIRES SUCH A MEASURE OF ABSTINENCE AS IS MORE ESPECIALLY SUITED TO EXTRAORDINARY ACTS AND EXERCISES OF DEVOTION.
-
-I.
-
-The Forty Days of Lent.
-
-II.
-
-The Ember-days at the Four Seasons, being the Wednesday, Friday, and Saturday after The First Sunday in Lent, The Feast of Pentecost, September 14, and December 18.
-
-III.
-
-The three Rogation-days, being the Monday, Tuesday and Wednesday before Holy Thursday, or the Ascension of our Lord.
-
-IV.
-
-All the Fridays in the Year, except Christmas-day.
-
-In addition to the above,the first Thursday in November (or, if any other day be appointed by the Civil Authorlty, then such day) shall be observed as a Day of Thanksgiving to Almighty God for the Fruits of the Earth, and all other Blessings of his merciful Providence.
+Provided, that there is no celebration of the Eucharist for any such occasion on Ash Wednesday, Maundy Thursday, Good Friday, and Holy Saturday; and provided further, that none of the Propers appointed for Various Occasions is used as a substitute for, or as an addition to, the Proper appointed for the Principal Feasts.

@@ -1,14 +1,13 @@
-# The Second Sunday after the Epiphany
+# Second Sunday after the Epiphany
+
+<!-- VERIFY: 'Second Sunday after the Epiphany' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY and everlasting God, who dost govern all things in heaven and earth; Mercifully hear the supplications of thy people, and grant us thy peace all the days of our life; through Jesus Christ our Lord.
+Almighty God, whose Son our Savior Jesus Christ is the light of the world: Grant that thy people, illumined by thy Word and Sacraments, may shine with the radiance of Christ's glory, that he may be known, worshiped, and obeyed to the ends of the earth; through Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Romans 12:6
-
-## The Gospel
-
-Mark 1:1
+Almighty God, whose Son our Savior Jesus Christ is the light of the world: Grant that your people, illumined by your Word and Sacraments, may shine with the radiance of Christ's glory, that he may be known, worshiped, and obeyed to the ends of the earth; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, now and for ever.
+Amen.

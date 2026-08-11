@@ -1,4 +1,16 @@
-# For Social Justice.
+# For Social Justice
 
-ALMIGHTY God, who hast created man in thine own image; Grant us grace fearlessly to contend against evil, and to make no peace with oppression; and, that we may reverently use our freedom, help us to employ it in the maintenance of justice among men and nations, to the glory of thy holy Name; through Jesus Christ our Lord.
-Amen.
+*See also Various Occasions no. 21.*
+
+Grant, O God, that your holy and life-giving Spirit may so
+
+move every human heart [and especially the hearts of the
+
+people of this land], that barriers which divide us may
+
+crumble, suspicions disappear, and hatreds cease; that our
+
+divisions being healed, we may live in justice and peace;
+
+through Jesus Christ our Lord.
+=Amen.=

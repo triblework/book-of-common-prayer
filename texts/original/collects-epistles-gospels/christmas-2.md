@@ -1,20 +1,13 @@
-# The Second Sunday after Christmas Day
+# Second Sunday after Christmas Day
 
-<!-- VERIFY: 'The Second Sunday after Christmas Day' — Readings for the 2nd Sunday after Christmas added in 1928 — the source prints one set of readings for this day without distinguishing them, so they are carried at 1928 and omitted at 1789/1892. -->
+<!-- VERIFY: 'Second Sunday after Christmas Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY God, who hast poured upon us the new light of thine incarnate Word; Grant that the same light enkindled in our hearts may shine forth in our lives; through Jesus Christ our Lord.
+O God, who didst wonderfully creat, and yet more wonderfully restore, the dignity of human nature: Grant that we may share the divine life of him who humbled himself to share our humanity, thy Son Jesus Christ; who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, for ever and ever.
 Amen.
 
-> The same Collect, Epistle, and Gospel shall serve every after, unto the Epiphany.
+## The Collect (Contemporary)
 
-## The Epistle
-
-> For the Epistle.
-
-Isaiah 61:1
-
-## The Gospel
-
-Matthew 2:19
+O God, who wonderfully created, and yet more wonderfully restored, the dignity of human nature: Grant that we may share the divine life of him who humbled himself to share our humanity, you Son Jesus Christ; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.
+Amen.

@@ -1,18 +1,13 @@
-# Tuesday in Easter-week
+# Tuesday in Easter Week
+
+<!-- VERIFY: 'Tuesday in Easter Week' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-GRANT, we beseech thee, Almighty God, that we who celebrate with reverence the Paschal feast, may be found worthy to attain to everlasting joys; through Jesus Christ our Lord.
+O God, who by the glorious resurrection of thy Son Jesus Christ destroyed death and brought life and immortality to light: Grant that we, who have been raised with him, may abide in his presence and rejoice in the hope of eternal glory; through the same Jesus Christ our Lord, to whom, with thee and the Holy Spirit, be dominion and praise for ever and ever.
 Amen.
 
-> The same as on Sunday.
+## The Collect (Contemporary)
 
-## The Epistle
-
-> For the Epistle.
-
-Acts 13:26
-
-## The Gospel
-
-Luke 24:36
+O God, who by the glorious resurrection of your Son Jesus Christ destroyed death and brought life and immortality to light: Grant that we, who have been raised with him, may abide in his presence and rejoice in the hope of eternal glory; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be dominion and praise for ever and ever.
+Amen.

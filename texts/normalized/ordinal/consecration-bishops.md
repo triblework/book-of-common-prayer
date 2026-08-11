@@ -1,287 +1,320 @@
-# The Form of Ordaining or Consecrating a Bishop.
+# The Ordination of a Bishop
 
-## The Collect
+<!-- 1979 (public domain). Contemporary-language rite; the rite's own printed section headings are the anchors. Source: justus PD ASCII e-text bcpepscl.txt (Episcopal Services; spec §4.2). Mechanically reflowed; the e-text carries some OCR artifacts — verify against a page scan before sign-off. -->
 
-> When all things are duly prepared in the Church, and set in order, the Presiding Bishop, or some other Bishop appointed by the Bishops present, shall begin the Communion Service, in which this shall be
+> Hymns, psalms, and anthems may be sung during the entrance of the bishops and other ministers.
 
-> The Collect.
+> The people standing, the Bishop appointed says
 
-ALMIGHTY God, who by thy Son Jesus Christ didst give to thy holy Apostles many excellent gifts, and didst charge them to feed thy flock; Give grace, we beseech thee, to all Bishops, the Pastors of thy Church, that they may diligently preach thy Word, and duly administer the godly Discipline thereof; and grant to the people, that they may obediently follow the same; that all may receive the crown of everlasting glory; through the same thy Son Jesus Christ our Lord.
+Blessed be God: Father, Son, and Holy Spirit.
+
+**People.**  And blessed be his kingdom, now and for ever.
 Amen.
 
-## The Epistle
+> In place of the above, from Easter Day through the Day of Pentecost
 
-> And another Bishop shall read the Epistle.
+**Bishop.**  Alleluia.
+Christ is risen.
 
-> The Epistle. 1 Timothy iii. 1.
+**People.**  The Lord is risen indeed.
+Alleluia.
 
-THIS is a true saying, If a man desire the office of a bishop, he desireth a good work.
-A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; one that ruleth well his own house, having his children in subjection with all gravity; (for if a man know not how to rule his own house, how shall he take care of the church of God?)
-not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
-Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
+> In Lent and on other penitential occasions
 
-> Or this.
+**Bishop.**  Bless the Lord who forgives all our sins.
 
-> For the Epistle.
-> Acts xx. 17.
+**People.**  His mercy endures for ever.
 
-FROM Miletus Paul sent to Ephesus, and called the elders of the church.
-And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have showed you, and have taught you publickly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
-And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there: save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.
-But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
-And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.
-Wherefore I take you to record this day, that I am pure from the blood of all men.
-For I have not shunned to declare unto you all the counsel of God.
-Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
-For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
-Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
-Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
-And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
-I have coveted no man's silver, or gold, or apparel.
-Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
-I have showed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+> The Bishop then says
 
-## The Gospel
-
-> Then another Bishop shall read the Gospel.
-
-> The Gospel.
-> St. John xxi. 15.
-
-JESUS saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these?
-He saith unto him, Yea, Lord; thou knowest that I love thee.
-He saith unto him, Feed my lambs.
-He saith to him again the second time, Simon, son of Jonas, lovest thou me?
-He saith unto him, Yea, Lord; thou knowest that I love thee.
-He saith unto him, Feed my sheep.
-He saith unto him the third time, Simon, son of Jonas, lovest thou me?
-Peter was grieved because he said unto him the third time, Lovest thou me?
-And he said unto him, Lord, thou knowest all things; thou knowest that I love thee.
-Jesus saith unto him, Feed my sheep.
-
-> Or this.
-
-> The Gospel.
-> St. John xx. 19.
-
-THE same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus, and stood in the midst, and saith unto them, Peace be unto you.
-And when he had so said, he showed unto them his hands and his side.
-Then were the disciples glad, when they saw the Lord.
-Then saith Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.
-And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost: whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
-
-> Or this.
-
-> The Gospel.
-> St. Matthew xxviii. 18.
-
-JESUS came and spake unto them, saying, All power is given unto me in heaven and in earth.
-Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world.
+Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid.
+Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord.
+Amen.
 
 ## The Presentation
 
-> Then shall follow the Nicene Creed, and after that the Sermon; which being ended, the Elected Bishop, vested with his Rochet, shall be presented by two Bishops of this Church unto the Presiding Bishop, or to the Bishop appointed, sitting in his chair, near the Holy Table; the Bishops who present him saying,
+> The bishops and people sit.
+> Representatives of the diocese, both Priests and Lay Persons, standing before the Presiding Bishop, present the bishop-elect, saying
 
-REVEREND Father in God, we present unto you this godly and well-learned man, to be Ordained and Consecrated Bishop.
+N., Bishop in the Church of God, the clergy and people of the Diocese of N., trusting in the guidance of the Holy Spirit, have chosen N.N.
+to be a bishop and chief pastor.
+We therefore ask you to lay your hands upon him and in the power of the Holy Spirit to consecrate him a bishop in the one, holy, catholic, and apostolic Church.
 
-## The Promise of Conformity
+> The Presiding Bishop then directs that the testimonials of the election be read.
 
-> Then shall the Presiding Bishop demand Testimonials of the person presented for Consecration, and shall cause them to be read.
+> When the reading of the testimonials is ended, the Presiding Bishop requires the following promise from the Bishop-elect
 
-> He shall then require of him the following Promise of Conformity to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church.
+In the Name of the Father, and of the Son, and of the Holy Spirit, I, N.N., chosen Bishop of the Church in N., solemnly declare that I do believe the Holy Scriptures of the Old and New Testaments to be the Word of God, and to contain all things necessary to salvation; and I do solemnly engage to conform to the doctrine, discipline, and worship of the Episcopal Church.
 
-IN the Name of God, Amen.
-I, N., chosen Bishop of the Protestant Episcopal Church in N., do promise conformity and obedience to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church in the United States of America.
-So help me God, through Jesus Christ.
+> The Bishop-elect then signs the above Declaration in the sight of all present.
+> The witnesses add their signatures.
 
-## The Litany
+> All stand.
 
-> Then the Presiding Bishop shall move the Congregation present to pray, saying thus to them:
+> The Presiding Bishop then says the following, or similar words, and asks the response of the people
 
-BRETHREN, it is written in the Gospel of Saint Luke, that our Saviour Christ continued the whole night in prayer, before he chose and sent forth his twelve Apostles.
-It is written also, that the holy Apostles prayed before they ordained Matthias to be of the number of the Twelve.
-Let us, therefore, following the example of our Saviour Christ, and his Apostles, offer up our prayers to Almighty God, before we admit and send forth this person presented unto us, to the work whereunto we trust the Holy Ghost hath called him.
+Brothers and sisters in Christ Jesus, you have heard testimony given that N.N.
+has been duly and lawfully elected to be a bishop of the Church of God to serve in the Diocese of N.
+You have been assured of his suitability and that the Church has approved him for this sacred responsibility.
+Nevertheless, if any of you know any reason why we should not proceed, let it now be made known.
 
-And then shall be said the Litany; save only, that after this place, That it may please thee to illuminate all Bishops, etc., the proper Suffrage shall be,
+> If no objections are made, the Presiding Bishop continues
 
-THAT it may please thee to bless this our Brother elected, and to send thy grace upon him, that he may duly execute the Office whereunto he is called, to the edifying of thy Church, and to the honour, praise, and glory of thy Name;
+Is it your will that we ordain N.
+a bishop?
 
-**Answer.** We beseech thee to hear us, good Lord.
+> The People respond in these or other words
 
-> And Note, That in the discretion of the Presiding Bishop, instead of the Litany, may be said the Litany for Ordinations.
+That is our will.
 
-> Then shall be said the Prayer following.
+**Presiding Bishop.**
 
-ALMIGHTY God, giver of all good things, who by thy Holy Spirit hast appointed divers Orders of Ministers in thy Church; Mercifully behold this thy servant, now called to the Work and Ministry of a Bishop; and so replenish him with the truth of thy Doctrine, and adorn him with innocency of life, that, both by word and deed, he may faithfully serve thee in this Office, to the glory of thy Name, and the edifying and well-governing of thy Church; through the merits of our Saviour Jesus Christ, who liveth and reigneth with thee and the same Holy Spirit, world without end.
+Will you uphold N.
+as bishop?
+
+> The People respond in these or other words
+
+We will.
+
+> The Presiding Bishop then says
+
+The Scriptures tell us that our Savior Christ spent the whole night in prayer before he chose and sent forth his twelve apostles.
+Likewise, the apostles prayed before they appointed Matthias to be one of their number.
+Let us, therefore, follow their examples, and offer our prayers to Almighty God before we ordain N.
+for the work to which we trust the Holy Spirit has called **him.
+
+> All kneel, and the Person appointed leads the Litany for Ordinations, or some other approved litany.
+> At the end of the litany, after the Kyries, the Presiding Bishop stands and reads the Collect for the Day, or the following Collect, or both, first saying
+
+The Lord be with you
+
+**People.**  And also with you.
+
+Let us pray.
+
+O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were being cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.
 Amen.
+
+## The Ministry of the Word
+
+> Three Lessons are read.
+> Lay persons read the Old Testament Lesson and the Epistle.
+
+> The Readings are ordinarily selected from the following list and may be lengthened if desired.
+> On a Major Feast or on a Sunday, the Presiding Bishop may select Readings from the Proper of the Day.
+
+Old Testament  Isaiah 61:1-8, *or* Isaiah 42:1-9
+
+Psalm  99,  *or* 40:1-14,  *or* 100
+
+Epistle  Hebrews 5:1-10,  *or* 1 Timothy 3:1-7,  *or* 2 Corinthians 3:4-9
+
+> The Reader first says
+
+A Reading (Lesson) from —.
+
+> A citation giving chapter and verse may be added.
+
+> After each Reading, the Reader may say
+
+The Word of the Lord.
+
+**People.**  Thanks be to God.
+
+> or the Reader may say*  Here ends the Reading n or a Priest reads the Gospel, first saying
+
+The Holy Gospel of our Lord Jesus Christ according to —.
+
+**People.**  Glory to you, Lord Christ.
+
+John 20:19-23,  *or* John 17:1-9,18-12,  *or* Luke 24:44-49a
+
+> After the Gospel, the Reader says
+
+The Gospel of the Lord.
+
+**People.**  Praise to you, Lord Christ.
+
+## The Sermon
+
+> After the Sermon, the Congregation sings a hymn.
 
 ## The Examination
 
-> Then, the People being seated, the Presiding Bishop, sitting in his chair shall say to him that is to be Consecrated,
+> All now sit, except the bishop-elect, who stands facing the bishops.
+> The Presiding Bishop addresses the bishop-elect
 
-BROTHER, forasmuch as the Holy Scripture and the ancient Canons command, that we should not be hasty in laying on hands, and admitting any person to Government in the Church of Christ, which he hath purchased with no less price than the effusion of his own blood; before we admit you to this Administration, we will examine you in certain Articles, to the end that the Congregation present may have a trial, and bear witness, how you are minded to behave yourself in the Church of God.
+My brother, the people have chosen you and have affirmed their trust in you by acclaiming your election.
+A bishop in God's holy Church is called to be one with the apostles in proclaiming Christ's resurrection and interpreting the Gospel, and to testify to Christ's sovereignty as Lord of lords and King of kings.
 
-ARE you persuaded that you are truly called to this Ministration, according to the will of our Lord Jesus Christ, and the order of this Church?
+You are called to guard the faith, unity, and discipline of the Church; to celebrate and to provide for the administration of the sacraments of the New Covenant; to ordain priests and deacons and to join in ordaining bishops; and to be in all things a faithful pastor and wholesome example for the entire flock of Christ.
 
-**Answer.** I am so persuaded.
+With your fellow bishops you will share in the leadership of the Church throughout the world.
+Your heritage is the faith of patriarchs, prophets, apostles, and martyrs, and those of every generation who have looked to God in hope.
+Your joy will be to follow him who came, not to be served, but to serve, and to give his life a ransom for many.
 
-**Bishop.** Are you persuaded that the Holy Scriptures contain all Doctrine required as necessary for eternal salvation through faith in Jesus Christ?
-And are you determined out of the same Holy Scriptures to instruct the people committed to your charge; and to teach or maintain nothing, as necessary to eternal salvation, but that which you shall be persuaded may be concluded and proved by the same?
+Are you persuaded that God has called you to the office of bishop?
 
-**Answer.** I am so persuaded, and determined, by God's grace.
+**Answer.**  I am so persuaded.
 
-**Bishop.** Will you then faithfully exercise yourself in the Holy Scriptures, and call upon God by prayer for the true understanding of the same; so that you may be able by them to teach and exhort with wholesome Doctrine, and to withstand and convince the gainsayers?
+> The following questions are then addressed to the bishop-elect by one or more of the other bishops
 
-**Answer.** I will so do, by the help of God.
+**Bishop.**  Will you accept this call and fulfill this trust in obedience to Christ?
 
-**Bishop.** Are you ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrine contrary to God's Word; and both privately and openly to call upon and encourage others to the same?
+**Answer.**  I will obey Christ, and will serve in his name.
 
-**Answer.** I am ready, the Lord being my helper.
+**Bishop.**  Will you be faithful in prayer, and in the study of Holy Scripture, that you may have the mind of Christ?
 
-**Bishop.** Will you deny all ungodliness and worldly lusts, and live soberly, righteously, and godly in this present world; that you may show yourself in all things an example of good works unto others, that the adversary may be ashamed, having nothing to say against you?
+**Answer.**  I will, for he is my help.
 
-**Answer.** I will so do, the Lord being my helper.
+**Bishop.**  Will you boldly proclaim and interpret the Gospel of Christ, enlightening the minds and stirring up the conscience of your people?
 
-**Bishop.** Will you maintain and set forward, as much as shall lie in you, quietness, love, and peace among all men; and diligently exercise such discipline as by the authority of God's Word, and by the order of this Church, is committed to you?
+**Answer.**  I will, in the power of the Spirit.
 
-**Answer.** I will so do, by the help of God.
+**Bishop.**  As a chief priest and pastor, will you encourage and support all baptized people in their gifts and ministries, nourish them from the riches of God's grace, pray for them without ceasing, and celebrate with them the sacraments of our redemption?
 
-**Bishop.** Will you be faithful in Ordaining, sending, or laying hands upon others?
+**Answer.**  I will, in the name of Christ, the Shepherd and Bishop of our souls.
 
-**Answer.** I will so be, by the help of God.
+**Bishop.**  Will you guard the faith, unity, and discipline of the Church of God?
 
-**Bishop.** Will you show yourself gentle, and be merciful for Christ’s sake to poor and needy people, and to all strangers destitute of help?
+**Answer.**  I will, for the love of God.
 
-**Answer.** I will so show myself, by God’s help.
+**Bishop.**  Will you share with your fellow bishops in the government of the whole Church; will you sustain your fellow presbyters and take counsel with them; will you guide and strengthen the deacons and all others who minister in the Church?
 
-> Then, all standing, the Presiding Bishop shall say,
+**Answer.**  I will, by the grace given me.
 
-ALMIGHTY God, our heavenly Father, who hath given you a good will to do all these things; Grant also unto you strength and power to perform the same; that, he accomplishing in you the good work which he hath begun, you may be found perfect and irreprehensible at the latter day; through Jesus Christ our Lord.
+**Bishop.**  Will you be merciful to all, show compassion to the poor and strangers, and defend those who have no helper?
+
+**Answer.**  I will, for the sake of Christ Jesus.
+
+> All stand.
+> The Presiding Bishop then says
+
+N., through these promises you have committed yourself to God, to serve his Church in the office of bishop.
+We therefore call upon you, chosen to be a guardian of the Church's faith, to lead us in confessing that faith.
+
+> Bishop-elect
+
+We believe in one God.
+
+> Then all sing or say together
+
+We believe in one God, the Father, the Almighty, maker of heaven and earth, of all that is, seen and unseen.
+
+We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father.
+Through him all things were made.
+For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man.
+For our sake he was crucified under Pontius Pilate; he suffered death and was buried.
+On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand ofds from the Father and the Son.
+With the Father and the Son he is worshipped and glorified.
+He has spoken through the Prophets.
+We believe in one holy catholic and apostolic Church.
+We acknowledge one baptism for the forgiveness of sins.
+We look for the resurrection of the dead, and the life of the world to come.
 Amen.
 
-## Veni, Creator Spiritus
+## The Consecration of the Bishop
 
-> Then shall the Bishop elect put on the rest of the Episcopal habit, and shall kneel down; and the Veni, Creator Spiritus shall be sung or said over him; the Presiding Bishop shall begin, and the Bishops, and the others that are present, standing, shall answer by verses, as followeth.
+> All continue to stand, except the bishop-elect, who kneels before the Presiding Bishop.
+> The other bishops stand to the right and left of the Presiding Bishop.
 
-COME, Holy Ghost, our souls inspire,
+> The hymn, Veni Creator Spiritus, or the hymn, Veni Sancte Spiritus, is sung.
 
-And lighten with celestial fire.
+> A period of silent prayer follows, the people still standing.
 
-Thou the anointing Spirit art,
+> The Presiding Bishop then begins this Prayer of Consecration
 
-Who dost thy sevenfold gifts impart.
+God and Father of our Lord Jesus Christ, Father of mercies and God of all comfort, dwelling on high but having regard for the lowly, knowing all things before they come to pass: We give you thanks that from the beginning you have gathered and prepared a people to be heirs of the covenant of Abraham, and have raised up prophets, kings, and priests, never leaving your temple untended.
+We praise you also that from the creation you have graciously accepted the ministry of those whom you have chosen.
 
-Thy blessed unction from above,
+> The Presiding Bishop and other Bishops now lay their hands upon the head of the bishop-elect, and say together
 
-Is comfort, life, and fire of love.
+Therefore, Father, make N.
+a bishop in your Church.
+Pour out upon him the power of your princely Spirit, whom you bestowed upon your beloved Son Jesus Christ, with whom he endowed the apostles, and by whom your Church is built up in every place, to the glory and unceasing praise of your Name.
 
-Enable with perpetual light
+> The Presiding Bishop continues
 
-The dulness of our blinded sight.
+To you, O Father, all hearts are open; fill, we pray, the heart of this your servant whom you have chosen to be a bishop in your Church, with such love of you and of all the people, that he may feed and tend the flock of Christ, and exercise without reproach the high priesthood to which you have called him, serving before you day and night in the ministry of reconciliation, declaring pardon in your Name, offering the holy gifts, and wisely overseeing the life and work of the Church.
+In all things may he present before you the acceptable offering of a pure, and gentle, and holy life; through Jesus Christ your Son, to whom, with you and the Holy Spirit, be honor and power and glory in the Church, now and for ever.
 
-Anoint and cheer our soiled face
+*The People in a loud voice respond*    Amen.
 
-With the abundance of thy grace.
+> The new bishop is now vested according to the order of bishops.
 
-Keep far our foes, give peace at home;
+> A Bible is presented with these words
 
-Where thou art guide, no ill can come.
+Receive the Holy Scriptures.
+Feed the flock of Christ committed to your charge, guard and defend them in his truth, and be a faithful steward of his holy Word and Sacraments.
 
-Teach us to know the Father, Son,
+> After this other symbols of office may be given.
 
-And thee, of both, to be but One;
+> The Presiding Bishop presents to the people their new bishop.
 
-That, through the ages all along,
+> The Clergy and People offer their acclamation and applause.
 
-This may be our endless song:
+## The Peace
 
-Praise to thy eternal merit,
+> The new Bishop then says
 
-Father, Son, and Holy Spirit.
+The peace of the Lord be always with you.
 
-> Or this.
+**People.**  And also with you.
 
-COME, Holy Ghost, Creator blest,
+> The Presiding Bishop and other Bishops greet the new bishop.
 
-Vouchsafe within our souls to rest;
+> The People greet one another.
 
-Come with thy grace and heavenly aid,
+> The new Bishop also greets members of the clergy, family members, and the congregation.
 
-And fill the hearts which thou hast made.
+> The new Bishop, if the Bishop of the Diocese, may now be escorted to the episcopal chair.
 
-To thee, the Comforter, we cry;
+## At the Celebration of the Eucharist
 
-To thee, the Gift of God most high;
+> The liturgy continues with the Offertory.
 
-The Fount of life, the Fire of love,
+> Deacons prepare the Table.
 
-The soul's Anointing from above.
+> Then the new Bishop goes to the Lord's Table as chief Celebrant and, joined by other bishops and presbyters, proceeds with the celebration of the Eucharist.
 
-The sevenfold gifts of grace are thine,
+## After Communion
 
-O Finger of the Hand Divine;
+> In place of the usual postcommunion prayer, one of the bishops leads the people in the following
 
-True Promise of the Father thou,
+Almighty Father, we thank you for feeding us with the holy food of the Body and Blood of your Son, and for uniting us through him in the fellowship of your Holy Spirit.
+We thank you for raising up among us faithful servants for the ministry of your Word and Sacraments.
+We pray that N.
+may be to us an effective example in word and action, in love and patience, and in holiness of life.
+Grant that we, with him, may serve you now, and always rejoice in your glory; through Jesus Christ your Son our Lord, m this time forth for evermore.
 
-Who dost the tongue with speech endow.
-
-Thy light to every sense impart,
-
-And shed thy love in every heart;
-
-Thine own unfailing might supply
-
-To strengthen our infirmity.
-
-Drive far away our ghostly foe,
-
-And thine abiding peace bestow;
-
-If thou be our preventing Guide,
-
-No evil can our steps betide.
-
-## The Consecration
-
-> That ended, the Presiding Bishop shall say,
-
-**Answer.**
-
-Lord, hear our prayer.
-
-And let our cry come unto thee.
-
-> Let us pray.
-
-ALMIGHTY God, and most merciful Father, who, of thine infinite goodness, hast given thy only and dearly beloved Son Jesus Christ, to be our Redeemer, and the Author of everlasting life; who, after that he had made perfect our redemption by his death, and was ascended into heaven, poured down his gifts abundantly upon men, making some Apostles, some Prophets, some Evangelists, some Pastors and Doctors, to the edifying and making perfect his Church; Grant, we beseech thee, to this thy servant, such grace, that he may evermore be ready to spread abroad thy Gospel, the glad tidings of reconciliation with thee; and use the authority given him, not to destruction, but to salvation; not to hurt, but to help: so that, as a wise and faithful servant, giving to thy family their portion in due season, he may at last be received into everlasting joy; through the same Jesus Christ our Lord, who, with thee and the Holy Ghost, liveth and reigneth, one God, world without end.
+*New Bishop*  The blessing, mercy, and grace of God Almighty, the Father, the Son, and the Holy Spirit, be upon you, and remain with you for ever.
 Amen.
 
-> Then the Presiding Bishop and Bishops present shall lay their hands upon the head of the Elected Bishop, kneeling before them, the Presiding Bishop saying,
+> A Deacon dismisses the people
 
-RECEIVE the Holy Ghost for the Office and Work of a Bishop in the Church of God, now committed unto thee by the Imposition of our hands; In the Name of the Father, and of the Son, and of the Holy Ghost.
-Amen.
-And remember that thou stir up the grace of God, which is given thee by this Imposition of our hands; for God hath not given us the spirit of fear, but of power, and love, and soberness.
+Let us go forth into the world, rejoicing in the power of the Spirit.
 
-## The Delivery of the Bible
+**People.**      Thanks be to God.
 
-> Then the Presiding Bishop shall deliver him the Bible, saying,
+> From Easter Day through the Day of Pentecost, "Alleluia, alleluia," may be added to the dismissal and to the response.
 
-GIVE heed unto reading, exhortation, and doctrine.
-Think upon the things contained in this Book.
-Be diligent in them, that the increase coming thereby may be manifest unto all men; for by so doing thou shalt both save thyself and them that hear thee.
-Be to the flock of Christ a shepherd, not a wolf; feed them, devour them not.
-Hold up the weak, heal the sick, bind up the broken, bring again the outcasts, seek the lost.
-Be so merciful, that you be not too remiss; so minister discipline, that you forget not mercy; that when the Chief Shepherd shall appear, you may receive the never-fading crown of glory; through Jesus Christ our Lord.
-Amen.
+> Concerning the Service
 
-## The Communion
+> When a bishop is to confer Holy Orders, at least two presbyters must be present.
 
-> Then the Presiding Bishop shall proceed in the Communion Service; with whom the newly consecrated Bishop, with others, shall also communicate.
+> From the beginning of the service until the Offertory, the bishop presides from a chair placed close to the people, and facing them, so that all may see and hear what is done.
 
-And immediately before the Benediction, shall be said this Prayer.
+> The ordinand is to be vested in surplice or alb, without stole, tippet, or other vesture distinctive of ecclesiastical or academic or order.
 
-MOST merciful Father, send down, we beseech thee, upon this thy servant thy heavenly blessing; and so endue him with thy Holy Spirit, that he, preaching thy Word, may not only be earnest to reprove, beseech, and rebuke, with all patience and doctrine; but also may be, to such as believe, a wholesome example in word, in conversation, in love, in faith, in chastity, and in purity; that, faithfully fulfilling his course, at the latter day he may receive the crown of righteousness, laid up by the Lord Jesus, the righteous Judge, who liveth and reigneth with thee and the same Holy Spirit, one God, world without end.
-Amen.
+> When the ordinand is presented, his full name (designated by the symbol N.N.)
+> is used.
+> Thereafter, it is appropriate to refer to him only by the Christian name by which he wishes to be known.
 
-THE Peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: And the Blessing of God Almighty, the Father, the Son, and the Holy Ghost, be amongst you, and remain with you always.
-Amen.
+> At the Offertory, it is appropriate that the bread and wine be brought to the Altar by the family and friends of the newly ordained.
+
+> At the Great Thanksgiving, the new priest and other priests stand at the Altar with the bishop, as associates and fellow ministers of the Sacrament, and communicate with the bishop.
+
+> The family of the newly ordained may receive Communion before other members of the congregation.
+> Opportunity is always given to the people to communicate.
+
+> Additional Directions are on page 552.
