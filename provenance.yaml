@@ -40,7 +40,7 @@ records:
     retrieved: 2026-08-10
     cross_check: []
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     verify_items:
       - anchor: The Opening Sentences
@@ -56,7 +56,7 @@ records:
     retrieved: 2026-08-10
     cross_check: []
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     verify_items:
       - anchor: The Versicles
@@ -69,7 +69,7 @@ records:
     retrieved: 2026-08-10
     cross_check: []
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     note: "Jacobean changes to the MP opening are documented inline on the justus 1559 apparatus page; derived from it."
     verify_items:
