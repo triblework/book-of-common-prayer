@@ -1,4 +1,4 @@
-# The Twenty-fifth Sunday after Trinity
+# The Sunday next before Advent
 
 ## The Collect
 

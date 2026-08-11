@@ -362,7 +362,7 @@ TAKE thou Authority to preach the Word of God, and to Minister the holy Sacramen
 
 ## The Communion
 
-> When this is done, the Bishop shall go on in the Service of the Communion, which all they who receive Orders shall take together, and remain in the same place where Hands were laid upon them, until such time as they have received the Communion.
+> When this is done, the Nicene Creed shall be said, and the Bishop shall go on in the Service of the Communion, which all they who receive Orders shall take together, and remain in the same place where Hands were laid upon them, until such time as they have received the Communion.
 
 > The Communion being done, after the last Collect, and immediately before the Benediction, shall be said this Collect.
 

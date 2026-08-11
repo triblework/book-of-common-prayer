@@ -145,35 +145,6 @@ Blessed be the Lord God; even the Lord God, who only doeth wondrous things; And 
 Glory be to the Father, and to the Son, and to the Holy Ghost; As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 
-## A Psalm or Hymn of Praise and Thanksgiving after Victory.
-
-IF the Lord had not been on our side, now may we say; if the Lord himself had not been on our side, when men rose up against us; They had swallowed us up quick, when they were so wrathfully displeased at us.
-Yes, the waters had drowned us, and the stream had gone over our soul; the deep waters of the proud had gone over our soul.
-But praised be the Lord, who hath not given us over as a prey unto them.
-The Lord hath wrought a mighty salvation for us.
-We got not this by our own sword, neither was it our own arm that saved us; but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto us.
-The Lord hath appeared for us; the Lord hath covered our heads, and made us to stand in the day of battle.
-The Lord hath appeared for us; the Lord hath overthrown our enemies, and dashed in pieces those that rose up against us.
-Therefore not unto us, O Lord, not unto us; but unto thy Name be given the glory.
-The Lord hath done great things for us; the Lord hath done great things for us, for which we rejoice.
-Our help standeth in the Name of the Lord, who hath made heaven and earth.
-Blessed be the Name of the Lord, from this time forth for evermore.
-Glory be to the Father, and to the Son, and to the Holy Ghost; As it was in the beginning, is now, and ever shall be, world without end.
-Amen.
-
-> After this Hymn may be said the Te Deum.
-
-> Then the Collect.
-
-O ALMIGHTY God, the Sovereign Commander of all the world, in whose hand is power and might, which none is able to withstand; We bless and magnify thy great and glorious Name for this happy Victory, the whole glory whereof we do ascribe to thee, who art the only giver of Victory.
-And, we beseech thee, give us grace to improve this great mercy to thy glory, the advancement of thy Gospel, the honour of our country, and, as much as in us lieth, to the good of all man-kind.
-And, we beseech thee, give us such a sense of this great mercy, as may engage us to a true thankfulness, such as may appear in our lives by an humble, holy, and obedient walking before thee all our days; through Jesus Christ our Lord; to Whom, with thee and the Holy Spirit, as for all thy mercies, so in particular for this Victory and Deliverance, be all glory and honour, world without end.
-Amen.
-
-## 2 Cor. xiii. 14.
-
-THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore, Amen.
-
 ## At the Burial of their* Dead at Sea.
 
 > The Office in the Common Prayer Book may be used; only instead of these words, [We therefore commit his body to the ground, earth to earth, &c.]
