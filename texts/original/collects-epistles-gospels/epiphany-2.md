@@ -11,4 +11,4 @@ Romans 12:6
 
 ## The Gospel
 
-John 2:1
+Mark 1:1

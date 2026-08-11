@@ -1,10 +1,7 @@
 # Concerning the Service of the Church
 
-THE Order for Morning Prayer, the Litany, and the Order for the Administration of the Lord’s Supper or Holy Communion, are distinct Services, and may be used either separately or together; Provided, that no one of these Services be habitually disused.
+THE Order for Holy Communion, the Order for Morning Prayer, the Order for Evening Prayer, and the Litany, as set forth in this Book, are the regular Services appointed for Public Worship in this Church, and shall be used accordingly; Provided, that in addition to these Services, the Minister, in his discretion, subject to the direction of the Ordinary, may use other devotions taken from this Book or set forth by lawful authority within this Church, or from Holy Scripture; and Provided further, that, subject to the direction of the Ordinary, in Mission Churches or Chapels, and also, when expressly authorized by the Ordinary, in Cathedral or Parish Churches or other places, such other devotions as aforesaid may be used, when the edification of the Congregation so requires, in place of the Order for Morning Prayer, or the Order for Evening Prayer.
 
-The Litany may be used either in place of the Prayers that follow the Prayer for the President of the United States in the Order for Morning Prayer, or in place of the Prayers that follow the Collect for Aid against Perils in the Order for Evening Prayer.
-<!-- VERIFY: 'the President' Front_Matter_1892.htm prints "Prayer for the President of the United States"; the Standard Book's keying (1892Standard/front_matter.pdf) capitalizes "The President". Carried as the carrier prints it; confirm against a scan of the 1892 book -->
+For Days of Fasting and Thanksgiving appointed by the Civil or Ecclesiastical Authority, and for other special occasions, for which no Service or Prayer hath been provided in this Book, the Bishop may set forth such form or forms as he shall see fit, in which case none other shall be used.
 
-On any day when Morning and Evening Prayer shall have been said or are to be said in Church, the Minister may, at any other Service for which no form is provided, use such devotions as he shall at his discretion select from this Book, subject to the direction of the Ordinary.
-
-For Days of Fasting and Thanksgiving, appointed by the Civil or by the Ecclesiastical Authority, and for other special occasions for which no Service or Prayer hath been provided in this Book, the Bishop may set forth such Form or Forms as he shall think fit, in which case none other shall be used.
+NOTE: That in the directions for the several Services in this Book, it is not intended, by the use of any particular word denoting vocal utterance, to prescribe the tone or manner of their recitation.
