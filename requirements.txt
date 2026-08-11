@@ -1,0 +1,4 @@
+# Runtime dependency for the tooling.
+# normalize.py reads tools/normalization_rules.yaml with PyYAML.
+# sentence_split.py and scrape.py use only the Python standard library.
+PyYAML>=6.0
