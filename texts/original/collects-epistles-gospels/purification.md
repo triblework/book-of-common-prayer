@@ -1,10 +1,5 @@
 # The Purificacion of Saint Mary the Virgin
 
-## The Introit
-
-Ecce nunc benedicite.
-Psalm 134
-
 ## The Collect
 
 ALMYGHTYE and

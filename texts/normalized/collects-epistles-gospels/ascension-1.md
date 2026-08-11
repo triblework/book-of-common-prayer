@@ -1,10 +1,5 @@
 # The Sonday after the Ascencion
 
-## The Introit
-
-Dominus regnavit.
-Psalm 93
-
 ## The Collect
 
 O GOD, the kyng

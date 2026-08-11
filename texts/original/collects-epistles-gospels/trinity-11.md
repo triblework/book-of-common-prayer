@@ -1,10 +1,5 @@
 # The xi Sonday
 
-## The Introit
-
-Dejecit.
-Psalm 119
-
 ## The Collect
 
 GOD, which declarest

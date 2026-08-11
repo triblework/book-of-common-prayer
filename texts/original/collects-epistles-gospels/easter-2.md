@@ -1,10 +1,5 @@
 # The second Sondaie after Easter
 
-## The Introit
-
-Deus in adjutorium.
-Psalm 70
-
 ## The Collect
 
 ALMIGHTIE God,

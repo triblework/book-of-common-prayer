@@ -1,10 +1,5 @@
 # All Saynctes
 
-## The Introit
-
-Cantate Domino.
-Psalm 149
-
 ## The Collect
 
 ALMIGHTIE God,

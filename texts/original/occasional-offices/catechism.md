@@ -1,140 +1,152 @@
-# A Catechisme, that is to say, an instruccion to bee learned of every childe, before he be brought to be confirmed of the Bushop.
+# A Catechisme, that is to saye, an instruccion to be learned of every chyld, before he be brought to be confyrmed of the Bisshoppe.
+<!-- VERIFY: source prints 'THAT IS TO SAVE'; obvious OCR scanno for 'saye' (cf. 1549 'that is to say'); rendered 'saye'; confirm against a page scan -->
 
 ## The Baptismal Covenant
 
 **Question.** What is your name?
 
-**Aunswere.** N or M.
+**Aunswere.** N.
+or M.
 
-**Question.** Who gave you this name?
+**Question.** Who gave you thys name?
 
-**Aunswere.** My Godfathers and Godmothers in my Baptisme, wherein I was made a member of Christe, the childe of God, and inheritour of the kingdome of heaven.
+**Aunswere.** My Godfathers and Godmothers in my baptisme, wherein I was made a member of Christe, the childe of god, and an inheritour of the kingdome of heaven.
 
-**Question.** What did your Godfathers and Godmothers then for you?
+**Question.** What dyd your godfathers and godmothers then for you?
 
 **Aunswere.** They did promise and vowe three thinges in my name.
-First, that I should forsake the devil and all his workes and pompes, the vanities of the wicked worlde, and all the sinne full lustes of the fleshe.
-Secondly, that I should beleve all the articles of the Christian fayth.
-And thirdly, that I should kepe Goddes holy will and commaundementes and walke in the same al the daies of my life.
+First, that I should forsake the devil and all his woorks and pompes, the vanities of the wycked worlde, and all the synfull lustes of the fleshe.
+Secondly, that I shoulde believe al the articles of the christen fayth.
+And thirdly, that I shoulde kepe Goddes holy wyll and commaundements, and walke in the same all the dayes of my lyfe.
 
-**Question.** Dooest thou not thinke that thou arte bound to beleve, and to doe as they have promised for thee?
+**Question.** Doest thou not thinke that thou art bounde to beleve and to doe as they have promised for thee?
 
 **Aunswere.** Yes verely.
-And by Gods helpe so I wil.
-And I hartily thanke our heavenly father, that he hath called me to thys state of salvacion, through Jesus Christe our Saveour And I pray God to geve me hys grace, that I may continue in the same unto my lives ende.
+And by Gods helpe so I wyl.
+And I hertely thank our heavenly father, that he hath called me to thys state of salvacion, through Jesus Christe our saviour.
+And I pray god to geve me his grace, that I may continue in the same unto my lyves ende.
 
 ## The Creed
 
 **Question.** Rehearse the articles of thy beliefe.
 
-**Aunswere.** I beleve in God the father almightie, maker of heaven and earth.
-And in Jesus Christ his only sonne our lord.
-Whiche was conceived by the holy gost, borne of the virgin Marie.
-Suffered under Ponce Pilate, was crucified, dead, and buried, he descended into hel.
-The third day he rose agayn from the dead.
-He ascended into heaven, and sitteth on the right hande of God the father almightie.
-From thence shal he come to judge the quicke and the dead.
-I beleve in the holy goste.
-The holye catholike church.
-The communion of saintes.
-The forgevenes of sinnes.
-The resurreccion of the bodie.
-And the lyfe everlasting.
+**Aunswere.** I beleve in god the father almightie, maker of heaven and of earth.
+And in Jesus Chryst hys onely sonne our lord.
+Which was conceyved of the holy gost, borne of the vyrgin Mary.
+Suffred under Ponce Pilate, was crucyfyed, dead and buried, he descended into hel.
+The thirde day he rose againe from the dead.
+He ascended into heaven, and sitteth at the right hande of God the father almightie.
+From thence he shall come to judge the quicke and the dead.
+I beleve in the holy gost.
+The holy Catholyke Churche.
+The communion of Sainctes.
+The forgiveness of synnes.
+The resurreccion of the bodye.
+And the lyfe everlastyng.
 Amen.
 
-**Question.** What dooest thou chiefely learne in these articles of thy beliefe?
+**Question.** What doest thou chiefely learne in these articles of thy beliefe?
 
-**Aunswere.** Firste, I learne to beleve in God the father, who hath made me and all the worlde.
+**Aunswere.** Firste I learne to beleve in God the father, who hath made me and al the worlde.
 
-Secondely, in God the sonne who hath redemed me and all mankinde.
+Secondly, in god the sonne who hath redemed me and all mankynde.
 
-Thirdly, in god the holy goste, who sanctifyeth me and all the electe people of god.
+Thirdly, in god the holy gost, who sanctifieth me and all the electe people of God.
 
 ## The Ten Commandments
 
-**Question.** You sayde that your Godfathers and Godmothers dyd promyse for you that ye should kepe Goddes commaundementes.
-Tell me how many there bee.
+**Question.** You sayed that your godfathers and godmothers dyd promise for you that you should kepe goddes commaundementes.
+Tel me how many there be.
 
 **Aunswere.** Tenne.
 
 **Question.** Whiche be they?
 
-**Aunswere.** Thou shalte have none other Gods but me.
+**Aunswere.** The same whiche God spake in the xx.
+Chapter of Exodus, saying: I am the lord thy god which have brought thee out of the lande of Egipte, out of the house of bondage.
+
+I.
+Thou shalt have none other goddes but me.
 
 II.
-Thou shalte not make to thyselfe anye graven image, nor the likenesse of any thyng that is in heaven above, or in the earth beneath, nor in the water under the earth: thou shalt not bowe downe to them, nor wurship them.
+Thou shalt not make to thyself any graven ymage, nor the likeness of any thyng that is in heaven above, or in the earth beneath, nor in the water under the yearth: thou shalte not bowe downe to them, nor woorshippe them.
+For I the Lorde thy God am a gelous God, and visite the synnes of the fathers upon the children, unto the thirde and fourth generacion of them that hate me, and shew mercy unto thousandes in them that love me, and kepe my commaundementes.
 
 III.
-Thou shalt not take the name of the lord thy God in vayne.
+Thou shalt not take the name of the lord thy god in vayne: for the Lord will not holde hym giltlesse that taketh hys name in vayne.
+<!-- VERIFY: source prints 'the Lard'; obvious OCR scanno for 'Lord' (cf. II 'the Lorde thy God'); rendered 'Lord'; confirm against a page scan -->
 
 IV.
-Remember that thou kepe holy the Sabboth day.
+Remembre thou kepe holy the Sabboth daye.
+Sixe dayes shalte thou laboure and doe all that thou hast to doe: but the seventh daye is the Sabbath of the lorde thy God.
+In it thou shalte doe no maner of worke, thou, and thy sonne and thy daughter, thy man servaunt, and thy maide servaunt, thy catell, and the straunger that is within thy gates: for in sixe dayes the Lorde made heaven and earth, the Sea, and all that in them is, and rested the seventh daye.
+Wherefore the lord blessed the seventh daye and halowed it.
 
-V. Honor thy father and thy mother.
+V. Honour thy father and thy mother, that thy dayes may be long in the lande which the lord thy god geveth thee.
 
 VI.
-Thou shalt doe no murdre.
+Thou shalt doe no murthur.
 
 VII.
-Thou shalt not commit adultry.
+Thou shalt not commit adulterye.
 
 VIII.
 Thou shalt not steale.
 
 IX.
-Thou shalt not beare false witnes against thy neighbour.
+Thou shalt not bear false witnesse agaynste thy neighbour.
 
 X.
-Thou shalt not covet thy neighbours wife, nor his servaunt, nor his mayde, nor his Oxe, nor his Asse, nor any thing that is his.
+Thou shalt not covite thy neighbour's house, thou shalt not covite thy neighbour's wife, nor his servaunt, nor his maide, nor his oxe, nor hys asse, nor any thyng that is hys.
 
-**Question.** What dooest thou chiefely leame by these commaundemente?
+**Question.** What doest thou chieflye learne by these commaundementes?
 
-**Aunswere.** I learne two thinges: My duetie towardes god, and my duetie towardes my neighbour.
+**Aunswere.** I learne two thinges: My duetie towardes God, and my duetie towardes my neighbour.
 
-**Question.** What is thy duetie towardes god?
+**Question.** What is thy duetie towards god?
 
-**Aunswere.** My duetie towardes God is, to beleve in him.
-To feare him.
-And to love him with al my hart, with al my mind, with al my soule, and with all my strength.
-To wurship him.
+**Answer.** My duetie towards god is, to beleve in hym, to feare hym, and to love hym with all my hearte, with all my mynde, with al my soule, and with all my strength.
+To worship him.
 To geve him thankes.
-To put my whole truste in hym.
+To put my whole truste in him.
 To call upon him.
-To honor his holy name and his word, and to serve him truely all the daies of my life.
+To honoure his holy name and his word, and to serve hym truely all the daies of my lyfe.
 
-**Question.** What is thy dutie towardes thy neighboure?
+**Question.** What is thy duetie towardes thy neyghbour?
 
-**Answere.** My duetie towardes my neighbour is, to love hym as myselfe.
-And to do to al men as I would they should do to me.
-To love, honour, and succoure my father and mother.
-To honour and obey the kyng and his ministers.
-To submitte myselfe to all my governours, teachers, spirituall pastours, and maisters.
-To ordre myselfe lowlye and reverentelye to al my betters.
-To hurte no bodie by woorde nor dede.
-To bee true and just in al my dealing.
+**Answer.** My duetie towards my neighboure is, to love hym as myself.
+And to doe to al men as I would they should do unto me.
+To love, honour and succour my father and mother.
+To honour and obey the kyng and hys ministers.
+To submit my self to all my governours, teachers, spiritual Pastours, and maisters.
+To ordre myself lowly and reverently to al my betters.
+To hurte no body by worde nor dede.
+To be true and juste in al my dealynge.
 To beare no malice nor hatred in my heart.
-To kepe my handes from picking and stealing, and my tongue from evill speaking, liyng, and slaundring.
-To kepe my bodie in temperaunce, sobreness, and chastitie.
-Not to covet nor desire other mennes goodes.
-But learne and laboure truely to geate my owne living, and to doe my duetie in that state of life: unto which it shal please God to cal me.
+To kepe my handes from pickyng and stealing, and my tongue from evil speaking, lying, and slaunderyng.
+To kepe my body in temperaunce, soberness, and chastitie.
+Not to covet nor desyre other men's goodes.
+But learne and labour truly to geat myne owne living, and to do my duetie in that state of lyfe, unto which it shall please god to call me.
 
 ## The Lord's Prayer
 
-**Question.** My good sonne, knowe this, that thou arte not hable to do these thinges of thyself, nor to walke in the commaundementes of God and to serve him, without his speciall grace, which thou muste leame at all times to cal for by diligent prayer.
-Leat me heare therfore if thou canst say the Lordes prayer.
+**Question.** My good chylde, knowe this, that thou art not able to doe these thyngs of thy selfe, nor to walke in the commaundementes of god, and to serve him, without hys speciall grace, which thou must learne at all tymes to cal for by diligent praier.
+Let me heare therefore if thou canst say the Lordes prayer.
 
-**Answere.** Our father whiche art in heaven, halowed bee thy name.
+**Aunswere.** Our father, which art in heaven, hallowed be thy name.
 Thy kyngdome come.
-Thy wil bee done in earth as it is in heaven.
-Geve us this day our dailye breade.
-And forgene us our trespasses, as we forgeve them that trespasse againste us.
-And leade us not into temptacion, but deliver us from evil.
+Thy wyll be doen in earth as it is in heaven.
+Geve us thys daye our dayly bread.
+And forgeve us oure trespasses, as we forgeve them that trespasse against us.
+And leade us not into temptacyon.
+But delyver us from evill.
 Amen.
 
-**Question.** What desireste thou of God in this prayer?
+**Question.** What desirest thou of god in thys prayer?
 
-**Answere.** I desire my lord god our heavenly father, who is the gever of al goodnes, to send his grace unto me, and to all people, that we may wurship him, serve hym, and obey him, as we ought to doe.
-And I praye unto God, that he will sende us al thynges that be nedeful both for our soules and bodies: And that he wil bee mercifull unto us, and forgeve us our sinnes: And that it will please him to save and defende us in al daungers gostly and bodily: And that he wil kepe us from al sinne and wickednes, and from our gostly enemye, and from everlastyng death.
-And this I truste he wil doe of his mercie and goodnes, through our lorde Jesu Christe.
-And therefore I say, Amen.
+**Aunswere.** I desire my Lord God oure heavenly father, who is the gever of all goodnes, to send hys grace unto me and to al people, that we may worshyp him, serve hym, and obey hym as we ought to doe.
+And I praye unto God, that he wyll sende us all thynges that be nedeful both for our soules and bodyes: And that he will be mercyful unto us, and forgeve us oure synnes: and that it wyll please him to save and defende us in all daungers gostly and bodyly.
+And that he will kepe us from all synne and wyckednes, and from our gostly enemye, and from everlasting death.
+And thys I truste he wyll doe of hys mercy and goodnes, through our lord Jesus Christ.
+And therefore I saye, Amen.
 So be it.

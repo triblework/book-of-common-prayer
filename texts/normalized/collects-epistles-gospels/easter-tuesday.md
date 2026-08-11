@@ -19,10 +19,3 @@ Acts 13
 ## The Gospel
 
 Luke 24
-
-## The Proper Lessons
-
-> At Matins.
-
-> The ii Lesson, Luke xxiv.
-> unto, "And behold ii of them."

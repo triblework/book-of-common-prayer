@@ -1,10 +1,5 @@
 # Sayncte John Evangelistes
 
-## The Introit
-
-In Domino contido.
-Psalm 11
-
 ## The Collect
 
 MERCYFULL
@@ -16,10 +11,6 @@ Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle
 and Euangelyste John may attayne to thy euerlastyng gyftes; Through
 
 Jesus Christe our Lorde.
-
-> The Seconde Lesson, Apoc.
-> i.
-> unto the ende.]*
 
 ## The Epistle
 

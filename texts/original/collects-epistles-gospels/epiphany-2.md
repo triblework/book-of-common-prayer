@@ -1,10 +1,5 @@
 # The second Sonday
 
-## The Introit
-
-Dixit insipiens.
-Psalm 14
-
 ## The Collect
 
 ALMIGHTIE and

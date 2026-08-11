@@ -1,10 +1,5 @@
 # The xxiiii Sondaye
 
-## The Introit
-
-Qui confidunt.
-Psalm 125
-
 ## The Collect
 
 LORD we beseche

@@ -1,10 +1,5 @@
 # The xvii Sondaye
 
-## The Introit
-
-Mirabilia.
-Psalm 119
-
 ## The Collect
 
 LORD we praye

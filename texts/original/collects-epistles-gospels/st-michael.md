@@ -1,10 +1,5 @@
 # Saynte Michaell and all Angels
 
-## The Introit
-
-Laud ate, pueri.
-Psalm 113
-
 ## The Collect
 
 EVERLASTYNG

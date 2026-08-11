@@ -1,10 +1,5 @@
 # The sonday called Septuagesima
 
-## The Introit
-
-Dominus regit.
-Psalm 23
-
 ## The Collect
 
 O LORD, we beseche

@@ -1,10 +1,5 @@
 # The ix Sonday
 
-## The Introit
-
-Bonitatem.
-Psalm 119
-
 ## The Collect
 
 GRAUNT to us Lorde

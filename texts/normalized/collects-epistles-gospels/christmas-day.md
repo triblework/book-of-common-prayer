@@ -1,10 +1,5 @@
 # Christmas Day
 
-## The Introit
-
-Domino.
-Psalm 98
-
 ## The Collect
 
 GOD, whiche makest us glad with the yerely remembraunce of the birth of thy
@@ -22,11 +17,6 @@ Titus 2
 ## The Gospel
 
 Luke 2
-
-## The Introit (Second Communion)
-
-Domine, Dornenus nosier.
-Psalm 8
 
 ## The Collect (Second Communion)
 
@@ -49,19 +39,3 @@ Hebrews 1
 ## The Gospel (Second Communion)
 
 John 1
-
-## The Proper Lessons
-
-> At Mattins.
-
-> Psalms
-
-> xix.
-> xlv.
-> lxxxv.
-
-> The First Lesson, Isa. ix.
-> Unto the ende.
-
-> The Second Less, Matt. 1.
-> Unto the ende.

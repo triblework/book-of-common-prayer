@@ -1,10 +1,5 @@
 # The xxiii Sondaye
 
-## The Introit
-
-Nisi quia Dominus.
-Psalm 124
-
 ## The Collect
 
 GOD, our refuge
