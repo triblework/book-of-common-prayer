@@ -2,13 +2,17 @@
 
 ## The Collect
 
-LORDE we beseche the mercyfullye to receive the praiers of thy people which
+LORDE we beseche the mercyfullye to receive the praiers of thy people which.
+Amen.
 
-cal upon thee; and graunt that they maie both perceave and knowe what
+cal upon thee; and graunt that they maie both perceave and knowe what.
+Amen.
 
-thinges they ought to do, and also have grace and power faithfully to
+thinges they ought to do, and also have grace and power faithfully to.
+Amen.
 
-fulfill the same.
+fulfill the same through Jesus Christ our lord.
+Amen.
 
 ## The Epistle
 

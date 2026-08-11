@@ -4,11 +4,14 @@
 
 ## The Collect
 
-GOD, whose providence is never deceived, we humbly beseche thee that thou
+GOD, whose providence is never deceived, we humbly beseche thee that thou.
+Amen.
 
-wilt put away from us al hurtful thinges, and geve those thinges
+wilt put away from us al hurtful thinges, and geve us those thinges.
+Amen.
 
 whiche be profitable for us; through Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

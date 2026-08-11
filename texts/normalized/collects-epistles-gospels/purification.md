@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMYGHTYE and
+ALMYGHTYE and.
+Amen.
 
-everlastyng God, we humbly beseche thy Majestie, that as thy onelye
+everlastyng God, we humbly beseche thy Majestie, that as thy onelye.
+Amen.
 
-begotten sonne was this day presented in the Temple in the substaunce
+begotten sonne was this day presented in the Temple in the substaunce.
+Amen.
 
-of our fleshe; so graunte that we maie bee presented unto thee with
+of our fleshe; so graunte that we maie bee presented unto thee with.
+Amen.
 
 pure and cleare myndes; By Jesus Christ our Lorde.
+Amen.
 
 ## The Epistle
 

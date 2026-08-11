@@ -2,13 +2,17 @@
 
 ## The Collect
 
-LET thy merciful
+LET thy merciful.
+Amen.
 
-eares, O Lord, be open to the praiers of thy humble servauntes; and
+eares, O Lord, be open to the praiers of thy humble servauntes; and.
+Amen.
 
-that they may obteine their peticions, make them to aske suche thinges
+that they may obteine their peticions, make them to aske suche thinges.
+Amen.
 
 as shal please thee; Through Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 

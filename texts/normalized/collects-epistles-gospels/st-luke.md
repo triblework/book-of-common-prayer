@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMIGHTY God
+ALMIGHTY God.
+Amen.
 
-whiche calledst Luke the phisicion, whose prayse is in the gospel,
+whiche calledst Luke the phisicion, whose prayse is in the gospel,.
+Amen.
 
-to be a phisicion of the soul; it may please thee, by the holsome
+to be a phisicion of the soul; it may please thee, by the holsome.
+Amen.
 
-medicines of his doctryne, to heale all the diseases of our souls;
+medicines of his doctryne, to heale all the diseases of our souls;.
+Amen.
 
 through thy sonne Jesus Christe our Lorde.
+Amen.
 
 ## The Epistle
 
