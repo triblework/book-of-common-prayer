@@ -2,19 +2,26 @@
 
 ## The Collect
 
-ALMIGHTY
+ALMIGHTY.
+Amen.
 
-God, by whose providence thy servaunte John Baptiste was wonderfully
+God, by whose providence thy servaunte John Baptiste was wonderfully.
+Amen.
 
-borne, and sente to prepare the way of thy sonne our saviour, by preaching
+borne, and sente to prepare the way of thy sonne our saviour, by preaching.
+Amen.
 
-of penaunce; make us so to folowe his doctrine and holy lyfe, that we
+of penaunce; make us so to folowe his doctrine and holy lyfe, that we.
+Amen.
 
-may truely repent accordyng to his preachyng; and after his example
+may truely repent accordyng to his preachyng; and after his example.
+Amen.
 
-constantly speake the trueth, boldly rebuke vice, and paciently suffre
+constantly speake the trueth, boldly rebuke vice, and paciently suffre.
+Amen.
 
 for the truethes sake; through Jesus Christ our Lorde.
+Amen.
 
 ## The Epistle
 

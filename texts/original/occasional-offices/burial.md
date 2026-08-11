@@ -1,131 +1,136 @@
-# The Ordre for the Buriall of the Dead.
+# The Order for the Buriall of the Dead.
 
 ## The Procession
 
-> The Priest meting the corps at the Church style, shal saye.
-> Or els the priestes and clerkes shal singe, and so go eyther unto the churche or towardes the grave.
+> The prieste metyng the corpse at the Church style, shal saye, Or els the priestes and clerkes shall syng, and so go eyther unto the churche, or towardes the grave.
+> <!-- VERIFY: source prints 'unto'; a footnote notes 'into' in 1604 printings; kept as printed; confirm against a page scan -->
 
-I AM the resurreccion and the lyfe (sayeth the Lorde): he that beleveth in me, yea thoughe he were dead, yet shall he lyve.
-And whosoever lyveth and beleveth in me, shall not dye for ever.
-John xi.
+I AM the resurrection and the life (saith the Lord) he that beleveth in me: yea, thoughe he were dead, yet shall he live.
+And whosoever liveth, and believeth in me, shall not dye for ever.
+Jhon xi.
 
-I KNOWE that my redemer lyveth, and that I shall ryse out of the earth in the last day, and shalbe covered agayne with my skinn, and shall see God in my fleshe: yea, and I my selfe shall beholde hym, not with other but wyth these same eyes.
+I KNOWE that my redemer lyveth, and that I shal rise out of the earth in the last daye, and shal be covered agayne with my skinne, and shall se God in my flesh: yea, and I my selfe shall beholde hym, not with other, but with thesame eyes.
 Job xix.
 
-WE brought nothing into this world, neither may we cary any thing out of this worlde. 1 Tim. vi.
+WE brought nothinge into this worlde, neither may we cary any thyng out of this worlde.
+i.
+Tim. vi.
 The Lord geveth, and the Lorde taketh awaye.
-Even as it hath pleased the Lord, so cometh thinges to passe: blessed be the name of the Lorde.
+Even as it hath pleased the Lorde so commeth thynges to passe: Blessed be the name of the Lorde.
 Job i.
 
 ## At the Grave
 
-> When they come at the grave, whiles the corps is made ready to be layde into the earth, the Priest shall saye, or the priest and clerkes shall singe.
+> When they come to the grave, whyles the corps is made redy to be layd into the earth, ye priest shal say, or the priestes, and clerkes shal sing.
 
-MAN that is borne of a womanne, hath but a shorte time to lyve, and is full of misery: he cometh up and is cut downe lyke a floure; he flieth as it were a shadowe, and never continueth in one staye.
-Job ix.
+MAN that is borne of a woman hathe but a shorte tyme to lyve, and is full of miserye: he commeth up, and is cut doune lyke a floure, he flyeth as it were a shadow, and never continueth in one staye.
 
-In the mideste of lyfe we bee in death: of whom may we seke for succour, but of thee, O Lord, which for our sinnes justlye arte displeased?
-yet, O Lord God most holy, O Lord most mightie, O holy and moste mercyfull savioure, delyver us not into the bitter paines of eternal death.
-Thou knowest, Lord, the secretes of oure heartes: shutte not up thy merciful eyes to oure prayers: But spare us, lord most holi, O god most mightie, O holy and mercifull saviour, thou moste worthy judge eternall, suffre us not at oure last houre for any paynes of death to fall from thee.
+In the middest of life we be in death, of whom mai we seke for succour but of the, O Lorde, whiche for our sinnes justly arte displeased: yet O Lorde God most holy, O Lorde moste mightye, O holy, and moste mercifull Saviour, deliver us not into the bitter paynes of eternall death.
+Thou knowest Lord the secretes of our hertes, shut not up thy mercifull eyes to our prayers.
+But spare us Lorde moste holy, O God moste mighty, O holy and mercifull Saviour, thou most worthy judge eternall, suffer us not at our last houre for any paines of death to fall from the.
 
 ## The Committal
 
-> Then whyle the earth shalbe cast upon the body, by some standing by, the priest shal say,
+> Then whyle the earth shal be cast upon the body by some standing by, the priest shall saye.
 
-FORASMUCHE as it hathe pleased almightie God of his great mercy to take unto himselfe the soule of our dere brother here departed: we therefore commit his body to the ground, earth to earth, asshes to asshes, dust to dust, in sure and certayne hope of resurreccion to eternal lyfe, through our Lord Jesus Christ, who shal chaunge our vyle bodye, that it maye bee lyke to his glorious bodye, according to the mightie working wherby he is hable to subdue all thinges to himselfe.
+FOR asmuche as it hath pleased almightie God of his great mercy to take unto hym selfe the Soule of oure deare brother, here departed, we therfore committe hys bodye to the grounde, earthe, to earthe ashes, to ashes, dust, to dust, in sure, and certein hope of resurrection to eternall lyfe, throughe oure Lorde Jesus Christe, who shall change oure vyle body that it may be lyke to his glorious body, according to the mighty workynge whereby he is able to subdue al thynges to hym selfe.
 
 ## The Anthem
 
-> Then shalbe sayd or song,
+> Then shalbe sayde, or songe.
 
-I HEARDE a voyce from heaven, sayinge unto me: Wryte from henceforth, blessed are the dead which dye in the Lorde.
-Even so sayth the spyrite, that they rest from theyr laboures.
+I HEARDE a voyce from heaven saiyng unto me, wryte from hencefurth, blessed are the dead whiche dye in the Lorde.
+Even so sayeth the spirite that they reste from their labours.
+Job xi.
+<!-- VERIFY: source dumps marginal citation 'Job xi.'
+after this anthem; the anthem ("I heard a voice from heaven") is Revelation xiiii, not Job, so the citation appears misplaced or mis-scanned; kept as printed; confirm against a page scan -->
 
 ## The Lesson
 
-> Then shal folowe this lesson, taken out of the xv.
-> Chapter to the Corinthians, the fyrst Epistle.
+> Then shall folowe this lesson, taken out of the .
+> xv.
+> Chap. to the Corin. the first Epistle.
 
-CHRISTE is rysen from the dead, and become the fyrst fruites of them that slepte.
-For by a manne came death, and by a manne came the resurreccion of the dead.
-For as by Adam all dye, even so by Christ shall all be made alyve, but every man in hys owne ordre.
-The fyrst is Christ, then they that are Christes, at his comming.
-Then cometh the ende, when he hath delyvered up the kyngdome to God the father, when he hath put downe all rule and all aucthoritie and power.
-For be must reygne tyll he have put all hys enemies under his feete.
-The laste enemie that shall be destroyed is death.
-For he hath putte all thinges under his feete.
-But when he sayth all thinges are put under him, it is manyfest that he is excepted, which dyd put all thinges under him.
-When all thinges are subdued unto him, then shal the sonne also himself be subject unto him that put al thinges under him, that God may be al in al. Els what doe they which are Baptised over the dead, yf the dead ryse not at all?
-Why are they then Baptysed over them?
-yea and why stande we alwaye then in jeopardie?
-By our rejoysing, whiche I have in Christ Jesu oure Lorde, I dye daylye.
-That I have foughte with beastes at Ephesus after the maner of men, what avantageth it me, if the dead ryse not agayne?
-Lette us eate, and drinke, for to-morowe we shall dye.
-Be not ye deceyved: evil wordes corrupt good maners.
-Awake truely oute of slepe, and synne not.
-For some have not the knowledge of God.
-I speake this to youre shame.
-But some man wyl saye: How aryse the dead?
+CHRIST is rysen from the dead, and become the fyrst frutes of them that slept.
+For by a man came deth, and by a man came the resurreccion of the dead.
+For as by Adam al die, even so by Christ shal al be made alive, but every manne in his owne order.
+The fyrste is Christe, then they that are Christes at his comming.
+Then commeth the ende when he hathe delivered up the kyngedome to God the father, when he hath put doune all rule, and all aucthoritie and power.
+For he must reygne till he have put hys enemies under hys fete.
+The laste enemye that shalbe destroyed is deathe.
+For he hath putte all thynges under his feete.
+But when he sayeth, all thynges are putte under hym, it is manifeste that hee is excepted, whyche dyd putte all thynges under hym.
+When al thinges are subdued unto him, then shall the sonne also hym self be subjecte unto him that put all thynges under hym, that God maye be al in all, elles what do they whyche are baptised over the deade, if the dead rise not at all?
+Why are they then baptised over them: yea, and why stande we alway then in jeopardye?
+By our rejoysinge which I have in Christ jesu our Lorde, I dye daily.
+That I have foughte wyth beastes Ephesus after the maner of men, what avauntageth it me, if the dead ryse not agayne?
+Lette us eate and drincke, for to morow we shall dye.
+Be not ye deceyved; evil wordes corrupt good maners.
+Awake truly out of slepe, and sinne not.
+For somme have not the knowledge of God.
+I speake this to your shame.
+But some manne wyl say how aryse the dead?
 with what body shal they come?
-Thou foole, that whiche thou soweste is not quickened, excepte it dye.
+thou foole, that whiche thou sowest is not quickened except it dye.
 And what sowest thou?
-Thou sowest not that body that shalbe; but bare corne as of wheat, or of some other: but God geveth it a bodye at his pleasure, to every sede his owne bodi.
-Al fleshe is not one maner of fleshe: but there is one maner of fleshe of men, and other maner of fleshe of beastes, and other of fisshes, another of birdes.
-There are also celestial bodies, and there are bodies terrestriall.
-But the glorye of the celestiall is one, and the glory of the terrestrial is another.
-There is one maner glory of the sunne, and another glory of the mone, and another glory of the starres.
-For one starre differeth from another in glory.
-So is the resurreccion of the dead.
-It is sowen in corrupcion, it ryseth agayne in incorrupcion.
-It is sowen in dishonoure, it ryseth agayne in honour.
-It is sowen in weaknesse, it ryseth agayne in power.
-It is sowen a naturall bodye, it ryseth agayne a spyrituall bodye.
-There is a naturall bodye, and there is a spirituall bodye: as it is also written: the fyrst man Adam was made a lyving soule, and the laste Adam was made a quickening spyryte.
-Howbeit, that is not fyrst which is spyrytuall: but that whiche is naturall, and then that whiche is spyrytuall.
-The fyrst man is of the earth, earthy: the second man is the Lord from heaven, heavenly.
-As is the earthy, suche are they that are earthy.
+thou sowest not that body that shalbe; but bare corne, as of wheate, or some other: but God geveth it a bodye at hys plesure, to everye sede his owne bodye.
+All fleshe is not one maner of flesh: but there is one maner of flesh of menne, an other maner of flesh of beasts, an other of fishes, an other of byrdes.
+There are also celestial bodyes, and there are bodies terrestriall.
+But the glory of the celestiall is one, and the glory of the terrestrial is another.
+There is one maner glory of the Sonne, and another glory of the Mone, and another glory of the starres.
+For one starre differeth from another in glory: so is the resurrection of the deade.
+It is sowen in corrupcion, it riseth againe in incorrupcion.
+It is sowen in dishonoure, it riseth againe in honoure.
+It is sowen in weaknes, it ryseth againe in power.
+It is sowen a natural body, it ryseth againe a spirituall bodye.
+There is a natural body, and there is a spirituall body: as it is also wryten, the fyrst man Adam was made a lyvynge soule, and the laste Adam was made a quickeninge spirite.
+How be it that is not fyrst whyche is spirituall: but that whiche is naturall and then that whiche is spirytual.
+The first man is of the earth, earthye : The seconde manne is the Lord from Heaven (heavenlye).
+As is the earthy, suche are they that be earthy.
 And as is the heavenly, such are they that are heavenly.
-And as we have borne the Image of the earthy, so shall we beare the Image of the heavenly.
-Thys say I, brethren, that fleshe and bloud cannot inherite the kyngdome of God: neyther doeth corrupcion inherite uncorrupcion.
-Beholde, I shewe you a mistery.
-We shall not all slepe: but we shall all be chaunged and that in a momente, in the twinkeling of an eie by the last trumpe.
-For the trumpe shall blowe, and the dead shall ryse incorruptible, and we shall be chaunged.
-For thys corruptyble must put on incorrupcion: and this mortall must put on immortalitie.
-When this corruptible hath put on in corrupcion, and this mortal hath put on immortalitie: then shalbe brought to passe the saying that is written: Death is swallowed up in victory: Death, where is thy styng?
-Hell, where is thy victorye?
-The styng of death is sinne: and the strength of sinne is the law.
-But thanks be unto God whiche hath geven us victory, through oure Lorde, Jesus Chryst.
-Therefore, my deare brethren, be ye stedfaste and unmovable, alwayes riche in the worke of the Lorde, forasmuche as ye knowe that your labour is not in vayne in the Lorde.
+And as we have borne the ymage of the earthye, so shall we beare the ymage of the heavenly.
+Thys saye I brethren, that fleshe and bloude cannot enherite the kyngdome of God, neyther doth corruption enherite incorruption.
+Beholde, I shewe you a mystery.
+we shall not all slepe: but we shall al be chaunged, and that in a momente, in the twynkelynge of an eye by the last trumpe.
+For the trumpe shall blowe, and the deade shall rise incorruptible, and we shall be chaunged.
+For this corruptible must put on incorruption, and this mortall must put on immortalitye.
+When this corruptible hath put on incorruption, and this mortall hath put on immortalitye: then shall be broughte to passe the sayinge that is wrytten, Deathe is swallowed up in victory: Deathe, where is thy stinge?
+Hell where is thy victory?
+The stynge of deathe is sinne, and the strengthe of sinne is the lawe.
+But thankes be unto God, whyche hathe geven us victory, through our Lord Jesus Christ.
+Therfore my deare brethren, be ye stedfast and unmovable, alwaies rich in the worke of the lorde, forasmuch as ye knowe, howe that your laboure is not in vayne in the Lorde.
 
 ## The Lord's Prayer
 
-> The lesson ended, the priest shall saye.
+> The Lesson ended, the Priest shall saye.
 
-Lorde, have mercy upon us.
+Lorde have mercye upon us.
 
-Christe, have mercy upon us.
+Christe have mercye upon us.
 
-Lorde, have mercy upon us.
+Lorde have mercye upon us.
 
-Our father which art in heaven, &c.
+Our Father whiche arte in heaven.
+&c.
 
 And leade us not into temptacion.
 
-**Aunswere.** But delyver us from evill.
+**Aunswere.** But deliver us from evil.
 Amen.
 
 ## The Prayer
 
 > The Priest.
 
-ALMIGHTIE God, with whom doe lyve the spirites of them that departe hence in the lord, and in whom the soules of them that be elected, after they be delivered from the burden of the fleshe, be in joye and felicitie: We geve thee hearty thankes, for that it hath pleased thee to deliver thys N.
-our brother out of the myseryes of this sinneful world: beseching thee, that it maye please thee of thy gracious goodnesse, shortely to accomplyssh the noumbre of thyne electe, and to haste thy kingdome, that we with this our brother, and al other departed in the true faith of thy holy name, maye have our perfect consummacion and blisse, both in body and soule, in thy eternal and everlastyng glory.
+ALMIGHTIE God, with whome do live the spirites of them that depart hence in the lorde and in whome the soules of them that be elected, after they be delivered from the burthen of the flesh, be in joye and felicitie.
+We geve the hearty thankes for that it hath pleased the to deliver this N.
+oure brother, out of the miseries of thys synneful worlde beseching the that it may please the of thy gracious goodnes, shortelye to accomplishe the numbre of thyne electe, and to haste thy kyngedome, that we with thys oure brother, and all other departed in the true fayth of thy holy name, may have our perfect consummacion and blisse, both in bodye and soule in thy eternall and everlastynge glorie.
 Amen.
 
 ## The Collect
 
 > The Collect.
 
-O MERCIFUL God, the father of our Lorde Jesus Christe, who is the resurreccion and the lyfe, in whom whosoever beleveth, shall lyve though he dye; and whosoever liveth and beleveth in hym, shall not dye eternally: who also taught us (by his holy Apostle Paule) not to be sorye, as men without hope, for them that slepe in hym: We mekely beseche thee (O father) to raise us from the death of sinne unto the life of righteousnes, that when we shal depart thys lyfe, we may reste in him, as our hope is thys our brother doeth; and that at the general resurreccion in the laste daye, we may be founde acceptable in thy syghte, and receive that blessing which thy welbeloved sonne shall then pronounce to al that love and feare thee, saying: Come, ye blessed children of my father, receive the kyngdome prepared for you from the beginning of the world.
-Graunt this we beseche thee, O merciful father, through Jesus Christ our mediatour and redeyemer.
+O MERCIFULL God, the father of our Lord Jesus Christe, who is the Resurrection and the lyfe, in whom whosoever beleveth shall live, thoughe he dye, and whosoever liveth, and beleveth in hym, shall not dye eternally, who also taughte us (by hys holy apostle Paule), not to be sory as men without hope, for them that slepe in hym: We mekely beseche the (O Father) to rayse us from the deathe of sinne unto the lyfe of righteousnes, that when we shall depart thys lyfe, we may rest in hym, as our hope is thys oure brother doeth, and that at the generall resurrection in the laste daye, we maye be founde acceptable in thy syghte, and receive that blessing which thy welbeloved sonne shall then pronounce to all that love and fear the, saiynge: Come ye blessed children of my father, receyve the Kyngedome prepared for you frome the begynnynge of the worlde.
+Graunte thys, we beseche the, O mercifull father, throughe Jesus Christe our mediatoure and redemer.
 Amen.

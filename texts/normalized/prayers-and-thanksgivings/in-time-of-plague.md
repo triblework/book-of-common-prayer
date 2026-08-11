@@ -1,3 +1,4 @@
-# In the tyme of any common plague or sickness.
+# In the tyme of any common plague or syckenesse.
 
-O ALMIGHTY god, which in thy wrath, in the time of king David, did slea with the plague of pestilence lx and ten thousande, and yet remembryng thy mercye dyddest save the rest: have pietie upon us miserable synners, that nowe are visited with great sickenes and mortalitie, that like as thou diddest then command thy angel to ceasse from punishing : So it maye now please thee to withdrawe from us thys plague and grevous sickenesse, throughe Jesu Chryste oure Lorde.
+O ALMIGHTYE God, whiche in thy wrathe, in the tyme of king David didst slea [slay] with the plague of pestilence, thre score and ten thousande, and yet remebringe thy mercy, diddest save the rest: have pitie upon us miserable synners, that nowe are vysited with great sicknesse, and mortalitie, that like as thou diddest then commaunde thyne angel to cease from punishing; So it may now please thee to withdrawe from us this plague, and grevous syckenesse, throughe Jesus Christe oure Lorde.
+Amen.

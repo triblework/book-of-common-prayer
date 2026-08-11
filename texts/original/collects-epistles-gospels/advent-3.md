@@ -4,11 +4,14 @@
 
 ## The Collect
 
-LORD, we beseche
+LORD, we beseche.
+Amen.
 
-thee, geve eare to our prayers, and by thy gracious visitacion lighten
+thee, geve eare to our prayers, and by thy gracious visitacion lighten.
+Amen.
 
 the darkenes of our hearte, by our Lorde Jesus Christe.
+Amen.
 
 ## The Epistle
 

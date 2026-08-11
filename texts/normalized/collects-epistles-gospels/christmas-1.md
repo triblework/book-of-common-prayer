@@ -2,10 +2,12 @@
 
 ## The Collect
 
-ALMIGHTY God,
+ALMIGHTY God,.
+Amen.
 
 which hast geven us, &c.
 as upon Christmas-day.
+Amen.
 
 ## The Epistle
 

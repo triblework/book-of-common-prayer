@@ -4,13 +4,17 @@
 
 ## The Collect
 
-LORD, we beseche
+LORD, we beseche.
+Amen.
 
-thee to kepe thy Churche and housholde continually in thy true religion;
+thee to kepe thy Churche and housholde continually in thy true religion;.
+Amen.
 
-that they whiche do leane onlye upon hope of thy heavenly grace may
+that they whiche do leane onlye upon hope of thy heavenly grace may.
+Amen.
 
 evermore bee defended by thy mightie power; through Christ our lorde.
+Amen.
 
 ## The Epistle
 

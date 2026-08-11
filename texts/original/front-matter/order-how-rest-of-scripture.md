@@ -2,18 +2,18 @@
 
 >THE ORDER
 
-THOLD Testament is appointed for the firste lessons, at Morning and Evening praier, and shalbe read throughe every yere once, except certain bokes and chapiters, whiche be least edifyeng, and might best be spared, and therefore be lefte unread.
+THOLD Testament is appointed for the fyrst lessons, at Morning and Evening prayer, and shal be read through, everye yere once, excepte certaine bokes and Chapiters, whiche be leaste edifying, and mighte beste bee spared, and therefore bee lefte unread.
 
-The Newe Testament is appoynted for the seconde Lessons, at Mornyng and Evenyng praier, and shalbe read over orderlye everye yere thrise, beside the Epistles and Gospelles: excepte the Apocalips, out of the whiche there be onelye certain Lessons appoynted, upon divers proper feastes.
+The newe Testament is appointed for the seconde Lessons, at Mornyng and Evenyng prayer, and shalbe read over orderly every yere thryse, besyde the Epistles and Gospels: except the Apocalips [=Revelation], out of the which there bee onely certayne Lessons appointed, upon diverse proper feastes.
 
-And to knowe what Lessons shalbe read everye daie: finde the daie of the Monethe in the Kalendar folowyng: and there ye shall perceive the bokes and Chapiters, that shalbe read for the Lessons, both at Morning and Evening praier.
+And to knowe what Lessons shalbe readde every daye: fynde the day of the moneth in the Kalender folowing; and there ye shal perceyve the bokes and Chapiters that shalbe read for the Lessons, both at Mornynge and Eveninge prayer.
 
-And here is to be noted, that whensoever there be any proper Psalmes or Lessons appoynted for anye feaste moveable or unmoveable: then the Psalms and Lessons appointed in the Kalendar, shall be omitted for that tyme.
+And here is to bee noted, that whensoever there bee any proper Psalmes or Lessons appointed for the Sondayes or for anye feaste moveable or unmoveable: then the Psalmes and Lessons, appointed in the kalender shalbe omitted for that tyme.
 
-Ye muste note also, that the Collect, Epistle, and Gospell, appoynted for the Sundai, shall serve all the wiek after, excepte there fall some feast that hath hys proper.
+Ye must note also that the Collect Epistle and Gospell, appointed for the Sondaie shal serve al the weke after, except there fall some feast that hath his proper.
 
-This is also to be noted, concernyng the Leape yeres, that the xxv daie of February, whiche in Leap year is compted for two daies, shall in those two daies alter neither Psalme nor Lesson: but the same Psalmes and Lessons, whiche be sayed the flrste daye shall also serve for the seconde daie.
+This is also to bee noted, concernyng the Leape yeares, that the xxv daye of February, which in Leape yeare is coumpted for two dayes, shal in those two dayes, alter nether Psalme nor Lesson: but the same Psalmes and Lessons, whiche be sayde the first daye, shall also serve for the second daye.
 
-Also, wheresoever the begynnynge of any Lesson, Epistle, or Gospell is not expressed: there ye must begyn at the begynnyng of the Chapiter.
+Also, wheresoever the beginnyng of any Lesson, Epistle or Gospel is not expressed: there ye muste beginne at the beginning of the Chapiter.
 
 And wheresoever is not expressed howe farre shalbe read, there shall you reade to the ende of the Chapiter.

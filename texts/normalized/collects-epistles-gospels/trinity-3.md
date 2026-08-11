@@ -4,13 +4,17 @@
 
 ## The Collect
 
-LORDE, we beseche
+LORDE, we beseche.
+Amen.
 
-thee mercifully to heare us, and unto whom thou hast geven an heartie
+thee mercifully to heare us, and unto whom thou hast geven an heartie.
+Amen.
 
-desyre to pray; graunt that by thy mighty ayde we may be defended;
+desyre to pray; graunt that by thy mighty ayde we may be defended;.
+Amen.
 
 through Jesus Christ our Lorde.
+Amen.
 
 ## The Epistle
 
