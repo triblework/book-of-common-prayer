@@ -1,37 +1,14 @@
-# The iiii Sondaye[ after
-
-<!-- VERIFY: 'The iiii Sondaye[ after' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The fourth Sunday after Easter
 
 ## The Collect
 
-ALMIGHTY God,.
-Amen.
-
-whiche doest make the myndes of all faythful men to be of one wil;.
-Amen.
-
-graunt unto thy people, that they maye love the thyng, whiche thou commaundest,.
-Amen.
-
-and desyre, that whiche thou doest promes;.
-Amen.
-
-that emong the sondery.
-Amen.
-
-and manifold chaunges of the world, oure heartes maye surely there.
-Amen.
-
-bee fixed, whereas true joyes are to be founde; through Christe our.
-Amen.
-
-Lorde.
+ALmighty God, which doest make the mindes of all faithful men to be of one wil; grant unto thy people, that they may love the thing which thou commandest, and desire that which thou doest promise, that among the sundry and manifold changes of the world, our hearts may surely there be fixed, whereas true joyes are to be found, through Christ our Lord.
 Amen.
 
 ## The Epistle
 
-James 1
+James 1:17
 
 ## The Gospel
 
-John 16
+John 16:5

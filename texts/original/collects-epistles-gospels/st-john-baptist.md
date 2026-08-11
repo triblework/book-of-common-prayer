@@ -2,31 +2,15 @@
 
 ## The Collect
 
-ALMIGHTIE.
+ALmighty God, by whose providence thy servant Saint John Baptist was wonderfully born, and sent to prepare the way of thy Sonne our Saviour, by preaching of penance: make us so to follow his doctrine and holy life, that wee may truely repent according to his preaching; and after his example constantly speak the truth, boldly rebuke vice, and paciently suffer for the truths sake, through Jesus Christ our Lord.
 Amen.
 
-God, by whose providence thy servaunte John Baptiste was wonderfully.
-Amen.
-
-borne, and sente to prepare the way of thy sonne our saviour, by preaching.
-Amen.
-
-of penaunce; make us so to folowe his doctrine and holy lyfe, that we.
-Amen.
-
-may truely repent accordyng to his preachyng; and after his example.
-Amen.
-
-constantly speake the trueth, boldly rebuke vice, and paciently suffre.
-Amen.
-
-for the truethes sake; through Jesus Christ our Lorde.
-Amen.
+June 25
 
 ## The Epistle
 
-Isaiah 40
+Isaiah 40:1
 
 ## The Gospel
 
-Luke 1
+Luke 1:57

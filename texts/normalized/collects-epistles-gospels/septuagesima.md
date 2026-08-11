@@ -1,26 +1,14 @@
-# The sonday called Septuagesima
+# The Sunday called Septuagesima
 
 ## The Collect
 
-O LORD, we beseche.
-Amen.
-
-thee favourably to heare the praiers of thy people; that we whiche are.
-Amen.
-
-justly punished for our offences, may be mercifully delivered by thy.
-Amen.
-
-goodnes, for the glory of thy name, through Jesu Christ our savior,.
-Amen.
-
-who liveth and reigneth, &c.
+O Lord, we beseech thee favourably to heare the prayers of thy people, that we which are justly punished for our offences, may be mercifully delivered by thy goodnesse, for the glory of thy Name, through Jesus Christ our Savior, who liveth and reigneth world withouth end.
 Amen.
 
 ## The Epistle
 
-1 Corinthians 9
+1 Corinthians 9:24
 
 ## The Gospel
 
-Matthew 20
+Matthew 20:1

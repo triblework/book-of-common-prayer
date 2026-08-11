@@ -1,23 +1,14 @@
-# The second Sondayeafter Trinity
-
-<!-- VERIFY: 'The second Sondayeafter Trinity' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The second Sunday after Trinity
 
 ## The Collect
 
-LORD, make us to have a perpetuall feare and love of thy holy name: for thou.
-Amen.
-
-never faillest to helpe and governe them whom thou doest bryng up in.
-Amen.
-
-thy stedfast love.
-Graunt this, &c.
-Amen.
+LOrd, make us to have a perpetuall feare and love of thy holy Name, for thou never faillest to help and governe them whom thou doest bring up in thy stedfast love.
+Grant this, &c.
 
 ## The Epistle
 
-1 John 3
+1 John 3:13
 
 ## The Gospel
 
-Luke 14
+Luke 14:16

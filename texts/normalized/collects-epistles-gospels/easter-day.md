@@ -1,57 +1,19 @@
-# Easter Daye
+# EASTER DAY
 
 ## The Collect
 
-ALMIGHTY God,.
-Amen.
+CHrist rising again from the dead, now dieth not, death from henceforth hath no power upon him: for in that he died, he died but once to put away sin, but in that he liveth, he liveth unto God.
+And so likewise, count your selves dead unto sin, but living unto God, in Christe Jesus our Lord.
 
-whiche through thy only begotten sonne Jesus Christ hast overcome death,.
-Amen.
+CHrist is risen again, the first fruits of them that sleep: for seeing that by man came death, by man also commeth the resurrection of the dead.
+For as by Adam all men do dye, so by Christ all men shall bee restored to life.
 
-and opened unto us the gate of everlasting life; we humbly beseche thee,.
-Amen.
-
-that, as by thy speciall grace, preventing.
-Amen.
-
-us, thou doest put in our mindes good desires, so by thy continuall.
-Amen.
-
-help we may bring the same to good effect; through Jesus Christ our.
-Amen.
-
-Lorde who lyveth and reigneth, &c.
-Amen.
+ALmighty God, which through thy only begotten Son Jesus Christ, hast overcome death, and opened unto us the gate of everlasting life, we humbly beseech thee, that, as by thy speciall grace, preventing us, thou doest put in our mindes good desires, so by thy continuall help we may bring the same to good effect; through Jesus Christ our Lord who liveth, &c.
 
 ## The Epistle
 
-Colossians 3
+Colossians 3:1
 
 ## The Gospel
 
-John 20
-
-## The Collect (Second Communion)
-
-ALMIGHTY father,.
-Amen.
-
-whiche hast geven thy only sonne to dye for our sins, and to rise.
-Amen.
-
-again for oure justificacion; Graunte us so to putte awaye the leaven.
-Amen.
-
-of malyce and wickednesse, that we maye alwaye serve thee in purenesse.
-Amen.
-
-of living and trueth; through Jesus Christe oure Lorde.
-Amen.
-
-## The Epistle (Second Communion)
-
-1 Corinthians 5
-
-## The Gospel (Second Communion)
-
-Mark 16
+John 20:1

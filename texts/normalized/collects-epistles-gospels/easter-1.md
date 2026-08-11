@@ -1,20 +1,14 @@
-# The first Sondaie after Easter
+# The first Sunday after Easter
 
 ## The Collect
 
-ALMIGHTY.
-Amen.
-
-Father, &c.
-as at the second Communion on Easter. Amen.
-
-day.
-Amen.
+ALmightyGod, which &c.
+(As at the Communion on Easter day.)
 
 ## The Epistle
 
-1 John 5
+1 John 5:4
 
 ## The Gospel
 
-John 20
+John 20:19

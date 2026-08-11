@@ -1,22 +1,14 @@
-# The thirde sonday [in
-
-<!-- VERIFY: 'The thirde sonday [in' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The third Sunday in Advent
 
 ## The Collect
 
-LORD, we beseche.
-Amen.
-
-thee, geve eare to our prayers, and by thy gracious visitacion lighten.
-Amen.
-
-the darkenes of our hearte, by our Lorde Jesus Christe.
+LORD, we beseech thee, gee eare to our prayers, and by thy gracious visitation lighten the darkenesse of our hearts, by our Lord Jesus Christ.
 Amen.
 
 ## The Epistle
 
-1 Corinthians 4
+1 Corinthians 4:1
 
 ## The Gospel
 
-Matthew 11
+Matthew 11:2

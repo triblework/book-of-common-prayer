@@ -1,18 +1,14 @@
-# Monday in whitsonweke
+# Munday in Whitsun week
 
 ## The Collect
 
-God, which, &c.
-as upon.
-Amen.
-
-witsonday.
-Amen.
+GOD, which as at this time hast taught the hearts of thy faithful people, &c.
+As upon Whitsunday.
 
 ## The Epistle
 
-Acts 10
+Acts 10:34
 
 ## The Gospel
 
-John 3
+John 3:16
