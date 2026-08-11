@@ -1,10 +1,5 @@
 # The Sunday after
 
-## The Introit
-
-Levavi oculos.
-Psalm 121
-
 ## The Collect
 
 ALMIGHTY God,

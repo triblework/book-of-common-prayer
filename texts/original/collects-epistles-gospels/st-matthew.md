@@ -2,11 +2,6 @@
 
 <!-- VERIFY: 'Sayncte Matthewe[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
 
-## The Introit
-
-Laudate Dominum omnes gentes.
-Psalm 117
-
 ## The Collect
 
 ALMIGHTIE God,

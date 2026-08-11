@@ -1,10 +1,5 @@
 # The Innocentes
 
-## The Introit
-
-Deus, venerunt genies.
-Psalm 79
-
 ## The Collect
 
 ALMIGHTY God,
@@ -26,10 +21,3 @@ Revelation 14
 ## The Gospel
 
 Matthew 2
-
-## The Proper Lessons
-
-> At Mattyns,
-
-> The fyrste Lesson, Hiere. xxxi.
-> unto, "Moreouer I heard Effraim."

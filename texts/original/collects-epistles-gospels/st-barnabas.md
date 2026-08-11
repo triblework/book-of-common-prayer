@@ -1,10 +1,5 @@
 # Saint Barnabe Apostle
 
-## The Introit
-
-Voce mea ad Dominum.
-Psalm 142
-
 ## The Collect
 
 LORDE Almightie, whiche hast indued thy holy Apostle Barnabas with singuler
@@ -22,17 +17,3 @@ Acts 11
 ## The Gospel
 
 John 15
-
-## The Proper Lessons
-
-> At Matins.
-
-> The Second Lesson, Acts xiv.
-> unto the end.
-
-> At Evensong.
-
-> The Second Lesson, Acts xv.
-> (unto) "After
-
-> certayne dayes."

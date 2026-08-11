@@ -21,14 +21,3 @@ Acts 7
 ## The Gospel
 
 Matthew 23
-
-## The Proper Lessons
-
-> At Matins.
-
-> The Seconde Lesson, Acts vi.
-> vii.
-
-> "Stephin full of faith and power," (unto) "And when xl
-
-> yeres."

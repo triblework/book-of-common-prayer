@@ -1,10 +1,5 @@
 # Trinitie Sonday
 
-## The Introit
-
-Deus misereatur.
-Psalm 67
-
 ## The Collect
 
 ALMIGHTYE and

@@ -1,10 +1,5 @@
 # The second sunday
 
-## The Introit
-
-Ad Dominum cum tribularer.
-Psalm 120
-
 ## The Collect
 
 BLESSED lord,

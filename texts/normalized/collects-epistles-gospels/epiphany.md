@@ -1,10 +1,5 @@
 # The Epiphanie
 
-## The Introit
-
-Domino.
-Psalm 96
-
 ## The Collect
 
 OGOD, which by the leading of a starre diddest manifest thy onelye begotten
@@ -22,24 +17,3 @@ Ephesians 3
 ## The Gospel
 
 Matthew 2
-
-## The Proper Lessons
-
-> At Mattins.
-
-> The Firste Lesson, Isa. lx.
-> unto the ende.
-
-> The ii Lesson, Luke iii.
-> "And it fortuned," unto the ende.
-
-> At Evensong.
-
-> The Firste Lesson, Esai.
-> xlix.
-> unto the ende.
-
-> The ii Lesson, John ii.
-> "After this he wente
-
-> doune Capernaum," unto the ende.

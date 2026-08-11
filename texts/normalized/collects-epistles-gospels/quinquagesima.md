@@ -1,10 +1,5 @@
 # The Sonday called Quinquagesima
 
-## The Introit
-
-Judica me Domine.
-Psalm 26
-
 ## The Collect
 
 O LORDE whiche

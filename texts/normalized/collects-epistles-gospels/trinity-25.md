@@ -1,10 +1,5 @@
 # The xxv Sondaye
 
-## The Introit
-
-Nisi Dominus.
-Psalm 127
-
 ## The Collect
 
 STIERE

@@ -1,10 +1,5 @@
 # The Assencion Day
 
-## The Introit
-
-Omnes gentes plaudite.
-Psalm 47
-
 ## The Collect
 
 GRAUNTE
@@ -26,16 +21,3 @@ Acts 1
 ## The Gospel
 
 Mark 16
-
-## The Proper Lessons
-
-> At Matins.
-
-> Psalms
-
-> viii.
-> xv.
-> xxi.
-
-> The Second Lesson, John xiv.
-> unto the end.

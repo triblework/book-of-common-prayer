@@ -1,10 +1,5 @@
 # The xviii Sondaye
 
-## The Introit
-
-Justus es, Domine.
-Psalm 119
-
 ## The Collect
 
 LORDE we beseche

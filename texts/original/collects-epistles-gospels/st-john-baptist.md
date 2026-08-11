@@ -16,8 +16,6 @@ constantly speake the trueth, boldly rebuke vice, and paciently suffre
 
 for the truethes sake; through Jesus Christ our Lorde.
 
-> Proper Lessons at Matins.
-
 ## The Epistle
 
 Isaiah 40

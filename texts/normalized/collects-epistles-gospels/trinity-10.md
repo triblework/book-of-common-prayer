@@ -1,10 +1,5 @@
 # The x Sonday
 
-## The Introit
-
-Manus tuæ.
-Psalm 119
-
 ## The Collect
 
 LET thy merciful

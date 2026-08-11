@@ -1,10 +1,5 @@
 # Sainct James the Apostle
 
-## The Introit
-
-Laudate Dominum de coelis.
-Psalm 148
-
 ## The Collect
 
 GRAUNT, O merciful

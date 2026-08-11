@@ -2,11 +2,6 @@
 
 <!-- VERIFY: 'The vii Sonday[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
 
-## The Introit
-
-Memor esto.
-Psalm 119
-
 ## The Collect
 
 LORDE of all power

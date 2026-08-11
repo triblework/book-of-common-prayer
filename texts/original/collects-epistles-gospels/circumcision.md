@@ -21,36 +21,3 @@ Romans 4
 ## The Gospel
 
 Luke 2
-
-## The Proper Lessons
-
-> At Euensong.
-
-> The First Lesson, Deut. x.
-> "And now Israel," unto the ende.
-
-> The Seconde Lesson, Colloss.
-> ii.
-> unto the ende.
-
-> If there be a Sunday between the Epiphany and the Circumcision then
-
-> shall be used the same Collect, Epistle, and Gospel, at the Communion,
-
-> which was used upon the day of Circumcision.
-
-> Previous
-
-> Readings
-
-> Next Readings
-
-> Wohlers
-
-> U.
-
-> S. • England • Scotland
-
-> • Ireland • Wales
-
-> • Canada • World

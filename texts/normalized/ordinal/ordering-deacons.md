@@ -4,7 +4,7 @@
 
 > Fyrst, when the daye appoynted by the Bisshoppe is come, there shalbe an exhortacion, declaring the duetie and office, of suche as come to be admitted Ministers, howe necessarie suche Orders are in the Church of Christe, and also howe the people oughte to esteme them in theyr vocacion.
 
-> After the exhortacion ended, the Archedeacon, or his deputie, shal present such as come to be admitted to the Bisshop every one of them, that are presented, having upon hym a playne Albe; and the Archedeacon or his deputie shal say these words.
+> After the exhortacion ended, the Archedeacon, or his deputie, shal present such as come the Bisshop to be admitted, saying these words.
 
 Reverende Father in God, I presente unto you, these persones presente, to bee admitted Deacons.
 
@@ -20,7 +20,7 @@ Brethren, yf there bee anye of you, who knoweth anye impediment, or notable crim
 
 > And yf any great cryme, or impediment be objected, the Bisshoppe shal surcease, from ordering that person, untyl suche tyme as the partie accused, shal trye himself clere of that cryme.
 
-> Then the Bisshop, commending suche as shalbe found mete to be ordered to the prayers of the congregacion, wyth the Clerkes, and people present, shalt say or synge the Letany as foloweth.
+> Then the Bisshop, commending suche as shalbe found mete to be ordered to the prayers of the congregacion, wyth the Clerkes, and people present, shalt say or synge the Letany as foloweth wyth the prayers.
 
 ## The Litany
 
@@ -42,15 +42,15 @@ From all evyll and mischiefe, from sin, from the craftes and assaultes of the de
 
 Good Lorde deliver us.
 
-From blyndnes of hearte, from pryde, vayneglory, and hypocrisie, from envie, hatred, and malice, and all uncharitablenes.
+From al blyndnes of hearte, from pryde, vayneglory, and hypocrisie, from envie, hatred, and malice, and all uncharitablenes.
 
 Good lord, deliver us.
 
-From fornicacion, and all deadlye sin, and from all the deceyptes of the world, the fleshe, and the devyll.
+From fornicacion, and all other deadlye sin, and from all the deceyptes of the world, the fleshe, and the devyll.
 
 Good lord, deliver us.
 
-From lightening and tempest, from plague, pestilence, and famine, from battayle and murther, and from sodeyne death.
+From lighteninges and tempestes, from plague, pestilence, and famine, from battayle and murther, and from sodeyne death.
 
 Good lord, deliver us.
 
@@ -180,7 +180,7 @@ Lorde have mercy upon us.
 
 Lorde have mercy upon us.
 
-Our father which art in heaven, etc.
+Our father which art in heaven, &c.
 
 And leade us not into temptacion.
 
@@ -202,7 +202,7 @@ O God, we have heard with our eares, and oure fathers have declared unto us, the
 
 O Lorde aryse, help us, and delyver us, for thyne honour.
 
-Glorye be to the father, the sonne, and to the holy ghost.
+Glorye be to the father, and to the sonne, and to the holy ghost.
 As it was in the begynning, is now, and ever shal be, world without ende.
 Amen.
 
@@ -210,7 +210,7 @@ From our enemies defende us, O Christ.
 
 Graciously loke upon our afflictions.
 
-Pitifully beholde the doloure of our heart.
+Pitifully beholde the sorowes of our heart.
 
 Mercifully forgeve the sins of thy people.
 
@@ -273,7 +273,7 @@ And the word of God increased, and the nombre of the Disciples multiplied in Jer
 I from henceforth shal utterly renounce, refuse, relinquisshe and forsake the Bysshop of Rome, and hys aucthoritie, power, and jurisdiction.
 And I shal never consent nor agree, that the Bysshop of Rome shall practyse, exercyse, or have any maner of aucthoritie, Jurisdiction, or Power wythin thys Realme, or anye other the Kynges dominions, but shall resyste the same at all tymes, to the uttermoste of my power.
 And I from hence foorth wyll accepte, repute, and take the Kynges Majesty, to be the onelye Supreme head in earth, of the Church of Englande: And to my connynge, wytte, and uttermoste of my power, wythoute guyle, fraude, or other undue meane, I wyll observe, kepe, maynteyne and defende, the whole effectes and contentes, of al, and synguler actes and Statutes made, and to be made wythin thys realme in derogacion, extirpacion, and extinguishment of the Bisshop of Rome and his aucthoritie, and al other Actes and Statutes, made or to be made, in confirmacion and corroboracion of the Kynges power, of the supreme head in earth, of the Church of Englande: and this I wyll do against all maner of persones, of what estate, dignitie or degree, or condicion they be, and in no wise do nor attempt, nor to my power, suffre to be done or attempted, directely or indirectly, any thing or thinges, prively or appertelye, to the let, hinderaunce, dammage, or derogacion thereof, or any part thereof, by any maner of meanes, or for any maner of pretence.
-And in case any othe bee made, or hath been made by me, to any person or persones, in mayntenaunce, defence, or favoure of the Bisshoppe of Rome, or hys aucthoritie, jurisdiction, or power, I repute the same, as vayne and adnichilate: so help me God, all Saints and the holy Evangelist.
+And in case any othe bee made, or hath been made by me, to any person or persones, in mayntenaunce, defence, or favoure of the Bisshoppe of Rome, or hys aucthoritie, jurisdiction, or power, I repute the same, as vayne and adnichilate: so help me God through Jesus Christ.
 
 ## The Examination
 
@@ -295,8 +295,8 @@ Do you trust that you are inwardely moved by the holy Ghoste, to take upon you t
 
 **Aunswere.** I wyll.
 
-**The Bisshoppe.** It perteyneth to the office of a Deacon to assiste the Prieste in devine service, and speciallye when he ministreth the holye Communion, and helpe him in distribucion thereof, and to reade holye scriptures and Homelies in the congregacion, and instructe the youth in the Cathechisme, to Baptise and preache yf he be commaunded by the Bisshop.
-And further more, it is his office to searche for the sicke, poore, and impotente people of the parishe, and to intimate theyr estates, names, and places where thei dwel to the Curate, that by his exhortacion they maye bee relieved by the parishe or other convenient almose: wil you do this gladly and wyllingly?
+**The Bisshoppe.** It perteyneth to the office of a Deacon in the Church where he shalbe appoynted, to assiste the Prieste in devine service, and speciallye when he ministreth the holye Communion, and to helpe him in distribucion thereof, and to reade holye scriptures and Homelies in the congregacion, and to instructe the youth in the Cathechisme, to Baptise and to preache yf he be admitted therto by the Bisshop.
+And further more, it is his office where provision is so made to searche for the sicke, poore, and impotente people of the parishe, and to intimate theyr estates, names, and places where thei dwel to the Curate, that by his exhortacion they maye bee relieved by the parishe or other convenient almose: wil you do this gladly and wyllingly?
 
 **Aunswere.** I wyll so do by the helpe of God.
 

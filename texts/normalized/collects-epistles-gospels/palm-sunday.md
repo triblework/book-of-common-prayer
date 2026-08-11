@@ -1,10 +1,5 @@
 # The Sonday next before Easter
 
-## The Introit
-
-Exaudi, Deus deprecationem.
-Psalm 61
-
 ## The Collect
 
 ALMIGHTY and

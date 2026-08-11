@@ -1,10 +1,5 @@
 # The xx Sondaie
 
-## The Introit
-
-Vide humilitatem meam.
-Psalm 119
-
 ## The Collect
 
 ALMIGHTY

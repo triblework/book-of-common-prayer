@@ -16,8 +16,6 @@ with thee, in the unitie of the same spirite, one God, worlde without
 
 ende.
 
-> Proper Psalms and Lessons at Matins.
-
 ## The Epistle
 
 Acts 2
