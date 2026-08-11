@@ -1,0 +1,86 @@
+# Forms of Prayer to be used in Families
+
+## MORNING PRAYER.
+
+> The Master or Mistress having called together as many of the Family as can conveniently be present, let one of them, or any other whom they shall think proper, say as follows, all kneeling.
+
+OUR Father, who art in heaven, Hallowed be thy Name.
+Thy kingdom come.
+Thy Will be done on earth, As it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses, As we forgive those who trespass against us.
+And lead us not into temptation; But deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever and ever.
+Amen.
+
+ALMIGHTY and everlasting God, in whom we live and move and have our being; We, thy needy creatures, render thee our humble praises, for thy preservation of us from the beginning of our lives to this day, and especially for having delivered us from the dangers of the past night.
+To thy watchful providence we owe it,* (that no disturbance hath come nigh us or our dwelling, but that we are brought in safety to the beginning of this day.)
+For these thy mercies we bless and magnify thy glorious Name; humbly beseeching thee to accept this our morning sacrifice of praise and thanksgiving; for his sake who lay down in the grave, and rose again for us, thy Son our Saviour Jesus Christ.
+Amen.
+
+AND, since it is of thy mercy, O gracious Father, that another day is added to our lives; We here dedicate both our souls and our bodies to thee and thy service, in a sober, righteous, and godly life: in which resolution, do thou, O merciful God, confirm and strengthen us; that, as we grow in age, we may grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ.
+Amen.
+
+BUT, O God, who knowest the weakness and corruption of our nature, and the manifold temptations which we daily meet with; We humbly beseech thee to have compassion on our infirmities, and to give us the constant assistance of thy Holy Spirit; that we may be effectually restrained from sin, and excited to our duty.
+Imprint upon our hearts such a dread of thy judgments, and such a grateful sense of thy goodness to us, as may make us both afraid and ashamed to offend thee.
+And, above all, keep in.
+our minds a lively remembrance of that great day, in, which we must give a. strict account of our thoughts, words, and actions; and according to the works done in the body, be eternally rewarded or punished, by him whom thou hast appointed the Judge of quick and dead, thy Son Jesus Christ our Lord.
+Amen.
+
+IN particular, we implore thy grace and protection for the ensuing day.
+Keep us temperate in our meats and drinks, and diligent in our several callings.
+Grant us patience under any afflictions thou shalt see fit to lay on us, and minds always contented with our present condition.
+Give us grace to be just and upright in, all our dealings; quiet and peaceable; full of compassion; and ready to do good to all men, according to our abilities and opportunities.
+Direct us in all our ways, *[and prosper the works of our hands in the business of our several stations.]
+Defend us from all dangers and adversities; and be graciously pleased to take us, and all things belonging to us, under thy fatherly care and protection.
+These things, and whatever else thou shalt see necessary and convenient to us, we humbly beg, through the merits and mediation of thy Son Jesus Christ our Lord and Saviour.
+Amen.
+
+THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
+Amen.
+
+This text in the 1892 Book is identical and so is not given separately.
+
+## EVENING PRAYER.
+
+> The family, being together, a little before bed time, let the Master or Mistress, or any other whom they shall think proper, say as follows, all kneeling.
+
+OUR Father, who art in heaven, Hallowed be thy Name.
+Thy kingdom come.
+Thy will be done on earth, As it is in heaven.
+Give us this day our daily bread.
+And forgive our trespasses, As we forgive those who trespass against us.
+And lead us not into temptation; But deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever and ever.
+Amen.
+
+MOST merciful God, who art of purer eyes than to behold iniquity, and hast promised forgiveness to all those who confess and forsake their sins; We come before thee in an humble sense of our own unworthiness, acknowledging our manifold transgressions of thy righteous laws.* But, gracious Father, who desirest not the death of a sinner, look upon us, we beseech thee, in mercy, and forgive us all our transgressions.
+Make us deeply sensible of the great evil of them; and work in us an hearty contrition; that we may obtain forgiveness at thy hands, who art ever ready to receive humble and penitent sinners; for the sake of thy Son Jesus Christ, our only Saviour and Redeemer.
+Amen.
+
+AND lest, through our own frailty, or the temptations which encompass us, we be drawn again into sin, Vouchsafe us, we beseech thee, the direction and assistance of thy Holy Spirit.
+Reform whatever is amiss in the temper and disposition of our souls; that no unclean thoughts, unlawful designs, or inordinate desires, may rest there.
+Purge our hearts from envy, hatred, and malice: that we may never suffer the sun to go down upon our wrath; but may always go to our rest in peace, charity, and good-will, with a conscience void of offence towards thee, and towards men: That so we may be preserved pure and blameless, unto the coming of our Lord and Saviour Jesus Christ.
+Amen.
+
+AND accept, O Lord, our intercessions for all mankind.
+Let the light of thy Gospel shine upon all nations; and may as many as have received it, live as becomes it.
+Be gracious unto thy Church; and grant that every member of the same, in his vocation and ministry, may serve thee faithfully.
+Bless all in authority over us; and so rule their hearts and strengthen their hands, that they may punish wickedness and vice, and maintain thy true religion and virtue.
+Send down thy blessings, temporal and spiritual, upon all our relations, friends, and neighbours.
+Re- ward all who have done us good, and pardon all those who have done or wish us evil, and give them repentance and better minds.
+Be merciful to all who are in any trouble; and do thou, the God of pity, administer to them according to their several necessities; for his sake who went about doing good, thy Son our Saviour Jesus Christ.
+Amen.
+
+TO our prayers, O Lord, we join our unfeigned thanks for all thy mercies; for our being, our reason, and all other endowments and faculties of soul and body; for our health, friends, food, and raiment, and all the other comforts and conveniences of life.
+Above all, we adore thy mercy in sending thy only Son into the world, to redeem us from sin and eternal death, and in giving us the knowledge and sense of our duty towards thee.
+We bless thee for thy patience with us, notwithstanding our many and great provocations; for all the directions, assistances, and comforts of thy Holy Spirit; for thy continual care watchful providence over us through the whole course of our lives, and particularly for the mercies and benefits of the past day: beseeching thee to continue these thy blessings to us; and to give us grace to show our thankfulness in a sincere obedience to his laws, through whose merits and intercession we received them all, thy Son our Saviour Jesus Christ.
+Amen.
+
+IN particular, we beseech thee to continue thy gracious protection to us this night.
+Defend us from all dangers and mischiefs, and from the fear of them; that we may enjoy such refreshing sleep as may fit us for the duties of the following day.
+Make us ever mindful of the time when we shall lie down in the dust; and grant us grace always to live in such a state, that we may never be afraid to die: so that, living and dying, we may be thine, through the merits and satisfaction of thy Son Jesus Christ, in whose Name we offer up these our imperfect prayers.
+Amen.
+
+THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
+Amen.
+
+> On Sundays and on other days, when it may be convenient, it will be proper to begin with a Chapter, or part of a Chapter, from the New Testament.
