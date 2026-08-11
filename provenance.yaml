@@ -84,11 +84,17 @@ records:
     cross_check:
       - "justus Baskerville 1762 PDF (.../1662/mp.pdf) — ligature-lossy, used for cross-check only"
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     acknowledgment: "BCP 1662"
-    note: "Clean text from the Church of England website (authoritative 1662 publisher; Crown copyright in the UK). A modern interpolated rubric ('If no priest be present...') was excluded as not part of the 1662 book."
-    verify_items: []
+    note: "Full Tier-1 office (Wave 1) from the Church of England website (authoritative 1662 publisher; Crown copyright in the UK). A modern interpolated rubric ('If no priest be present...') was excluded as not part of the 1662 book. The CoE serves the currently-authorized monarch names in the state prayers (see verify_items)."
+    verify_items:
+      - anchor: A Prayer for the King's Majesty
+        source_reading: "King CHARLES"
+        note: "the source (CoE, current authorized text) names the reigning monarch, King CHARLES (Charles III); the 1662 book as first printed named the then-sovereign (Charles II). The named monarch is reign-dependent; reconcile against a dated 1662 page scan before sign-off."
+      - anchor: A Prayer for the Royal Family
+        source_reading: "Queen Camilla, William Prince of Wales, the Princess of Wales"
+        note: "the source names the current Royal Family; the 1662 book named the then-Royal Family. Reign-dependent; reconcile against a dated 1662 page scan before sign-off."
 
   # ---- Scottish line (scottish) ----
   - edition: 1637
