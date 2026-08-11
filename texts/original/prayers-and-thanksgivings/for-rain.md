@@ -1,4 +1,4 @@
 # For Rain.
 
-O GOD, heavenly Father, who by thy Son Jesus Christ hast promised to all those who seek thy kingdom, and the righteousness thereof, all things necessary to their bodily sustenance; Send us, we beseech thee, in this our necessity, such moderate rain and showers, that we may receive the fruits of the earth to our comfort, and to thy honour; through Jesus Christ our Lord.
+O GOD, heavenly Father, who by thy Son Jesus Christ hast promised to all those who seek thy kingdom, and the righteousness thereof, all thiugs necessary to their bodily sustenance; Send us, we beseech thee, in this our necessity, such moderate rain and showers, that we may' receive the fruits of the earth to our comfort, and to thy honour; through Jesus Christ our Lord.
 Amen.

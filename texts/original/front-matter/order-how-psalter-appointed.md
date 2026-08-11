@@ -1,12 +1,7 @@
 # The Order how the Psalter is appointed to be read
 
 THE Psalter shall be read through once every month, as it is there appointed, both for Morning and for Evening Prayer.
-But in February, it shall be read only to the twenty-eighth or twenty-ninth day of the month.
+And when a month hath one-and-thirty days, it is ordered that the same Psalms shall be read on the last day of the said month which are appointed for the day before.
 
-And whereas, January, March, May, July, August, October, and December, have one-and-thirty days apiece; it is ordered that the same Psalms shall be read the last day of the said months which were read the day before; so that the Psalter may begin again on the first day of the next month ensuing.
-
-And whereas the 119th Psalm is divided into twenty-two Portions, and is over long to be read at one time; it is so ordered, that at one time shall not be read above four or five of the said Portions.
-
-The Minister shall, instead of reading from the Psalter as divided for Daily Morning and Evening Prayer, may read one of the Selections set out by this Church.
-
-And, on Days of Fasting and Thanksgiving, appointed either by the Civil or by the Ecclesiastical Authority, the Minister may appoint such Psalms as he shall think fit in his discretion, unless any shall have been appointed by the Ecclesiastical Authority, in a Service set out for the Occasion; which, in that case, shall be used and no other.
+The Minister shall, on the days for which they are appointed, use the Proper Psalms, as set forth in the Table of Proper Psalms.
+But Note, That, on other days, instead of reading from the Psalter as divided for Daily Morning and Evening Prayer, he may read one of the Selections set out by this Church.

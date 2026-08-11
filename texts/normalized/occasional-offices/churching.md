@@ -1,34 +1,33 @@
-# The Thanksgiving of Women after Child-Birth, commonly called the Churching of Women.
+# The Thanksgiving of Women after Child-birth, commonly called, The Churching of Women.
 
 ## The Introduction
 
-> This service, or the concluding prayer alone, as it stands among the Occasional Prayers and Thanksgivings, may be used at the discretion of the Minister.
+> ¶ This service, or the concluding prayer alone, as it stands among the Occasional Prayers and Thanksgivings, may be used at the discretion of the Minister.
 
-> The Woman, at the usual time after her delivery, shall come into the Church decently apparelled, and there shall kneel down in some convenient place, as hath been accustomed, or as the Ordinary shall direct: And then the Minister shall say unto her,
+> ¶ The Woman, at the usual time after her delivery, shall come into the Church decently apparelled, and there shall kneel down in some convenient place, as hath been accustomed, or as the Ordinary shall direct: And then the Minister shall say unto her,
 
 FORASMUCH as it hath pleased Almighty God, of his goodness, to give you safe deliverance, and to preserve you in the great danger of Child-birth; you shall therefore give hearty thanks unto God, and say,
 
 ## The Psalm
 
-> Then shall the Minster say the following Hymn, taken from the 116th Psalm.
-<!-- VERIFY: source prints 'Minster'; likely 'Minister'; kept as printed; confirm against a page scan -->
+> ¶ Then shall be said by both of them the following Hymn, the woman still kneeling.
 
 Dilexi quoniam.
 
-I AM well pleased that the Lord hath heard the voice of my prayer;
+I AM well pleased that the LORD hath heard the voice of my prayer;
 
 That he hath inclined his ear unto me; therefore will I call upon him as long as I live.
 
-I found trouble and heaviness, and I called upon the Name of the Lord; O Lord, I beseech thee, deliver my soul.
+I found trouble and heaviness, and I called upon the Name of the LORD; O LORD, I beseech thee, deliver my soul.
 
-Gracious is the Lord, and righteous; yea, our God is merciful.
+Gracious is the LORD, and righteous; yea, our God is merciful.
 
-What reward shall I give unto the Lord, for all the benefits that he hath done unto me?
+What reward shall I give unto the LORD, for all the benefits that he hath done unto me?
 
-I will receive the cup of salvation, and call upon the Name of the Lord.
+I will receive the cup of salvation, and call upon the Name of the LORD.
 
-I will pay my vows now in the presence of all his people; in the courts of the Lord's house, even in the midst of thee, O Jerusalem.
-Praise the Lord.
+I will pay my vows now in the presence of all his people; in the courts of the LORD'S house, even in the midst of thee, O Jerusalem.
+Praise the LORD.
 
 Glory be to the Father, and to the Son, and to the Holy Ghost;
 
@@ -37,7 +36,8 @@ Amen.
 
 ## The Lord's Prayer
 
-> Then shall the Minister say the Lord's prayer, with what follows: but the Lord's Prayer may be omitted, if this be used with the Morning or Evening Prayer.
+> ¶ Then shall the Minister say the Lord's prayer, with what follows: but the Lord's Prayer may be omitted, if this be used with the Morning or Evening Prayer.
+<!-- VERIFY: 'sf' source (1892 PDF) prints 'sf this be used'; obvious OCR for 'if'; corrected; confirm against a page scan -->
 
 OUR Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -63,14 +63,13 @@ Amen.
 
 ## The Prayer
 
-**Minister.**
+**Minister.** Let us pray.
 
-> Let us pray.
-
-O ALMIGHTY God, we give thee humble thanks for that thou hast been graciously pleased to preserve, through the great pain and peril of Child-birth, this woman thy servant, who desires now to offer her praises and thanksgivings unto thee.
+O ALMIGHTY God, we give thee humble thanks forthat thou hast been graciously pleased to preserve, through the great pain and peril of Child-birth, this woman thy servant, who desires now to offer her praises and thanksgivings unto thee.
 Grant, we beseech thee, most merciful Father, that she, through thy help, may both faithfully live, and walk according to thy will, in this life present; and also may be partaker of everlasting glory in the life to come; through Jesus Christ our Lord.
 Amen.
 
 ## The Rubrics
 
-> The woman, that cometh to give her Thanks, must offer accustomed offerings, which shall be applied by the Minister and the Churchwardens to the relief of distressed women in child-bed; and if there be a Communion, it is convenient that she receive the Holy Communion.
+> ¶ The woman, that cometh to give her Thanks, must offer accustomed offerings, which shall be applied by the Minister and the Churchwardens to the relief of distressed women in child-bed; and if there be a Communion, it is convenient that she receive the Holy Communion.
+<!-- VERIFY: 'he applied' source (1892 PDF) prints 'which shall he applied by the Minister'; obvious OCR for 'be applied'; corrected; confirm against a page scan -->
