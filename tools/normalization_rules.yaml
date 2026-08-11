@@ -1,0 +1,155 @@
+# Normalization rules: ORIGINAL spelling -> NORMALIZED (modern) spelling.
+#
+# Philosophy (see CONTRIBUTING.md and the implementation brief §4):
+#   * Normalization is SPELLING ONLY. Never change vocabulary, word order, or
+#     meaning. "divers" -> "various" is a MEANING change and is forbidden;
+#     "shew" -> "show" is a spelling change and is allowed.
+#   * Rules are transparent, ordered, and version-controlled so that improving
+#     the normalization is itself a reviewable diff.
+#   * normalize.py is deterministic: same input + same rules => identical output.
+#
+# Processing order for each line (markdown markers like "#", ">", "**" are left
+# in place because the rules below are word-oriented):
+#   1. protect: words that must never be altered (matched case-insensitively).
+#   2. word_replacements: whole-word substitutions, applied case-aware
+#      (Have/HAVE/have follow the casing of the matched source word).
+#   3. regex_rules: ordered regular-expression substitutions for patterns that
+#      cannot be enumerated word-by-word.
+#
+# Long-s (ſ) and archaic ligatures are already normalized in texts/original/
+# per the brief §3, so they do not appear here.
+
+# ---------------------------------------------------------------------------
+# 1. Protected tokens — proper nouns and intentionally archaic liturgical terms
+#    that a naive rule might otherwise "fix". Case-insensitive whole-word match.
+# ---------------------------------------------------------------------------
+protect:
+  - Ghost          # "Holy Ghost" is retained, not modernized to "Spirit"
+  - thee
+  - thou
+  - thine
+  - thy
+  - ye             # keep the pronoun "ye" (you); the ARTICLE "ye"=the is handled
+                   # explicitly and conservatively in regex_rules below
+  - hath
+  - doth
+  - unto
+  - verily
+  - divers         # archaic for "several/various" — a MEANING word, never touched
+  - holpen
+  - wist
+  - twain
+
+# ---------------------------------------------------------------------------
+# 2. Whole-word spelling modernizations. Case-aware. Left = original spelling,
+#    right = modern spelling. SPELLING ONLY — every pair below is the same word.
+# ---------------------------------------------------------------------------
+word_replacements:
+  # u/v consonant-vowel swaps (the printer's u=v / v=u convention)
+  haue: have
+  giue: give
+  loue: love
+  liue: live
+  euer: ever
+  euery: every
+  ouer: over
+  neuer: never
+  seruant: servant
+  seruants: servants
+  heauen: heaven
+  heauenly: heavenly
+  saluation: salvation
+  euil: evil
+  deuil: devil
+  vpon: upon
+  vs: us
+  vnto: unto        # normalized target retained as archaic "unto" (protected)
+  vse: use
+  auoyde: avoid
+  preuent: prevent
+  gouernour: governor
+
+  # i/j and y/i spellings
+  ioy: joy
+  iudge: judge
+  iudgement: judgement
+  maiestie: majesty
+  reioyce: rejoice
+
+  # -ie / -y and other vowel spellings
+  onely: only
+  holie: holy
+  glorie: glory
+  mercie: mercy
+  mightie: mighty
+  almightie: almighty
+  worthie: worthy
+  bodie: body
+  daylie: daily
+  dayly: daily
+
+  # doubled / archaic consonant spellings
+  sinne: sin
+  sinnes: sins
+  synne: sin
+  synnes: sins
+  ghostlie: ghostly
+  publique: public
+  publike: public
+  catholike: catholic
+  faythe: faith
+  fayth: faith
+
+  # sh- spellings
+  shew: show
+  shewe: show
+  shewed: showed
+  sheweth: shows
+
+  # miscellaneous well-attested spelling variants
+  againe: again
+  agaynst: against
+  saye: say
+  sayd: said
+  sayde: said
+  spirite: spirit
+  worlde: world
+  worde: word
+  wordes: words
+  churche: church
+  peple: people
+  gospell: gospel
+  epistell: epistle
+  soule: soul
+  soules: souls
+  bloud: blood
+
+# ---------------------------------------------------------------------------
+# 3. Ordered regex rules for patterns not enumerable as single words.
+#    Each rule: {name, pattern, replacement, flags?}. flags is a string of
+#    single-letter Python re flags (i = IGNORECASE). Applied in listed order.
+# ---------------------------------------------------------------------------
+regex_rules:
+  # Ampersand -> "and" (spelling of the conjunction). Only a bare "&" token.
+  - name: ampersand
+    pattern: '(?<=\s)&(?=\s)'
+    replacement: 'and'
+
+  # Definite article written "ye" or "þe" (thorn) -> "the". Restricted to the
+  # article by requiring a following space + lowercase word; the PRONOUN "ye"
+  # is protected above and typically precedes a verb/capital, so this stays
+  # conservative. þe/þat thorn forms map to the/that.
+  - name: thorn-the
+    pattern: '\bþe\b'
+    replacement: 'the'
+  - name: thorn-that
+    pattern: '\bþat\b'
+    replacement: 'that'
+
+  # Trailing archaic doubled final consonant in a few safe endings, e.g.
+  # "-full" adjective suffix -> "-ful" (thankfull -> thankful). Conservative:
+  # only after a vowel+consonant stem, not touching "full" the standalone word.
+  - name: suffix-full
+    pattern: '([a-z]{2,})full\b'
+    replacement: '\1ful'
+    flags: 'i'

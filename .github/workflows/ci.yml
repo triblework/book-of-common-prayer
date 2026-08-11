@@ -1,0 +1,42 @@
+name: CI
+
+# Per-push checks on the PUBLISHED branches. Guarantees the invariants the whole
+# repo depends on:
+#   1. texts/normalized/ is exactly reproducible from texts/original/ via
+#      tools/normalize.py (the normalized tree is never hand-edited).
+#   2. Every text file already satisfies one-unit-per-line, i.e. running
+#      tools/sentence_split.py is a no-op (idempotent).
+#   3. Every inline `<!-- VERIFY -->` reading is documented in SOURCES.md
+#      (tools/verify_index.py, published context).
+#
+# NOTE: this file physically exists only in the PUBLISHED trees (main, scottish,
+# american), which the builder materializes from authoring/repo-root/. The
+# `authoring` orphan branch carries its own workflow (authoring-ci.yml) and a
+# manual full-history rebuild check (rebuild.yml).
+
+on:
+  push:
+    branches: [main, scottish, american]
+  pull_request:
+
+jobs:
+  verify-texts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: texts/normalized/ is reproducible from texts/original/
+        run: python tools/normalize.py --check
+
+      - name: every text file is one-unit-per-line (sentence_split is idempotent)
+        run: python tools/sentence_split.py --check texts
+
+      - name: inline VERIFY readings are documented in SOURCES.md
+        run: python tools/verify_index.py --check
