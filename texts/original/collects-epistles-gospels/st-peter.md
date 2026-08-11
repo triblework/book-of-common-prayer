@@ -1,4 +1,4 @@
-# Saint Peter's Day
+# Saint Peter the Apostle
 
 ## The Collect
 
