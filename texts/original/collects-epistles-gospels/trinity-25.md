@@ -1,0 +1,25 @@
+# The xxv Sondaye
+
+## The Introit
+
+Nisi Dominus.
+Psalm 127
+
+## The Collect
+
+STIERE
+
+up we beseche thee, O Lord, the wylles of thy faythfull people, that
+
+they, plenteously bringing furth the fruite of good workes; may of thee,
+
+be plenteously rewarded; through Jesus Christe our Lorde.
+Amen.
+
+## The Epistle
+
+Jeremiah 23
+
+## The Gospel
+
+John 6
