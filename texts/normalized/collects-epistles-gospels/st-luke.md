@@ -1,26 +1,16 @@
-# Sainct Luke evangelist
+# Saint Luke the Evangelist
 
 ## The Collect
 
-ALMIGHTY God.
+ALmighty God which calledst Sint Luke the Physician, whose praise is in the Gospel, to be a physician of the soul: grant we beseech thee, by the wholesome medicines of his doctrine, all the diseases of our souls may be healed, through thy Sonne Jesus Christ our Lord.
 Amen.
 
-whiche calledst Luke the phisicion, whose prayse is in the gospel,.
-Amen.
-
-to be a phisicion of the soul; it may please thee, by the holsome.
-Amen.
-
-medicines of his doctryne, to heale all the diseases of our souls;.
-Amen.
-
-through thy sonne Jesus Christe our Lorde.
-Amen.
+Oct. 18
 
 ## The Epistle
 
-2 Timothy 4
+2 Timothy 4:5
 
 ## The Gospel
 
-Luke 10
+Luke 10:1

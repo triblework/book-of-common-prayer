@@ -1,4 +1,4 @@
-# For fayre weather.
+# For faire Weather.
 
-O LORDE God, which for the sin of man diddest ones drowne al the world, excepte eyght persons, and afterward of thy great mercy diddest promise never to destroy it so again: we humblye beseche the, that althoughe we for our iniquities have worthely deserved this Plague of raigne and waters; yet upon oure true repentaunce, thou wilt sende us suche wether, wherby we may receyve the fruites of the yearth in due season, and learne bothe by thy punishment to amende our lives, and for thy clemency to geve thee prayse and glorye, throughe Jesus Christ our Lorde.
+O LORD GOD which for the sin of man didst once drown all the world, except eight persons, and afterward of thy great mercy didst promise never to destroy it so again : We humbly beseech thee, that although we for our iniquities have worthily deserved this plague of raine and waters, yet upon our true repentance, thou wilt send us such weather whereby we may receive the fruits of the earth in due season, and learn both by thy punishment to amend our lives, and for thy clemency to give thee praise and glory; through Jesus Christ our Lord.
 Amen.

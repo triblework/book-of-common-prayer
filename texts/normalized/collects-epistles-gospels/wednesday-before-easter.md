@@ -2,8 +2,8 @@
 
 ## The Epistle
 
-Hebrews 9
+Hebrews 9:16
 
 ## The Gospel
 
-Luke 22
+Luke 22:1

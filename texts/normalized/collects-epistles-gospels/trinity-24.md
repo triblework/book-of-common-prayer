@@ -1,26 +1,14 @@
-# The xxiiii Sondaye
+# The xxiiij. Sunday after Trinity
 
 ## The Collect
 
-LORD we beseche.
-Amen.
-
-thee, assoyle thy people from their.
-Amen.
-
-offences, that through thy bountiful goodnes we maye bee delyvered from.
-Amen.
-
-the handes of all those sins, whiche by our frayltye we have committed.
-Amen.
-
-: Graunt this, &c.
-Amen.
+LORD wee beseech thee, assoile thy people from their offences, that through thy bountiful goodnesse wee may be delivered from the bonds of all those sins, which by our frailty we have committed.
+Grant this, &c.
 
 ## The Epistle
 
-Colossians 1
+Colossians 1:3
 
 ## The Gospel
 
-Matthew 9
+Matthew 9:18
