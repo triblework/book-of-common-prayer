@@ -1,15 +1,13 @@
-# The First Sunday after Christmas Day
+# First Sunday after Christmas Day
+
+<!-- VERIFY: 'First Sunday after Christmas Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-ALMIGHTY God, who hast given us thy only-begotten Son to take our nature upon him, and as at this time to be born of a pure virgin: Grant that we being regenerate, and made thy children by adoption and grace.
-may daily be renewed by thy Holy Spirit; through the same our Lord Jesus Christ, who liveth and reigneth with thee and the same Spirit ever, one God, world without end.
+Almighty God, who hast poured upon us the new light of thine incarnate Word: Grant that the same light, enkindled in our hearts, may shine forth in our lives; through the same Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Galatians 4:1
-
-## The Gospel
-
-Matthew 1:18
+Almighty God, you have poured upon us the new light of your incarnate Word: Grant that this light, enkindled in our hearts, may shine forth in our lives; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.
+Amen.
