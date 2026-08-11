@@ -165,15 +165,13 @@ records:
 
   - edition: 1928
     service: daily-office/morning-prayer
-    source_url: null
-    retrieved: null
-    cross_check:
-      - "justus 1928 offered only as image/OCR PDF — not usable for faithful text this pass"
-      - "spec §4.1: justus /1928/MP.htm (Satucket clean HTML) closes this gap in a later wave"
-    status: inherited-unreviewed
-    depth: gap
+    source_url: http://justus.anglican.org/resources/bcp/1928/MP.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
     verifier: bcp-authoring
-    note: "GAP: carries the 1892 Daily Office forward unchanged with an inline <!-- SCOPE (1928) --> note. The 1928-specific text is a documented TODO (spec §4.1 identifies a clean source: justus /1928/MP.htm)."
+    note: "GAP CLOSED (spec §4.1): full Tier-1 office from the justus 1928 Satucket clean HTML. 1928 distinctives: revised opening sentences, seasonal Venite invitatories, the new Benedictus es Domine canticle, the Benedicite with its restored final 'Let us bless the Father' verse, and an alternative Prayer for the President. The Nicene Creed 'Or this' alternative is deferred to the verify pass (Apostles' Creed shown as the office creed)."
     verify_items: []
 
   - edition: 1979
