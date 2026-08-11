@@ -1,25 +1,16 @@
-# The v. Sonday[after the
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The v. Sonday[after the' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Fifth Sunday after the Epiphany
 
 ## The Collect
 
-LORD, we beseche.
-Amen.
-
-thee to kepe thy Churche and housholde continually in thy true religion;.
-Amen.
-
-that they whiche do leane onlye upon hope of thy heavenly grace may.
-Amen.
-
-evermore bee defended by thy mightie power; through Christ our lorde.
+O Lord, we beseech thee to keep thy Church and household continually in thy true religion; that they who do lean only upon the hope of thy heavenly grace may evermore be defended by thy mighty power; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Colossians 3
+Colossians 3:12
 
 ## The Gospel
 
-Matthew 13
+Matthew 13:24

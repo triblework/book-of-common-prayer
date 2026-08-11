@@ -1,22 +1,16 @@
-# The eight Sonday[ after
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The eight Sonday[ after' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Eighth Sunday after Trinity
 
 ## The Collect
 
-GOD, whose providence is never deceived, we humbly beseche thee that thou.
-Amen.
-
-wilt put away from us al hurtfull thinges, and geve us those thinges.
-Amen.
-
-whiche be profitable for us; through Jesus Christe our Lorde.
+O God, whose never-failing providence ordereth all things both in heaven and earth; We humbly beseech thee to put away from us all hurtful things, and to give us those things which be profitable for us; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Romans 8
+Romans 8:12
 
 ## The Gospel
 
-Matthew 7
+Matthew 7:15

@@ -1,75 +1,111 @@
-# The Thankesgevinge of Women after Childe Byrthe, communelye called the Churchynge of Women.
+# The Thanksgiving of Women after Child-birth, commonly called The Churching of Women.
 
 ## The Introduction
 
-> The woman shall come into the churche, and there shall knele downe in some convenient place, nyghe unto the place where the table standeth, and the priest standing by her, shal saie these wordes, or suche lyke, as the case that require.
-> <!-- VERIFY: source prints 'as the case that require'; likely 'as the case shal require'; kept as printed; confirm against a page scan -->
+> The Woman, at the usual time after her delivery, shall come into the Church decently apparelled, and there shall kneel down in some convenient place, as hath been accustomed, or as the Ordinary shall direct: And then the Priest shall say unto her,
 
-FORASMUCHE as it hath pleased almyghtye God of hys goodnes to geve you safe delyveraunce, and hath preserved you in the great daunger of childbyrth: ye shal therfore geve heartye thankes unto God and praye.
+Forasmuch as it hath pleased Almighty God of his goodness to give you safe deliverance, and hath preserved you in the great danger of child-birth: You shall therefore give hearty thanks unto God, and say,
 
 ## The Psalm
 
-> Then shall the priest saye this Psalme.
+> Then shall the Priest say the 116th Psalm.
 
-I HAVE lyfte up myne eyes unto the hylles, from whence commeth my helpe.
+Dilexi quoniam
 
-My helpe commeth even from the Lord : whych hath made heaven and earth.
+I am well pleased : that the Lord hath heard the voice of my prayer;
 
-He wyll not suffre thy foote to be moved : and he that kepeth the, wil not slepe.
+That he hath inclined his ear unto me : therefore will I call upon him as long as I live.
 
-Beholde, he that kepeth Israell : shall neyther slomber nor slepe.
+The snares of death compassed me round about : and the pains of hell gat hold upon me.
 
-The Lorde hym selfe is thy keper : the Lorde is thy defence upon thy ryght hande.
+I found trouble and heaviness, and I called upon the name of the Lord : O Lord, I beseech thee, deliver my soul.
 
-So that the sonne shall not burne the by daye, neither the moone by night.
+Gracious is the Lord, and righteous : yea, our God is merciful.
 
-The Lorde shal preserve the from al evil : yea, it is even he that shal kepe thy soule.
+The Lord preserveth the simple : I was in misery, and he helped me.
 
-The Lorde shal preserve thy goinge out, and thy commynge in : from thys tyme forth for evermore.
+Turn again then unto thy rest, O my soul : for the Lord hath rewarded thee.
 
-Glory be to the Father, and to the Sonne &c.
+And why?
+thou hast delivered my soul from death : mine eyes from tears, and my feet from falling.
 
-As it was in the beginynge, is now &c.
+I will walk before the Lord : in the land of the living.
+
+I believed, and therefore will I speak; but I was sore troubled : I said in my haste, All men are liars.
+
+What reward shall I give unto the Lord : for all the benefits that he hath done unto me?
+
+I will receive the cup of salvation : and call upon the name of the Lord.
+
+I will pay my vows now in the presence of all his people : in the courts of the Lord's house, even in the midst of thee, O Jerusalem.
+Praise the Lord.
+
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+
+As it was in the beginning, is now, and ever shall be : world without end.
+Amen.
+
+> Or Psalm 127.
+
+Nisi Dominus
+
+Except the Lord build the house : their labour is but lost that build it.
+
+Except the Lord keep the city : the watchman waketh but in vain.
+
+It is but lost labour that ye haste to rise up early, and so late take rest, and eat the bread of carefulness : for so he giveth his beloved sleep.
+
+Lo, children and the fruit of the womb : are an heritage and gift that cometh of the Lord.
+
+Like as the arrows in the hand of the giant : even so are the young children.
+
+Happy is the man that hath his quiver full of them : they shall not be ashamed when they speak with their enemies in the gate.
+
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+
+As it was in the beginning, is now, and ever shall be : world without end.
+Amen.
 
 ## The Lord's Prayer
 
-Lorde have mercye upon us.
+> Then shall the Priest say,
 
-Christe have mercye upon us.
+Let us pray.
 
-Lorde have mercye upon us.
+Lord, have mercy upon us.
 
-OUR FATHER WHICHE ARTE &c.
+Christ, have mercy upon us.
 
-And leade us not into temptacion.
+Lord, have mercy upon us.
 
-**Aunswere.** But deliver us from evil.
+Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
+For thine is the kingdom, the power, and the glory, For ever and ever.
 Amen.
 
 ## The Suffrages
 
-**Minister.** O Lorde save this woman thy servaunt.
+**Minister.** O Lord, save this woman thy servant;
 
-**Aunswere.** Whiche putteth her trust in the.
+**Answer.** Who putteth her trust in thee.
 
-**Minister.** Be thou to her a strong Towre.
+**Minister.** Be thou to her a strong tower;
 
-**Aunswere.** From the face of her enemy.
+**Answer.** From the face of her enemy.
 
-**Minister.** Lorde heare our praier.
+**Minister.** Lord, hear our prayer.
 
-**Aunswere.** And let our crie come unto the.
+**Answer.** And let our cry come unto thee.
 
 ## The Prayer
 
 **Minister.**
 
-> Let us praie.
+> Let us pray.
 
-O ALMIGHTY God, which hast delivered this woman thy servaunte from the great paine and peril of childe birthe: Graunt we beseche the most mercifull Father, that she through thy help may bothe faithfully live, and walke in her vocation, accordyng to thy wil, in this lyfe present, and also may be partaker of everlastyng glory in the lyfe to come, throughe Jesus Christ our Lorde.
+O Almighty God, we give thee humble thanks for that thou hast vouchsafed to deliver this woman thy servant from the great pain and peril of child-birth: Grant, we beseech thee, most merciful Father, that she through thy help may both faithfully live and walk according to thy will, in this life present; and also may be partaker of everlasting glory in the life to come; through Jesus Christ our Lord.
 Amen.
 
 ## The Rubrics
 
-> The woman that commeth to gine her thanckes, muste offer accustomed offerynges, and if there be a Communion, it is convenient that she receive the holy Communion.
-> <!-- VERIFY: source prints 'gine her thanckes'; likely 'geve/give her thankes'; kept as printed; confirm against a page scan -->
+> The Woman, that cometh to give her thanks, must offer accustomed offerings; and, if there be a Communion, it is convenient that she receive the holy Communion.

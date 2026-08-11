@@ -1,31 +1,18 @@
-# Whit-Sunday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Whitsunday
 
 ## The Collect
 
-GOD, whiche as upon this daye haste.
-Amen.
-
-taughte the heartes of thy faithful people, by the sending to them the.
-Amen.
-
-lyght of thy holy spirite; graunte us by the same spirite to have a. Amen.
-
-right judgement in al thinges, and evermore to rejoyce in hys holy coumforte;.
-Amen.
-
-through the merites of Christ Jesus our saviour; who liveth and reigneth.
-Amen.
-
-with thee, in the unitie of the same spirite, one God, worlde without.
-Amen.
-
-ende.
+God, who as at this time didst teach the hearts of thy faithful people, by the sending to them the light of thy Holy Spirit; Grant us by the same Spirit to have a right judgement in all things, and evermore to rejoice in his holy comfort; through the merits of Christ Jesus our Saviour, who liveth and reigneth with thee, in the unity of the same Spirit, one God, world without end.
 Amen.
 
 ## The Epistle
 
-Acts 2
+> For the Epistle.
+
+Acts 2:1
 
 ## The Gospel
 
-John 14
+John 14:15

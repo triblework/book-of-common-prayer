@@ -1,24 +1,16 @@
-# The thirde Soondaye after the Epiphany
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The thirde Soondaye after the Epiphany' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Third Sunday after the Epiphany
 
 ## The Collect
 
-ALMYGHTYE and.
-Amen.
-
-everlastyng God, mercifullye looke upon oure infirmities, and in al. Amen.
-
-our daungiers and necessities, stretche foorth thy ryghte hande to helpe.
-Amen.
-
-and defende us; through Christ our Lorde.
+Almighty and everlasting God, mercifully look upon our infirmities, and in all our dangers and necessities stretch forth thy right hand to help and defend us; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Romans 12
+Romans 12:16
 
 ## The Gospel
 
-Matthew 8
+Matthew 8:1

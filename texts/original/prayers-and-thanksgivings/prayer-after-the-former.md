@@ -1,23 +1,4 @@
-# [A Prayer that may be said after any of the former]
+# A Prayer that may be said after any of the former.
 
-<!-- VERIFY: 'untitled' — the source prints this prayer with no title; the bracketed heading is editorial -->
-
-O GOD, whose nature and propertie is ever to have mercy,
-
-and to forgeve, receyve our humble peticions: and
-
-thoughe we be tyed and bounde with
-
-the chayne of our synnes, yet let
-
-the pitifulnes of thy great mercy
-
-lose us, for the honoure of
-
-Jesus Christes sake,
-
-our mediatoure
-
-and advocate.
-
+O God, whose nature and property is ever to have mercy and to forgive, receive our humble petitions; and though we be tied and bound with the chain of our sins, yet let the pitifulness of thy great mercy loose us; for the honour of Jesus Christ, our Mediator and Advocate.
 Amen.

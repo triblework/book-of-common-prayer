@@ -1,23 +1,16 @@
-# The xv Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Fifteenth Sunday after Trinity
 
 ## The Collect
 
-KEPE we beseche thee, O Lorde, thy Church with thy perpetuall mercye: and.
-Amen.
-
-because the frailtie of man without thee, cannot but fall: Kepe us ever.
-Amen.
-
-by thy helpe, and leade us to al thynges profitable to our salvacion;.
-Amen.
-
-through Jesus Christe our Lorde.
+Keep, we beseech thee, O Lord, thy Church with thy perpetual mercy; and, because the frailty of man without thee cannot but fall, keep us ever by thy help from all things hurtful, and lead us to all things profitable to our salvation; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Galatians 6
+Galatians 6:11
 
 ## The Gospel
 
-Matthew 6
+Matthew 6:24

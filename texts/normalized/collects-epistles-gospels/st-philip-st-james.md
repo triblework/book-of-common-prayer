@@ -1,26 +1,18 @@
-# Sainct Philip and James
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Philip and Saint James's Day
 
 ## The Collect
 
-ALMIGHTY.
+O Almighty God, whom truly to know is everlasting life: Grant us perfectly to know thy Son Jesus Christ to be the way, the truth, and the life; that, following the steps of thy holy Apostles, Saint Philip and Saint James, we may stedfastly walk in the way that leadeth to eternal life; through the same thy Son Jesus Christ our Lord.
 Amen.
 
-God, whome truely to knowe is everlasting lyfe; Graunt us perfectely.
-Amen.
-
-to knowe thy sonne Jesus Christe to bee the way, the trueth, and the.
-Amen.
-
-lyfe, as thou hast taught sainct Philip and other the Apostles; Through.
-Amen.
-
-Jesus Christ our Lorde.
-Amen.
+> May 1.
 
 ## The Epistle
 
-James 1
+James 1:1
 
 ## The Gospel
 
-John 14
+John 14:1

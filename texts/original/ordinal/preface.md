@@ -1,9 +1,11 @@
 # The Preface.
 
-It is evident unto all men, diligently readinge holye scripture, and auncient aucthours, that from the Apostles tyme, there hathe bene these orders of Ministers in Christes church, Bisshoppes, Priestes, and Deacons, which Offices were evermore had in suche reverent estimacion, that no man by his own private aucthoritie, might presume to execute any of them, except he were first called, tried, examined, and knowen, to have such equalities, as were requisite for the same.
-And also by publique prayer, with imposicion of handes, approved, and admitted thereunto.
-And therfore to the entent these orders shoulde bee continued, and reverentlye used, and estemed in this Church of England, it is requysite, that no man (not beynge at thys presente Bisshop, Priest, nor Deacon) shall execute anye of them, excepte he be called, tryed, examined, and admitted, accordynge to the forme hereafter folowinge.
-And none shalbe admitted a Deacon, except he be xxi yeres of age at the least.
-And every man, which is to be admitted a Priest, shalbe full xxiiii yeres olde.
-And every man, which is to be consecrated a Bishop, shalbe fully thyrtie yeres of age.
-And the Bisshop knowinge, eyther by hymself, or by sufficient testimonye, any person to be a man of vertuous conversacion, and wythoute cryme, and after examinacion and triall, fyndynge hym learned in the Latyne tongue, and sufficientlye instructed in holye Scripture, maye upon a Sondaye or Holyday, in the face of the church, admitte hym a Deacon in suche maner and fourme, as hereafter foloweth.
+It is evident unto all men diligently reading holy Scripture and ancient Authors, that from the Apostles' time there have been these Orders of Ministers in Christ's Church; Bishops, Priests, and Deacons.
+Which offices were evermore had in such reverend estimation, that no man might presume to execute any of them, except he were first called, tried, examined, and known to have such qualities as are requisite for the same; and also by publick Prayer, with Imposition of Hands, were approved and admitted thereunto by lawful authority.
+And therefore, to the intent that these Orders may be continued, and reverently used and esteemed, in the Church of England; No man shall be accounted or taken to be a lawful Bishop, Priest, or Deacon in the Church of England, or suffered to execute any of the said functions, except he be called, tried, examined, and admitted thereunto, according to the Form hereafter following, or hath had formerly Episcopal Consecration or Ordination.
+
+And none shall be admitted a Deacon, except he be full twenty-three years of age unless he have a Faculty.
+And every man which is to be admitted a Priest shall be full twenty-four years of age, unless being over twenty-three years of age he have a Faculty.
+And every man which is to be ordained or consecrated Bishop shall be full thirty years of age.
+
+And the Bishop, knowing either by himself or by sufficient testimony any person to be a person of virtuous conversation and without crime, and after examination and trial finding him to possess the qualifications required by law and sufficiently instructed in holy Scripture may on the Sundays immediately following the Ember Weeks or on the Feast of Saint Michael and All Angels or of Saint Thomas the Apostle, or on such other days as shall be provided by Canon, in the face of the Church, admit him a Deacon in such manner and form as hereafter followeth.

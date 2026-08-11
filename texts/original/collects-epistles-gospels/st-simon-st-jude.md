@@ -1,24 +1,13 @@
-# Symon and Jude Apostles
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Simon and Saint Jude, Apostles
 
 ## The Collect
 
-ALMIGHTIE God,.
+O Almighty God, who hast built thy Church upon the foundation of the Apostles and Prophets, Jesus Christ himself being the head corner-stone: Grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple acceptable unto thee; through Jesus Christ our Lord.
 Amen.
 
-whiche hast builded the congregacion upon the foundacion of the Apostles.
-Amen.
-
-and prophetes, Jesu Christ himselfe beyng the head corner-stone; graunte.
-Amen.
-
-us so to bee joyned together in unitie of spirite by their doctrine,.
-Amen.
-
-that we maye be made an holye temple acceptable to thee; throughe Jesu.
-Amen.
-
-Christe our Lorde.
-Amen.
+> October 28.
 
 ## The Epistle
 
@@ -26,4 +15,4 @@ Jude 1
 
 ## The Gospel
 
-John 15
+John 15:17

@@ -1,26 +1,20 @@
-# Saynte Michaell and all Angels
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Michael and All Angels
 
 ## The Collect
 
-EVERLASTYNG.
+O everlasting God, who hast ordained and constituted the services of Angels and men in a wonderful order: Mercifully grant that, as thy holy Angels alway do thee service in heaven, so by thy appointment they may succour and defend us on earth; through Jesus Christ our Lord.
 Amen.
 
-God, which haste ordayned and constituted the services of all Angels.
-Amen.
-
-and men in a wonderfull ordre: mercifully graunt, that they whiche alwaye.
-Amen.
-
-doe thee service in heaven, may by thy appoyntment succour and defende.
-Amen.
-
-us in earth: through Jesus Christe our Lorde, &c.
-Amen.
+> September 29.
 
 ## The Epistle
 
-Revelation 12
+> For the Epistle.
+
+Revelation 12:7
 
 ## The Gospel
 
-Matthew 18
+Matthew 18:1

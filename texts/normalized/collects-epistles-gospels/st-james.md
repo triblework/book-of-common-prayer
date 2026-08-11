@@ -1,30 +1,20 @@
-# Sainct James the Apostle
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint James the Apostle
 
 ## The Collect
 
-GRAUNT, O merciful.
+Grant, O merciful God, that as thine holy Apostle Saint James, leaving his father and all that he had, without delay was obedient unto the calling of thy Son Jesus Christ, and followed him; so we, forsaking all worldly and carnal affections, may be evermore ready to follow thy holy commandments; through Jesus Christ our Lord.
 Amen.
 
-God, that as thyne holy apostle Saint* James, leavyng his father and.
-Amen.
-
-all that he had, without delay was obedient unto the calling of thy.
-Amen.
-
-sonne Jesus Christ, and folowed hym; So we, forsakyng all worldly and.
-Amen.
-
-carnal affeccions, may be evermore ready to folowe thy commaundementes;.
-Amen.
-
-thorough Jesus Christ our lorde.
-Amen.*.
-Amen.
+> July 25.
 
 ## The Epistle
 
-Acts 11 and 12
+> For the Epistle.
+
+Acts 11:27
 
 ## The Gospel
 
-Matthew 20
+Matthew 20:20

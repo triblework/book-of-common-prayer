@@ -1,23 +1,20 @@
-# The Annunciacion of the virgin Marie
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Annunciation of the Blessed Virgin Mary
 
 ## The Collect
 
-WE beseche thee, Lorde, powre thy grace into our heartes; that, as we have.
+We beseech thee, O Lord, pour thy grace into our hearts; that, as we have known the incarnation of thy Son Jesus Christ by the message of an angel, so by his cross and passion we may be brought unto the glory of his resurrection; through the same Jesus Christ our Lord.
 Amen.
 
-knowen Christ, thy sonnes incarnacion, by the message of an Angell;.
-Amen.
-
-so by hys crosse and passion, we maye be brought unto the glory of his.
-Amen.
-
-resurreccion; Through the same Christe our Lorde.
-Amen.
+> March 25.
 
 ## The Epistle
 
-Isaiah 7
+> For the Epistle.
+
+Isaiah 7:10
 
 ## The Gospel
 
-Luke 1
+Luke 1:26

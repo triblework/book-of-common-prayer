@@ -1,29 +1,16 @@
-# The first Sonday in Lent
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The First Sunday in Lent
 
 ## The Collect
 
-O LORD, whiche.
-Amen.
-
-for oure sake dyddeste faste fortye dayes and fourtie nightes; Geve.
-Amen.
-
-us grace to use suche abstinence, that, oure fleshe beyng subdued to.
-Amen.
-
-the spirite, wee maye ever obeye thy Godlye mocions in righteousnesse,.
-Amen.
-
-and true holinesse, to thy honoure and glorye, whiche lyveste and reigneste,.
-Amen.
-
-&c.*.
+O Lord, who for our sake didst fast forty days and forty nights: Give us grace to use such abstinence, that, our flesh being subdued to the Spirit, we may ever obey thy godly motions in righteousness and true holiness, to thy honour and glory, who livest and reignest with the Father and the Holy Ghost, one God, world without end.
 Amen.
 
 ## The Epistle
 
-2 Corinthians 6
+2 Corinthians 6:1
 
 ## The Gospel
 
-Matthew 4
+Matthew 4:1

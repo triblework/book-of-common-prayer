@@ -1,32 +1,20 @@
-# Saint John Baptist
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint John Baptist's Day
 
 ## The Collect
 
-ALMIGHTIE.
+Almighty God, by whose providence thy servant John Baptist was wonderfully born, and sent to prepare the way of thy Son our Saviour, by preaching of repentance: Make us so to follow his doctrine and holy life, that we may truly repent according to his preaching; and after his example constantly speak the truth, boldly rebuke vice, and patiently suffer for the truth's sake; through Jesus Christ our Lord.
 Amen.
 
-God, by whose providence thy servaunte John Baptiste was wonderfully.
-Amen.
-
-borne, and sente to prepare the way of thy sonne our saviour, by preaching.
-Amen.
-
-of penaunce; make us so to folowe his doctrine and holy lyfe, that we.
-Amen.
-
-may truely repent accordyng to his preachyng; and after his example.
-Amen.
-
-constantly speake the trueth, boldly rebuke vice, and paciently suffre.
-Amen.
-
-for the truethes sake; through Jesus Christ our Lorde.
-Amen.
+> June 24.
 
 ## The Epistle
 
-Isaiah 40
+> For the Epistle.
+
+Isaiah 40:1
 
 ## The Gospel
 
-Luke 1
+Luke 1:57

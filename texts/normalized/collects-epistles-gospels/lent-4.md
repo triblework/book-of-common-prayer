@@ -1,25 +1,16 @@
-# The iiii Sonday in Lent
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The iiii Sonday in Lent' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Fourth Sunday in Lent
 
 ## The Collect
 
-GRAUNTE, we beseche.
-Amen.
-
-thee, almyghtye God, that we, whiche for oure evill dedes are worthely.
-Amen.
-
-punyshed, by the comforte of thy grace may mercyfully be releved; through.
-Amen.
-
-our Lorde Jesus Christe.
+Grant, we beseech thee, Almighty God, that we, who for our evil deeds do worthily deserve to be punished, by the comfort of thy grace may mercifully be relieved; through our Lord and Saviour Jesus Christ.
 Amen.
 
 ## The Epistle
 
-Galatians 4
+Galatians 4:21
 
 ## The Gospel
 
-John 6
+John 6:1
