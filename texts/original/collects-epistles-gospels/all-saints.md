@@ -1,29 +1,20 @@
-# All Saynctes
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# All Saints' Day
 
 ## The Collect
 
-ALMIGHTIE God,.
+O Almighty God, who hast knit together thine elect in one communion and fellowship, in the mystical body of thy Son Christ our Lord: Grant us grace so to follow thy blessed Saints in all virtuous and godly living, that we may come to those unspeakable joys, which thou hast prepared for them that unfeignedly love thee; through Jesus Christ our Lord.
 Amen.
 
-whiche haste knitte together thy electe in one Communion and felowship,.
-Amen.
-
-in the misticall body of thy sonne Christe our Lord; graunt us grace.
-Amen.
-
-so to folow thy holy Saynctes in all virtues*, and godly livyng, that.
-Amen.
-
-we maye come to those inspeakeable joyes, whiche thou hast prepared.
-Amen.
-
-for all them that unfaynedly love thee; through Jesus Christe.
-Amen.
+> November 1.
 
 ## The Epistle
 
-Revelation 7
+> For the Epistle.
+
+Revelation 7:2
 
 ## The Gospel
 
-Matthew 5
+Matthew 5:1

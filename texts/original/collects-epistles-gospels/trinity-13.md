@@ -1,26 +1,16 @@
-# The xiii Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Thirteenth Sunday after Trinity
 
 ## The Collect
 
-ALMYGHTIE.
-Amen.
-
-and mercyfull God, of whose onely gifte it cometh that thy faythfull.
-Amen.
-
-people doe unto thee true and laudable service; graunte we beseche thee,.
-Amen.
-
-that we may so runne to thy heavenly promises, that we faile not finally.
-Amen.
-
-to attayne the same; through Jesus Christe our Lorde.
+Almighty and merciful God, of whose only gift it cometh that thy faithful people do unto thee true and laudable service: Grant, we beseech thee, that we may so faithfully serve thee in this life, that we fail not finally to attain thy heavenly promises; through the merits of Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Galatians 3
+Galatians 3:16
 
 ## The Gospel
 
-Luke 10
+Luke 10:23
