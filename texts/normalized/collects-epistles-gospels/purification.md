@@ -1,26 +1,20 @@
-# The Purificacion of Saint Mary the Virgin
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Purification of Saint Mary the Virgin
 
 ## The Collect
 
-ALMYGHTYE and.
+Almighty and everliving God, we humbly beseech thy Majesty, that, as thy only-begotten Son was this day presented in the temple in substance of our flesh, so we may be presented unto thee with pure and clean hearts, by the same thy Son Jesus Christ our Lord.
 Amen.
 
-everlastyng God, we humbly beseche thy Majestie, that as thy onelye.
-Amen.
-
-begotten sonne was this day presented in the Temple in the substaunce.
-Amen.
-
-of our fleshe; so graunte that we maie bee presented unto thee with.
-Amen.
-
-pure and cleare myndes; By Jesus Christ our Lorde.
-Amen.
+> February 2.
 
 ## The Epistle
 
-> The same that is appoynted for the Sondaye.
+> For the Epistle.
+
+Malachi 3:1
 
 ## The Gospel
 
-Luke 2
+Luke 2:22

@@ -1,23 +1,16 @@
-# The ix Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Ninth Sunday after Trinity
 
 ## The Collect
 
-GRAUNT to us Lorde.
-Amen.
-
-we beseche thee, the spirite to thinke and doe alwayes suche thynges.
-Amen.
-
-as be rightfull; that we, which cannot be without thee, may by thee.
-Amen.
-
-be able to live accordyng to thy wyll; Through Jesus Christe our Lorde.
+Grant to us, Lord, we beseech thee, the spirit to think and do always such things as be rightful; that we, who cannot do any thing that is good without thee, may by thee be enabled to live according to thy will; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-1 Corinthians 10
+1 Corinthians 10:1
 
 ## The Gospel
 
-Luke 16
+Luke 16:1

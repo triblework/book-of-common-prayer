@@ -1,0 +1,5 @@
+# A Prayer for the High Court of Parliament, to be read during their session.
+
+Most gracious God, we humbly beseech thee, as for this Kingdom in general, so especially for the High Court of Parliament, under our most religious and gracious King at this time assembled: That thou wouldest be pleased to direct and prosper all their consultations to the advancement of thy glory, the good of thy Church, the safety, honour, and welfare of our Sovereign and his Dominions; that all things may be so ordered and settled by their endeavours, upon the best and surest foundations, that peace and happiness, truth and justice, religion and piety, may be established among us for all generations.
+These and all other necessaries, for them, for us, and thy whole Church, we humbly beg in the Name and Mediation of Jesus Christ our most blessed Lord and Saviour.
+Amen.

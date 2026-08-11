@@ -1,329 +1,330 @@
-# The Fourme and Maner of Orderinge of Deacons.
+# The Form and Manner of Making of Deacons
 
 ## The Presentation
 
-> Fyrst, when the daye appoynted by the Bisshoppe is come, there shalbe an exhortacion, declaring the duetie and office, of suche as come to be admitted Ministers, howe necessarie suche Orders are in the Churche of Christe, and also howe the people oughte to esteme them in theyr vocacion.
+> When the day appointed by the Bishop is come; after Morning Prayer is ended, there shall be a Sermon or Exhortation, declaring the duty and office of such as come to be admitted Deacons; how necessary that Order is in the Church of Christ; and also how the people ought to esteem them in their office.
 
-> After the exhortacion ended, the Archedeacon, or his deputie, shal present such as come the Bisshop to be admitted, saying these wordes.
+> First, the Archdeacon, or his Deputy, or such other persons as by ancient custom have the right so to do, shall present unto the Bishop (sitting in his chair near to the holy Table) such as desire to be ordained Deacons (each of them being decently habited,) saying these words.
 
-Reverende Father in God, I presente unto you, these persones presente, to bee admitted Deacons.
+Reverend Father in God, I present unto you these persons present, to be admitted Deacons.
 
-**The Bisshoppe.** Take hede that the persones whom ye presente unto us, be apte and mete, for theyr learninge and godlye conversacion, to exercyse theyr ministerye duely, to the honoure of God, and edifyinge of hys Church.
+**The Bishop.** Take heed that the persons, whom ye present unto us, be apt and meet, for their learning and godly conversation, to exercise their ministry duly, to the honour of God, and the edifying of his Church.
 
-> The Archedeacon shall aunswere.
+> The Archdeacon shall answer,
 
-I have enquyred of them, and also examined them, and thynke them so to be.
+I have enquired of them, and also examined them; and think them so to be.
 
-> And then the Bisshop shal saye unto the people.
+> Then the Bishop shall say unto the people:
 
-Brethren, yf there bee anye of you, who knoweth anye impediment, or notable crime, in any of these persones presented to bee ordered Deacons, for the whych he oughte not to bee admitted to the same, lette hym come foorthe in the name of God, and shewe what the cryme, or impediment is.
+Brethren, if there be any of you who knoweth any impediment or notable crime in any of these persons presented to be ordered Deacons, for the which he ought not to be admitted to that office; Let him come forth in the Name of God, and shew what the crime or impediment is.
 
-> And yf any great cryme, or impediment be objected, the Bisshoppe shal surcease, from ordering that person, untyl suche tyme as the partie accused, shal trye himself clere of that cryme.
+> And if any great crime or impediment be objected, the Bishop shall surcease from ordering that person, until such time as the party accused shall be found clear of that crime.
 
-> Then the Bisshop, commending suche as shalbe found mete to be ordered to the prayers of the congregacion, wyth the Clerkes, and people present, shalt saye or synge the Letany as foloweth wyth the prayers.
+> Then the Bishop (commending such as shall be found meet to be ordered to the prayers of the Congregation) shall, with the Clergy and people present, sing or say the Litany, with the Prayers, as followeth.
 
 ## The Litany
 
-> The Letanie and Suffrages.
+> The Litany and Suffrages
 
-O God the father of heaven : have mercye upon us myserable synners.
+O God the Father of heaven : have mercy upon us miserable sinners.
 
-O God the sonne, redemer of the world : have mercye upon us myserable synners.
+O God the Son, Redeemer of the world : have mercy upon us miserable sinners.
 
-O God the holy Ghost, proceding from the father and the sonne : have mercye upon us myserable synners.
+O God the Holy Ghost, proceeding from the Father and the Son : have mercy upon us miserable sinners.
 
-O holy, blessed, and glorious Trinitie, thre persons and one God : have mercie upon us miserable synners.
+O holy, blessed, and glorious Trinity, three Persons and one God : have mercy upon us miserable sinners.
 
-Remembre not Lorde our offences, nor the offences of oure forefathers, neyther take thou vengeaunce of oure synnes: spare us good Lorde, spare thy people, whom thou hast redemed with thy most precious bloud, and be not angry wyth us for ever.
+Remember not, Lord, our offences, nor the offences of our forefathers; neither take thou vengeance of our sins : spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and be not angry with us for ever.
 
-Spare us good Lorde.
+Spare us, good Lord.
 
-From all evyll and mischiefe, from synne, from the craftes and assaultes of the devyll, from thy wrath, and from everlasting damnacion.
+From all evil and mischief; from sin, from the crafts and assaults of the devil; from thy wrath, and from everlasting damnation,
 
-Good Lorde deliver us.
+Good Lord, deliver us.
 
-From al blyndnes of hearte, from pryde, vayneglory, and hypocrisie, from envie, hatred, and malice, and all uncharitablenes.
+From all blindness of heart; from pride, vain-glory, and hypocrisy; from envy, hatred, and malice, and all uncharitableness,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-From fornicacion, and all other deadlye synne, and from all the deceyptes of the worlde, the fleshe, and the devyll.
+From fornication, and all other deadly sin; and from all the deceits of the world, the flesh, and the devil,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-From lighteninges and tempestes, from plague, pestilence, and famine, from battayle and murther, and from sodeyne death.
+From lightning and tempest; from plague, pestilence, and famine; from battle and murder, and from sudden death,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-From all sedicion and privey conspiracye, frome all false doctrine and heresy, from hardnes of herte, and contempte of thy worde and commaundement.
+From all sedition, privy conspiracy, and rebellion; from all false doctrine, heresy, and schism; from hardness of heart, and contempt of thy Word and Commandment,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-By the misterye of thy holy incarnacion, by thy holy nativitie and circumcision, by thy baptisme, fastynge, and temptacion.
+By the mystery of thy holy Incarnation; by thy holy Nativity and Circumcision; by thy Baptism, Fasting, and Temptation,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-By thyne agonye and bloudie sweate, by thy crosse, and passion, by thy precious death and buriall, by thy glorious resurrection and ascension, and by the cominge of the holy Ghost.
+By thine Agony and bloody Sweat; by thy Cross and Passion; by thy precious Death and Burial; by thy glorious Resurrection and Ascension; and by the coming of the Holy Ghost,
 
-Good lord, deliver us.
+Good Lord, deliver us.
 
-In al time of our tribulacion, in al tyme of our welth, in the houre of death, and in the daye of judgement.
+In all time of our tribulation; in all time of our wealth; in the hour of death, and in the day of judgement,
 
-Good Lorde delyver us.
+Good Lord, deliver us.
 
-We synners doe beseche thee to heare us (O Lorde God), and that it may please thee to rule and governe thy holy Church universally, in the ryghte waye.
+We sinners do beseech thee to hear us, O Lord God: and that it may please thee to rule and govern thy holy Church universal in the right way,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please the, to kepe and strengthen in the true worshippinge of thee, in righteousnes, and holynes of lyfe, thy servaunt James our most gracious Kynge and governour.
-<!-- VERIFY: 'James'; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note 'changed appropriately for … King James'; confirm against a 1604 page scan -->
+That it may please thee to keep and strengthen in the true worshipping of thee, in righteousness and holiness of life, thy Servant CHARLES, our most gracious King and Governor,
+<!-- VERIFY: 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan -->
 
-We beseche thee to heare us good lord.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to rule his heart in thy fayth feare and love, that he may alwayes have affiaunce in thee, and ever seke thy honour and glory.
+That it may please thee to rule his heart in thy faith, fear, and love, and that he may evermore have affiance in thee, and ever seek thy honour and glory,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to be his defendour and keper, gevyng him the victorie over all his enemies.
+That it may please thee to be his defender and keeper, giving him the victory over all his enemies,
 
-We beseche thee to heare us good Lord.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to illuminate al Bisshops, Pastours, and Ministers of the Churche, wyth true knowledge, and understanding of thy worde, and that both by theyr preachynge and lyving, they may sette it forth and shewe it accordingly.
+That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan -->
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee to endue the Lordes of the Counsayle and al the nobilitie wyth grace, wysdome, and understanding.
+That it may please thee to illuminate all Bishops, Priests, and Deacons, with true knowledge and understanding of thy Word; and that both by their preaching and living they may set it forth and shew it accordingly,
 
-We beseche thee to heare us good Lord.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to blesse and kepe the Magistrates, geving them grace to execute Justice, and to maynteyne trueth.
+That it may please thee to bless these thy servants, now to be admitted to the Order of Deacons, [or Priests,] and to pour thy grace upon them; that they may duly execute their office, to the edifying of thy Church, and the glory of thy holy Name,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to blesse and kepe al thy people.
+That it may please thee to endue the Lords of the Council, and all the Nobility, with grace, wisdom, and understanding,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to geve to al nacions, unitie, peace, and concorde.
+That it may please thee to bless and keep the Magistrates, giving them grace to execute justice, and to maintain truth,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee to geve us an heart, to love and dreade thee, and dyligently to lyve after thy commaundementes.
+That it may please thee to bless and keep all thy people,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it maye please thee to geve all thy people encrease of grace, to heare mekely thy woorde, and to receyve it wyth pure affection, and to brynge foorth the fruytes of the spirite.
+That it may please thee to give to all nations unity, peace, and concord,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it maye please thee, to bringe into the waye of trueth, al suche as have erred, and are deceyved.
+That it may please thee to give us an heart to love and dread thee, and diligently to live after thy commandments,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to strengthen suche as doe stande, and to comforte and helpe the weake hearted, and to rayse them up that fall, and finallye to beate downe Sathan under our feete.
+That it may please thee to give to all thy people increase of grace, to hear meekly thy Word, and to receive it with pure affection, and to bring forth the fruits of the Spirit,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to succoure, helpe and comforte, al that be in daunger, necessitie, and tribulacion.
+That it may please thee to bring into the way of truth all such as have erred, and are deceived,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to preserve al that travayl by lande, or by water, al women labouringe of chylde, al sycke persons and yonge chyldren, and to shewe thy pytie upon al prysoners and captyves.
+That it may please thee to strengthen such as do stand; and to comfort and help the weak-hearted; and to raise up them that fall; and finally to beat down Satan under our feet,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to defende and provide for the fatherles chyldren and wyddowes, and all that be desolate and oppressed.
+That it may please thee to succour, help, and comfort all that are in danger, necessity, and tribulation,
 
-We beseche thee to heare us good lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to have mercie upon al men.
+That it may please thee to preserve all that travel by land or by water, all women labouring of child, all sick persons, and young children; and to shew thy pity upon all prisoners and captives,
 
-We beseche thee to heare us good lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to forgeve oure enemyes, persecutours, and slaunderers, and to turne theyr heartes.
+That it may please thee to defend, and provide for, the fatherless children, and widows, and all that are desolate and oppressed,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee, to geve and preserve to our use, the kyndly fruytes of the yearth, so as in due tyme we may enjoye them.
+That it may please thee to have mercy upon all men,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-That it may please thee to geve us true repentaunce, to forgeve us all oure synnes, negligences, and ignoraunces, and to endue us wyth the grace of thy holye spirite, to amende oure lyves accordinge to thy holye worde.
+That it may please thee to forgive our enemies, persecutors, and slanderers, and to turn their hearts,
 
-We beseche thee to heare us good Lorde.
+We beseech thee to hear us, good Lord.
 
-Sonne of God: we beseche thee to heare us.
+That it may please thee to give and preserve to our use the kindly fruits of the earth, so as in due time we may enjoy them,
 
-O Lambe of God, that takeste awaye the synnnes of the worlde.
+We beseech thee to hear us, good Lord.
 
-Graunt us thy peace.
+That it may please thee to give us true repentance; to forgive us all our sins, negligences, and ignorances; and to endue us with the grace of thy Holy Spirit, to amend our lives according to thy holy Word,
 
-O Lambe of God, that takest awaye the synnes of the worlde.
+We beseech thee to hear us, good Lord.
 
-Have mercie upon us.
+Son of God : we beseech thee to hear us.
 
-O Christe heare us.
+O Lamb of God : that takest away the sins of the world;
 
-O Christe, heare us.
+Grant us thy peace.
 
-Lorde have mercy upon us.
+O Lamb of God : that takest away the sins of the world;
 
-Lorde have mercy upon us.
+Have mercy upon us.
 
-Christ have mercy upon us.
+O Christ, hear us.
 
-Christ have mercy upon us.
+Lord, have mercy upon us.
 
-Lorde have mercy upon us.
+Christ, have mercy upon us.
 
-Lorde have mercy upon us.
+Lord, have mercy upon us.
 
-Our father which art in heaven, etc.
+> Then shall the Priest, and the people with him, say the Lord's Prayer.
 
-And leade us not into temptacion.
+Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
+Amen.
 
-But deliver us from evill.
+**Priest.** O Lord, deal not with us after our sins.
 
-> The Versicle.
-> O lorde deale not with us after our sinnes.
-
-> The aunswere.
-> Neither reward us after our iniquities.
+**Answer.** Neither reward us after our iniquities.
 
 > Let us pray.
 
-O God mercyfull father, that despyseste not the sighinge of a contryte hearte, nor the desyre of suche as be sorowfull, mercyfully assiste oure prayers that we make before thee, in all oure troubles and adversities, whensoever they oppresse us: and graciously heare us, that those evyls, which the craft and subteltie of the devyl, or man worketh agaynst us, be brought to naught, and by the providence of thy goodnes, they may be dispersed, that we thy servauntes, beyng hurte by no persecutions, may evermore geve thankes unto thee, in thy holy Church, through Jesu Christ oure Lorde.
+O God, merciful Father, that despisest not the sighing of a contrite heart, nor the desire of such as be sorrowful: Mercifully assist our prayers that we make before thee in all our troubles and adversities, whensoever they oppress us; and graciously hear us, that those evils, which the craft and subtilty of the devil or man worketh against us, be brought to nought, and by the providence of thy goodness they may be dispersed; that we thy servants, being hurt by no persecutions, may evermore give thanks unto thee in thy holy Church; through Jesus Christ our Lord.
 
-O Lorde aryse, help us, and delyver us, for thy names sake.
+O Lord, arise, help us, and deliver us for thy Name's sake.
 
-O God, we have heard with our eares, and oure fathers have declared unto us, the noble workes, that thou dyddeste in their dayes, and in the olde tyme before them.
+O God, we have heard with our ears, and our fathers have declared unto us, the noble works that thou didst in their days, and in the old time before them.
 
-O Lorde aryse, help us, and delyver us, for thyne honour.
+O Lord, arise, help us, and deliver us for thine honour.
 
-Glorye be to the father, and to the sonne, and to the holy ghost.
-As it was in the begynning, is now, and ever shal be, world without ende.
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+
+**Answer.** As it was in the beginning, is now, and ever shall be : world without end.
 Amen.
 
-From our enemies defende us, O Christ.
+From our enemies defend us, O Christ.
 
-Graciously loke upon our afflictions.
+Graciously look upon our afflictions.
 
-Pitifully beholde the sorowes of our heart.
+Pitifully behold the sorrows of our hearts.
 
-Mercifully forgeve the synnes of thy people.
+Mercifully forgive the sins of thy people.
 
-Favourably with mercy heare our prayers.
+Favourably with mercy hear our prayers.
 
-O sonne of David have mercy upon us.
+O Son of David, have mercy upon us.
 
-Both nowe and ever vouchesafe to heare us, O Christ.
+Both now and ever vouchsafe to hear us, O Christ.
 
-Graciously heare us, O Christe, Graciously heare us, O Lord Christe.
+Graciously hear us, O Christ; graciously hear us, O Lord Christ.
 
-> The Versicle.
-> O Lorde let thy mercy be shewed upon us.
+**Priest.** O Lord, let thy mercy be shewed upon us;
 
-> The Aunswere.
-> As we do put our trust in thee.
+**Answer.** As we do put our trust in thee.
 
-> Let us praye.
+> Let us pray.
 
-We humbly beseche thee, O father, mercyfully to looke upon oure infirmities, and for the glory of thy names sake, tourne from us all those evylles, that we moste ryghteouslye have deserved: And graunte that in all oure troubles, we maye put oure whole trust, and confydence in thy mercye, and evermore serve thee, in holynes and purenesse of lyvinge, to thy honour and glorye, through our onely mediatour and advocate Jesus Christ our lord.
+We humbly beseech thee, O Father, mercifully to look upon our infirmities; and for the glory of thy Name turn from us all those evils that we most righteously have deserved; and grant that in all our troubles we may put our whole trust and confidence in thy mercy, and evermore serve thee in holiness and pureness of living, to thy honour and glory; through our only Mediator and Advocate, Jesus Christ our Lord.
 Amen.
 
-Almyghtie God, which hast geven us grace at this tyme with one accorde, to make our common supplicacions unto the, and doest promise that when two, or three be gathered in thy name, thou wilt graunt their requestes, fulfyll nowe, O Lorde, the desyres and peticions of thy servauntes, as may be moste expediente for them, grauntynge us in thys worlde, knowledge of thy trueth, and in the worlde to come lyfe everlastynge.
-Amen.
+## The Collect
 
-> Then shalbe sayde also thys that foloweth.
+> Then shall be sung or said the Service for the Communion, with the Collect, Epistle, and Gospel as followeth.
 
-Almyghtie God, whiche by thy devyne providence, haste appoynted dyverse Orders of ministers in the Churche: and dyddeste enspyre thyne holy Apostles to chose unto this Ordre of Deacons, the fyrste Martyr sainct Stephyn, wyth other: mercyfully beholde these thy servauntes, now called to the lyke office and administracion; replenishe them so wyth the trueth of thy doctryne, and innocencie of lyfe, that, both by worde and good example, they may faithfully serve thee in this office, to the glory of thy name, and profyte of the congregacion, through the merites of our saviour Jesu Christ, who lyveth and reygneth wyth thee, and the holy Ghost, nowe and ever.
+Almighty God, who by thy divine providence hast appointed divers Orders of Ministers in thy Church, and didst inspire thine Apostles to choose into the Order of Deacons the first Martyr Saint Stephen, with others: Mercifully behold these thy servants now called to the like office and administration; replenish them so with the truth of thy doctrine, and adorn them with innocency of life, that, both by word and good example, they may faithfully serve thee in this office, to the glory of thy Name, and the edification of thy Church; through the merits of our Saviour Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, now and for ever.
 Amen.
 
 ## The Epistle
 
-> Then shalbe songe or sayd, the Communion of the daye, savyng the Epistle shalbe read out of Timothe, as foloweth.
+> 1 St. Timothy 3.8
 
-Likewyse muste the ministers be honest, not double-tongued, not geven unto muche wyne, neyther gredy of fylthy lucre, but holding the mistery of the fayth, wyth a pure conscience.
-And let them first be proved, and then let them minister, so that no man be able to reprove them.
-Even so must theyr wives be honest, not evyll speakers, but sobre and faythfull in all thinges.
-Lette the Deacons bee the husbandes of one wyfe, and suche as rule theyr chyldren well, and theyr owne housholdes.
-For they that minister well, geat themselves a good degre, and a greate lybertie in the fayth, whych is in Christ Jesu.
+Likewise must the deacons be grave, not double-tongued, not given to much wine, not greedy of filthy lucre; holding the mystery of the faith in a pure conscience.
+And let these also first be proved; then let them use the office of a deacon, being found blameless.
+Even so must their wives be grave, not slanderers, sober, faithful in all things.
+Let the deacons be the husbands of one wife, ruling their children and their own houses well.
+For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
 
-These thinges wryte I unto thee trusting to come shortely unto thee; but and yf I tarye longe, that then thou mayst yet have knowledge, howe thou oughteste to behave thyselfe, in the house of God, whiche is the congregacion of the lyvinge God, the pyller and grounde of trueth.
-And without doubt, greate is that misterie of Godlynesse.
-God was shewed in the fleshe, was justifyed in the spirite, was sene amonge the Angels, was preached unto the Gentyles, was beleved on in the worlde, and receyved up in glory.
+> Or else this, out of the sixth of the Acts of the Apostles.
 
-> Or els thys out of the sixth of the Actes.
+> Acts 6.2
 
-Then the twelve called the multitude of the disciples together, and sayde: it is not mete that we shoulde leave the worde of God, and serve tables.
-Wherefore brethren, looke ye oute amonge you, seven men of honest report and full of the holy goste and wysdome, to whome we maye committe thys busynesse: but we wyll geve oureselves continually to prayer, and to the administracion of the word.
-And that saying pleased the whole multitude.
-And they chose Stephin, a man ful of fayth, and ful of the holy ghoste, and Philip, and Procorus, and Nichanor, and Tymon, and Permenas, and Nicholas a convert of Antioche.
-These they set before the Apostles: and when they had prayed, they layed theyr handes on them.
-And the worde of God increased, and the nombre of the Disciples multiplied in Jerusalem greatly, and a great companie of the Priestes, were obedient unto the fayth.
-
-## The Oath of the Kings Soveraintie
-
-> And before the Gospell, the Bisshop sittyinge in a chayre, shall cause the Othe of the Kings Souveraintie, and against the power and authoritye of all foreyn pontentates, to be ministred unto every of them that are to be ordered.
-
-> The Othe of the Kings Soverainte.
-
-I A. B.
-do utterly testifie and declare in my conscience that the Kings highnesse is the onely supreame Governoure of this Realme and of all other his highnesse dominions and countreyes, aswell in all spirituall or ecclesiasticall thinges or causes: as temporall, and that no forrayn prince, person, prelate, state, or potentate, hath or ought to have any jursidiction, power, superioritie, preheminence or aucthoritie ecclesiasticall or spiritual within this realme, and therefore I do utterly renounce and forsake all forayn jurisdictions, powers, superiorities, and aucthorities, and do promyse that from henceforth I shall beare fayth and trewe allegyaunce to the Kings hyghnes, his heyres and lawfull successours, and to my power shall assiste and defende all jurisdictions, privileges, preheminences, and aucthorities graunted or belonging to the Kings hyghnesse, his heyres and successours, or united and annexed to thimperiall Croune of thys realme, so helpe me God, and the contentes of thys boke.
-<!-- VERIFY: 'Kings'; the 1604 King's-Sovereignty oath is derived from the 1559 Queen's oath per the justus note 'Kings supremacie in 1604' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan -->
+Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables.
+Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business.
+But we will give ourselves continually to prayer, and to the ministry of the word.
+And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch: whom they set before the apostles: and when they had prayed, they laid their hands on them.
+And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith.
 
 ## The Examination
 
-> Then shalt the Bisshop examine every one of them that are to be ordered, in the presence of the people, after thys maner folowynge.
+> And before the Gospel, the Bishop, sitting in his Chair, shall examine every one of them that are to be ordered, in the presence of the people, after this manner following.
 
-Do you trust that you are inwardely moved by the holy Ghoste, to take upon you thys offyce and ministracion, to serve God, for the promotinge of hys glorye, and the edyfyinge of hys people?
+Do you trust that you are inwardly moved by the Holy Ghost to take upon you this office and ministration, to serve God, for the promoting of his glory, and the edifying of his people?
 
-**Aunswere.** I truste so.
+**Answer.** I trust so.
 
-**The Bisshop.** Do ye thinke, that ye truely be called accordinge to the wyll of our Lord Jesus Christe, and the due ordre of thys realme to the ministery of the Church?
+**The Bishop.** Do you think that you are truly called, according to the will of our Lord Jesus Christ, and the due order of this Realm, to the Ministry of the Church?
 
-**Aunswere.** I thinke so.
+**Answer.** I think so.
 
-**The Bisshop.** Doe ye unfeynedly beleve all the Canonicall scriptures, of the olde and newe Testament?
+**The Bishop.** Do you unfeignedly believe all the Canonical Scriptures of the Old and New Testament?
 
-**Aunswere.** I doe beleve.
+**Answer.** I do believe them.
 
-**The Bisshoppe.** Will you diligently reade the same unto the people assembled in the Churche, where you shalbe appoynted to serve?
+**The Bishop.** Will you diligently read the same unto the people assembled in the Church where you shall be appointed to serve?
 
-**Aunswere.** I wyll.
+**Answer.** I will.
 
-**The Bisshoppe.** It perteyneth to the office of a Deacon in the Churche where he shalbe appoynted, to assiste the Prieste in devine service, and speciallye when he ministreth the holye Communion, and to helpe him in distribucion thereof, and to reade holye scriptures and Homelies in the congregacion, and to instructe the youth in the Cathechisme, to Baptise and to preache yf he be admitted therto by the Bisshop.
-And further more, it is his office where provision is so made to searche for the sicke, poore, and impotente people of the parishe, and to intimate theyr estates, names, and places where thei dwel to the Curate, that by his exhortacion they maye bee relieved by the parishe or other convenient almose: wil you do this gladly and wyllingly?
+**The Bishop.** It appertaineth to the office of a Deacon, in the Church where he shall be appointed to serve, to assist the Priest in Divine Service, and specially when he ministereth the holy Communion, and to help him in the distribution thereof, and to read holy Scriptures and Homilies in the Church; and to instruct the youth in the Catechism; in the absence of the Priest to baptize infants; and to preach, if he be admitted thereto by the Bishop.
+And furthermore, it is his office, where provision is so made, to search for the sick, poor, and impotent people of the Parish, to intimate their estates, names, and places where they dwell, unto the Curate, that by his exhortation they may be relieved with the alms of the Parishioners, or others.
+Will you do this gladly and willingly?
 
-**Aunswere.** I wyll so do by the helpe of God.
+**Answer.** I will so do, by the help of God.
 
-**The Bisshoppe.** Will you applye all youre diligence to frame and fasshion youre owne lyves, and the lives of all your familie according to the doctrine of Christ, and to make bothe your selves and them as muche as in you lieth, wholesome examples of the flocke of Christ?
+**The Bishop.** Will you apply all your diligence to frame and fashion your own lives, and the lives of your families, according to the doctrine of Christ; and to make both yourselves and them, as much as in you lieth, wholesome examples of the flock of Christ?
 
-**Aunswere.** I wyll so do, the Lorde beyng my helper.
+**Answer.** I will so do, the Lord being my helper.
 
-**The Bisshoppe.** Will you reverently obeye your ordinary and other chiefe Ministers of the Church, and them to whom the governemente and charge is committed over you, folowyng wyth a gladde mynde and wyll theyr godly admonicions?
+**The Bishop.** Will you reverently obey your Ordinary, and other chief Ministers of the Church, and them to whom the charge and government over you is committed, following with a glad mind and will their godly admonitions?
 
-**Aunswere.** I wyl thus endevor myself, the lord beyng my helper.
+**Answer.** I will endeavour myself, the Lord being my helper.
 
 ## The Ordering
 
-> Then the Bishop layinge his handes severally upon the head of every of them, shall saye.
+> Then the Bishop laying his hands severally upon the head of every one of them, humbly kneeling before him, shall say,
 
-Take thou aucthoritie to execute the office of a Deacon in the Church of God committed unto thee: in the name of the father, the sonne, and the holy ghost.
+Take thou authority to execute the office of a Deacon in the Church of God committed unto thee; In the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
-> Then shal the Bisshop delyver to every one of them the newe Testamente, sayinge.
+> Then shall the Bishop deliver to every one of them the New Testament, saying,
 
-Take thou aucthoritie to reade the Gospell in the Church of God, and to preache the same, yf thou bee thereunto ordinarely commaunded.
+**The Bishop.** Take thou authority to read the Gospel in the church of God, and to preach the same, if thou be thereto licensed by the Bishop himself.
 
-> Then one of them appoynted by the Bisshop, shal reade the Gospel of that daye.
+> Then one of them, appointed by the Bishop, shall read
+
+## The Gospel
+
+> St. Luke 12.35
+
+Let your loins be girded about, and your lights burning; and ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.
+Blessed are those servants, whom the lord when he cometh shall find watching.
+Verily I say unto you, that he shall gird himself; and make them to sit down to meat, and will come forth and serve them.
+And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.
 
 ## The Communion
 
-> Then shal the Bisshop procede to the Communion, and al that be ordered, shal tarye and receyve the holy Communion the same daye wyth the Bisshop.
+> Then shall the Bishop proceed in the Communion: and all that are ordered shall tarry, and receive the holy Communion the same day with the Bishop.
 
-> The Communion ended, after the laste Collecte and immediatly before the benediction, shalbe sayed this Collecte folowynge.
+> The Communion ended, after the last Collect, and immediately before the Benediction, shall be said these Collects following
 
-Almyghtie God, gever of al good thinges, which of thy great goodnes hast vouchsafed to accepte and take these thy servauntes unto the office of Deacons in thy church: make them we beseche thee, O Lorde, to bee modest, humble, and constant in their ministracion, to have a ready wyl to observe al spiritual discipline, that they havinge alwayes the testimonie of a good conscience, and continuing ever stable and strong in thy sonne Christ, may so wel use themselves in thys inferior offyce, that they may be found worthi to be called unto the higher ministeries in thy Church: through the same thy sonne our Saviour Christ, to whom be glorye and honoure, worlde wythout ende.
+Almighty God, giver of all good things, who of thy great goodness hast vouchsafed to accept and take these thy servants unto the office of Deacons in thy Church: Make them, we beseech thee, O Lord, to be modest, humble, and constant in their ministration; to have a ready will to observe all spiritual discipline; that they having always the testimony of a good conscience, and continuing ever stable and strong in thy Son Christ, may so well behave themselves in this inferior office, that they may be found worthy to be called unto the higher ministries in thy Church; through the same thy Son our Saviour Jesus Christ, to whom be glory and honour world without end.
 Amen.
 
-> And here it must be shewed unto the Deacon that he must continue in that office of a Deacon, the space of a whole yeare at the least (excepte for reasonable causes, it bee otherwyse seen to his ordenarie) to thentent he may be perfecte, and wel expert in the thinges apperteyning to the Ecclesiasticall administracion, in executing whereof, yf he be found faithful and diligent, he may be admitted by his Diocesan to the ordre of Priesthode.
+Prevent us, O Lord, in all our doings with thy most gracious favour, and further us with thy continual help; that in all our works, begun, continued, and ended in thee, we may glorify thy holy Name, and finally by thy mercy obtain everlasting life; through Jesus Christ our Lord.
+Amen.
+
+The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the blessing of God almighty, the Father, the Son, and the Holy Ghost, be amongst you and remain with you always.
+Amen.
+
+> And here it must be declared unto the Deacon, that he must continue in that office of a Deacon the space of a whole year (except for reasonable causes which shall otherwise seem good unto the Bishop) to the intent that he may be perfect and well expert in the things appertaining to the Ecclesiastical Administration.
+> In executing whereof if he be found faithful and diligent, he may be admitted by his Diocesan to the Order of Priesthood on the Sundays immediately following the Ember Weeks or on the Feast of Saint Michael and All Angels or of Saint Thomas the Apostle, or on such other days as shall be provided by Canon, in the face of the Church, in such manner and form as hereafter followeth.

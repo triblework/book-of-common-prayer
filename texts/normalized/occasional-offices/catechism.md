@@ -1,201 +1,164 @@
-# A Catechisme, that is to say, an instruction to be learned of every childe before he be brought to be confirmed of the Bishoppe.
+# A Catechism, that is to say, an Instruction to be learned of every person before he be brought to be Confirmed by the Bishop.
 
 ## The Baptismal Covenant
 
-**Question.** WHAT is your name?
+**Question.** What is your Name?
 
-**Aunswere.** N.
+**Answer.** N.
 or M.
 
-**Question.** Who gave you this name?
+**Question.** Who gave you this Name?
 
-**Aunswere.** My Godfathers and Godmothers in my Baptisme, wherein I was made a membre of Christe, the childe of God, and an inheritour of the kingdome of heaven.
+**Answer.** My Godfathers and Godmothers in my Baptism; wherein I was made a member of Christ, the child of God, and an inheritor of the kingdom of heaven.
 
-**Question.** What did your godfathers and godmothers then for you?
+**Question.** What did your Godfathers and Godmothers then for you?
 
-**Aunswere.** They did promise, and vowe iii thinges in my name.
-First, that I should forsake the devil, and all his workes, the pompes and vanities of the wicked world, and al the sinful lustes of the fleshe.
-Secondly, that I should beleve al the articles of the Christian faith.
-And thirdely, that I should kepe Goddes holy wil and Commaundementes, and walke in the same al the daies of my lyfe.
-<!-- VERIFY: source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan -->
+**Answer.** They did promise and vow three things in my name.
+First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh.
+Secondly, that I should believe all the articles of the Christian faith.
+And thirdly, that I should keep God's holy will and commandments, and walk in the same all the days of my life.
 
-**Question.** Doest thou not thynke that thou art bounde to beleve and to do, as they have promised for the?
+**Question.** Dost thou not think that thou art bound to believe, and to do, as they have promised for thee?
 
-**Answer.** Yes verely, and by Goddes helpe so I wil.
-And I hartely thanke our heavenly Father, that he hath called me to this state of salvation, through Jesus Christe our saviour.
-And I pray God to geve me his grace, that I may continue in the same unto my lyves ende.
+**Answer.** Yes verily: and by God's help so I will.
+And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour.
+And I pray unto God to give me his grace, that I may continue in the same unto my life's end.
 
 ## The Creed
 
-**Question.** Reherse the Articles of thy belefe.
+**Catechist.** Rehearse the Articles of thy Belief.
 
-**Aunswere.** I beleve in God the Father almighty, maker of heaven and of earth.
-And in Jesus Christe his only Sonne our Lorde.
-Whiche was conceived of the holy Ghost.
-Borne of the Virgine Mary.
-Suffered under Ponce Pylate, was crucifyed, deade and buried, he descended into hell.
-The thyrd day he rose agayne from the dead.
-He ascended into heven, and sitteth at the right hand of God the Father almighty.
-From thence he shal come to judge the quicke and the dead.
-I beleve in the Holy ghost.
-The holy catholic Church.
-The Communion of saynctes.
-The forgivenes of sins.
-The resurrection of the body.
-And the lyfe everlastinge.
+**Answer.** I believe in God the Father Almighty, Maker of heaven and earth: And in Jesus Christ his only Son our Lord, Who was conceived by the Holy Ghost, Born of the Virgin Mary, Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead; He ascended into heaven, And sitteth at the right hand of God the Father Almighty; From thence he shall come to judge the quick and the dead.
+I believe in the Holy Ghost; The holy Catholick Church; The Communion of Saints; The Forgiveness of sins; The Resurrection of the body, And the life everlasting.
 Amen.
 
-**Question.** What doest thou chiefly learne in these artycles of thy beliefe?
+**Question.** What dost thou chiefly learn in these Articles of thy Belief?
 
-**Aunswere.** Firste, I learne to beleve in God the father, who hath made me and al the world.
+**Answer.** First, I learn to believe in God the Father, who hath made me, and all the world.
 
-Secondlye, in God the sonne, who hath redemed me and all mankinde.
+Secondly, in God the Son, who hath redeemed me, and all mankind.
 
-Thirdly, in God the holy Ghost, who sanctifieth me and all the elect people of God.
+Thirdly, in God the Holy Ghost, who sanctifieth me, and all the elect people of God.
 
 ## The Ten Commandments
 
-**Question.** You said, that your godfathers and godmothers, dyd promise for you, that you shoulde kepe Gods commaundementes.
+**Question.** You said that your Godfathers and Godmothers did promise for you, that you should keep God's Commandments.
 Tell me how many there be?
 
-**Aunswere.** Tenne.
+**Answer.** Ten.
 
-**Question.** Whiche be they?
+**Question.** Which be they?
 
-**Aunswere.** The same which God spake in the .xx.
-cha of Exodus, saying: I am the Lord thy God whyche have brought the out of the land of Egypt, oute of the house of bondage.
-Thou shalt have none other goddes but me.
+**Answer.** The same which God spake in the twentieth chapter of Exodus, saying, I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+
+I.
+Thou shalt have none other gods but me.
 
 II.
-Thou shalt not make to thy selfe any graven Image nor the lykenes of any thyng that is in heaven above, or in the earthe beneth, nor in the water under the earthe: thou shalt not bow doune to them nor worship them.
-For I the Lorde thy God, am a gelous God, and visyte the sins of the fathers upon the chyldren, unto the iii and fourth generacion of them that hate me, and show mercye unto thousandes of them that love me, and kepe my commaundementes.
+Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth.
+Thou shalt not bow down to them, nor worship them.
+For I the Lord thy God am a jealous God, and visit the sins of the fathers upon the children unto the third and fourth generation of them that hate me, and show mercy unto thousands in them that love me and keep my commandments.
 
 III.
-Thou shalt not take the name of the Lord thy God in vaine, for the Lorde will not holde hym guiltles that taketh his name in vaine.
+Thou shalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltless, that taketh his Name in vain.
 
-IIII.
-Remember thou kepe holy the Sabboth day.
-Syxe daies shalt thou laboure, and do all that thou hast to do: but the vii day is the Sabboth of the Lord thy God.
-In it thou shalt do no maner of worcke, thou, and thy sonne, and thy daughter, thy man servaunt, and thy maydservaunt, thy cattel, and the straunger that is wythin thy gates: for in sixe daies the Lord made heaven and earth, the sea, and al that in them is, and rested the vii day, wherfore the Lorde blessed the vii day, and halowed it.
+IV.
+Remember that thou keep holy the Sabbath day.
+Six days shalt thou labour, and do all that thou hast to do; but the seventh day is the Sabbath of the Lord thy God.
+In it thou shalt do no manner of work, thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant, thy cattle, and the stranger that is within thy gates.
+For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the seventh day, and hallowed it.
 
-V. Honour thy father and thy mother, that thy daies may be long in the lande, whiche the Lorde thy God geveth the.
+V. Honour thy father and thy mother; that thy days may be long in the land which the Lord thy God giveth thee.
 
 VI.
-Thou shalt do no murther.
+Thou shalt do no murder.
 
 VII.
-Thou shalt not committe adultery.
+Thou shalt not commit adultery.
 
 VIII.
-Thou shalt not steale.
+Thou shalt not steal.
 
 IX.
-Thou shalt not beare false wytnes agaynste thy neighbour.
+Thou shalt not bear false witness against thy neighbour.
 
 X.
-Thou shalt not covet thy neyghbours house, thou shalt not covet thy neyghboures wyfe, nor hys servaunt, nor hys mayde, nor hys oxe nor hys asse, nor any thyng that is hys.
+Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
-**Question.** What doest thou chiefly learne by these commandementes?
+**Question.** What dost thou chiefly learn by these Commandments?
 
-**Aunswere.** I learne two thynges.
-My duty towardes God, and my dutye towardes my neighbour.
+**Answer.** I learn two things: my duty towards God, and my duty towards my Neighbour.
 
-**Question.** What is my duety towardes God?
+**Question.** What is thy duty towards God?
 
-**Aunswere.** My dutye towardes God is, to beleve in him, to feare him, and to love hym with all my harte, with al my mynde, with al my soul, and with all my strengthe.
-To worship hym.
-To geve hym thanckes.
-To putte my whole truste in hym.
-To call upon hym.
-To honour hys holy name and hys woorde, and to serve hym truely all the dayes of my lyfe.
-<!-- VERIFY: source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan -->
+**Answer.** My duty towards God is to believe in him, to fear him, and to love him, with all my heart, with all my mind, with all my soul, and with all my strength; to worship him, to give him thanks, to put my whole trust in him, to call upon him, to honour his holy Name and his Word, and to serve him truly all the days of my life.
 
-**Question.** What is thy dutye toward thy neighbour?
+**Question.** What is thy duty towards thy Neighbour?
 
-**Aunswere.** My dutye towardes my neyghbour is to love hym as my selfe: And to do to all men as I would they should do unto me.
-To love, honour, and succour my father and mother.
-To honour and obey the Kyng, and his minysters.
-To submitte my selfe to al my governours, teachers, spiritual Pastours and Maisters.
-To order my selfe lowly and reverently to all my betters.
-To hurte no body by word, nor dede.
-To be true and juste in all my dealyng.
-To beare no malice nor hatred in my harte.
-To kepe my handes from pickyng and stealyng, and my tongue from evil speakyng, liyng and slaunderyng.
-To kepe my body in temperaunce, sobernes, and chastitie.
-Not to covet nor desire other mennes goodes.
-But learne and labour truely to get myne awne livyng, and to do my dutye in that state of life, unto whiche it shal please God to cal me.
+**Answer.** My duty towards my Neighbour is to love him as myself, and to do to all men as I would they should do unto me: To love, honour, and succour my father and mother: To honour and obey the King, and all that are put in authority under him: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters: To hurt nobody by word nor deed: To be true and just in all my dealing: To bear no malice nor hatred in my heart: To keep my hands from picking and stealing, and my tongue from evil-speaking, lying, and slandering: To keep my body in temperance, soberness, and chastity: Not to covet nor desire other men's goods; but to learn and labour truly to get mine own living, and to do my duty in that state of life, unto which it shall please God to call me.
 
 ## The Lord's Prayer
 
-**Question.** My good child know this, that thou art not able to do these thinges of thy self, nor to walke in the commaundementes of God, and to serve hym, wythout hys specyall grace, whyche thou must learne at al tymes to cal for by diligent prayer.
-Let me heare therfore, if thou canst say the Lordes praier.
+**Catechist.** My good child, know this, that thou art not able to do these things of thyself, nor to walk in the commandments of God, and to serve him, without his special grace; which thou must learn at all times to call for by diligent prayer.
+Let me hear therefore if thou canst say the Lord's Prayer.
 
-**Aunswere.** Our Father whiche art in heaven; Hallowed be thy name.
-Thy kyngdom come.
-Thy wil be done in earth, as it is in heaven.
-Geve us this day our daily bread.
-And forgeve us our trespasses, as we forgeve them that trespasse against us.
-And leade us not into temptacion.
-But deliver us from evil.
+**Answer.** Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
 Amen.
 
-**Question.** What desirest thou of God in this praier?
+**Question.** What desirest thou of God in this Prayer?
 
-**Aunswere.** I desire my Lord God our heavenly Father, who is the gever of al goodness, to send his grace unto me, and to all people, that we may worship hym, serve hym, and obeye hym as we ought to doe.
-And I pray unto God, that he will sende us all thynges that be nedeful, bothe for our souls and bodies.
-And that he will be merciful unto us, and forgeve us our sins: and that it wil please him to save and defende us in al daungers ghostly and bodily : and that he will kepe us from all sin and wikednes, and from our ghostly enemy, and from everlastyng death.
-And this I trust he wil do of his mercye and goodnes, throughe our lord Jesu Christ.
-And therefore I say.
-Amen.
-So be it.
+**Answer.** I desire my Lord God our heavenly Father, who is the giver of all goodness, to send his grace unto me, and to all people, that we may worship him, serve him, and obey him, as we ought to do.
+And I pray unto God, that he will send us all things that be needful both for our souls and bodies; and that he will be merciful unto us, and forgive us our sins; and that it will please him to save and defend us in all dangers ghostly and bodily; and that he will keep us from all sin and wickedness, and from our ghostly enemy, and from everlasting death.
+And this I trust he will do of his mercy and goodness, through our Lord Jesus Christ.
+And therefore I say, Amen, So be it.
 
 ## The Sacraments
 
-**Question.** HOW many Sacraments hath Christ ordained in his Church?
+**Question.** How many Sacraments hath Christ ordained in his Church?
 
-**Answer.** Two only as generally necessary to salvation; that is to say, Baptisme and the Supper of the Lord.
+**Answer.** Two only, as generally necessary to salvation; that is to say, Baptism, and the Supper of the Lord.
 
 **Question.** What meanest thou by this word Sacrament?
 
-**Answer.** I meane an outward and visible signe of an inward and spirituall grace given unto us; ordained by Christ himselfe, as a means whereby we receive the same, and a pledge to assure us thereof.
+**Answer.** I mean an outward and visible sign of an inward and spiritual grace given unto us, ordained by Christ himself, as a means whereby we receive the same, and a pledge to assure us thereof.
 
-**Question.** How many parts be there in a Sacrament?
+**Question.** How many parts are there in a Sacrament?
 
-**Answer.** Two; the outward visible signe, and the inward spirituall grace.
+**Answer.** Two: the outward visible sign, and the inward spiritual grace.
 
-**Question.** What is the outward visible signe or forme in Baptisme?
+**Question.** What is the outward visible sign or form in Baptism?
 
-**Answer.** Water: wherein the person baptized is dipped or sprinkled with it, In the name the Name of the Father, and of Sonne, and of the holy Ghost.
-<!-- VERIFY: source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan -->
+**Answer.** Water: wherein the person is baptized, In the Name of the Father, and of the Son, and of the Holy Ghost.
 
-**Question.** What is the inward and spirituall grace?
+**Question.** What is the inward and spiritual grace?
 
-**Answer.** A death unto sin, and a new birth unto righteousnesse: for being by nature borne in sin, and the children of wrath, we are hereby made the children of grace.
+**Answer.** A death unto sin, and a new birth unto righteousness: for being by nature born in sin, and the children of wrath, we are hereby made the children of grace.
 
 **Question.** What is required of persons to be baptized?
 
-**Answer.** Repentance, whereby they forsake sin; and faith, whereby they stedfastly beleeve the promises of God, made to them in that Sacrament.
+**Answer.** Repentance, whereby they forsake sin: and faith, whereby they stedfastly believe the promises of God, made to them in that Sacrament.
 
-**Question.** Why then are Infants baptized, when by reason of their tender age they cannot performe them?
+**Question.** Why then are infants baptized, when by reason of their tender age they cannot perform them?
 
-**Answer.** Yes: they doe performe them by their Sureties; who promise and vow them both, in their names: which when they come to age, themselves are bound to performe.
+**Answer.** Because they promise them both by their sureties: which promise, when they come to age, themselves are bound to perform.
 
-**Question.** Why was the Sacrament of the Lords Supper ordained?
+**Question.** Why was the Sacrament of the Lord's Supper ordained?
 
-**Answer.** For the continuall remembrance of the Sacrifice of the death of Christ, and the benefits which we receive thereby.
+**Answer.** For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
 
-**Question.** What is the outward part or signe of the Lords Supper?
+**Question.** What is the outward part or sign of the Lord's Supper?
 
-**Answer.** Bread and wine, which the Lord hath commanded to bee received.
+**Answer.** Bread and Wine, which the Lord hath commanded to be received.
 
-**Question.** What is the inward part or thing signified?
+**Question.** What is the inward part, or thing signified?
 
-**Answer.** The Body and Blood of Christ, which are verely and indeed taken and received of the faithful in the Lords Supper.
+**Answer.** The Body and Blood of Christ, which are verily and indeed taken and received by the faithful in the Lord's Supper.
 
 **Question.** What are the benefits whereof we are partakers thereby?
 
-**Answer.** The strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are by the Bread and wine.
+**Answer.** The strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are by the Bread and Wine.
 
-**Question.** What is required of those which come to the Lords Supper?
+**Question.** What is required of them who come to the Lord's Supper?
 
-**Answer.** To examine themselves, whether they repent them truely of their former sins, stedfastly purposing to leade a new life; have a lively faith in Gods mercy through Christ, with a thankeful remembrance of his death; and be in charitie with all men.
+**Answer.** To examine themselves, whether they repent them truly of their former sins, stedfastly purposing to lead a new life; have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and be in charity with all men.

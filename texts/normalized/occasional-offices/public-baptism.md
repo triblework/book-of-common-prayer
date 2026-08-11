@@ -1,155 +1,182 @@
-# The Ministracion of Baptisme to be used in the Church.
+# The Ministration of Public Baptism of Infants to be used in the church
 
 ## The Introduction
 
-> It appeareth by auncient writers, that the Sacrament of Baptisme in the old old tyme, was not commonly Ministred, but at two times in the yeare, at Easter and Whytsontide, at which tymes it was openly ministred in the presence of al the congregacion: which custome (now being growen out of use,) although it can not for many consideracions bee well restored agayne, yet it is thought good to folow the same as nere as conveniently may be.
-> Wherfore the people are to be admonished, that it is most convenient that Baptisme should not be ministred but upon Sondayes, and other holy dayes, when the most nombre of people may come together, aswel for that the congregacion there present maye testifie the receyving of them that be newly Baptized into the nomber of Christes Church, as also because in the Baptisme of Infants everye man present may be put in remembraunce of his awne profession made to God in hys Baptisme.
-> For which cause also, it is expedient that Baptisme be ministred in the English tongue.
-> Nevertheles (if necessitie so require) children may at al tymes be Baptized at home.
+> Due notice, normally of at least a week, shall be given before a Child is brought to the church to be baptized.
 
-> When there are children to he baptized upon the Sonday, or holy day, the parentes shal geve knowledge over nighte, or in the morning, afore the beginning of Mornyng prayour, to the curate.
-> A nd then the Godfathers, Godmothers, and people with the children, must be ready at the Fonte, eyther immediatly after the last Lesson at Morning Prayour, or els immediatly after the last Lesson at Evening Praiour, as the Curat by his discretion shall appoincte.
-> And then standinge there, the Priest shall ask whether the children be Baptized or no. If they aunswer, No. Then the priest say thus.
+> For every child to be baptized there shall be not fewer than three godparents, of whom at least two shall be of the same sex as the child and of whom at least one shall be of the opposite sex; save that, when three cannot conveniently be had, one godfather and one godmother shall suffice.
+> Parents may be godparents for their own children provided that the child shall have at least one other godparent.
+> The godparents shall be persons who have been baptized and confirmed and will faithfully fulfil their responsibilities both by their care for the child committed to their charge and by the example of their own godly living.
+> Nevertheless the Minister shall have power to dispense with the requirement of confirmation in any case in which in his judgement need so requires.
+
+> The Minister shall instruct the parents or guardians of an infant to be admitted to Holy Baptism that the same responsibilities rest on them as are in the service of Holy Baptism required of the godparents.
+
+> No Minister shall refuse or, save for the purpose of preparing or instructing the parents or guardians or godparents, delay to baptize any infant within his cure that is brought to the church to be baptized, provided that due notice has been given and the provisions relating to godparents are observed.
+> If the Minister shall refuse or unduly delay to baptize any such infant, the parents or guardians may apply to the Bishop of the diocese who shall, after consultation with the Minister, give such directions as he thinks fit.
+
+> The Minister, before proceeding to the Baptism, shall have satisfied himself that the child presented to him has not already been baptized.
+
+> At the time appointed the godfathers and godmothers and the parents or guardians with the child must be ready at the Font, and the Priest coming to the Font (which is then to be filled with pure Water,) and standing there, shall proceed as follows.
 
 ## The Exhortation
 
-Derely beloved, forasmuche as al men be conceived and borne in sin, and that our saviour Christ saith, none can entre into the kingdom of God (except he be regenerate, and borne a new of water and the holy gost) I beseche you to cal upon God the father, throughe our lord Jesus Christ, that of his bounteous mercy, he wil graunt to these children, that thing which by nature thei can not have, that they may be baptized with water and the holy Ghost, and received into Christes holy church; and be made lively membres of the same.
+Dearly beloved, forasmuch as all men are conceived and born in sin, and that our Saviour Christ saith, none can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost: I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous mercy he will grant to this Child that thing which by nature he cannot have; that he may be baptized with Water and the Holy Ghost, and received into Christ's holy Church, and be made a lively member of the same.
 
 ## The Flood Prayer
 
-> Then the Priest shall say.
+> Then shall the Priest say,
 
-Let us praye.
+> Let us pray.
 
-Almighty and everlasting God, whiche of thy great mercy diddest save Noe and his familie in the Arcke, from perishing by water, and also diddest saufly lead the children of Israel, thy people, through the redde Sea, figuring therby thy holy Baptisme: and by the Baptisme of thy welbeloved sonne Jesus Christe, diddest sanctifye the floude Jordane, and al other waters, to the mistical washinge away of sin: We beseche the (for thine infinite mercies) that thou wilte mercifully loke upon these children, sanctify them and washe them with thy holy gost, that they beyng delivered from thy wrath, may be received into the Arcke of Christes church, and beyng stedfast in faithe, joyful throughe hope, and roted in charitie, may so passe the waves of this troublesome world, that finally they may come to the lande of everlasting life, there to reigne with the, world without ende, through Jesus Christ our Lorde.
+ALMIGHTY and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ, in the river Jordan, didst sanctify Water to the mystical washing away of sin: We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon this Child; wash him and sanctify him with the Holy Ghost; that he, being delivered from thy wrath, may be received into the ark of Christ's Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally he may come to the land of everlasting life, there to reign with thee world without end, through Jesus Christ our Lord.
 Amen.
-<!-- VERIFY: source prints 'thy' ('with thy holy gost'); a footnote records 'the' in 1604 printings; kept as printed; confirm against a page scan -->
 
 ## The Second Prayer
 
-Almighty and immortal God, the aide of al that nede, the helper of al that fly to the for succour, the life of them that beleve, and the resurrection of the deade, we cal upon the for these infantes, that they, comming to thy holy Baptisme, may receyve remission of their sins by spiritual regeneracion, receive them (O Lorde) as thou haste promised by thy welbeloved sonne, saynge: Aske and you shall have; seke, and you shall fynde: knocke and it shalbe opened unto you: So geve now unto us that aske.
-Let us that seeke, fynde open thy gate unto us that knocke, that these infantes enjoy the everlasting benediction of thy heavenly wasshing, and may come to the eternal kingdome whiche thou haste promised by Christ our Lorde.
+ALMIGHTY and immortal God, the aid of all that need, the helper of all that flee to thee for succour, the life of them that believe, and the resurrection of the dead: We call upon thee for this Infant, that he, coming to thy holy Baptism, may receive remission of his sins by spiritual regeneration.
+Receive him, O Lord, as thou hast promised by thy well-beloved Son, saying, Ask, and ye shall have; seek, and ye shall find; knock, and it shall be opened unto you: So give now unto us that ask; let us that seek find; open the gate unto us that knock; that this Infant may enjoy the everlasting benediction of thy heavenly washing, and may come to the eternal kingdom which thou hast promised by Christ our Lord.
 Amen.
 
 ## The Gospel
 
-> Then shall the Priest say
+> Then shall the people stand up, and the Priest shall say,
 
-Heare the words of the Gospel, written by Sainct Marke in the tenth Chapiter.
+Hear the words of the Gospel, written by Saint Mark in the tenth chapter at the thirteenth verse.
 
-At a certayne tyme they brought children to Christ that he should touche theim, and his Disciples rebuked those that brought them.
-But when Jesus sawe it, he was displeased, and said unto them.
-Suifre lytle children to come unto me, and forbydde them not; For to suche belongeth the Kyngdome of God.
-Verely, I say unto you; whosoever doeth not receive the kingdome of God, as a lytle chylde: he shall not entre therin.
-And when he had taken the up in his armes: he put his handes upon them, and blessed them.
+They brought young children to Christ, that he should touch them; and his disciples rebuked those that brought them.
+But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not; for of such is the kingdom of God.
+Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
+And he took them up in his arms, put his hands upon them, and blessed them.
 
 ## The Exhortation upon the Gospel
 
-> After the Gospel is redde, the minister shal make this briefe exhortacion upon the words of the Gospel.
+> After the Gospel is read, the Minister shall make this brief exhortation upon the words of the Gospel.
 
-Frendes, ye heare in this Gospel the woordes of our saviour Christe, that he commaunded the chyldren to bee broughte unto him: howe he blamed those that woulde have kepte theym from hym, how he exhorted all men to folowe their innocencye.
-Ye perceive how by his outward gesture and dede he declared his good wil towarde them.
-For he embraced them in his armes, he laied his hands upon them, and blessed them, doubt not you therfore, but ernestly beleve that he wil likewise favourably receive these present infants, that he wil embrace the with the armes of his mercy, that he wil geve unto them the blessing of eternal life: and make them partakers of his everlasting kingdome.
-Wherfore we being thus perswaded of the good wyl of our heavenly father, towardes these enfants declared by his son Jesus Christ, and nothing doubting, but that he favourably alloweth this charitable woorke of ours, in bringing these children to his holye Baptisme: let us faithfully and devoutly geve thakes unto him, and say
+Beloved, ye hear in this Gospel the words of our Saviour Christ, that he commanded the children to be brought unto him; how he blamed those that would have kept them from him; how he exhorteth all men to follow their innocency.
+Ye perceive how by his outward gesture and deed he declared his good will toward them; for he embraced them in his arms, he laid his hands upon them, and blessed them.
+Doubt ye not therefore, but earnestly believe, that he will likewise favourably receive this present Infant; that he will embrace him with the arms of his mercy; that he will give unto him the blessing of eternal life, and make him partaker of his everlasting kingdom.
+Wherefore we being thus persuaded of the good will of our heavenly Father towards this Infant, declared by his Son Jesus Christ; and nothing doubting but that he favourably alloweth this charitable work of ours in bringing this Infant to his holy Baptism; let us faithfully and devoutly give thanks unto him, and say,
 
 ## The Thanksgiving
 
-Almighty and everlasting God, heavenly Father, we geve thee humble thankes, that thou haste vouchedsaufe to call us to the knowledge of thy grace and faith in the, encrease this knowledge, and confirme this faith in us evermore: Geve thy holy spirit to these enfantes, that they may be borne again, and be made heyres of everlasting salvacion, throughe our Lorde Jesus Christ.
-who liveth and reigneth with the, and the holy spirit, nowe and for ever.
+ALMIGHTY and everlasting God, heavenly Father, we give thee humble thanks that thou hast vouchsafed to call us to the knowledge of thy grace and faith in thee: Increase this knowledge, and confirm this faith in us evermore.
+Give thy Holy Spirit to this Infant, that he may be born again, and be made an heir of everlasting salvation, through our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Spirit, now and for ever.
 Amen.
 
 ## The Address to the Godparents
 
-> Then the Priest shal speake unto the Godfathers and Godmothers, on this wyse:
+> Then shall the Priest speak unto the Godfathers and Godmothers on this wise.
 
-Welbeloved frendes, ye have broughte these children here to be baptised, ye have praied that our lord Jesus christ, would vouchesaufe to receive them, to lay his handes upon them, to blesse them, to release them of their sins, to geve theim the kingdom of heaven, and everlasting lyfe.
-Ye have heard also that our Lord Jesus Christ hath promised in his Gospel, to graunt all these thinges that ye have praied for: which promise he for his part wil most surely kepe and performe.
-Wherfore after this promise made by Christ, these infants muste also faythfully for their part promise by you that be their sureties, that they wil forsake the divil and al his woorkes, and constantly beleve Gods holy word, and obediently kepe his commaundements.
+Dearly beloved, ye have brought this Child here to be baptized; ye have prayed that our Lord Jesus Christ would vouchsafe to receive him, to release him of his sins, to sanctify him with the Holy Ghost, to give him the kingdom of heaven and everlasting life.
+Ye have heard also that our Lord Jesus Christ hath promised in his Gospel, to grant all these things that ye have prayed for: which promise he, for his part, will most surely keep and perform.
+Wherefore, after this promise made by Christ, this Infant must also faithfully, for his part, promise by you that are his sureties, (until he come of age to take it upon himself,) that he will renounce the devil and all his works, and constantly believe God's holy Word, and obediently keep his commandments.
 
 ## The Vows
 
-> Then shal the Priest demaunde of the Godfathers and Godmothers thes questions.
+I demand therefore,
 
-Doest thou forsake the devil and all his workes, the vaine pompe and glorye of the world, with al covetous desires of the same, and the carnal desires of the flesh, so that thou wilt not folow, nor be led by them?
-**Aunswere.** I forsake them al.
-**The Minister.** Doest thou beleve in god the father almighty, maker of heave and earth?
-And in Jesus christ his only begotten sonne our Lord, and that he was conceived by the holy Ghost, borne of the virgin Mary: that he suifred under Poncius Pilate, was crucifyed, dead and buried, that he went doune into hel, and also did rise again the thirde day: that he ascended into heaven, and sitteth at the right had of god the father almighty; and from thence shall come again at the ende of the world, to judge the quicke and the dead?
-And doest thou beleve in the holy Ghoste the holy Catholicque Church, the communion of sainctes, the remission of sins, the resurreccion of the fleshe, and everlasting lyfe after death?
-**Aunswere.** All this I stedfastly beleve.
-**Ministre.** Wylt thou be baptised in this faith?
-**Aunswere.** That is my desyre.
+Dost thou, in the name of this Child, renounce the devil and all his works, the vain pomp and glory of the world, with all covetous desires of the same, and the carnal desires of the flesh, so that thou wilt not follow nor be led by them?
 
-Marke x.
+**Answer.** I renounce them all.
+
+**Minister.** Dost thou believe in God the Father Almighty, Maker of heaven and earth?
+
+And in Jesus Christ his only-begotten Son our Lord?
+And that he was conceived by the Holy Ghost, born of the Virgin Mary; that he suffered under Pontius Pilate, was crucified, dead, and buried; that he went down into hell, and also did rise again the third day; that he ascended into heaven, and sitteth at the right hand of God the Father Almighty; and from thence shall come again at the end of the world, to judge the quick and the dead?
+
+And dost thou believe in the Holy Ghost; the holy Catholick Church; the Communion of Saints; the Remission of sins; the Resurrection of the flesh; and everlasting life after death?
+
+**Answer.** All this I stedfastly believe.
+
+**Minister.** Wilt thou be baptized in this faith?
+
+**Answer.** That is my desire.
+
+**Minister.** Wilt thou then obediently keep God's holy will and commandments, and walk in the same all the days of thy life?
+
+**Answer.** I will.
 
 ## The Prayer over the Children
 
-> Then shal the Priest say.
+> Then shall the Priest say,
 
-O merciful God, graunte that the olde Adam in these children maye be so buried, that the newe man may be raysed up in them.
+O merciful God, grant that the old Adam in this Child may be so buried, that the new man may be raised up in him.
 Amen.
-Graunte that all carnal affeccions maye dye in them, and that all thinges belonginge to the spirit may live and growe in them.
+
+Grant that all carnal affections may die in him, and that all things belonging to the Spirit may live and grow in him.
 Amen.
-Graunte that they may have power and strength to have victory, and to triumphe against the Divil, the world, and the flesh.
+
+Grant that he may have power and strength, to have victory, and to triumph against the devil, the world, and the flesh.
 Amen.
-Graunt that whosoever is here dedicated to thee, by our office and ministerie, may also be endued with heavenly vertues, and everlastingly rewarded through thy mercy, O blessed Lord God, who doest live and govern al thinges world without ende.
+
+Grant that whosoever is here dedicated to thee by our office and ministry may also be endued with heavenly virtues, and everlastingly rewarded, through thy mercy, O blessed Lord God, who dost live, and govern all things, world without end.
 Amen.
 
 ## The Blessing of the Water
 
-Almighty everliving God, whose most derely beloved son Jesus Christe, for the forgevenes of our sins, did shed out his moste precious syde bothe water and bloude, and gave commaundement to his disciples that they should go teache al nacions, and baptise them in the name of the father, the sonne, and of the holy Ghost : Regard, we beseche the, the supplicacions of thy congregacion, and graunt that al thy servantes whiche shalbe baptised in this water, may receve the fulnes of thy grace, and ever remaine in the nombre of thy faithful and elect chyldren, through Jesus Christ our Lord.
+ALMIGHTY everliving God, whose most dearly beloved Son Jesus Christ, for the forgiveness of our sins, did shed out of his most precious side both water and blood; and gave commandment to his disciples, that they should go teach all nations, and baptize them in the Name of the Father, and of the Son, and of the Holy Ghost: Regard, we beseech thee, the supplications of thy Congregation; sanctify this Water to the mystical washing away of sin; and grant that this Child, now to be baptized therein, may receive the fulness of thy grace, and ever remain in the number of thy faithful and elect children; through Jesus Christ our Lord.
 Amen.
 
 ## The Baptism
 
-> Then the Priest shal take the Childe in his handes, and aske the name; and naming the Childe, shal dippe it in the water, so it be discretely and warely done, saying,
-
-> N.
-> I Baptise the in the name of the Father, and of the Sonne, and of the holy Ghost.
-> Amen.
-
-> And yf the Ghilde be weake, it shall suffice to powre water upon it, saying the foresaid words.
+> Then the Priest shall take the Child into his hands, and shall say to the Godfathers and Godmothers, Name this Child.
+> And then naming it after them (if they shall certify him that the Child may well endure it) he shall dip it in the Water discreetly and warily, saying,
 
 N.
-I Baptize the in the name of the Father, and of the sonne, and of the holy Ghost.
+I baptize thee in the Name of the Father, and of the Son, and of the Holy Ghost.
+Amen.
+
+> But if they certify that the Child is weak, it shall suffice to pour Water upon it, saying the foresaid words,
+
+N.
+I baptize thee in the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
 ## The Signing with the Cross
 
-> Then the Priest shall make a Crosse upon the Childes forehead, saying:
+> Then shall the Priest say,
 
-We receive this Childe into the congregacion of Christes flocke, and do sygne him with the signe of the crosse, in token that hereafter he shal not be ashamed to confesse the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devyll, and to continue Christes faithful souldiour and servaunt unto his lives ende.
+We receive this Child into the Congregation of Christ's flock, *and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ's faithful soldier and servant unto his life's end.
 Amen.
+
+> *Here the Priest shall make a Cross upon the Child's forehead.
 
 ## The Reception
 
-> Then shal the Priest say,
+> Then shall the Priest say,
 
-Seying now, derely beloved brethren that these children be regenerate and graffed into the bodye of Christes congregacion, let us geve thankes unto God for these benefites, and with one accorde make our praiours unto almighty God, that thei may lead the reste of their lyfe according to this beginning.
+Seeing now, dearly beloved brethren, that this Child is regenerate and grafted into the body of Christ's Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that this Child may lead the rest of his life according to this beginning.
 
 ## The Lord's Prayer
 
-> Then shal be said.
+> Then shall be said, all kneeling,
 
-> Our Father which art &c.
+Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
+Amen.
 
 ## The Thanksgiving after Baptism
 
-> Then shal the Priest say,
+> Then shall the Priest say,
 
-We yelde the harty thankes most merciful father, that it hathe pleased thee to regenerate this enfant with thy holy spirit, to receyve him for thine owne childe by adoption, and to incorporate him into thy holy congregacion.
-And humbly we beseche thee to graunt that he being dead unto sin and lyving unto righteousnes, and being buried with Christ in his death, maye crucify the old man, and utterly abolyshe the whole bodye of sin, that as he is made partaker of the deathe of thy sonne, so he maye be partaker of hys resurreccion, so that finally with the residue of thy holy congregacion, he may be inheritour of thine everlasting kingdome.
-Through Christ our Lord.
+We yield thee hearty thanks, most merciful Father, that it hath pleased thee to regenerate this Infant with thy Holy Spirit, to receive him for thine own Child by adoption, and to incorporate him into thy holy Church.
+And humbly we beseech thee to grant that he being dead unto sin, and living unto righteousness, and being buried with Christ in his death, may crucify the old man, and utterly abolish the whole body of sin; and that, as he is made partaker of the death of thy Son, he may also be partaker of his resurrection; so that finally, with the residue of thy holy Church, he may be an inheritor of thine everlasting kingdom; through Christ our Lord.
 Amen.
 
 ## The Final Exhortation
 
-> At the laste ende, the Priest calling the Godfathers and Godmothers together, shal say this shorte exhortation folowing.
+> Then, all standing up, the Priest shall say to the Godfathers and Godmothers this exhortation following.
 
-Forasmuche as these children have promysed by you to forsake the Devil and his woorkes, to beleve in God, and to serve hym, you must remember that it is your parts and duties to see that these enfants be taughte, so sone as they shalbe able to learne, what a solempne vowe, promyse, and profession they have made by you.
-And that they may know these thinges the better; ye shal cal upon theim to heare Sermons, And chiefly you shal provide that they may learne the Crede, the Lordes praier, and the Ten Commaundementes in the English tongue; and al other thinges which a Christian man ought to know and beleve to his souls health.
-And that these children may be vertuously brought up, to leade a Godly and a christian life, remembring alwaies that Baptisme doeth represent unto us our profession, which is to folow the example of our saviour Christ, and to be made like unto hym, that as he died and rose again for us: so should we (whiche are Baptised) dye from sin, and ryse again unto rightuousnes, continually mortifiyng al our evyll and corrupt affections, and dailye procedynge in all vertue and godlynes of living.
+Foreasmuch as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise and profession he hath here made by you.
+And that he may know these things the better, ye shall call upon him to hear sermons; and chiefly ye shall provide that he may learn the Creed, the Lord's Prayer and the Ten Commandments in the vulgar tongue, and all other things which a Christian ought to know and believe to his soul's health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering always, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that as he died and rose again for us, so should we, who are baptized, die from sin and rise again unto righteousness, continually mortifying all our evil and corrupt affections, and daily proceeding in all virtue and godliness of living.
+<!-- VERIFY: source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan -->
 
 ## The Rubrics
 
-> The Minister shal commaunde that the chyldren be brought to the Byshop to be confyrmed of him, so sone as they can say in theyr vulgare tongue the articles of the faith, the Lordes praier, and the x.
-> Commaundementes, and be further instructed in the Catechisme set furth for that purpose, accordyngly as it is there expressed.
+> Then shall he add and say,
+
+Ye are to take care that this Child be brought to the Bishop to be confirmed by him, so soon as he can say the Creed, the Lord's Prayer and the Ten Commandments in the vulgar tongue, and be further instructed in the Church Catechism set forth for that purpose.
+
+> It is certain by God's Word, that children which are baptized, dying before they commit actual sin, are undoubtedly saved.
+
+> To take away all scruple concerning the use of the sign of the Cross in Baptism; the true explication thereof, and the just reasons for the retaining of it, may be seen in the xxxth Canon, first published in the year MDCIV.

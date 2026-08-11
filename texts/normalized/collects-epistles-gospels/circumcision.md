@@ -1,29 +1,20 @@
-# The Circumcision
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Circumcision of Christ
 
 ## The Collect
 
-ALMYGHTIE.
+Almighty God, who madest thy blessed Son to be circumcised, and obedient to the law for man; Grant us the true circumcision of the Spirit; that, our hearts, and all our members, being mortified from all worldly and carnal lusts, we may in all things obey thy blessed will; through the same thy Son Jesus Christ our Lord.
 Amen.
 
-God, whiche madeste thy blessed sonne to be circumcised, and obedyente.
-Amen.
+> January 1.
 
-to the law for man; Graunt us the true circumcision of thy spirit,.
-Amen.
-
-that our hertes, and al our membres, being mortifyed from al worldly.
-Amen.
-
-and carnal lustes, may in al thinges obey thy blessed wil; through the.
-Amen.
-
-same thy sonne Jesus Christ our Lorde.
-Amen.
+> The same Collect, Epistle, and Gospel shall serve for every day after unto the Epiphany.
 
 ## The Epistle
 
-Romans 4
+Romans 4:8
 
 ## The Gospel
 
-Luke 2
+Luke 2:15

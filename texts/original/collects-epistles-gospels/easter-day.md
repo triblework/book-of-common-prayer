@@ -1,57 +1,19 @@
-# Easter Daye
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Easter Day
 
 ## The Collect
 
-ALMIGHTIE God,.
+Almighty God, who through thine only-begotten Son Jesus Christ hast overcome death, and opened unto us the gate of everlasting life: We humbly beseech thee, that as by thy special grace preventing us thou dost put into our minds good desires, so by thy continual help we may bring the same to good effect; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Ghost, ever one God, world without end.
 Amen.
 
-whiche through thy onely begotten sonne Jesus Christ hast overcome death,.
-Amen.
-
-and opened unto us the gate of everlasting life; we humbly beseche thee,.
-Amen.
-
-that, as by thy speciall grace, preventing.
-Amen.
-
-us, thou doest put in our mindes good desires, so by thy continuall.
-Amen.
-
-help we may bring the same to good effect; through Jesus Christ our.
-Amen.
-
-Lorde who lyveth and reigneth, &c.
-Amen.
+> At Morning Prayer, instead of the Psalm: O come, let us, &c.
+> these Anthems shall be sung or said.
 
 ## The Epistle
 
-Colossians 3
+Colossians 3:1
 
 ## The Gospel
 
-John 20
-
-## The Collect (Second Communion)
-
-ALMIGHTY father,.
-Amen.
-
-whiche hast geven thy only sonne to dye for our sinnes, and to rise.
-Amen.
-
-againe for oure justificacion; Graunte us so to putte awaye the leaven.
-Amen.
-
-of malyce and wickednesse, that we maye alwaye serve thee in purenesse.
-Amen.
-
-of living and trueth; through Jesus Christe oure Lorde.
-Amen.
-
-## The Epistle (Second Communion)
-
-1 Corinthians 5
-
-## The Gospel (Second Communion)
-
-Mark 16
+John 20:1
