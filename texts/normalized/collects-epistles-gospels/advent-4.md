@@ -4,17 +4,23 @@
 
 ## The Collect
 
-LORDE rayse up
+LORDE rayse up.
+Amen.
 
-(we pray the) thy power, and come among us, and with great might succour
+(we pray the) thy power, and come among us, and with great might succour.
+Amen.
 
-us; that whereas, through our sins and wickednes, we be soore lette
+us; that whereas, through our sins and wickednes, we be soore lette.
+Amen.
 
-and hindred, thy bountiful grace and mercye, through the satisfaccion
+and hindred, thy bountiful grace and mercye, through the satisfaccion.
+Amen.
 
-of thy sonne our Lord, may spedily deliver us; to whom with thee and
+of thy sonne our Lord, may spedily deliver us; to whom with thee and.
+Amen.
 
 the holy gost be honor and glory, world without ende.
+Amen.
 
 ## The Epistle
 

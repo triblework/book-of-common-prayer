@@ -4,17 +4,23 @@
 
 ## The Collect
 
-ALMIGHTIE God,
+ALMIGHTIE God,.
+Amen.
 
-whiche by thy blessed sonne dyddest call Mathewe from the receipte of
+whiche by thy blessed sonne dyddest call Mathewe from the receipte of.
+Amen.
 
-custome [=tax
+custome [=tax.
+Amen.
 
-office] to be an Apostle and Evangelist; Graunt us grace to forsake
+office] to be an Apostle and Evangelist; Graunt us grace to forsake.
+Amen.
 
-all covetous desires, and inordinate love of riches, and to folowe thy
+all covetous desires, and inordinate love of riches, and to folowe thy.
+Amen.
 
 sayed sonne Jesus Christ; who lyveth and reigneth, &c.
+Amen.
 
 ## The Epistle
 

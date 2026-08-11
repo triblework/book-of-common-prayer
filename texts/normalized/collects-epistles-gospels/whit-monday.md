@@ -3,9 +3,11 @@
 ## The Collect
 
 God, which, &c.
-as upon
+as upon.
+Amen.
 
 witsonday.
+Amen.
 
 ## The Epistle
 

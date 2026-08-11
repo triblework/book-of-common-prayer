@@ -1,111 +1,120 @@
-# An Ordre for Evening Prayer throughout the yere.
+# An Order for Evening Praier throughout the yere.
 
-> The Priest shall saye.
+> The Priest shal saie.
 
 ## The Lordes Prayer
 
-OUR Father which, &c.
+OUR Father, which, &c.
 
 ## The Versicles
 
-> Then lykewyse he shal saye.
+> Then likewise he shal saye.
 
-O Lord, open thou our lippes.
-**Aunswere.** And our mouth shal shewe furth thy prayse.
-**Priest.** O God, make spede to save us.
+O Lord open thou our lippes.
+**Aunswere.** And our mouth shall shewe furth thy prayse.
+**Priest.** O God make spede to save us.
 **Aunswere.** Lord, make haste to helpe us.
-<!-- VERIFY: 'Lord, make haste to helpe us' — the justus 1552 EP page omits the initial 'O' that the 1552 Morning Prayer versicle has ('O Lord, make haste'); may be a transcription slip; confirm against a 1552 scan -->
-
-**Priest.** Glory be to the father, and to the sonne: and to the holy gost;
-As it was in the beginning, is now, and ever shall be: world without ende.
+<!-- VERIFY: 'Lord, make haste to helpe us' — the justus 1559 EP page omits the initial 'O' (1552 Morning Prayer has 'O Lord, make haste'); the same omission is flagged at 1559 Morning Prayer; may be a transcription slip; confirm against a 1559 scan -->
+**Priest.** Glory be to the father, and to the sonne: and to the holy ghoste.
+As it was in the beginninge, is nowe, and ever shal be : worlde wythout ende.
 Amen.
-Prayse ye the Lorde.
+Praise ye the Lorde.
 
 ## The Psalms
 
-> Then Psalmes in ordre as they be appointed in ye Table for Psalmes, except there be proper Psalmes appointed for that day.
+> Then Psalmes in ordre, as they be appoincted in the Table for Psalmes, except there be proper Psalmes appointed for that day.
 
 ## The First Lesson
 
-> Then a Lesson of the Old Testament, as it is appointed likewise in the Kalendar, except there be propre lessons appointed for that day.
+> Then a Lesson of the olde Testament, as is appointed likewise in the kalender, except there be propre lessons appointed for that day.
 > After that, Magnificat in Englishe, as foloweth.
 
 ## Magnificat
 
 > Magnificat.
+> Luke 1.
 
-MY soule doth magnifie the Lord :
-And my spirite hath rejoyced in god my Saviour.
-For he hath regarded the lowelyness of hys handmayden.
-For beholde from henceforth all generacions shall call me blessed.
-For he that is mightie, hath magnified me : and holy is his name.
+MY soule doeth magnifie the Lorde.
+And my spirit hath rejoysed in god my saviour.
+For he hath regarded the lowelines of his handmaiden.
+<!-- VERIFY: 'And my sprit ... the loweliries of his handmaiden' — the justus 1559 page prints OCR forms 'sprit' (spirit) and 'loweliries' (lowelines); rendered as the intended words here; confirm the 1559 spelling against a page scan -->
+For beholde from hencefurth al generacions shall call me blessed.
+For he that is mightie hath magnified me : and holy is his name.
 And his mercy is on them that feare him : throughout all generacions.
-He hath shewed strength with hys arm : he hath scatered the proud, in the imaginacion of their hearts.
-He hath put down the mighty from their seate : and hath exalted the humble and meke.
-He hath filled the hungrye with good thyngs : and the riche he hath sent emptie away.
-He rememberynge hys mercy, hath holpen hys servaunt Israel : as he promised to our forefathers, Abraham and his sede, for ever.
-Glory be to the father, &c.
-As it was in the, &c.
+He hath shewed strength with his arme; he hath scatered the proude in the imagination of their hertes.
+He hath put downe the mightye from theyr seate : and hath exalted the humble and meke.
+He hath filled the hungry with good thinges : and the ryche he hath sent empty away.
+He remembring his mercy, hath holpen his servaunte Israel as he promysed to our forefathers, Abraham and his sede for ever.
+Glory be to the Father, and to the sonne, and to the holy Ghoste.
+As it was in the beginninge, is nowe, and ever shalbe, world without ende.
+Amen.
 
 ## Cantate Domino
 
-> Or els thys Psalme.
-> Cantate Domino.
-> Ps. xcviii.
+> Or the xcviii.
+> Psalme Cantate domino canticum nouum.
 
-O SING unto the Lorde a newe song : for he hath done marvaylous thynges.
-With his own right hande, and with hys holy arme : hath he gotten himselfe the victorye.
-The lord declared his salvacion : his rightousnes hath he openly shewed in the sight of the heathen.
-He hath remembred his mercy and trueth toward the house of Israel : and all the endes of the world have seen the salvation of our God.
-Shewe your selfes joiful unto the lord al ye lands : syng, rejoyce and geve thankes.
-Prayse the Lord upon the harpe: sing to the harpe with a Psalme of thankesgeving.
-With trompettes also and shawmes: O shewe your selfes joyful before the Lord the king.
-Let the sea make a noise, and all that therein is : the rounde world, and they that dwel therein.
-<!-- VERIFY: 'all that them is ... they that dwel therm' — the justus 1552 source prints 'them is' and 'therm', both probable OCR corruptions of 'therein'; normalized to 'therein' here; confirm against a 1552 page scan -->
-Let the flouds clappe their hands, and let the hilles be joiful together before the Lorde : for he is come to judge the yearth.
-With righteousnes shal he judge the world : and the people with equitie.
-Glory be to the father, &c.
-As it was in the, &c.
+O SINGE unto the Lorde a newe songe : for he hath done marveilous thinges.
+With his owne right hande, and with his holy arme : hath he gotten him selfe the victorye.
+The Lord declared his salvacion : his righteousnes hath he openly shewed in the syght of the Heathen.
+He hath remembred his mercy and truthe towarde the house of Israel: and all the endes of the worlde haue sene the salvacion of our God.
+Shewe your selfes joyfull unto the Lorde, all ye landes : synge, rejoyce and geve thankes.
+Prayse the Lorde upon the harpe : synge to the harp with a Psalme of thankesgeving.
+With trumpettes also and shawmes : O shewe your selfes joyfull before the Lord the kynge.
+Let the Sea make a noyse, and all that therein is : the rounde worlde and they that dwell therin.
+Let the floudes clappe their handes, and let the hylles be joyful togyther before the Lord : for he is come to judge the earth.
+With righteousnes shal he judge the worlde : and the people with equitie.
+Glory be to the Father, and to the Sonne, and to the holy Ghoste.
+As it was in the beginninge, is nowe, and ever shalbe, worlde without ende.
+Amen.
 
 ## The Second Lesson
 
-> Then a Lesson of the newe Testament.
-> And after that (Nunc dimittis) in Englishe, as foloweth.
+> Then a lesson of the new testament.
+> And after that (Nunc dimittis) in Englyshe, as foloweth.
 
 ## Nunc Dimittis
 
-LORD, now lettest thou thy servant depart in peace : accordyng to thy worde.
-For mine iyes have seen : thy salvacion.
-Whiche thou hast prepared : before the face of al people;
-To be a light to lighten the Gentiles : and to be the glory of thy people Israel.
-Glory be to the father, &c.
-As it was in the, &c.
+LORDE, nowe lettest thou thy servaunt departe in peace : according to thy worde.
+For myne eyes have sene : thy salvacion.
+Whiche thou haste prepared : before the face of all people;
+To be a lyght to lyghten the Gentiles : and to be the glorye of thy people Israell.
+Glorye be to the father, and to the sonne, and to the holy ghoste.
+As it was in the beginning, is nowe, and ever shall be, worlde withoute ende.
+Amen.
 
 ## Deus Misereatur
 
-> Or els thys Psalme.
-> Deus misereatur.
-> Ps. lxvii.
-<!-- VERIFY: 'Deus misereatur. Ps. lxvii.' — the justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on the source page; confirm the body against a 1552 scan -->
+> Or els thys Psalme, Deus misereatur nostri in Englyshe.
+
+GOD be merciful unto us, and blesse us : and shew us the light of his countenaunce, and bee mercifull unto us.
+That thy way maie be knowen upon earth: thy savinge healthe amonge all nacions.
+Let the people praise thee O God : yea, let all the people praise thee.
+O let the nacions rejoyce and be glad: for thou shalte judge the folke righteouslye, and governe the nacions upon earth.
+Let the people praise thee, O God: let all the people praise thee.
+Then shall the earth bringe foorth her increse: and God, even our owne God, shall geve us his blessinge.
+God shall blesse us : and all the endes of the worlde shall feare him.
+Glory be to the Father, &c.
+As it was in the beginning, &c.
 
 ## The Apostles' Creed
 
-> Then shal folowe the Crede, with other prayers as is before appointed at Morning prayer after Benedictus.
-> And with three Collects: First of the day: the second of peace: Third for aide against al perilles, as herafter foloweth: wiche two laste Collectes shalbe daiely said at Evening praier without alteracion.
+> Then shal folow the Crede, with other prayers, as is before appoynted at Morning prayer, after Benedictus.
+> And with the Collectes: Fyrste of the day, the seconde of peace, the thyrde for ayde agaynste all peryls, as hereafter foloweth, whiche two last Collectes shalbe daylye sayde at Evenyng Prayer wythout alteracion.
 
 ## The Collect for the Day
 
 ## The Collect for Peace
 
-> The second Collecte at Evening Prayer.
+> The seconde Collecte at Evenynge Prayer.
 
-O GOD, from whom all holy desyres, all good counsayls, and all just woorks doe procede.
-Geve unto thy servaunts that peace, which the worlde cannot geve; that both our heart maie be set to obeye thy commaundments, and also that by thee we beeing defended from the feare of our enemies, may pass our tyme in reste and quietnes through the merites of Jesu Chryste our Savioure.
+O GOD, from whome all holy desires, all good counsailes, and all just woorkes do procede: geve unto thy servauntes that peace, whiche the worlde cannot geve: that bothe our hertes may be set to obey thy commaundementes, and also that by thee, we beynge defended from the feare of our enemies, may passe our time in rest and quietnes.
+Through the merites of Jesus Chryste our saviour.
 Amen.
 
 ## The Collect for Aid against all Perils
 
-> The third Collecte for ayde agaynst al perilles.
+> The thyrde Collecte for ayde, against all peryls.
 
-LIGHTEN our darkenes, we beseche thee, O Lorde, and by thy greate mercye, defend us from al perilles and daungers of thys nyghte, for the love of thy onely Sonne, our Savyoure Jesus Christe.
+LYGHTEN oure darckenesse, wee beseche thee (O Lorde,) and by thy greate mercye defende us from all perils and daungers of this nyghte, for the love of thy onely sonne oure Savioure Jesus Christe.
 Amen.

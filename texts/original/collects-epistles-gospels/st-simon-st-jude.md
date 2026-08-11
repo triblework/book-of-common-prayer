@@ -2,15 +2,20 @@
 
 ## The Collect
 
-ALMIGHTIE God,
+ALMIGHTIE God,.
+Amen.
 
-whiche hast builded the congregacion upon the foundacion of the Apostles
+whiche hast builded the congregacion upon the foundacion of the Apostles.
+Amen.
 
-and prophetes, Jesu Christ himselfe beyng the head corner-stone; graunte
+and prophetes, Jesu Christ himselfe beyng the head corner-stone; graunte.
+Amen.
 
-us so to bee joyned together in unitie of spirite by their doctrine,
+us so to bee joyned together in unitie of spirite by their doctrine,.
+Amen.
 
-that we maye be made an holye temple acceptable to thee; throughe Jesu
+that we maye be made an holye temple acceptable to thee; throughe Jesu.
+Amen.
 
 Christe our Lorde.
 Amen.
