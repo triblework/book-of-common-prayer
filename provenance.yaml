@@ -146,7 +146,7 @@ records:
     cross_check:
       - "parallel 1662 sentences used to reconstruct OCR-damaged citations"
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     verify_items:
       - anchor: The Opening Sentences
