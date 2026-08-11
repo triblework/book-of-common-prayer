@@ -1,4 +1,4 @@
-# In the time of Dearth and Famine. (i)
+# In Time of Dearth and Famine.
 
-O God, heavenly Father, whose gift it is that the rain doth fall, the earth is fruitful, beasts increase, and fishes do multiply: Behold, we beseech thee, the afflictions of thy people; and grant that the scarcity and dearth, which we do now most justly suffer for our iniquity, may through thy goodness be mercifully turned into cheapness and plenty; for the love of Jesus Christ our Lord, to whom with thee and the Holy Ghost be all honour and glory, now and for ever.
+O GOD, heavenly Father, whose gift it is that the rain doth fall, and the earth bring forth her increase; Behold, we beseech thee, the afflictions of thy people; increase the fruits of the earth by thy heavenly benediction; and grant that the scarcity and dearth, which we now most justly suffer for our sins, may, through thy goodness, be mercifully turned into plenty; for the love of Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honour and glory, now and for ever.
 Amen.

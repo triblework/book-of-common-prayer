@@ -1,29 +1,14 @@
-# The xii Sunday
+# The Twelfth Sunday after Trinity
 
 ## The Collect
 
-ALMIGHTIE and.
-Amen.
-
-everlastyng God, which art alwayes more ready to heare then we to praye,.
-Amen.
-
-and art wont to geve more than eyther we desyre or deserve; Powre downe.
-Amen.
-
-upon us the aboundance of thy mercy; forgeving us those thynges wherof.
-Amen.
-
-our conscience is afrayde, and gevyng unto us that that our prayer dare.
-Amen.
-
-not presume to aske, through Jesus Christe our Lorde.
+ALMIGHTY and everlasting God, who art always more ready to hear than we to pray, and art wont to give more than either we de sire or deserve; Pour down upon us the abundance of thy mercy; forgiving us those things whereof our conscience is afraid, and giving us those good things which we are not worthy to ask, but through the merits and mediation of Jesus Christ, thy Son, our Lord.
 Amen.
 
 ## The Epistle
 
-2 Corinthians 3
+2 Corinthians 3:4
 
 ## The Gospel
 
-Mark 7
+Mark 7:31

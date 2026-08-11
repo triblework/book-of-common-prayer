@@ -1,15 +1,14 @@
 # The Order how the Psalter is appointed to be read
 
-THE Psalter shalbe readde through, ones euery moneth, and because that some Monethes bee longer then some other be; It is thought good, to make them even by this meanes.
+THE Psalter shall be read through once every month, as it is there appointed, both for Morning and for Evening Prayer.
+But in February, it shall be read only to the twenty-eighth or twenty-ninth day of the month.
 
-To every moneth shalbe appointed (as concerning this purpose) just xxx dayes.
+And whereas, January, March, May, July, August, October, and December, have one-and-thirty days apiece; it is ordered that the same Psalms shall be read the last day of the said months which were read the day before; so that the Psalter may begin again on the first day of the next month ensuing.
 
-And because January and Marche hathe one daye above the sayed nomber, and February, which is placed betwene them bothe, hath onely xxviii dayes, February shall borow of either of the monethes (of January and Marche) one day, and so the Psalter, which shalbe redde in February, must begin the last daie of January, and ende the first daie of Marche.
+And whereas the 119th Psalm is divided into twenty-two Portions, and is over long to be read at one time; it is so ordered, that at one time shall not be read above four or five of the said Portions.
 
-And where as May, July, August, October and December, hath xxxi dayes a pece, it is ordred that the same Psalmes shalbe redde the haste day of the sayed Monethes, which were redde the daye before, so that the Psalter may beginne againe the first daie of the next Monethe ensuyng.
+The Minister shall, instead of reading from the Psalter as divided for Daily Morning and Evening Prayer, may read one of the Selections set out by this Church.
 
-Now to knowe what Psalmes shalbe redde every daie, looke in the Kalender, the nomber that is appointed for the Psalmes, and then fynde thesame nomber in this Table, and upon that nomber shall you see, what Psalmes shalbe sayde at Morning and Evening prayer.
+And, on Days of Fasting and Thanksgiving, appointed either by the Civil or by the Ecclesiastical Authority, the Minister may appoint such Psalms as he shall think fit in his discretion, unless any shall have been appointed by the Ecclesiastical Authority, in a Service set out for the Occasion; which, in that case, shall be used and no other.
 
-And where the cxix Psalme, is devided into xxii porcions, and is overlong to be redde at one time: it is so ordred, that, at one time, shal not be readde above foure or fyve of the sayd porcions, as you shall perceive to be noted in this Table folowyng.
-
-And here is also to be noted, that in this Table, and in all other partes of the service, where any Psalmes are appoyncted, the nombre is expressed after the greate Englyshe Bible, whiche from the ix Psalme, unto the cxlviii Psalme (folowing the devision of the Hebrues) doth vary in nombres from the common Latine translacion.
+> Proper
