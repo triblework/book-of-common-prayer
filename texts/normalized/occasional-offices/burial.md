@@ -2,25 +2,25 @@
 
 ## The Procession
 
-> Here is to be noted, that the Office ensuing is not to be used for any unbaptized adults, any who die excommunicate, or who have laid violent hands upon themselves.
+> ¶ Here is to be noted, that the Office ensuing is not to be used for any unbaptized adults, any who die excommunicate, or who have laid violent hands upon themselves.
 
-> The Minister, meeting the Corpse at the entrance of the Churchyard, and going before it, either into the Church, or towards the Grave, shall say, or sing,
+> ¶ The Minister, meeting the Corpse at the entrance of the Churchyard, and going before it, either into the Church, or towards the Grave, shall say, or sing,
 
 I AM the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me, shall never die.
 St. John xi. 25, 26.
 
-I KNOW that my Redeemer liveth, and that he shall stand at the latter day upon the earth And though after my skin worms destroy this body, yet in my flesh shall I see God : whom I shall see for myself, and mine eyes shall behold, and not another.
+I KNOW that my Redeemer liveth, and that he shall stand at the latter day upon the earth And though after my skin worms destroy this body, yet in my flesh shall I see God: whom I shall see for myself, and mine eyes shall behold, and not another.
 Job xix. 25, 26, 27.
 
 WE brought nothing into this world, and it is certain we can carry nothing out.
-The Lord gave, and the Lord hath taken away; blessed be the Name of the Lord. 1 Tim. vi. 7.
+The LORD gave, and the LORD hath taken away; blessed be the Name of the LORD. 1 Tim. vi. 7.
 Job i. 21.
 
 ## The Psalms
 
-> After they are come into the Church, shall be said or sung the following Anthem, taken from the 39th and 90th Psalms.
+> ¶ After they are come into the Church, shall be said or sung one or both of the following Selections, taken from the 39th and 90th Psalms.
 
-LORD, let me know my end, and the number of my days; that I may be certified how long I have to live.
+LORD, let me know mine end, and the number of my days; that I may be certified how long I have to live.
 
 Behold, thou hast made my days as it were a span long, and mine age is even as nothing in respect of thee; and verily every man living is altogether vanity.
 
@@ -33,11 +33,18 @@ Deliver me from all mine offences; and make me not a rebuke unto the foolish.
 
 When thou with rebukes dost chasten man for sin, thou makest his beauty to consume away, like as it were a moth fretting a garment: every man therefore is but vanity.
 
-Hear my prayer, O Lord, and with thine ears consider my calling; hold not thy peace at my tears: For I am a stranger with thee, and a sojourner, as all my fathers were.
+Hear my prayer, O LORD, and with thine ears consider my calling; hold not thy peace at my tears:
+
+For I am a stranger with thee, and a sojourner, as all my fathers were.
 
 O spare me a little, that I may recover my strength, before I go hence, and be no more seen.
 
-Lord, thou hast been our refuge, from one generation to another.
+Glory be to the Father; and to the Son, and to the Holy Ghost;
+
+As it was in the beginning, is now, and ever shall be, world without end.
+Amen.
+
+LORD, thou hast been our refuge, from one generation to another.
 
 Before the mountains were brought forth, or ever the earth and the world were made, thou art God from everlasting, and world without end.
 
@@ -49,15 +56,13 @@ As soon as thou scatterest them they are even as a sleep and fade away suddenly 
 
 In the morning it is green, and groweth up; but in the evening it is cut down, dried up, and withered.
 
-For we consume away in thy displeasure; and are afraid at thy wrathful indignation.
-
 Thou hast set our misdeeds before thee; and our secret sins in the light of thy countenance.
 
 For when thou art angry, all our days are gone: we bring our years to an end, as it were a tale that is told.
 
 The days of our age are threescore years and ten; and though men be so strong that they come to fourscore years, yet is their strength then but labour and sorrow; so soon passeth it away, and we are gone.
 
-So teach us to number our days, that we may apply our hearts unto wisdom.
+O teach us to number our days, that we may apply our hearts unto wisdom.
 
 Glory be to the Father; and to the Son, and to the Holy Ghost;
 
@@ -66,18 +71,20 @@ Amen.
 
 ## The Lesson
 
-> Then shall follow the Lesson, taken out of the fifteenth Chapter of the first Epistle of St. Paul to the Corinthians.
+> ¶ Then shall follow the Lesson, taken out of the fifteenth Chapter of the first Epistle of St. Paul to the Corinthians.
 
-NOW is Christ risen from the dead, and become the first-fruits of them that slept. 1 Cor. xv. 20.
+1 Cor. xv. 20.
+
+NOW is Christ risen from the dead, and become the first-fruits of them that slept.
 For since by man came death, by man came also the resurrection of the dead.
 For as in Adam all die, even so in Christ shall all be made alive.
-But every man in his own order: Christ the first-fruits; afterward they that are Christ’s, at his coming.
+But every man in his own order: Christ the first-fruits; afterward they that are Christ's, at his coming.
 Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule, and all authority, and power.
 For he must reign, till he hath put all enemies under his feet.
 The last enemy that shall be destroyed is death.
 For he hath put all things under his feet.
 But when he saith, all things are put under him, it is manifest that he is excepted, which did put all things under him.
-And when all things shall be subdued unto him, then shall the Son also himself be subject unto Him that put all things under him that God may be all in all.
+And when all things shall be subdued unto him, then shall the Son also himself be subject unto Him that put all things under him, that God may be all in all.
 Else what shall they do which are baptized for the dead, if the dead rise not at all?
 Why are they then baptized for the dead?
 and why stand we in jeopardy every hour?
@@ -104,7 +111,8 @@ Howbeit, that was not first which is spiritual, but that which is natural; and a
 The first man is of the earth, earthy: the second man is the Lord from heaven.
 As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.
 And as we have borne the image of the earthy, we shall also bear the image of the heavenly.
-Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption Behold, I show you a mystery: we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
+Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
+Behold, I show you a mystery: we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
 For this corruptible must put on incorruption, and this mortal must put on immortality.
 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality; then shall be brought to pass the saying that is written, Death is swallowed up in victory.
 O death, where is thy sting?
@@ -113,9 +121,11 @@ The sting of death is sin; and the strength of sin is the Law.
 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
 Therefore, my beloved brethren, be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 
+> ¶ Here may be sung a Hymn or an Anthem; and, at the discretion of the Minister, the CREED, and such fitting PRAYERS as are elsewhere provided in this Book, may be added.
+
 ## At the Grave
 
-> When they come to the Grave, while the Corpse is made ready to be laid into the earth, shall be sung or said,
+> ¶ When they come to the Grave, while the Corpse is made ready to be laid into the earth, shall be sung or said,
 
 MAN, that is born of a woman, hath but a short time to live, and is full of misery.
 He cometh up, and is cut down, like a flower; he fleeth as it were a shadow, and never continueth in one stay.
@@ -128,21 +138,26 @@ Thou knowest, Lord, the secrets of our hearts; shut not thy merciful ears to our
 
 ## The Committal
 
-> Then, while the earth shall be cast upon the body by some standing by, the Minister shall say,
+> ¶ Then, while the earth shall be cast upon the body by some standing by, the Minister shall say,
 
 FORASMUCH as it hath pleased Almighty God, in his wise providence, to take out of this world the soul of our deceased brother, we therefore commit his body to the ground; earth to earth, ashes to ashes, dust to dust; looking for the general Resurrection in the last day, and the life of the world to come, through our Lord Jesus Christ; at whose second coming in glorious majesty to judge the world, the earth and the sea shall give up their dead; and the corruptible bodies of those who sleep in him shall be changed, and made like unto his own glorious body; according to the mighty working whereby he is able to subdue all things unto himself.
 
 ## The Anthem
 
-> Then shall be said, or sung,
+> ¶ Then shall be said, or sung,
 
 I HEARD a voice from heaven, saying unto me, Write, From henceforth blessed are the dead who die in the Lord: even so saith the Spirit; for they rest from their labours.
 Rev. xiv. 13.
 
 ## The Lord's Prayer
 
-> Then the Minister shall say the Lord's Prayer.
-> <!-- VERIFY: source prints 'Then the Minister shall say [the Lord's Prayer]' with a bracket-and-asterisk footnote ("omitted in 1892 BCP"); brackets/asterisk dropped as editorial apparatus, words kept as printed; confirm against a page scan -->
+> ¶ Then the Minister shall say,
+
+Lord, have mercy upon us.
+
+Christ, have mercy upon us.
+
+Lord, have mercy upon us.
 
 OUR Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -154,8 +169,7 @@ Amen.
 
 ## The Prayer
 
-> Then the Minister shalt say one or both of the following Prayers, at his discretion.
-> <!-- VERIFY: source prints 'shalt say'; likely "shall say"; kept as printed; confirm against a page scan -->
+> ¶ Then the Minister shall say one or both of the following Prayers, at his discretion.
 
 ALMIGHTY God, with whom do live the spirits of those who depart hence in the Lord, and with whom the souls of the faithful, after they are delivered from the burden of the flesh, are in joy and felicity; We give thee hearty thanks for the good examples of all those thy servants, who, having finished their course in faith, do now rest from their labours.
 And we beseech thee, that we, with all those who are departed in the true faith of thy holy Name, may have our perfect consummation and bliss, both in body and soul, in thy eternal and everlasting glory; through Jesus Christ our Lord.
@@ -182,10 +196,11 @@ ALMIGHTY and everliving God, we yield unto thee most high praise and hearty than
 Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate.
 Amen.
 
-> Inasmuch it may sometimes be expedient to say under shelter of the Church the whole or a part of the service appointed to be said at the Grave, the same is hereby allowed for weighty cause.
+> ¶ Inasmuch it may sometimes be expedient to say under shelter of the Church the whole or a part of the service appointed to be said at the Grave, the same is hereby allowed for weighty cause.
+> <!-- VERIFY: source prints 'Inasmuch  it may sometimes' with a doubled space; standard 1892 reads "Inasmuch as it may sometimes"; a word ("as") appears dropped in extraction; kept as printed; confirm against a page scan -->
 
 ## At the Burial of the Dead at Sea
 
-> The same office may be used; but in the Sentence of Committal, the Minister shall say,
+> ¶ The same office may be used; but in the Sentence of Committal, the Minister shall say,
 
 We therefore commit his body to the deep, looking for the general Resurrection in the last day, and the life of the world to come, through our Lord Jesus Christ; at whose second coming in glorious majesty to judge the world, the sea shall give up her dead; and the corruptible bodies of those who sleep in him shall be changed, and made like unto his glorious body; according to the mighty working whereby he is able to subdue all things unto himself.

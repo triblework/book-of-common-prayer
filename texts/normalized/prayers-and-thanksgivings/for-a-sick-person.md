@@ -1,7 +1,6 @@
 # For a Sick Person.
 
-O FATHER of mercies and God of all comfort, our only help in time of need; Look down from heaven, we humbly beseech thee, behold, visit, and relieve thy sick servant for whom our prayers are desired.
+O FATHER of mercies and God of all comfort, our only help in time of need; Look down from heaven, we humbly beseech thee, behold, visit, and relieve thy sick servant, for whom our prayers are desired.
 Look upon him with the eyes of thy mercy; comfort him with a sense of thy goodness; preserve him from the temptations of the enemy; give him patience under his affliction; and, in thy good time, restore him to health, and enable him to lead the residue of his life in thy fear, and to thy glory.
-Or else give him grace so to take thy visitation, that, after this painful life ended, he may dwell with thee in life everlasting; through .
-Jesus Christ our Lord.
+Or else give him grace so to take thy visitation, that, after this painful life ended, he may dwell with thee in life everlasting; through Jesus Christ our Lord.
 Amen.

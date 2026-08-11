@@ -25,14 +25,14 @@ Deut. xxxiii. 29.
 
 This text in the 1892 Book is essentially identical and so is not given separately; any differences are indicated.
 
-PRAISE ye the LORD: for it is good to sing praises unto our God; for it is pleasant, and praise is comely.
-The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.
-He healeth those that are broken in heart, and bindeth up their wounds.
-He covereth the heaven with clouds, and prepareth rain for the earth; he maketh the grass to grow upon the mountains.
-He giveth to the beast his food, and to the young ravens which cry.
-Praise the LORD, O Jerusalem; praise thy God, O Sion.
-For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.
-He maketh peace in thy borders, and filleth thee with the finest of the wheat.
+O PRAISE ye the LORD: for it is a good thing to sing praises unto our God : yea, a joyful and pleasant thing it is to be thankful.
+The LORD doth build up Jerusalem : and gather together the outcasts of Israel.
+He healeth those that are broken in heart : and giveth medicine to heal their sickness.
+O sing unto the LORD with thanksgiving : sing praises upon the harp to our God.
+Who covereth the heaven with clouds, and prepareth rain for the earth : and maketh the grass to grow upon the mountains, and herb for the use of men; He giveth fodder unto the cattle : and feedeth the young ravens who call upon him.
+Praise the LORD, O Jerusalem : praise thy God, O Sion.
+For he hath made fast the bars of thy gates : and hath blessed thy children within thee.
+He maketh peace in thy borders, and filleth thee with the flour of wheat.
 
 Glory be to the Father, and to the Son : and to the Holy Ghost; As it was in the beginning, is now, and ever shall be : world without end.
 Amen.
@@ -43,8 +43,8 @@ Amen.
 
 > After the General Thanksgiving, shall be said this which followeth.
 
-MOST gracious God, by whose knowledge the depths are broken up, and the clouds drop down the dew; We yield thee unfeigned thanks and praise, as for all thy mercies, so especially for the returns of seed-time and harvest, and for crowning the year with thy goodness, in the increase of the ground and the gathering in of the fruits thereof.
-And, we beseech thee, give us a just sense of this great mercy; such as may appear in our lives, by an humble, holy, and obedient walking before thee all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all glory and honour, world without end.
+MOST gracious God, by whose knowledge the depths are broken up, and the clouds drop down the dew; We yield thee unfeigned thanks and praise for the return of seed-time and harvest, for the increase of the ground and the gathering in of the fruits thereof, and for all the other blessings of thy merciful providence bestowed upon this nation and people.
+And, we beseech thee, give us a just sense of these great mercies; such as may appear in our lives, by an humble, holy, and obedient walking before thee all our days; through Jesus Christ our Lord whom, with thee and the Holy Ghost, be all glory and honour, world without end.
 Amen.
 
 ## The Collect to be used instead of that for the day.
