@@ -2,17 +2,23 @@
 
 ## The Collect
 
-ALMYGHTYE God,
+ALMYGHTYE God,.
+Amen.
 
-whiche in the place of the traytor Judas, didst chose thy faythful
+whiche in the place of the traytor Judas, didst chose thy faythful.
+Amen.
 
-servaunte Mathie
+servaunte Mathie.
+Amen.
 
-to be of the number of thy twelve Apostles; Graunt that thy church,
+to be of the number of thy twelve Apostles; Graunt that thy church,.
+Amen.
 
-being alway preserved from false Apostles, may be ordred and guided
+being alway preserved from false Apostles, may be ordred and guided.
+Amen.
 
 by faythful and true pastors; Through Jesus Christ our Lorde.
+Amen.
 
 ## The Epistle
 
