@@ -1,0 +1,45 @@
+name: Rebuild check
+
+# The history-level analog of `normalize.py --check`: rebuild the ENTIRE published
+# graph from the `authoring` branch and assert that every live tag's texts/ tree
+# is byte-identical to the freshly built one (spec §2.5, §5.9). Also asserts that a
+# tools-only change leaves every tag's texts/ tree unchanged (that guarantee is
+# implicit: build_history stamps identical tools into every commit, so only a
+# genuine text change can move a texts/ tree).
+#
+# Heavy, so it is NOT per-push: run it manually, or by adding the `rebuild` label
+# to a PR. It clones the whole repo (all branches + tags), checks out `authoring`,
+# and compares the rebuild against the live tags in the same clone.
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [labeled]
+
+jobs:
+  rebuild-check:
+    if: github.event_name == 'workflow_dispatch' || github.event.label.name == 'rebuild'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full repo (all history + tags)
+        uses: actions/checkout@v4
+        with:
+          ref: authoring
+          fetch-depth: 0
+
+      - name: Fetch published branches and tags for comparison
+        run: |
+          git fetch --no-tags origin '+refs/heads/main:refs/heads/main' \
+                                     '+refs/heads/scottish:refs/heads/scottish' \
+                                     '+refs/heads/american:refs/heads/american' || true
+          git fetch --tags origin
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Rebuild the whole history and compare texts/ trees to live tags
+        run: python tools/build_history.py --authoring . --live-repo . --check
