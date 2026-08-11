@@ -1,44 +1,38 @@
 # Tables and Rules for the Feasts and Fasts
 
-> RULES, to know when the Moveable Feasts and Holy-Days begin.
+Tables and Rules for tbe Movable and Immovable Feasts,
 
-EASTER-DAY, on which the rest depend, is always the first Sunday after the Full Moon which happens upon or next after the twenty-first day of March; and if the Full Moon happen upon a Sunday, Easter-day is the Sunday after.
+TOGETHER WITH THE DAYS OF FASTING AND ABSTINENCE, THROUGH THE WHOLE YEAR.
 
-Advent Sunday is always the nearest Sunday to the Feast of St Andrew whether before or after.
+RULES
 
-Septuagesima
+TO KNOW WHEN THE MOVABLE FEASTS AND HOLY-DAYS BEGIN.
 
-Sexagesima
+EASTER.DAY, on which the rest depend, is always the First Sunday after the Full Moon, which happens upon or next after the Twenty-first Day of March; and if the Full Moon happen upon a Sunday, Easter-day is the Sunday after.
 
-Quinquagesima
+But Note, That the Full Moon, for the purposes of these Rules and Tables, is the Fourteenth Day of a Lunar Month, reckoned according to an ancient Ecclesiastical computation, and not the real or Astronomical Full Moon.
 
-Quadragesima
+Advent-Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
 
-Sunday is Nine
+Septuagesima Sunday is Nine Weeks before Easter.
 
-Eight
+Sexagesima Sunday is Eight Weeks before Easter.
 
-Seven
+Quinquagesima Sunday is Seven Weeks before Easter.
 
-Six Weeks before
+Quadragesima Sunday is Six Weeks before Easter.
 
-Easter
+Rogation-Sunday is Five Weeks after Easter.
 
-Rogation Sunday
+Ascension-day is Forty Days after Easter.
 
-Ascension-Day
+Whitsunday is Seven Weeks after Easter.
 
-Whitsunday
+Trinity-Sunday is Eight Weeks after Easter.
 
-Trinity Sunday is Five Weeks
+A TABLE OF FEASTS,
 
-Forty Days
-
-Seven Weeks
-
-Eight Weeks After Easter
-
-> A TABLE OF FEASTS, to be observed in this Church, throughout the Year.
+TO BE OBSERVED IN THIS CHURCH THROUGHOUT THE YEAR.
 
 All Sundays in the Year.
 
@@ -54,28 +48,31 @@ St. Matthias the Apostle.
 
 The Annunciation of the Blessed Virgin.
 
-St. Mark the Evangelist
+St. Mark the Evangelist.
 
-St. Philip and St. James. the Apostles.
+St. Philip and St. James the Apostles.
 
 The Ascension of our Lord JESUS CHRIST.
 
-St. Barnabas.
+St. Barnabas the Apostle.
 
-The Nativity of St. John the Baptist.
+The Nativity of St. John Baptist.
 
 St. Peter the Apostle.
 
 St. James the Apostle.
+
+The Transfiguration of our Lord JESUS CHRIST.
+
 St. Bartholomew the Apostle.
 
 St. Matthew the Apostle.
 
-St. Michael and All Angels.
+St. Michael and all Angels.
 
 St. Luke the Evangelist.
 
-St. Simon and St. Jude, the Apostles.
+St. Simon & St. Jude the Apostles.
 
 All Saints.
 
@@ -89,27 +86,32 @@ St. Stephen the Martyr.
 
 St. John the Evangelist.
 
-The Holy Innocents
+The Holy Innocents.
 
-Monday and Tuesday in Easter Week.
+Monday and Tuesday In Easter week.
 
-Monday and Tuesday in Whitsun Week.
+Monday and Tuesday in Whitsun week.
 
-> A TABLE OF FASTS.
+A TABLE OF FASTS.
 
-Ash Wednesday. Good-Friday.
+Ash-Wednesday.
 
-Other Days of Fasting; on which the Church requires such a Measure of Abstinence, as is more especially suited to extraordinary Acts aad Exercises of Devotion.
+Good Friday.
 
-1st. The forty days of Lent.
+OTHER DAYS OF FASTING,
 
-2d.
-The Ember-Days at the Four Seasons, being the Wednesday, Friday, and Saturday after the first Sunday in Lent, the Feast of Pentecost, September 14, and December 13.
+ON WHICH THE CHURCH REQUIRES SUCH A MEASURE OF ABSTINENCE AS IS MORE ESPECIALLY SUITED TO EXTRAORDINARY ACTS AND EXERCISES OF DEVOTION.
 
-3d.
-The three Rogation Days, being the Monday, Tuesday, and Wednesday before holy Thursday, or the Ascension of our Lord.
+I.
+The Forty Days of Lent.
 
-4th.
-All the Fridays in time Year, except Christmas-Day.
+II.
+The Ember-days at the Four Seasons, being the Wednesday, Friday, and Saturday after The First Sunday in Lent, The Feast of Pentecost, September 14, and December 18.
 
-In addition to the above, the first Thursday in November (or, if any other day be appointed by the civil authority, then such day) shall be observed as a day of Thanksgiving to Almighty God, for the Fruits of the Earth, and all other Blessings of his merciful Providence.
+III.
+The three Rogation-days, being the Monday, Tuesday and Wednesday before Holy Thursday, or the Ascension of our Lord.
+
+IV.
+All the Fridays in the Year, except Christmas-day.
+
+In addition to the above, the first Thursday in November (or, if any other day be appointed by the Civil Authorlty, then such day) shall be observed as a Day of Thanksgiving to Almighty God for the Fruits of the Earth, and all other Blessings of his merciful Providence.

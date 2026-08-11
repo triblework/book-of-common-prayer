@@ -1,5 +1,7 @@
 # The First Sunday in Advent
 
+<!-- VERIFY: 'The First Sunday in Advent' — * "unto" in 1892 only — the source marks the variant with an asterisk in the rubric but does not give the surrounding wording, so the 1789 reading is kept here. -->
+
 ## The Collect
 
 ALMIGHTY God, give us grace that we may cast away the works of darkness, and put upon us the armour of light, now in the time of this mortal life, in which thy Son Jesus Christ came to visit us in great humility; that in the last day, when he shall come again in his glorious majesty to judge both the quick and dead, we may rise to the life immortal, through him who liveth and reigneth with thee and the Holy Ghost, now and ever.

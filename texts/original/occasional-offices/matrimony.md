@@ -2,26 +2,28 @@
 
 ## The Banns
 
-> The laws respecting Matrimony, whether by publishing the Banns in churches, or by License, being different in the several States, every Minister is left to the direction of those laws, in every thing that regards the civil contract between the parties.
+> The laws respecting Matrimony, whether by publishing the Banns in Churches, or by Licence.
+> being different in the several states, every Minister is left to the direction of those laws, in every thing that regards the civil contract between the parties.
 
-> And when the Banns are published, it shall be in the following form: I publish the Banns of Marriage between M. of ----, and N.
-> of ----.
-> If any of you know cause or just impediment, why these two persons should not be joined together in holy Matrimony, ye are to declare it.
+> And when the Banns are published, it shall be in the following form: I publish the Banns of Marriage between M. of —, and N.
+> of —.
+> If any of you know cause, or just impediment, why these two persons should not be joined together in holy Matrimony, ye are to declare it.
 > This is the first [second or third] time of asking.
 
 ## The Exhortation
 
-> At the day and time appointed for Solemnization of Matrimony, the Persons to be married shall come into the body of the Church, or shall be ready in some proper house, with their friends and neighbours; and there standing together, the Man on the right hand, and the Woman on the left, the Minister shall say,
+> At the day and time appointed for Solemnization of Matrimony, the Persons to be married shalt come into the body of the Church, or shalt be ready in some proper house, with their friends and neighbours; and there standing together, the Man on the right hand, and the Woman on the left, the Minister shall say, <!-- VERIFY: source prints 'shalt come' and "shalt be"; likely "shall come"/"shall be"; kept as printed; confirm against a page scan -->
 
-DEARLY beloved, we are gathered together here in the sight of God, and in the face of this company, to join together this Man and this Woman in holy Matrimony; which is commended of Saint Paul to be honourable among all men: and therefore is not by any to be entered into unadvisedly or lightly; but reverently, discreetly, advisedly, soberly, and in the fear of God.
+DEARLY beloved, we are gathered together here in the sight of God, and in the face of this company, to join together this Man and this Woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church: which holy estate Christ adorned and beautified with his presence and first miracle that he wrought in Cana of Galilee, and is commended of Saint Paul to be honourable among all men: and therefore is not by any to he entered into unadvisedly or lightly; but reverently, discreetly, advisedly, soberly, and in the fear of God.
 Into this holy estate these two persons present come now to be joined.
 If any man can show just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace.
+<!-- VERIFY: source prints 'not by any to he entered into'; likely "to be entered into"; kept as printed; confirm against a page scan -->
 
 ## The Charge
 
 > And also speaking unto the Persons who are to be married, he shall say,
 
-I REQUIRE and charge you both, (as ye will answer at the dreadful day of judgment when the secrets of all hearts shall be disclosed), that if either of you know any impediment why ye may not be lawfully joined together in Matrimony, ye do now confess it.
+I REQUIRE and charge you both, as ye will answer at the dreadful day of judgment when the secrets of all hearts shall be disclosed, that if either of you know any impediment why ye may not be lawfully joined together in Matrimony, ye do now confess it.
 For be ye well assured, that if any persons are joined together otherwise than as God's Word doth allow, their marriage is not lawful.
 
 > The Minister, if he shall have reason to doubt of the lawfulness of the proposed Marriage, may demand sufficient surety for his indemnification: but if no impediment shall be alleged, or suspected, the Minister shall say to the Man,
@@ -54,28 +56,29 @@ Who giveth this Woman to be married to this Man?
 ## The Vows
 
 > Then shall they give their troth to each other in this manner.
-> The Minister, receiving the Woman at her father's or friend's hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
+> The Minister, receiving the Woman at her father's or friend’s hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
 
 I M. take thee N.
-to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
+to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.
 
 > Then shall they loose their hands; and the Woman with her right hand taking the Man by his right hand, shall likewise say after the Minister:
 
 I N.
-take thee M. to my wedded husband, to have and to hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
+take thee M. to my wedded husband, to have and hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.
+<!-- VERIFY: source prints 'to have andhold' (Man's vow reads "and to hold"); corrected joined word to "and hold"; a "to" may be dropped; confirm against a page scan -->
 
 ## The Ring
 
 > Then shall they again loose their hands and the Man shall give unto the Woman a Ring.
-> And the Minister taking the Ring shall deliver it unto the Man, to put it upon the fourth finger of the Woman's left hand.
+> And the Minister taking the Ring shall deliver it unto the Man, to put it upon the fourth finger of the Woman’s left hand.
 > And the Man holding the Ring there, and taught by the Minister, shall say,
 
 WITH this Ring I thee wed, and with all my worldly goods I thee endow: In the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
-## The Prayer
+## The Lord's Prayer
 
-> Then the Man, leaving the Ring upon the fourth finger of the Woman's left hand, the Minister shall say,
+> Then the Man, leaving the Ring upon the fourth finger of the Woman’s left hand, the Minister shall say,
 
 > Let us pray
 
@@ -86,6 +89,9 @@ Give us this day our daily bread.
 And forgive us our trespasses, As we forgive those who trespass against us.
 And lead us not into temptation; But deliver us from evil.
 Amen.
+<!-- VERIFY: source prints 'who art m heaven'; corrected obvious OCR to "in heaven"; confirm against a page scan -->
+
+## The Prayer
 
 O ETERNAL God, Creator and Preserver of all mankind, Giver of all spiritual grace, the Author of everlasting life; Send thy blessing upon these thy servants, this man and this woman, whom we bless in thy Name; that, as Isaac and Rebecca lived faithfully together, so these persons may surely perform and keep the vow and covenant betwixt them made, (whereof this Ring given and received is a token and pledge,) and may ever remain in perfect love and peace together, and live according to thy laws; through Jesus Christ our Lord.
 Amen.
@@ -94,7 +100,7 @@ Amen.
 
 > Then shall the Minister join their right hands together, and say,
 
-Those whom God hath joined together let no man put asunder.
+THOSE whom God hath joined together let no man put asunder.
 
 ## The Pronouncement
 
