@@ -1,6 +1,0 @@
-# A Collect.
-
-> To be used after the Collects of Morning or Evening Prayer, or Communion, at the discretion of the Minister.
-
-DIRECT us, O Lord, in all our doings, with thy most gracious favour, and further us with thy continual help; that in all our works begun, continued, and ended in thee, we may glorify thy holy Name, and finally, by thy mercy, obtain everlasting life; through Jesus Christ our Lord.
-Amen.

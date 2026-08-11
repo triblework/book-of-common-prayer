@@ -1,5 +1,0 @@
-# In Time of Great Sickness and Mortality.
-
-O MOST mighty and merciful God, in this time of grievous sickness, we flee unto thee for succour.
-Deliver us, we beseech thee, from our peril; give strength and skill to all those who minister to the sick; prosper the means made use of for their cure; and grant that, perceiving how frail and uncertain our life is, we may apply our hearts unto that heavenly wisdom which leadeth to eternal life; through Jesus Christ our Lord.
-Amen.
