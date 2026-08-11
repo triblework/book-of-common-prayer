@@ -1,136 +1,155 @@
-# The Form and Manner of Ordering of Priests.
+# The Form and Manner of Ordering Priests.
+
+1789 U.
+S. Book of Common Prayer
+
+THE FORM AND MANNER OF
 
 ## The Presentation
 
-> When the day appointed by the Bishop is come; after Morning Prayer is ended, there shall be a Sermon or Exhortation, declaring the duty and office of such as come to be admitted Priests; how necessary that Order is in the Church of Christ; and also how the people ought to esteem them in their office.
+> When the day appointed by the Bishop is come, after Morning Prayer is ended, there shall be a Sermon, or Exhortation, declaring the Duty and Office of such as come to be admitted Priests; how necessary that Order is in the Church of Christ, and also, how the People ought to esteem them in their Office.
 
-> First, the Archdeacon, or, in his absence, one appointed in his stead, or such other person as by ancient custom have the right so to do, shall present unto the Bishop (sitting in his chair near to the holy Table) all them that shall receive the Order of Priesthood that day (each of them being decently habited) and say,
+> A Priest shall present unto the Bishop, sitting in his Chair near to the Holy Table, all those who are to receive the Order of Priesthood that day, each of them being decently habited, and shall say,
 
-Reverend Father in God, I present unto you these persons present, to be admitted to the Order of Priesthood.
+REVEREND Father in God, I present unto you these persons present, to be admitted to the Order of Priesthood.
 
 **The Bishop.**
 
-Take heed that the persons, whom ye present unto us, be apt and meet, for their learning and godly conversation, to exercise their ministry duly, to the honour of God, and the edifying of his Church.
+TAKE heed that the persons, whom ye present unto us, be apt and meet, for their learning and godly conversation, to exercise their Ministry duly, to the honour of God, and the edifying of His Church.
 
-> The Archdeacon shall answer,
+> The Priest shall answer:
 
-I Have enquired of them, and also examined them; and think them so to be.
+I HAVE inquired concerning them, and also examined them, and think them so to be.
 
-> Then the Bishop shall say unto the people:
+> Then the Bishop shall say unto the People:
 
-Good people, these are they whom we purpose, God willing, to receive this day unto the holy office of Priesthood: For after due examination we find not to the contrary, but that they be lawfully called to their function and ministry, and that they be persons meet for the same.
-But yet if there be any of you, who knoweth any impediment or notable crime in any of them, for the which he ought not to be received into this holy ministry; Let him come forth in the Name of God, and shew what the crime or impediment is.
+GOOD People, these are they whom we purpose, God willing, to receive this day unto the holy Office of Priesthood: for after due examination, we find not to the contrary, but that they are lawfully called to their Function and Ministry, and that they are persons meet for the same.
+But yet, if there be any of you who knoweth any Impediment, or notable Crime, in any of them, for the which he ought not to be received into this holy Ministry, let him come forth in the Name of God, and show what the Crime or Impediment is.
 
-> And if any great crime or impediment be objected, the Bishop shall surcease from ordering that person, until such time as the party accused shall be found clear of that crime.
+> And if any great Crime or Impediment be objected, the Bishop shall cease from Ordering that person, until such time as the party accused shall be found clear of that Crime.
 
 ## The Litany
 
-> Then the Bishop (commending such as shall be found meet to be ordered to the prayers of the Congregation) shall, with the Clergy and people present, sing or say the Litany, with the Prayers, as is before appointed in the Form of Ordering Deacons; save only, that, in the proper Suffrage there added, the word [Deacons] shall be omitted, and the word [Priests] inserted instead of it.
+> Then the Bishop (commending such as shall be found meet to be Ordered, to the Prayers of the Congregation) shall, with the Clergy and People present, say, the Litany, with the Prayers, as is before appointed in the Form of ordering Deacons; save only, that in the proper Suffrage there added, the word Deacons shall be omitted, and the word Priests inserted instead of it.
 
 ## The Collect
 
-> Then shall be sung or said the Service for the Communion, with the Collect, Epistle, and Gospel, as followeth.
+> Then shall be said the Service for the Communion, with the Collect, Epistle, and Gospel, as followeth.
 
-> The Collect
+> The Collect.
 
-Almighty God, giver of all good things, who by thy Holy Spirit hast appointed divers Orders of Ministers in thy Church: Mercifully behold these thy servants now called to the office of Priesthood; and replenish them so with the truth of thy doctrine, and adorn them with innocency of life, that, both by word and good example, they may faithfully serve thee in this office, to the glory of thy Name, and the edification of thy Church; through the merits of our Saviour Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, world without end.
+ALMIGHTY God, giver of all good things, who by thy Holy Spirit hast appointed divers Orders of Ministers in the Church; Mercifully behold these thy servants now called to the Office of Priesthood; and so replenish them with the truth of thy Doctrine, and adorn them with innocency of life, that, both by word and good example, they may faithfully serve thee in this Office, to the glory of thy Name, and the edification of thy Church; through the merits of our Saviour Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, world without end.
 Amen.
 
 ## The Epistle
 
 > The Epistle.
-> Ephesians 4.7
+> Eph. iv. 7.
 
-Unto every one of us is given grace, according to the measure of the gift of Christ.
+UNTO every one of us is given grace, according to the measure of the gift of Christ.
 Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.
 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
-He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
-And he gave some Apostles, and some Prophets, and some Evangelists, and some Pastors and Teachers; for the perfecting of the saints for the work of the ministry, for the edifying of the body of Christ; till we all come, in the unity of the faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ.
+He that descended, is the same also that ascended up far above all heavens, that he might fill all things.)
+And he gave some Apostles, and some Prophets, and some Evangelists, and some Pastors and Teachers; for the perfecting of the Saints, for the work of the Ministry, for the edifying of the Body of Christ: till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ.
 
 ## The Gospel
 
-> After this shall be read for the Gospel part of the ninth chapter of Saint Matthew, as followeth.
+> After this shall be read for the Gospel part of the ninth Chapter of Saint Matthew, as followeth.
 
-> St. Matthew 9.36
+> St. Matt. ix. 36.
 
-When Jesus saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
-Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
+WHEN Jesus saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad as sheep having no shepherd.
+Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few.
+Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
 
-> Or else this that followeth, out of the tenth chapter of Saint John.
+> Or else this that followeth, out of the tenth Chapter of Saint John.
 
-> St. John 10.1
+> St. John x. 1.
 
-Verily, verily I say unto you, He that entereth not by the door into the sheep-fold, but climbeth up some other way, the same is a thief and a robber.
-But he that entereth in by the door is the shepherd of the sheep.
-To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.
-And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.
-And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
+VERILY, verily, I say unto you, He that entereth not by the door into the sheep-fold, but climbeth up some other way, the same is a thief and a robber.
+But he that entereth in by the door is the Shepherd of the sheep.
+To him the porter openeth, and the sheep hear his voice; and he calleth his own sheep by name, and leadeth them out.
+And when he putteth forth his own sheep, he goeth before them, and the sheep follow him; for they know his voice.
+And a stranger will they not follow, but will flee from him; for they know not the voice of strangers.
 This parable spake Jesus unto them, but they understood not what things they were which he spake unto them.
-Then said Jesus unto them again, Verily, verily I say unto you, I am the door of the sheep.
-All that ever came before me are thieves and robbers: but the sheep did not hear them.
-I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
+Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep, All that ever came before me are thieves and robbers; but the sheep did not hear them.
+I am the door; by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
 The thief cometh not but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
-I am the good shepherd: the good shepherd giveth his life for the sheep.
-But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.
+I am the good Shepherd: the good Shepherd giveth his life for the sheep.
+But he that is an hireling, and not the Shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth; and the wolf catcheth them, and scattereth the sheep.
 The hireling fleeth, because he is an hireling, and careth not for the sheep.
-I am the good shepherd, and know my sheep, and am known of mine.
-As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
-And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+I am the good Shepherd, and know my sheep, and am known of mine.
+As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep, And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one Shepherd.
 
 ## The Exhortation
 
-> Then the Bishop, sitting in his Chair, shall say unto them as hereafter followeth.
+> Then the Bishop shall say unto them as followeth.
 
-You have heard, brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel and the writings of the Apostles, of what dignity and of how great importance this office is, whereunto ye are called.
-And now again we exhort you, in the Name of our Lord Jesus Christ, that you have in remembrance, into how high a dignity, and to how weighty an office and charge ye are called: that is to say, to be messengers, watchmen, and stewards of the Lord; to teach and to premonish, to feed and provide for the Lord's family; to seek for Christ's sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
+YE have heard, Brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel, and the writings of the Apostles, of what dignity, and of how great importance this Office is, whereunto ye are called.
+And now again we exhort you, in the Name of our Lord Jesus Christ, that ye have in remembrance, into how high a Dignity, and to how weighty an Office and Charge ye are called: that is to say, to the Messengers, Watchmen, and Stewards of the Lord; to teach, and to premonish, to feed and provide for the Lord's family; to seek for Christ's sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
 
 Have always therefore printed in your remembrance, how great a treasure is committed to your charge.
 For they are the sheep of Christ, which he bought with his death, and for whom he shed his blood.
-The Church and Congregation whom you must serve, is his spouse and his body.
-And if it shall happen the same Church, or any member thereof, to take any hurt or hindrance by reason of your negligence, ye know the greatness of the fault, and also the horrible punishment that will ensue.
-Wherefore consider with yourselves the end of your ministry towards the children of God, towards the spouse and body of Christ; and see that you never cease your labour, your care and diligence, until you have done all that lieth in you, according to your bounden duty, to bring all such as are or shall be committed to your charge, unto that agreement in the faith and knowledge of God, and to that ripeness and perfectness of age in Christ, that there be no place left among you, either for error in religion, or for viciousness in life.
+The Church and Congregation whom you must serve, is his Spouse, and his Body.
+And if it shall happen that the same Church, or any Member thereof, do take any hurt or hindrance by reason of your negligence ye know the greatness of the fault, and also the horrible punishment that will ensue.
+Wherefore consider with yourselves the end of the Ministry towards the children of God, towards the Spouse and Body of Christ; and see that ye never cease your labour, your care and diligence, until ye have done all that lieth in you, according to your bounden duty, to bring all such as are or shall be committed to your charge, unto that agreement in the faith and knowledge of God, and to that ripeness and perfectness of age in Christ that there be no place left among you, either for error in religion, or for viciousness in life.
 
-Forasmuch then as your office is both of so great excellency and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well that ye may shew yourselves dutiful and thankful unto that Lord, who hath placed you in so high a dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend.
-Howbeit, ye cannot have a mind and will thereto of yourselves; for that will and ability is given of God alone.
-Therefore ye ought, and have need, to pray earnestly for his Holy Spirit.
-And seeing that you cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures: and for this self-same cause, how ye ought to forsake and set aside (as much as you may) all worldly cares and studies.
+Forasmuch then as your Office is both of so great excellency, and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well to show yourselves dutiful and thankful unto that Lord, who hath placed you in so high a Dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend.
+Howbeit ye cannot have a mind and will thereto of yourselves; for that and ability is given of God alone: therefore ye ought, and have need, to pray earnestly for his Holy Spirit.
+And seeing that ye cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the Holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures; and for this self-same cause, how ye ought to forsake and set aside, as much as ye may, all worldly cares and studies.
+<!-- VERIFY: 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan -->
 
-We have good hope that you have well weighed and pondered these things with yourselves long before this time; and that you have clearly determined, by God's grace, to give yourselves wholly to this office, whereunto it hath pleased God to call you: so that, as much as lieth in you, you will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that you will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing of the Scriptures, ye may wax riper and stronger in your ministry; and that ye may so endeavour yourselves from time to time to sanctify the lives of you and yours, and to fashion them after the rule and doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
+We have good hope that ye have well weighed these things with yourselves, long before this time; and that ye have clearly determined, by God's grace, to give yourselves wholly to this Office, whereunto it hath pleased God to call you: so that, as much as lieth in you, ye will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that ye will continually pray to God the Father, by the Mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing the Scriptures, ye may wax riper and stronger in your Ministry; and that ye may so endeavour yourselves, from time to time, to sanctify the lives of you and yours, and to fashion them after the Rule and Doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
 
-And now, that this present Congregation of Christ here assembled may also understand your minds and wills in these things, and that this your promise may the more move you to do your duties, ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
+And now, that this present Congregation of Christ may also understand your minds and wills in these things, and that this your promise may the more move you to do your duties; ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
 
 ## The Examination
 
-Do you think in your heart that you be truly called, according to the will of our Lord Jesus Christ, and the order of this Church of England, to the Order and Ministry of Priesthood?
+DO you think in your heart, that you are truly called, according to the will of our Lord Jesus Christ, and according to the Canons of this Church, to the Order and Ministry of Priesthood?
 
 **Answer.** I think it.
 
-**The Bishop.** Are you persuaded that the holy Scriptures contain sufficiently all doctrine required of necessity for eternal salvation through faith in Jesus Christ?
-And are you determined out of the said Scriptures to instruct the people committed to your charge, and to teach nothing (as required of necessity to eternal salvation) but that which you shall be persuaded may be concluded and proved by the Scripture?
+**The Bishop.**
 
-**Answer.** I am so persuaded, and have so determined by God's grace.
+ARE you persuaded that the Holy Scriptures contain all Doctrine required as necessary for eternal salvation through faith in Jesus Christ?
+And are you determined, out of the said Scriptures to instruct the people committed to your charge, and to teach nothing, as necessary to eternal salvation, but that which you shall be persuaded may be concluded and proved by the Scripture?
 
-**The Bishop.** Will you then give your faithful diligence always so to minister the doctrine and sacraments, and the discipline of Christ, as the Lord hath commanded, and as this Church and Realm hath received the same, according to the commandments of God; so that you may teach the people committed to your cure and charge with all diligence to keep and observe the same?
+**Answer.** I am so persuaded, and have so determined, by God's grace.
+
+**The Bishop.**
+
+WILL you then give your faithful diligence always so to minister the Doctrine and Sacraments, and the Discipline of Christ, as the Lord hath commanded, and as this Church hath received the same, according to the Commandments of God; so that you may teach the people committed to your Cure and Charge with all diligence to keep and observe the same?
 
 **Answer.** I will so do, by the help of the Lord.
 
-**The Bishop.** Will you be ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrines contrary to God's Word; and to use both publick and private monitions and exhortations, as well to the sick as to the whole, within your cures, as need shall require, and occasion shall be given?
+**The Bishop.**
+
+WILL you be ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrines contrary to God's Word; and to use both public and private monitions and exhortations, as well to the sick as to the whole, within your Cures, as need shall require, and occasion shall be given?
 
 **Answer.** I will, the Lord being my helper.
 
-**The Bishop.** Will you be diligent in prayers, and in reading of the holy Scriptures, and in such studies as help to the knowledge of the same, laying aside the study of the world and the flesh?
+**The Bishop.**
 
-**Answer.** I will endeavour myself so to do, the Lord being my helper.
+WILL you be diligent in Prayers, and in reading the Holy Scriptures, and in such studies as help to the knowledge of the same, laying aside the study of the world and the flesh?
 
-**The Bishop.** Will you be diligent to frame and fashion your own selves, and your families, according to the doctrine of Christ; and to make both yourselves and them, as much as in you lieth, wholesome examples and patterns to the flock of Christ?
+**Answer.** I will endeavour so to do, the Lord being my helper.
+
+**The Bishop.**
+
+WILL you be diligent to frame and fashion your own selves, and your families, according to the Doctrine of Christ; and to make both yourselves and them as much as in lieth, wholesome examples and patterns to the flock of Christ?
+<!-- VERIFY: 'as much as in lieth'; likely 'as much as in you lieth' (word 'you' dropped in OCR); kept as printed; confirm against a 1789 page scan -->
 
 **Answer.** I will apply myself thereto, the Lord being my helper.
 
-**The Bishop.** Will you maintain and set forwards, as much as lieth in you, quietness, peace, and love, among all Christian people, and specially among them that are or shall be committed to your charge?
+**The Bishop.**
+
+WILL you maintain and set forwards, as much as lieth in you, quietness, peace, and love, among all Christian people, and especially among them that are or shall be committed to your charge?
 
 **Answer.** I will so do, the Lord being my helper.
 
-**The Bishop.** Will you reverently obey your Ordinary, and other chief Ministers, unto whom is committed the charge and government over you; following with a glad mind and will their godly admonitions, and submitting yourselves to their godly judgements?
+**The Bishop.**
+
+WILL you reverently obey your Bishop, and other chief Ministers, who, according to the Canons of the Church, may have the charge and government over you; following with a glad mind and will their godly admonition, and submitting yourselves to their godly judgments?
 
 **Answer.** I will so do, the Lord being my helper.
 
@@ -138,116 +157,181 @@ And are you determined out of the said Scriptures to instruct the people committ
 
 > Then shall the Bishop, standing up, say,
 
-Almighty God, who hath given you this will to do all these things; Grant also unto you strength and power to perform the same; that he may accomplish his work which he hath begun in you; through Jesus Christ our Lord.
+ALMIGHTY God, who hath given you this will to do all these things; Grant also unto you strength and power to perform the same; that he may accomplish his work which he hath begun in you; through Jesus Christ our Lord.
 Amen.
 
-> After this, the Congregation shall be desired, secretly in their prayers, to make their humble supplications to God for all these things: for the which prayers there shall be silence kept for a space.
+> After this, the Congregation shall be desired, secretly in their Prayers, to make their humble supplications to God for all these things: for the which Prayers there shall be silence kept for a space.
 
 ## Veni, Creator Spiritus
 
-> After which shall be sung or said by the Bishop (the persons to be ordained Priests all kneeling) Veni, Creator Spiritus; the Bishop beginning, and the Priests, and others that are present, answering by verses, as followeth.
+> After which, shall be sung or said by the Bishop, the persons to be ordained Priests all kneeling, Veni, Creator Spiritus; the Bishop beginning, and the Priests, and others that are present, answering by verses, as followeth.
 
-Come, Holy Ghost, our souls inspire,
+COME Holy Ghost, our souls inspire,
 
 And lighten with celestial fire.
 
 Thou the anointing Spirit art,
 
-Who dost thy seven-fold gifts impart.
+Who dost Thy sevenfold gifts impart.
 
-Thy blessed Unction from above
+Thy blessed Unction from above,
 
 Is comfort, life, and fire of love.
 
 Enable with perpetual light
 
-The dulness of our blinded sight.
+The dullness of our blinded sight.
 
 Anoint and cheer our soiled face
 
-With the abundance of thy grace.
+With the abundance of Thy grace.
 
-Keep far our foes, give peace at home:
+Keep far our foes, give peace at home;
 
-Where thou art guide, no ill can come.
+Where Thou art guide, no ill can come.
 
 Teach us to know the Father, Son,
 
-And thee, of both, to be but One.
+And Thee, of both, to be but one.
 
 That, through the ages all along,
 
-This may be our endless song:
+This may be our endless song;
 
-Praise to thy eternal merit,
+Praise to Thy eternal merit,
 
 Father, Son, and Holy Spirit.
 
-> Or this:
+> Or this.
 
-Come, Holy Ghost, eternal God, proceeding from above,
+COME, Holy Ghost, eternal God,
 
-Both from the Father and the Son, the God of peace and love;
+Proceeding from above,
 
-Visit our minds, into our hearts thy heavenly grace inspire;
+Both from the Father and the Son,
 
-That truth and godliness we may pursue with full desire.
+The God of peace and love;
 
-Thou art the very Comforter in grief and all distress;
+Visit our minds, into our hearts
 
-The heav'nly gift of God most high, no tongue can it express;
+Thy heavenly grace inspire;
 
-The fountain and the living spring of joy celestial;
+That truth and godliness we may
 
-The fire so bright, the love so sweet, the Unction spiritual.
+Pursue with full desire.
 
-Thou in thy gifts art manifold, by them Christ's Church doth stand:
+Thou art the very Comforter
 
-In faithful hearts thou writ'st thy law, the finger of God's hand.
+In grief and all distress;
 
-According to thy promise, Lord, thou givest speech with grace;
+The heavenly gift of God most High;
 
-That through thy help God's praises may resound in every place.
+No tongue can it express.
 
-O Holy Ghost, into our minds send down thy heav'nly light;
+The fountain and the living spring
 
-Kindle our hearts with fervent zeal to serve God day and night.
+Of joy celestial,
 
-Our weakness strengthen and confirm, (for, Lord, thou know'st us frail;)
+The fire so bright, the love so sweet,
 
-That neither devil, world, nor flesh, against us may prevail.
+The Unction spiritual.
 
-Put back our enemy far from us, and help us to obtain
+Thou in Thy gifts art manifold,
 
-Peace in our hearts with God and man, (the best, the truest gain;)
+By them Christ's Church doth stand:
 
-And grant that thou being, O Lord, our leader and our guide,
+In faithful hearts Thou writ'st Thy law,
 
-We may escape the snares of sin, and never from thee slide.
+The finger of God's hand.
 
-Such measures of thy powerful grace grant, Lord, to us, we pray;
+According to Thy promise, Lord,
 
-That thou may'st be our Comforter at the last dreadful day.
+Thou givest speech with grace;
 
-Of strife and of dissension dissolve, O Lord, the bands,
+That, through Thy help, God's praises may
 
-And knit the knots of peace and love throughout all Christian lands.
+Resound in every place.
 
-Grant us the grace that we may know the Father of all might,
+O Holy Ghost, into our minds
 
-That we of his beloved Son may gain the blissful sight;
+Send down Thy heavenly light;
 
-And that we may with perfect faith ever acknowledge thee,
+Kindle our hearts with fervent zeal,
 
-The Spirit of Father, and of Son, One God in Persons Three.
+To serve God day and night.
 
-To God the Father laud and praise, and to his blessed Son,
+Our weakness strengthen and confirm,
 
-And to the Holy Spirit of grace, co-equal Three in One.
+(For, Lord, Thou know'st us frail;)
 
-And pray we, that our only Lord would please his Spirit to send
+That neither devil, world, nor
+<!-- VERIFY: 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan -->
 
-On all that shall profess his Name, from hence to the world's end.
+Against us may prevail.
+
+Put back our enemy far from us,
+
+And help us to obtain
+
+Peace in our hearts with God and Man,
+
+(The best, the truest gain;)
+
+And grant that Thou being; O Lord,
+
+Our leader and our guide,
+
+We may escape the snares of sin,
+
+And never from Thee slide.
+
+Such measures of Thy powerful grace
+
+Grant, Lord, to us, we pray;
+
+That Thou may'st be our comforter
+
+At the last dreadful day.
+
+Of strife and of dissension
+
+Dissolve, O Lord, the bands,
+
+And knit the knots of peace and love
+
+Throughout all Christian land.
+
+Grant us the grace that we may know
+
+The Father of all might,
+
+That we of His beloved Son
+
+May gain the blissful sight;
+
+And that we may with perfect faith
+
+Ever acknowledge Thee,
+
+The Spirit of Father, and of Son,
+
+One God in Person Three.
+
+To God the Father laud and praise,
+
+And to His blessed Son,
+
+And to the Holy Spirit of grace,
+
+Co-equal Three in One.
+
+And pray we, that our only Lord
+
+Would please his Spirit to send
+
+On all that shall profess His Name,
+
+From hence to the world's end.
 Amen.
 
 ## The Ordering
@@ -256,39 +340,41 @@ Amen.
 
 > Let us pray.
 
-Almighty God and heavenly Father, who of thine infinite love and goodness towards us hast given to us thy only and most dearly beloved Son Jesus Christ, to be our Redeemer and the Author of everlasting life; who, after he had made perfect our redemption by his death, and was ascended into heaven, sent abroad into the world his Apostles, Prophets, Evangelists, Doctors, and Pastors, by whose labour and ministry he gathered together a great flock in all the parts of the world, to set forth the eternal praise of thy holy Name: For these so great benefits of thy eternal goodness, and for that thou hast vouchsafed to call these thy servants here present to the same office and ministry, appointed for the salvation of mankind; we render unto thee most hearty thanks, we praise and worship thee, and we humbly beseech thee, by the same thy blessed Son, to grant unto all, which either here or elsewhere call upon thy holy Name, that we may continue to shew ourselves thankful unto thee for these and all other thy benefits; and that we may daily increase and go forwards in the knowledge and faith of thee and thy Son, by the Holy Spirit.
-So that as well by these thy Ministers, as by them over whom they shall be appointed thy Ministers, thy holy Name may be for ever glorified, and thy blessed kingdom enlarged; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee in the unity of the same Holy Spirit, world without end.
+ALMIGHTY God, and heavenly Father, who, of thine infinite love and goodness towards us, hast given to us thy only and most dearly-beloved Son Jesus Christ, to be our Redeemer, and the Author of everlasting life; who, after he had made perfect our redemption by his death, and was ascended into heaven, sent abroad into the world his Apostles, Prophets, Evangelists, Doctors, and Pastors; by whose labour and ministry he gathered together a great flock in all the parts of the world, to set forth the eternal praise of thy holy Name: For these so great benefits of thy eternal goodness, and for that thou hast vouchsafed to call these thy servants here present to the same Office and Ministry, appointed for the salvation of mankind, we render unto thee most hearty thanks, we praise and worship thee; and we humbly beseech thee, by the same thy blessed Son, to grant unto all, which either here or elsewhere call upon thy holy Name, that we may continue to show ourselves thankful unto thee for these and all thy other benefits; and that we may daily increase and go forwards in the knowledge and faith of thee and thy Son, by the Holy Spirit, so that as well by these thy Ministers, as by them over whom they shall be appointed thy Ministers, thy holy Name may be for ever glorified, and thy blessed kingdom enlarged; through the same thy Son Jesus Christ our lord, who liveth and reigneth with thee in the unity of the same Holy Spirit, world without end.
 Amen.
 
-> When this prayer is done, the Bishop with the Priests present shall lay their hands severally upon the head of every one that receiveth the Order of Priesthood; the receivers humbly kneeling upon their knees, and the Bishop saying,
+> When this Prayer is done, the Bishop with the Priests present, shall lay their hands severally upon the Head of every one that receiveth, the Order of Priesthood; the Receivers humbly kneeling and the Bishop saying,
 
-Receive the Holy Ghost for the office and work of a Priest in the Church of God, now committed unto thee by the imposition of our hands.
+RECEIVE the Holy Ghost for the Office and Work of a Priest in the Church of God, now committed unto thee by the Imposition of our hands.
 Whose sins thou dost forgive, they are forgiven; and whose sins thou dost retain, they are retained.
-And be thou a faithful dispenser of the Word of God, and of his holy Sacraments; In the Name of the Father, and of the Son, and of the Holy Ghost.
+And be thou a faithful Dispenser of the Word of God, and of his holy Sacraments; In the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
-> Then the Bishop shall deliver to every one of them kneeling the Bible into his hand, saying,
+> Or this.
 
-Take thou authority to preach the Word of God, and to minister the holy Sacraments in the Congregation, where thou shalt be lawfully appointed thereunto.
+TAKE thou Authority to execute the Office of a Priest in the Church of God, now committed to thee by the Imposition of our hands.
+And be thou a faithful Dispenser of the Word of God, and of his holy Sacraments; In the Name of the Father, and of the Son, and of the Holy Ghost.
+Amen.
+
+> Then the Bishop shall deliver to every one of them kneeling, the Bible into his hand, saying,
+
+TAKE thou Authority to preach the Word of God, and to Minister the holy Sacraments in the Congregation, where thou shalt be lawfully appointed thereunto.
 
 ## The Communion
 
-> When this is done, the Nicene Creed shall be sung or said; and the Bishop shall after that go on in the Service of the Communion, which all they that receive Orders shall take together, and remain in the same place where hands were laid upon them, until such time as they have received the Communion.
+> When this is done, the Bishop shall go on in the Service of the Communion, which all they who receive Orders shall take together, and remain in the same place where Hands were laid upon them, until such time as they have received the Communion.
 
-> The Communion being done, after the last Collect, and immediately before the Benediction, shall be said these Collects.
+> The Communion being done, after the last Collect, and immediately before the Benediction, shall be said this Collect.
 
-Most merciful Father, we beseech thee to send upon these thy servants thy heavenly blessing, that they may be clothed with righteousness, and that thy Word spoken by their mouths may have such success, that it may never be spoken in vain.
-Grant also that we may have grace to hear and receive what they shall deliver out of thy most holy Word, or agreeable to the same, as the means of our salvation; that in all our words and deeds we may seek thy glory, and the increase of thy kingdom; through Jesus Christ our Lord.
+MOST merciful Father, we beseech thee to send upon these thy servants thy heavenly blessing; that they may be clothed with righteousness, and that thy Word spoken by their mouths may have such success, that it may never be spoken in vain.
+Grant also, that we may have grace to hear and receive what they shall deliver out of thy most holy Word, or agreeable to the same, as the means of our salvation; that in all our words and deeds we may seek thy glory and the increase of thy kingdom; through Jesus Christ our Lord.
 Amen.
 
-Prevent us, O Lord, in all our doings with thy most gracious favour, and further us with thy continual help; that in all our works, begun, continued, and ended in thee, we may glorify thy holy Name, and finally by thy mercy obtain everlasting life; through Jesus Christ our Lord.
+THE peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: And the Blessing of God Almighty, the Father, the Son, and the Holy Ghost, be amongst you, and remain with you always.
 Amen.
 
-The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the blessing of God almighty, the Father, the Son, and the Holy Ghost, be amongst you and remain with you always.
-Amen.
-
-> And if on the same day the Order of Deacons be given to some, and the Order of Priesthood to others; the Deacons shall be first presented, and then the Priests: and it shall suffice that the Litany be once said for both.
-> The Collects shall both be used; first that for Deacons, then that for Priests.
-> The Epistle shall be Ephesians 4.7-13, as before in this Office.
-> Immediately after which they that are to be made Deacons shall be examined and ordained, as is above prescribed.
-> Then one of them having read the Gospel (which shall be either out of St. Matthew 9.36-38, as before in this Office; or else St. Luke 12.35-38, as before in the Form for the Ordering of Deacons,) they that are to be made Priests shall likewise be examined and ordained, as is in this Office before appointed.
+> And if, on the same day, the Order of Deacons be given to some, and the Order of Priesthood to others; the Deacons shall be first presented, and then the Priests; and it shall suffice that the Litany be once said for both.
+> The Collects shall both be used; first, that for Deacons, then that for Priests.
+> The Epistle shall be Ephesians iv. 7 to 10, as before in this office.
+> Immediately after which, they that are to be made Deacons, shall be examined, and Ordained, as is above prescribed.
+> Then one of them having read the Gospel, (which shall be either out of Saint Matthew ix. 36, as before in this Office; or else Saint Luke xii. 35 to 38, as before in the Form for the Ordering of Deacons,) they that are to be made Priests shalt likewise be examined, and Ordained, as is in this Office before appointed.

@@ -1,11 +1,13 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
-# The Ascension Day
+# The Ascension-day
 
 ## The Collect
 
-Grant, we beseech thee, Almighty God, that like as we do believe thy only-begotten Son our Lord Jesus Christ to have ascended into the heavens; so we may also in heart and mind thither ascend, and with him continually dwell, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
+GRANT, we beseech thee, Almighty God, that like as we do believe thy only-begotten Son our Lord Jesus Christ to have ascended into the heavens; so we may also in heart and mind thither ascend, and with him continually dwell, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
 Amen.
+
+> This Collect is to be said daily throughout the Octave.
+
+> The same Collect, Epistle, and Gospel shall serve for every day after unto the next Sunday, except upon the Feast of St. Philip and St. James. This rubric added in 1892.
 
 ## The Epistle
 
