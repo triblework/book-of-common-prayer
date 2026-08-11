@@ -1,4 +1,4 @@
-# For Fruitful Seasons
+# For Fruitful Seasons.
 
 > To be used on Rogation-Sunday and the Rogation-days.
 > Or this.
@@ -10,4 +10,5 @@ O GRACIOUS Father, who openest thine hand and fillest all things living with ple
 Remember not our sins, but thy promises of mercy.
 Vouchsafe to bless the lands and multiply the harvests of the world.
 Let thy breath go forth that it may renew the face of the earth.
-Show thy loving-kindness, that our land may have her increase; and so fill us with good things that the poor and needy may give thanks unto thy Name; through Christ our Lord Amen
+Show thy loving-kindness, that our land may give her increase; and so fill us with good things that the poor and needy may give thanks unto thy Name; through Christ our Lord.
+Amen.

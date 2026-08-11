@@ -1,4 +1,4 @@
-# The Sunday after Christmas-day
+# The First Sunday after Christmas Day
 
 ## The Collect
 

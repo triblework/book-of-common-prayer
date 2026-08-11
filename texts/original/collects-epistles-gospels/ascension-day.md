@@ -17,4 +17,4 @@ Acts 1:1
 
 ## The Gospel
 
-Mark 16:14
+Luke 24:49

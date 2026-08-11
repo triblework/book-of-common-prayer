@@ -17,7 +17,7 @@ NOW therefore ye are no more strangers and foreigners, but fellow-citizens with 
 
 ## The Epistle
 
-Jude 1
+Ephesians 2:19
 
 ## The Gospel
 
