@@ -1,343 +1,232 @@
-# The Order for the Visitacion of the Sicke, and the Communion of the Same.
+# The Ordre for the Visitacion of the Sicke.
 
 ## The Introduction
 
-> The Prieste entring into the sicke persones house, shall say.
+> The Priest entering into the sicke person's house, shall say,
 
-PEACE be in this house, and to all that dwell in it.
-
-## The Psalm
-
-> When he commeth into the sicke mannes presence, he shall say this psalme.
-
-Domine exaudi.
-Psalm cxliii.
-
-HEARE my prayer, (o lorde,) and Consider my desire : herken unto me for thy trueth and righteousnes sake.
-
-And entre not into judgemente with thy servaunt : for in thy sight shal no man living be justified.
-
-For the enemie hath persecuted my soul : he hath smitten my life downe to the grounde : he hath laied me in the darkenesse, as the men that have bene long dead.
-
-Therefore is my spirit vexed within me : and my harte within me is desolate.
-
-Yet doe I remembre the time paste, I muse upon all thy woorkes : yea, I exercise myselfe in the workes of thy handes.
-
-I stretche forth mine handes unto the : my soul gaspeth unto the as a thyrstie lande.
-
-Heare me, (o lorde) and that soone : for my spirit weaxeth faint hide not thy face from me, lest I be like unto them that goe downe into the pitte.
-
-O leate me heare thy lovyng-kyndenesse betimes in the morning, for in thee is my trust : show thou me the waie that I should walke in for I lift up soul unto thee.
-
-Deliver me, (o lorde,) from myne enemies : for I flye unto thee to hide me.
-
-Teache me to dooe the thynge, that pleaseth thee, for thou art my god, leate thy loving spirit leade me foorth unto the lande of righteousnesse.
-
-Quicken me, (o lorde) for thy names sake, and for thy righteousnesse sake bring my soul out of trouble.
-
-And of thy goodnesse slaie my enemies and destroye all them that vexe my soul, for I am thy servaunt.
-
-Glory to the father and to the sonne, &c.
-
-As it was in the beginning, &c.
+Peace be in this house, and to all that dwell in it.
 
 ## The Antiphon
 
-> With this antheme.
+> When he cometh into the sick man's presence, he shall say, kneling downe.
 
-REMEMBRE not Lord our iniquities, nor the iniquities of our forefathers.
-Spare us good Lord, spare thy people, whom thou hast redemed with thy most precious blood, and be not angry with us for ever.
+REMEMBRE not, Lorde, oure iniquities, nor the iniquities of our forefathers.
+Spare us, good Lord, spare thy people, whom thou hast redemed with thy most precious blood, and be not angry with us for ever.
 
 ## The Lord's Prayer
 
-Lorde have mercye upon us.
+Lorde, have mercy upon us.
 
-Christe have mercy upon us.
+Christ, have mercy upon us.
 
-Lorde have mercy upon us.
+Lorde, have mercy upon us.
 
-Our father, whiche art in heaven, &c.
+Our father, which art in heaven, &c.
 
 And leade us not into temptacion.
 
-**Answere.** But deliver us from evill.
+**Aunswere.** But delyver us from evyll.
 Amen.
 
 ## The Suffrages
 
-**The Minister.** O lorde save thy servaunte.
+**Minister.** O Lord, save thy servaunt.
 
-**Answere.** Whiche putteth his trust in the.
+**Aunswere.** Which putteth his trust in thee.
 
-**Minister.** Sende hym helpe from thy holy place.
+**Minister.** Sende him helpe from thy holy place.
 
-**Answere.** And evermore mightily defende hym.
+**Aunswere.** And evermore mightely defende him.
 
-**Minister.** Leat the enemie have none advauntage of hym.
+**Minister.** Let the enemie have none advauntage of him.
 
-**Answere.** Nor the wicked approche to hurte hym.
+**Aunswere.** Nor the wicked approche to hurte him.
 
-**Minister.** Bee unto hym, o lorde, a strong tower.
+**Minister.** Be unto him, O Lord, a stronge towre.
 
-**Answere.** From the face of his enemie.
+**Aunswere.** From the face of his enemie.
 
-**Minister.** Lord heare my prayer.
+**Minister.** Lorde, heare oure prayers.
 
-**Answer.** And let my crye come unto thee.
+**Aunswere.** And let our crye come unto thee.
 
 ## The Prayers
 
-**Minister.** Let us praye.
+> Minister.
 
-O LORD looke downe from heaven, beholde, visite, and releve this thy servaunte: Looke upon hym with the iyes of thy mercy, geve hym coumforte, and sure confidence in thee: Defende him from the daunger of the enemie, and kepe hym in perpetual peace, and safetie: through Jesus Christe our Lorde.
+O LORD, loke downe from heaven, behold, visite, and releve this thy servaunt: Looke upon him with the eyes of thy mercy, geve him comforte, and sure confidence in thee: Defende him from the daunger of the enemye, and keepe him in perpetuall peace, and safetie: through Jesus Christ our Lord.
 Amen.
 
-Heare us, almighty and moste merciful God, and Saviour: Extende thy accustomed goodnesse to this thy servaunt, which is greved with sickenesse: Visite hym, o Lorde, as thou diddest visite Peters wifes mother, and the Capitaines servaunt.
-And as thou preservedst Thobie and Sara by thy Aungel from daunger: So restore unto this sicke person his former helth, (if it be thy will), or els geve hym grace so to take thy correccion, that after this painful lyfe ended, he maye dwell with thee in lyfe everlastyng.
+Heare us, almighty and most mercyful God and saviour.
+Extend thy accustomed goodnes to this thy servaunt, which is grieved with sicknes: Visite him, O Lorde, as thou diddeste visite Peter's wyve's mother and the Captayne's servaunt.
+So visite and restore unto this sycke person his former health, (yf it bee thy wyl) or els geve him grace so to take thy vysitacion, that after this paynful lyfe ended, he maye dwell with thee in lyfe everlasting.
 Amen.
 
 ## The Exhortation
 
-> Then shall the Minister exhorte the sicke person after this fourme, or other lyke.
+> Then shall the Minister exhorte the sicke person after this fourme or other lyke.
 
-DERELY beloved, know this that almighty God is the Lorde over lyfe, and death, and over all thynges to them perteyning, as yougth,<!-- VERIFY: source prints 'yougth'; likely 'youth'; kept as printed; confirm against a page scan --> strength, helth, age, weakenesse, and sickenesse.
-Wherfore, whatsoever your sickenes is, knowe you certaynly, that it is Gods visitacion.
-And for what cause soever this sickenesse is sent unto you; whether it bee to trye your pacience for the example of other, and that your faith may be founde, in the day of the Lorde, laudable, glorious, and honourable, to the encrease of glory, and endelesse felicitie: Orels it be sent unto you to correcte and amende in you, whatsoever doeth offende the iyes of our heavenly father: knowe you certainly, that if you truely repent you of your sins, and beare your sickenes paciently, trusting in Gods mercy, for his dere sonne Jesus Christes sake, and rendre unto him humble thankes for his fatherly visitacion, submytting yourselfe wholy to his wil; it shal turne to your profite, and helpe you forewarde in the ryght waye that leadeth unto everlastyng lyfe.
-Take therfore in good worthe, the chastement of the lorde: For whom the lorde loveth he chastiseth.
-Yea, (as saincte Paul sayth,) he scourgeth every sonne, which he receiveth: yf you indure chastisement, he offereth himselfe unto you as unto his owne children.
+DERELY beloved, know this: that almighty God is the Lord of lyfe and death, and over all thinges to them perteyning, as youth, strength, health, age, weakenes, and sickenesse.
+Wherfore, whatsoever your sickenesse is, know you certaynlye that it is god's visitacion.
+And for what cause soever this sickenesse is sente unto you: whether it be to trie youre pacience for the example of other, and that your faith may be found in the day of the lord laudable, glorious, and honorable, to the encrease of glory, and endlesse felicitie: Or els it be sent unto you to correct and amend in you, whatsoever doeth offend the eyes of our heavenly father: know you certainly, that yf you truely repent you of your sins, and beare your sickenes paciently, trustinge in god's mercye, for his dere sonne Jesus Christes sake, and rendre unto him humble thankes for his fatherly visitacion, submittinge yourself wholy to his wyll; it shall turne to your profit, and helpe you forward in the right way that leadeth unto everlasting lyfe.
+
+> Yf the person vysyted be very sicke, then the curate maye ende hys exhortacion in this place.
+
+Take therefore in good worth the chastement of the Lorde.
+For whom the Lorde loveth, he chastiseth.
+Yea, (as Sainct Paul sayth,) he skourgeth every sonne which he receyveth: yf you indure chastisement, he offreth him self unto you as unto his owne children.
 What sonne is he that the father chastiseth not?
-Yf ye be not under correccion (wherof all the true children are partakers), then are ye bastardes, and not children.
-Therfore seyng that whan our carnal fathers doe correct us, we reverently obey them, shall we not now much rather be obedient to our spirituall father, and so live?
-And they for a fewe daies doe chastise us after theyr owne pleasure: but he doeth chastise us for our profite, to thentente he maye make us partakers of his holines.
-These words, good brother, are Gods words, and wryten in holy scripture for our coumfort and instruccion, that we should paciently and with thankesgevyng, beare our heavenly fathers correccion: whansoever by any maner of adversitie it shall please his gracious goodnesse to visite us.
-And there should be no greater coumfort to christian persons, then to be made lyke unto Christ, by sufferyng paciently adversities, troubles, and sickenesses.
-For he himselfe wente not up to joy, but firste he suffered payne: he entred not into his glory, before he was crucified.
-So truely our waye to eternall joy is to suffre here with Christe, and our doore to entre into eternal life: is gladly to dye with Christe, that we may ryse again from death, and dwell with him in everlasting life.
-Now therfore taking your sickenesse, which is thus profitable for you, paciently: I exhorte you in the name of God, to remembre the profession, which you made unto God in your Baptisme.
-And forasmuch as after this lyfe, there is accompte to be geven unto the ryghteous judge, of whom all must be judged without respecte of persons: I require you to examine yourselfe, and your state, both towarde God and man, so that accusyng and condemnyng yourselfe for your owne faultes, you may fynde mercy at our heavenly fathers hande, for Christes sake, and not be accused and condemned in that fearful judgement.
-Therfore I shall shortely rehearse the articles of our faith, that ye maye knowe whether you doe beleve as a christian manne should beleve, or no.
+Yf ye be not under correccion (whereof all true children are partakers), then are ye bastardes and not children.
+Therfore seing that whan our carnal fathers do correcte us, we reverentlye obeye them: shall we not now much rather be obedient to our spiritual father, and so lyve?
+And they for a fewe dayes dooe chastise us after theyr owne pleasure: but he doeth chastise us for our profyt, to the intent he may make us partakers of his holynes.
+These words, good brother, are God's words, and written in holy scripture for oure comfort and instruccion, that we shoulde paciently and with thankesgeving beare our heavenly father's correccion, whansoever by anye maner of adversytie it shall please his gracious goodnes to vysit us.
+And there should be no greater comfort to christian persons, then to be made lyke unto Christe, by sufferinge paciently adversities, troubles, and sickenesses.
+For he himself went not up to joye, but fyrst he suffered payne: he entred not into his glorye before he was crucifyed.
+So truely oure waye to eternall joye is to suffre here with Christ, and our doore to entre into eternall lyfe is gladlye to dye with Christ, that we may ryse agayne from death, and dwel with him in everlastinge lyfe.
+Now therfore taking your sicknesse which is thus profytable for you, pacientely: I exhorte you in the name of God, to remembre the profession which you made unto God in your Baptisme.
+And forasmuch as after this lyfe there is accoumpte to be geven unto the righteous judge, of whom all muste be judged without respecte of persones: I requyre you to examine your self, and your state, both towarde God and man : so that accusing and condemning your self for your owne faultes, you may fynd mercy at our heavenly father's hande for Christ's sake, and not be accused and condemned in that feareful judgement.
+Therfore I shall shortely rehearse the articles of our faith, that ye maye knowe whether you do beleve as a Christian man should, or no.
 
 ## The Examination
 
-> Here the minister shall rehearse the articles of the faith saying thus.
+> Here the Minister shal rehearse the articles of the faith, sayinge thus.
+> <!-- VERIFY: source prints 'the articles a/the faith'; 'a/the' is OCR for 'of the'; corrected; confirm against a page scan -->
 
-DOEST thou beleve in God the father almyghtie?
+DOEST thou beleve in God the father almighty?
 
-> And so forth as it is in Baptisme.
+> And so forth, as it is in Baptisme.
 
-> If the person visited bee very sicke, then the curate may end his exhortacion at this place.
+> Then shall the Minister examine whether he be in charitie with al the world: Exhortinge him to forgeve from the bottome of his hearte al persons that have offended hym: and yf he have oflended other to aske them forgevenesse: And where he hath done injurie or wrong to any man, that he make amendes to the uttermost of his power.
+> And yf he have not afore disposed hys goodes, let him then make his wyl.
+> But men must be of be admonished that they sette an ordre for theyr temporall goodes and landes whan they be in health.
+> And also declare his debtes, what he oweth, and what is owing unto him, for discharging of his conscience, and quietnesse of hys executours.
 
-> Then shall the minister examine whether he be in charitie with all the woride.
-> Exhortyng hym to forgeve from the botome of his herte al persons, that have offended hym, and yf he have offended other, to aske them forgevenesse: and where he hathe done injurye or wrong to any manne, that he make amendes to hys uttermoste power.
-> And if he have not afore disposed his goodes, let him then make his will.
-> (But men must be oft admonished that they set an ordre for their temporall goodees and landes whan they be in helth.)
-> And also to declare his debtes, what he oweth, and what is owing to him: for discharging of his conscience, and quietnesse of his executours.
+> These words before rehearsed, may be said before the Minister beginne his prayer, as he shal see cause.
 
-> This may be done before the minister begyn his prayers, as he shal see cause.
+> The minister may not forgeat nor omitte to move the sicke person (and that most earnestly) to lyberalitie towarde the poore.
 
 ## The Absolution
 
-> Here shall the sicke person make a speciall confession, yf he fele his conscience troubled with any weightie matter.
-> After which confession, the priest shall absolve hym after this forme: and the same forme of absolucion shalbe used its<!-- VERIFY: source prints 'its'; likely 'in'; kept as printed; confirm against a page scan --> all pryvate confessions.
+> Here shal the sicke person make a special confession, yf he feele his conscience troubled wyth any weyghtie matter.
+> After which confession the Priest shal absolve hym after thys sorte.
 
-OUR Lord Jesus Christ, who hath lefte power to his Church to absolve all sinners, which truely repent and beleve in hym: of his great mercy forgeve thee thyne offences: and by his autoritie committed to me, I absolve thee from all thy sins, in the name of the father, and of the sonne, and of the holy gost.
+OUR Lord Jesus Christ, who hath left power to his Church to absolve al sinners, whiche truely repent and beleve in him, of his great mercy forgeve thee thine offences: and by his aucthoritie committed to me, I absolve thee from all thy sins, in the name of the father, and of the sonne, and of the holy gost.
 Amen.
 
 ## The Collect
 
-> And then the priest shall say the collette folowyng.
+> And then the Priest shal say the Collect folowinge.
 
-Let us praye.
+> Let us praye.
 
-O MOST merciful God, which according to the multitude of thy mercies, doest so putte away the sins of those which truely repent, that thou remembrest them no more: open thy iye of mercy upon this thy servaunt, who moste earnestly desireth pardon and forgevenesse: Renue in hym, moste lovyng father, whatsoever hath been decayed by the fraude and malice of the devil, or by his owne carnall wyll, and frailnesse: preserve and continue this sicke membre in the unitie of thy Church, consyder his contricion, accepte his teares, aswage his payne, as shalbe seen to thee moste expedient for him.
-And forasmuch as he putteth his full trust only in thy mercy: Impute not unto him his former sins, but take him unto thy favour: through the merites of thy moste derely beloved sonne Jesus Christe.
+O MOSTE mercyful God, whiche according to the multitude of thy mercies doest so put away the sins of those which truely repente, that thou remembrest them no more: open thy eye of mercy upon this thy servaunt, who most earnestly desyreth pardon and forgevenes: Renue in him, most loving father, whatsoever hath been decayed by the fraud and malice of the devyl, or by his owne carnal wyl, and fraylnesse: preserve and continue this sicke membre in the unitie of thy church, consider his contricion, accept his teares, asswage his paine, as shal be sene to thee most expedient for him.
+And forasmuch as he putteth his full trust only in thy mercy; Impute not unto him his former sins, but take him unto thy favoure: through the merites of thy most derely beloved sonne Jesus Christe.
 Amen.
 
 ## The Psalm
 
-> Then the minister shall say this psalme.
+> Then the Minister shal say thys Psalme.
 
 In te Domine speravi.
-Psal. lxxi.
+Psal. xxi.
+<!-- VERIFY: source prints 'Psal. xxi.'; the psalm is actually Psalm 71 (Vulgate Ps 70); kept as printed; confirm against a page scan -->
 
-IN thee, O Lorde have I put my trust, let me never be put to confusion, but ridde me, and deliver me into thy righteousnes : enclyne thyne eare unto me, and save me.
+IN thee, O lord, have I put my trust, let me never be put to confusion : but rydde me, and delyver me, into thy rightousnesse; incline thyne eare unto me, and save me.
 
-Be thou my strong holde (wherunto I may alwaye resorte) thou haste promysed to helpe me : for thou art my house of defence, and my castell.
+Be thou my strong holde, (whereunto I may alway resorte) thou hast promised to helpe me, for thou art my house of defence, and my castell.
 
-Deliver me (O my God) out of the hande of the ungodly, out of the hande of the unrighteous and cruell man.
+Deliver me (O my God) out of the hand of the ungodly : out of the hand of the unrighteous and cruell man.
 
-For thou (O Lord God) art the thyng that I long for, thou art my hope, even fro my youth.
+For thou (O Lorde God) art the thinge that I long for : thou art my hope, even from my youth.
 
-Through the have I been holden up ever since I was borne, thou art he that tooke me out of my mothers wombe; my prayse shalbe alwaye of thee.
+Throughe thee have I been holden up ever since I was borne; thou art he that toke me out of my mother's wombe; my prayse shall alway be of thee.
 
-I am become as it were a monster unto many : but my sure trust is in thee.
+I am become as it were a monstre unto many : but my sure trust is in thee.
 
-Oh let my mouth be filled with thy prayse (that I may syng of thy glory) and honour all the daye long.
+O lette my mouth be fylled with thy prayse (that I may sing of thy glory) and honour all the daye longe.
 
-Cast me not awaye in the tyme of age, forsake me not when my strength fayleth me.
+Caste me not away in the tyme of age, forsake me not when my strength fayleth me.
 
-For mine enemies speake against me : and they that lay waite for my soul take their cousayle together, saying : God hath forsaken hym, persecute hym, and take hym, for there is none to delyver hym.
+For myne enemies speake agaynste me : and they that lay waite for my soul take their counsel together, saying : God hath forsaken him; persecute him, and take him, for there is none to delyver him.
 
-Goe not ferre fro me, O God : my God, haste thee to helpe me.
-Let them be confounded and perishe, that are againste my soul : let them be covered with shame and dishonour, that seke to doe me evill.
+Goe not farre from me, O God : my God, haste thee to helpe me.
 
-As for me, I will paciently abyde alwaye, and wyll prayse thee more and more.
+Let them be confounded and perishe that are against my soul : let them be covered with shame and dishonor that seke to do me evyll.
 
-My mouth shall daily speake of thy righteousnes and salvacion, for I knowe no ende therof.
+As for me, I wyll paciently abyde alwaye : and wyll prayse thee more and more.
 
-I will goe forth in the strength of the Lorde God : and will make mencion of thy righteousnesse only.
+My mouth shall daylye speake of thye righteousnesse and salvacion : for I knowe no ende thereof.
 
-Thou (O God) haste taught me from my youth up until now, therfore wil I tel of thy wonderous workes.
+I wyl goe forth in the strength of the Lord God : and wyll make mencion of thy righteousnes only.
 
-Forsake me not (O God) in myne olde age, when I am gray headed, untill I have showed thy strength unto this generacion, and thy power to all them that are yet for to come.
+Thou (O god) hast taught me from my youth up until now : therfore I wyl tel of thy wonderous workes.
 
-Thy righteousnesse (O God) is very high, and great thinges are they that thou haste doen : O God who is lyke unto thee?
+Forsake me not (O God) in myne olde age, when I am graye headed, untill I have showed thy strength unto this generacion, and thy power to all them that are yet for to come.
 
-O what great troubles and adversities hast thou showed me?
-and yet diddest thou turne and refreshe me : yea, and broughtest me from the depe of the earth agayne.
+Thy righteousness (O God) is very hygh : and great thinges are they that thou haste doone; O God, who is lyke unto thee?
 
-Thou haste brought me to great honour, and coumforted me on every side.
+O what greate troubles and adversities haste thou showed me!
+and yet diddeste thou turne and refreshe me: yea, and broughtest me from the depe of the earth agayne.
 
-Therfore will I prayse thee and thy faithfulnes (O God) playing upon an instrument of musicke, unto thee will I syng upon the harpe, O thou holy one of Israel.
+Thou hast brought me to greate honour: and comforted me on every syde.
 
-My lippes will be fayne, when I syng unto thee: and so will my soul whom thou haste delyvered.
+Therfore wyl I prayse thee and thy faythfulness (O God) playing upon an instrument of musicke, unto thee wyl I sing upon the harpe, O thou holy one of Israel.
 
-My tounge also shall talke of thy righteousnesse all the daye long, for they are confounded and brought unto shame that seke to doe me evyll.
+My lippes wyl be fayne when I syng unto thee : and so wyll my soul whom thou hast delivered.
 
-Glory to the father, &c.
+My tonge also shall talke of thy righteousnesse al the daye longe, for they are confounded and broughte unto shame that seke to do me evyll.
 
-As it was in the beginnyng, &c.
+Glory bee to the father, and to the sonne; and to the holye ghoste.
 
-> Addyng this Anthem.
+As it was in the beginninge, is nowe; and ever shall be; world without ende.
+Amen.
 
-O SAVEOUR of the world save us, which by thy crosse and precious blood hast redemed us, helpe us we beseche the, O God.
+> Addinge this.
+
+O SAVIOURE of the world, save us, whiche by thy crosse and precious blood hast redemed us, helpe us, we beseche thee, O God.
 
 ## The Blessing
 
-> Then shall the minister say.
+> Then shal the Minister say.
 
-THE almighty Lord, whiche is moste strong tower to all them that put their trust in hym, to whom all thynges in heaven, in earth, and under earth, doe bowe and obey: be now and ever more thy defence, and make thee knowe and fele, that there is no other name under heaven geven to man, in whom and through whom thou mayest receyue helth and salvacion, but only the name of our Lorde Jesus Christe.
+THE almighty Lorde, which is a most stronge tower to all them that put their truste in him, to whom all thinges in heaven, in earth, and under earth, doe bowe and obeye: be nowe and evermore thy defence, and make thee know and feele, that there is no other name under heaven geven to manne, in whom, and throughe whom, thou mayest receyve health and salvacion, but only the name of oure Lorde Jesus Christe.
 Amen.
-
-## The Unction
-
-> If the sicke person desyre to be annoynted, then shal the priest annoynte him upon the forehead or breast only, makyng the signe of the crosse, saying thus,
-
-As with this visible oyle thy body outwardly is annoynted: so our heavenly father almyghtye God, graunt of his infinite goodnesse, that thy soul inwardly may be annoynted with the holy gost, who is the spirit of al strength, coumforte, reliefe, and gladnesse.
-And vouchesafe for his great mercy (yf it be his blessed will) to restore unto thee thy bodely helth, and strength, to serve him, and sende thee release of al thy paines, troubles, and diseases, both in body and minde.
-And howsoever his goodnesse (by his divyne and unserchable providence) shall dispose of thee: we, his unworthy ministers and servaunts, humbly beseche the eternall majesty, to doe with thee according to the multitude of his innumerable mercies, and to pardon thee all thy sins and offences, committed by all thy bodily senses, passions, and carnall affeccions: who also vouchsafe mercifully to graunt unto thee gostely strength, by his holy spirit, to withstand and overcome al temptacions and assaultes of thine adversarye, that in no wise he prevaile against thee, but that thou mayest have perfit victory and triumph against the devil, sin, and death, through Christ our Lord: Who by his death hath overcomed the Prince of death, and with the father, and the holy gost evermore liveth and reigneth God, world without ende.
-Amen.
-
-## The Psalm
-
-Usque quo, Domine.
-Psalm xiii.
-
-How long wilt thou forget me, (O Lord,) for ever?
-how long wilt thou hyde thy face from me?
-How long shall I seke counsell in my soul?
-and be so vexed in myne herte?
-how long shall myne enemye triumph over me?
-Consydre, and heare me, (O lord my God): lighten myne iyes, that I slepe not in death.
-Leste myne enemy say: I have prevayled against hym: for yf I be cast downe, they that trouble me will rejoice at it.
-But my trust is in thy mercy: and my herte is joyful in thy salvacion.
-I will sing of the lord, because he hath delte so lovingly with me.
-Yea, I wyll prayse the name of the Lord the most highest.
-Glory be to the, &c.
-As it was in the, &c.
 
 ## The Communion of the Sick
 
-> Forasmuche as all mortal men be subject to many sodaine perils, diseases, and sickenesses, and ever uncertaine what time they shall departe out of this lyfe: Therfore to thentent they may be alwayes in a readinesse to dye, whensoever it shall please almighty God to call them: The curates shall diligently from tyme to tyme, but specially in the plague tyme, exhorte theyr paryshoners to the ofte receyvyng (in the church) of the holy communion of the body and blood of oure Savioure Christe: whiche (yf they doe) they shall have no cause in theyr sodaine visitacion, to be unquyeted for lacke of the same.
-> But if the sicke person be not hable to come to the church, and yet is desirous to receyve the communion in his house, then he must geve knowlage over night, or els early in the morning to the curate, signifying also howe many he appoynted to communicate with hym.
-> And yf the same daye there be a celebracion of the holy communion in the church, then shall the priest reserve (at the open communion) so muche of the sacrament of the body and blood, as shall serve the sicke person, and so many as shall communicate with hym (yf there be any.)
-> And so soone as he convenientely may, after the open communion ended in the church, shall goe and minister the same, firste to those that are appoynted to communicate with the sicke (yf there be any), and last of all to the sicke person himselfe.
-> But before the curate distribute the holy communion: the appoynted generall confession must be made in the name of the communicantes, the curate addyng the absolucion with the coumfortable sentences of scripture folowyng in the open communion, and after the communion ended, the collecte.
-
-ALMIGHTY and everlyvyng God, we moste hertely thanke thee, &c.
-
-> But yf the daye be not appoynted for the open communion us<!-- VERIFY: source prints 'us'; likely 'in'; kept as printed; confirm against a page scan --> the church, then (upon convenient warning geven) the curate shal come and visite the sick person afore noone.
-> And having a convenient place in the sicke mans house (where he may reverently celebrate) with all thinges necessary for the same, and not beyng otherwyse letted with the public service.
-> or any other just impediment; he shal there celebrate ye holy communion after suche forme and sorte as hereafter is appoynted.
-
-## The Celebracion of the Holy Communion for the Sicke.
-
-O PRAYSE the Lorde, all ye nacions, laude hym, all ye people: for his merciful kyndenesse is confyrmed towarde us, and the trueth of the Lorde endureth for ever.
-
-Glory be to the father, &c.
-
-Lord, have mercy upon us.
-
-Christ, have mercy upon us.
-
-Lord, have mercy upon us.
-
-**The Priest.** The Lorde be with you.
-
-**Aunswere.** And with thy spirit.
-
-> Without any more repeticion.
-
-Let us pray.
+> Forasmuch as all mortal men be subject to many sodayne perilles, diseases and sickenesses, and ever uncertayne what time they shal depart out of this lyfe: Therfore to thintent they may be alwayes in a readinesse to dye, whensoever it shal please almighty God to call them, the Curates shal diligentlye from tyme to tyme, but speciallye in the plague tyme, exhorte theyr parishioners to the oft receyving in the church of the holye communion of the body and blood of our saviour Christ.
+> Which (yf they do,) they shal have no cause, in theyr sodaine visitacion, to be unquieted for lacke of the same.
+> But yf the sycke person be not liable to come to the church, and yet is desyrous to receyve the communion in hys house then he must geve knowledge overnyght, or els early in the morning to the Curate, signifyinge also howe manye be appoynted to communicate with hym.
+> And havinge a convenient place in the syke man's house, where the Curate maye reverently minister, and a good nombre to receyve the communion wyth the sycke personne, with al thinges necessarye for thesame, he shall there minister the holye communion.
 
 ## The Collect
 
-ALMIGHTY everlyving God, maker of mankynde, which doest correcte those whom thou doest love, and chatisest every one whome thou doest receyve: we beseche the to have mercy upon this thy servaunte visited with thy hande, and to graunt that he may take his sickenesse paciently, and recover his bodily helth (if it be thy gracious will), and whansoever his soul shall departe from the body, it may without spotte be presented unto thee: through Jesus Christe our Lord.
+> The Collecte.
+
+ALMIGHTY everlyvinge God, maker of mankinde, which doest correcte those whom thou doest love, and chastisest every one whom thou doest receyve: we beseche thee to have mercy upon this thy servaunt visited with thy hande, and to graunte that he may take his syckenesse paciently, and recover his bodelye health (yf it bee thy gracious wyll), and whensoever his soul shall departe from the bodye, it maye bee without spotte presented unto thee: through Jesus Christ our Lorde.
 Amen.
 
 ## The Epistle
 
-MY sonne, despise not the correccion of the Lorde, neyther fainte when thou art rebuked of hym: for whom the Lorde loveth, hym he correcteth, yea and he scourgeth every sonne whom he receyveth.
-Heb. xii.
+> The Epistle.
+> Heb. xii.
+
+MY sonne, despyse not the correccion of the Lord, nether faynte when thou art rebuked of hym: For whom the Lord loveth, him he correcteth, yea and he scourgeth every sonne whom he receyveth.
 
 ## The Gospel
 
-VERELY, verely I say unto you, he that heareth my woorde, and beleveth on hym that sente me, hath everlasting life, and shall not come unto damnacion, but he passeth from death unto life.
-John v.
+> The Gospel.
+> John v.
 
-## The Preface
+VERELY, verely I say unto you, he that heareth my word, and beleveth on him that sente me, hath everlasting lyfe, and shall not come unto damnacion, but he passeth from death unto lyfe.
 
-The Lorde be with you.
+> At the tyme of the distribucion of the holy Sacrament, the Priest shal fyrst receyve the Communion himself, and after minister unto them that be appointed to communicate wyth the sycke.
 
-**Aunswere.** And with thy spirit.
+> But yf any man either by reason of extremitie of syckenes, or for lacke of warning in due tyme to the Curate, or for lacke of company to receyve with him, or by any other just impediment, do not receyve the Sacrament of Christes body and blood; then the Curate shal instruct him that yf he do truly repent him of his sins, and stedfastly beleve that Jesus Christ hath suffred death upon the crosse for him, and shed his blood for his redempcion, earnestly remembring the benefites he hath therby, and gaving him heartie thanks therfore: he doeth eate and drinke the body and bloude of our Saviour Christ, profytably to his souls health, althoughe he doe not receyve the Sacrament with hys mouth.
 
-Lifte up your hertes, &c.
+> When the sicke person is visited and receiveth the holi communion all at one tyme: then the priest for more expedicion shal cut off the form of the visitacion at the Psalme.
+> In thee, O Lord, have I put my trust, and go streyght to the communion.
+> <!-- VERIFY: source prints 'cut of the forum of the visitacion'; 'of the forum' is OCR for 'off the form'; corrected; confirm against a page scan -->
 
-> Unto the ende of the Canon.
-
-> At the tyme of the distribucion of the holy sacrament, the prieste shalt firste receyve the communion hymselfe, and after minister to them that be appoynted to communicate with the sicke (yf there be any), and then to the sicke person.
-> And the sicke person shall all wayes desyre some, eyther of his owne house, or els of his neyghbours, to receyve the holy communion with hym; for that shall be to hym a singuler great coumforte, and of theyr parte a great token of charitie.
-
-> And yf there be moe sicke persons to be visited the same day that the curate doth celebrate in any sicke mans house; then shall the curate (there) reserve so muche of the sacramente of the body and blood: as shall serve the other sicke persons, and suche as be appoynted to communicate with them (yf there be any).
-> And shall immediatly cary it, and minister it unto them.
-
-> But yf any man eyther by reason of extremitie of sickenesse, or for lacke of warnyng geven in due tyme, to the curate, or by any other just impedimente, doe not receyne the sacramente of Christes bodye and blood then the curate shall instruct hym, that yf he doe truely repent hym of his sins and stedfastly beleve that Jesus Christ hath suffered death upon the crosse for hym, and shed his blood for his redempcion, earnestly remembring the benefites he hath therby, and geving hym hertie thankes therfore; he doeth eate and drynke spiritually the bodye and blood of our savioure Christe, profitably to his souls helth, although he doe not receyve the sacrament with his mouth.
-
-> When the sicke persone is visited and receiveth the holy communion, all at one tyme: then the priest for more expedicion shall use this ordre at the visitacion.
-
-> The Anthem.
-
-Remembre not Lorde, &c.
-
-Lorde have mercy upon us.
-
-Christe have mercy upon us.
-
-Lorde have mercy upon us.
-
-Our father whiche art in heaven, &c.
-
-And leade us not into temptacion.
-
-**Aunswere.** But deliver us from evyll.
-Amen.
-
-Let us praye.
-
-O Lorde, looke downe from heaven, &c.<!-- VERIFY: source prints 'O Lorde,' with a footnote 'Lorde omitted in some printings'; kept as printed; confirm against a page scan -->
-
-> With the firste parte of the exhortacion and all other thynges unto the Psalme:
-
-In thee O Lorde have I put my trust, &c.
-
-> And yf the sicke desyre to be annoyncted, then shall the priest use thappoynted prayer without any Psalme.
+> In the tyme of plague, Swette, or suche other lyke contagious tymes of syckenesses or dyseases, when none of the parysh or neyghbours can be gotten to communicate wyth the syck in theyr houses, for feare of the infeccion.
+> upon special request of the diseased, the minister may alonly communicate wyth hym.
