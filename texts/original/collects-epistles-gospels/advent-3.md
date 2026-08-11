@@ -1,22 +1,16 @@
-# The thirde sonday [in
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The thirde sonday [in' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Third Sunday in Advent
 
 ## The Collect
 
-LORD, we beseche.
-Amen.
-
-thee, geve eare to our prayers, and by thy gracious visitacion lighten.
-Amen.
-
-the darkenes of our hearte, by our Lorde Jesus Christe.
+O Lord Jesu Christ, who at thy first coming didst send thy messenger to prepare thy way before thee: Grant that the ministers and stewards of thy mysteries may likewise so prepare and make ready thy way, by turning the hearts of the disobedient to the wisdom of the just, that at thy second coming to judge the world we may be found an acceptable people in thy sight, who livest and reignest with the Father and the Holy Spirit, ever one God, world without end.
 Amen.
 
 ## The Epistle
 
-1 Corinthians 4
+1 Corinthians 4:1
 
 ## The Gospel
 
-Matthew 11
+Matthew 11:2

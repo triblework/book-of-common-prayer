@@ -1,25 +1,20 @@
-# Sainct Bartholomewe[
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'Sainct Bartholomewe[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# Saint Bartholemew the Apostle
 
 ## The Collect
 
-OALMIGHTIE and everlastyng God, whiche haste geven grace to thy* apostle.
+O Almighty and everlasting God, who didst give to thine Apostle Bartholomew grace truly to believe and to preach thy Word: Grant, we beseech thee, unto thy Church, to love that Word which he believed, and both to preach and receive the same; through Jesus Christ our Lord.
 Amen.
 
-Bartholomewe truly to beleve and to preache thy word; graunt, we beseche.
-Amen.
-
-thee, unto thy Church, both to love that he beleved, and to preache.
-Amen.
-
-that he taught; thorough Christ our Lorde.
-Amen.
+> August 24.
 
 ## The Epistle
 
-Acts 5
+> For the Epistle.
+
+Acts 5:12
 
 ## The Gospel
 
-Luke 22
+Luke 22:24

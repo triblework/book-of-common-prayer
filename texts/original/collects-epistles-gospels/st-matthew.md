@@ -1,31 +1,18 @@
-# Sayncte Matthewe[
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'Sayncte Matthewe[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# Saint Matthew the Apostle
 
 ## The Collect
 
-ALMIGHTIE God,.
+O Almighty God, who by thy blessed Son didst call Matthew from the receipt of custom to be an Apostle and Evangelist: Grant us grace to forsake all covetous desires and inordinate love of riches, and to follow the same thy Son Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
 Amen.
 
-whiche by thy blessed sonne dyddest call Mathewe from the receipte of.
-Amen.
-
-custome [=tax.
-Amen.
-
-office] to be an Apostle and Evangelist; Graunt us grace to forsake.
-Amen.
-
-all covetous desires, and inordinate love of riches, and to folowe thy.
-Amen.
-
-sayed sonne Jesus Christ; who lyveth and reigneth, &c.
-Amen.
+> September 21.
 
 ## The Epistle
 
-2 Corinthians 4
+2 Corinthians 4:1
 
 ## The Gospel
 
-Matthew 9
+Matthew 9:9

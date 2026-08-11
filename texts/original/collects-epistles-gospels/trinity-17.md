@@ -1,23 +1,16 @@
-# The xvii Sondaye
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Seventeenth Sunday after Trinity
 
 ## The Collect
 
-LORD we praye.
-Amen.
-
-thee that thy grace maye alwayes prevente [=go.
-Amen.
-
-before] and folowe us, and make us continuallye to be geven to.
-Amen.
-
-all good workes thorough Jesus Christe our Lorde.
+Lord, we pray thee that thy grace may always prevent and follow us, and make us continually to be given to all good works; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 4
+Ephesians 4:1
 
 ## The Gospel
 
-Luke 14
+Luke 14:1

@@ -1,23 +1,16 @@
-# The second Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Second Sunday after the Epiphany
 
 ## The Collect
 
-ALMIGHTIE and.
-Amen.
-
-everlasting God, whiche doest governe all thynges in heaven and earthe:.
-Amen.
-
-mercifully heare the supplicacions of thy people, and graunt us thy.
-Amen.
-
-peace all the dayes of our life.
+Almighty and everlasting God, who dost govern all things in heaven and earth: Mercifully hear the supplications of thy people, and grant us thy peace all the days of our life; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Romans 12
+Romans 12:6
 
 ## The Gospel
 
-John 2
+John 2:1

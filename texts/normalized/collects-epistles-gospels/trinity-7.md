@@ -1,28 +1,16 @@
-# The vii Sonday[
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The vii Sonday[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Seventh Sunday after Trinity
 
 ## The Collect
 
-LORDE of all power.
-Amen.
-
-and might, whiche art the author and gever of all good thynges; graffe.
-Amen.
-
-in our hartes the love of thy name, increase in us true religion, norishe.
-Amen.
-
-us with all goodnes, and of thy great mercy kepe us in the same; Through.
-Amen.
-
-Jesus Christe our Lorde.
+Lord of all power and might, who art the author and giver of all good things: Graft in our hearts the love of thy name, increase in us true religion, nourish us with all goodness, and of thy great mercy keep us in the same; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Romans 6
+Romans 6:19
 
 ## The Gospel
 
-Mark 8
+Mark 8:1

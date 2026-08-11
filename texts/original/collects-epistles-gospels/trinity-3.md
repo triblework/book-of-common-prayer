@@ -1,25 +1,16 @@
-# The third sonday[ after
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The third sonday[ after' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Third Sunday after Trinity
 
 ## The Collect
 
-LORDE, we beseche.
-Amen.
-
-thee mercifully to heare us, and unto whom thou hast geven an heartie.
-Amen.
-
-desyre to pray; graunt that by thy mightie ayde we may be defended;.
-Amen.
-
-through Jesus Christ our Lorde.
+O Lord, we beseech thee mercifully to hear us; and grant that we, to whom thou hast given an hearty desire to pray, may by thy mighty aid be defended and comforted in all dangers and adversities; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-1 Peter 5
+1 Peter 5:5
 
 ## The Gospel
 
-Luke 15
+Luke 15:1

@@ -1,23 +1,20 @@
-# Saint Barnabe Apostle
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Barnabas the Apostle
 
 ## The Collect
 
-LORDE Almighty, whiche hast indued thy holy Apostle Barnabas with singuler.
+O Lord God Almighty, who didst endue thy holy Apostle Barnabas with singular gifts of the Holy Ghost: Leave us not, we beseech thee, destitute of thy manifold gifts, nor yet of grace to use them alway to thy honour and glory; through Jesus Christ our Lord.
 Amen.
 
-giftes of thy holy goste; let us not be destytute of thy manyfold giftes,.
-Amen.
-
-nor yet of grace to use them alway to thy honour and glory; through.
-Amen.
-
-Jesus Christ our Lorde.
-Amen.
+> June 11.
 
 ## The Epistle
 
-Acts 11
+> For the Epistle.
+
+Acts 11:22
 
 ## The Gospel
 
-John 15
+John 15:12

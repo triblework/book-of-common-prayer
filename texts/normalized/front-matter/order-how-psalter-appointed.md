@@ -1,15 +1,22 @@
 # The Order how the Psalter is appointed to be read
 
-THE Psalter shalbe readde through, ones every moneth, and because that some Monethes bee longer then some other be; It is thought good, to make them even by this meanes.
+The Psalter shall be read through once every month, as it is there appointed, both for Morning and Evening Prayer.
+But in February it shall be read only to the twenty eighth or twenty ninth day of the month.
 
-To every moneth shalbe appointed (as concerning this purpose) just xxx dayes.
+And, whereas January, March, May, July, August, October and December have one and thirty dayes a peece; Jt is ordered that the same Psalms shall be read the last day of the said Monthes which were read the day before: So that the Psalter may begin again the first day of the next month ensuing.
 
-And because January and Marche hathe one daye above the sayed nomber, and February, which is placed betwene them bothe, hath only xxviii dayes, February shall borow of either of the monethes (of January and Marche) one day, and so the Psalter, which shalbe redde in February, must begin the last daie of January, and ende the first daie of Marche.
+And, whereas the cxix.
+psalm is divided into xxii.
+portions, and is overlong to be read at one time: Jt is so ordered, that at one time shall not be read above four or five of the said portions.
 
-And where as May, July, August, October and December, hath xxxi dayes a pece, it is ordred that the same Psalmes shalbe redde the haste day of the sayed Monethes, which were redde the daye before, so that the Psalter may beginne again the first daie of the next Monethe ensuyng.
+And at the end of every Psalm, and of every such part of the cxix Psalm shall be repeated this Hymn
 
-Now to knowe what Psalmes shalbe redde every daie, looke in the Kalender, the nomber that is appointed for the Psalmes, and then fynde thesame nomber in this Table, and upon that nomber shall you see, what Psalmes shalbe said at Morning and Evening prayer.
+Glory be to the Father, and to the Son : and to the holy Ghost.
 
-And where the cxix Psalme, is devided into xxii porcions, and is overlong to be redde at one time: it is so ordred, that, at one time, shal not be readde above foure or fyve of the said porcions, as you shall perceive to be noted in this Table folowyng.
+As it was in the beginning, is now, and ever shall be : world without end.
+Amen.
 
-And here is also to be noted, that in this Table, and in all other partes of the service, where any Psalmes are appoyncted, the nombre is expressed after the greate Englyshe Bible, whiche from the ix Psalme, unto the cxlviii Psalme (folowing the devision of the Hebrues) doth vary in nombres from the common Latine translacion.
+Note, that the Psalter followeth the division of the Hebrews, and the Translation of the great English Bible, set forth and vsed in the time of K.
+H.
+viii.
+and Edw. vi.

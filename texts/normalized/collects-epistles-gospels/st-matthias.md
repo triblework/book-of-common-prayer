@@ -1,29 +1,20 @@
-# Saint Mathies' daie
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Matthias's Day
 
 ## The Collect
 
-ALMYGHTYE God,.
+O Almighty God, who into the place of the traitor Judas didst choose thy faithful servant Matthias to be of the number of the twelve Apostles: Grant that thy Church, being alway preserved from false Apostles, may be ordered and guided by faithful and true pastors; through Jesus Christ our Lord.
 Amen.
 
-whiche in the place of the traytor Judas, didst chose thy faythful.
-Amen.
-
-servaunte Mathie.
-Amen.
-
-to be of the number of thy twelve Apostles; Graunt that thy church,.
-Amen.
-
-being alway preserved from false Apostles, may be ordred and guided.
-Amen.
-
-by faythful and true pastors; Through Jesus Christ our Lorde.
-Amen.
+> February 24.
 
 ## The Epistle
 
-Acts 1
+> For the Epistle.
+
+Acts 1:15
 
 ## The Gospel
 
-Matthew 11
+Matthew 11:25

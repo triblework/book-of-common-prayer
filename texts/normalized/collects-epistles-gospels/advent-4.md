@@ -1,31 +1,16 @@
-# The fourth sonday [in
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The fourth sonday [in' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Fourth Sunday in Advent
 
 ## The Collect
 
-LORDE rayse up.
-Amen.
-
-(we pray the) thy power, and come among us, and with great might succour.
-Amen.
-
-us; that whereas, through our sins and wickednes, we be soore lette.
-Amen.
-
-and hindred, thy bountiful grace and mercye, through the satisfaccion.
-Amen.
-
-of thy sonne our Lord, may spedily deliver us; to whom with thee and.
-Amen.
-
-the holy gost be honor and glory, world without ende.
+O Lord, raise up (we pray thee) thy power, and come among us, and with great might succour us; that whereas, through our sins and wickedness, we are sore let and hindered in running the race that is set before us, thy bountiful grace and mercy may speedily help and deliver us; through the satisfaction of thy Son our Lord, to whom with thee and the Holy Ghost be honour and glory, world without end.
 Amen.
 
 ## The Epistle
 
-Philippians 4
+Philippians 4:4
 
 ## The Gospel
 
-John 1
+John 1:19

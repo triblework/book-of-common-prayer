@@ -1,26 +1,16 @@
-# The xiiii Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Fourteenth Sunday after Trinity
 
 ## The Collect
 
-ALMIGHTYE.
-Amen.
-
-and everlastyng God, geve unto us the increase of faith, hope, and.
-Amen.
-
-charitie; and that we may obteine that whiche thou doest promise; make.
-Amen.
-
-us to love that whiche thou doest commaunde, through Jesus Christe our.
-Amen.
-
-Lorde.
+Almighty and everlasting God, give unto us the increase of faith, hope, and charity; and, that we may obtain that which thou dost promise, make us to love that which thou dost command; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Galatians 5
+Galatians 5:16
 
 ## The Gospel
 
-Luke 17
+Luke 17:11

@@ -1,151 +1,331 @@
-# The Fourme of Consecrating of an Archebisshoppe or Bisshoppe.
+# The Form of Ordaining or Consecrating of an Archbishop or Bishop.
+
+> which is always to be performed upon some Sunday or Holy Day unless for weighty and urgent reasons some other day be appointed.
+
+> When all things are duly prepared in the Church, and set in order; after Morning Prayer is ended, the Archbishop (or some other Bishop appointed) shall begin the Communion Service: in which this shall be
+
+## The Collect
+
+Almighty God, who by thy Son Jesus Christ didst give to thy holy Apostles many excellent gifts, and didst charge them to feed thy flock: Give grace, we beseech thee, to all Bishops, the Pastors of thy Church, that they may diligently preach thy Word, and duly administer the godly discipline thereof; and grant to the people, that they may obediently follow the same; that all may receive the crown of everlasting glory; through Jesus Christ our Lord.
+Amen.
 
 ## The Epistle
 
-> At the Communion.
+> And another Bishop shall read
 
-> The Epistle.
+> The Epistle. 1 St. Timothy 3.1
 
-This is a true saying, if a man desire the office of a Bisshoppe, he desireth an honest woorke.
-A Bishoppe therefore muste bee blamelesse, the husbande of one wyfe, dilygent, sober, discrete, a keper of hospitalitie, apte to teache, not geven to overmuche wyne, no fyghter, not gredy of filthy lucre, but gentle, abhorring fightynge, abhorrynge covetousnesse, one that ruleth wel his own house, one that hath children in subjeccion with al reverence.
-For if a man cannot rule his own house, howe shal he care for the congregacion of God?
-He may not be a yong scholer, lest he swel and fal into the judgemente of the evil speaker.
-He must also have a good report of them whiche are without, leste he fall into rebuke and snare of the evil speaker.
+This is a true saying, If a man desire the office of a bishop, he desireth a good work.
+A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; one that ruleth well his own house, having his children in subjection with all gravity; (for if a man know not how to rule his own house, how shall he take care of the Church of God?)
+Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
+Moreover, he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
+
+> Or this.
+
+> For The Epistle.Acts 20.17
+
+From Miletus Paul sent to Ephesus, and called the elders of the Church.
+And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears, and temptations, which befel me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
+And now behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befal me there; save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.
+But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry which I have received of the Lord Jesus, to testify the Gospel of the grace of God.
+And now behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.
+Wherefore I take you to record this day, that I am pure from the blood of all men.
+For I have not shunned to declare unto you all the counsel of God.
+Take heed therefore unto yourselves, and to all the flock over the which the Holy Ghost hath made you overseers, to feed the Church of God, which he hath purchased with his own blood.
+For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+Also of your own selves shall men arise speaking perverse things, to draw away disciples after them.
+Therefore watch, and remember that by the space of three years I ceased not to warn every one night and day with tears.
+And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
+I have coveted no man's silver, or gold, or apparel: yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
+I have shewed you all things, how that so labouring ye ought to support the weak; and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 ## The Gospel
 
-> The Gospell.
-> John xxi.
+> Then another Bishop shall read
 
-Jesus saied to Symon Peter, Symon Johanna, loveste thou me more than these?
-He said unto him, yea, lorde, thou knowest that I love thee: he said unto him, fede my lambes.
-He said to him againe the seconde time: Simon Johanna, lovest thou me?
-He saied unto him, yea lorde, thou knowest that I love thee: he saied unto him, feede my shepe.
-He said unto him the thirde time; Simon Johanna, lovest thou me?
-Peter was sory, because he said unto hym the third time, lovest thou me, and he said unto him: lord thou knowest al thinges, thou knowest that I love thee.
-Jesus said unto hym, fede my shepe.
+> The Gospel.
+> St. John 21.15
 
-> Or els out of the tenth Chapiter of John, as before in thorder of Priestes.
+Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these?
+He saith unto him, Yea, Lord, thou knowest that I love thee.
+He saith unto him, Feed my lambs.
+He saith to him again the second time, Simon, son of Jonas, lovest thou me?
+He saith unto him, Yea, Lord, thou knowest that I love thee.
+He saith unto him, Feed my sheep.
+He saith unto him the third time, Simon, son of Jonas, lovest thou me?
+Peter was grieved because he said unto him the third time, Lovest thou me?
+And he said unto him, Lord, thou knowest all things; thou knowest that I love thee.
+Jesus saith unto him, Feed my sheep.
+
+> Or else this.
+
+> St. John 20.19
+
+The same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
+And when he had so said, he shewed unto them his hands and his side.
+Then were the disciples glad, when they saw the Lord.
+Then said Jesus to them again, Peace be unto you: As my Father hath sent me, even so send I you.
+And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost.
+Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
+
+> Or this.
+
+> St. Matthew 28.18
+
+Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
+Go ye therefore and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost; teaching them to observe all things whatsoever I have commanded you: and lo, I am with you alway, even unto the end of the world.
 
 ## The Presentation
 
-> After the gospel and Credo ended, firste the elected Bisshoppe shall bee presented by two Bisshoppes unto the Archebisshoppe of that Province, or to some other Bysshoppe appoynted by his commission: The Bisshoppes that present hym saying.
+> After the Gospel, and the Nicene Creed, and the Sermon are ended, the elected Bishop (vested, with his Rochet) shall be presented by two Bishops unto the Archbishop of that province, (or to some other Bishop appointed by lawful commission,) the Archbishop sitting in his Chair, near the holy Table, and the Bishops that present him saying,
 
-Most reverend father in god, we presente unto you this godly and wel learned man to be consecrated Bisshoppe.
+Most reverend Father in God, we present unto you this godly and well-learned man to be ordained and consecrated Bishop.
 
 ## The Oath of Due Obedience
 
-> Then shal the Archebisshoppe demand the Kings Mandate for the consecracion and cause it to be read.
-> And the othe touching the knowledging of the Kings Souveraintie, shalbe ministred to the person elected, as it is set oute in the Order of Deacons.
-> And then shalbe ministred also the othe of due obedience unto the Archebishoppe, as foloweth.
-<!-- VERIFY: 'Kings'; there is no 1604 justus Ordinal page; the King's Mandate/Sovereignty is derived from the 1559 Queen's readings per the synoptic 'Kings supremacie in 1604' note; confirm against a 1604 page scan -->
+> Then shall the Archbishop demand the King's Mandate for the Consecration, and cause it to be read.
+> And then shall be ministered unto them the Oath of due obedience to the Archbishop, as followeth.
 
-> The Othe of Due Obedience to the Archebisshoppe.
+> The Oath of due obedience to the Archbishop
 
-In the name of God, Amen.
-I, N.
-chosen Bisshoppe of the Churche and sie of N.
-doe professe and promesse, al due reverence and obedience to the Archebisshoppe, and to the Metropoliticall churche of N.
-and to their successours: so helpe me God throughe Jesus Chryste.
+In the Name of God, Amen.
+I N.
+chosen Bishop of the Church and See of N.
+do profess and promise all due reverence and obedience to the Archbishop and to the Metropolitical Church of N.
+and to their Successors: So help me God, through Jesus Christ.
 
-> This othe shal not be made at the consecracion of an Archebishoppe.
+> This Oath shall not be made at the Consecration of an Archbishop.
 
 ## The Litany
 
-> Then the Archebisshoppe shal move the congregacion present to praye; saying thus to them.
+> Then the Archbishop shall move the Congregation present to pray, saying thus to them:
 
-Brethren, it is written in the gospel of saincte Luke, that our savioure Christe continued the whole night in praier, or ever that he did chose and sende furth his xii.
-Apostles.
-It is written also in the Actes of the Apostles, that the disciples whiche were at Antioche did fast and pray, or ever they layed handes upon, or sent furth Paul and Barnabas. Let us therefore, folowyng the example of oure savioure Christ and his Apostles, first fal to prayer, or that we admit and send furth thys person presented unto us, to the worke wherunto we truste the holy goste hath called hym.
+Bretheren, it is written in the Gospel of Saint Luke, that our Saviour Christ continued the whole night in prayer, before he did choose and send forth his twelve Apostles.
+It is written also in the Acts of the Apostles, that the disciples who were at Antioch did fast and pray, before they laid hands on Paul and Barnabas, and sent them forth.
+Let us therefore, following the example of our Saviour Christ and his Apostles, first fall to prayer, before we admit and send forth this person presented unto us, to the work whereunto we trust the Holy Ghost hath called him.
 
-> And then shalbe saied the Letany, as afore in the order of Deacons.
-> And after this place: That it may please thee to illuminate al Bisshoppes, &c.
-> he shal saye.
+> And then shall be said the Litany, as before in the Form of Ordering Deacons, save only that after this place, That it may please thee to illuminate all Bishops, &c.
+> the proper Suffrage there following shall be omitted, and this inserted instead of it;
 
-That it maye please thee to blesse this our brother elected, and to sende thy grace upon him, that he may duely execute the office wherunto he is called, to the edifying of thy Churche, and to the honour, prayse and glory of thy name.
+That it may please thee to bless this our Brother elected, and to send thy grace upon him, that he may duly execute the office whereunto he is called, to the edifying of thy Church, and to the honour, praise and glory of thy Name,
 
-**Aunswere.** We beseche thee to heare us good Lorde.
+**Answer.** We beseech thee to hear us, good Lord.
 
-> Concluding the Letanye in thende, with this prayer.
+> Then shall be said this Prayer following.
 
-Almightie God, gever of all good thynges, which by thy holy spirite hast appointed diverse orders of ministers in thy Church: mercifully beholde this thy servaunt, now called to the worke and ministerie of a Bisshoppe, and replenishe him so with the trueth of thy doctryne, and innocencie of life, that both by worde and dede, he may faithfully serve thee in this office, to the glorye of thy name, and profite of thy congregacyon: Through the merites of our savioure Jesu Christe, who lyveth and reigneth with thee and the holy gost, worlde without ende.
+Almighty God, giver of all good things, who by thy Holy Spirit hast appointed divers Orders of Ministers in thy Church: Mercifully behold this thy servant now called to the work and ministry of a Bishop; and replenish him so with the truth of thy doctrine, and adorn him with innocency of life, that both by word and deed he may faithfully serve thee in this office, to the glory of thy Name, and the edifying and well-governing of thy Church; through the merits of our Saviour Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, world without end.
 Amen.
 
 ## The Examination
 
-> Then the Archebisshoppe sittyng in a chaire, shall saye this to hym that is to be consecrated.
+> Then the Archbishop, sitting in his Chair, shall say to him that is to be consecrated,
 
-Brother, forasmuche as holy scripture and the olde Canons commaundeth, that we should not be hastie in laying on handes and admyttynge of any person to the governement of the congregacion of Christe, whiche he hath purchased with no lesse price than the effusion of hys owne bloud; afore that I admit you to this administracion wherunto ye are called, I wil examyne you in certaine articles, to thende the congregacion present, may have a trial and beare witnes how ye be minded to behave your self in the churche of god.
+Brother, forasmuch as the holy Scripture and the ancient Canons command that we should not be hasty in laying on hands, and admitting any person to government in the Church of Christ, which he hath purchased with no less price than the effusion of his own blood: Before I admit you to this administration, I will examine you in certain articles, to the end that the Congregation present may have a trial, and bear witness, how you be minded to behave yourself in the Church of God.
 
-Are you perswaded that you be truely called to thys ministracion according to the will of oure Lorde Jesus Christ, and the order of this realme?
+Are you persuaded that you be truly called to this ministration, according to the will of our Lord Jesus Christ, and the order of this Realm?
 
-**Aunswere.** I am so perswaded.
+**Answer.** I am so persuaded.
 
-**The Archebisshoppe.** Are you perswaded that the holy Scriptures conteine sufficiently all doctryne, requyred of necessitie for eternall salvacyon, through the faith in Jesu Christe?
-And are you determyned with the same holy scriptures, to enstruct the people committed to your charge, and to teache or maintein nothyng, as required of necessitie to eternall salvacion, but that you shall bee perswaded may be concluded, and proved by the same?
+**The Archbishop.**
 
-**Aunswere.** I am so perswaded and determined by gods grace.
+Are you persuaded that the holy Scriptures contain sufficiently all doctrine required of necessity for eternal salvation through faith in Jesus Christ?
+And are you determined out of the same holy Scriptures to instruct the people committed to your charge, and to teach or maintain nothing as required of necessity to eternal salvation, but that which you shall be persuaded may be concluded and proved by the same?
 
-**The Archebisshoppe.** Wil you then faithfully exercise your selfe in the said holy scriptures, and call upon god by prayer for the true understanding of the same, so as ye may be able by them to teache and exhorte with wholesome doctrine, and to withstande and convince the gainsaiers?
+**Answer.** I am so persuaded and determined, by God's grace.
 
-**Aunswere.** I wyll so doe, by the helpe of God.
+**The Archbishop.**
 
-**The Archebisshoppe.** Be you ready with al faithful diligence, to banishe and drive away al erronious and straunge doctryne, contrary to god's worde, and both privately and openly to call upon, and encourage other to the same?
+Will you then faithfully exercise yourself in the same holy Scriptures, and call upon God by prayer, for the true understanding of the same; so as ye may be able by them to teach and exhort with wholesome doctrine, and to withstand and convince the gainsayers?
 
-**Aunswere.** I am ready, the lord beyng my helper.
+**Answer.** I will so do, by the help of God.
 
-**The Archebisshoppe.** Wil you deny al ungodlinesse and worldly lustes, and live soberly, ryghteouslye, and godly in thys world, that you may shewe yourself in all thinges an example of good workes unto other, that the adversary maye be ashamed, havynge nothing to laye agaynst you?
+**The Archbishop.**
 
-**Aunswere.** I wyll so doe, the lorde beyng my helper.
+Be you ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrine contrary to God's Word; and both privately and openly to call upon and encourage others to the same?
 
-**The Archebisshoppe.** Wil you maintain and set forward (as muche as shal lie in you) quietnesse, peace, and love, emonge al men?
-And suche as be unquiete, disobedyente, and criminous within your Diocesse, correcte and punishe, accordyng to suche aucthoritie, as ye have by gods worde, and as to you shalbe committed, by the ordinaunce of thys realme?
+**Answer.** I am ready, the Lord being my helper.
 
-**Aunswere.** I wyll so doe by the helpe of god.
+**The Archbishop.**
 
-**The Archebisshoppe.** Wil you shewe yourself gentle, and be mercifull for Christes sake to poore and nedy people, and to all straungers destitute of helpe?
+Will you deny all ungodliness and worldly lusts, and live soberly, righteously and godly in this present world; that you may shew yourself in all things an example of good works unto others, that the adversary may be ashamed, having nothing to say against you?
 
-**Aunswere.** I wyll so shewe myselfe by gods helpe.
+**Answer.** I will so do, the Lord being my helper.
 
-**The Archebisshoppe.** Almightie God oure heavenly father, who hath geven you a good wil to doe all these thinges, graunt also unto you, strengthe and power to performe the same, that he accomplishing in you, the good worke which he hath begon, ye may be found perfecte, and irreprehensible at the latter day, through Jesu Chryst our Lord.
+**The Archbishop.**
+
+Will you maintain and set forward (as much as shall lie in you) quietness, peace, and love among all men; and such as be unquiet, disobedient and criminous within your Diocese, correct and punish, according to such authority as ye have by God's Word, and as to you shall be committed by the Ordinance of this Realm?
+
+**Answer.** I will so do, by the help of God.
+
+**The Archbishop.**
+
+Will you be faithful in ordaining, sending, or laying hands upon others?
+
+**Answer.** I will so be, by the help of God.
+
+**The Archbishop.**
+
+Will you shew yourself gentle, and be merciful for Christ's sake to poor and needy people, and to all strangers destitute of help?
+
+**Answer.** I will so shew myself, by God's help.
+
+> Then the Archbishop, standing up, shall say,
+
+Almighty God, our heavenly Father, who hath given you a good will to do all these things; Grant also unto you strength and power to perform the same; that he accomplishing in you the good work which he hath begun, ye may be found perfect and irreprehensible at the latter day; through Jesus Christ our Lord.
 Amen.
 
 ## Veni, Creator Spiritus
 
-> Then shal be song or sayd, Come holy gost, &c.
-> as it is set out in the Order of Priestes.
+> Then shall the Bishop elect put on the rest of the Episcopal habit; and kneeling down, Veni, Creator Spiritus, shall be sung or said over him, the Archbishop beginning, and the Bishops, with others that are present, answering by verses, as followeth.
+
+Come, Holy Ghost, our souls inspire,
+
+And lighten with celestial fire.
+
+Thou the anointing Spirit art,
+
+Who dost thy seven-fold gifts impart.
+
+Thy blessed Unction from above
+
+Is comfort, life, and fire of love.
+
+Enable with perpetual light
+
+The dulness of our blinded sight.
+
+Anoint and cheer our soiled face
+
+With the abundance of thy grace.
+
+Keep far our foes, give peace at home:
+
+Where thou art guide, no ill can come.
+
+Teach us to know the Father, Son,
+
+And thee, of both, to be but One.
+
+That, through the ages all along,
+
+This may be our endless song:
+
+Praise to thy eternal merit,
+
+Father, Son, and Holy Spirit.
+
+> Or this:
+
+Come, Holy Ghost, eternal God, proceeding from above,
+
+Both from the Father and the Son, the God of peace and love;
+
+Visit our minds, into our hearts thy heavenly grace inspire;
+
+That truth and godliness we may pursue with full desire.
+
+Thou art the very Comforter in grief and all distress;
+
+The heav'nly gift of God most high, no tongue can it express;
+
+The fountain and the living spring of joy celestial;
+
+The fire so bright, the love so sweet, the Unction spiritual.
+
+Thou in thy gifts art manifold, by them Christ's Church doth stand:
+
+In faithful hearts thou writ'st thy law, the finger of God's hand.
+
+According to thy promise, Lord, thou givest speech with grace;
+
+That through thy help God's praises may resound in every place.
+
+O Holy Ghost, into our minds send down thy heav'nly light;
+
+Kindle our hearts with fervent zeal to serve God day and night.
+
+Our weakness strengthen and confirm, (for, Lord, thou know'st us frail;)
+
+That neither devil, world, nor flesh, against us may prevail.
+
+Put back our enemy far from us, and help us to obtain
+
+Peace in our hearts with God and man, (the best, the truest gain;)
+
+And grant that thou being, O Lord, our leader and our guide,
+
+We may escape the snares of sin, and never from thee slide.
+
+Such measures of thy powerful grace grant, Lord, to us, we pray;
+
+That thou may'st be our Comforter at the last dreadful day.
+
+Of strife and of dissension dissolve, O Lord, the bands,
+
+And knit the knots of peace and love throughout all Christian lands.
+
+Grant us the grace that we may know the Father of all might,
+
+That we of his beloved Son may gain the blissful sight;
+
+And that we may with perfect faith ever acknowledge thee,
+
+The Spirit of Father, and of Son, One God in Persons Three.
+
+To God the Father laud and praise, and to his blessed Son,
+
+And to the Holy Spirit of grace, co-equal Three in One.
+
+And pray we, that our only Lord would please his Spirit to send
+
+On all that shall profess his Name, from hence to the world's end.
+Amen.
+
+> As before in the Form for Ordering Priests.
 
 ## The Consecration
 
-> That ended, the Archebisshoppe shall saye.
+> That ended, the Archbishop shall say
 
-Lorde, heare our prayer.
+Lord, hear our prayer.
 
-**Aunswer.** And let our crie come unto thee.
+**Answer.** And let our cry come unto thee.
 
-> Let us praye.
+> Let us pray.
 
-Almightie God and moste mercyfull father, which of thy infinite goodnesse haste geven to us thy only and most dere beloved sonne Jesus Chryst, to be our redemer and aucthour of everlasting life; who after that he had made perfecte our redempcion by his deathe, and was ascended into heaven, powred downe his gyftes aboundauntly upon men, making some Apostles, some Prophetes, some Evangelistes, some Pastours and doctours, to the edifying and makyng perfecte of his congregacion: graunt we beseche the, to this thy servaunt suche grace, that he may be evermore ready to spreade abrode thy gospell, and glad tidinges of reconcilement to God, and to use the aucthoritie geven unto him, not to destroie, but to save, not to hurt, but to helpe: so that he as a wise and a faithful servaunt, geving to thy family meate in due season, may at the last be received into joye, through Jesu Christ our lorde, who with thee, and the holy goste liveth and reigneth one God, world without ende.
+Almighty God and most merciful Father, who of thine infinite goodness hast given thine only and dearly beloved Son Jesus Christ, to be our Redeemer and the Author of everlasting life; who, after that he had made perfect our redemption by his death, and was ascended into heaven, poured down his gifts abundantly upon men, making some Apostles, some Prophets, some Evangelists, some Pastors and Doctors, to the edifying and making perfect his Church: Grant, we beseech thee, to this thy servant such grace, that he may evermore be ready to spread abroad thy Gospel, the glad tidings of reconciliation with thee; and use the authority given him, not to destruction, but to salvation; not to hurt, but to help: so that as a wise and faithful servant, giving to thy family their portion in due season, he may at last be received into everlasting joy; through Jesus Christ our Lord, who with thee and the Holy Ghost liveth and reigneth, one God, world without end.
 Amen.
 
-> Then the Archebisshoppe and Bisshoppes present, shal lay their handes upon the head of the elect Bisshop, the Archebisshoppe saying.
+> Then the Archbishop and Bishops present shall lay their hands upon the head of the elected Bishop kneeling before them upon his knees, the Archbishop saying,
 
-Take the holy gost, and remember that thou stirre up the grace of god, whiche is in thee, by imposicion of handes: for god hath not geven us the spirite of feare, but of power, and love, and of sobernesse.
+Receive the Holy Ghost for the office and work of a Bishop in the Church of God, now committed unto thee by the imposition of our hands; In the Name of the Father, and of the Son, and of the Holy Ghost.
+Amen.
+And remember that thou stir up the grace of God which is given thee by this imposition of our hands: for God hath not given us the spirit of fear, but of power, and love, and soberness.
 
 ## The Delivery of the Bible
 
-> Then the Archebisshoppe shal deliver him the Bible, saying.
+> Then the Archbishop shall deliver him the Bible, saying,
 
-Geve hede unto reading, exhortacion and doctrine.
-Thinke upon these thinges conteined in this boke, be diligent in them, that the encrease comyng therby, may be manyfest unto all men.
-Take hede unto thyselfe, and unto teaching, and be diligent in doing them, for by doing this thou shalt save thyselfe, and them that heare thee; bee to the flocke of Christ a shepeheard, not a wolfe: feede them, devoure them not; holde up the weake, heale the sicke, binde together the broken, bryng againe the outcastes, seke the lost.
-Be so mercifull, that you be not to remisse, so minister discipline, that ye forgeat not mercy; that when the chief shepheard shal come, ye may receyve the immarcessible croune of glory, through Jesus Christ our lord.
+Give heed unto reading, exhortation, and doctrine.
+Think upon the things contained in this Book.
+Be diligent in them, that the increase coming thereby may be manifest unto all men.
+Take heed unto thyself, and to doctrine, and be diligent in doing them: for by so doing thou shalt both save thyself and them that hear thee.
+Be to the flock of Christ a shepherd, not a wolf; feed them, devour them not.
+Hold up the weak, heal the sick, bind up the broken, bring again the outcasts, seek the lost.
+Be so merciful, that ye be not too remiss; so minister discipline, that you forget not mercy: that when the chief Shepherd shall appear ye may receive the never-fading crown of glory; through Jesus Christ our Lord.
 Amen.
 
 ## The Communion
 
-> Then the Archebisshoppe shal procede to the Communion, with whom the newe consecrated Bysshopp with other, shal also communicate.
-> And after the laste Collecte, immediatlye afore the benediccyon, shall bee sayed thys prayer:
+> Then the Archbishop shall proceed in the Communion-Service; with whom the new consecrated Bishop (with others) shall also communicate.
 
-Most merciful father, we beseche thee to send down upon this thy servaunt, thy heavenly blessynge, and so endue hym with thy holy spirite, that he preaching thy worde, may not only be earneste to reprove, beseche, and rebuke with al pacience and doctryne, but also may be to such as beleve, an wholesome example in worde, in conversacion, in love, in faith, in chastitie, and puritie, that faythfully fulfilling his course, at the latter day he may receive the croune of righteousnesse, laied up by the Lord, the righteous judge, who liveth and reigneth, one god with the father and holy gost, worlde withoute ende.
+> And for the last Collect, immediately before the Benediction, shall be said these Prayers.
+
+Prevent us, O Lord, in all our doings with thy most gracious favour, and further us with thy continual help; that in all our works, begun, continued, and ended in thee, we may glorify thy holy Name, and finally by thy mercy obtain everlasting life; through Jesus Christ our Lord.
+Amen.
+
+The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the blessing of God almighty, the Father, the Son, and the Holy Ghost, be amongst you and remain with you always.
+Amen.
+
+Most merciful Father, we beseech thee to send down upon this thy servant thy heavenly blessing; and so endue him with thy Holy Spirit, that he, preaching thy Word, may not only be earnest to reprove, beseech, and rebuke with all patience and doctrine; but also may be to such as believe a wholesome example, in word, in conversation, in love, in faith, in chastity, and in purity; that, faithfully fulfilling his course, at the latter day he may receive the crown of righteousness laid up by the Lord the righteous Judge, who liveth and reigneth one God with the Father and the Holy Ghost, world without end.
 Amen.

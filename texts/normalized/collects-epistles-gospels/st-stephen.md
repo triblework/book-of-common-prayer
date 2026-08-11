@@ -1,28 +1,22 @@
-# St. Stephin's Day
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# Saint Stephen's Day
 
 ## The Collect
 
-GRAUNTE.
+Grant, O Lord, that in all our sufferings here upon earth, for the testimony of thy truth, we may stedfastly look up to heaven, and by faith behold the glory that shall be revealed; and, being filled with the Holy Ghost, may learn to love and bless our persecutors by the example of thy first Martyr Saint Stephen, who prayed for his murderers to thee, O blessed Jesus, who standest at the right hand of God to succour all those that suffer for thee, our only Mediator and Advocate.
 Amen.
 
-us, O Lorde, to learne to love oure enemies, by the example of thy marter.
-Amen.
+> December 26.
 
-saincte Stephin, who prayed to thee for hys persecutors; whiche liuest.
-Amen.
-
-and reignest, &c.
-Amen.
-
-continually unto newe years daye]*.
-Amen.
-
-> Then shall folowe a Collect of the Nativitie [which shalbe said
+> Then shall follow the Collect of the Nativity, which shall be said continually unto New-year's Eve.
 
 ## The Epistle
 
-Acts 7
+> For the Epistle.
+
+Acts 7:55
 
 ## The Gospel
 
-Matthew 23
+Matthew 23:34
