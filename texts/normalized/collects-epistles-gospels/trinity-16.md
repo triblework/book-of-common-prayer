@@ -1,20 +1,16 @@
-# The xvi Sonday
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Sixteenth Sunday after Trinity
 
 ## The Collect
 
-LORD, we beseche thee, let thy continual pitie clense and defende thy congregacion;.
-Amen.
-
-and, because it cannot continue in safetie without thy succoure, preserve.
-Amen.
-
-it evermore by thy helpe and goodnes; through Jesus Christ our Lorde.
+O Lord, we beseech thee, let thy continual pity cleanse and defend thy Church; and, because it cannot continue in safety without thy succour, preserve it evermore by thy help and goodness; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 3
+Ephesians 3:13
 
 ## The Gospel
 
-Luke 7
+Luke 7:11

@@ -1,19 +1,12 @@
 # The Order how the rest of Holy Scripture is appointed to be read
 
->THE ORDER
+The Old Testament is appointed for the first Lessons at Morning, and Evening Prayer; so as the most part thereof will be read every year once as in the Kalendar is appointed.
 
-THOLD Testament is appointed for the fyrst lessons, at Morning and Evening prayer, and shal be read through, everye yere once, excepte certaine bokes and Chapiters, whiche be leaste edifying, and mighte beste bee spared, and therefore bee lefte unread.
+The New Testament is appointed for the second Lessons at Morning and Evening Prayer, and shall be read over orderly every year thrice, besides the Epistles and Gospels; except the Apocalyps, out of which there are only certein proper Lessons appointed upon divers Feasts.
 
-The newe Testament is appointed for the seconde Lessons, at Mornyng and Evenyng prayer, and shalbe read over orderly every yere thryse, besyde the Epistles and Gospels: except the Apocalips [=Revelation], out of the which there bee only certayne Lessons appointed, upon diverse proper feastes.
+And to know what Lessons shall be read every day, looke for the day of the month in the Kalendar following; and there ye shall find the Chapters that shall be read for the Lessons, both at morning and evening Prayer.
+Except only the Moveable Feasts, which are not in the Kalendar; and the Jm̄oveable, where there is a blank left in the Column of Lessons; The proper Lessons for all which dayes are to be found in the Table of Proper Lessons.
 
-And to knowe what Lessons shalbe readde every daye: fynde the day of the moneth in the Kalender folowing; and there ye shal perceyve the bokes and Chapiters that shalbe read for the Lessons, both at Mornynge and Eveninge prayer.
+And note, that whensoever proper Psalms, or Lessons are appointed; then the Psalms and Lessons of ordinary course appointed in the Psalter, and Kalendar (if they be different) shall be omitted for that time.
 
-And here is to bee noted, that whensoever there bee any proper Psalmes or Lessons appointed for the Sondayes or for anye feaste moveable or unmoveable: then the Psalmes and Lessons, appointed in the kalender shalbe omitted for that tyme.
-
-Ye must note also that the Collect Epistle and Gospel, appointed for the Sondaie shal serve al the weke after, except there fall some feast that hath his proper.
-
-This is also to bee noted, concernyng the Leape yeares, that the xxv daye of February, which in Leape yeare is coumpted for two dayes, shal in those two dayes, alter nether Psalme nor Lesson: but the same Psalmes and Lessons, whiche be said the first daye, shall also serve for the second daye.
-
-Also, wheresoever the beginnyng of any Lesson, Epistle or Gospel is not expressed: there ye muste beginne at the beginning of the Chapiter.
-
-And wheresoever is not expressed howe farre shalbe read, there shall you reade to the ende of the Chapiter.
+Note also, that the Collect, Epistle, and Gospel appointed for the Sunday, shall serve all the week after, where it is not in this book otherwise ordered.

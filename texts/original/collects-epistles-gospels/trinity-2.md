@@ -1,23 +1,16 @@
-# The second Sondayeafter Trinity
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-<!-- VERIFY: 'The second Sondayeafter Trinity' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The Second Sunday after Trinity
 
 ## The Collect
 
-LORD, make us to have a perpetuall feare and love of thy holy name: for thou.
-Amen.
-
-never faillest to helpe and governe them whom thou doest bryng up in.
-Amen.
-
-thy stedfast love.
-Graunt this, &c.
+O Lord, who never failest to help and govern them who thou dost bring up in thy stedfast fear and love: Keep us, we beseech thee, under the protection of thy good providence, and make us to have a perpetual fear and love of thy holy Name; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-1 John 3
+1 John 3:13
 
 ## The Gospel
 
-Luke 14
+Luke 14:16

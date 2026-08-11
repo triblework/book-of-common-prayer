@@ -1,23 +1,19 @@
-# The xxv Sondaye
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Twenty-Fifth Sunday after Trinity
 
 ## The Collect
 
-STIERE.
+Stir up, we beseech thee, O Lord, the wills of thy faithful people; that they, plenteously bringing forth the fruit of good works, may of thee be plenteously rewarded; through Jesus Christ our Lord.
 Amen.
 
-up we beseche thee, O Lord, the wylles of thy faythful people, that.
-Amen.
-
-they, plenteously bringing furth the fruite of good workes; may of thee,.
-Amen.
-
-be plenteously rewarded; through Jesus Christe our Lorde.
-Amen.
+> If there be any more Sundays before Advent Sunday, the Service of some of those Sundays that were omitted after the Epiphany shall be taken in to supply so many as are here wanting.
+> And if there be fewer, the overplus may be omitted: Provided that this last Collect, Epistle, and Gospel shall always be used upon the Sunday next before Advent.
 
 ## The Epistle
 
-Jeremiah 23
+Jeremiah 23:5
 
 ## The Gospel
 
-John 6
+John 6:5

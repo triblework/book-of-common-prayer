@@ -1,0 +1,4 @@
+# In the time of Dearth and Famine. (ii)
+
+O God, merciful Father, who, in the time of Elisha the prophet, didst suddenly in Samaria turn great scarcity and dearth into plenty and cheapness: Have mercy upon us, that we, who are now for our sins punished with like adversity, may likewise find a seasonable relief: Increase the fruits of the earth by thy heavenly benediction; and grant that we, receiving thy bountiful liberality, may use the same to thy glory, the relief of those that are needy, and our own comfort; through Jesus Christ our Lord.
+Amen.

@@ -1,26 +1,16 @@
-# The xx Sondaie
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Twentieth Sunday after Trinity
 
 ## The Collect
 
-ALMIGHTY.
-Amen.
-
-and merciful God, of thy bountiful goodnes, kepe us from all thynges.
-Amen.
-
-that maye hurte us; that we, beyng ready bothe in body and soul, maye.
-Amen.
-
-with free heartes accomplishe those thynges that thou wouldest have.
-Amen.
-
-doen; Through Jesus Christ our Lorde.
+O Almighty and most merciful God, of thy bountiful goodness keep us, we beseech thee, from all things that may hurt us; that we, being ready both in body and soul, may cheerfully accomplish those things that thou wouldest have done; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 5
+Ephesians 5:15
 
 ## The Gospel
 
-Matthew 22
+Matthew 22:1

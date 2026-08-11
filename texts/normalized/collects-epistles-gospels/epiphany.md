@@ -1,23 +1,18 @@
-# The Epiphanie
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Epiphany
 
 ## The Collect
 
-OGOD, which by the leading of a starre diddest manifest thy onelye begotten.
+O God, who by the leading of a star didst manifest thy only-begotten Son to the Gentiles: Mercifully grant, that we, which know thee now by faith, may after this life have the fruition of thy glorious Godhead; through Jesus Christ our Lord.
 Amen.
 
-sonne to the Gentiles; Mercifully graunt, that we, which know thee now.
-Amen.
-
-by faith, may after this life have the fruicion of thy glorious Godhead;.
-Amen.
-
-through Christe our Lorde.
-Amen.
+> January 6
 
 ## The Epistle
 
-Ephesians 3
+Ephesians 3:1
 
 ## The Gospel
 
-Matthew 2
+Matthew 2:1

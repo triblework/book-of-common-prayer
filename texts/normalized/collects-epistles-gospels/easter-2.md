@@ -1,29 +1,16 @@
-# The second Sondaie after Easter
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Second Sunday after Easter
 
 ## The Collect
 
-ALMIGHTY God,.
-Amen.
-
-whiche haste geven thy holy* sonne to bee unto us, bothe a sacrifice.
-Amen.
-
-for sin, and also an example of Godly life; Geve us the grace that.
-Amen.
-
-we maie alwaies moste thankfully receive that his inestimable benefite,.
-Amen.
-
-and also dayely indevour ourselfes to folow the blessed steppes of his.
-Amen.
-
-moste holy lyfe.
+Almighty God, who hast given thine only Son to be unto us both a sacrifice for sin, and also an ensample of godly life: Give us grace that we may always most thankfully receive that his inestimable benefit, and also daily endeavour ourselves to follow the blessed steps of his most holy life; through the same Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-1 Peter 2
+1 Peter 2:19
 
 ## The Gospel
 
-John 10
+John 10:11
