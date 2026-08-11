@@ -1,23 +1,14 @@
-# The firste Sonday after the Epiphanye
+# The first Sunday after the Epiphany
 
 ## The Collect
 
-LORDE we beseche the mercyfullye to receive the praiers of thy people which.
-Amen.
-
-cal upon thee; and graunt that they maie both perceave and knowe what.
-Amen.
-
-thinges they ought to do, and also have grace and power faithfully to.
-Amen.
-
-fulfill the same through Jesus Christ our lord.
-Amen.
+LORD, we beseech thee mercifully to receive the prayers of thy people which call upon thee; and grant that they may both perceive and know what things they ought to do, and also have grace and power faithfully to fulfill the same, through Jesus Christ our Lord.
+Amen..
 
 ## The Epistle
 
-Romans 12
+Romans 12:1
 
 ## The Gospel
 
-Luke 2
+Luke 2:41

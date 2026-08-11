@@ -1,26 +1,16 @@
-# Saynte Michaell and all Angels
+# Saint Michael and all Angels
 
 ## The Collect
 
-EVERLASTYNG.
+EVerlasting God, which hast ordained and constituted the services of all Angels and men in a wonderfull order: mercifully grant, that they which allway do thee service in heaven, may by thy appointment, succour and defende us in earth, through Jesus Christe our Lord.
 Amen.
 
-God, which haste ordayned and constituted the services of all Angels.
-Amen.
-
-and men in a wonderfull ordre: mercifully graunt, that they whiche alwaye.
-Amen.
-
-doe thee service in heaven, may by thy appoyntment succour and defende.
-Amen.
-
-us in earth: through Jesus Christe our Lorde, &c.
-Amen.
+Sept. 29
 
 ## The Epistle
 
-Revelation 12
+Revelation 12:7
 
 ## The Gospel
 
-Matthew 18
+Matthew 18:1

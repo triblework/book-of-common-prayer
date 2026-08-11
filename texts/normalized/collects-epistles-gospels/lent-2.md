@@ -1,31 +1,14 @@
-# The seconde Sonday in Lent
-
-<!-- VERIFY: 'The seconde Sonday in Lent' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+# The second Sunday in Lent
 
 ## The Collect
 
-ALMIGHTYE God,.
-Amen.
-
-whiche doest see that we have no power of oureselves to helpe ourselves;.
-Amen.
-
-kepe thou us both outwardly in oure bodies, and inwardly in oure souls;.
-Amen.
-
-that we maye be defended from all adversities whiche maye happen to.
-Amen.
-
-the body, and from all evel thoughtes which maye assault and hurte the.
-Amen.
-
-soul; through Jesus Christ &c.
+ALmighty God, which doest see that we have no power of our selves to helpe our selves: keep thou us both outwardly in our bodies, and inwardly in our souls; that we may be defended from all adversities which may happen to the body, and from all evil thoughts which may assault and hurt the soul, through Jesus Christ.
 Amen.
 
 ## The Epistle
 
-1 Thessalonians 4
+1 Thessalonians 4:1
 
 ## The Gospel
 
-Matthew 15
+Matthew 15:21

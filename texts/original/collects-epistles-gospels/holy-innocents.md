@@ -1,29 +1,14 @@
-# The Innocentes
+# Innocents day
 
 ## The Collect
 
-ALMIGHTY God,.
-Amen.
-
-whose prayse this daye the yong innocentes thy witnesses hath confessed.
-Amen.
-
-and shewed forth, not in speakyng but in dying; Mortifye and kyll all.
-Amen.
-
-vyces in us, that in oure conuersacion.
-Amen.
-
-oure lyfe maye expresse thy fayth, whiche with oure tongues we doe confesse;.
-Amen.
-
-through Jesus Christe oure Lord.
+ALmighty God, whose praise this day the young Innocents thy witnesses have confessed and shewed forth, not in speaking, but in dying: mortifie and kill all vices in us, that in our conversation our life may expresse thy faith, which with our tongues we do confesse; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Revelation 14
+Revelation 14:1
 
 ## The Gospel
 
-Matthew 2
+Matthew 2:13

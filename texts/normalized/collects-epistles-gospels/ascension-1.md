@@ -1,29 +1,13 @@
-# The Sonday after the Ascencion
+# Sunday after Ascension day
 
 ## The Collect
 
-O GOD, the kyng.
-Amen.
-
-of glory, which hast exalted thine only sonne Jesus Christe, with great.
-Amen.
-
-triumphe unto thy kingdom in heaven; we beseche thee, leave us not comfortles;.
-Amen.
-
-but sende to us thine holy ghost to comfort us, and exalte us unto the.
-Amen.
-
-same place whither our saviour Christe is gone before; who lyveth and.
-Amen.
-
-reigneth &c.
-Amen.
+O GOD, the king of glory, which hast exalted thine only Son Jesus Christ, with great triumph unto thy kingdome of heaven: We beseech thee, leave us not comfortlesse, but send to us thine holy Ghost to comfort us, and exalt us unto the same place whither our Saviour Christ is gone before; who liveth and reigneth with thee, &c.
 
 ## The Epistle
 
-1 Peter 4
+1 Peter 4:7
 
 ## The Gospel
 
-John 15 and 16
+John 15:26

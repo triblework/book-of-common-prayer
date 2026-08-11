@@ -1,9 +1,9 @@
-# Tewesday before Easter
+# Tuesday before Easter
 
 ## The Epistle
 
-Isaiah 1
+Isaiah 50:4
 
 ## The Gospel
 
-Mark 15
+Mark 15:1

@@ -1,4 +1,4 @@
-# In the tyme of Warre.
+# In the time of Warre.
 
-O ALMIGHTY God, king of al kinges, and governoure of al thinges, whose power no creature is hable to resiste, to whome it belongeth justly to punyshe synners, and to be mercyful unto then that truely repente, Save, and deliver us (we humbly beseche thee) from the handes of our enemyes, abate their pryde, aswage theyr malyce, and confounde theyr devyses, that we beynge armed with thy defence, rnaye be preserved evermore from all peryls to glorifye thee, whiche art the only gever of all victory, throughe the merites of thy only sonne Jesus Christ our Lorde.
+O ALmighty GOD, King of all kings, and governor of all things, whose power no creature is able to resist, to whom it belongeth justly to punish sinners, and to be merciful unto them that truly repent : save and deliver us, we humbly beseech thee, from the hands of our enemies, abate their pride, asswage their malice, and defeat their devices, that we, being armed with thy defence, may bee preserved evermore from all perils, to glorifie thee, which art the only giver of all victorie; through the merits of thy only Sonne Jesus Christ our Lord.
 Amen.

@@ -1,20 +1,14 @@
-# The xix Sundaie
+# The xix. Sunday after Trinity
 
 ## The Collect
 
-OGOD, for asmuche as without thee, we are not able to please thee; Graunte.
-Amen.
-
-that the workyng of thy mercie maye in all thynges directe and rule.
-Amen.
-
-our heartes; Through Jesus Christ our Lorde.
+O GOD, forasmuch as without thee, we are not able to please thee, grant that the working of thy mercy, may in all things direct and rule our hearts, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Ephesians 4
+Ephesians 4:17
 
 ## The Gospel
 
-Matthew 9
+Matthew 9:1

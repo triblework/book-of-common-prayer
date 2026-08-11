@@ -1,26 +1,16 @@
-# The Purificacion of Saint Mary the Virgin
+# The Purification of Saint
 
 ## The Collect
 
-ALMYGHTYE and.
-Amen.
+Mary the Virgin.
 
-everlastyng God, we humbly beseche thy Majestie, that as thy onelye.
-Amen.
-
-begotten sonne was this day presented in the Temple in the substaunce.
-Amen.
-
-of our fleshe; so graunte that we maie bee presented unto thee with.
-Amen.
-
-pure and cleare myndes; By Jesus Christ our Lorde.
+ALmightie and everlasting God, we humbly beseech thy Majesty, that as thy onely begotten Son was this day presented in the Temple in the substance of our flesh: so grant that we may bee presented unto thee with pure and cleare minds, by Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-> The same that is appoynted for the Sondaye.
+> The same that is appointed for the Sunday.
 
 ## The Gospel
 
-Luke 2
+Luke 2:22

@@ -1,26 +1,14 @@
-# Tuisdaye in Easter weke
+# Tuesday in Easter week
 
 ## The Collect
 
-ALMYGHTY.
-Amen.
-
-father, whiche haste geven thy only sonne to dye for our sins, and.
-Amen.
-
-to ryse agayne for oure justificacion; Graunt us so to put awaye the.
-Amen.
-
-leven of malyce and wyckednes, that we maye alwaye serve thee in purenes.
-Amen.
-
-of lyvynge and truth; through Jesus Christe oure Lorde.
+ALmighty Father, which hast given thine only Son to dye for our sins, and to rise again for our justification: grant us so to put away the leaven of malice and wickednesse, that we may allway serve thee in purenesse of living and truth, through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-Acts 13
+Acts 13:26
 
 ## The Gospel
 
-Luke 24
+Luke 24:36

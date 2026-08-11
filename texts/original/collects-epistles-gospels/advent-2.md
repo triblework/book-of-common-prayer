@@ -1,29 +1,14 @@
-# The second sunday
+# The second Sunday in Advent
 
 ## The Collect
 
-BLESSED lord,.
-Amen.
-
-which hast caused all holy Scriptures to bee written for our learnyng;.
-Amen.
-
-graunte us that we maye in suche wise heare them, read, marke, learne,.
-Amen.
-
-and inwardly digeste them; that by pacience, and coumfort of thy holy.
-Amen.
-
-woorde, we may embrace, and ever holde fast the blessed hope of everlasting.
-Amen.
-
-life, which thou hast geven us in our saviour Jesus Christe.
+BLESSED lord, which hast caused all holy scriptures to be written for our learning: Grant that we may in such wise heare them, reade, marke, learn, and inwardly digest them, that by patience, and comfort of thy holy Word, we may embrace and ever hold fast the blessed hope of everlasting life, which thou hast given us in our Saviour Jesus Christe.
 Amen.
 
 ## The Epistle
 
-Romans 15
+Romans 15:4
 
 ## The Gospel
 
-Luke 21
+Luke 21:25

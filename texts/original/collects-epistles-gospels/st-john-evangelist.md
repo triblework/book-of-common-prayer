@@ -1,26 +1,14 @@
-# Sayncte John Evangelistes
+# S. John Evangelists day
 
 ## The Collect
 
-MERCYFULL.
-Amen.
-
-Lorde, we beseche thee to caste thy bryght beames of lyght upon thy.
-Amen.
-
-Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle.
-Amen.
-
-and Euangelyste John may attayne to thy euerlastyng gyftes; Through.
-Amen.
-
-Jesus Christe our Lorde.
+MErcifull LORD, we beseech thee to cast thy bright beams of light upon thy Church, that it being lightned by the doctrine of thy blessed Apostle and Evangelist Saint John, may attain to thy everlasting gifts, through Jesus Christe our Lord.
 Amen.
 
 ## The Epistle
 
-1 John 1
+1 John 1:1
 
 ## The Gospel
 
-John 21
+John 21:19

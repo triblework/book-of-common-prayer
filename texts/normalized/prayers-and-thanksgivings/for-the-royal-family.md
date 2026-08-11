@@ -1,4 +1,4 @@
-# A Prayer for the Queen and Prince, and other the King and Queen's children.
+# A prayer for the Queene, Prince Charles, and the rest of the Royall progeny
 
-ALMIGHTY God, which hast promised to be a Father of thine Elect, and of their seed, We humbly beseech thee to bless our gracious Queen Anne, Prince Henry, and all the King and Queen's royal progeny*: endue them with thy holy Spirit, enrich them thy heavenly grace, prosper them with all happiness, and bring them to thine everlasting Kingdom, through Jesus Christ our Lord.
+ALmighty God, the fountain of all goodnesse, we humbly beseech thee to blesse our gracious Queene Mary, Prince Charles, with the rest of the Royall progeny : endue them with thy holy Spirit, enrich them thy heavenly grace, prosper them with all happinesse, and bring them to thine everlasting kingdome, through Jesus Christ our Lord.
 Amen.

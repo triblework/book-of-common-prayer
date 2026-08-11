@@ -1,49 +1,16 @@
-# Sainct Markes day
+# Saint Markes day
 
 ## The Collect
 
-1549, 1552, and early printings of 1559.
+Almighty GOD, which hast instructed thy holy Church with the heavenly doctrine of thy Evangelist Saint Mark: give us grace that we be not like children, caried away with every blast of vaine doctrine; but that we may be firmly established in the truth of thy holy Gospel, through Jesus Christ our Lord.
 Amen.
 
-ALMYGHTIE God, whiche haste instructed.
-Amen.
-
-thy holy Church with the heavenly doctrine of thy Evangelist Sainct. Amen.
-
-Marke: Geve us grace so to be established by thy holy Gospel, that.
-Amen.
-
-we be not, lyke chyldren, caried away with every blast of vaine Doctrine;.
-Amen.
-
-through Jesus Christ our Lorde.
-Amen.
-
-Introduced.
-Amen.
-
-in the late 1500's:.
-Amen.
-
-ALMYGHTIE.
-Amen.
-
-God, whiche hast instructed thy holy Church with the heavenly doctrine.
-Amen.
-
-of thy Evangelist S. Marke: give us grace, that we be not like children,.
-Amen.
-
-carried away with every blast of vaine doctrine: but formely to be established.
-Amen.
-
-in the trueth of thy holy Gospel, through Jesus Christ our Lord.
-Amen.
+April 25
 
 ## The Epistle
 
-Ephesians 4
+Ephesians 4:7
 
 ## The Gospel
 
-John 15
+John 15:1

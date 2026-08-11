@@ -1,32 +1,14 @@
-# Trinitie Sonday
+# Trinity Sunday
 
 ## The Collect
 
-ALMIGHTYE and.
-Amen.
-
-everlastyng God, whiche haste geven unto us thy servauntes grace by.
-Amen.
-
-the confession of a true faith to acknowlege the glorye of the eternall.
-Amen.
-
-trinitie, and in the power of the divyne majestie to wurshippe the unitie:.
-Amen.
-
-we beseche thee, that through the stedfastnes of thys faith, me may.
-Amen.
-
-evermore be defended from all adversitie, whiche liveste and reignest,.
-Amen.
-
-one God, world without end.
+ALmighty and everlasting God, whiche hast given unto us thy servants grace, by the confession of a true faith, to acknowlege the glory of the eternall Trinity, and in the power of the divine Majestie to worship the Unitie: Wee beseech thee that through the stedfastnesse of this faith, we may evermore be defended from all adversity, which livest and reignest, one God, world without end.
 Amen.
 
 ## The Epistle
 
-Revelation 4
+Revelation 4:1
 
 ## The Gospel
 
-John 3
+John 3:1
