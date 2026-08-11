@@ -308,18 +308,147 @@ def html_to_markdown(html: str) -> str:
     return "\n".join(out).strip() + "\n"
 
 
+# ---------------------------------------------------------------------------
+# plain-text -> rough Markdown  (--text ingest mode, brief §4.2 / spec §5.6)
+#
+# Some public-domain sources are fixed-width ASCII e-texts, not HTML — notably
+# the 1979 US BCP e-text on justus (bcpoffce.txt et al.), whose header states it
+# is in the PUBLIC DOMAIN and permits derivative works. Its line breaks are
+# significant, so we must NOT reflow. This mode strips the license header and
+# page furniture, lightly converts the e-text's own markup to rough Markdown,
+# and leaves the result for sentence_split.py + human verification. It is
+# ASSISTIVE, like html_to_markdown; a human formats the anchors and verifies
+# against a scan before anything is committed.
+#
+# e-text conventions handled (justus/Project-Gutenberg-style BCP e-text):
+#   <heading>            a section heading (may wrap onto a second line)
+#   *rubric*             italic rubric / stage direction
+#   *Officiant* text     a speaker label
+#   =text=               italic text: scripture citations and sung responses
+#   /word                a poetic run-over (continuation of the line above)
+#   <page NN>            page-number furniture (dropped)
+# ---------------------------------------------------------------------------
+_SPEAKER_RE = re.compile(
+    r"^\s*\*(Officiant|People|Priest|Minister|Deacon|Celebrant|Answer|Bishop|"
+    r"Reader|Leader|Cantor|Choir|Versicle|Response)\.?\*",
+    re.IGNORECASE,
+)
+
+
+def _blockish(lines: list[str]) -> str:
+    out: list[str] = []
+    blank = 0
+    for ln in lines:
+        if ln == "":
+            blank += 1
+            if blank <= 1:
+                out.append("")
+            continue
+        blank = 0
+        out.append(ln)
+    while out and out[-1] == "":
+        out.pop()
+    return "\n".join(out) + "\n" if out else ""
+
+
+def text_to_markdown(raw: str, strip_until: str | None = None,
+                     strip_after: str | None = None) -> str:
+    lines = raw.split("\n")
+
+    # Optional range trim: keep from the first line matching strip_until, and
+    # cut at the first line (after that) matching strip_after. Both are regexes.
+    start = 0
+    if strip_until:
+        rx = re.compile(strip_until)
+        for i, ln in enumerate(lines):
+            if rx.search(ln):
+                start = i
+                break
+    end = len(lines)
+    if strip_after:
+        rx = re.compile(strip_after)
+        for i in range(start + 1, len(lines)):
+            if rx.search(lines[i]):
+                end = i
+                break
+    lines = lines[start:end]
+
+    out: list[str] = []
+    pending_heading: str | None = None  # accumulate a wrapped <heading>
+    for raw_ln in lines:
+        s = raw_ln.replace("\t", " ").rstrip()
+        stripped = s.strip()
+
+        if not stripped:
+            if pending_heading is not None:
+                out.append(f"## {pending_heading.strip()}")
+                pending_heading = None
+            out.append("")
+            continue
+
+        # page-number furniture
+        if re.match(r"^<page\b.*>$", stripped, re.IGNORECASE):
+            continue
+
+        # a heading opened on a previous line but not yet closed with '>'
+        if pending_heading is not None:
+            pending_heading += " " + stripped.rstrip(">")
+            if stripped.endswith(">"):
+                out.append(f"## {pending_heading.strip()}")
+                pending_heading = None
+            continue
+
+        # <heading> possibly wrapping across lines
+        if stripped.startswith("<") and not stripped.startswith("<page"):
+            inner = stripped[1:]
+            if inner.endswith(">"):
+                out.append(f"## {inner[:-1].strip()}")
+            else:
+                pending_heading = inner
+            continue
+
+        # strip poetic run-over marker '/'
+        s = re.sub(r"^(\s*)/", r"\1", s)
+        # =italic= (citations / responses) -> plain text
+        s = re.sub(r"=([^=]+)=", r"\1", s)
+
+        # whole-line rubric  *...*  (but not a speaker label)
+        m = re.match(r"^\s*\*(.+?)\*\s*$", s)
+        if m and not _SPEAKER_RE.match(s):
+            out.append(f"> {m.group(1).strip()}")
+            continue
+
+        # inline speaker label  *Officiant* text -> **Officiant** text
+        if _SPEAKER_RE.match(s):
+            s = re.sub(r"^\s*\*([^*]+)\*", lambda mm: f"**{mm.group(1).strip()}**", s)
+
+        out.append(s.strip())
+
+    if pending_heading is not None:
+        out.append(f"## {pending_heading.strip()}")
+    return _blockish(out)
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("url")
     parser.add_argument("--out", help="write Markdown here (default: stdout)")
     parser.add_argument("--title", help="prepend a level-1 heading")
     parser.add_argument("--raw", action="store_true", help="skip markdown massaging")
+    parser.add_argument("--text", action="store_true",
+                        help="treat the source as a plain-text e-text (brief §4.2), "
+                             "not HTML; strip header/furniture and emit rough Markdown")
+    parser.add_argument("--strip-until", help="--text: keep from the first line matching this regex")
+    parser.add_argument("--strip-after", help="--text: cut at the first line matching this regex")
     parser.add_argument("--force", action="store_true", help="bypass cache")
     parser.add_argument("--sources", help="append a provenance line to this SOURCES file")
     args = parser.parse_args(argv)
 
-    html = fetch(args.url, force=args.force)
-    body = html if args.raw else html_to_markdown(html)
+    raw = fetch(args.url, force=args.force)
+    if args.text:
+        body = raw if args.raw else text_to_markdown(raw, args.strip_until, args.strip_after)
+    else:
+        body = raw if args.raw else html_to_markdown(raw)
     if args.title and not args.raw:
         body = f"# {args.title}\n\n{body}"
 
