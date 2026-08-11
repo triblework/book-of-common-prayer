@@ -129,5 +129,234 @@ Amen.
 **Minister.** Praise ye the Lord.
 **Answer.** The Lord's Name be praised.
 
+## Venite
+
 > Then shall be said or sung the following Anthem; except on those days for which other Anthems are appointed; and except also, when it is used in the course of the Psalms, on the nineteenth day of the month.
+
 > Venite, exultemus Domino.
+
+O come, let us sing unto the LORD : let us heartily rejoice in the strength of our salvation.
+Let us come before his presence with thanksgiving : and show ourselves glad in him with psalms.
+For the LORD is a great God : and a great King above all gods.
+In his hand are all the corners of the earth : and the strength of the hills is his also.
+The sea is his, and he made it : and his hands prepared the dry land.
+O come, let us worship and fall down : and kneel before the LORD our Maker.
+For he is the Lord our God : and we are the people of his pasture, and the sheep of his hand.
+O worship the LORD in the beauty of holiness : let the whole earth stand in awe of him.
+For he cometh, for he cometh to judge the earth : and with righteousness to judge the world, and the people with his truth.
+
+## The Psalms
+
+> Then shall follow a Portion of the Psalms, as they are appointed, or one of the Selections of Psalms.
+> And at the end of every Psalm, and likewise at the end of the Venite, Benedicite, Benedictus, Jubilate, may be, and at the end of the whole Portion, or Selection from the Psalter, shall be sung or said the Gloria Patri:
+
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+As it was in the beginning, is now, and ever shall be : world without end. Amen.
+
+> At the end of the whole Portion of the Psalms, or Selection from the Psalter, the Gloria in excelsis may be sung or said instead of the Gloria Patri.
+
+## The First Lesson
+
+> Then shall be read the First Lesson, according to the Table or Calendar.
+> After which shall be said or sung the following Hymn.
+> Note, That before every Lesson the Minister shall say, Here beginneth such a Chapter [or Verse of such a Chapter] of such a Book; and after every Lesson, Here endeth the First [or the Second] Lesson.
+
+## Te Deum Laudamus
+
+> Te Deum laudamus.
+
+We praise thee, O God : we acknowledge thee to be the Lord.
+All the earth doth worship thee : the Father everlasting.
+To thee all Angels cry aloud : the Heavens, and all the Powers therein;
+To thee Cherubim and Seraphim : continually do cry,
+Holy, Holy, Holy : Lord God of Sabaoth;
+Heaven and earth are full of the Majesty : of thy glory.
+The glorious company of the Apostles : praise thee.
+The goodly fellowship of the Prophets : praise thee.
+The noble army of Martyrs : praise thee.
+The holy Church throughout all the world : doth acknowledge thee;
+The Father : of an infinite Majesty;
+Thine adorable, true : and only Son;
+Also the Holy Ghost : the Comforter.
+Thou art the King of Glory : O Christ.
+Thou art the everlasting Son : of the Father.
+When thou tookest upon thee to deliver man : thou didst humble thyself to be born of a Virgin.
+When thou hadst overcome the sharpness of death : thou didst open the Kingdom of Heaven to all believers.
+Thou sittest at the right hand of God : in the glory of the Father.
+We believe that thou shalt come : to be our Judge.
+We therefore pray thee, help thy servants : whom thou hast redeemed with thy precious blood.
+Make them to be numbered with thy Saints : in glory everlasting.
+O Lord, save thy people : and bless thine heritage.
+Govern them : and lift them up for ever.
+Day by day : we magnify thee;
+And we worship thy Name : ever, world without end.
+Vouchsafe, O Lord : to keep us this day without sin.
+O Lord, have mercy upon us : have mercy upon us.
+O Lord, let thy mercy be upon us : as our trust is in thee.
+O Lord, in thee have I trusted : let me never be confounded.
+
+## Benedicite
+
+> Or this Canticle.
+
+> Benedicite, omnia opera Domini.
+
+O all ye Works of the Lord, bless ye the Lord : praise him, and magnify him for ever.
+O ye Angels of the Lord, bless ye the Lord : praise him, and magnify him for ever.
+O ye Heavens, bless ye the Lord : praise him, and magnify him for ever.
+O ye Waters that be above the firmament, bless ye the Lord : praise him, and magnify him for ever.
+O all ye Powers of the Lord, bless ye the Lord : praise him, and magnify him for ever.
+O ye Sun and Moon, bless ye the Lord : praise him, and magnify him for ever.
+O ye Stars of heaven, bless ye the Lord : praise him, and magnify him for ever.
+O ye Showers and Dew, bless ye the Lord : praise him, and magnify him for ever.
+O ye Winds of God, bless ye the Lord : praise him, and magnify him for ever.
+O ye Fire and Heat, bless ye the Lord : praise him, and magnify him for ever.
+O ye Winter and Summer, bless ye the Lord : praise him, and magnify him for ever.
+O ye Dews and Frosts, bless ye the Lord : praise him, and magnify him for ever.
+O ye Frost and Cold, bless ye the Lord : praise him, and magnify him for ever.
+O ye Ice and Snow, bless ye the Lord : praise him, and magnify him for ever.
+O ye Nights and Days, bless ye the Lord : praise him, and magnify him for ever.
+O ye Light and Darkness, bless ye the Lord : praise him, and magnify him for ever.
+O ye Lightnings and Clouds, bless ye the Lord : praise him, and magnify him for ever.
+O let the Earth bless the Lord : yea, let it praise him, and magnify him for ever.
+O ye Mountains and Hills, bless ye the Lord : praise him, and magnify him for ever.
+O all ye Green Things upon the earth, bless ye the Lord : praise him, and magnify him for ever.
+O ye Wells, bless ye the Lord : praise him, and magnify him for ever.
+O ye Seas and Floods, bless ye the Lord : praise him, and magnify him for ever.
+O ye Whales, and all that move in the waters, bless ye the Lord : praise him, and magnify him for ever.
+O all ye Fowls of the air, bless ye the Lord : praise him, and magnify him for ever.
+O all ye Beasts and Cattle, bless ye the Lord : praise him, and magnify him for ever.
+O ye Children of Men, bless ye the Lord : praise him, and magnify him for ever.
+O let Israel bless the Lord : praise him, and magnify him for ever.
+O ye Priests of the Lord, bless ye the Lord : praise him, and magnify him for ever.
+O ye Servants of the Lord, bless ye the Lord : praise him, and magnify him for ever.
+O ye Spirits and Souls of the Righteous, bless ye the Lord : praise him, and magnify him for ever.
+O ye holy and humble Men of heart, bless ye the Lord : praise him, and magnify him for ever.
+
+## The Second Lesson
+
+> Then shall be read, in like manner, the Second Lesson, taken out of the New Testament, according to the Table or Calendar.
+> And after that shall be sung or said the Hymn following: but Note, That, save on the Sundays in Advent, the latter portion thereof may be omitted.
+
+## Benedictus
+
+> Benedictus. St. Luke i. 68.
+
+Blessed be the Lord God of Israel : for he hath visited and redeemed his people;
+And hath raised up a mighty salvation for us : in the house of his servant David;
+As he spake by the mouth of his holy Prophets : which have been since the world began;
+That we should be saved from our enemies : and from the hand of all that hate us.
+To perform the mercy promised to our forefathers : and to remember his holy covenant;
+To perform the oath which he sware to our forefather Abraham : that he would give us;
+That we being delivered out of the hand of our enemies : might serve him without fear;
+In holiness and righteousness before him : all the days of our life.
+And thou, child, shalt be called the prophet of the Highest : for thou shalt go before the face of the Lord to prepare his ways;
+To give knowledge of salvation unto his people : for the remission of their sins,
+Through the tender mercy of our God : whereby the day-spring from on high hath visited us;
+To give light to them that sit in darkness, and in the shadow of death : and to guide our feet into the way of peace.
+
+## Jubilate Deo
+
+> Or this Psalm.
+
+> Jubilate Deo. Psalm c.
+
+O be joyful in the LORD, all ye lands : serve the Lord with gladness, and come before his presence with a song.
+Be ye sure that the LORD he is God; it is he that hath made us, and not we ourselves : we are his people, and the sheep of his pasture.
+O go your way into his gates with thanksgiving, and into his courts with praise : be thankful unto him, and speak good of his Name.
+For the LORD is gracious, his mercy is everlasting : and his truth endureth from generation to generation.
+
+## The Apostles' Creed
+
+> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> And any Churches may, instead of the words, He descended into hell, use the words, He went into the place of departed Spirits, which are considered as words of the same meaning in the Creed.
+
+I believe in God the Father Almighty, Maker of heaven and earth:
+And in Jesus Christ his only Son our Lord: Who was conceived by the Holy Ghost, Born of the Virgin Mary: Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead: He ascended into heaven, And sitteth on the right hand of God the Father Almighty: From thence he shall come to judge the quick and the dead.
+I believe in the Holy Ghost: The holy Catholic Church; The Communion of Saints: The Forgiveness of sins: The Resurrection of the body: And the Life everlasting.
+Amen.
+
+## The Suffrages
+
+> And after that, these Prayers following, all devoutly kneeling; the Minister first pronouncing,
+
+**Minister.** The Lord be with you.
+**Answer.** And with thy spirit.
+
+> Minister. Let us pray.
+
+**Minister.** O Lord, show thy mercy upon us.
+**Answer.** And grant us thy salvation.
+**Minister.** O God, make clean our hearts within us.
+**Answer.** And take not thy Holy Spirit from us.
+
+## The Collect for the Day
+
+> Then shall follow the Collect for the day, except when the Communion service is read; and then the Collect for the day shall be omitted here.
+
+## The Collect for Peace
+
+> A Collect for Peace.
+
+O God, who art the author of peace and lover of concord, in knowledge of whom standeth our eternal life, whose service is perfect freedom; Defend us thy humble servants in all assaults of our enemies; that we, surely trusting in thy defence, may not fear the power of any adversaries, through the might of Jesus Christ our Lord.
+Amen.
+
+## The Collect for Grace
+
+> A Collect for Grace.
+
+O Lord, our heavenly Father, Almighty and everlasting God, who hast safely brought us to the beginning of this day; Defend us in the same with thy mighty power; and grant that this day we fall into no sin, neither run into any kind of danger; but that all our doings, being ordered by thy governance, may be righteous in thy sight; through Jesus Christ our Lord.
+Amen.
+
+## A Prayer for the President
+
+> A Prayer for the President of the United States, and all in Civil Authority.
+
+O Lord, our heavenly Father, the high and mighty Ruler of the universe, who dost from thy throne behold all the dwellers upon earth; Most heartily we beseech thee, with thy favour to behold and bless thy servant The President of the United States, and all others in authority; and so replenish them with the grace of thy Holy Spirit, that they may always incline to thy will, and walk in thy way.
+Endue them plenteously with heavenly gifts; grant them in health and prosperity long to live; and finally, after this life, to attain everlasting joy and felicity; through Jesus Christ our Lord.
+Amen.
+
+## A Prayer for the Clergy and People
+
+> The following Prayers shall be omitted here when the Litany is said, and may be omitted when the Holy Communion is immediately to follow.
+
+> A Prayer for the Clergy and People.
+
+Almighty and everlasting God, from whom cometh every good and perfect gift; Send down upon our Bishops, and other Clergy, and upon the Congregations committed to their charge, the healthful Spirit of thy grace; and, that they may truly please thee, pour upon them the continual dew of thy blessing.
+Grant this, O Lord, for the honour of our Advocate and Mediator, Jesus Christ.
+Amen.
+
+## A Prayer for all Conditions of Men
+
+> A Prayer for all Conditions of Men.
+
+O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations.
+More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life.
+Finally, we commend to thy fatherly goodness all those who are any ways afflicted, or distressed, in mind, body, or estate; [especially those for whom our prayers are desired;] that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions.
+And this we beg for Jesus Christ's sake.
+Amen.
+
+## A General Thanksgiving
+
+> A General Thanksgiving.
+
+Almighty God, Father of all mercies, we, thine unworthy servants, do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us, and to all men; [particularly to those who desire now to offer up their praises and thanksgivings for thy late mercies vouchsafed unto them.]
+We bless thee for our creation, preservation, and all the blessings of this life; but above all, for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory.
+And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful; and that we show forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honour and glory, world without end.
+Amen.
+
+## A Prayer of St. Chrysostom
+
+> A Prayer of St. Chrysostom.
+
+Almighty God, who hast given us grace at this time with one accord to make our common supplications unto thee; and dost promise that when two or three are gathered together in thy Name thou wilt grant their requests; Fulfil now, O Lord, the desires and petitions of thy servants, as may be most expedient for them; granting us in this world knowledge of thy truth, and in the world to come life everlasting.
+Amen.
+
+## The Grace
+
+> 2 Cor. xiii. 14.
+
+The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.
+Amen.
+
+> Here endeth the Order of Morning Prayer.
