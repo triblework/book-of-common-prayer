@@ -1,461 +1,225 @@
-# The Order for the Visitation of the Sick.
+# Ministration to the Sick.
 
-## The Introduction
+<!-- 1979 (public domain). The contemporary-language Ministration to the Sick (Pastoral Offices) — the lineal descendant of the Visitation of the Sick, with Part I (Ministry of the Word), Part II (Laying on of Hands and Anointing), and Part III (Holy Communion), and the Prayers for the Sick; its own printed section headings are the anchors. Source: justus PD ASCII e-text bcpastrl.txt (spec §4.2). Mechanically reflowed; verify against a scan before sign-off. -->
 
-> The following Service, or any part thereof, may be used at the discretion of the Minister.
+> In case of illness, the Minister of the Congregation is to be notified.
 
-> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person's presence, shall say,
+> At the ministration, one or more parts of the following service are used, as appropriate, but when two or more are used together, they are used in the order indicated.
+> The Lord's Prayer is always included.
 
-PEACE be to this house, and to all that dwell in it.
+> Part One of this service may always be led by a deacon or lay person.
 
-> After which he shall say the Antiphon following, and then, according to his discretion, one of the Penitential Psalms.
+> When the Laying on of Hands takes place at a public celebration of the Eucharist, it is desirable that it precede the distribution of Holy Communion, and it is recommended that it take place immediately before the exchange of the Peace.
 
-## The Antiphon
+> The Celebrant begins the service with the following or some other greeting
 
-**Antiphon.** Remember not, Lord, our iniquities; Nor the iniquities of our forefathers.
+Peace be to this house (place), and to all who dwell in it.
 
-> Then the Minister shall say,
+## Part I.  Ministry of the Word
 
-## The Lord's Prayer
+> One or more of the following or other passages of Scripture are read
 
-Let us pray.
+General
 
-Lord, have mercy upon us.
+2 Corinthians 1:3-5    (God comforts us in affliction)
 
-> Christ, have mercy upon us.
+Psalm 91    (He will give his angels charge over you)
 
-Lord, have mercy upon us.
+Luke 17:11-19    (Your faith has made you well)
 
-OUR Father, who art in heaven, Hallowed be thy Name.
-Thy kingdom come.
-Thy will be done, On earth as it is in heaven.
-Give us this day our daily bread.
-And forgive us our trespasses, As we forgive those who trespass against us.
-And lead us not into temptation, But deliver us from evil.
+Penitence
+
+Hebrews 12:1-2    (Looking to Jesus, the perfecter of our faith)
+
+Psalm 103    (He forgives all your sins)
+
+Matthew 9:2-8    (Your sins are forgiven)
+
+When Anointing is to follow
+
+James 5:14-16    (Is any among you sick?)
+
+Psalm 23    (You have anointed my head with oil)
+
+Mark 6:7,12-13    (They anointed with oil many that were sick)
+
+When Communion is to follow
+
+1 John 5:13-15    (That you may know that you have eternal life)
+
+Psalm 145:14-22    (The eyes of all wait upon you, O Lord)
+
+John 6:47-51    (I am the bread of life)
+
+> After any Reading, the Celebrant may comment on it briefly.
+
+> Prayers may be offered according to the occasion.
+
+> The Priest may suggest the making of a special confession, if the sick person's conscience is troubled, and use the form for the Reconciliation of a Penitent.
+
+> Or else the following general confession may be said
+
+Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone.
+We have not loved you with our whole heart; we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of you Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name.
 Amen.
 
-## The Suffrages
+> The Priest alone says
 
-**Minister.** O Lord, save thy servant;
+Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, stren
 
-**Answer.** Who putteth his trust in thee.
+## Part II.  Laying on of Hands and Anointing
 
-**Minister.** Send him help from thy holy place;
+> If oil for the Anointing of the Sick is to be blessed, the Priest says
 
-**Answer.** And evermore mightily defend him.
-
-**Minister.** Let the enemy have no advantage of him;
-
-**Answer.** Nor the wicked approach to hurt him.
-
-**Minister.** Be unto him, O Lord, a strong tower;
-
-**Answer.** From the face of his enemy.
-
-**Minister.** O Lord, hear our prayer.
-
-**Answer.** And let our cry come unto thee.
-
-> Minister.
-
-O LORD, look down from heaven, behold, visit, and relieve this thy servant.
-Look upon him with the eyes of thy mercy, give him comfort and sure confidence in thee, defend him in all danger, and keep him in perpetual peace and safety; through Jesus Christ our Lord.
+O Lord, holy Father, giver of health and salvation: Send your Holy Spirit to sanctify this oil; that, as your holy apostles anointed many that were sick and healed them, so may those who in faith and repentance receive this holy unction be made whole; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
 Amen.
 
-## The Psalms
+> The following anthem is said
 
-> Here may be said any one or more of the Psalms following, with Antiphon and Collect.
+Savior of the world, by your cross and precious blood you have redeemed us; Save us and help us, we humbly beseech you, O Lord.
 
-**Antiphon.** I did call upon the Lord with my voice; And he heard me out of his holy hill.
+> The Priest then lays hands upon the sick person, and says one of the following
 
-Domine, quid multiplicati?
-Psalm iii.
-
-LORD, how are they increased that trouble me!
-many are they that rise against me.
-
-Many one there be that say of my soul, There is no help for him in his God.
-
-But thou, O LORD, art my defender; thou art my worship, and the lifter up of my head.
-
-I did call upon the LORD with my voice, and he heard me out of his holy hill.
-
-I laid me down and slept, and rose up again; for the LORD sustained me.
-
-Salvation belongeth unto the LORD; and thy blessing is upon thy people.
-
-> The Collect.
-
-HEAR us, Almighty and most merciful God and Saviour; extend thy accustomed goodness to this thy servant who is grieved with sickness.
-Visit him, O Lord, with thy loving mercy, and so restore him to his former health, that he may give thanks unto thee in thy holy Church; through Jesus Christ our Lord.
+N., I lay my hands upon you in the Name of the Father, and of the Son, and of the Holy Spirit, beseeching our Lord Jesus Christ to sustain you with his presence, to drive away all sickness of body and spirit, and to give you that victory of life and peace which will enable you to serve him both now and evermore.
 Amen.
 
-**Antiphon.** I will go unto the altar of God; Unto the God of my joy and gladness.
+> or this
 
-Judica me, Deus.
-Psalm xliii.
-
-GIVE sentence with me, O God, and defend my cause against the ungodly people; O deliver me from the deceitful and wicked man.
-
-For thou art the God of my strength; why hast thou put me from thee?
-and why go I so heavily, while the enemy oppresseth me?
-
-O send out thy light and thy truth, that they may lead me, and bring me unto thy holy hill, and to thy dwelling;
-
-And that I may go unto the altar of God, even unto the God of my joy and gladness; and upon the harp will I give thanks unto thee, O God, my God.
-
-Why art thou so heavy, O my soul?
-and why art thou so disquieted within me?
-
-O put thy trust in God; for I will yet give him thanks, which is the help of my countenance, and my God.
-
-> The Collect.
-
-SANCTIFY, we beseech thee, O Lord, the sickness of this thy servant; that the sense of his weakness may add strength to his faith, and seriousness to his repentance; and grant that he may dwell with thee in life everlasting; through Jesus Christ our Lord.
+N., I lay my hands upon you in the Name of our Lord and Savior Jesus Christ, beseeching him to uphold you and fill you with his grace, that you may know the healing power of his love.
 Amen.
 
-**Antiphon.** I have considered the days of old; And the years that are past.
+> If the person is to be anointed, the Priest dips a thumb in the holy oil, and makes the sign of the cross on the sick person's forehead, saying
 
-Voce mea ad Dominum.
-Psalm lxxvii.
-
-I WILL cry unto God with my voice; even unto God will I cry with my voice, and he shall hearken unto me.
-
-In the time of my trouble I sought the Lord: I stretched forth my hands unto him, and ceased not in the night season; my soul refused comfort.
-
-When I am in heaviness, I will think upon God; when my heart is vexed, I will complain.
-
-Thou holdest mine eyes waking: I am so feeble that I cannot speak.
-
-I have considered the days of old, and the years that are past.
-
-I call to remembrance my song, and in the night I commune with mine own heart, and search out my spirit.
-
-Will the Lord absent himself for ever?
-and will he be no more intreated?
-
-Is his mercy clean gone for ever?
-and is his promise come utterly to an end for evermore?
-
-Hath God forgotten to be gracious?
-and will he shut up his loving-kindness in displeasure?
-
-And I said, It is mine own infirmity; but I will remember the years of the right hand of the Most Highest.
-
-> The Collect.
-
-HEAR, O Lord, we beseech thee, these our prayers, as we call upon thee on behalf of this thy servant; and bestow upon him the help of thy merciful consolation; through Jesus Christ our Lord.
+N., I anoint you with oil in the Name of the Father, and of the Son, and of the Holy Spirit.
 Amen.
 
-**Antiphon.** Though I walk in the midst of trouble; Yet shalt thou refresh me.
+> The Priest may add
 
-Confitebor tibi.
-Psalm cxxxviii.
-
-I WILL give thanks unto thee, O Lord, with my whole heart; even before the gods will I sing praise unto thee.
-
-I will worship toward thy holy temple, and praise thy Name, because of thy loving-kindness and truth; for thou hast magnified thy Name, and thy word, above all things.
-
-When I called upon thee, thou heardest me; and enduedst my soul with much strength.
-
-Though I walk in the midst of trouble, yet shalt thou refresh me; thou shalt stretch forth thy hand upon the furiousness of mine enemies, and thy right hand shall save me.
-
-The LORD shall make good his loving-kindness toward me; yea, thy mercy, O Lord, endureth for ever; despise not then the works of thine own hands.
-
-> The Collect.
-
-O GOD, the strength of the weak and the comfort of sufferers; Mercifully accept our prayers, and grant to thy servant the help of thy power, that his sickness may be turned into health, and our sorrow into joy; through Jesus Christ our Lord.
+As you are outwardly anointed with this holy oil, so may our heavenly Father grant you the inward anointing of the Holy Spirit.
+Of his great mercy, may he forgive you your sins, release you from suffering, and restore you to wholeness and strength.
+May he deliver you from all evil, preserve you in all goodness, and bring you to everlasting life; through Jesus Christ our Lord.
 Amen.
 
-**Antiphon.** The LORD saveth thy life from destruction; And crowneth thee with mercy and loving-kindness.
+> In cases of necessity, a deacon or lay person may perform the anointing, using oil blessed by a bishop or priest.
 
-Benedic, anima mea.
-Psalm ciii.
+> If Communion is not to follow, the Lord's Prayer is now said.
 
-PRAISE the LORD, O my soul; and all that is within me, praise his holy Name.
+> The Priest concludes
 
-Praise the LORD, O my soul, and forget not all his benefits:
-
-Who forgiveth all thy sin, and healeth all thine infirmities;
-
-Who saveth thy life from destruction, and crowneth thee with mercy and loving-kindness.
-
-O praise the LORD, ye angels of his, ye that excel in strength; ye that fulfil his commandment, and hearken unto the voice of his word.
-
-O praise the LORD, all ye his hosts; ye servants of his that do his pleasure.
-
-O speak good of the LORD, all ye works of his, in all places of his dominion: praise thou the Lord, O my soul.
-
-> The Collect.
-
-ACCEPT, we beseech thee, merciful Lord, the devout praise of thy humble servant; and grant him an abiding sense of thy loving-kindness; through Jesus Christ our Lord.
+The Almighty Lord, who is a strong tower to all who put their trust in him, to whom all things in heaven, on earth, and under the earth bow and obey: Be now and evermore your defense, and make you know and feel that the only Name under heaven given for health and salvation is the Name of our Lord Jesus Christ.
 Amen.
 
-> Any of the following Psalms, 20, 27, 42, 91, 121, 146, may, at the discretion of the Minister, be substituted for any of those given above.
+## Part III.  Holy Communion
 
-> Here shall be said,
+> If the Eucharist is to be celebrated, the Priest begins with the [Peace and] Offertory.
 
-O SAVIOUR of the world, who by thy Cross and precious Blood hast redeemed us; Save us, and help us, we humbly beseech thee, O Lord.
+If Communion is to be administered from the reserved Sacrament, the form for Communion under Special Circumstances is used, beginning with the [Peace and] Lord's Prayer on page 398.
 
-## The Exhortation
+> If the sick person cannot receive either the consecrated Bread or the Wine, it is suitable to administer the Sacrament in one kind only.
 
-> As occasion demands, the Minister shall address the sick person on the meaning and use of the time of sickness, and the opportunity it affords for spiritual profit.
+> One of the usual postcommunion prayers is said, or the following
 
-## The Examination
-
-> Here may the Minister inquire of the sick person as to his acceptance of the Christian Faith, and as to whether he repent him truly of his sins, and be in charity with all the world; exhorting him to forgive, from the bottom of his heart, all persons that have offended him; and if he hath offended any other, to ask them forgiveness; and where he hath done injury or wrong to any man, that he make amends to the uttermost of his power.
-
-## The Absolution
-
-> Then shall the sick person be moved to make a special confession of his sins, if he feel his conscience troubled with any matter; after which confession, on evidence of his repentance, the Minister shall assure him of God's mercy and forgiveness.
-
-> Then the Minister shall say,
-
-Let us pray.
-
-O MOST merciful God, who, according to the multitude of thy mercies, dost so put away the sins of those who truly repent, that thou rememberest them no more; Open thine eye of mercy upon this thy servant, who most earnestly desireth pardon and forgiveness.
-Renew in him, most loving Father, whatsoever hath been decayed by the fraud and malice of the devil, or by his own carnal will and frailness; preserve and continue this sick member in the unity of the Church; consider his contrition, accept his tears, assuage his pain, as shall seem to thee most expedient for him.
-And forasmuch as he putteth his full trust only in thy mercy, impute not unto him his former sins, but strengthen him with thy blessed Spirit; and, when thou art pleased to take him hence, take him unto thy favour; through the merits of thy most dearly beloved Son, Jesus Christ our Lord.
+Gracious Father, we give you praise and thanks for this Holy Communion of the Body and Blood of your beloved Son Jesus Christ, the pledge of our redemption; and we pray that it may bring us forgiveness of our sins, strength in our weakness, and everlasting salvation; through Jesus Christ our Lord.
 Amen.
 
-> Then shall the Minister say,
+> The service concludes with a blessing or with a dismissal
 
-## The Blessing
+Let us bless the Lord.
+Thanks be to God.
 
-THE Almighty Lord, who is a most strong tower to all those who put their trust in him, to whom all things in heaven, in earth, and under the earth, do bow and obey; Be now and evermore thy defence; and make thee know and feel, that there is none other Name under heaven given to man, in whom, and through whom, thou mayest receive health and salvation, but only the Name of our Lord Jesus Christ.
+> If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth.
+
+## Prayers for the Sick
+
+For a Sick Person
+
+O Father of mercierve him from the temptations of the enemy; and give him patience under his affliction.
+In thy good time, restore him to health, and enable him to lead the residue of his life in thy fear, and to thy glory; and grant that he may dwell with thee in life everlasting; through Jesus Christ our Lord.
 Amen.
 
-> Here the Minister may use any part of the service of the Book, which, in his discretion, he shall think convenient to the occasion; and after that shall say,
+For Recovery from Sickness
 
-UNTO God's gracious mercy and protection we commit thee.
-The Lord bless thee, and keep thee.
-The Lord make his face to shine upon thee, and be gracious unto thee.
-The Lord lift up his countenance upon thee, and give thee peace, both now and evermore.
+O God, the strength of the weak and the comfort of sufferers: Mercifully accept our prayers, and grant to your servant N.
+the help of your power, that his sickness may be turned into health, and our sorrow into joy; through Jesus Christ our Lord.
 Amen.
 
-## Prayers
+> or this
 
-> These Prayers may be said with the foregoing Service, or any part thereof, at the discretion of the Minister.
-
-> A Prayer for Recovery.
-
-O GOD of heavenly powers, who, by the might of thy command, drivest away from men's bodies all sickness and all infirmity; Be present in thy goodness with this thy servant, that his weakness may be banished and his strength recalled; that his health being thereupon restored, he may bless thy holy Name; through Jesus Christ our Lord.
+O God of heavenly powers, by the might of your command you drive away from our bodies all sickness and all infirmity: Be present in your goodness with your servant N., that his weakness may be banished and his strength restored; and that, his health being renewed, he may bless your holy Name; through Jesus Christ our Lord.
 Amen.
 
-> A Prayer for Healing.
+For a Sick Child
 
-O ALMIGHTY God, who art the giver of all health, and the aid of them that turn to thee for succour; We entreat thy strength and goodness in behalf of this thy servant, that he may be healed of his infirmities, to thine honour and glory; through Jesus Christ our Lord.
+Heavenly Father, watch with us over your child N., and grant that he may be restored to that perfect health which it is yours alone to give; through Jesus Christ our Lord.
 Amen.
 
-> A Thanksgiving for the Beginning of a Recovery.
+> or this
 
-GREAT and mighty God, who bringest down to the grave, and bringest up again; We bless thy wonderful goodness, for having turned our heaviness into joy and our mourning into gladness, by restoring this our brother to some degree of his former health.
-Blessed be thy Name that thou didst not forsake him in his sickness; but didst visit him with comforts from above; didst support him in patience and submission to thy will; and at last didst send him seasonable relief.
-Perfect, we beseech thee, this thy mercy towards him; and prosper the means which shall be made use of for his cure: that, being restored to health of body, vigour of mind, and cheerfulness of spirit, he may be able to go to thine house, to offer thee an oblation with great gladness, and to bless thy holy Name for all thy goodness towards him; through Jesus Christ our Saviour, to whom, with thee and the Holy Spirit, be all honour and glory, world without end.
+Lord Jesus Christ, Good Shepherd of the sheep, you gather the lambs in your arms and carry them in your bosom: We commend to your loving care this child N.
+Relieve his pain, guard him from all danger, restore to him your gifts of gladness and strength, and raise him up to a life of service to you.
+Hear us, we pray, for you dear Name's sake.
 Amen.
 
-> A Prayer for a Sick Person, when there appeareth but small hope of Recovery.
+Before an Operation
 
-O FATHER of mercies, and God of all comfort, our only help in time of need; We fly unto thee for succour in behalf of this thy servant, here lying in great weakness of body.
-Look graciously upon him, O Lord; and the more the outward man decayeth, strengthen him, we beseech thee, so much the more continually with thy grace and Holy Spirit in the inner man.
-Give him unfeigned repentance for all the errors of his life past, and stedfast faith in thy Son Jesus; that his sins may be done away by thy mercy, and his pardon sealed in heaven; through the same thy Son, our Lord and Saviour.
+Almighty God our heavenly Father, graciously comfort your servant N.
+in his suffering, and bless the means made use of for his cure.
+Fill his heart with confidence that, though at times he may be afraid, he yet may put his trust in you; through Jesus Christ our Lord.
 Amen.
 
-> A Prayer for the Despondent.
+> or this
 
-COMFORT, we beseech thee, most gracious God, this thy servant, cast down and faint of heart amidst the sorrows and difficulties of the world; and grant that, by the power of thy Holy Spirit, he may be enabled to go upon his way rejoicing, and give thee continual thanks for thy sustaining providence; through Jesus Christ our Lord.
+Strengthen your servant N., O God, to do what he has to do and bear what he has to bear; that, accepting your healing gifts through the skill of surgeons and nurses, he may be restored to usefulness in your world with a thankful heart; through Jesus Christ our Lord.
 Amen.
 
-> A Prayer which may be said by the Minister in behalf of all present at the Visitation.
+For Strength and Confidence
 
-O GOD, whose days are without end, and whose mercies cannot be numbered; Make us, we beseech thee, deeply sensible of the shortness and uncertainty of human life; and let thy Holy Spirit lead us in holiness and right-eousness, all our days: that, when we shall have served thee in our generation, we may be gathered unto our fathers, having the testimony of a good conscience; in the communion of the Catholic Church; in the confidence of a certain faith; in the comfort of a reasonable, religious, and holy hope; in favour with thee our God, and in perfect charity with the world.
-All which we ask through Jesus Christ our Lord.
+Heavenly Father, giver of life and health: Comfort and relieve your sick servant N., and give your power of healing to those who minister to his needs, that he may be strengthened in his weakness and have confidence in your loving care; through Jesus Christ our Lord.
 Amen.
 
-> A Commendatory Prayer for a Sick Person
+For the Sanctification of Illness
 
-> at the point of Departure.
-
-O ALMIGHTY God, with whom do live the spirits of just men made perfect, after they are delivered from their earthly prisons; We humbly commend the soul of this thy servant, our dear brother, into thy hands, as into the hands of a faithful Creator, and most merciful Saviour; beseeching thee, that it may be precious in thy sight.
-Wash it, we pray thee, in the blood of that immaculate Lamb, that was slain to take away the sins of the world; that whatsoever defilements it may have contracted, through the lusts of the flesh or the wiles of Satan, being purged and done away, it may be presented pure and without spot before thee; through the merits of Jesus Christ thine only Son our Lord.
+Sanctify, O Lord, the sickness of your servant N., that the sense of his weakness may add strength to his faith and seriousness to his repentance; and grant that he may live with you in everlasting life; through Jesus Christ our Lord.
 Amen.
 
-## The Litany for the Dying
+For Health of Body and Soul
 
-O GOD the Father;
-
-> Have mercy upon the soul of thy servant.
-
-O God the Son;
-
-> Have mercy upon the soul of thy servant.
-
-O God the Holy Ghost;
-
-> Have mercy upon the soul of thy servant.
-
-O holy Trinity, one God;
-
-> Have mercy upon the soul of thy servant.
-
-From all evil, from all sin, from all tribulation;
-
-Good Lord, deliver him.
-
-By thy holy Incarnation, by thy Cross and Passion, by thy precious Death and Burial;
-
-Good Lord, deliver him.
-
-By thy glorious Resurrection and Ascension, and by the coming of the Holy Ghost;
-
-Good Lord, deliver him.
-
-We sinners do beseech thee to hear us, O Lord God; That it may please thee to deliver the soul of thy servant from the power of the evil one, and from eternal death;
-
-> We beseech thee to hear us, good Lord.
-
-That it may please thee mercifully to pardon all his sins.
-
-> We beseech thee to hear us, good Lord.
-
-That it may please thee to grant him a place of refreshment and everlasting blessedness;
-
-> We beseech thee to hear us, good Lord.
-
-That it may please thee to give him joy and gladness in thy kingdom, with thy saints in light;
-
-> We beseech thee to hear us, good Lord.
-
-O Lamb of God, who takest away the sins of the world;
-
-Have mercy upon him.
-
-O Lamb of God, who takest away the sins of the world;
-
-> Have mercy upon him.
-
-O Lamb of God, who takest away the sins of the world;
-
-> Grant him thy peace.
-
-Lord, have mercy.
-
-> Christ, have mercy.
-
-Lord, have mercy.
-
-OUR Father, who art in heaven, Hallowed be thy Name.
-Thy kingdom come.
-Thy will be done, On earth as it is in heaven.
-Give us this day our daily bread.
-And forgive us our trespasses, As we forgive those who trespass against us.
-And lead us not into temptation, But deliver us from evil.
+May God the Father bless you, God the Son heal you, God the Holy Spirit give you strength.
+May God the holy and undivided Trinity guard your body, save your soul, and bring you safely to his heavenly country; where he lives and reigns for ever and ever.
 Amen.
 
-Let us pray.
+For Doctors and Nurses
 
-O SOVEREIGN Lord, who desirest not the death of a sinner; We beseech thee to loose the spirit of this thy servant from every bond, and set him free from all evil; that he may rest with all thy saints in the eternal habitations; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Ghost, one God, world without end.
+Sanctify, O Lord, those whom you have called to the study and practice of the arts of healing, and to the prevention of disease and pain.
+Strengthen them by your life-giving Spirit, that by their ministries the health of the community may be promoted and your creation glorified; through Jesus Christ our Lord.
 Amen.
 
-> An Absolution to be said by the Priest.
+Thanksgiving for a Beginning of Recovery
 
-THE Almighty and merciful Lord grant thee pardon and remission of all thy sins, and the grace and comfort of the Holy Spirit.
+O Lord, your compassions never fail and your mercies are new every morning: We give you thanks for giving our brother (sister) N.
+both relief from pain and hope of health renewed.
+Continue in him, we pray, the good work you have begun; that he, daily increasing in bodily strength, and rejoicing in your goodness, may so order his life and conduct that he may always think ath in your love, that with calm expectancy I may make room for your power to possess me, and gracefully accept your healing; through Jesus Christ our Lord.
 Amen.
 
-## The Commendation
+In Pain
 
-> A Commendation.
-
-DEPART, O Christian soul, out of this world,
-
-In the Name of God the Father Almighty who created thee.
-
-In the Name of Jesus Christ who redeemed thee.
-
-In the Name of the Holy Ghost who sanctifieth thee.
-
-May thy rest be this day in peace, and thy dwellingplace in the Paradise of God.
-
-> A Commendatory Prayer when the Soul is Departed.
-
-INTO thy hands, O merciful Saviour, we commend the soul of thy servant, now departed from the body.
-Acknowledge, we humbly beseech thee, a sheep of thine own fold, a lamb of thine own flock, a sinner of thine own redeeming.
-Receive him into the arms of thy mercy, into the blessed rest of everlasting peace, and into the glorious company of the saints in light.
+Lord Jesus Christ, by your patience in suffering you hallowed earthly pain and gave us the example of obedience to your Father's will: Be near me in my time of weakness and pain; sustain me by your grace, that my strength and courage may not fail; heal me according to your will; and help me always to believe that what happens to me here is of little account if you hold me in eternal life, my Lord and my God.
 Amen.
 
-## The Unction
+For Sleep
 
-> When any sick person shall in humble faith desire the ministry of healing through Anointing or Laying on of Hands, the Minister may use such portion of the foregoing Office as he shall think fit, and the following:
-
-O BLESSED Redeemer, relieve, we beseech thee, by thy indwelling power, the distress of this thy servant; release him from sin, and drive away all pain of soul and body, that being restored to soundness of health, he may offer thee praise and thanksgiving; who livest and reignest with the Father and the Holy Ghost, one God, world without end.
+O heavenly Father, you give your children sleep for the refreshing of soul and body: Grant me this gift, I pray; keep me in that perfect peace which you have promised to those whose minds are fixed on you; and give me such a sense of your presence, that in the hours of silence I may enjoy the blessed assurance of your love; through Jesus Christ our Lord.
 Amen.
 
-I ANOINT thee with oil (or I lay my hand upon thee), In the Name of the Father, and of the Son, and of the Holy Ghost; beseeching the mercy of our Lord Jesus Christ, that all thy pain and sickness of body being put to flight, the blessing of health may be restored unto thee.
+In the Morning
+
+This is another day, O Lord.
+I know not what it will bring forth, but make me ready, Lord, for whatever it may be.
+If I am to stand up, help me to stand bravely.
+If I am to sit still, help me to sit quietly.
+If I am to lie low, help me to do it patiently.
+And if I am to do nothing, let me do it gallantly.
+Make these words more than words, and give me the Spirit of Jesus.
 Amen.
-
-> The Minister is ordered, from time to time, to advise the People, whilst they are in health, to make Wills arranging for the disposal of their temporal goods, and, when of ability, to leave Bequests for religious and charitable uses.
-
-## The Communion of the Sick
-
-> Forasmuch as all mortal men are subject to many sudden perils, diseases and sicknesses, and ever uncertain what time they shall depart out of this life; therefore, to the intent they may be always in readiness to die, whensoever it shall please Almighty God to call them, the Ministers shall diligently from time to time, but especially in the time of pestilence, or other infectious sickness, exhort their parishioners to the often receiving of the Holy Communion of the Body and Blood of our Saviour Christ, when it shall be publicly administered in the Church; that so doing, they may, in case of sudden visitation, have the less cause to be disquieted for lack of the same.
-> But if the sick person be not able to come to the Church, and yet is desirous to receive the Communion in his house; then he must give timely notice to the Minister, signifying also how many there are to communicate with him; and all things necessary being prepared, the Minister shall there celebrate the Holy Communion, beginning with the Collect, Epistle, and Gospel, here following.
-
-> The Collect.
-
-ALMIGHTY, everliving God, Maker of mankind, who dost correct those whom thou dost love, and chastise every one whom thou dost receive; We beseech thee to have mercy upon this thy servant visited with thine hand, and to grant that he may take his sickness patiently, and recover his bodily health, if it be thy gracious will; and that, whensoever his soul shall depart from the body, it may be without spot presented unto thee; through Jesus Christ our Lord.
-Amen.
-
-The Epistle.
-Hebrews xii. 5.
-
-MY son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: for whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
-
-The Gospel.
-St. John v. 24.
-
-VERILY, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
-
-> Or the following Collect, Epistle, and Gospel.
-
-> The Collect.
-
-O LORD, holy Father, by whose loving-kindness our souls and bodies are renewed; Mercifully look upon this thy servant, that, every cause of sickness being removed, he may be restored to soundness of health; through Jesus Christ our Lord.
-Amen.
-
-The Epistle. 1 St. John v. 13.
-
-THESE things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
-And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: and if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
-
-The Gospel.
-St. John vi. 47.
-
-JESUS said, Verily, verily, I say unto you, He that believeth on me hath everlasting life.
-I am that bread of life.
-Your fathers did eat manna in the wilderness, and are dead.
-This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
-I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
-
-> After which the Minister shall proceed according to the form before prescribed for the Holy Communion, beginning at these words, Ye who do truly, etc.
-
-> At the time of the distribution of the holy Sacrament, the Minister shall first receive the Communion himself, and after minister unto those who are appointed to communicate with the sick, and last of all to the sick person.
-
-> When circumstances render it expedient to shorten the Service, the following form shall suffice:
-
-The Confession and the Absolution; Lift up your hearts, etc., through the Sanctus; The Prayer of Consecration, ending with these words, partakers of his most blessed Body and Blood; The Prayer of Humble Access; The Communion; The Lord's Prayer; The Blessing.
-And NOTE, That for the Confession and Absolution the following may be used.
-
-> The Confession.
-
-O ALMIGHTY Father, Lord of heaven and earth, we confess that we have sinned against thee in thought, word, and deed.
-Have mercy upon us, O God, after thy great goodness; according to the multitude of thy mercies, do away our offences and cleanse us from our sins; for Jesus Christ's sake.
-Amen.
-
-> The Absolution.
-
-THE Almighty and merciful Lord grant you Absolution and Remission of all your sins, true repentance, amendment of life, and the grace and consolation of his Holy Spirit.
-Amen.
-
-> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or by any other just impediment, do not receive the Sacrament of Christ's Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and stedfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his soul's health, although he do not receive the Sacrament with his mouth.
-
-> This Office may be used with aged and bed-ridden persons, or such as are not able to attend the public Ministration in Church, substituting the Collect, Epistle, and Gospel for the Day, for those appointed above.

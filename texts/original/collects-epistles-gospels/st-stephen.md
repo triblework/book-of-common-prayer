@@ -1,23 +1,13 @@
-# Saint Stephen's Day
+# Saint Stephen
+
+<!-- VERIFY: 'Saint Stephen' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-GRANT, O Lord, that, in all our sufferings here upon earth for the testimony of thy truth, we may stedfastly look up to heaven, and by faith behold the glory that shall be revealed; and, being filled with the Holy Ghost, may learn to love and bless our persecutors by the example of thy first Martyr Saint Stephen, who prayed for his murderers to thee, O blessed Jesus, who standest at the right hand of God to succour all those who suffer for thee, our only Mediator and Advocate.
+We give the thanks, O Lord of glory, for the example of the first martyr Stephen, who looked up to heaven and prayed for his persecutors to thy Son Jesus Christ, who standeth at thy right hand; where he liveth and reigneth with thee and the Holy Spirit, one God, in glory everlasting.
 Amen.
 
-The offices for St. Stephen, St. John the Evangelist, and Holy Innocents appear directly after Christmas Day in the 1892 and 1928 Books.
+## The Collect (Contemporary)
 
-Saint Stephen, Deacon and Martyr.
-in 1928
-
-> Then shall follow the Collect of the Nativity which shall be said continually until New-Year's Eve.
-
-## The Epistle
-
-> For the Epistle.
-
-Acts 7:55
-
-## The Gospel
-
-Matthew 23:34
+We give you thanks, O Lord of glory, for the example of the first martyr Stephen, who looked up to heaven and prayed for his persecutors to your Son Jesus Christ, who stands at your right hand; where he lives and reigns with you and the Holy Spirit, one God, in glory everlasting.
+Amen.

@@ -1,0 +1,16 @@
+# For Guidance
+
+O God, by whom the meek are guided in judgment, and
+
+light =riseth= up in darkness for the godly:  Grant us, in all
+
+our doubts and uncertainties, the grace to ask what =thou
+
+wouldest= have us to do, that the Spirit of wisdom may save
+
+us from all false choices, and that in =thy= light we may see
+
+light, and in =thy= straight path may not stumble; through
+
+Jesus Christ our Lord.
+=Amen.=

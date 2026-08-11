@@ -1,16 +1,13 @@
-# The Fourth Sunday after the Epiphany
+# Fourth Sunday after the Epiphany
 
-<!-- VERIFY: 'The Fourth Sunday after the Epiphany' — * condemnation in 1928 — and the source does not say what becomes of the 1789 Gospel this shift displaces. -->
+<!-- VERIFY: 'Fourth Sunday after the Epiphany' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O GOD, who knowest us to be set in the midst of so many and great dangers, that by reason of the frailty of our nature we cannot always stand upright; Grant to us such strength and protection, as may support us in all dangers, and carry us through all temptations; through Jesus Christ our Lord.
+Almighty and everlasting God, who dost govern all things in heaven and earth: Mercifully hear the supplications of thy people, and in our time grant us thy peace; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-Romans 13:1
-
-## The Gospel
-
-Matthew 8:1
+Almighty and everlasting God, you govern all things both in heaven and on earth: Mercifully hear the supplications of your people, and in our time grant us your peace; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+Amen.

@@ -1,16 +1,13 @@
-# The Transfiguration of Christ
+# The Transfiguration
 
-<!-- VERIFY: 'The Transfiguration of Christ' — Readings for the Transfiguration added in 1892 — the source states only that the READINGS were added then, and does not say when the feast or its collect first appeared in the American books. -->
+<!-- VERIFY: 'The Transfiguration' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-O GOD, who on the mount didst reveal to chosen witnesses thine only-begotten Son wonderfully transfigured, in raiment white and glistering; Mercifully grant that we, being delivered from the disquietude of this world, may be permitted to behold the King in his beauty, who with thee, O Father, and thee, O Holy Ghost, liveth and reigneth, one God, world without end.
+O God, who on the holy mount didst reveal to chosen witnesses thy well-beloved Son, wonderfully transfigured, in raiment white and glistening: Mercifully grant that we, being delivered from the disquietude of this world, may by faith behold the King in his beauty; who with thee, O Father, and thee, O Holy Ghost, liveth and reigneth, one God, world without end.
 Amen.
 
-## The Epistle
+## The Collect (Contemporary)
 
-2 Peter 1:13
-
-## The Gospel
-
-Luke 9:28
+O God, who on the holy mount revealed to chosen witnesses your well-beloved Son, wonderfully transfigured, in raiment white and glistening: Mercifully grant that we, being delivered from the disquietude of this world, may by faith behold the King in his beauty; who with you, O Father, and you, O Holy Spirit, lives and reigns, one God, for ever and ever.
+Amen.
