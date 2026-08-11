@@ -1,434 +1,436 @@
-# The Ordre for the Administracion of the Lordes Supper, or Holy Communion.
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-> So many as entend to be partakers of the holy Communion, shall signifie their names to the Curate over night; or els in the mornyng, afore the beginning of morning prayer or immediately after.
+# The Order for the Administration of the Lord's Supper, or Holy Communion.
 
-> And if any of those be an open and notorious evil liver, so that ye congregacion by him is offended, or have done any wrong to hys neighbours by word or dede ye curate havyng knowledge therof, shal cal hym, and advertyse hym, in any wise not to presume to the Lordes table, until he have openly declared him self to have truely repented, and amended his former naughty lyfe, that the Congregacion may therby be satisfyed, which afore were offended, and that he have recompensed the parties, who he hath done wrong unto, or at the least declare him selfe to be in full purpose so to doe, as sane as he conveniently may.
+> So many as intend to be partakers of the holy Communion shall signify their names to the Curate, at least some time the day before.
 
-<!-- VERIFY: source prints 'as sane as he conveniently may'; 1552 reads 'as soone as he conveniently maye'; 'sane' is likely a printer/scan error for 'soone'; retained as printed; confirm against a page scan -->
+> If a Minister be persuaded that any person who presents himself to be a partaker of the holy Communion ought not to be admitted thereunto by reason of malicious and open contention with his neighbours, or other grave and open sin without repentance, he shall give an account of the same to the Ordinary of the place, and therein obey his order and direction, but so as not to refuse the Sacrament to any person until in accordance with such order and direction he shall have called him and advertised him that in any wise he presume not to come to the Lord's Table; Provided that in case of grave and immediate scandal to the Congregation the Minister shall not admit such person, but shall give an account of the same to the Ordinary within seven days after at the latest and therein obey the order and direction given to him by the Ordinary; Provided also that before issuing his order and direction in relation to any such person the Ordinary shall afford to him an opportunity for interview.
 
-> Thesame order shall the Curate use with those, betwixt whome he perceyveth malice and hatred to raigne not suffering them to be partakers of the Lordes table untyll he know them to be reconciled.
-> And if one of the parties so at variance, he content to forgeve from the bottome of hys hart, all that the other hath trespassed agaynste him, and to make amends for that he hymn self hath offended: and the other partye wyll not be perswaded to a godly unitye, but remain stil in his frowardnes and malice The Minister in that case, ought to admit the penitent person to the holy Communyon, and not hym that is obstinate
+<!-- VERIFY: this admission rubric ('give an account... to the Ordinary... within seven days... an opportunity for interview') appears to be a modern statutory amendment; the 1662 book as first printed carried the "open and notorious evil liver" rubric (cf. 1559/1552). Retained as printed in the Church of England source; reconcile against a dated 1662 page scan before sign-off. -->
 
 ## The Lord's Prayer
 
-> The table, havyng at the Communion tyme a fayre whyte linnen cloth upon it, shall stand in the body of the church or in the chauncell where mornyng prayer and evenyng prayour be appointed to be said.
-> And the priest, standyng at the Northe syde of the table, shal say the Lordes prayour wyth this collecte followyng.
+> The Table at the Communion time having a fair white linen cloth upon it, shall stand in the body of the Church, or in the Chancel, where Morning and Evening Prayer are appointed to be said.
+> And the Priest standing at the north side of the Table shall say the Lord's Prayer with the Collect following, the people kneeling.
+
+Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
+Amen.
 
 ## The Collect for Purity
 
-ALMIGHTY God, unto whom al hartes be open, al desires knowe, and from whom no secretes are hyd: clense the thoughtes of our hartes by the inspiracion of thy holy spirit, that we may perfectly love the, and worthily magnify thy holy name, through Christe our Lorde.
+ALMIGHTY God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy Name; through Christ our Lord.
 Amen.
 
 ## The Ten Commandments
 
-> Then shal the Priest rehearse distinctly at the .x.
-> Commaundementes, and the people knelyng, shal after every Commaundemente aske Goddes mercye for theyr transgressyon of the same, after thys sorte.
+> Then shall the Priest, turning to the people, rehearse distinctly all the TEN COMMANDMENTS: and the people still kneeling shall after every Commandment ask God mercy for their transgression thereof for the time past, and grace to keep the same for the time to come, as followeth.
 
-**Minister.** God spake these words, and saide, I am the Lord thy God, Thou shalt have none other Goddes but me.
-**People.** Lorde have mercye upon us, and encline our hartes to kepe this lawe.
-**Minister.** Thou shalt not make to thy self any graven ymage, nor the likenes of any thyng that is in heaven above, or in the earth beneth, or in the water under the earth.
-Thou shalt not bow doune to them, nor worshyppe the, for I the Lord thy God am a gelous God, and visite the sin of the fathers uppon the children, unto the thyrde and iiii.
-generacyon of them that hate me, and show mercy unto thousandes in theim that love me, and keepe my commaundementes.
-**People.** Lorde have mercye upon us, and encline our hartes to kepe this lawe.
-**Minister.** Thou shalt not take the name of the Lorde thy God in vaine, for the Lorde wil not holde hym giltlesse that taketh his name in vaine.
-**People.** Lorde have mercy upon us, and encline our, &c.
-**Minister.** Remembre that thou kepe holy the Sabboth daie: .vi.
-dayes shalt thou laboure, and doe all that thou haste to do, but the .vii.
-day is the Sabboth of the lorde thy god.
-In it thou shalt do no maner of worke, thou and thy sonne and thy daughter, thy man servaunt, and thy mayd servaunt, thy Catel, and the straunger that is within thy gates: For in .vi.
-daies the Lord made heaven and earth, the Sea and all that in them is, and reasted the seventh daye.
-Wherefore the Lorde blessed the seventh daye and halowed it.
-**People.** Lorde have mercy upon us, and encline our.
-&c.
-**Minister.** Honour thy father and thy mother, that thy daies may be long in the lande which the Lord thy God geveth the.
-**People.** Lorde have mercy upon us, and encline.
-&c.
-**The Minister.** Thou shalt not do murther.
-**People.** Lorde have mercy upon us, and encline.
-&c.
-**Minister.** Thou shalt not committe adultery.
-**People.** Lorde have mercy upon us, and encline.
-&c.
-**Minister.** Thou shalt not steale.
-**People.** Lorde have mercy upon us, &c.
-**Minister.** Thou shalte not beare false wytnesse agaynste thy neyghboure.
-**People.** Lorde have mercy upon us, and encline our hartes to kepe this lawe.
-**Minister.** Thou shalt not covet thy neighbours house, Thou shalt not covet thy neighbours wife, nor his servaunt, nor his maide, nor his oxe, nor his asse, nor any thing that is his.
-**People.** Lord have mercy upon us, and write al these thy lawes in our hartes we beseche the.
-
-## The Collects
-
-> Then shall folowe the Collect of the day with one of these two Collectes folawyng for the King, the Priest standyng up and saying.
-
-> Let us praye.
-
-> Priest.
+**Minister.** God spake these words, and said; I am the Lord thy God: Thou shalt have none other gods but me.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth.
+Thou shalt not bow down to them, nor worship them.
+For I the Lord thy God am a jealous God, and visit the sins of the fathers upon the children unto the third and fourth generation of them that hate me, and show mercy unto thousands in them that love me and keep my commandments.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltless, that taketh his Name in vain.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Remember that thou keep holy the Sabbath day.
+Six days shalt thou labour, and do all that thou hast to do; but the seventh day is the Sabbath of the Lord thy God.
+In it thou shalt do no manner of work, thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant, thy cattle, and the stranger that is within thy gates.
+For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the seventh day, and hallowed it.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Honour thy father and thy mother; that thy days may be long in the land which the Lord thy God giveth thee.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt do no murder.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not commit adultery.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not steal.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not bear false witness against thy neighbour.
+**People.** Lord, have mercy upon us, and incline our hearts to keep this law.
+**Minister.** Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+**People.** Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
 ## The Collect for the King
 
-<!-- VERIFY: 1604 Holy Communion is derived from the 1559 text via the justus apparatus, which documents the Jacobean change of the sovereign to 'JAMES our King and governoure' (with the feminine->masculine pronouns following from the male King); no separate 1604 Communion page survives on justus; confirm the exact 1604 readings against a page scan -->
+> Then shall follow one of these two Collects for the King, the Priest standing as before, and saying,
 
-ALMIGHTY God, whose kyngdom is everlasting, and power infinite, have mercy upon the whole congregacion, and so rule the heart of thy chose servant JAMES our King and governoure that he (knowing whose minister he is) may above all thinges, seke thy honoure and glorye: and that we his subjectes, (duly considering whose aucthority he hath) may faithfully serve, honour, and humblye obey him in the and for the, according to thy blessed word, and ordinance, through Jesus Christ our Lord, who with the and the holye ghost, lyveth and reygneth ever one God, world without ende.
+Let us pray.
+
+<!-- VERIFY: the named monarch is reign-dependent. The Church of England source serves the current sovereign ('CHARLES our King'); the 1662 book as first printed named the then-reigning Charles II, so the first name "Charles" is period-correct. Reconcile against a dated 1662 page scan before sign-off. (One flag covers every occurrence of CHARLES below.) -->
+
+ALMIGHTY God, whose kingdom is ever-lasting, and power infinite: Have mercy upon the whole Church; and so rule the heart of thy chosen servant CHARLES, our King and Governor, that he (knowing whose minister he is) may above all things seek thy honour and glory: and that we and all his subjects (duly considering whose authority he hath) may faithfully serve, honour, and humbly obey him, in thee, and for thee, according to thy blessed Word and ordinance; through Jesus Christ our Lord, who with thee and the Holy Ghost liveth and reigneth, ever one God, world without end.
 Amen.
 
-ALMIGHTY and everlastinge God, we be taughte by thy holy word, that the hartes of Princes are in thy rule and governauce, and that thou doest dispose, and turne them as it semeth best to thy Godly wysedome: we humbly beseche thee, so to dispose and governe the harte of JAMES, thy servaunte, our King and governour, that in all his thoughtes, words, and workes he may ever seke thy honoure and glorye, and studye to preserve thy people committed to his charge, in welth, peace and godlynes.
-Graunt this O merciful father, for thy deare sonnes sake Jesus Christ our Lorde.
+> Or,
+
+ALMIGHTY and everlasting God, we are taught by thy holy Word, that the hearts of Kings are in thy rule and governance, and that thou dost dispose and turn them as it seemeth best to thy godly wisdom: We humbly beseech thee so to dispose and govern the heart of CHARLES thy servant, our King and Governor, that in all his thoughts, words, and works, he may ever seek thy honour and glory, and study to preserve thy people committed to his charge, in wealth, peace and godliness: Grant this, O merciful Father, for thy dear Son's sake, Jesus Christ our Lord.
 Amen.
 
 ## The Epistle
 
-> Immediately after the Collectes, the Priest shall reade the Epystle beginning thus.
-
-The Epystle written in the.
-Chapiter of.
+> Then shall be said the Collect of the Day.
+> And immediately after the Collect the Priest shall read the Epistle, saying, The Epistle [or, The portion of Scripture appointed for the Epistle] is written in the - Chapter of - beginning at the - Verse.
+> And the Epistle ended, he shall say, Here endeth the Epistle.
 
 ## The Gospel
 
-> And the Epystie ended, he shal say the Gospel, beginninge thus.
-
-The Gospel wrytten in the.
-Chapiter of.
+> Then shall he read the Gospel (the people all standing up) saying, The holy Gospel is written in the - Chapter of - beginning at the - Verse.
+> And the Gospel ended, shall be sung or said the Creed following, the people still standing as before.
 
 ## The Nicene Creed
 
-> And the Epistle and Gospel being ended, shalbe said the Crede.
+I BELIEVE in one God the Father Almighty, Maker of heaven and earth, And of all things visible and invisible:
 
-I BELEVE in one God, the father almighty maker of heaven and earthe, and of all thynges visible and invisible: And in one Lorde Jesu Christe, the only begotten sonne of GOD, begotten of his father before al worldes, god of God, lyghte of lyghte, verye God of verye God, gotten, not made, beynge of one substance wyth the father, by whome all thinges were made, who for us men, and for our salvacion came doune from heaven, and was incarnate by the holy Ghoste, of the Virgine Mary, and was made man, and was crucified also for us, under poncius Pilate.
-He suffered and was buried, and the thyrde day he rose again accordinge to the Scriptures, and ascended into heaven, and sitteth at the right hande of the father.
-And he shal come again with glory, to judge both the quicke and the deade, whose Kyngdome shall have none ende.
-And I beleve in the holye Ghoste, The Lorde and gever of life, who procedeth from the father and the sonne, who with the father and the sonne together is worshipped and glorified who spake by the Prophetes.
-And I beleve one catholicke and Apostolicke Church.
-I acknowledge one Baptisme, for the remission of sins.
-And I loke for the resurreccion of the dead : and the lyfe of the world to come.
+And in one Lord Jesus Christ, the only-begotten Son of God, Begotten of his Father before all worlds, God of God, Light of Light, Very God of very God, Begotten, not made, Being of one substance with the Father, By whom all things were made: Who for us men and for our salvation came down from heaven, And was incarnate by the Holy Ghost of the Virgin Mary, And was made man, And was crucified also for us under Pontius Pilate.
+He suffered and was buried, And the third day he rose again according to the Scriptures, And ascended into heaven, And sitteth on the right hand of the Father.
+And he shall come again with glory to judge both the quick and the dead: Whose kingdom shall have no end.
+
+And I believe in the Holy Ghost, The Lord and giver of life, Who proceedeth from the Father and the Son, Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets.
+And I believe one Catholick and Apostolick Church.
+I acknowledge one Baptism for the remission of sins.
+And I look for the Resurrection of the dead, And the life of the world to come.
 Amen.
 
 ## The Sermon
 
-> After the Crede yf there be no sermon, shall folowe one of the Homelies alredy set furth, or hereafter to he set furth by commune aucthoritie.
+> Then the Curate shall declare unto the people what Holy-days, or Fasting-days, are in the week following to be observed.
+> And then also (if occasion be) shall notice be given of the Communion; and Briefs, Citations, and Excommunications read.
+> And nothing shall be proclaimed or published in the Church during the time of Divine Service, but by the Minister: nor by him any thing but what is prescribed in the Rules of this Book, or enjoined by the King, or by the Ordinary of the place.
+
+> Then shall follow the Sermon, or one of the Homilies already set forth, or hereafter to be set forth, by authority.
 
 ## The Offertory
 
-> After suche Sermon, homely, or exhortacion, the Curate shall declare unto the people, whether there be anye holy dayes or fastynge dayes the weke folowyng, and earnestly exhorte theim to remembre the poore, saying one, or moe of these sentences following, as he thinketh most convenient by his discretion.
+> Then shall the Priest return to the Lord's Table, and begin the Offertory, saying one or more of these Sentences following, as he thinketh most convenient in his discretion.
 
-LET your light so shyne before men, that they maye see your good workes, and glorifye youre father whyche is in heaven.
-Math. v.
-Laye not up youreselves treasure upon the earthe, where the ruste and mothe doeth corrupte, and where theeves breake through and steale: But lay up for youreselves treasures in heaven, where neyther rust, nor motthe doeth corrupt, and where theeves do not breake thorowe and steale.
-Math. vi.
-Whatsoever you woulde that menne shoulde do unto you, even so due unto them, for this is the lawe and the Prophetes.
-Math. vii.
-Not every one that sayeth unto me Lord, Lord, shall entre into the Kingdome of heaven; but he that doeth ye wyl of my father whiche is in heaven.
-Math. vii.
-Zache stode forth, and said unto the Lord, beholde Lord, the halfe of my goodes I gyve to the poore, and yf I have done any wronge to any man, I restore foure folde.
-Luk.
-xix.
-Who goeth a warefare at any tyme of his owne coste?
-Who planteth a vyneyarde, and eateth not of the fruicte thereof?
-Or who feedeth a flocke, and eateth not of the mylke of the flocke?
-i Cor. ix.
-If we have sowen unto you spiritual thinges, is it a great matter, yf we shal reape your worldly thinges?
-i.
-Cor. ix.
-Do ye not knowe, that they whiche minister aboute holy thinges, lyve of the sacrifyce?
-whyche wayte of the aultare, are partakers with the aultare.
-Even so hath the Lorde also ordeyned : that they whiche preache the Gospel, shoulde lyve of the gospel.
-i.
-Cor. ix.
-He which soweth lytle shal reape lytle; and he that soweth plenteously, shal reape plenteously.
-Let every man doe accordynge as he is dysposed in his harte, not grudgynglye or of necessitie: for God loveth a chereful gyver.
-ii.
-Cor. ix.
-Let hym that is taughte in the woorde, minister unto him that teacheth, in all good thinges.
-be not deceived, God is not mocked; for whatsoever a man soweth, that shall he reape.
-Gala.
-Whyle we have tyme, let us do good unto al men, and specially unto them, whiche are of the householde of faith.
-Gala vi.
-Godlynes is great ryches, yf a man be contente with that he hath: for we brought nothynge into the world, neyther may we cary any thing out.
-i.
-Tim. vi.
-Charge them whyche are ryche in thys world, that they be ready to give, and glade to distribute, laying up in store for them selves a good foundacion, against the time to come, that they may attayne eternal lyfe.
-i Tim. vi.
-God is not unrighteous, that he wil forget your workes and laboure that procedeth of love, whiche love ye have showed for his names sake, whiche have ministered unto sainctes, and yet do minister.
-Hebr.
-vi.
-To do good, and to distribute, forget not, for with such sacrifices God is pleased.
-Heb. xiii
-Whoso hath thys worldes good, and seeth his brother have nede and shutteth up his compassyon from hym, how dwelleth the love of God in hym?
-i.
-John iii.
-Geve almose of thy goodes, and turne never thy face from any poore man, and then the face of the Lorde shall not be turned away from the.
-Tob.
-iiii
+Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+St. Matthew 5.
+Lay not up for yourselves treasure upon the earth; where the rust and moth doth corrupt, and where thieves break through and steal: but lay up for yourselves treasures in heaven; where neither rust nor moth doth corrupt, and where thieves do not break through and steal.
+St. Matthew 6.
+Whatsoever ye would that men should do unto you, even so do unto them; for this is the Law and the Prophets.
+St. Matthew 7.
+Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+St. Matthew 7.
+Zacchaeus stood forth, and said unto the Lord, Behold, Lord, the half of my goods I give to the poor; and if I have done any wrong to any man, I restore four-fold.
+St. Luke 19.
+Who goeth a warfare at any time of his own cost?
+who planteth a vineyard, and eateth not of the fruit thereof?
+or who feedeth a flock, and eateth not of the milk of the flock? 1 Corinthians 9.
+If we have sown unto you spiritual things, is it a great matter if we shall reap your worldly things. 1 Corinthians 9.
+Do ye not know that they who minister about holy things live of the sacrifice; and they who wait at the altar are partakers with the altar?
+Even so hath the Lord also ordained, that they who preach the Gospel should live of the Gospel. 1 Corinthians 9.
+He that soweth little shall reap little; and he that soweth plenteously shall reap plenteously.
+Let every man do according as he is disposed in his heart, not grudging, or of necessity; for God loveth a cheerful giver. 2 Corinthians 9.
+Let him that is taught in the word minister unto him that teacheth, in all good things.
+Be not deceived, God is not mocked: for whatsoever a man soweth that shall he reap.
+Galatians 6.
+While we have time, let us do good unto all men; and specially unto them that are of the household of faith.
+Galatians 6.
+Godliness is great riches, if a man be content with that he hath: for we brought nothing into the world, neither may we carry any thing out. 1 St. Timothy 6.
+Charge them who are rich in this world, that they be ready to give, and glad to distribute; laying up in store for themselves a good foundation against the time to come, that they may attain eternal life. 1 St. Timothy 6.
+God is not unrighteous, that he will forget your works, and labour that proceedeth of love; which love ye have showed for his name's sake, who have ministered unto the saints, and yet do minister.
+Hebrews 6.
+To do good and to distribute forget not; for with such sacrifices God is pleased.
+Hebrews 13.
+Whoso hath this world's good, and seeth his brother have need, and shutteth up his compassion from him, how dwelleth the love of God in him? 1 St. John 3.
+Give alms of thy goods, and never turn thy face from any poor man; and then the face of the Lord shall not be turned away from thee.
+Tobit 4.
 Be merciful after thy power.
-If thou hast muche gyve plenteously, if thou hast litle, doe thy diligence gladly to geve of that litle, for so gatherest thou thy selfe a good rewarde in the day of necessitye.
-Tob.
-iiii
-He that hath pitye upon the poore, lendeth unto the Lorde: and looke what he layeth out: it shalbe paied him agayne.
-Pro xix.
-Blessed be the man that provydeth for the sycke, and nedy, the Lorde shall deliver him, in the time of trouble.
-Psal. lxi.
+If thou hast much, give plenteously; if thou hast little, do thy diligence gladly to give of that little; for so gatherest thou thyself a good reward in the day of necessity.
+Tobit 4.
+He that hath pity upon the poor lendeth unto the Lord: and look, what he layeth out, it shall be paid him again.
+Proverbs 19.
+Blessed be the man that provideth for the sick and needy: the Lord shall deliver him in the time of trouble.
+Psalms 41.
 
-<!-- VERIFY: the citation 'Psal. lxi.' is printed on its own line after the bidding 'Let us pray for the whole estate...'; it belongs to the preceding sentence 'Blessed be the man...' and is relocated here; the 1552 book cites this as 'Psal. xli.' (Psalm 41), so 'lxi' is likely a printer transposition; retained as printed; confirm against a page scan -->
+> Whilst these Sentences are in reading, the Deacons, Churchwardens, or other fit person appointed for that purpose, shall receive the Alms for the Poor, and other devotions of the people, in a decent bason to be provided by the Parish for that purpose; and reverently bring it to the Priest, who shall humbly present and place it upon the holy Table.
+
+> And when there is a Communion, the Priest shall then place upon the Table so much Bread and Wine as he shall think sufficient.
+> After which done, the Priest shall say,
 
 ## The Prayer for the Whole State of Christ's Church
 
-> Then shal the Churchewardens, or some other by them appoyncted, gather the devocion of the people, and put the same into the poore mens boxe, and upon the offeryng daies appoincted, every man and woman shal pay to the Curate the due and accustomed offerings, after whiche done, the Priest shal saie.
+Let us pray for the whole state of Christ's Church militant here in earth.
 
-Let us pray for the whole estate of Christes Church militant here in earth.
-
-ALMIGHTYE and everliving God, whych by thy holye Apostle hast taughte us to make prayers and supplicacyons, and to geve thanckes for all men: We humbly beseche thee moste mercifully (to accepte our almose) and to receyve these our prayers whyche of we offer unto thy divine majestie, beseechyng the to inspire continually, the universal Church wyth the spiryte of truthe, unitye, and concorde: And graunt that all they that do confesse thy holy name, may agree in the truthe of thy holy woorde, and lyve in unytye and godlye love.
-We beseche thee also to save and defend alle Christyane Kynges, Prynces, and Governours, and specially thy servaunt, JAMES our King that under him we may be godly and quietly governed: and graunt unto his whole Counsaill, and to all that be put in aucthoritye under him, that they may truely and indifferently minister justice, to the punishement of wyckednes and vice, and to the maintenaunce of goddes true religion and vertue.
-Give grace (O heavenly Father) to al Bishopes, Pastours and Curates, that they may bothe by theyr life and doctrine set furth thy true and lively word and rightely and duely administer thy holy Sacramentes: and to all thy people gyve thy heavenlye grace, and especially to thys congregacion heare present, that with meke harte and due reverence, they may heare and receive thy holy word, truely servyng the in holines and ryghtuousnes all the dayes of theyr lyfe.
-And we moost humbly beseche the of thy goodnes (O Lord) to comfort and succoure all theym whyche in thys transitory lyfe bee in trouble, Sorowe, nede, sicknes, or any other adversity.
-Graunt this, O father, for Jesus Christes sake our only Mediatour and advocate.
+Almighty and everliving God, who by thy holy Apostle hast taught us to make prayers and supplications, and to give thanks, for all men: We humbly beseech thee most mercifully [to accept our alms and oblations, and] to receive these our prayers, which we offer unto thy Divine Majesty; beseeching thee to inspire continually the universal Church with the spirit of truth, unity, and concord: And grant, that all they that do confess thy holy Name may agree in the truth of thy holy Word, and live in unity, and godly love.
+We beseech thee also to save and defend all Christian Kings, Princes, and Governors; and specially thy servant CHARLES our King; that under him we may be godly and quietly governed: And grant unto his whole Council, and to all that are put in authority under him, that they may truly and indifferently minister justice, to the punishment of wickedness and vice, and to the maintenance of thy true religion, and virtue.
+Give grace, O heavenly Father, to all Bishops and Curates, that they may both by their life and doctrine set forth thy true and lively Word, and rightly and duly administer thy holy Sacraments: And to all thy people give thy heavenly grace; and specially to this congregation here present; that, with meek heart and due reverence, they may hear, and receive thy holy Word; truly serving thee in holiness and righteousness all the days of their life.
+And we most humbly beseech thee of thy goodness, O Lord, to comfort and succour all them, who in this transitory life are in trouble, sorrow, need, sickness, or any other adversity.
+And we also bless thy holy Name for all thy servants departed this life in thy faith and fear; beseeching thee to give us grace so to follow their good examples, that with them we may be partakers of thy heavenly kingdom: Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate.
 Amen.
 
-> If ther be none almes geven unto the poore, then shall the words of accepting our almes bee lefte out unsayd.
+> If there be no alms or oblations, then shall the words [of accepting our alms and oblations] be left out unsaid.
 
 ## The Exhortations
 
-> Then shal folowe this exhortacion, at certayne tymes when the Curate shal see the people negligent to come to the holy Communyon.
+> When the Minister giveth warning for the Celebration of the holy Communion, (which he shall always do upon the Sunday, or some Holy-day, immediately preceding,) after the Sermon or Homily ended, he shall read this Exhortation following.
 
-WE be come together at thys tyme, derely beloved brethren to fede at the Lordes supper, unto the whyche in Goddes behalf I bydde you all that be heare present, and beseche you for the lorde Jesus Christes sake, that ye wyll not refuse to come thereto, beyng so lovingly called, and bidden of God him selfe.
-Ye know howe grevous and unkynde a thing it is, when a manne hath prepared a riche feaste: decked his table with al kynde of provisyon, so that there lacketh nothinge but the gestes to sitte downe: and yet they whych be called wythout anye cause, mooste unthankfully refuse to come.
-Whyche of you in suche a case woulde not be moved?
-Who woulde not thyncke a greate injurie and wrong done unto hym?
-Wherefore moste derely beloved in Christe take ye good heade, lest ye, wythdrawyng your selves from this holy supper, and provoke Goddes indignation against you, it is an easy matter for a man to say, I will not communicate, because I am otherwise letted with worldly busynes, but suche excuses be not so easily accepted and allowed before god.
-If any man say, I am a grevous sinner, and therefore am afrayed to come.
-Wherefore then do ye not repent and amende?
-When god calleth you, be you not ashamed to say ye wil not come?
-when you should returne to god, wil you excuse your self and say that you be not redy?
-Considre ernestly with your selves howe litle such feined excuses shall availe before God.
-They that refused the feaste in the Gospel, because they had bought a farme, or would trie their yokes of oxen, or because they were maried, were not so excused, but conpted unworthy of the hevenly feast.
-I for my part am here present and according to myne office, I bid you in the name of god, I cal you in Christes behalf, I exhort you, as you love your owne Salvation, that ye wil be partakers of this holy Communion.
-And as the sonne of God, did vouchesafe to yelde up his soul by death upon the crosse for your healthe, even so it is youre duety to receyve the Communion together in the remembraunce of his death as he hymselfe commaunded.
-Nowe, yf ye wyll in no wise thus do, consider with your selves, how great injury ye doe unto God, and howe sore punishment hangeth over your heades for thesame.
-And whereas ye offende God so sore in refusing this holy banquet, I admonishe, exhorte, and beseche you, that unto this unkyndenes ye wyll not adde any more.
-Whiche thing ye shall doe yf ye stand by as gasers and lokers of them that do Communicate, and be no partakers of the same your selves.
-For what thing can this be accompted els, then a further contempt and unkindenes unto God?
-Truly it is a greate unthankefulnes to say naye when ye be called, but the faulte ismuche greater, when men stande by, and yet wyll neyther eate, nor drincke this holye Communion with other.
-I praie you what can this be ells but even to have the misteries of Christ in derision: it is said unto al: Take ye and eate, take and drincke ye al of this, do this in remebraunce of me.
-With what face then, or with what countenaunce shal ye here these words?
-what wyl this be els, but a neglecting, a despisyng, and mockynge of the Testament of Christ?
-wherfore rather the you shold so do, departe you hence, and geve place to them that be Godly dysposed.
-But when you departe, I beseche you pondre with yourselves, from whome ye departe: ye departe from the Lordes Table: ye depart from your brethren, and from the banket of most heavenly foode.
-These thynges (yf ye earnestly consydre) ye shall by Goddes grace, returne to a better mynde, for the obteining wherof, we shall make our humble peticions while we shal receive the holy Communion.
+Dearly beloved, on - day next I purpose, through God's assistance, to administer to all such as shall be religiously and devoutly disposed the most comfortable Sacrament of the Body and Blood of Christ; to be by them received in remembrance of his meritorious Cross and Passion, whereby alone we obtain remission of our sins, and are made partakers of the kingdom of heaven.
+Wherefore it is our duty to render most humble and hearty thanks to Almighty God our heavenly Father, for that he hath given his Son our Saviour Jesus Christ, not only to die for us, but also to be our spiritual food and sustenance in that holy Sacrament.
+Which being so divine and comfortable a thing to them who receive it worthily, and so dangerous to them that will presume to receive it unworthily; my duty is to exhort you in the mean season to consider the dignity of that holy mystery, and the great peril of the unworthy receiving thereof; and so to search and examine your own consciences, and that not lightly, and after the manner of dissemblers with God: but so that ye may come holy and clean to such a heavenly Feast, in the marriage-garment required by God in holy Scripture, and be received as worthy partakers of that holy Table.
 
-> And some tyme shalbe said this also, at the discretion of the Curat.
+The way and means thereto is; First, to examine your lives and conversations by the rule of God's commandments; and whereinsoever ye shall perceive yourselves to have offended, either by will, word, or deed, there to bewail your own sinfulness, and to confess yourselves to Almighty God, with full purpose of amendment of life.
+And if ye shall perceive your offences to be such as are not only against God, but also against your neighbours; then ye shall reconcile yourselves unto them; being ready to make restitution and satisfaction, according to the uttermost of your powers, for all injuries and wrongs done by you to any other; and being likewise ready to forgive others that have offended you, as you would have forgiveness of your offences at God's hand; for otherwise the receiving of the holy Communion doth nothing else but increase your damnation.
+Therefore if any of you be a blasphemer of God, an hinderer or slanderer of his Word, an adulterer, or be in malice, or envy, or in any other grievous crime, repent you of your sins, or else come not to that holy Table; lest, after the taking of that holy Sacrament, the devil enter into you, as he entered into Judas, and fill you full of all iniquities, and bring you to destruction both of body and soul.
 
-DERELY beloved, for asmuche as our dutye is to rendre to almighty God our heavenly father most harty thanckes for that he hathe geven his sonne our Sauiour Jesus Christ not only to die for us, but also to be oure Spirituall fode, and sustenaunce, as it is declared unto us, aswel by Goddes word, as by the holy sacramentes of his blessed body and blood, the which being so comfortable a thing to them whiche receive it worthelye and so daungerous to them, that wil presume to receyve it, unworthely.
-My duty is to exhorte you to considre the dignitie of the holy mistery, and the great peril of the unworthy receiving therof, and so to searche and examine youre owne conscieces, as you shold come holy and cleane to a moste godly and hevenly feast, so that in no wise you come but in the mariage garment, required of God in holy scripture, and so come and be receyved as worthye partakers of suche a heavenly Table, the waye and meanes therto is.
+And because it is requisite, that no man should come to the holy Communion, but with a full trust in God's mercy, and with a quiet conscience; therefore if there be any of you, who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other discreet and learned Minister of God's Word, and open his grief; that by the ministry of God's holy Word he may receive the benefit of absolution, together with ghostly counsel and advice, to the quieting of his conscience, and avoiding of all scruple and doubtfulness.
 
-First to examine your lives and conversation by the rule of Goddes commaundementes and wherinsoeuer ye shall perceyve your selves to have offended eyther by wil, word, or deede, there bewayle your owne synful lives, confesse your selves to almighty God, with ful purpose of amendement of life.
-And yf ye shal perceive your offences to be such, as be not only against God, but also against your neighbours.
-Then ye shal reconcyle youre selves unto them, ready to make restitucion and satisfaction according to the uttermost of your powers for all injuries and wronges done by you to any other, and likewise being ready to forgeve other that have offended you as you would have forgevenes of your offences at Goddes hande.
-For otherwyse the receiving of the holy Communion doth nothing els, but encrease your dampnation.
+> Or, in case he shall see the people negligent to come to the holy Communion, instead of the former, he shall use this Exhortation.
 
-And because it is requisite that no manne shoulde come to the holye Communion, but with a ful trust in goddes mercy, and with a quiet conscience: therfore yf there be any of you, which by the meanes aforesaid cannot quiet his owne conscience, but requireth further comforte or counsail, then let him come to me, or some other discrete and learned minister of gods word, and open his griefe, that he may receive suche ghostly counseil, advise, and comfort, as his conscience may be releved, and that by the ministery of Gods word, he may receyve comfort, and the benefyte of absolution, to the quieting of his conscience, and advoiding of all scruple and doubtfulnes.
+Dearly beloved brethren, on - I intend, by God's grace, to celebrate the Lord's Supper: unto which, in God's behalf, I bid you all that are here present; and beseech you, for the Lord Jesus Christ's sake, that ye will not refuse to come thereto, being so lovingly called and bidden by God himself.
+Ye know how grievous and unkind a thing it is, when a man hath prepared a rich feast, decked his table with all kind of provision, so that there lacketh nothing but the guests to sit down; and yet they who are called (without any cause) most unthankfully refuse to come.
+Which of you in such a case would not be moved?
+Who would not think a great injury and wrong done unto him?
+Wherefore, most dearly beloved in Christ, take ye good heed, lest ye, withdrawing yourselves from this holy Supper, provoke God's indignation against you.
+It is an easy matter for a man to say, I will not communicate, because I am otherwise hindered with worldly business.
+But such excuses are not so easily accepted and allowed before God.
+If any man say, I am a grievous sinner, and therefore am afraid to come: wherefore then do ye not repent and amend?
+When God calleth you, are ye not ashamed to say ye will not come?
+When ye should return to God, will ye excuse yourselves, and say ye are not ready?
+Consider earnestly with yourselves how little such feigned excuses will avail before God.
+They that refused the feast in the Gospel, because they had bought a farm, or would try their yokes of oxen, or because they were married, were not so excused, but counted unworthy of the heavenly feast.
+I, for my part, shall be ready; and, according to mine Office, I bid you in the Name of God, I call you in Christ's behalf, I exhort you, as ye love your own salvation, that ye will be partakers of this holy Communion.
+And as the Son of God did vouchsafe to yield up his soul by death upon the Cross for your salvation; so it is your duty to receive the Communion, in remembrance of the sacrifice of his death, as he himself hath commanded: which if ye shall neglect to do, consider with yourselves how great injury ye do unto God, and how sore punishment hangeth over your heads for the same; when ye wilfully abstain from the Lord's Table, and separate from your brethren, who come to feed on the banquet of that most heavenly food.
+These things if ye earnestly consider, ye will by God's grace return to a better mind: for the obtaining whereof we shall not cease to make our humble petitions unto Almighty God our heavenly Father.
 
-> Then shall the Priest say this exhortation.
+> At the time of the Celebration of the Communion, the Communicants being conveniently placed for the receiving of the holy Sacrament, the Priest shall say this Exhortation.
 
-DERELY beloved in the Lorde: Ye that mynde to come to the holye Communion of the bodye and bloude of oure savioure Christe, must consyder what saincte Paule writeth unto the Corinthiens, howe he exhorteth all persones diligentlye to trye and examyne them selves, before they presume to eate of that breade, and drincke of that cuppe.
-For as the benefyte is greate, yf wyth a trulye penitente herte and lyvely faith we receive that holy sacrament (for then we spiritually eate the fleshe of Christ, and drincke his bloude, then we dwell in Christe and Christe in us, we be one wyth Christ, and Christe with us) so is the daunger great, if we receyve the same unworthely.
-For then we be gilty of the body and blood of Christ our saviour.
-We eate and drincke our owne dampnation, not considering the lordes bodye.
-we kindle Gods wrath against us, we provoke him to plague us with divers diseases, and sundrye kyndes of death.
-Therfore if any of you be a blasphemer of god, an hinderer or slaunderer of his word, an adulterer, or be in malyce or envye, or in anye other grevous crime, bewaile your Sins, and come not to this holy table, lest after the taking of that holy sacrament, the devil enter into you, as he entred into Judas, and fil you full of al iniquities, and bring you to destruction both of bodye and soul.
-Judge therefore your selves (brethren) that ye be not judged of the Lord.
-Repent you truly for your sins past, have a lively and stedfast faithe in Christ our saviour.
-Amende your lives, and be in perfect charitie wyth all men, so shal ye be mete partakers of those holy misteries.
-And above al thinges ye must geve most humble and herty thankes to God the father, the sone, and the holye ghost, for the redemption of the world by the deathe and passion of our saviour Christ, bothe God and man, who did humble him selfe, even to the deathe, upon the crosse, for us miserable sinners which lay in darckenes, and shadowe of death, that he mighte make us the children of God, and exalte us to everlasting life.
-And to thende that we should alwaie remembre the exceadinge greate love of our master and onelie saviour Jesu Christ, thus diyng for us, and the innumerable benefites (which by his precious bloudsheading) he hath obteined to us, he hath instituted and ordeined holy misteries, as pledges of his love, and continuall remembraunce of his death, to our great and endles comfort.
-To him therfore with the father and the holye Ghost, let us geve (as we are moste bounden) continuall thankes, submitting our selves wholy to his holy will and pleasure, and studiyng to serve him in true holines and righteousnes, al the daies of our life.
+Dearly beloved in the Lord, ye that mind to come to the holy Communion of the Body and Blood of our Saviour Christ, must consider how Saint Paul exhorteth all persons diligently to try and examine themselves, before they presume to eat of that Bread, and drink of that Cup.
+For as the benefit is great, if with a true penitent heart and lively faith we receive that holy Sacrament; (for then we spiritually eat the flesh of Christ, and drink his blood; then we dwell in Christ, and Christ in us; we are one with Christ, and Christ with us;) so is the danger great, if we receive the same unworthily.
+For then we are guilty of the Body and Blood of Christ our Saviour; we eat and drink our own damnation, not considering the Lord's Body; we kindle God's wrath against us; we provoke him to plague us with divers diseases, and sundry kinds of death.
+Judge therefore yourselves, brethren, that ye be not judged of the Lord; repent you truly for your sins past; have a lively and stedfast faith in Christ our Saviour; amend your lives, and be in perfect charity with all men; so shall ye be meet partakers of those holy mysteries.
+And above all things ye must give most humble and hearty thanks to God, the Father, the Son, and the Holy Ghost, for the redemption of the world by the death and passion of our Saviour Christ, both God and man; who did humble himself, even to the death upon the Cross, for us miserable sinners, who lay in darkness and the shadow of death; that he might make us the children of God, and exalt us to everlasting life.
+And to the end that we should alway remember the exceeding great love of our Master and only Saviour Jesus Christ, thus dying for us, and the innumerable benefits which by his precious blood-shedding he hath obtained to us; he hath instituted and ordained holy mysteries, as pledges of his love, and for a continual remembrance of his death, to our great and endless comfort.
+To him therefore, with the Father and the Holy Ghost, let us give (as we are most bounden) continual thanks; submitting ourselves wholly to his holy will and pleasure, and studying to serve him in true holiness and righteousness all the days of our life.
 Amen.
 
 ## The Invitation
 
-> Then shall the Priest say to them that come to receyve the holy Communion.
+> Then shall the Priest say to them that come to receive the holy Communion,
 
-You that do truly and ernestly repente you of youre sins, and be in love, and charite with your neighbors and entende to lede a newe lyfe, folowing the commaundementes of God, and walkynge from hence furthe in his holy waies: Draw nere and take this holy Sacrament to your comforte make your humble confession to almighty God, before this congregation here gathered together in his holye name, mekely knelynge upon your knees.
+Ye that do truly and earnestly repent you of your sins, and are in love and charity with your neighbours, and intend to lead a new life, following the commandments of God, and walking from henceforth in his holy ways: Draw near with faith, and take this holy Sacrament to your comfort; and make your humble confession to Almighty God, meekly kneeling upon your knees.
 
 ## The General Confession
 
-> Then shall this generall confession be made, in the name of all those, that are mynded to receyve this holy Communion, either by one of them, or els by one of the ministers, or by the priest him selfe, all kneling humbly upon their knees.
+> Then shall this general Confession be made, in the name of all those that are minded to receive the holy Communion, by one of the Ministers: both he and all the people kneeling humbly upon their knees and saying,
 
-ALMIGHTY God, father of oure Lorde Jesus Christe, maker of all thynges, Judge of all menne, we acknowledge and bewayle oure manifolde sins and wyckednesse, whiche we from tyme to tyme moste grevously have committed, by thoughte woorde and deede, against thy divine Majestie, provokynge mooste justlye thy wrathe and indignation againste us: we do earnestly repente, and bee hartely sorye for these oure misdoinges, the remembraunce of them is grevous unto us: the burthen of theim is intollerable: have mercy upon us, have mercye upon us, mooste mercyful father, for thy sonne oure Lorde Jesus Christes sake, forgeve us all that is paste, and graunte that we may ever hereafter serve and please the, in newenes of lyfe, to the honour and glorye of thy name throughe Jesus Christ our Lorde.
+Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men: We acknowledge and bewail our manifold sins and wickedness, Which we from time to time most grievously have committed, By thought, word, and deed, Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us.
+We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable.
+Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ's sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord.
 Amen.
 
 ## The Absolution
 
-> Then shall the priest or the Bishop (beyng present) stande up, and turning himself to the people shall say thus.
+> Then shall the Priest (or the Bishop, being present,) stand up, and turning himself to the people, pronounce this Absolution
 
-ALMIGHTYE God, oure heavenly father, who of his great mercy hathe promised forgevenes of sins, to al them, whiche with hartye repentaunce and true faithe turne to hym: have mercye upon you, pardon and deliver you from all your sins, confirme and strengthen you in all goodnes, and bring you to everlastyng lyfe; through Jesus Christ our Lorde.
+Almighty God, our heavenly Father, who of his great mercy hath promised forgiveness of sins to all them that with hearty repentance and true faith turn unto him; Have mercy upon you; pardon and deliver you from all your sins; confirm and strengthen you in all goodness; and bring you to everlasting life; through Jesus Christ our Lord.
 Amen.
 
 ## The Comfortable Words
 
-> Then shall the Priest also say.
+> Then shall the Priest say,
 
-Here what comfortable words our saviour Christ saithe to all them that truly turne to him.
-COME unto me all that travaile and be heavy laden, and I shal refreshe you.
-So God loved the world that he gave his only begotten sonne, to thende that al that beleve in him, should not perishe but have life everlastyng.
-Heare also what S.
-Paule saithe.
-This is a true saieng, and worthy of all men to be receyved, that Jesus Christ came into the world to save synners.
-Heare also what S.
-John saieth.
-If any manne sin, we have an advocate with the father, Jesus Christ the righteous, and he is the propiciation for our sins.
+Hear what comfortable words our Saviour Christ saith unto all that truly turn to him.
+Come unto me all that travail and are heavy laden, and I will refresh you.
+St. Matthew 11.28
+So God loved the world, that he gave his only-begotten Son, to the end that all that believe in him should not perish, but have everlasting life.
+St. John 3.16
+Hear also what Saint Paul saith.
+This is a true saying, and worthy of all men to be received, that Christ Jesus came into the world to save sinners. 1 St. Timothy 1.15
+Hear also what Saint John saith.
+If any man sin, we have an Advocate with the Father, Jesus Christ the righteous; and he is the propitiation for our sins. 1 St. John 2.1
 
 ## The Sursum Corda
 
-> After the whiche the priest shall procede saying.
+> After which the Priest shall proceed, saying,
 
-Lift up your hartes.
-**Aunswere.** We lyfte them up unto the Lorde.
-**Priest.** Let us geve thanckes unto our Lorde God.
-**Aunswere.** It is mete and right so to do.
+**Priest.** Lift up your hearts.
+**Answer.** We lift them up unto the Lord.
+**Priest.** Let us give thanks unto our Lord God.
+**Answer.** It is meet and right so to do.
 
 ## The Preface
 
-**Priest.** It is very mete, right, and our bounden duety that we should at al times, and in all places, geve thanckes to the, O Lord holy father, almighty everlasting God.
+> Then shall the Priest turn to the Lord's Table and say,
 
-> Here shall folow the proper prefaces, according to the tyme, yf there be any specially appointed, or els immediatly shal folow:
+It is very meet, right, and our bounden duty, that we should at all times, and in all places, give thanks unto thee, O Lord, Holy Father, Almighty, Everlasting God.
 
-> Therfore with aungelles &c.
+> These words [Holy Father] must be omitted on Trinity Sunday.
+
+> Here shall follow the proper Preface, according to the time, if there be any specially appointed: or else immediately shall follow,
+
+Therefore with Angels and Archangels, and with all the company of heaven, we laud and magnify thy glorious Name; evermore praising thee, and saying: Holy, holy, holy, Lord God of hosts, heaven and earth are full of thy glory: Glory be to thee, O Lord most High.
+Amen.
 
 ## The Proper Prefaces
 
-> Upon Christmas day and seven dayes after.
+> Upon Christmas Day, and seven days after.
 
-BECAUSE thou dyddest geve Jesus Christ, thyne only Sonne, to be borne as this daye for us, who by the operation of the holy ghoste was made very man of the substaunce of the virgin Mary his mother, and that without spot of sin, to make us clene from al sin.
-Therefore with aungels &c.
+Because thou didst give Jesus Christ thine only Son to be born as at this time for us; who, by the operation of the Holy Ghost, was made very man of the substance of the Virgin Mary his mother; and that without spot of sin, to make us clean from all sin.
+Therefore with Angels, &c.
 
-> Upon Easter daye, and vii dayes after.
+> Upon Easter Day, and seven days after.
 
-BUT chiefly are we bounde to praise the for the glorious resurrection of thy sonne Jesus Christ our lord, for he is the very paschal lambe, whiche was offred for us, and hath taken awaye the sin of the world, who by his death hath destroyed death, and by his rising to life again, hath restored to us everlasting life.
-Therefore with aungels
+But chiefly are we bound to praise thee for the glorious Resurrection of thy Son Jesus Christ our Lord: for he is the very Paschal Lamb, which was offered for us, and hath taken away the sin of the world; who by his death hath destroyed death, and by his rising to life again hath restored to us everlasting life.
+Therefore with Angels, &c.
 
-> Upon the Ascencion day, and vii dayes after.
+> Upon Ascension Day, and seven days after.
 
-THROUGH thy most deare beloved sonne, Jesus Christ our Lorde, who after his moste glorious resurrection, manifestly appered to al his Apostles, and in their sight ascended up into heaven, to prepare a place for us, that where he is, thether might we also ascende, and reigne with him in glory.
-Therfore with aungels &c.
+Through thy most dearly beloved Son Jesus Christ our Lord; who after his most glorious Resurrection manifestly appeared to all his Apostles, and in their sight ascended up into heaven to prepare a place for us; that where he is, thither we might also ascend, and reign with him in glory.
+Therefore with Angels, &c.
 
-> Upon Wytsonday, and vi daies after.
+> Upon Whitsunday, and six days after.
 
-THROUGH Jesu Christ our Lord, according to whose mooste true promyse, the holye ghoste came downe this daye from heaven, with a soddine greate sounde, as it had bene a mighty wynde, in the lykenes of fiery tonges lyghtinge upon the Apostles, to teache them, and to leade them to all truth, geving them bothe the gyfte of divers languages, and also boldnes with fervent zeale, constantly to preache the gospel unto all nacions, whereby we are broughte out of darcknes and errour into the cleare light and true knowledge of the, and of thy sonne Jesus Christ.
-Therefore with Aungels &c.
+Through Jesus Christ our Lord; according to whose most true promise, the Holy Ghost came down as at this time from heaven with a sudden great sound, as it had been a mighty wind, in the likeness of fiery tongues, lighting upon the Apostles, to teach them, and to lead them to all truth; giving them both the gift of divers languages, and also boldness with fervent zeal constantly to preach the Gospel unto all nations; whereby we have been brought out of darkness and error into the clear light and true knowledge of thee, and of thy Son Jesus Christ.
+Therefore with Angels, &c.
 
-> Upon the feaste of Trinitie only.
+> Upon the Feast of Trinity only.
 
-IT is very mete right, and our bounden dutie, that we should at all times, and in all places, geve thankes to the, O Lorde, almighty and everlasting God, which art one god, one lord, not one only person, but thre persons in one substaunce, for that whiche we beleve of the glorye of the father, the same we beleve of the sonne, and of the holy ghost, without any difference or inequalitie.
-Therefore &c.
+Who art one God, one Lord; not one only Person, but three Persons in one Substance.
+For that which we believe of the glory of the Father, the same we believe of the Son, and of the Holy Ghost, without any difference or inequality.
+Therefore with Angels, &c.
 
 ## Sanctus
 
-> After which preface, shall folow immediatly.
+> After each of which Prefaces shall immediately be sung or said,
 
-THERFORE with Aungelles and Archangelles, and wyth all the company of heaven, we laude and magnify thy glorious name, evermore praising thee, and saying: Holy, holy, holy, lord god of hostes, heven and earth are ful of thy glory, glory be to the, O Lord most hyghe.
+Therefore with Angels and Archangels, and with all the company of heaven, we laud and magnify thy glorious Name; evermore praising thee, and saying: Holy, holy, holy, Lord God of hosts, heaven and earth are full of thy glory: Glory be to thee, O Lord most High.
+Amen.
 
 ## The Prayer of Humble Access
 
-> Then shall the priest knelynge downe at Gods borde, say in the name of all them that shall receyve the communion, this prayer folowing.
+> Then shall the Priest, kneeling down at the Lord's Table, say in the name of all them that shall receive the Communion this Prayer following.
 
-WE do not presume to come to this thy table (O merciful Lorde) trustinge in oure owne rightuousnesse, but in thy manifolde and greate mercies, we be not worthy so muche as to gather up the crommes under thy Table, but thou arte the same Lord, whose property is alwaies to have mercy.
-Graunt us therefore gracious Lorde, so to eate the fleshe of thy deare sonne Jesus Christ, and to drinke his bloude, that oure synful bodies may be made cleane by his body, and our souls washed through his most precious blood, and that we may evermore dwell in him, and he in us.
+We do not presume to come to this thy Table, O merciful Lord, trusting in our own righteousness, but in thy manifold and great mercies.
+We are not worthy so much as to gather up the crumbs under thy Table.
+But thou art the same Lord, whose property is always to have mercy: Grant us therefore, gracious Lord, so to eat the flesh of thy dear Son Jesus Christ, and to drink his blood, that our sinful bodies may be made clean by his body, and our souls washed through his most precious blood, and that we may evermore dwell in him, and he in us.
+Amen.
 
 ## The Prayer of Consecration
 
-> Then the priest standing up, shal say as foloweth:
+> When the Priest, standing before the Table, hath so ordered the Bread and Wine, that he may with the more readiness and decency break the Bread before the people, and take the Cup into his hands, he shall say the Prayer of Consecration, as followeth.
 
-ALMIGHTY God our heavenly father whiche of thy tender mercye, diddest give thine only Sonne Jesus Christ, to suffer death upon the Crosse for our redemption, who made ther (by his one oblation of himself once offered) a ful, perfect and sufficient sacrifice, oblation, and satisfaction for the sins of the whole world, and didde institute, and in his holy gospel commaunde us to continue a perpetual memory of that his precious deathe, untyll his comminge again: Heare us O merciful father, we besech the, and graunt that we receivyng these thy creatures of breade and wine, accordinge to thy sonne our saviour Jesu Christes holy institution, in remembraunce of his death and passion, may be partakers of his moste blessed body and bloude, who in the same night that he was betraied, toke bread, and when he had geven thankes, he brake it, and gave it to his disciples, saying: Take, eate, this is my body, which is geven for you.
-Doe this in remembraunce of me.
-Likewise after supper he toke the cuppe, and when he had geven thankes, he gave it to them, saying: Drinke ye all of this, for this is my bloude of the new Testament, whiche is shedde for you and for many, for remission of sins: doe this as oft as ye shall drinke it in remembraunce of me.
+Almighty God, our heavenly Father, who of thy tender mercy didst give thine only Son Jesus Christ to suffer death upon the Cross for our redemption; who made there (by his one oblation of himself once offered) a full, perfect, and sufficient sacrifice, oblation, and satisfaction, for the sins of the whole world; and did institute, and in his holy Gospel command us to continue, a perpetual memory of that his precious death, until his coming again: Hear us, O merciful Father, we most humbly beseech thee; and grant that we receiving these thy creatures of bread and wine, according to thy Son our Saviour Jesus Christ's holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood: who, in the same night that he was betrayed, took Bread; and, when he had given thanks, he brake it, and gave it to his disciples, saying, Take, eat; this is my Body which is given for you: Do this in remembrance of me.
+Likewise after supper he took the Cup; and, when he had given thanks, he gave it to them, saying, Drink ye all of this; for this is my Blood of the New Testament, which is shed for you and for many for the remission of sins: Do this, as oft as ye shall drink it, in remembrance of me.
+Amen.
+
+> Here the Priest is to take the Paten into his hands:
+
+> And here to break the Bread:
+
+> And here to lay his hand upon all the Bread.
+
+> Here he is to take the Cup into his hand:
+
+> And here to lay his hand upon every vessel (be it Chalice or Flagon) in which there is any Wine to be consecrated.
 
 ## The Communion
 
-> Then shall the minister fyrste receyve the Communion in bothe kyndes him selfe, and next deliver it to other Ministers (yf any be there present, that they may helpe the chief minister) and after to the people in their handes kneling.
-> And when he delivereth the breade, he shall say.
+> Then shall the Minister first receive the Communion in both kinds himself, and then proceed to deliver the same to the Bishops, Priests, and Deacons, in like manner, (if any be present,) and after that to the people also in order, into their hands, all meekly kneeling.
+> And, when he delivereth the Bread to any one, he shall say,
 
-THE body of our lord Jesu Christ, which was geven for the, preserve thy body and soul into everlastinge life: and take and eate this in remembraunce that Christ died for thee, feede on him in thine heart by faith, with thankesgevynge.
+The Body of our Lord Jesus Christ, which was given for thee, preserve thy body and soul unto everlasting life: Take and eat this in remembrance that Christ died for thee, and feed on him in thy heart by faith with thanksgiving.
 
-> And the minister that delivereth the cuppe shall say.
+> And the Minister that delivereth the Cup to any one shall say,
 
-THE bloude of our lorde Jesu Christ, which was shedd for the, preserve thy body and soul into everlasting life: and drinke this in remembraunce that Christes bloude was shedde for thee, and be thankeful.
+The Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body and soul unto everlasting life: Drink this in remembrance that Christ's Blood was shed for thee, and be thankful.
+
+> If the consecrated Bread or Wine be all spent before all have communicated, the Priest is to consecrate more according to the Form before prescribed: Beginning at [Our Saviour Christ in the same night, &c.]
+> for the blessing of the Bread: and at [Likewise after Supper, &c.]
+> for the blessing of the Cup.
+
+> When all have communicated, the Minister shall return to the Lord's Table, and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.
 
 ## The Lord's Prayer
 
-> Then shall the priest say the Lordes prayer, the people repetynge after him every peticion.
+> Then shall the Priest say the Lord's Prayer, the people repeating after him every petition.
+
+Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
+For thine is the kingdom, the power, and the glory, For ever and ever.
+Amen.
 
 ## The Prayer of Oblation
 
-> After shalbe said as foloweth.
+> After shall be said as followeth.
 
-O LORDE and heavenly father, we thy humble servaunts, entierly desire thy fatherly goodnes mercifully to accept this our Sacrifice of praise and thankesgeving moste humblye besechynge thee to graunte, that by the merites and death of thy sonne Jesus Christ, and throughe faith in his bloude, we (and all thy whole church,) may obteine remission of our sins, and al other benefites of his passion.
-And here we offer and presente unto the, O Lord, our selves, our souls, and bodies, to be a reasonable, holy, and lively sacrifice unto the, humblye beseching the, that al we which be partakers of this holye communion, may be fulfilled with thy grace, and heavenly benediction.
-And although we be unworthye throughe our manifolde sins, to offer unto the any sacrifice, yet we beseche the to accept this our bounden duty and service, not weighing our merites, but pardoning our offences, throughe Jesus Christ our Lord, by whom and with whom, in the unitie of the holy ghoste, all honour and glorye be unto the, O father almighty, world without ende.
+O Lord and heavenly Father, we thy humble servants entirely desire thy fatherly goodness mercifully to accept this our sacrifice of praise and thanksgiving; most humbly beseeching thee to grant, that by the merits and death of thy Son Jesus Christ, and through faith in his blood, we and all thy whole Church may obtain remission of our sins, and all other benefits of his passion.
+And here we offer and present unto thee, O Lord, ourselves, our souls and bodies, to be a reasonable, holy, and lively sacrifice unto thee; humbly beseeching thee, that all we, who are partakers of this holy Communion, may be fulfilled with thy grace and heavenly benediction.
+And although we be unworthy, through our manifold sins, to offer unto thee any sacrifice, yet we beseech thee to accept this our bounden duty and service; not weighing our merits, but pardoning our offences, through Jesus Christ our Lord; by whom, and with whom, in the unity of the Holy Ghost, all honour and glory be unto thee, O Father Almighty, world without end.
 Amen.
 
 ## The Prayer of Thanksgiving
 
-> Or this,
+> Or this.
 
-ALMIGHTY and everlastinge God, we moste hartely thancke the, for that thou doest vouchsafe to fede us, whiche have duly received these holy misteries, with the spiritual fode of the moste precious body and bloude of thy sonne, our saviour Jesus Christ, and doest assure us therby of thy favour and goodnes towarde us, and that we be very membres incorporate in thy mistical body, whiche is the blessed company of al faithful people, and be also heyres through hope of thy everlasting kingdom, by the merites of the most precious death and passion of thy deare sone.
-We now most humbly beseche the, O hevenly father, so to assist us with thy grace, that we may continue in that holy felowship, and do all suche good workes as thou hast prepared for us to walke in, throughe Jesus Christe our Lord; to whom with the and the holy ghost be all honour and glory, world without ende.
+Almighty and everliving God, we most heartily thank thee, for that thou dost vouchsafe to feed us, who have duly received these holy mysteries, with the spiritual food of the most precious Body and Blood of thy Son our Saviour Jesus Christ; and dost assure us thereby of thy favour and goodness towards us; and that we are very members incorporate in the mystical body of thy Son, which is the blessed company of all faithful people; and are also heirs through hope of thy everlasting kingdom, by the merits of the most precious death and passion of thy dear Son.
+And we most humbly beseech thee, O heavenly Father, so to assist us with thy grace, that we may continue in that holy fellowship, and do all such good works as thou hast prepared for us to walk in; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honour and glory, world without end.
 Amen.
 
 ## Gloria in Excelsis
 
-> Then shalbe said or songe.
+> Then shall be said or sung,
 
-GLORYE be to God on hyghe.
-And in earthe peace, good wyll towardes men.
-We prayse thee, we blesse thee, we worshyppe thee, we glorifye thee, wee geve thanckes to thee, for thy greate glorye.
-O Lorde God, heavenlye Kynge, God the father Almighty.
-O Lorde the only begotten Sonne Jesu Christ.
-O Lord God, Lambe of God, Sonne of the father, that takest awaye the sins of the world, have mercye upon us: Thou that takest awaye the Sins of the world, have mercy upon us.
-Thou that takest away the sins of the world, receive our praier.
-Thou that syttest at the right hande of God the Father, have mercy upon us.
-For thou only art holy: Thou only art the Lorde, thou only O Christe with the holy Ghost, art most highe in the Glory of God the father.
+Glory be to God on high, and in earth peace, good will towards men.
+We praise thee, we bless thee, we worship thee, we glorify thee, we give thanks to thee for thy great glory, O Lord God, heavenly King, God the Father Almighty.
+
+O Lord, the only-begotten Son, Jesu Christ; O Lord God, Lamb of God, Son of the Father, that takest away the sins of the world, have mercy upon us.
+Thou that takest away the sins of the world, have mercy upon us.
+Thou that takest away the sins of the world, receive our prayer.
+Thou that sittest at the right hand of God the Father, have mercy upon us.
+
+For thou only art holy; thou only art the Lord; thou only, O Christ, with the Holy Ghost, art most high in the glory of God the Father.
 Amen.
 
 ## The Blessing
 
-> Then the Priest or the Byshop, if he be present, shal let them depart with this blessing.
+> Then the Priest (or Bishop if he be present) shall let them depart with this Blessing.
 
-THE peace of God, which passeth all understanding, kepe youre hartes, and mindes in the knowlege and love of God, and of his Sonne Jesu Christe, oure Lorde.
-And the blessing of God almyghty, the Father, the Sonne, and the holy Ghost, be among you, and remayne with you alwaies.
+The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: And the blessing of God Almighty, the Father, the Son, and the Holy Ghost, be amongst you and remain with you always.
 Amen.
 
 ## The Rubrics
 
-> Collectes to be said after thofertory when there is no Communion; every suche daye one.
-> And thesame maye be said also as often as occasion shall serve, after the Collectes, either of Morning and Evening Praier, Communion, or Letany, by the discretion of the minister.
+> Collects to be said after the Offertory, when there is no Communion, every such day one or more; and the same may be said also, as often as occasion shall serve, after the Collects either of Morning or Evening Prayer, Communion, or Litany, by the discretion of the Minister.
 
-ASSIST us mercifully, O Lorde, in these our Supplications and Praiers, and dispose the way of thy servauntes towarde the attainement of everlasting salvation, that emong al the chaunges, and chaunces of this mortal lyfe, thei may ever be defended by thy moste gratious, and redy helpe.
-Through Christ our Lorde.
+Assist us mercifully, O Lord, in these our supplications and prayers, and dispose the way of thy servants towards the attainment of everlasting salvation; that, among all the changes and chances of this mortal life, they may ever be defended by thy most gracious and ready help; through Jesus Christ our Lord.
 Amen.
 
-O ALMIGHTY Lorde and everlivyng God, vouchesafe we beseche the, to direct, sanctifie, and governe bothe oure heartes, and bodies, in the wayes of thy lawes, and in the worckes of thy commaundementes, that through thy most mighty protection, both here and ever, we maye bee preserved in bodye and Soul: throughe oure lorde and Savioure Jesus Christe.
+O Almighty Lord, and everlasting God, vouchsafe, we beseech thee, to direct, sanctify, and govern, both our hearts and bodies, in the ways of thy laws, and in the works of thy commandments; that through thy most mighty protection, both here and ever, we may be preserved in body and soul; through our Lord and Saviour Jesus Christ.
 Amen.
 
-GRAUNT we beseche the almighty God, that the words which we have herd this daye with our outward eares, may through thi grace be so graffed inwardly in our hartes, that they may bring furth in us the fruite of good living, to the honour and praise of thy name: throughe Jesus Christ our Lorde.
+Grant, we beseech thee, Almighty God, that the words, which we have heard this day with our outward ears, may through thy grace be so grafted inwardly in our hearts, that they may bring forth in us the fruit of good living, to the honour and praise of thy Name; through Jesus Christ our Lord.
 Amen.
 
-PREVENTE us O Lorde in all our doynges, with thy most gratious favoure, and further us with thy continuall helpe, that in al our workes begonne, continued, and ended in the: we may glorify thy holy name, and finally by thy mercy, obteine everlasting lyfe, Through Jesus Christ our Lorde.
+Prevent us, O Lord, in all our doings with thy most gracious favour, and further us with thy continual help; that in all our works, begun, continued, and ended in thee, we may glorify thy holy Name, and finally by thy mercy obtain everlasting life; through Jesus Christ our Lord.
 Amen.
 
-ALMIGHTY God, the founteine of all wisedom, which knowest oure necessities before we aske, and our ignoraunce in asking, we beseche the to have compassion upon our infirmities, and those thinges which for our unworthiness we dare not, and for oure blindenes we cannot aske, vouchesafe to geve us for the worthines of thy sonne Jesus Christe our Lorde.
+Almighty God, the fountain of all wisdom, who knowest our necessities before we ask, and our ignorance in asking: We beseech thee to have compassion upon our infirmities; and those things, which for our unworthiness we dare not, and for our blindness we cannot ask, vouchsafe to give us for the worthiness of thy Son Jesus Christ our Lord.
 Amen.
 
-ALMIGHTY God, whiche haste promysed to here the peticions of them that aske in thy sonnes name, we beseche the mercifully to encline thine Eares to us that have made nowe nowe our praiers and supplications unto the, and graunt that those thinges which we have faithfully asked, according to thy wil, may effectually be obteined to the relief of our necessitie, and to the setting furth of thy glory through Jesus Christ our Lorde.
+Almighty God, who hast promised to hear the petitions of them that ask in thy Son's Name: We beseech thee mercifully to incline thine ears to us that have made now our prayers and supplications unto thee; and grant that those things, which we have faithfully asked according to thy will, may effectually be obtained, to the relief of our necessity, and to the setting forth of thy glory; through Jesus Christ our Lord.
 Amen.
 
-> Upon thle holy dales (jf there be no Communion,) shalbe said at that is appointed at the Communion, untyll the ende of the homely, concluding with the generall praier, far the whole estate of Christes Church militant here in earth, and one, or moe of these Collectes before rehersed, as occasian shall serve.
+> Upon the Sundays and other Holy-days (if there be no Communion) shall be said all that is appointed at the Communion, until the end of the general Prayer [For the whole state of Christ's Church militant here in earth] together with one or more of these Collects last before rehearsed, concluding with the Blessing.
 
-> And there shalbe no celebration of the lordes supper except there be a good number to Communicate wyth the Priest, accardinge to his dyscretion.
+> And there shall be no Celebration of the Lord's Supper, except there be a convenient number to communicate with the Priest, according to his discretion.
+> And if there be not above twenty persons in the Parish of discretion to receive the Communion: yet there shall be no Communion, except four (or three at the least) communicate with the Priest.
 
-> And yf there be not above xx persons in the Parish of discretion to receyve the Communion, yet there shalbe no communion except foure or thre at the least communicate with the priest And in Cathedral and collegiate churches, where be many Priestes and Deacons, they shall all receyve the communion with the minister every Sonday at the leaste, except they have a reasonable cause to the contrary.
+> And in Cathedral and Collegiate Churches, and Colleges, where there are many Priests and Deacons, they shall all receive the Communion with the Priest every Sunday at the least, except they have a reasonable cause to the contrary.
 
-> And to take awaye the superstition, whiche any person hath, or myghte have in the breade and wyne, it shall suffice that the breade be suche as is usual to be eaten at the table, with other meates, but the beste and purest wheate breade, that conveniently may be gotten.
-> And yf anye of the breade or wyne remaine, the Curate shall have it to hys owne use.
+> And to take away all occasion of dissension, and superstition, which any person hath or might have concerning the Bread and Wine, it shall suffice that the Bread be such as is usual to be eaten; but the best and purest Wheat Bread that conveniently may be gotten.
 
-> The bread and wyne for the Communion shalbe provided by the Curate, and the church wardeines, at the charges of the Paryshe, and the paryshe shalbe discharged of suche summes of money, or other duties, which hitherto they have payed far the same by order of their houses every Sondaye.
+> And if any of the Bread and Wine remain unconsecrated, the Curate shall have it to his own use: but if any remain of that which was consecrated, it shall not be carried out of the Church, but the Priest, and such other of the Communicants as he shall then call unto him, shall, immediately after the Blessing, reverently eat and drink the same.
 
-> And note that every Parishioner shall communicate, at the leaste thre tymes in the yere, of whiche Easter to be one: and shall also receyve the sacramentes, and other rytes, accordinge to the order in this boke appoincted.
-> And yerely at Easter, every Parishioner shall recon with his Person, Vicar or Curate, or his, or their deputie or deputies, and paye to them or hym, all ecclesiastical duties, accustomably due then and at that tyme to be payed.
+> The Bread and Wine for the Communion shall be provided by the Curate and the Church-wardens at the charges of the Parish.
+
+> And note, that every Parishioner shall communicate at the least three times in the year, of which Easter to be one.
+> And yearly at Easter every Parishioner shall reckon with the Parson, Vicar, or Curate, or his or their Deputy or Deputies; and pay to them or him all Ecclesiastical Duties, accustomably due, then and at that time to be paid.
+
+> After the Divine Service ended, the money given at the Offertory shall be disposed of to such pious and charitable uses, as the Minister and Church-wardens shall think fit.
+> Wherein if they disagree, it shall be disposed of as the Ordinary shall appoint.
+
+> Whereas it is ordained in this office for the Administration of the Lord's Supper, that the Communicants should receive the same kneeling; (which order is well meant, for a signification of our humble and grateful acknowledgement of the benefits of Christ therein given to all worthy Receivers, and for the avoiding of such profanation and disorder in the holy Communion, as might otherwise ensue;) yet, lest the same kneeling should by any persons, either out of ignorance and infirmity, or out of malice and obstinacy, be misconstrued and depraved: It is here declared, that thereby no Adoration is intended, or ought to be done, either unto the Sacramental Bread or Wine there bodily received, or unto any Corporal Presence of Christ's natural Flesh and Blood.
+> For the Sacramental Bread and Wine remain still in their very natural substances, and therefore may not be adored; ( for that were Idolatry, to be abhorred of all faithful Christians;) and the natural Body and Blood of our Saviour Christ are in Heaven, and not here; it being against the truth of Christ's natural Body to be at one time in more places than one.

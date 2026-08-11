@@ -1,225 +1,190 @@
-# A Commination against Sinners, with certaine Prayers, to be used divers times in the yere.
+# A Commination, or Denouncing of God's Anger and Judgements against Sinners, with certain prayers to be used on the first day of Lent, and at other times, as the ordinary shall appoint.
 
 ## The Introduction
 
-> After Mornyng prayer, the people beyng called together by the ringyng of a Bel, and assembled in the Churche, thenglish Letany shalbe saide after thaccustomed maner, whyche ended the priest shal go into the pulpit and saie thus.
+> After Morning Prayer, the Litany ended, according to the accustomed manner, the Priest shall in the reading Pew or Pulpit say,
 
-BRETHREN, in the Prymatyve churche there was a godly discipline, that at the beginyng of Lent, suche personnes as were notoryus Synners, were putte to open penaunce and punyshed in thys world, that their soules might be saved in the daie of the lord.
-And that others admonyshed by theyr example myght be more afrayde to offende.
-In the stede wherof (untill the sayde Discypline maye be restored agayne, whyche thynge is muche to be wyshed) it is thought good that at this time (in your presence) shoulde be redde the general sentences of goddes cursyng agaynst impenitent Synners, gathered out of the .xxvii.
-Chapiter of Deuteronomye, and other places of Scripture.
-And that ye shoulde aunswere to every sentence.
-Amen.
-To thyntent that you being admonished of the great indignation of God against Synners: may the rather be called to earnest and true repentaunce, and maye walke more warely in these daungerous daies, flieing from suche vices, for the whyche ye affirme wyth your owne mouthes, the Curse of God to be due.
+BRETHREN, in the primitive Church there was a godly discipline, that, at the beginning of Lent, such persons as stood convicted of notorious sin were put to open penance, and punished in this world, that their souls might be saved in the day of the Lord; and that others, admonished by their example, might be the more afraid to offend.
+
+Instead whereof, until the said discipline may be restored again, (which is much to be wished,) it is thought good that at this time (in the presence of you all) should be read the general sentences of God's cursing against impenitent sinners, gathered out of the seven and twentieth chapter of Deuteronomy, and other places of Scripture; and that ye should answer to every sentence, Amen: To the intent that, being admonished of the great indignation of God against sinners, ye may the rather be moved to earnest and true repentance; and may walk more warily in these dangerous days; fleeing from such vices, for which ye affirm with your own mouths the curse of God to be due.
 
 ## The Curses
 
-CURSED is the man that maketh any carved, or molten Image, an abhomination to the Lorde, the worke of the handes of the craftes man, and putteth it in a secrete place to worship it.
+Cursed is the man that maketh any carved or molten image, to worship it.
 
-> And the people shal aunswere and saie
+> And the people shall answer and say,
 
 Amen.
 
-**Minister.** Cursed is he that cursethe his father, or mother.
+**Minister.** Cursed is he that curseth his father or mother.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is hee that removeth away the marcke of hys neyghbours lande.
+**Minister.** Cursed is he that removeth his neighbour's land-mark.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is he that maketh the blynde to go oute of hys way.
+**Minister.** Cursed is he that maketh the blind to go out of his way.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is he that, letteth in judgmet, the right of the straunger, of them that be fatherles, and of widdowes.
-<!-- VERIFY: source prints 'judgmet'; likely 'judgment' (missing 'n'); kept as printed; confirm against a page scan -->
+**Minister.** Cursed is he that perverteth the judgement of the stranger, the fatherless, and widow.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is he that smiteth his neighbour secretlye.
+**Minister.** Cursed is he that smiteth his neighbour secretly.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is he that lieth with his neighbours wife.
+**Minister.** Cursed is he that lieth with his neighbour's wife.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed is he that taketh rewarde to slea the Soule of innocent bloude.
+**Minister.** Cursed is he that taketh reward to slay the innocent.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Curseth is he that putteth hys trust in manne, and taketh manne for hys defence, and in hys harte goeth from the Lorde.
-<!-- VERIFY: source prints 'Curseth'; every parallel curse reads 'Cursed'; likely a 'd'->'th' OCR scanno; kept as printed; confirm against a page scan -->
+**Minister.** Cursed is he that putteth his trust in man, and taketh man for his defence, and in his heart goeth from the Lord.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
-**Minister.** Cursed are the unmerciful, the fornicatours, and adulterers, and the couetous persones, the worshippers of ymages, slaunderers, dronkardes, and extorcioners.
+**Minister.** Cursed are the unmerciful, fornicators, and adulterers, covetous persons, idolaters, slanderers, drunkards, and extortioners.
 
-**Aunswere.** Amen.
+**Answer.** Amen.
 
 ## The Exhortation
 
-**The Minister.** Nowe seyng that all they be accursed (as the Prophete David beareth wytnesse) Psa. cxviii.
-whyche do erre, and go astraye from the cornmaundernentes of God, let us remembring the dreadful judgemente hanginge over our heddes, and beyng always at hande returne unto oure Lorde God, with all contricion and mekenes of hearte, bewailynge and lamenting our synful lyfe, knowledging and confessing our offences, and sekynge to brynge furth worthie fruictes of penaunce.
-For nowe is the Axe put unto the roote of the trees, so that every tree which bringeth not furth good fruict, is hewen downe and cast into the fire.
-Math. iii.
-It is a fearfull thing to falle into the handes of the lyvinge God: Heb. x.
-he shal poure doune raine upon the synners, Snares, fyre, and brimstone, storme and tempeste, thys shalbe their portion to drincke.
-Psal. x.
-For lo, the Lorde is comen out of his place, to visite the wickednesse of suche as dwel upon the earth.
-Esai.
-xxvi.
-But who may abyde the daye of his comming?
-Who shalbe able to endure, when he apereth?
-Mal. iii.
-His fanne is in his hande, and he wyll pourge hys floore, and gather his wheate into the barne, but he wyl burne the chaffe with unquenchable fyre.
-Math. iii.
-The daye of the Lord commeth as a thefe upon the night, and when men shall saye peace, and all thinges are saufe, then shal soubdenly destruction come upon them, as sorowe commeth uppon a woman travailyng with childe, and they shall not escape.
-i.
-Thes.
-v.
-Then shall appeare the wrathe of God in the day of vengeance, which obstinate sinners, throughe the stubburnnes of theyr hearte, have heaped unto them selfe, Rom. ii.
-whyche despysed the goodnes, pacyence, and longe sufferaunce of God, when he called them continually to repentaunce.
-Then shall they call upon me, sayeth the Lorde, but I wyll not heare: they shall seke me early, but they shall not fynde me: and that because they hated knowledge, and receyved not the feare of the Lorde, but abhorred my counsail, and dispised my correcyon, Prover.
-i.
-then shall it be to late to knocke, when the dore shalbe shutte, and to late to crye for mercye, when it is the tyrne of Justice.
-O terryble voyce of most just judgement, whiche shalbe pronounced upon them, when it shalbe sayde unto them: Go, ye cursed, into the fyre everlastynge, whyche is prepared for the devill and hys Aungeles.
-Mat.
-xxv.
-Therfore brethren take we hede by tyme, whyle the daie of salvacion lasteth, ii.
-Cor. vi.
-for the nyght commeth when none can worke: Jhon ix.
-but let us whyle we have the lyght, beleve in the lyghte, and walke as the children of the lyght, that we be not caste into the utter darckenes, where is wepyinge and gnasshynge of teeth.
-Mat.
-xxv.
-Lette us not abuse the goodnes of God, whyche calleth us mercyfully to amendement, and of hys endelesse pytye promysed us forgevenesse of that whyche is paste: If (wyth a whole mynde and true hearte) we returne unto hym.
-For though our synnes be red as scarlet, they shalbe as whyte as snowe, and thoughe they be lyke purple, yet shall they be as whyte as wolle.
-Esay.
-i.
-Turne you cleane (sayeth the Lorde) from all your wickednes, and your synne shal not be your destruction.
-Ezechiel xxviii.
-Cast awaye from you all your ungodlynes that ye have done: make you newe heartes, and a newe spiryte: wherfore wyll ye dye, O ye house of Israell?
-Seiyng that I have no pleasure in the deathe of hym that dyeth (sayeth the Lorde God.)
-Turne you then, and you shall lyve.
-Although we have synned, yet have we an advocate with the Father, Jesus Christe the ryghteous, and he it is that obteyneth grace for our synnes, i.
-Jhon ii.
-for he was wounded for our offences, and smytten for our wyckednesse.
-Esai.
-liii.
-Let us therfore returne unto hym, who is the mercifull receyver of all true penitent sinners, assuring oure selfe that he is ready to receyve us, and most willyng to pardone us, yf we come to him, with faythfull repentaunce.
-Yf we will submit our selves unto him, and from hencefurthe walke in his wayes.
-Yf we will take hys easy yoke, and lighte burthen upon us, Math. xi.
-to folowe hym in lowlines, pacience, and charitie, and be ordered by the governaunce of hys holy spirite, seking alwayes his glorie, and servyng hym duely in our vocation with thankes gevynge.
-This yf we do, Christ wil deliver us from the curse of the law, and from the extreme malediction, which light upon theym, that shalbe set on the left hand, and he wyll set us on hys ryght hande, and geve us the blessed benediction of hys father, commaundynge us to take possession of his gloryous kyngdome, Math. xxv.
-unto the whiche he vouchesaufe to brynge us al, for hys infinite mercye.
-<!-- VERIFY: source prints 'cornmaundernentes'; likely 'commaundementes' (rn->m OCR scannos); kept as printed; confirm against a page scan -->
-<!-- VERIFY: source prints 'soubdenly'; likely 'sodenly' (stray 'b'); kept as printed; confirm against a page scan -->
-<!-- VERIFY: source prints 'tyrne of Justice'; likely 'tyme' (rn->m OCR scanno); kept as printed; confirm against a page scan -->
+**Minister.** Now seeing that all they are accursed (as the prophet David beareth witness) who do err and go astray from the commandments of God; let us (remembering the dreadful judgement hanging over our heads, and always ready to fall upon us) return unto our Lord God with all contrition and meekness of heart; bewailing and lamenting our sinful life, acknowledging and confessing our offences, and seeking to bring forth worthy fruits of penance.
+For now is the axe put unto the root of the trees, so that every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
+It is a fearful thing to fall into the hands of the living God: He shall pour down rain upon the sinners, snares, fire and brimstone, storm and tempest; this shall be their portion to drink.
+For lo, the Lord is come out of his place to visit the wickedness of such as dwell upon the earth.
+But who may abide the day of his coming?
+Who shall be able to endure when he appeareth?
+His fan is in his hand, and he will purge his floor, and gather his wheat into the barn; but he will burn the chaff with unquenchable fire.
+The day of the Lord cometh as a thief in the night: and when men shall say, Peace, and all things are safe, then shall sudden destruction come upon them, as sorrow cometh upon a woman travailing with child, and they shall not escape.
+Then shall appear the wrath of God in the day of vengeance, which obstinate sinners, through the stubbornness of their heart, have heaped unto themselves; which despised the goodness, patience, and long-sufferance of God, when he calleth them continually to repentance.
+Then shall they call upon me (saith the Lord) but I will not hear; they shall seek me early, but they shall not find me; and that, because they hated knowledge, and received not the fear of the Lord, but abhorred my counsel, and despised my correction.
+Then shall it be too late to knock, when the door shall be shut; and too late to cry for mercy, when it is the time of justice.
+O terrible voice of most just judgement, which shall be pronounced upon them, when it shall be said unto them, Go, ye cursed, into the fire everlasting, which is prepared for the devil and his angels.
+Therefore, brethren, take we heed betime, while the day of salvation lasteth; for the night cometh, when none can work: But let us, while we have the light, believe in the light, and walk as children of the light; that we be not cast into utter darkness, where is weeping and gnashing of teeth.
+Let us not abuse the goodness of God, who calleth us mercifully to amendment, and of his endless pity promiseth us forgiveness of that which is past, if with a perfect and true heart we return unto him.
+For though our sins be as red as scarlet, they shall be made white as snow; and though they be like purple, yet they shall be made white as wool.
+Turn ye (saith the Lord) from all your wickedness, and your sin shall not be your destruction: Cast away from you all your ungodliness that ye have done: Make you new hearts, and a new spirit: Wherefore will ye die, O ye house of Israel?
+seeing that I have no pleasure in the death of him that dieth, saith the Lord God.
+Turn ye then, and ye shall live.
+Although we have sinned, yet have we an Advocate with the Father, Jesus Christ the righteous; and he is the propitiation for our sins.
+For he was wounded for our offences, and smitten for our wickedness.
+Let us therefore return unto him, who is the merciful receiver of all true penitent sinners; assuring ourselves that he is ready to receive us, and most willing to pardon us, if we come unto him with faithful repentance; if we submit ourselves unto him, and from henceforth walk in his ways; if we will take his easy yoke and light burden upon us, to follow him in lowliness, patience, and charity, and be ordered by the governance of his Holy Spirit; seeking always his glory, and serving him duly in our vocation with thanksgiving.
+This if we do, Christ will deliver us from the curse of the law, and from the extreme malediction which shall light upon them that shall be set on the left hand; and he will set us on his right hand, and give us the gracious benediction of his Father, commanding us to take possession of his glorious kingdom: Unto which he vouchsafe to bring us all, for his infinite mercy.
+Amen.
 
 ## The Psalm
 
-> Then shall they all knele upon theyr knees: And the Priestes and Clerckes knelynge (were they are accustomed to saye the Letany) shall say thy: Psalme.
-> Miserere mei Deus.
-<!-- VERIFY: source rubric prints 'were' (likely 'where') and 'shall say thy: Psalme' (likely 'this'); both look like OCR errors; kept as printed; confirm against a page scan -->
+> Then shall they all kneel upon their knees, and the Priest and Clerks kneeling (in the place where they are accustomed to say the Litany) shall say this Psalm.
 
-HAVE mercy upon me, O God after thy great goodnes, according to the multitud of thy mercyes, do away myne offences,
-<!-- VERIFY: source prints 'multitud'; likely 'multitude' (missing 'e'); kept as printed; confirm against a page scan -->
+Miserere mei, Deus.
+Psalm 51
 
-Washe me throughly from my wyckednes and clense me from my synne.
+Have mercy upon me, O God, after thy great goodness : according to the multitude of thy mercies do away mine offences.
 
-For I acknowledge my faultes, and my synne is ever before me.
+Wash me throughly from my wickedness : and cleanse me from my sin.
 
-Against the onely have I synned, and done this evyll in thy sight, that thou mightest be justyfyed in thy sayeng, and cleare when thou art judged.
+For I acknowledge my faults : and my sin is ever before me.
 
-Beholde, I was shapen in wickednesse, and in synne hath my mother conceived me.
+Against thee only have I sinned, and done this evil in thy sight : that thou mightest be justified in thy saying, and clear when thou art judged.
 
-But lo, thou requirest trueth in inwarde parties, and shalt make me to understande wisedome secretlye.
+Behold, I was shapen in wickedness : and in sin hath my mother conceived me.
 
-Thou shalte purge me with hysoppe, and I shall be cleane, thou shalt washe me, and I shall be whyter then Snowe.
+But lo, thou requirest truth in the inward parts : and shalt make me to understand wisdom secretly.
 
-Thou shalt make me here of joy and gladnesse : that the bones whiche thou hast broken may rejoyce.
+Thou shalt purge me with hyssop, and I shall be clean : thou shalt wash me, and I shall be whiter than snow.
 
-Turne thy face from my sinnes : and put oute all my misdedes.
+Thou shalt make me hear of joy and gladness : that the bones which thou hast broken may rejoice.
 
-Make me a cleane hearte (O God:) and renue a right spirite within me.
+Turn thy face away from my sins : and put out all my misdeeds.
 
-Cast me not away from thy presence : and take not thy holy spirite from me.
+Make me a clean heart, O God : and renew a right spirit within me.
 
-O geve me the comforte of thy helpe agayne : and stablysh me with thy free spirite.
+Cast me not away from thy presence : and take not thy holy Spirit from me.
 
-Then shall I teache thy wayes unto the wicked : and sinners shalbe converted unto the.
+O give me the comfort of thy help again : and stablish me with thy free Spirit.
 
-Deliver me from bloude giltines (O God) thou that art the God of my healthe : and my tonge shall synge of thy ryghteousnes.
+Then shall I teach thy ways unto the wicked : and sinners shall be converted unto thee.
 
-Thou shalte open my lyppes (O Lord) my mouth shal shewe thy prayse.
+Deliver me from blood-guiltiness, O God, thou that art the God of my health : and my tongue shall sing of thy righteousness.
 
-For thou desirest no sacrifice, els woulde I geve it the : but thou delightest not in burnt offerynge.
+Thou shalt open my lips, O Lord : and my mouth shall shew thy praise.
 
-The sacrifice of God is a troubled spirite : a broken and a contrite hearte O God, shalte thou not despise.
+For thou desirest no sacrifice, else would I give it thee : but thou delightest not in burnt-offering.
 
-O be favourable and gracious unto Sion : builde thou the walles of Jerusalem.
+The sacrifice of God is a troubled spirit : a broken and contrite heart, O God, shalt thou not despise.
 
-Then shalt thou be pleased with the sacrifice of rightuousnesse, with the burnt offerynges and oblations : then shall they offer yong bullockes upon thine aultare.
+O be favourable and gracious unto Sion : build thou the walls of Jerusalem.
 
-Glory bee to the Father, and to the Sonne, and to the holy Ghoste.
+Then shalt thou be pleased with the sacrifice of righteousness, with the burnt-offerings and oblations : then shall they offer young bullocks upon thine altar.
 
-As it was in the beginning, is nowe, and ever shal be world without ende.
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+
+**Answer.** As it was in the beginning, is now, and ever shall be : world without end.
 Amen.
 
 ## The Lord's Prayer
 
-Lorde have mercy upon us.
+Lord, have mercy upon us.
 
-Christ have mercy upon us.
+Christ, have mercy upon us.
 
-Lorde have mercy upon us.
+Lord, have mercy upon us.
 
-> Our father which arte in heaven.
-> &c.
-
-And leade us not into temptacion.
-
-**Aunswere.** But deliver us from evil.
+Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
 Amen.
 
 ## The Suffrages
 
-**Minister.** O Lorde save thy servauntes.
+**Minister.** O Lord, save thy servants;
 
-**Aunswere.** Whiche put their trust in the.
+**Answer.** That put their trust in thee.
 
-**Minister.** Sende unto them helpe from above.
-<!-- VERIFY: source prints the label 'Minis/er.'; clearly 'Minister.'; rendered as the printed speaker designation -->
+**Minister.** Send unto them help from above.
 
-**Aunswere.** And evermore mightely defende them.
+**Answer.** And evermore mightily defend them.
 
-**Minister.** Help us, O God our saviour.
+**Minister.** Help us, O God our Saviour.
 
-**Aunswere.** And for the glorye of thy names sake deliver us, bee mercyfull unto us synners, for thy names sake.
+**Answer.** And for the glory of thy Name deliver us; be merciful unto us sinners, for thy Name's sake.
 
-**The Minister.** Lorde heare my praiers.
+**Minister.** O Lord, hear our prayer.
 
-**Aunswere.** And let our crie come unto thee.
+**Answer.** And let our cry come unto thee.
 
 ## The Prayers
 
-> Let us praye.
+**Minister.** Let us pray.
 
-O LORD, we beseche the, mercifully heare our prayers, and spare al those which confesse their sinnes to the, that they (whose consciences by sin are accused) by thy merciful pardon may be absolved, throughe Christ our Lorde.
+O Lord, we beseech thee, mercifully hear our prayers, and spare all those who confess their sins unto thee; that they, whose consciences by sin are accused, by thy merciful pardon may be absolved; through Christ our Lord.
 Amen.
 
-O MOSTE mighty God, and mercyfull father which haste compassion of al men, and hatest nothing that thou haste made: whiche wouldest not the deathe of a synner, but that he should rather turne from synne, and be saved: mercifully forgeve us oure trespasses, and comforte us, whiche be grieved and weryed with the burden of oure synne.
-Thy propertye is to have mercy, to the onlye it apperteineth to forgeve synnes: spare us therefore good Lorde, spare thy people whom thou haste redemed.
-Enter not into judgement wyth thy servauntes, whiche be vyle earthe, and miserable synners, but so turne thyne yre from us whyche mekely knowledge oure vylenes, and trulye repente us of our faultes: so make haste to helpe us in this worlde, that we maye ever live wyth thee in the worlde to come, throughe Jesus Christe oure Lorde.
+O most mighty God, and merciful Father, who hast compassion upon all men, and hatest nothing that thou hast made; who wouldest not the death of a sinner, but that he should rather turn from his sin, and be saved: Mercifully forgive us our trespasses; receive and comfort us, who are grieved and wearied with the burden of our sins.
+Thy property is always to have mercy; to thee only it appertaineth to forgive sins.
+Spare us therefore, good Lord, spare thy people, whom thou hast redeemed; enter not into judgement with thy servants, who are vile earth, and miserable sinners; but so turn thine anger from us, who meekly acknowledge our vileness, and truly repent us of our faults, and so make haste to help us in this world, that we may ever live with thee in the world to come; through Jesus Christ our Lord.
 Amen.
 
 ## Turn Thou Us
 
-> Then shall the people saye this that foloweth after the Minister.
+> Then shall the people say this that followeth, after the Minister.
 
-TURNE thou us, O good Lorde, and so shall we be turned: be favourable O Lorde bee favourable too thy people, whyche turne to the, in wepynge, fastyng, and prayinge, for thou art a mercifull God, full of compassion, longe sufferynge, and of a great pitie.
-Thou sparest when we deserve punishment, and in thy wrathe thynkest upon mercye, spare thy people good Lorde, spare theym, and let not thy heritage be brought to confusion: heare us O Lorde for thy mercy is greate, and after the multitude of thy mercies, loke upon us.
+Turn thou us, O good Lord, and so shall we be turned.
+Be favourable, O Lord, Be favourable to thy people, Who turn to thee in weeping, fasting, and praying.
+For thou art a merciful God, Full of compassion, long-suffering, and of great pity.
+Thou sparest when we deserve punishment, And in thy wrath thinkest upon mercy.
+Spare thy people, good Lord, Spare them, and let not thine heritage be brought to confusion.
+Hear us, O Lord, for thy mercy is great, And after the multitude of thy mercies look upon us; Through the merits and mediation of thy blessed Son, Jesus Christ our Lord.
+Amen.
 
-Psal. li.
-<!-- VERIFY: source prints 'Psal. li.' as a detached final line after the Turn Thou Us prayer (the psalm citation for the Miserere); kept in printed position; confirm against a page scan -->
+## The Blessing
+
+> Then the Minister alone shall say,
+
+The Lord bless us, and keep us; the Lord lift up the light of his countenance upon us, and give us peace, now and for evermore.
+Amen.

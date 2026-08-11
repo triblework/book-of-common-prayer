@@ -1,80 +1,83 @@
-# Confirmacion, wherein is conteined a Catechisme for children.
+# The Order of Confirmation
 
-<!-- 1604 Confirmation derived from the 1559 office via the justus 1559 apparatus (no separate 1604 page survives on justus): the 1604 book removes 'bothe' from the versicle response ('Which hath made heaven and earth') and reads 'prayers' for 'prayer' ('Lord hear our prayers'). The 1604-added Catechism material (the sacraments Q&A) belongs to the Catechism service (a later wave), not this office. -->
+or Laying on of Hands upon those that are baptized and come to years of discretion
 
 ## The Preface
 
-> TO thende that confirmacion may be ministred to the more edifying of suche, as shal receive it (according unto S.
-> Paules doctrine, who teacheth that al things should he doen in ye Church, to the edification of the same) it is thought good that none hereafter shalbe confyrmed but suche as can saie in their mother tongue the articles of the faith, the Lordes praier, and the x Commaundementes: And can also answere to suche questions of this short Catechisme, as the Bishop (or suche as he shal appoinct) shal by hys discretion appose theim in.
-> And this order is most convenient to be observed for divers consideracions.
-<!-- VERIFY: source prints 'should he doen'; likely 'should be doen'; kept as printed; confirm against a page scan -->
+> Upon the day appointed, all that are to be then confirmed, being placed, and standing in order before the Bishop; he (or some other Minister appointed by him) shall read this Preface following.
 
-> First, because that when children come to the yeres of discrecion, and have learned what their godfathers and godmothers promised for them in Baptisme, they may then themselves wyth their owne mouthe, and wyth their awne consent, openly before the Church, ratifie and confyrme the same, and also promise that by the grace of God, they shall evermore endevour themselfes faithfully to observe and kepe suche thynges, as they by theyr owne mouth and confession have assented unto.
+> To the end that Confirmation may be ministered to the more edifying of such as shall receive it, the Church hath thought good to order, That none hereafter shall be confirmed, but such as can say the Creed, the Lord's Prayer, and the Ten Commandments; and can also answer to such other Questions, as in the short Catechism are contained: which order is very convenient to be observed; to the end that children being now come to the years of discretion, and having learned what their Godfathers and Godmothers promised for them in Baptism, they may themselves, with their own mouth and consent, openly before the Church, ratify and confirm the same; and also promise, that by the grace of God they will evermore endeavour themselves faithfully to observe such things, as they by their own confession have assented unto.
 
-> Secondly, forasmuche as Confirmacion is ministred to theym that be Baptised, that by imposition of handes and prayer, they may receive strengthe and defence against all temptacions to sin, and the assaultes of the world and the Devill: it is most mete to be ministred when children come to that age, that partely by the frailtye of their awne fleshe, partely by the assaultes of the world and the Devil, thei begyn to be in daunger to fal into sondry kyndes of sin.
+## The Renewal of Vows
 
-> Thirdly, for that it is agreable wyth the usage of the Church, in times paste, wherby it was ordeined that Confirmacion shoulde he ministred to them that were of perfecte age, that they, beyng instructed in Christes religion, should openly professe their awne faithe, and promise to be obedient unto the wyl of God.
-<!-- VERIFY: source prints 'shoulde he ministred'; likely 'shoulde be ministred'; kept as printed; confirm against a page scan -->
+> Then shall the Bishop say,
 
-> And that no man shal thyncke that any detryment shall come to children by diferring of their Confirmacion; he shal knowe for truth, that it is certeine by Goddes word, that children beyng baptised, have all thynges necessarie for their salvacion, and be undoubtedly saved.
+Do ye here, in the presence of God, and of this Congregation, renew the solemn promise and vow that was made in your name at your Baptism; ratifying and confirming the same in your own persons, and acknowledging yourselves bound to believe and to do all those things, which your Godfathers and Godmothers then undertook for you?
 
-A Catechisme, that is to say, an instruction to be learned of every childe before he be brought to be confirmed of the Bishoppe.
-<!-- The Catechism body (the Question-and-Answer instruction printed here in the source) is transcribed under the Catechism service; this file gives the Confirmation office only. -->
+> And every one shall audibly answer,
+
+I do.
 
 ## The Confirmation
 
-> So sone as the children can say in theyr mother tongue, the articles of the faith, the Lordes prayer, the x.
-> commaundementes, and also can aunswere to such questyone of thys shorte Catechisme, as the Bishoppe (or suche as he shall appoinct) shal by hys discretyon appose them in, then shal they be brought to the Byshop by one that shalbe his godfather or godmother, that every childe may have a witnes of his Confirmacyon.
-<!-- VERIFY: source prints 'questyone'; likely 'questions'; kept as printed; confirm against a page scan -->
+**Bishop.** Our help is in the Name of the Lord;
 
-> And the Bishoppe shal confirme them on this wise.
+**Answer.** Who hath made heaven and earth.
 
-Our helpe is in the name of the Lorde.
+**Bishop.** Blessed be the Name of the Lord;
 
-**Aunswere.** Whiche hath made heaven and earth.
+**Answer.** Henceforth world without end.
 
-**Minister.** Blessed is the name of the Lorde.
+**Bishop.** Lord, hear our prayers.
 
-**Aunswere.** Hencefurthe world without ende.
+**Answer.** And let our cry come unto thee.
 
-**Minister.** Lorde heare our prayers.
+**Bishop.** Let us pray.
 
-**Aunswere.** And let our crie come to the.
-
-> Let us pray.
-
-ALMIGHTYE and everlivyng God, whyche hast vouchedsaufe to regenerate these thy servauntes by water and the holy Ghost; and hast geven unto them forgevenes of al theyr sins: strengthen them we beseche the (O Lorde) with the holy Ghoste the comforter, and daiely encrease in them thy manifolde giftes of grace, the spirit of wisedome and understanding: the spirit of counsail and ghostly strength, the spirit of knowledge and true godlinesse, and fulfyll them (O Lord) with the spirit of thy holy feare.
+Almighty and everliving God, who hast vouchsafed to regenerate these thy servants by Water and the Holy Ghost, and hast given unto them forgiveness of all their sins: Strengthen them, we beseech thee, O Lord, with the Holy Ghost the Comforter, and daily increase in them thy manifold gifts of grace; the spirit of wisdom and understanding; the spirit of counsel and ghostly strength; the spirit of knowledge and true godliness; and fill them, O Lord, with the spirit of thy holy fear, now and for ever.
 Amen.
 
 ## The Imposition of Hands
 
-> Then the Bishop shal laye hys hande upon every childe severally, saying,
+> Then all of them in order kneeling before the Bishop, he shall lay his hand upon the head of every one severally, saying,
 
-DEFENDE, O Lorde, this childe with thy heavenly grace that he may continue thine for ever, and daiely encrease in thy holy spirit more and more, untill he come unto thy everlastyng kingdome.
+Defend, O Lord, this thy Child [or this thy Servant] with thy heavenly grace, that he may continue thine for ever; and daily increase in thy Holy Spirit, more and more, until he come unto thy everlasting kingdom.
+Amen.
+
+## The Lord's Prayer
+
+> Then shall the Bishop say,
+
+**Bishop.** The Lord be with you.
+
+**Answer.** And with thy spirit.
+
+> And (all kneeling down) the Bishop shall add,
+
+Let us pray.
+
+OUR Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
 Amen.
 
 ## The Collect
 
-> Then shal the Bishop say,
+> And this Collect.
 
-> Let us praie.
+ALMIGHTY and everliving God, who makest us both to will and to do those things that be good and acceptable unto thy divine Majesty; We make our humble supplications unto thee for these thy servants, upon whom (after the example of thy holy Apostles) we have now laid our hands, to certify them (by this sign) of thy favour and gracious goodness towards them.
+Let thy fatherly hand, we beseech thee, ever be over them; let thy Holy Spirit ever be with them; and so lead them in the knowledge and obedience of thy Word, that in the end they may obtain everlasting life; through our Lord Jesus Christ, who with thee and the Holy Ghost liveth and reigneth, ever one God, world without end.
+Amen.
 
-ALMIGHTY everlyvyng God, whiche makest us bothe to will, and to do those thynges that be good, and acceptable unto thy Majestie, we make our humble supplications unto the for these children, upon whome (after the example of thy holy Apostles) we have laied our handes, to certifie theim (by thys signe) of thy favour, and gracious goodnes toward them, let thy fatherly hande we beseche the ever be over them, let thy holy spirit ever be with them, and so leade them in the knowledge and obedience of thy word that in the ende they may obtaine the everlasting lyfe: through our Lorde Jesus Christe, who with the and the holy Ghost liveth and reigneth one God, world without ende.
+O ALMIGHTY Lord, and everlasting God, vouchsafe, we beseech thee, to direct, sanctify, and govern both our hearts and bodies, in the ways of thy laws, and in the works of thy commandments; that through thy most mighty protection, both here and ever, we may be preserved in body and soul; through our Lord and Saviour Jesus Christ.
 Amen.
 
 ## The Blessing
 
-> Then the Bishop shal blesse the children, thus saying.
+> Then the Bishop shall bless them, saying thus,
 
-THE blessing of God almightye, the Father, the Sonne, and the Holy ghoste, be upon you, and remayne with you for ever.
+The blessing of God Almighty, the Father, the Son, and the Holy Ghost, be upon you, and remain with you, for ever.
 Amen.
 
 ## The Rubrics
 
-> The Curate of every paryshe, or some other at his appoinctment, shal diligently upon Sondayes and holy dayes, haulfe an houre before Evenyng prayer, openly in the Church instruct and examyne so many children of his parish sent unto him, as the time wil serve and as he shal thinke convenient, in some part of this Catechisme.
-
-> And al fathers, and mothers, maisters, and dames, shal cause theyr children, servaunts, and prentises (whyche have not learned theyr Catechisme) to come to the Church at the tyme appoyncted, and obediently to heare, and he ordred by the Curate, untyll suche time as they have learned all that is here appoincted for theim to learne.
-> And whensoever the Byshop shall geve knowledge for chyldren to be brought afore him to any convenyent place, for their confirmation: then sheal the Curate of every Paryshe eyther bryng or sende in wrytyng the names of all those children of hys Paryshe, whiche can say the Articles of their faith, the Lordes prayer, and the x Commaundementes, and also how many of them can answere to thother questions conteined in this Catechisme.
-<!-- VERIFY: source prints 'he ordred'; likely 'be ordred'; and 'sheal'; likely 'shal'; kept as printed; confirm against a page scan -->
-
-> And there shall none be admitted to the holy communion; until suche tyme as he can say the Catechisme and be confirmed.
+> And there shall none be admitted to the holy Communion, until such time as he be confirmed, or be ready and desirous to be confirmed.

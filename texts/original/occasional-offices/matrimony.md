@@ -1,284 +1,260 @@
-# The Fourme of Solempnizacion of Matrimonye.
+# The Form of Solemnization of Matrimony
 
 ## The Banns
 
-> FIRST, the banes must be asked thre severall Sondaies or holy daies, in the tyme of service, the people beyng present, after the accustomed maner.
+> First, the Banns of all that are to be married together must be published in the Church three several Sundays, during the time of Morning Service, or of Evening Service, (if there be no Morning Service,) immediately after the second Lesson; the Curate saying after the accustomed manner, I publish the Banns of Marriage between M.
+> of - and N.
+> of -.
+> If any of you know cause, or just impediment, why these two persons should not be joined together in holy Matrimony, ye are to declare it.
+> This is the first [second, or third] time of asking.
 
-> And yf the persons that would be maryed dwell in diverse Paryshes, the banes must be asked in both Parishes and the Curate of the one Paryshe shall not solempnize matrimonye betwyxt them, wythout a certifycate of the banes beyng thryse asked, from the Curate of the other Parysh.
+> And if the persons that are to be married dwell in divers Parishes, the Banns must be asked in both Parishes; and the Curate of the one Parish shall not solemnize Matrimony betwixt them, without a Certificate of the Banns being thrice asked, from the Curate of the other Parish.
 
 ## The Exhortation
 
-> At the date appoincted for solempnizacyon of Matrimonye, the persones to be maryed shal come into the body of the Churche, wyth theyr frendes and neighbours.
-> And there the Pryest shall thus saye.
+> At the day and time appointed for solemnization of Matrimony, the persons to be married shall come into the Body of the Church with their friends and neighbours: and there standing together, the Man on the right hand, and the Woman on the left, the Priest shall say,
 
-DEARELY beloved frendes, we are gathered together here in the sight of God, and in the face of his congregacion, to joyne together this man and this woman in holy matrimony, which is an honorable state, instytuted of God in Paradise, in the time of manes innocencie, signifying unto us the mistical union that is betwixt Christ and his Churche: which holy state Christe adourned and beautified with his presence and firste myracle that he wrought in Cana of Galile, and is commended of sainct Paul to be honourable emong all men, and therfore is not to be enterprised, nor taken in hande unadvisedly, lightly or wantonly, to satisfye mennes carnall lustes and appetytes, lyke brute beastes that have no understandyng; but reverently, discretely, advisedly, soberly, and in the feare of God, duely consideryng the causes for the which matrimony was ordeined.
-One was the procreation of children, to be brought up in the feare and nurtoure of the Lorde, and praise of God.
-Secondly, it was ordeined for a remedy agaynste sinne and to avoide fornication, that suche persones as have not the gifte of continencie might mary, and kepe themselves undefiled membres of Christes body.
-Thirdly, for the mutual societie, helpe, and comfort, that the one ought to have of the other, bothe in prosperity and adversitye, into the whiche holy state these two persones present, come nowe to be joyned.
-Therefore if any man can shewe any just cause, why thei may not lawfully be joyned together let hym now speake, or els hereafter for ever holde his peace.
+Dearly beloved, we are gathered together here in the sight of God, and in the face of this Congregation, to join together this man and this woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man's innocency, signifying unto us the mystical union that is betwixt Christ and his Church; which holy estate Christ adorned and beautified with his presence, and first miracle that he wrought, in Cana of Galilee; and is commended of Saint Paul to be honourable among all men: and therefore is not by any to be enterprised, nor taken in hand, unadvisedly, lightly, or wantonly, to satisfy men's carnal lusts and appetites, like brute beasts that have no understanding; but reverently, discreetly, advisedly, soberly, and in the fear of God; duly considering the causes for which Matrimony was ordained.
+
+First, It was ordained for the procreation of children, to be brought up in the fear and nurture of the Lord, and to the praise of his holy Name.
+
+Secondly, It was ordained for a remedy against sin, and to avoid fornication; that such persons as have not the gift of continency might marry, and keep themselves undefiled members of Christ's body.
+
+Thirdly, It was ordained for the mutual society, help, and comfort, that the one ought to have of the other, both in prosperity and adversity.
+Into which holy estate these two persons present come now to be joined.
+Therefore if any man can shew any just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace.
 
 ## The Charge
 
-> And also speakynge to the persons that shalbe maryed, he shall sale.
-> <!-- VERIFY: source prints 'sale'; likely 'saye'; kept as printed; confirm against a page scan -->
+> And also, speaking unto the persons that shall be married, he shall say,
 
-I REQUIRE and charge you (as you wil aunswere at the dreadful day of judgement, when the secretes of all hartes shalbe disclosed) that if either of you doe knowe any impedyment, why ye may not be lawfully joyned together in Matrimony, that ye confesse it.
-For be ye well assured, that so many as be coupled together, otherwyse than Goddes worde doeth allowe, are not joyned together by God, neither is their Matrimonye lawfull.
+I require and charge you both, as ye will answer at the dreadful day of judgement, when the secrets of all hearts shall be disclosed, that if either of you know any impediment, why ye may not be lawfully joined together in Matrimony, ye do now confess it.
+For be ye well assured, that so many as are coupled together otherwise than God's Word doth allow are not joined together by God; neither is their Matrimony lawful.
 
-> At whyche day of Maryage, if any man do allege and declare any impediment, why they may not be coupled together in matrymony by Gods law, or the lawes of thys realme, and wyll be bound, and sufficient sureties with him to the parties, or els put in a cautyon to the ful value of suche charges, as the persons to be maryed do susteine to prove hys allegation: then the solempnization must be deferred unto suche tyme as the truthe be tried.
-> If no impedyment be alledged, then shall the curate saye unto the man,
+> At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God's law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties; or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried.
+
+> If no impediment be alleged, then shall the Curate say unto the Man,
 
 ## The Consent
 
 N.
-WILT thou have thys woman to thy wedded wyfe, to lyve together after Goddes ordynaunce in the holye estate of Matrimony?
-Wylt thou love her, comforte her, honour, and kepe her, in sickenes, and in healthe?
-And forsakyng al other, kepe the onely to her, so long as you both shall live?
+wilt thou have this woman to thy wedded wife, to live together after God's ordinance in the holy estate of Matrimony?
+Wilt thou love her, comfort her, honour, and keep her, in sickness and in health; and, forsaking all other, keep thee only unto her, so long as ye both shall live?
 
-> The man shall aunswere,
+> The Man shall answer,
 
 I will.
 
-> Then shall the Priest saye to the woman,
+> Then shall the Priest say unto the Woman,
 
 N.
-WILT thou have this man to thy wedded housband, to lyve together after Goddes ordynaunce in the holy estate of matrimony?
-wilt thou obey hym and serve him, love, honour, and kepe him, in sycknes and in health?
-And forsakynge al other, kepe the onely to him so long as ye bothe shal live
+wilt thou have this man to thy wedded husband, to live together after God's ordinance in the holy estate of Matrimony?
+Wilt thou obey him, and serve him, love, honour, and keep him, in sickness and in health; and, forsaking all other, keep thee only unto him, so long as ye both shall live?
 
-> The woman shall aunswere,
+> The Woman shall answer,
 
 I will.
 
 ## The Giving in Marriage
 
-> Then shall the Minister saie,
+> Then shall the Minister say,
 
-Who geveth this woman to be maried unto this man?
+Who giveth this woman to be married to this man?
 
 ## The Vows
 
-> And the Minister receivyng the woman at her father or frendes handes, shall cause the man to take the woman by the right hand, and so either to geve their trouth to other, the man first saying.
+> Then shall they give their troth to each other in this manner.
+
+> The Minister, receiving the Woman at her father's or friend's hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
 
 I N.
-take the.
-N.
-to my wedded wyfe, to have and to hold from thys day forward, for better, for worse, for richer, for porer, in sickenes, and in healthe, to love and to cheryshe, tyll death us departe; according to Gods holy ordinaunce, and therto I plight the my trouth.
+take thee N.
+to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
 
-> Then shall they louse their handes, and the woman takyng againe the man by the right hande, shall saie.
+> Then shall they loose their hands; and the Woman, with her right hand taking the Man by his right hand, shall likewise say after the Minister,
 
 I N.
-take the.
-N.
-to my wedded husbande, to have and to holde, from this day forward, for better, for worse, for richer, for poorer, in sickenes, and in health, to love, cherish, and to obey, till death us departe, accordynge to godes holy ordinaunce: and therto I geve the my trouth.
+take thee N.
+to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
 
 ## The Ring
 
-> Then shall they again louse theyr handes, and the man shal geve unto the woman a ring, laying the same upon the booke, with the accustomed dutie to the Priest and Clerke.
-> And the Priest taking the ryng, shal delyver it unto the man, to put it upon the fourth finger of the womans left hand.
-> And the man taught by the Priest, shal say.
+> Then shall they again loose their hands; and the Man shall give unto the Woman a Ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.
+> And the Priest, taking the Ring, shall deliver it unto the Man, to put it upon the fourth finger of the Woman's left hand.
+> And the Man holding the Ring there, and taught by the Priest, shall say,
 
-WITH this ring I the wed: with my body I the worship: and with all my worldly goodes, I the endow.
-In the name of the Father, and of the Sonne, and of the holy Ghost.
+With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
 ## The Prayer
 
-> Then the man leavyng the ryng upon the fourth finger of the womans left hande, the Minister shall saye.
+> Then the Man leaving the Ring upon the fourth finger of the Woman's left hand, they shall both kneel down, and the Minister shall say,
 
-O ETERNALL God, creatoure and preserver of all mankynd, giver of all spirytuall grace, the aucthour of everlastyng life: send thy blessyng upon these thy servauntes, thys man and this woman, whom we blesse in thy name, that as Isaac and Rebecca lyved faithfully together: So these persons may surely performe and kepe the vow and covenaunt betwixte them made, wherof this ring geven, and received, is a token and pledge, and may ever remain in perfect love and peace together, and live according unto thy lawes, thorough Jesus Christ our Lorde.
+> Let us pray.
+
+O eternal God, Creator and Preserver of all mankind, Giver of all spiritual grace, the Author of everlasting life: Send thy blessing upon these thy servants, this man and this woman, whom we bless in thy Name; that, as Isaac and Rebecca lived faithfully together, so these persons may surely perform and keep the vow and covenant betwixt them made, (whereof this ring given and received is a token and pledge,) and may ever remain in perfect love and peace together, and live according to thy laws; through Jesus Christ our Lord.
 Amen.
 
 ## The Joining of Hands
 
-> Then thai the Priest joyne their right handes together and say.
-> <!-- VERIFY: source prints 'thai'; likely 'shal' (Then shal the Priest joyne); kept as printed; confirm against a page scan -->
+> Then shall the Priest join their right hands together, and say,
 
-Those whome God hath joyned together, let no man put a sonder.
+Those whom God hath joined together let no man put asunder.
 
 ## The Pronouncement
 
 > Then shall the Minister speak unto the people.
 
-FOR asmuche as .N.
-and .N.
-have consented together in holy wedlocke, and have witnessed the same before God, and thys company, and therto have given and pledged, their trouth eyther to other, and have declared the same by gevyng and receivyng of a ryng, and by joynyng of handes I pronounce that thei be man and wife together.
-In the name of the father, of the sonne and of the holy Ghost.
+Forasmuch as N.
+and N.
+have consented together in holy wedlock, and have witnessed the same before God and this company, and thereto have given and pledged their troth either to other, and have declared the same by giving and receiving of a ring, and by joining of hands; I pronounce that they be man and wife together, In the Name of the Father, and of the Son, and of the Holy Ghost.
 Amen.
 
 ## The Blessing
 
-> And the Minister shal adde this blessyng.
+> And the Minister shall add this Blessing.
 
-GOD the Father, God the Sonne, God the holy Ghost, blesse, preserve, and kepe you, the Lorde mercifully wyth his favour loke upon you, and so fil you with al spiritual benediction, and grace, that you may so lyve together in thys life, that in the world to come, you may have life everlastyng.
+God the Father, God the Son, God the Holy Ghost, bless, preserve, and keep you; the Lord mercifully with his favour look upon you, and so fill you with all spiritual benediction and grace, that ye may so live together in this life, that in the world to come ye may have life everlasting.
 Amen.
 
 ## The Psalm
 
-> Then the Ministers or Clerckes goyng to the Lordes table, shall saie, or syng this Psalme folowyng Beati omnes.
+> Then the Minister or Clerks, going to the Lord's Table, shall say or sing this Psalm following.
 
-BLESSED are all they that feare the Lorde, and walke in his waies.
+> Beati omnes.
+> Psalm 128
 
-For thou shalt eate the labour of thy handes, O wel is the, and happy shalt thou be.
+Blessed are all they that fear the Lord : and walk in his ways.
 
-Thy wife shalbe as the fruitfull vine upon the walles of thy house.
+For thou shalt eat the labour of thine hands : O well is thee, and happy shalt thou be.
 
-Thy children like the olive braunches rounde about thy table.
+Thy wife shall be as the fruitful vine : upon the walls of thy house;
 
-Lo thus shall the man be blessed: that feareth the lorde.
+Thy children like the olive branches : round about thy table.
 
-The Lorde from out of Sion shal blesse the: that thou shalt see Hierusalem in prosperitie, al thy life long:
+Lo, thus shall the man be blessed : that feareth the Lord.
 
-Yea, that thou shalt see thy childrens children, and peace upon Israel.
+The Lord from out of Sion shall so bless thee : that thou shalt see Jerusalem in prosperity all thy life long;
 
-Glory be to the.
-&c.
+Yea, that thou shalt see thy children's children : and peace upon Israel.
 
-As it was.
-&c.
+Glory be to the Father, and to the Son : and to the Holy Ghost;
 
-Psal. cxxviii.
+As it was in the beginning, is now, and ever shall be : world without end.
+Amen.
 
-> Or elles this Psalme folowyng Deus misereatur.
+> Or this Psalm.
 
-GOD be mercifull unto us and blesse us: and shewe us the lyght of his countenaunce, and be merciful unto us.
+> Deus misereatur.
+> Psalm 67
 
-That thy waie maie be knowen upon the earth: thy savyng healthe among al nacions.
+God be merciful unto us, and bless us : and shew us the light of his countenance, and be merciful unto us:
 
-Let the people prayse the (O God) yea, let all the people praise the.
+That thy way may be known upon earth : thy saving health among all nations.
 
-O let the nacions rejoyce and be glad, for thou shalt judge the folke ryghteously, and governe the nacions upon the earth.
+Let the people praise thee, O God : yea, let all the people praise thee.
 
-Let the people praise the (O God) lette all the people praise the.
+O let the nations rejoice and be glad : for thou shalt judge the folk righteously, and govern the nations upon earth.
 
-Then shall the earthe bryng furthe her encrease, and God, even our God, shal geve us his blessyng.
+Let the people praise thee, O God : yea, let all the people praise thee.
 
-God shall blesse us, and al the endes of the worlde shall feare him.
+Then shall the earth bring forth her increase : and God, even our own God, shall give us his blessing.
 
-Glory be to the Father.
-&c.
+God shall bless us : and all the ends of the world shall fear him.
 
-As it was in the be.
-&c.
-<!-- VERIFY: source prints 'As it was in the be.
-&c.'; reading unclear (likely 'in thee'); kept as printed; confirm against a page scan -->
+Glory be to the Father, and to the Son : and to the Holy Ghost;
+
+As it was in the beginning, is now, and ever shall be : world without end.
+Amen.
 
 ## The Lord's Prayer
 
-> The Psalme ended, and the man and the woman knelyng afore the Lordes table: The Priest standyng at the Table, and turnyng hys face towarde them, shal saie,
+> The Psalm ended, and the Man and the Woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,
 
-Lorde have mercie upon us.
+Lord, have mercy upon us.
 
-**Aunswere.** Christe have mercie upon us.
+**Answer.** Christ, have mercy upon us.
 
-**Minister.** Lorde have mercie upon us.
+**Minister.** Lord, have mercy upon us.
 
-> OUR FATHER WHICHE ART.
-> &c.
-
-And leade us not into temptation.
-
-**Aunswere.** But deliver us from evil.
+Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
+Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
 Amen.
 
 ## The Suffrages
 
-**Minister.** O Lorde, save thy servaunt, and thy handmaide.
+**Minister.** O Lord, save thy servant, and thy handmaid;
 
-**Aunswere.** Whyche put their trust in the.
+**Answer.** Who put their trust in thee.
 
-**Minister.** O Lorde sende them helpe from thy holy place.
+**Minister.** O Lord, send them help from thy holy place;
 
-**Aunswere.** And evermore defende them.
+**Answer.** And evermore defend them.
 
-**Minister.** Be unto them a towre of strength.
+**Minister.** Be unto them a tower of strength,
 
-**Aunswere.** From the face of their enemie.
+**Answer.** From the face of their enemy.
 
-**Minister.** O Lorde heare our praier.
+**Minister.** O Lord, hear our prayer;
 
-**Aunswere.** And let our crie come unto the.
+**Answer.** And let our cry come unto thee.
 
 ## The Prayers
 
-> The Minister.
+**Minister.**
 
-O GOD of Abraham, God of Isaac, God of Jacob, blesse these thy servauntes, and sowe the sede of eternal life in their mindes, that whatsoever in thy holy worde they shal profitably learne, they may in dede fulfil the same.
-Loke, O Lorde mercifully upon theim from heaven, and blesse them.
-And as thou diddest send thy blessing upon Abraham and Sara to their greate comforte: so vouchesaufe to sende thy blessing upon these thy servauntes, that they obeiyng thy will, and alway beyng in saufetie under thy protection, may abide in thy love unto their lives ende, throughe Jesu Christe our Lorde.
+O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same.
+Look, O Lord, mercifully upon them from heaven, and bless them.
+And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord.
 Amen.
 
-> This prayer next folowyng shal be omitted where the woman is past childe birth.
+> This Prayer next following shall be omitted, where the Woman is past child-bearing.
 
-O MERCIFULL Lorde, and heavenly Father, by whose gracious gifte mankynde is encreased, we beseche the assiste with thy blessyng these two persones, that they may bothe be fruitefull in procreation of children, also live together so long in godly love and honestie, that they may see their childers children, unto the thirde and fourthe generacion unto thy praise and honour: through Jesus Christe our Lorde.
+O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord.
 Amen.
-<!-- VERIFY: source prints 'childers children'; likely 'childrens children'; kept as printed; confirm against a page scan -->
 
-O GOD whiche by thy mightie power hast made all thinges of naught, which also after other thinges set in ordre, diddest appoinct that out of man (created after thyne owne ymage and similitude) woman should take her beginning, and knitting them together, diddest teache that it shoulde never be lawfull to put a sonder those, whome thou by matrimonie haddest made one: O God which haste consecrated the state of matrimonie to suche an excellent misterie, that in it is signified and represented the spiritual mariage and unitie betwixte Christe and his Churche: Loke mercifully upon these thy servauntes, that both this man may love his wife, accordyng to thy worde (as Christe did love his spouse the Churche, who gave himselfe for it, lovyng and cherishing it, even as his owne fleshe).
-And also that this woman may be lovyng and amiable to her housband as Rachel, wise as Rebecca, faithfull and obedient as Sara, and in all quietnes, sobrietie, and peace, be a folower of holy and Godly matrones, O Lorde blesse them bothe, and graunt them to enherite thy everlastyng kyngdome: throughe Jesus Christe our Lorde.
+O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons.
+O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord.
 Amen.
 
 ## The Nuptial Blessing
 
-> Then shall the Priest saye,
+> Then shall the Priest say,
 
-ALMIGHTIE God, which, at the beginnyng did create our firste parentes Adam and Eve, and did sanctifie and joyne them together in mariage, powre upon you the richesse of his grace, sanctifie, and blesse you, that ye may please hym both in body and soule, and live together in holy love, unto your lives ende.
+Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end.
 Amen.
 
 ## The Homily
 
-> Then shal begyn the Communion, and after the Gospel shalbe saied a Sermon, wherin ordinarily (so oft as there is any mariage) thoffice of a man and wife shalbe declared, accordyng to holy Scripture, or if there be no sermon, the Minister shal reade this that foloweth.
+> After which, if there be no Sermon declaring the duties of Man and Wife, the Minister shall read as followeth.
 
-AL ye which be maried, on whiche entend to take the holy estate of Matrimonie upon you: heare what holy scripture doth say, as touching the dutie of housbandes towarde their wives, and wives toward their housbandes.
+All ye that are married, or that intend to take the holy estate of Matrimony upon you, hear what the holy Scripture doth say as touching the duty of husbands towards their wives, and wives towards their husbands.
 
-Saincte Paul (in his Epistle to the Ephesians, the v Chapiter) doeth geve this commaundement to all maried men.
+Saint Paul, in his Epistle to the Ephesians, the fifth Chapter, doth give this commandment to all married men; Husbands, love your wives, even as Christ also loved the Church, and gave himself for it, that he might sanctify and cleanse it with the washing of water, by the word; that he might present it to himself a glorious Church, not having spot, or wrinkle, or any such thing; but that it should be holy, and without blemish.
+So ought men to love their wives as their own bodies.
+He that loveth his wife loveth himself: for no man ever yet hated his own flesh, but nourisheth and cherisheth it, even as the Lord the Church: for we are members of his body, of his flesh, and of his bones.
+For this cause shall a man leave his father and mother, and shall be joined unto his wife; and they two shall be one flesh.
+This is a great mystery; but I speak concerning Christ and the Church.
+Nevertheless, let every one of you in particular so love his wife, even as himself.
 
-Ye housbandes love your wives, even as Christ loved the Churche, and hath geven hymselfe for it, to sanctifie it, purgyng it in the fountaine of water, throughe the worde, that he might make it unto hym selfe a glorious congregacion, not havyng spot or wrincle, or any suche thyng, but that it shoulde be holy and blameles.
-So men are bounde to love their owne wyves, as their owne bodies.
-He that loveth his owne wife loveth hym selfe.
-For never did any man hate his owne fleshe, but nourisheth and cherisheth it, even as the Lorde doeth the congregacion, for we are membres of his body: of his flesh and of hys bones.
+Likewise the same Saint Paul, writing to the Colossians, speaketh thus to all men that are married; Husbands, love your wives, and be not bitter against them.
 
-For this cause shall a man leave father and mother, and shalbe joined unto his wife, and thei two shalbe one flesh.
-This mistery is great, but I speake of Christe and of the congregacion.
-Neverthelesse, let every one of you so love his owne wyfe, even as hym selfe.
+Hear also what Saint Peter, the Apostle of Christ, who was himself a married man, saith unto them that are married; Ye husbands, dwell with your wives according to knowledge; giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life, that your prayers be not hindered.
 
-Psal. lxvii.
+Hitherto ye have heard the duty of the husband toward the wife.
+Now likewise, ye wives, hear and learn your duties toward your husbands, even as it is plainly set forth in holy Scripture.
 
-Likewise the same sainct Paule (wrytyng to the Collossians) speaketh thus to all men that be maried.
-Ye men, love your wyves, and be not bitter unto them.
+Saint Paul, in the aforenamed Epistle to the Ephesians, teacheth you thus; Wives, submit yourselves unto your own husbands, as unto the Lord.
+For the husband is the head of the wife, even as Christ is the head of the Church: and he is the Saviour of the body.
+Therefore as the Church is subject unto Christ, so let the wives be to their own husbands in every thing.
+And again he saith, Let the wife see that she reverence her husband.
 
-Collos iii.
+And in his Epistle to the Colossians, Saint Paul giveth you this short lesson; Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
-Heare also what saincte Peter Thaposthe of Christe, whiche was him selfe a maried man (saith unto al men) that are maried.
-Ye housbandes, dwel with your wyves according to knowledge.
-Gevynge honour unto the wyfe as unto the weaker vessell, and as heires together of the grace of lyfe, so that your praiers be not hyndred.
-<!-- VERIFY: source prints 'Thaposthe'; likely 'Thapostle' (the apostle); kept as printed; confirm against a page scan -->
-
-Hetherto ye have hearde the dutie of the housbande toward the wyfe.
-
-Now likewise ye wyves heare and learne your dutie towarde your housbandes, even as it is plainely sette furth in holy scripture.
-
-i.
-Pet. iii.
-
-Saincte Paule (in the forenamed Epistle to the Ephesians) teacheth you thus: Ye women, submit youre selfes unto youre owne housbandes as unto the Lorde: for the housbande is the wyves headde, even as Christe is the headde of the Churche.
-And he is also the savioure of the whole bodye.
-Therefore as the Churche or congregacion, is subjecte unto Christe.
-So likewyse lette the wyves also be in subjection unto their owne housbandes in al thinges.
-And againe he sayeth: Let the wife reverence her housbande.
-And (in his Epistle to the Collossians) Sayncte Paule geveth you thys shorte lesson, Ye wyves submitte youre selves unto youre own housbandes, as it is convenient in the Lorde.
-
-Ephe.
-v.
-
-Col. iii.
-
-Saincte Peter also doeth instructe you verye godly, thus saiynge, Let wyves be subject to their owne housbandes, so that if anye obey not the woorde, they may be wonne withoute the woorde, by the conversacion of the wyves, whyle they beholde your chaste conversacion coupled with feare, whose apparell let it not be outward, with broided haire and trymmyng about with golde, eyther in puttinge on of gorgeous apparell, but let the hidde manne whiche is in the harte, be without all corruption, so that the spirite be milde and quiete, whiche is a precious thynge in the sighte of God.
-For after thys maner (in the olde tyme) did the holy women whiche trusted in God apparell them selves, beynge subject to their owne housbandes, as Sara obeyed Abraham callyng hym Lorde; whose daughters ye are made, doynge well, and beyinge not dismayde with any feare.
+Saint Peter also doth instruct you very well, thus saying; Ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; while they behold your chaste conversation coupled with fear.
+Whose adorning, let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel; but let it be the hidden man of the heart, in that which is not corruptible; even the ornament of a meek and quiet spirit, which is in the sight of God of great price.
+For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands; even as Sarah obeyed Abraham, calling him lord; whose daughters ye are as long as ye do well, and are not afraid with any amazement.
 
 ## The Rubrics
 
-> The newe maried persones (the same day of their mariage) must receyve the holy Communion.
-
-i.
-Pet. iii.
+> It is convenient that the new-married persons should receive the holy Communion at the time of their Marriage, or at the first opportunity after their Marriage.
