@@ -37,6 +37,9 @@ That it may please thee to bless and preserve all Christian Rulers and Magistrat
 We beseech thee to hear us, good Lord.
 That it may please thee to illuminate all Bishops, Priests, and Deacons, with true knowledge and understanding of thy Word; and that both by their preaching and living they may set it forth, and show it accordingly;
 We beseech thee to hear us, good Lord.
+That it may please thee to send forth laborers into thy harvest;
+We beseech thee to hear us, good Lord.
+<!-- VERIFY: 'That it may please thee to send forth laborers into thy harvest' — 1892 is derived from the justus 1789 Litany page, which states the 1892 text is 'essentially identical' and marks this petition as 'added in the 1892 BCP'; it is the only 1892 change indicated. Confirm against an 1892 page scan. -->
 That it may please thee to bless and keep all thy people;
 We beseech thee to hear us, good Lord.
 That it may please thee to give to all nations unity, peace, and concord;

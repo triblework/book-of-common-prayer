@@ -2,9 +2,24 @@
 
 ## The Preface
 
-> Upon the day appointed, all that are to be then Confirmed, being placed and standing in order before the Bishop; he, or some other Minister appointed by him, shall read this Preface following.
+> Upon the day appointed, all that are to be then confirmed, being placed and standing in order before the Bishop, sitting in his chair near to the Holy Table, he, or some other Minister appointed by him, may read this Preface following; the People standing until the Lord's Prayer.
 
 TO the end that Confirmation may be ministered to the more edifying of such as shall receive it, the Church hath thought good to order, That none shall be confirmed but such as can say the Creed, the Lords Prayer, and the Ten Commandments; and can also answer to such other Questions, as in the short Catechism are contained: which order is very convenient to be observed; to the end, that children, being now come to the years of discretion, and having learned what their Godfathers and Godmothers promised for them in Baptism, may themselves, with their own mouth and consent, openly before the Church, ratify and confirm the same; and also promise, that, by the grace of God, they will evermore endeavour themselves faithfully to observe such things, as they, by their own confession, have assented unto.
+
+## The Presentation
+
+> Then the Minister shall present unto the Bishop those who are to be confirmed, and shall say
+
+REVEREND Father in God, I present unto you these children [or these persons] to receive the Laying on of Hands.
+
+## The Lesson
+
+> Then the Bishop, or some Minister appointed by him may say,
+
+Hear the words of the Evangelist Saint Luke, in the eighth Chapter of the Book of the Acts of the Apostles.
+
+WHEN the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John: who, when they were come down, prayed for them, that they might receive the Holy Ghost: (for as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)
+Then laid they their hands on them, and they received the Holy Ghost.
 
 ## The Renewal of Vows
 
@@ -40,7 +55,7 @@ Amen.
 
 > Then all of them in order kneeling before the Bishop, he shall lay his hands upon the head of every one severally, saying,
 
-DEFEND, O Lord, this thy child [or, this thy Servant] with Thy heavenly grace; that he may continue thine for ever; and daily increase in thy Holy Spirit more and more, until he come unto thy everlasting kingdom.
+DEFEND, O Lord, this thy child [or, this thy servant] with Thy heavenly grace; that he may continue thine for ever; and daily increase in thy Holy Spirit more and more, until he come unto thy everlasting kingdom.
 Amen.
 
 ## The Lord's Prayer
@@ -50,6 +65,7 @@ Amen.
 The Lord be with you.
 
 **Answer.** And with thy spirit.
+<!-- VERIFY: source prints the label 'Answer' before 'The Lord be with you' (label misplaced, likely OCR); assigned to the response 'And with thy spirit' per the parallel American rite; confirm against a page scan -->
 
 > And all kneeling down, the Bishop shall add,
 
@@ -83,4 +99,6 @@ Amen.
 
 ## The Rubrics
 
-> And there shall none be admitted to the Holy Communion, until such time as he be Confirmed, or be ready and desirous to be Confirmed.
+> The Minister shall not omit earnestly to move the Persons confirmed to come, without delay, to the Lord's Supper.
+
+> And then shall none be admitted to the Holy Communion, until such time as he be Confirmed, or be ready and desirous to be Confirmed.

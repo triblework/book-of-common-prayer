@@ -27,22 +27,23 @@ Amen.
 ## The Certificate
 
 > And let them not doubt but that the Child so baptized is lawfully and sufficiently baptized, and ought not to be baptized again.
-> Yet nevertheless, if the Child, which is after this sort baptized, do afterwards live, it is expedient that it be brought into the Church, to the intent that if the Minister of the same parish did himself baptize that Child, the Congregation may be certified of the true Form of Baptism, by him privately before used: In which case he shall say thus:
+> Yet nevertheless, if the Child, which is after this sort baptized, do afterward live, it is expedient that it be brought into the Church, to the intent that if the Minister of the same parish did himself baptize that Child, the Congregation may be certified of the true Form of Baptism, by him privately before used: In which case he shall say thus:
 
-I CERTIFY you that according to the due and prescribed Order of the Church at such a time and at such a place, before divers witnesses I baptized this Child.
+I CERTIFY you, that according to the due and prescribed Order of the Church, at such a time, and at such a place, before divers witnesses, I baptized this Child; who is now by Baptism incorporated into the Christian Church: for our Lord Jesus Christ doth not deny his grace and mercy unto such Infants, but most lovingly doth call them unto him, as the holy Gospel doth witness to our comfort.
 
 > But if the child were baptised by any other lawful Minister, then the Minister of the Parish where the Child was born or christened, shall examine whether the same hath been lawfully done.
 > And if the Minister shall find, by the answers of such as bring the Child, that all things were done as they ought to be; then shall he not christen the Child again, but shall receive him as one of the flock of true Christian People saying thus:
 
-I CERTIFY you, that in this case all is well done, and according unto due order, concerning the baptizing of this Child; who is now by Baptism incorporated into the Christian Church: for our Lord Jesus Christ doth not deny his grace and mercy unto such Infants, but most lovingly doth call them unto him, as the holy Gospel doth witness to our comfort on this wise.
+I CERTIFY you, that in this case all is well done, and according unto due order, concerning the baptizing of this Child; who is now by Baptism incorporated into the Christian Church: for our Lord Jesus Christ doth not deny his grace and mercy unto such Infants, but most lovingly doth call them unto him, as the holy Gospel doth witness to our comfort.
 
 ## The Gospel
 
-> Then the Minister shall say as follows, or else shall pass on to the questions addressed to the Sponsors.
+> Then the Minister shall say as followeth.
 
-Hear the words of the Gospel, written by Saint Mark, in the tenth Chapter, at the thirteenth Verse.
+Hear the words of the Gospel, written by St. Mark, in the tenth Chapter, at the thirteenth Verse.
 
-THEY brought young children to Christ, that he should touch them; and his disciples rebuked those that brought them But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not; for of such is the kingdom of God.
+THEY brought young children to Christ, that he should touch them: and his disciples rebuked those that brought them.
+But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
 And he took them up in his arms, put his hands upon them, and blessed them.
 
@@ -78,15 +79,9 @@ DOST thou in the name of this Child renounce the devil and all his works, the va
 
 **Answer.** I do.
 
-**Minister.** Wilt thou be baptized in this Faith?
-
-**Answer.** That is my desire.
-
 **Minister.** Wilt thou then obediently keep Gods holy will and commandments, and walk in the same all the days of thy life?
 
 **Answer.** I will, by God's help.
-
-<!-- VERIFY: source prints 'Wilt thou be baptized in this Faith?' (with the answer 'That is my desire.') enclosed in square brackets with a footnote marking it an error later omitted in 1832; kept here as 1789 printed text, with the editorial brackets, asterisk, and footnote dropped; confirm against a page scan -->
 
 ## The Reception
 
@@ -96,6 +91,7 @@ WE receive this Child into the congregation of Christ's flock, and do sign him w
 Amen.
 
 > The same rule is to be observed here, as to the omission of the sign of the Cross, as in the Public Baptism of Infants.
+
 > Then shall the Minister say,
 
 SEEING now, dearly beloved brethren, that this Child is regenerate, and grafted into the body of Christ's Church, let is give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him that this Child may lead the rest of his life according to this beginning.

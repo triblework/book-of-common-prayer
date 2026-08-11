@@ -1,10 +1,9 @@
 # The Ministration of Public Baptism of Infants, to be used in the Church.
 
-<!-- Note: the source spine rendered each rubric's opening pilcrow (¶) as a mojibake glyph; these were dropped as corrupted paragraph markers and the rubric text kept (a mechanical cleanup, not a doubtful reading). -->
-
 ## The Introduction
 
-> The people are to be admonished, that it is most convenient that Baptism should not be administered but upon Sundays and other Holy Days or Prayer Days Nevertheless (of necessity so require) Baptism may be administered upon any other day.
+> The people are to be admonished, that it is most convenient that Baptism should not be administered but upon Sundays and other Holy Days or Prayer Days.
+> Nevertheless (of necessity so require) Baptism may be administered upon any other day.
 
 > There shall be for every Male child to be baptized when they can be had, two Godfathers and one Godmother; and for every Female, one Godfather and two Godmothers, and Parents shall be admitted as sponsors, if it be desired.
 
@@ -14,11 +13,12 @@
 
 Hath this Child been already baptized, or no?
 
-> If they answer, No: then shall the Minister proceed as followeth.
+> If they answer, No: then shall the Minister proceed as followeth, the People all standing, until the Lord’s Prayer.
 
 ## The Exhortation
 
-Dearly beloved forasmuch as all men are conceived and born in sin, and our Saviour Christ saith None can enter into the kingdom of God except he be regenerate and born anew of Water and of the Holy Ghost; I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous mercy he will grant to this Child that which by nature he cannot have that he may be baptized with Water and the Holy Ghost, and received into Christ’s holy Church, and be made a living member of the same.
+Dearly beloved, forasmuch as all men are conceived and born in sin; and our Saviour Christ saith, None can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost; I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous mercy he will graft to this Child that which by nature he cannot have; that he may be baptized with Water and the Holy Ghost, and received into Christ’s holy Church, and be made a living member of the same.
+<!-- VERIFY: source prints 'graft' ('he will graft to this Child'); likely 'grant'; kept as printed; confirm against a page scan -->
 
 ## The Flood Prayer
 
@@ -26,7 +26,7 @@ Dearly beloved forasmuch as all men are conceived and born in sin, and our Savio
 
 Let us pray.
 
-Almighty and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism, and by the Baptism of thy well beloved Son Jesus Christ in the river Jordan, didst sanctify Water to the mystical washing away of sin; We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon this Child; wash him and sanctify him with the Holy Ghost; that he, being delivered from thy wrath, may be received into the ark of Christ’s Church; and being steadfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally he may come to the land of everlasting life, there to reign with thee, world without end; through Jesus Christ our Lord.
+Almighty and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ in the river Jordan, didst sanctify Water to the mystical washing away of sin; We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon this Child; wash him and sanctify him with the Holy Ghost; that he, being delivered from thy wrath, may be received into the ark of Christ’s Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally he may come to the land of everlasting life, there to reign with thee, world without end; through Jesus Christ our Lord.
 Amen.
 
 ## The Second Prayer
@@ -34,14 +34,14 @@ Amen.
 > Or this.
 
 Almighty and immortal God, the aid of all who need, the helper of all who flee to thee for succour, the life of those who believe, and the resurrection of the dead; We call upon thee for this Infant, that he, coming to thy holy Baptism, may receive remission of sin, by spiritual regeneration.
-Receive him, O Lord, as thou hast promised by thy well-beloved Son, saying, Ask, and ye shall have; seek, and ye shall find; knock, and it shall be opened unto you.
+Receive him O Lord, as thou hast promised by thy well-beloved Son, saying, Ask, and ye shall have; seek, and ye shall find; knock, and it shall be opened unto you.
 So give now unto us who ask; let us who seek, find; open the gate unto us who knock; that this Infant may enjoy the everlasting benediction of thy heavenly washing, and may come to the eternal kingdom which thou hast promised by Christ our Lord.
 Amen.
 
 ## The Gospel
 
-> Then the Minister shall say as follows: or else shall pass on to the questions addressed to the Sponsors; and from thence to the Prayer immediately before the Immersion, or the pouring of water on the infant.
-> But note; that in every church the intermediate parts of the Service shall be used, once at least in every month, (if there be a baptism) for the better instructing of the People in the Grounds of Infant Baptism.
+> Then the Minister shall say as followeth: or else shall pass immediately to the Questions addressed to the Sponsors.
+> But Note, That in every church the intermediate parts of the Service shall be used, once at least in every month, (if there be a baptism) for the better instructing of the People in the grounds of Infant Baptism.
 
 Hear the words of the Gospel, written by Saint Mark, in the tenth Chapter, at the thirteenth Verse.
 
@@ -52,18 +52,19 @@ And he took them up in his arms, put his hands upon them, and blessed them.
 
 ## The Exhortation upon the Gospel
 
-> After the Gospel is read, the Minister shall make this brief exhortation upon the words, of the Gospel.
+> After the Gospel is read, the Minister shall make this brief Exhortation upon the words, of the Gospel.
 
 Beloved, ye hear in this Gospel the words of our Saviour Christ, that he commanded the children to be brought unto him; how he blamed those who would have kept them from him; how he exhorteth all men to follow their innocency.
 Ye perceive how, by his outward gesture and deed, he declared his good will toward them; for he embraced them in his arms, he laid his hands upon them, and blessed them.
-Doubt ye not therefore, but earnestly believe, that he will likewise favourably receive this present Infant; that he will embrace him with the arms of his mercy; that he will give unto him the blessing of eternal life and make him partaker of his everlasting kingdom.
+Doubt ye not therefore, but earnestly believe, that he will likewise favourably receive this present Infant; that he will embrace him with the arms of his mercy; that he will give unto him the blessing of sternal life and make him partaker of his everlasting kingdom.
+<!-- VERIFY: source prints 'sternal' ('the blessing of sternal life'); likely 'eternal'; kept as printed; confirm against a page scan -->
 
 Wherefore we being thus persuaded of the good will of our heavenly Father towards this Infant, declared by his Son Jesus Christ; and nothing doubting but that he favourably alloweth all charitable work of ours in bringing this Infant to his holy Baptism; let us faithfully and devoutly give thanks unto him, and say,
 
 ## The Thanksgiving
 
 Almighty and everlasting God, heavenly Father, we give thee humble thanks, that thou hast vouchsafed to call us to the knowledge of thy grace, and faith in thee: Increase this knowledge and confirm this faith in us evermore.
-Give thy Holy Spirit to this Infant, that he may be born again, and be made an heir of everlasting salvation; through our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Spirit, now and for ever.
+Give thy Holy Spirit to this Infant, that he may be born again, and be made an heir of everlasting salvation; through our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Spirit, now for ever.
 Amen.
 
 ## The Address to the Godparents
@@ -147,7 +148,7 @@ Seeing now dearly beloved brethren that this Child is regenerate and grafted int
 
 ## The Lord's Prayer
 
-> Then shall be said all kneeling,
+> Then shall be said, all kneeling,
 
 Our Father who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -161,7 +162,7 @@ Amen.
 > Then shall the Minister say,
 
 We yield thee hearty thanks most merciful Father, that it hath pleased thee to regenerate this Infant with thy Holy Spirit, to receive him for thine own Child by adoption, and to incorporate him into thy holy Church.
-And humbly we beseech thee to grant, that he, being dead unto sin, and living unto righteousness, and being buried with Christ in his death may crucify the old man, and utterly abolish the whole body of sin; and that, as he is made partaker of the death of thy Son, he may also be partaker of his resurrection; so that finally, with the residue of thy holy Church, he may he an inheritor of thine everlasting kingdom; through Christ our Lord.
+And humbly we beseech thee to grant, that he, being dead unto sin, and living unto righteousness, and being buried with Christ in his death may crucify the old man, and utterly abolish the whole body of sin; and that, as he is made partaker of the death of thy Son, he may also be partaker of his resurrection; so that finally, with the residue of thy holy Church, he may be an inheritor of thine everlasting kingdom; through Christ our Lord.
 Amen.
 
 ## The Final Exhortation
