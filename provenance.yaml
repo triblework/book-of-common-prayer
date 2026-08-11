@@ -30,7 +30,7 @@ records:
     retrieved: 2026-08-10
     cross_check: []
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
     verify_items: []
 
