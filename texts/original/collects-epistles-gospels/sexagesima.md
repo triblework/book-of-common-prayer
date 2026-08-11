@@ -1,10 +1,8 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
-# The Sunday called Sexagesima
+# The Sunday called Sexagesima, or the second Sunday before Lent
 
 ## The Collect
 
-O Lord God, who seest that we put not our trust in any thing that we do: Mercifully grant that by thy power we may be defended against all adversity; through Jesus Christ our Lord.
+O LORD God, who seest that we put not our trust in any thing that we do; Mercifully grant that by thy power we may be defended against all adversity; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle

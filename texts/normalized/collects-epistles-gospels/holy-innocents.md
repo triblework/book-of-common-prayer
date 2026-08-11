@@ -1,13 +1,9 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
 # The Innocents' Day
 
 ## The Collect
 
-O Almighty God, who out of the mouths of babes and sucklings hast ordained strength, and madest infants to glorify thee by their deaths: Mortify and kill all vices in us, and so strengthen us by thy grace, that by the innocency of our lives, and constancy of our faith, even unto death, we may glorify thy holy Name; through Jesus Christ our Lord.
+O ALMIGHTY God, who out of the mouths of babes and sucklmgs hast ordained strength, and madest infants to glorify thee by their deaths: Mortify and kill all vices in us, and so strengthen us by thy grace, that by the innocency of our lives, and constancy of our faith even unto death, we may glorify thy holy Name; through Jesus Christ our Lord.
 Amen.
-
-> December 28.
 
 ## The Epistle
 

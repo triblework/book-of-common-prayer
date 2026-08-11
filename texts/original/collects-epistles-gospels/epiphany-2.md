@@ -1,10 +1,8 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
 # The Second Sunday after the Epiphany
 
 ## The Collect
 
-Almighty and everlasting God, who dost govern all things in heaven and earth: Mercifully hear the supplications of thy people, and grant us thy peace all the days of our life; through Jesus Christ our Lord.
+ALMIGHTY and everlasting God, who dost govern all things in heaven and earth; Mercifully hear the supplications of thy people, and grant us thy peace all the days of our life; through Jesus Christ our Lord.
 Amen.
 
 ## The Epistle

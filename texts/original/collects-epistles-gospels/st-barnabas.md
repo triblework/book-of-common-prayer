@@ -1,13 +1,9 @@
-<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
-
 # Saint Barnabas the Apostle
 
 ## The Collect
 
-O Lord God Almighty, who didst endue thy holy Apostle Barnabas with singular gifts of the Holy Ghost: Leave us not, we beseech thee, destitute of thy manifold gifts, nor yet of grace to use them alway to thy honour and glory; through Jesus Christ our Lord.
+O LORD God Almighty, who didst endue thy holy Apostle Barnabas with singular gifts of the Holy Ghost; Leave us not, we beseech thee, destitute of thy manifold gifts, nor yet of grace to use them alway to thy honour and glory; through Jesus Christ our Lord.
 Amen.
-
-> June 11.
 
 ## The Epistle
 

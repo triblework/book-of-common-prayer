@@ -1,4 +1,0 @@
-# In the Ember Weeks, to be said every day, for those that are to be admitted into Holy Orders. (ii)
-
-Almighty God, the giver of all good gifts, who of thy divine providence hast appointed divers Orders in thy Church: Give thy grace, we humbly beseech thee, to all those who are to be called to any office and administration in the same; and so replenish them with the truth of thy doctrine, and endue them with innocency of life, that they may faithfully serve before thee, to the glory of thy great Name, and the benefit of thy holy Church; through Jesus Christ our Lord.
-Amen.

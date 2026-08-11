@@ -1,169 +1,115 @@
 # Tables and Rules for the Feasts and Fasts
 
-TABLES AND RULES
+> RULES, to know when the Moveable Feasts and Holy-Days begin.
 
-for the moveable and immoveable feasts
+EASTER-DAY, on which the rest depend, is always the first Sunday after the Full Moon which happens upon or next after the twenty-first day of March; and if the Full Moon happen upon a Sunday, Easter-day is the Sunday after.
 
-together with the days of fasting and abstinence through the whole year
+Advent Sunday is always the nearest Sunday to the Feast of St Andrew whether before or after.
 
-Rules to know when the Moveable Feasts and Holy-Days begin
+Septuagesima
 
-EASTER DAY (on which the rest depend) is always the First Sunday after the Full Moon
+Sexagesima
 
-which happens upon, or next after the Twenty-first Day of March;
+Quinquagesima
 
-and if the Full Moon happens on a Sunday, Easter Day is the Sunday after.
+Quadragesima
 
-Advent Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
+Sunday is Nine
 
-Septuagesima Sunday is Nine weeks before Easter.
+Eight
 
-Sexagesima Sunday is Eight weeks before Easter.
+Seven
 
-Quinguagesima Sunday is Seven weeks before Easter.
+Six Weeks before
 
-Quadragesima Sunday is Six weeks before Easter.
+Easter
 
-Rogation Sunday is Five Weeks after Easter.
+Rogation Sunday
 
-Ascension Day is Forty Days after Easter.
+Ascension-Day
 
-Whitsunday is Seven Weeks after Easter.
+Whitsunday
 
-Trinity Sunday is Eight Weeks after Easter.
+Trinity Sunday is Five Weeks
 
-A TABLE OF ALL THE FEASTS
+Forty Days
 
-that are to be observed in the Church of England throughout the year
+Seven Weeks
 
-All Sundays in the Year
+Eight Weeks After Easter
 
-The Days of the Feasts of:
+> A TABLE OF FEASTS, to be observed in this Church, throughout the Year.
 
-The Circumcision of our Lord JESUS CHRIST
+All Sundays in the Year.
 
-The Epiphany
+The Circumcision of our Lord JESUS CHRIST.
 
-The Conversion of St. Paul
+The Epiphany.
 
-The Purification of the Blessed Virgin
+The Conversion of St. Paul.
 
-St. Matthias the Apostle
+The Purification of the Blessed Virgin.
 
-The Annunciation of the Blessed Virgin
+St. Matthias the Apostle.
+
+The Annunciation of the Blessed Virgin.
 
 St. Mark the Evangelist
 
-St. Philip and St. James the Apostles
+St. Philip and St. James. the Apostles.
 
-The Ascension of our Lord JESUS CHRIST
+The Ascension of our Lord JESUS CHRIST.
 
-St. Barnabas
+St. Barnabas.
 
-The Nativity of St. John Baptist
+The Nativity of St. John the Baptist.
 
-St. Peter the Apostle
+St. Peter the Apostle.
 
-St. James the Apostle
+St. James the Apostle.
+St. Bartholomew the Apostle.
 
-St. Bartholomew the Apostle
+St. Matthew the Apostle.
 
-St. Matthew the Apostle
+St. Michael and All Angels.
 
-St. Michael and All Angels
+St. Luke the Evangelist.
 
-St. Luke the Evangelist
+St. Simon and St. Jude, the Apostles.
 
-St. Simon and St. Jude the Apostles
+All Saints.
 
-All Saints
+St. Andrew the Apostle.
 
-St. Andrew the Apostle
+St. Thomas the Apostle.
 
-St. Thomas the Apostle
+The Nativity of our Lord JESUS CHRIST.
 
-The NATIVITY of our LORD
+St. Stephen the Martyr.
 
-St. Stephen the Martyr
-
-St. John the Evangelist
+St. John the Evangelist.
 
 The Holy Innocents
 
-Monday and Tuesday in Easter Week
+Monday and Tuesday in Easter Week.
 
-Monday and Tuesday in Whitsun Week
+Monday and Tuesday in Whitsun Week.
 
-A Table of the VIGILS, FASTS AND DAYS OF ABSTINENCE
+> A TABLE OF FASTS.
 
-to be observed in the year
+Ash Wednesday. Good-Friday.
 
-The Evens or Vigils before:
+Other Days of Fasting; on which the Church requires such a Measure of Abstinence, as is more especially suited to extraordinary Acts aad Exercises of Devotion.
 
-The Nativity of our Lord
+1st. The forty days of Lent.
 
-The Purification of the Blessed Virgin Mary
+2d.
+The Ember-Days at the Four Seasons, being the Wednesday, Friday, and Saturday after the first Sunday in Lent, the Feast of Pentecost, September 14, and December 13.
 
-The Annunciation of the Blessed Virgin
+3d.
+The three Rogation Days, being the Monday, Tuesday, and Wednesday before holy Thursday, or the Ascension of our Lord.
 
-Easter Day
+4th.
+All the Fridays in time Year, except Christmas-Day.
 
-Ascension Day
-
-Pentecost
-
-St. Matthias
-
-St. John Baptist
-
-St. Peter
-
-St. James
-
-St. Bartholomew
-
-St. Matthew
-
-St. Simon and St. Jude
-
-St. Andrew
-
-St. Thomas
-
-All Saints
-
-Note: That if any of these Feast-Days fall upon a Monday,
-
-then the Vigil or Fast-Day shall be kept upon the Saturday,
-
-and not upon the Sunday next before it.
-
-DAYS OF FASTING, OR ABSTINENCE
-
-i) The forty days of Lent.
-
-ii) The Ember Days at the Four Seasons, being the Wednesday, Friday and Saturday after:
-
-1.
-The First Sunday in Lent
-
-2.
-The Feast of Pentecost
-
-3.
-September 14
-
-4.
-December 13.
-
-iii) The three Rogation Days, being the Monday, Tuesday, and Wednesday
-
-before Holy Thursday, or the Ascension of our Lord.
-
-iv) All the Fridays in the Year, except Christmas Day.
-
-A SOLEMN DAY
-
-for which a particular service is appointed:
-
-The Anniversary of the Day of the Accession of the Reigning Sovereign.
+In addition to the above, the first Thursday in November (or, if any other day be appointed by the civil authority, then such day) shall be observed as a day of Thanksgiving to Almighty God, for the Fruits of the Earth, and all other Blessings of his merciful Providence.
