@@ -79,6 +79,21 @@ Crown-copyright acknowledgment: **BCP 1662** (see `NOTICE.md`).
   cleanly in the diff.
 - American `v1928` and `v1979` Daily Office text: see the table above.
 
+## Scope of the Litany files
+
+The `the-litany/litany.md` file for each edition covers the **Litany proper** —
+invocations, deprecations, obsecrations, intercessions, Agnus Dei/Kyrie, the
+Lord's Prayer, the concluding suffrages and collects, the Prayer of St.
+Chrysostom, and the Grace (where the edition prints them). The **occasional
+prayers and thanksgivings** (For rain / fair weather / dearth / war / plague,
+etc.) and the **appended state prayers** (King's/Queen's Majesty, Royal-Family
+collect, Clergy, Ember) that some editions print after the Litany are handled in
+a later "Prayers and Thanksgivings" pass, not here — matching the Church of
+England 1662 Litany, which ends at the Grace. The Scottish 1929 book's Litany is
+not yet transcribed (the Scottish line currently centres the Communion office at
+1764/1929); `justus`'s `Scotland/Scot_Litany.htm` in fact serves the 1929 book,
+while the 1637 Litany is at `Scotland/Litany_1637.htm`.
+
 ## Uncertain passages (`<!-- VERIFY -->`)
 
 Each is flagged inline in the text and should be checked against a page scan.
@@ -106,3 +121,12 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1892 / 1928 (American) Evening Prayer | `O God, make speed to save us / O Lord, make haste to help us` | The justus 1892 and 1928 EP pages likewise omit this pair (present at their Morning Prayer); omitted following the source; confirm against a scan. |
 | 1928 (American) Evening Prayer | `St. Mark xiii. 35, 36.` | Source prints `St. Mark xiii, 35, 36.` with a comma after `xiii`; normalized to a period for citation consistency. |
 | 1928 (American) Evening Prayer | `Thy will be done, On earth as it is in heaven.` | The 1928 EP page reads thus, diverging from the same-edition 1928 Morning Prayer (`Thy will be done on earth, As it is in heaven.`); transcribed as the EP source prints it. |
+| 1604 Litany | `thy servaunt JAMES our most gracious king and governour` | Derived from the justus 1559 apparatus (which documents the JAMES name and the added Royal-Family petition); the her->his pronouns follow from the male sovereign. |
+| 1662 Litany (King) | `CHARLES, our most gracious King and Governor` | The CoE source names the reigning monarch (Charles III); the 1662 book named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan. |
+| 1637 (Scottish) Litany | `The Litany` | The source page body prints no standalone heading (it opens at the rubric 'Here followeth the Letany...'); the title was taken from the page's HTML title/index label. Confirm the printed heading against a 1637 scan. |
+| 1637 (Scottish) Litany | `honor` | The source prints `honor` (no `u`) in one petition though `honour` elsewhere; possible justus slip for 1637 `honour`. |
+| 1637 (Scottish) Litany | `Favorably` | The source prints `Favorably` (no `u`); the 1549/1552 parallel reads `Favourably`; possible justus slip. |
+| 1789 / 1892 (American) Litany | `in the day of judgment` | The justus 1789 page prints `in the day our judgment`; `our` is an OCR slip for `of` (cf. 1662 `in the day of judgement`). |
+| 1789 / 1892 (American) Litany | `whensoever they oppress us; and graciously hear us` | The justus page prints `oppress us . and graciously` (damaged semicolon); read against the 1662 parallel. |
+| 1789 / 1892 (American) Litany | `Fulfill` | The justus page prints `Fulfill`; the same-edition 1789 Evening Prayer prints `Fulfil`; internal commas restored from the parallel. |
+| 1892 (American) Litany | `That it may please thee to send forth laborers into thy harvest` | The justus 1789 page marks this petition `added in the 1892 BCP`; the only indicated 1892 difference. |

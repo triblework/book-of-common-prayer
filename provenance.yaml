@@ -359,3 +359,169 @@ records:
       - anchor: The Lordes Prayer
         source_reading: "Thy will be done, On earth as it is in heaven."
         note: "the 1928 EP page reads thus, diverging from the same-edition 1928 Morning Prayer ('Thy will be done on earth, As it is in heaven.'); transcribed as the EP source prints it; confirm against a 1928 scan"
+
+  # ---- Wave 3: The Litany ----
+  # Scope note (all editions): the Litany file covers the Litany proper — the
+  # invocations, deprecations, obsecrations, intercessions, Agnus Dei/Kyrie, the
+  # Lord's Prayer, the concluding suffrages and collects, the Prayer of St.
+  # Chrysostom, and the Grace (where the edition prints them). The occasional
+  # prayers and thanksgivings (For rain / fair weather / dearth / war / plague,
+  # etc.) and the appended state prayers (King's/Queen's Majesty, Royal Family
+  # collect, Clergy, Ember) that some editions print after the Litany are OUT of
+  # scope here (a later "Prayers and Thanksgivings" wave); this matches the
+  # Church of England 1662 Litany, which ends at the Grace.
+  # ---- English line (main) ----
+  - edition: 1549
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1549/Litany_1549.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1549 Litany. Retains the anti-papal deprecation ('from the tyranny of the bishop of Rome and all his detestable enormities'); the monarch is Edward VI; the Lord's Prayer is abbreviated ('Our father whiche art in heaven. With the residue of the Paternoster.'); the office ends at the Chrysostom collect (no Grace yet). Wohlers' italic people's-repetitions/responses rendered as plain spoken lines."
+    verify_items: []
+
+  - edition: 1552
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1552 Litany. Adds the opening rubric ('Here foloweth the Letany, to be used upon Sundayes, Wednesdayes, and Fridayes...'); still retains the anti-papal 'Bysshop of Rome' deprecation; monarch Edward VI; ends at the Chrysostom collect (no Grace). The appended occasional prayers (rain, fair weather, dearth, war, plague) are out of scope (see scope note)."
+    verify_items: []
+
+  - edition: 1559
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1559 Litany (the flagship diff). The anti-papal 'Bishop of Rome' deprecation is REMOVED; the monarch petition is reworded and names Elizabeth; the Grace (2 Corinthians 13) is added at the close. The justus page annotates the 1604 changes inline (bracketed Royal-Family petition, JAMES footnote) — those belong to 1604 and are excluded here. The appended state prayers (Queen's Majesty, Royal Family collect, Clergy) are out of scope (see scope note)."
+    verify_items: []
+
+  - edition: 1604
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1604 Litany, derived from the justus 1559 apparatus page (same method as 1604 Morning/Evening Prayer). Jacobean changes: monarch Elizabeth->JAMES (with feminine->masculine pronouns), and the added Royal-Family petition ('bless and preserve our gracious Queen Anne, Prince Henry, and the rest of the King and Queen's Royal issue'). Otherwise identical to 1559."
+    verify_items:
+      - anchor: The Litany
+        source_reading: "thy servaunt JAMES our most gracious king and governour"
+        note: "derived from the 1559 apparatus, which documents the JAMES name and the Royal-Family addition; the her->his pronouns follow from the male sovereign; confirm against a 1604 scan"
+
+  - edition: 1662
+    service: the-litany/litany
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/litany
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "1662 Litany from the Church of England website (authoritative 1662 publisher; Crown copyright in the UK). The 1662 deprecation adds 'and rebellion' and 'and schism' to the 1559 form. The CoE serves the currently-authorized monarch/Royal-Family names in the intercessions (see verify_items). Ends at the Grace + 'Here endeth the Litany'."
+    verify_items:
+      - anchor: The Litany
+        source_reading: "CHARLES, our most gracious King and Governor"
+        note: "the source (CoE, current authorized text) names the reigning monarch, CHARLES (Charles III); the 1662 book as first printed named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan before sign-off."
+      - anchor: The Litany
+        source_reading: "Queen Camilla, William Prince of Wales, the Princess of Wales"
+        note: "the source names the current Royal Family; the 1662 book named the then-Royal Family. Reign-dependent; reconcile against a dated 1662 scan before sign-off."
+
+  # ---- Scottish line (scottish) ----
+  - edition: 1637
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm
+    retrieved: 2026-08-12
+    cross_check:
+      - "NOTE: justus's Scotland/Scot_Litany.htm serves the 1929 book, NOT 1637; the correct 1637 source is Scotland/Litany_1637.htm (linked from Scotland/BCP_1637.htm)."
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1637 Scottish Litany ('Laud's Liturgy'). No anti-papal petition; monarch CHARLES (Charles I); a Royal-Family petition (Queen Mary, Prince Charles) is in the intercessions; the Grace (2 Corinth. 13. 13) is present. The appended state prayers (King's Majesty, Queen/Prince, Clergy, Ember-weeks) and the occasional prayers/thanksgivings after the Grace are out of scope (see scope note)."
+    verify_items:
+      - anchor: The Litany
+        source_reading: "The Litany"
+        note: "the source page body prints no standalone printed heading (it opens at the rubric 'Here followeth the Letany...'); the title is taken from the page's HTML <title> and index label; confirm the printed heading against a 1637 scan"
+      - anchor: The Litany
+        source_reading: "honor"
+        note: "the source prints 'honor' (no 'u') in this petition though it uses 'honour' elsewhere; possible justus slip for 1637 'honour'; confirm against a scan"
+      - anchor: The Prayers
+        source_reading: "Favorably"
+        note: "the source prints 'Favorably' (no 'u') though it uses 'u' spellings elsewhere and the 1549/1552 parallel reads 'Favourably'; possible justus slip; confirm against a scan"
+
+  # ---- American line (american) ----
+  - edition: 1789
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1789/Litany_1789.htm
+    retrieved: 2026-08-12
+    cross_check:
+      - "1662 Litany used to read OCR-damaged punctuation on the justus 1789 page"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1789 American Litany. No King/Royal-Family petitions and no anti-papal petition; the English King/Council/Nobility/Magistrates petitions are collapsed into one civil petition, 'That it may please thee to bless and preserve all Christian Rulers and Magistrates...'. The General Thanksgiving is printed within the Litany's conclusion (before 'Here endeth the Litany') and is kept."
+    verify_items:
+      - anchor: The Litany
+        source_reading: "in the day of judgment"
+        note: "the justus 1789 page prints 'in the day our judgment'; 'our' is an OCR corruption of 'of' (cf. 1662 'in the day of judgement'); confirm against a scan"
+      - anchor: The Prayers
+        source_reading: "whensoever they oppress us; and graciously hear us"
+        note: "the justus page prints 'oppress us . and graciously' (damaged semicolon: stray space + period + lowercase 'and'); read against the 1662 parallel; confirm against a scan"
+      - anchor: The Prayers
+        source_reading: "Fulfill"
+        note: "the justus page prints 'Fulfill'; the same-edition 1789 Evening Prayer prints 'Fulfil'; internal commas restored from the parallel (the page prints this prayer nearly comma-stripped); confirm against a scan"
+
+  - edition: 1892
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1789/Litany_1789.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1892 American Litany, derived from the justus 1789 Litany page, which states the 1892 text is 'essentially identical' and marks a single addition. The only 1892 change is the added petition 'That it may please thee to send forth laborers into thy harvest'. Carries forward the 1789 OCR verify items."
+    verify_items:
+      - anchor: The Litany
+        source_reading: "That it may please thee to send forth laborers into thy harvest"
+        note: "the justus 1789 page marks this petition 'added in the 1892 BCP'; it is the only indicated 1892 difference; confirm against an 1892 scan"
+      - anchor: The Litany
+        source_reading: "in the day of judgment"
+        note: "carried from 1789: the page prints 'in the day our judgment' ('our' an OCR slip for 'of'); confirm against a scan"
+      - anchor: The Prayers
+        source_reading: "whensoever they oppress us; and graciously hear us"
+        note: "carried from 1789: damaged semicolon on the justus page; confirm against a scan"
+      - anchor: The Prayers
+        source_reading: "Fulfill"
+        note: "carried from 1789: the page prints 'Fulfill' (1789 Evening Prayer prints 'Fulfil'); confirm against a scan"
+
+  - edition: 1928
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/1928/Litany.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1928 American Litany from the justus 1928 Satucket clean HTML. No anti-papal petition and no King/Royal-Family petitions; the civil petitions name 'The President of the United States' and 'all Christian Rulers and Magistrates'. Modernizations vs 1662 include 'from earthquake, fire, and flood', 'From all inordinate and sinful affections', 'send forth labourers into thy harvest', 'all who travel by land, by water, or by air', and undoubled invocations. Distinctively, the 1928 Litany has NO Prayer of St. Chrysostom, NO Grace, and NO 'Here endeth the Litany' (those live in the Daily Office); it ends at the 'We humbly beseech thee' collect and a discretionary closing rubric. The Ash Wednesday Penitential Office that follows on the source page is out of scope."
+    verify_items: []
+
+  - edition: 1979
+    service: the-litany/litany
+    source_url: http://justus.anglican.org/resources/bcp/bcpoffce.txt
+    retrieved: 2026-08-12
+    cross_check:
+      - "Wikisource / Wikimedia PD transcription of the 1979 book (add-only cross-check)"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1979 'The Great Litany' from the justus PD ASCII e-text bcpoffce.txt, ingested and reflowed mechanically by ingest/transform_1979_litany.py (source->file, never re-typed). Modern-language supplication (single, undoubled responses; 'O God the Holy Spirit, Sanctifier of the faithful'; 'from earthquake, fire, and flood'; 'submission to the Law'). The separate Supplication that follows in the e-text is out of scope. MECHANICAL REFLOW pending scan cross-check; the e-text carries occasional typos (e.g. 'lightening' for 'lightning', 'they Name' for 'thy Name') to reconcile then."
+    verify_items: []
