@@ -51,7 +51,7 @@ ALMIGHTY God, unto whom al hartes be open, al desires knowe, and from whom no se
 
 ## The Collect for the King
 
-<!-- VERIFY: 1604 Holy Communion is derived from the 1559 text via the justus apparatus, which documents the Jacobean change of the sovereign to JAMES (with the feminine->masculine pronouns following from the male King); no separate 1604 Communion page survives on justus; confirm the exact 1604 readings against a page scan -->
+<!-- VERIFY: 1604 Holy Communion is derived from the 1559 text via the justus apparatus, which documents the Jacobean change of the sovereign to 'JAMES our King and governoure' (with the feminine->masculine pronouns following from the male King); no separate 1604 Communion page survives on justus; confirm the exact 1604 readings against a page scan -->
 
 ALMIGHTY God, whose kyngdom is everlasting, and power infinite, have mercy upon the whole congregacion, and so rule the heart of thy chose servant JAMES our King and governoure that he (knowing whose minister he is) may above all thinges, seke thy honoure and glorye: and that we his subjectes, (duly considering whose aucthority he hath) may faithfully serve, honour, and humblye obey him in the and for the, according to thy blessed worde, and ordinance, through Jesus Christ our Lord, who with the and the holye ghost, lyveth and reygneth ever one God, worlde without ende. Amen.
 

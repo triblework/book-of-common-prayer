@@ -58,7 +58,7 @@ Almightie and everlasting GOD, wee bee taught by thy holy worde, that the hearte
 
 The Epistle of sainct Paule, written in the Chapiter of to the
 
-<!-- VERIFY: the 1549 source prints a fill-in formula with blank slots for the proper Epistle's book, chapter, and verse; the blanks did not survive transcription (rendered here as printed with the gaps closed up); confirm against a page scan -->
+<!-- VERIFY: the 1549 source prints a fill-in formula 'The Epistle written in the Chapiter of to the' with blank slots for the proper Epistle's book, chapter, and verse; the blanks did not survive transcription (rendered here as printed with the gaps closed up); confirm against a page scan -->
 
 > The Minister then shall reade thepistle. Immediatly after the Epistle ended, the priest, or one appointed to reade the Gospel, shall saie,
 

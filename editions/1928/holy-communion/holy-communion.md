@@ -100,7 +100,7 @@ O ALMIGHTY Lord, and everlasting God, vouchsafe, we beseech thee, to direct, san
 **Answer.** And with thy spirit.
 Let us pray.
 
-<!-- VERIFY: spine prints a floating "Answer." label separately, before "Minister. The Lord be with you."; assigned here to the response "And with thy spirit." per the standard salutation; confirm against a page scan -->
+<!-- VERIFY: spine prints a floating 'Answer.' label separately, before "Minister. The Lord be with you."; assigned here to the response "And with thy spirit." per the standard salutation; confirm against a page scan -->
 
 ## The Epistle
 
@@ -175,7 +175,7 @@ Let us pray for the whole state of Christ's Church.
 
 ALMIGHTY and everliving God, who by thy holy Apostle hast taught us to make prayers, and supplications, and to give thanks for all men; We humbly beseech thee most mercifully to accept our [alms and] oblations, and to receive these our prayers, which we offer unto thy Divine Majesty; beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord: And grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
 
-<!-- VERIFY: source prints "[alms and]" in brackets as optional text (said only when alms are collected); brackets retained as printed BCP typography, not an editorial gloss to be stripped; confirm against a page scan -->
+<!-- VERIFY: source prints '[alms and]' in brackets as optional text (said only when alms are collected); brackets retained as printed BCP typography, not an editorial gloss to be stripped; confirm against a page scan -->
 
 We beseech thee also, so to direct and dispose the hearts of all Christian Rulers, that they may truly and impartially administer justice, to the punishment of wickedness and vice, and to the maintenance of thy true religion, and virtue.
 
@@ -232,7 +232,7 @@ Lift up your hearts.
 **Priest.** Let us give thanks unto our Lord God.
 **Answer.** It is meet and right so to do.
 
-<!-- VERIFY: spine prints floating speaker labels "Answer." / "Priest." / "Answer." separately from the four versicles; assigned here to the responses per the standard Sursum Corda ("Lift up your hearts" being the Priest's per the preceding rubric); confirm against a page scan -->
+<!-- VERIFY: spine prints floating speaker labels 'Answer.' / "Priest." / "Answer." separately from the four versicles; assigned here to the responses per the standard Sursum Corda ("Lift up your hearts" being the Priest's per the preceding rubric); confirm against a page scan -->
 
 ## The Preface
 

@@ -6,7 +6,7 @@
 
 > If a Minister be persuaded that any person who presents himself to be a partaker of the holy Communion ought not to be admitted thereunto by reason of malicious and open contention with his neighbours, or other grave and open sin without repentance, he shall give an account of the same to the Ordinary of the place, and therein obey his order and direction, but so as not to refuse the Sacrament to any person until in accordance with such order and direction he shall have called him and advertised him that in any wise he presume not to come to the Lord's Table; Provided that in case of grave and immediate scandal to the Congregation the Minister shall not admit such person, but shall give an account of the same to the Ordinary within seven days after at the latest and therein obey the order and direction given to him by the Ordinary; Provided also that before issuing his order and direction in relation to any such person the Ordinary shall afford to him an opportunity for interview.
 
-<!-- VERIFY: this admission rubric ("give an account... to the Ordinary... within seven days... an opportunity for interview") appears to be a modern statutory amendment; the 1662 book as first printed carried the "open and notorious evil liver" rubric (cf. 1559/1552). Retained as printed in the Church of England source; reconcile against a dated 1662 page scan before sign-off. -->
+<!-- VERIFY: this admission rubric ('give an account... to the Ordinary... within seven days... an opportunity for interview') appears to be a modern statutory amendment; the 1662 book as first printed carried the "open and notorious evil liver" rubric (cf. 1559/1552). Retained as printed in the Church of England source; reconcile against a dated 1662 page scan before sign-off. -->
 
 ## The Lord's Prayer
 
@@ -49,7 +49,7 @@ ALMIGHTY God, unto whom all hearts be open, all desires known, and from whom no 
 
 Let us pray.
 
-<!-- VERIFY: the named monarch is reign-dependent. The Church of England source serves the current sovereign ("CHARLES our King"); the 1662 book as first printed named the then-reigning Charles II, so the first name "Charles" is period-correct. Reconcile against a dated 1662 page scan before sign-off. (One flag covers every occurrence of CHARLES below.) -->
+<!-- VERIFY: the named monarch is reign-dependent. The Church of England source serves the current sovereign ('CHARLES our King'); the 1662 book as first printed named the then-reigning Charles II, so the first name "Charles" is period-correct. Reconcile against a dated 1662 page scan before sign-off. (One flag covers every occurrence of CHARLES below.) -->
 
 ALMIGHTY God, whose kingdom is ever-lasting, and power infinite: Have mercy upon the whole Church; and so rule the heart of thy chosen servant CHARLES, our King and Governor, that he (knowing whose minister he is) may above all things seek thy honour and glory: and that we and all his subjects (duly considering whose authority he hath) may faithfully serve, honour, and humbly obey him, in thee, and for thee, according to thy blessed Word and ordinance; through Jesus Christ our Lord, who with thee and the Holy Ghost liveth and reigneth, ever one God, world without end. Amen.
 

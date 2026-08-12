@@ -173,7 +173,7 @@ This is a faithful saying, and worthy of all acceptation, that Christ Jesus came
 If any man sinne, we have an Advocate with the Father, Jesus Christ the righteous : and hee is the propitiation for our sinnes.
 1 John 2. 1, 2.
 
-<!-- VERIFY: in the source the marginal scripture citations of the Comfortable Words (Matth. 11. 28; John 3. 16; 1 Tim. 1. 15; 1 John 2. 1, 2) are set in a side column and were interleaved out of order by the HTML capture; they are realigned here to their own sentences; confirm against a page scan -->
+<!-- VERIFY: in the source the marginal scripture citations of the Comfortable Words, the first being 'Matth. 11. 28' (John 3. 16; John 3. 16; 1 Tim. 1. 15; 1 John 2. 1, 2) are set in a side column and were interleaved out of order by the HTML capture; they are realigned here to their own sentences; confirm against a page scan -->
 
 ## The Sursum Corda
 

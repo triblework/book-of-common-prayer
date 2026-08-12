@@ -121,13 +121,19 @@ records:
     retrieved: 2026-08-10
     cross_check: []
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
-    note: "Communion Office only ('Wee Bookie'); Morning Prayer is absent by design on this commit. Transcribed: exhortation + offertory."
+    note: "Communion Office only ('Wee Bookie'); the daily offices are absent by design on this commit. Wave 4 deepened the Wave-0 opening slice (exhortation + offertory, preserved byte-for-byte) to full Tier-1: the oblation of the elements, Sursum Corda, Preface, Proper Prefaces, Sanctus, the distinctive Scottish Prayer of Consecration (with the epiclesis and the manual-act letters (a)-(e)), the Prayer of Oblation ('WHICH WE NOW OFFER UNTO THEE'), the intercession after the consecration, Lord's Prayer, Invitation, Confession, Absolution, Comfortable Words, Humble Access, the 1549-form words of administration, the Thanksgiving, Gloria, and Blessing. This is the eucharistic prayer that Seabury carried to America; git diff v1764 v1789 -- .../holy-communion.md exposes the borrowing (README)."
     verify_items:
       - anchor: The Offertory
         source_reading: "Matth vi 9 20"
         note: "source prints 'Matth vi 9 20'; the passage is Matthew 6:19-20, so '9' is likely a printer or scan error for '19'; confirm against a page scan"
+      - anchor: The Preface
+        source_reading: "holy Father"
+        note: "the source footnotes that the words '(holy Father)' are omitted on Trinity Sunday; retained in brackets as printed; confirm against a page scan"
+      - anchor: The Comfortable Words
+        source_reading: "1 John ii. 12"
+        note: "source prints '1 John ii. 12' for the last Comfortable Word; the passage is 1 John 2:1, so '12' is likely a printer or scan error for '1'; confirm against a page scan"
 
   - edition: 1929
     service: holy-communion/holy-communion
@@ -524,4 +530,177 @@ records:
     depth: tier-1
     verifier: bcp-authoring
     note: "1979 'The Great Litany' from the justus PD ASCII e-text bcpoffce.txt, ingested and reflowed mechanically by ingest/transform_1979_litany.py (source->file, never re-typed). Modern-language supplication (single, undoubled responses; 'O God the Holy Spirit, Sanctifier of the faithful'; 'from earthquake, fire, and flood'; 'submission to the Law'). The separate Supplication that follows in the e-text is out of scope. MECHANICAL REFLOW pending scan cross-check; the e-text carries occasional typos (e.g. 'lightening' for 'lightning', 'they Name' for 'thy Name') to reconcile then."
+    verify_items: []
+
+  # ---- Holy Communion (Wave 4) ----
+  - edition: 1549
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1549/Communion_1549.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First Edwardian Communion ('The Supper of the Lorde and the Holy Communion, commonly called the Masse'). Flagship for the 1549->1552 restructuring: the Gloria in Excelsis stands early (after the Kyrie); the intercession, consecration, and oblation form one continuous Canon; the 1549 words of administration ('The body of our Lorde... preserve thy bodye and soule') are used. Editorial glosses, variant-printing footnotes, and an image caption on the justus page were dropped as apparatus."
+    verify_items:
+      - anchor: The Epistle
+        source_reading: "The Epistle written in the Chapiter of to the"
+        note: "the 1549 source prints a fill-in formula with blank slots for the proper Epistle's book, chapter, and verse; the blanks did not survive the HTML capture; confirm against a page scan"
+
+  - edition: 1552
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1552/Communion_1552.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Second Edwardian Communion, the flagship restructure: the ninefold Kyrie and early Gloria give way to the Ten Commandments; the Gloria in Excelsis moves to near the end; the memorialist words of administration ('Take and eate this, in remembraunce that Christ dyed for thee...'); the Prayer of Humble Access moves before the Consecration; the Prayer of Oblation becomes an optional post-communion prayer; and the Black Rubric (Declaration on Kneeling, 1552 'reall and essencial presence' wording) appears at the end. A few obvious OCR letter-scannos were cleaned."
+    verify_items:
+      - anchor: The Nicene Creed
+        source_reading: "God of goddes"
+        note: "1552 source prints 'God of goddes'; several printings have 'God of God'; confirm against a page scan"
+      - anchor: The Offertory
+        source_reading: "Job iiii"
+        note: "1552 source prints the Tobit offertory sentences with the citation 'Job iiii.' (a printer error for Tobit 4); retained as printed; confirm against a page scan"
+
+  - edition: 1559
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1559/Communion_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Elizabethan Communion. Follows the 1552 Cranmerian structure but restores the FUSED words of administration (the 1549 'The body of our Lorde... preserve thy bodye and soule' joined to the 1552 'Take and eate this, in remembraunce...') -- a flagship 1552->1559 diff; the Black Rubric is REMOVED. The Collect for the Queen and the intercession name Elizabeth. A couple of obvious OCR letter-scannos were cleaned."
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "as sane as he conveniently may"
+        note: "the opening admission rubric prints 'as sane as he conveniently may'; 1552 reads 'as soone...'; 'sane' is likely a printer/scan error for 'soone'; retained as printed; confirm against a page scan"
+      - anchor: The Offertory
+        source_reading: "Psal. lxi"
+        note: "the citation for 'Blessed be the man that provideth...' prints 'Psal. lxi.', printed on its own line after the following bidding; relocated to its sentence; 1552 cites 'Psal. xli.' (Psalm 41), so 'lxi' is likely a transposition; confirm against a page scan"
+
+  - edition: 1604
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1559/Communion_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Jacobean Communion, derived from the 1559 text via the justus apparatus (same method as 1604 Morning/Evening Prayer and the Litany): the only Communion change is the sovereign -- Elizabeth/Queen -> JAMES/King, with feminine->masculine pronouns, in the two Collects for the King and the intercession. No separate 1604 Communion page survives on justus."
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "as sane as he conveniently may"
+        note: "carried from 1559: the opening admission rubric prints 'as sane as he conveniently may' ('sane' likely a printer error for 'soone'); confirm against a page scan"
+      - anchor: The Collect for the King
+        source_reading: "JAMES our King and governoure"
+        note: "1604 reads 'JAMES our King and governoure' where 1559 reads 'Elizabeth our Quene'; derived from the justus 1559 apparatus documenting the Jacobean monarch change; confirm the exact 1604 readings against a page scan"
+      - anchor: The Offertory
+        source_reading: "Psal. lxi"
+        note: "carried from 1559: the citation for 'Blessed be the man...' prints 'Psal. lxi.' (likely a transposition of 'Psal. xli.', Psalm 41); confirm against a page scan"
+
+  - edition: 1662
+    service: holy-communion/holy-communion
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/lords-supper-or-holy-communion
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Standard Church of England Communion, from the CoE website (authoritative 1662 publisher; Crown copyright in the UK). The fused words of administration; the Black Rubric (Declaration on Kneeling) RESTORED at the end in its 1662 wording ('Corporal Presence of Christ's natural Flesh and Blood', where 1552 read 'reall and essencial presence') -- the flagship 1559->1662 diff (appear/vanish/return across 1552/1559/1662). Editorial asterisks were dropped while the 1662 square-bracket optional-text convention was kept; the CoE-served monarch names are reign-dependent (see verify_items)."
+    verify_items:
+      - anchor: The Prayer for the Whole State of Christ's Church
+        source_reading: "CHARLES our King"
+        note: "the CoE source serves the current sovereign ('CHARLES our King'); the 1662 book as first printed named the then-reigning Charles II, so the first name 'Charles' is period-correct; reconcile against a dated 1662 page scan. One flag covers every occurrence of CHARLES."
+      - anchor: The Lord's Prayer
+        source_reading: "give an account to the Ordinary within seven days an opportunity for interview"
+        note: "the CoE opening admission rubric adds administrative wording ('give an account... to the Ordinary... within seven days... an opportunity for interview') that reads like a modern statutory amendment; the 1662 book as first printed carried the 'open and notorious evil liver' rubric (cf. 1559/1552); retained as the CoE serves it; reconcile against a dated 1662 page scan before sign-off"
+
+  # ---- Holy Communion, Scottish line (Wave 4) ----
+  - edition: 1637
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Communion_1637.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Scottish 'Laud's Liturgy'. The distinctive high-church eucharistic prayer that founds the Scottish/American tradition: the opening Lord's Prayer is printed; the Presbyter offers the elements at the offertory; the Prayer of Consecration restores the epiclesis ('vouchsafe so to blesse and sanctifie with thy word and holy Spirit'); the Prayer of Oblation follows immediately after the Consecration; the Prayer of Humble Access moves after the Lord's Prayer; and only the 1549-form words of administration are used. Presbyter/Curate terms throughout; monarch is CHARLES. Image captions and the bracketed [optional] intercession clause were handled per the 1637 rubric."
+    verify_items:
+      - anchor: The Comfortable Words
+        source_reading: "Matth. 11. 28"
+        note: "the marginal scripture citations of the Comfortable Words ('Matth. 11. 28', John 3. 16, 1 Tim. 1. 15, 1 John 2. 1, 2) are set in a side column and were interleaved out of order by the HTML capture; realigned to their sentences; confirm against a page scan"
+
+  # ---- Holy Communion, American line (Wave 4) ----
+  - edition: 1789
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1789/Communion_1789.htm
+    retrieved: 2026-08-12
+    cross_check:
+      - "the parallel English/Scottish sentences were used to read OCR-damaged words on the justus 1789 page"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First American Communion, showing the Scottish influence (Seabury's concordat): the Prayer of Consecration ('ALL glory be to Thee...') is followed by the Prayer of Oblation with the memorial ('which we now offer unto thee') and the Invocation ('vouchsafe to bless and sanctify, with thy Word and Holy Spirit'), from the 1637/1764 Scottish rite; git diff v1764 v1789 exposes the borrowing (README). No prayer for the King (the state intercession prays for 'all Christian Rulers'); the Summary of the Law and the fused words of administration are present. The justus e-text carries scattered OCR omissions; a rubric that the page dates to 1883 was excluded as post-1789, and the several 'until 1833/1845' revision annotations on the page were not applied (justus's presented text is followed)."
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "the face of the Lord not be turned away"
+        note: "the justus 1789 e-text drops a word ('the face of the Lord not be turned away' for 'shall not be turned away'); retained as printed; confirm against a page scan"
+
+  - edition: 1892
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1892/Communion_1892.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892 Communion. Follows 1789 with the Summary of the Law and the American eucharistic prayer (Consecration + Oblation + Invocation). The justus e-text carries a few OCR scannos and scrambled Sursum Corda speaker labels (see verify_items)."
+    verify_items:
+      - anchor: The Offertory
+        source_reading: "under the direction the Minister"
+        note: "the final Offertory rubric prints 'under the direction the Minister'; a word ('of') appears dropped ('under the direction of the Minister'); kept as printed; confirm against a page scan"
+      - anchor: The Sursum Corda
+        source_reading: "Answer"
+        note: "the Sursum Corda versicles print with scrambled speaker labels (stray 'Answer.'/'Priest.' lines, 'Answer' prefixed to 'Lift up your hearts'); the standard Priest/Answer alternation was reconstructed; the spoken words are unchanged; confirm against a page scan"
+      - anchor: The Prayer of Humble Access
+        source_reading: "the flesh of Thy dear Son us Christ"
+        note: "the Prayer of Humble Access prints 'the flesh of Thy dear Son us Christ'; 'us' appears to be a corruption of 'Jesus' ('thy dear Son Jesus Christ'); kept as printed; confirm against a page scan"
+      - anchor: The Exhortations
+        source_reading: "after the manner dissemblers with God"
+        note: "the warning exhortation prints 'after the manner dissemblers with God'; a word ('of') appears dropped ('after the manner of dissemblers'); kept as printed; confirm against a page scan"
+
+  - edition: 1928
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/1928/HC.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928 Communion (justus/Satucket clean HTML). The Ten Commandments (with the inset-omission rubric), the Summary of the Law, and the Kyrie; the eucharistic prayer keeps the Consecration + Invocation + Oblation, and the Prayer of Humble Access moves after the Lord's Prayer (the older Scottish order). Floating speaker labels at the salutation and Sursum Corda were assigned to their responses (see verify_items)."
+    verify_items:
+      - anchor: The Collects
+        source_reading: "Answer"
+        note: "the source prints a floating 'Answer.' label before 'Minister. The Lord be with you.'; assigned to the response 'And with thy spirit.' per the standard salutation; confirm against a page scan"
+      - anchor: The Prayer for the Whole State of Christ's Church
+        source_reading: "alms and"
+        note: "the intercession prints '[alms and]' in brackets as optional text (said only when alms are collected); the brackets are kept as BCP typography, not an editorial gloss; confirm against a page scan"
+      - anchor: The Sursum Corda
+        source_reading: "Answer"
+        note: "the source prints floating 'Answer.'/'Priest.' labels separate from the four Sursum Corda versicles; assigned to the responses per the standard form; confirm against a page scan"
+
+  - edition: 1979
+    service: holy-communion/holy-communion
+    source_url: http://justus.anglican.org/resources/bcp/bcpeuchr.txt
+    retrieved: 2026-08-12
+    cross_check:
+      - "Wikisource / Wikimedia Commons 'Book of common prayer (TEC, 1979).pdf' for a scan cross-check (add-only, PD)"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Current American Holy Eucharist, from the public-domain ASCII e-text (bcpeuchr.txt) mechanically reflowed by ingest/transform_1979_hc.py (source -> script -> file; the modern text is never re-typed, which also avoids an output content-filter false-positive). Rite One is the office body (its diff against 1928 is the meaningful one); Rite Two, the contemporary rite (Eucharistic Prayers A-D, six Forms of the Prayers of the People, the contemporary Decalogue and acclamations), follows as a separate '## Rite Two' section (spec §4.2). The Rite Two region of the e-text carries scattered OCR damage (noted in a file comment); verify against a page scan before sign-off. No inline VERIFY flags (nothing single-reading is doubtful beyond the documented mechanical-reflow caveat)."
     verify_items: []

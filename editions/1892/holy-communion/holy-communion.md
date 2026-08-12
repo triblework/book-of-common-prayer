@@ -127,7 +127,7 @@ All things come of thee, O Lord, and of thine own have we given thee. 1 Chron. x
 
 > And when the Alms and Oblations are presented, there may be sung a Hymn, or an Offertory Anthem in the words of Holy Scripture or of the Book of Common Prayer, under the direction the Minister.
 
-<!-- VERIFY: spine prints "under the direction the Minister"; a word ("of") appears to be dropped (received text: "under the direction of the Minister"); kept as printed; confirm against a page scan -->
+<!-- VERIFY: spine prints 'under the direction the Minister'; a word ("of") appears to be dropped (received text: "under the direction of the Minister"); kept as printed; confirm against a page scan -->
 
 ## The Prayer for the Whole State of Christ's Church
 
@@ -183,7 +183,7 @@ If any man sin, we have an Advocate with the Father, Jesus Christ the righteous;
 **Priest.** Let us give thanks unto our Lord God.
 **Answer.** It is meet and right so to do.
 
-<!-- VERIFY: spine prints the Sursum Corda versicles with scrambled speaker labels (stray "> Answer." and "> Priest." lines, and "Answer" prefixed to "Lift up your hearts"); labels reconstructed to the standard Priest/Answer/Priest/Answer alternation; the spoken words are unchanged; confirm against a page scan -->
+<!-- VERIFY: spine prints the Sursum Corda versicles with scrambled speaker labels (stray '> Answer.' and "> Priest." lines, and "Answer" prefixed to "Lift up your hearts"); labels reconstructed to the standard Priest/Answer/Priest/Answer alternation; the spoken words are unchanged; confirm against a page scan -->
 
 ## The Preface
 
@@ -231,7 +231,7 @@ FOR the precious death and merits of thy Son Jesus Christ our Lord, and for the 
 
 WE do not presume to come to this Thy Table, O merciful Lord, trusting in our own righteousness, but in thy manifold and great mercies. We are not worthy so much as to gather up the crumbs under Thy Table. But Thou art the same Lord, Whose property is always to have mercy: Grant us therefore, gracious Lord, so to eat the flesh of Thy dear Son us Christ, and to drink His blood, that our sinful bodies may be made clean by His body, and our souls washed through His most precious blood, and that we may evermore dwell in Him, and He in us. Amen.
 
-<!-- VERIFY: spine prints "the flesh of Thy dear Son us Christ"; "us" appears to be a corruption of "Jesus" (received text: "thy dear Son Jesus Christ"); kept as printed; confirm against a page scan -->
+<!-- VERIFY: spine prints 'the flesh of Thy dear Son us Christ'; "us" appears to be a corruption of "Jesus" (received text: "thy dear Son Jesus Christ"); kept as printed; confirm against a page scan -->
 
 ## The Prayer of Consecration
 
@@ -315,7 +315,7 @@ ALMIGHTY God, who hast promised to hear the petitions of those who ask in thy So
 
 DEARLY beloved, on —— day next I purpose, through God’s assistance, to administer to all such as shall be religiously and devoutly disposed the most comfortable Sacrament of the Body and Blood of Christ; to be by them received in remembrance of his meritorious Cross and Passion; whereby alone we obtain remission of our sins, and are made partakers of the Kingdom of heaven. Wherefore it is our duty to render most humble and hearty thanks to Almighty God, our heavenly Father, for that he hath given his Son our Saviour Jesus Christ, not only to die for us, but also to be our spiritual food and sustenance in that holy Sacrament. Which being so divine and comfortable a thing to them who receive it worthily, and so dangerous to those who will presume to receive it unworthily; my duty is to exhort you, in the mean season to consider the dignity of that holy mystery, and the great peril of the unworthy receiving thereof; and so to search and examine your own consciences (and that not lightly, and after the manner dissemblers with God; but so) that ye may come holy and clean to such a heavenly Feast, in the marriage-garment required by God in holy Scripture, and be received as worthy partakers of that holy Table.
 
-<!-- VERIFY: spine prints "after the manner dissemblers with God"; a word ("of") appears to be dropped (received text: "after the manner of dissemblers with God"); kept as printed; confirm against a page scan -->
+<!-- VERIFY: spine prints 'after the manner dissemblers with God'; a word ("of") appears to be dropped (received text: "after the manner of dissemblers with God"); kept as printed; confirm against a page scan -->
 
 The way and means thereto is: First, to examine your lives and conversations by the rule of God’s command-ments; and whereinsoever ye shall perceive yourselves to have offended, either by will, word, or deed, there to bewail your own sinfulness, and to confess yourselves to Almighty God, with full purpose of amendment of life. And if ye shall perceive your offences to be such as are not only against God, but also against your neighbours; then ye shall reconcile yourselves unto them; being ready to make restitution and satisfaction, according to the uttermost of your powers, for all injuries and wrongs done by you to any other; and being likewise ready to forgive others who have offended you, as ye would have forgiveness of your offences at God’s hand: for otherwise the receiving of the holy Communion doth nothing else but increase your condem-nation. Therefore, if any of you be a blasphemer of God, an hinderer or slanderer of his Word, an adulterer, or be in malice, or envy, or in any other grievous crime; repent you of your sins, or else come not to that holy Table.
 
