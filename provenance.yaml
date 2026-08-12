@@ -101,14 +101,19 @@ records:
     service: daily-office/morning-prayer
     source_url: http://justus.anglican.org/resources/bcp/Scotland/MP_1637.htm
     retrieved: 2026-08-10
-    cross_check: []
+    cross_check:
+      - "a 1637 page scan is needed to verify the missing-page span (Te Deum through the Collects)"
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
+    note: "Full Tier-1 office ('Laud's Liturgy'; Scottish Presbyter/Minister terms; AV-style Venite/Benedictus/Jubilate; Psalm 23 as an alternate canticle). Morning Prayer ends at the Collect for Grace + the transitional rubric to the Litany; the state prayers are placed after the Litany in 1637 (not within MP)."
     verify_items:
       - anchor: The Opening Sentences
         source_reading: "Ps. 28"
         note: "source prints 'Ps. 28'; this sentence is Proverbs 28:13; confirm against a page scan"
+      - anchor: Te Deum Laudamus
+        source_reading: "missing page"
+        note: "the justus 1637 page notes a missing page from the Te Deum through the rubric before the Collects, preventing comparison with the original; that span was transcribed from a reconstructed text with jumbled canticle labels re-ordered by content; confirm against a 1637 scan"
 
   - edition: 1764
     service: holy-communion/holy-communion

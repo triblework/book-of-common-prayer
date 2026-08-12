@@ -87,6 +87,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1552 Morning Prayer | `Jerem. ii.` | Verse is Jeremiah 10:24; 1559 carries the same reading. |
 | 1559 Morning Prayer | `Lord, make haste to helpe us` | 1552 reads `O Lord`; the missing `O` may be a transcription slip. |
 | 1637 (Scottish) Morning Prayer | `Ps. 28` | Sentence is Proverbs 28:13. |
+| 1637 (Scottish) Morning Prayer | `missing page` | justus notes a missing page from the Te Deum through the rubric before the Collects; that span is a reconstructed text with re-ordered canticle labels — confirm against a 1637 scan. |
 | 1764 (Scottish) Communion | `Matth. vi. 9. 20` | Passage is Matthew 6:19-20; `9` likely for `19`. |
 | 1929 (Scottish) Communion | `Acts 20. 85` | Verse is Acts 20:35; `85` likely a scan error. |
 | 1789 (American) Morning Prayer | several roman-numeral citations | The justus 1789 page had OCR damage in citations (e.g. `Psalm ii 17` for Psalm 51:17); read against the parallel 1662 sentences. |
