@@ -4,7 +4,8 @@
 > **The full texts of the Book of Common Prayer are actively being transcribed
 > and added edition by edition — more services are coming soon.** The repository
 > structure, tooling, and diff mechanism are complete; today the transcribed
-> text centres on **Morning Prayer** (plus the Scottish Communion office). No
+> text covers **Morning Prayer and Evening Prayer** in full (plus the Scottish
+> Communion office). No
 > text is ever invented — everything is sourced from faithful public-domain
 > transcriptions (see [`SOURCES.md`](SOURCES.md)). See
 > [Transcription status](#transcription-status) for what's here and what's next.
@@ -93,18 +94,18 @@ see `NOTICE.md`.)*
 > ever invented — see `SOURCES.md`).
 
 The **structure is complete**: all three branches and all twelve tags exist, and
-the diff mechanism works end-to-end. The **transcribed text so far** centres on
-the **Daily Office (Morning Prayer)** — the richest source of famous
-edition-to-edition change — plus the **Scottish Communion** office at 1764/1929
-(the 1764 book was Communion-only).
+the diff mechanism works end-to-end. The **transcribed text so far** covers the
+**Daily Office — Morning Prayer and Evening Prayer** at full Tier-1 depth across
+every edition that has them (English 1549–1662, Scottish 1637, American
+1789–1979) — the richest source of famous edition-to-edition change — plus the
+**Scottish Communion** office at 1764/1929 (the 1764 book was Communion-only, so
+it has no daily office).
 
-**Coming soon** (in progress): Evening Prayer across all editions, the full Holy
-Communion office, the occasional offices (Baptism, Confirmation, Matrimony,
-Visitation of the Sick, Burial), the Collects, the Catechism, and the Ordinal;
-the Psalter and lectionary tables will follow. Two American tags (`v1928`,
-`v1979`) currently carry a documented sourcing gap rather than invented text —
-justus offers 1928 only as an OCR scan and the 1979 lives on JavaScript sites the
-static scraper can't yet capture — and clean sources for them are being sought.
+**Coming soon** (in progress): the Litany, the full Holy Communion office, the
+occasional offices (Baptism, Confirmation, Matrimony, Visitation of the Sick,
+Burial), the Collects, the Catechism, and the Ordinal; the Psalter and lectionary
+tables will follow. All twelve tags now carry sourced text (the earlier 1928/1979
+sourcing gaps were closed with clean public-domain sources — see `SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.

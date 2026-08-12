@@ -61,6 +61,16 @@ The American 1789 Communion Office borrowed substantially from the Scottish
 this as an explicit merge (see the brief §6D), the influence is real and is
 recorded here for the historical record.
 
+## History rebuilds
+
+The published branches and tags are build artifacts, regenerated from the
+`authoring` source whenever a service is added or deepened. Rebuild log:
+
+- **2026-08-11** — Wave 1: Morning Prayer brought to full Tier-1 across all ten
+  daily-office editions.
+- **2026-08-12** — Wave 2: Evening Prayer added at full Tier-1 across the same
+  ten editions (1764/1929 remain Communion-only).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally
