@@ -11,6 +11,82 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT STATUS (2026-08-12) — Waves 0–4 PUBLISHED; Wave 5 IN PROGRESS
+
+**Waves 0–4 are DONE and PUBLISHED** (force-pushed to origin). Published tips:
+`main 0bc0686 · scottish 5426855 · american 0e7818c`; all 12 `vYYYY` tags recreated.
+Wave 1 = Morning Prayer, Wave 2 = Evening Prayer, Wave 3 = The Litany (each full
+Tier-1 across the ten daily-office editions), **Wave 4 = Holy Communion (full
+Tier-1 across ALL TWELVE editions)**. `authoring` tip after the Wave-5 flagship
+commit is on origin.
+
+**Wave 5 = Baptism + Confirmation — STARTED, not finished. Nothing wired into
+`editions.yaml` yet, so the build is still green on the Wave-4 state.** What is
+done and what remains:
+
+- **Scope decided:** Wave 5 core = **Public Baptism of Infants** (`occasional-offices/public-baptism.md`)
+  + **Confirmation** (`occasional-offices/confirmation.md`). Private Baptism and
+  Baptism of Those of Riper Years (both on the same justus/CoE source pages) are
+  **DEFERRED** to a follow-up occasional-offices pass (document in NOTICE/SOURCES,
+  like the Litany's deferred prayers).
+- **Presence:** Baptism & Confirmation are present at the same TEN editions as
+  MP/EP/Litany (English 1549/1552/1559/1604/1662, Scottish 1637, American
+  1789/1892/1928/1979); **absent at 1764 and 1929** (Communion-only Scottish line).
+  In `editions.yaml`: add `occasional-offices/public-baptism` and
+  `occasional-offices/confirmation` to the `present:` of those ten, and add BOTH to
+  1764's `absent:` list (1929 inherits the drop from 1764, as MP/EP/Litany do).
+- **Sources (all confirmed to exist):** Baptism = justus `<year>/Baptism_<year>.htm`
+  (1549/1552/1559/1789/1892), `1928/Baptism.htm`, Scotland `Baptism_1637.htm`; 1604
+  DERIVE from 1559 (no 1604 page — monarch is not in baptism, so 1604 baptism is
+  likely `reviewed-unchanged` = inherit 1559, OR tiny changes — CONFIRM against the
+  1559 page apparatus); 1662 = CoE `book-common-prayer/public-baptism-infants`;
+  1979 = PD e-text `bcpspecl.txt` heading `<Holy Baptism>` (transform-script it,
+  like HC). Confirmation = justus `<year>/Confirmation_<year>.htm` (1549 & 1559 are
+  COMBINED with the Catechism — extract the Confirmation office only; the Catechism
+  is Wave 7), `1892/Confirmation_1892.htm`, `1789/Confirmation_1789.htm`; 1662 = CoE
+  `order-confirmation`; 1928/1637 confirmation URLs still to discover (check the
+  justus 1928 index / Scotland index); 1979 confirmation is in `bcpepscl.txt`
+  (Episcopal Offices) — find its heading.
+- **Method (proven in Wave 4, REUSE IT):** `ingest/hc_clean.py <url>` makes a
+  byte-faithful spine (works on Baptism/Confirmation pages too). Baptism spines are
+  already generated in `ingest/spines-baptism/` (1549 1552 1559 1637 1789 1892 1928).
+  `ingest/fidelity_check.py <authored.md> <spine.md>` is the anti-fabrication gate
+  (every authored word must be attested in the spine). `ingest/HC_STRUCTURING_GUIDE.md`
+  is the subagent brief (generalize it for baptism/confirmation anchor menus).
+  Hand-author flagship editions; delegate the rest to subagents under the fidelity
+  gate; derive 1604; transform-script 1979; reconcile every inline VERIFY into
+  provenance.yaml + SOURCES.md (verify_index keys on the FIRST single-quoted reading
+  in each comment — keep keys single-quoted).
+- **DONE so far (committed + pushed to origin/authoring):** the flagship English
+  **Public Baptism 1549 + 1552** (`editions/1549|1552/occasional-offices/public-baptism.md`)
+  — the famous 1552 simplification: 1549's early cross-signing, exorcism, trine
+  immersion, chrisom (white vesture) and anointing are all removed; 1552 adds the
+  Prayer over the Children, the Blessing of the Water, moves the cross-signing to
+  AFTER baptism, adds the Reception + Thanksgiving-after, and uses a single dip and
+  combined vows. Both pass the fidelity gate (only justified OCR fixes).
+- **Baptism anchor menu (established by the flagship — reuse for all editions):**
+  `## The Introduction` / `## The Exhortation` / `## The Flood Prayer` /
+  `## The Signing with the Cross` (1549 early; 1552+ after Baptism — one anchor,
+  moves) / `## The Second Prayer` / `## The Exorcism` (1549 only) / `## The Gospel` /
+  `## The Exhortation upon the Gospel` / `## The Lord's Prayer` / `## The Creed`
+  (1549) / `## The Thanksgiving` / `## The Address to the Godparents` / `## The Vows` /
+  `## The Prayer over the Children` (1552+) / `## The Blessing of the Water` (1552+) /
+  `## The Baptism` / `## The White Vesture` (1549) / `## The Anointing` (1549) /
+  `## The Reception` (1552+) / `## The Thanksgiving after Baptism` (1552+) /
+  `## The Final Exhortation` / `## The Rubrics`. 1662 adds a distinct Blessing of the
+  Water + the reception of riper-years cross-ref; the American line adds its own
+  wording — confirm against each spine.
+- **REMAINING for Wave 5:** author Public Baptism for 1559, 1604(derive), 1662(CoE),
+  1637, 1789, 1892, 1928, 1979(transform); author Confirmation for all ten; wire
+  `editions.yaml`; write provenance + SOURCES rows; update README (add a Baptism
+  flagship-diff example: `git diff v1549 v1552 -- .../public-baptism.md`) + NOTICE
+  (Wave 5 rebuild log, note the Private/Riper-Years deferral); build WITHOUT --check;
+  validate all tips green; commit + push; then PUBLISH (force-push) with explicit
+  user go-ahead. Publish sequence is §5 below (recovery record → build_history
+  --publish --live-repo → fetch objects → force-push branches + tags → verify).
+
+---
+
 ## 0. First actions (do these in order)
 
 1. `cd /Users/wtrible/Developer/bcp` and read:
