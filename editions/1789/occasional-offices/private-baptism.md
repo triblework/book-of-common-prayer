@@ -68,7 +68,7 @@ DOST thou in the name of this Child renounce the devil and all his works, the va
 
 **Answer.** I will, by God's help.
 
-<!-- VERIFY: the "Wilt thou be baptized in this Faith? / That is my desire." exchange is printed in the 1789 source enclosed in square brackets with a footnote marking it an error later omitted in 1832; kept here as 1789 printed text, with the editorial brackets, asterisk, and footnote dropped; confirm against a page scan -->
+<!-- VERIFY: source prints 'Wilt thou be baptized in this Faith?' (with the answer 'That is my desire.') enclosed in square brackets with a footnote marking it an error later omitted in 1832; kept here as 1789 printed text, with the editorial brackets, asterisk, and footnote dropped; confirm against a page scan -->
 
 ## The Reception
 

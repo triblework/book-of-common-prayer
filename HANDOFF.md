@@ -11,17 +11,41 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS (2026-08-12) — Waves 0–4 PUBLISHED; Wave 5 IN PROGRESS
+## CURRENT STATUS (2026-08-12) — Waves 0–4 PUBLISHED; Wave 5 DONE ON `authoring`, NOT YET PUBLISHED
 
 **Waves 0–4 are DONE and PUBLISHED** (force-pushed to origin). Published tips:
 `main 0bc0686 · scottish 5426855 · american 0e7818c`; all 12 `vYYYY` tags recreated.
 Wave 1 = Morning Prayer, Wave 2 = Evening Prayer, Wave 3 = The Litany (each full
 Tier-1 across the ten daily-office editions), **Wave 4 = Holy Communion (full
-Tier-1 across ALL TWELVE editions)**. `authoring` tip after the Wave-5 flagship
-commit is on origin.
+Tier-1 across ALL TWELVE editions)**.
 
-**Wave 5 = Baptism + Confirmation — STARTED, not finished. Nothing wired into
-`editions.yaml` yet, so the build is still green on the Wave-4 state.** What is
+**Wave 5 = the Christian-initiation offices — COMPLETE on `authoring` (built + all
+three invariant tools GREEN on every tip; committed + pushed to origin/authoring).
+NOT YET published to the public branches (awaiting user go-ahead on the force-push).**
+Scope was the FULL initiation family (nothing deferred within it): four services
+under `occasional-offices/` — **public-baptism**, **private-baptism**,
+**baptism-riper-years** (a 1662 addition), **confirmation**. Public/Private Baptism
+and Confirmation across the ten daily-office editions (absent 1764/1929); Riper
+Years present only at 1662/1789/1892 (1928/1979 fold adult baptism into one Holy
+Baptism office → riper-years in 1928 `absent:`, inherited-absent at 1979). 1604
+Public Baptism is unchanged from 1559 (baptism has no monarch) → inherits 1559
+(reviewed-unchanged); the real 1604 changes are in Private Baptism (Hampton Court:
+restricted to a lawful minister + expanded doubt-rubric/examination) and
+Confirmation (`bothe` removed, `prayer`→`prayers`). 1979 offices built by transform
+scripts (`ingest/transform_1979_baptism.py`, `..._confirmation.py`; Confirmation is
+in `bcpastrl.txt`, NOT `bcpepscl.txt`). Method assets: `ingest/WAVE5_SOURCE_MAP.md`,
+`ingest/WAVE5_STRUCTURING_GUIDE.md`, spines in `ingest/spines-baptism|-confirmation|-coe|-1979`.
+DEFERRED to later waves (documented in NOTICE/SOURCES): the 1549 "Blessing of the
+Font" prayers (printed after private baptism) and the Catechism bodies bundled on
+the 1549/1559/1928 Confirmation pages (the Catechism is Wave 7).
+**To publish Wave 5: follow §5 (recovery record → build_history --publish --live-repo
+→ import objects → force-with-lease branches + force tags → verify local==remote +
+flagship diffs).** After publishing, next is Wave 6 (Matrimony/Visitation/Burial;
+American drops Commination → `absent:`).
+
+<!-- Superseded history of the Wave-5 build (kept for reference): -->
+
+**[SUPERSEDED] Wave 5 = Baptism + Confirmation — STARTED, not finished.** What is
 done and what remains:
 
 - **Scope decided:** Wave 5 core = **Public Baptism of Infants** (`occasional-offices/public-baptism.md`)

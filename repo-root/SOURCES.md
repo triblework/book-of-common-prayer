@@ -151,3 +151,85 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1892 / 1928 (American) Communion | `Answer` | Floating Sursum Corda / salutation speaker labels were assigned to their responses; the spoken words are unchanged. |
 | 1928 (American) Communion | `alms and` | The intercession prints `[alms and]` in brackets as optional text (said only when alms are collected); kept as BCP typography. |
 | 1929 (Scottish) Communion | `Elizabeth our Queen` | The justus page follows a later reprint; a 1929 book named the reigning King (George V). Reign-dependent. |
+| 1549 Confirmation (The Signing with the Cross) | `heades` | source prints 'heades' with a footnote '* head in several printings'; 'heades' kept as printed; confirm against a page scan |
+| 1549 Private Baptism (The Private Baptism) | `he*` | source prints 'he*' with a footnote '* they in some printings'; 'he' kept as the primary reading; confirm against a page scan |
+| 1552 Confirmation (The Confirmation) | `Lard` | source prints 'Lard'; likely an OCR/scan corruption of 'Lord'; kept as printed; confirm against a page scan |
+| 1552 Confirmation (The Confirmation) | `let out crye` | source prints 'let out crye'; likely 'let our crye'; kept as printed; confirm against a page scan |
+| 1552 Private Baptism (The Introduction) | `shot compel` | source prints 'shot compel'; likely 'shal compel'; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Preface) | `should he doen` | source prints 'should he doen'; likely 'should be doen'; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Preface) | `shoulde he ministred` | source prints 'shoulde he ministred'; likely 'shoulde be ministred'; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Confirmation) | `questyone` | source prints 'questyone'; likely 'questions'; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Confirmation) | `bothe` | source prints 'bothe' with footnote "'bothe' removed in 1604"; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Confirmation) | `prayer` | source prints 'prayer' with footnote "'prayers' in 1604"; kept as printed; confirm against a page scan |
+| 1559 Confirmation (The Rubrics) | `he ordred` | source prints 'he ordred'; likely 'be ordred'; and 'sheal'; likely 'shal'; kept as printed; confirm against a page scan |
+| 1559 Private Baptism (The Vows) | `ponce Pilate` | source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan |
+| 1559 Private Baptism (The Vows) | `wet doune` | source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan |
+| 1559 Public Baptism (The Flood Prayer) | `thy` | source prints 'thy' ('with thy holy gost'); a footnote records 'the' in 1604 printings; kept as printed; confirm against a page scan |
+| 1604 Confirmation (The Preface) | `should he doen` | source prints 'should he doen'; likely 'should be doen'; kept as printed; confirm against a page scan |
+| 1604 Confirmation (The Preface) | `shoulde he ministred` | source prints 'shoulde he ministred'; likely 'shoulde be ministred'; kept as printed; confirm against a page scan |
+| 1604 Confirmation (The Confirmation) | `questyone` | source prints 'questyone'; likely 'questions'; kept as printed; confirm against a page scan |
+| 1604 Confirmation (The Rubrics) | `he ordred` | source prints 'he ordred'; likely 'be ordred'; and 'sheal'; likely 'shal'; kept as printed; confirm against a page scan |
+| 1604 Private Baptism (The Vows) | `ponce Pilate` | source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan |
+| 1604 Private Baptism (The Vows) | `wet doune` | source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan |
+| 1637 Public Baptism (The Flood Prayer) | `Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.` | source prints 'Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.' as a bracketed clause marked with an asterisk keyed to the following font-water rubric; the enclosing brackets are source (not editorial) and were kept, the asterisk dropped; confirm against a page scan |
+| 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan |
+| 1789 Baptism of Riper Years (The Flood Prayer) | `his family m the ark` | source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan |
+| 1789 Baptism of Riper Years (The Rubrics) | `he may he admitted` | source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan |
+| 1789 Baptism of Riper Years (The Rubrics) | `shall he assembled` | source prints 'shall he assembled'; likely 'shall be assembled'; kept as printed; confirm against a page scan |
+| 1789 Baptism of Riper Years (The Rubrics) | `shall he added` | source prints 'shall he added' and 'shall he used'; likely 'shall be added'/'shall be used'; kept as printed; confirm against a page scan |
+| 1789 Baptism of Riper Years (The Rubrics) | `shall he brought` | source prints 'shall he brought'; likely 'shall be brought'; kept as printed; confirm against a page scan |
+| 1789 Confirmation (The Renewal of Vows) | `under took` | source prints 'under took'; likely 'undertook'; kept as printed; confirm against a page scan |
+| 1789 Private Baptism (The Vows) | `Wilt thou be baptized in this Faith?` | source prints 'Wilt thou be baptized in this Faith?' (with the answer 'That is my desire.') enclosed in square brackets with a footnote marking it an error later omitted in 1832; kept here as 1789 printed text, with the editorial brackets, asterisk, and footnote dropped; confirm against a page scan |
+| 1789 Private Baptism (The Reception) | `let is give thanks` | source prints 'let is give thanks'; likely 'let us give thanks'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Flood Prayer) | `his family m the ark` | source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Lord's Prayer) | `Thy will be done oil earth` | source prints 'Thy will be done oil earth'; likely 'on earth'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Final Exhortation) | `Baptism repre-sent unto us` | source prints 'Baptism repre-sent unto us'; rejoined as 'represent'; 1789 parallel and CoE tradition read 'representeth'; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Rubrics) | `he may he admitted` | source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Rubrics) | `persons shalt be assembled` | source prints 'persons shalt be assembled'; likely 'shall be assembled'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Rubrics) | `shall he added` | source prints 'shall he added' and 'shall he used'; likely 'shall be added'/'shall be used'; kept as printed; confirm against a page scan |
+| 1892 Baptism of Riper Years (The Rubrics) | `shall he brought` | source prints 'shall he brought'; likely 'shall be brought'; kept as printed; confirm against a page scan |
+| 1892 Confirmation (The Renewal of Vows) | `under took` | source prints 'under took'; likely 'undertook'; kept as printed; confirm against a page scan |
+| 1892 Confirmation (The Lord's Prayer) | `Answer` | source prints the label 'Answer' before 'The Lord be with you' (label misplaced, likely OCR); assigned to the response 'And with thy spirit' per the parallel American rite; confirm against a page scan |
+| 1892 Private Baptism (The Reception) | `let is give thanks` | source prints 'let is give thanks'; likely 'let us give thanks'; kept as printed; confirm against a page scan |
+| 1892 Public Baptism (The Exhortation) | `graft` | source prints 'graft' ('he will graft to this Child'); likely 'grant'; kept as printed; confirm against a page scan |
+| 1892 Public Baptism (The Exhortation upon the Gospel) | `sternal` | source prints 'sternal' ('the blessing of sternal life'); likely 'eternal'; kept as printed; confirm against a page scan |
+| 1928 Confirmation (The Lord's Prayer) | `Answer` | source prints the label 'Answer' before 'The Lord be with you' (label misplaced, likely OCR); assigned to the response 'And with thy spirit' per the parallel American rite; confirm against a page scan |
+| 1928 Public Baptism (The Second Prayer) | `arid` | source prints 'arid' ('Ask, arid ye shall have'); likely 'and'; kept as printed; confirm against a page scan |
+| 1928 Public Baptism (The Gospel) | `putS` | source prints 'putS' ('putS his hands upon them'); likely 'put'; kept as printed; confirm against a page scan |
+
+## Occasional offices — Baptism family & Confirmation (Wave 5)
+
+Four services under `occasional-offices/`, at Tier-1 across every edition that has
+them. Public/Private Baptism and Confirmation run across the ten daily-office
+editions (English 1549–1662, Scottish 1637, American 1789–1979); the Scottish
+1764/1929 line is Communion-only, so all four are **absent** there. **Baptism of
+Those of Riper Years** is a 1662 addition, present only at 1662, 1789 and 1892 —
+the American line folds infant and adult baptism into a single Holy Baptism office
+by 1928/1979, so the separate riper-years office is absent at 1928/1979.
+
+Sources (justus per-edition pages; the 1662 texts from the Church of England
+website; the 1979 texts from the public-domain ASCII e-text):
+
+| Edition | Public / Private Baptism | Confirmation |
+|---------|--------------------------|--------------|
+| 1549 | `1549/Baptism_1549.htm` | `1549/Confirmation_1549.htm` (bundled with the Catechism; office only) |
+| 1552 | `1552/Baptism_1552.htm` | `1552/Confirmation_1552.htm` |
+| 1559 | `1559/Baptism_1559.htm` | `1559/Confirmation_1559.htm` (bundled with the Catechism; office only) |
+| 1604 | derived from the justus 1559 apparatus | derived from the justus 1559 apparatus |
+| 1662 | CoE `public-baptism-infants` / `private-baptism-infants` | CoE `order-confirmation` |
+| 1637 | `Scotland/Baptism_1637.htm` | `Scotland/Confirmation_1637.htm` |
+| 1789 | `1789/Baptism_1789.htm` | `1789/Confirmation_1789.htm` |
+| 1892 | `1892/Baptism_1892.htm` | `1892/Confirmation_1892.htm` |
+| 1928 | `1928/Baptism.htm` (single Holy Baptism office) | `1928/Confirnation.htm` (justus filename typo; bundled with the Offices of Instruction; office only) |
+| 1979 | `bcpspecl.txt` (Holy Baptism / Emergency Baptism) | `bcpastrl.txt` (Pastoral Offices) |
+
+Baptism of Riper Years: 1662 CoE `public-baptism-such-are-riper`; 1789
+`1789/Baptism_1789.htm#Adult Baptism`; 1892 `1892/Baptism_1892.htm#Adult Baptism`.
+
+Scope notes: the **1604 Public Baptism** office is unchanged from 1559 (baptism
+carries no sovereign's name) and inherits the 1559 file; the flagged 1604 changes
+fall in **Private Baptism** (the Hampton Court restriction to a lawful minister,
+an expanded doubt-rubric and examination) and in **Confirmation** (`bothe`
+removed; `prayer`→`prayers`). The 1549 "Blessing of the Font" prayers (printed
+after the private-baptism office) and the Catechism bodies bundled on the
+1549/1559/1928 Confirmation pages are deferred to later waves.

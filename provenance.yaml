@@ -708,3 +708,510 @@ records:
     verifier: bcp-authoring
     note: "Current American Holy Eucharist, from the public-domain ASCII e-text (bcpeuchr.txt) mechanically reflowed by ingest/transform_1979_hc.py (source -> script -> file; the modern text is never re-typed, which also avoids an output content-filter false-positive). Rite One is the office body (its diff against 1928 is the meaningful one); Rite Two, the contemporary rite (Eucharistic Prayers A-D, six Forms of the Prayers of the People, the contemporary Decalogue and acclamations), follows as a separate '## Rite Two' section (spec §4.2). The Rite Two region of the e-text carries scattered OCR damage (noted in a file comment); verify against a page scan before sign-off. No inline VERIFY flags (nothing single-reading is doubtful beyond the documented mechanical-reflow caveat)."
     verify_items: []
+
+  # ==================== Wave 5: Baptism family + Confirmation ====================
+  # ---- public-baptism ----
+  - edition: 1549
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1549/Baptism_1549.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First Edwardian Public Baptism, ministered at the church door. Flagship for the 1552 simplification: it keeps the early signing with the cross (before the second prayer), the exorcism ('I commaunde thee, uncleane spirite'), trine immersion (dipping thrice), the white vesture (Chrisom), and the anointing -- all of which 1552 removes. Church-door/font rubrics kept as printed."
+    verify_items: []
+
+  - edition: 1552
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1552/Baptism_1552.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Second Edwardian Public Baptism, the famous simplification: the exorcism, the early cross-signing, trine immersion, the chrisom and the anointing are all removed; a single dip and combined vows are used; the Prayer over the Children and the Blessing of the Water are added; the signing with the cross moves to AFTER the baptism; and the Reception and the Thanksgiving after Baptism are added. Ministered at the font (not the church door). git diff v1549 v1552 exposes the reform (README)."
+    verify_items: []
+
+  - edition: 1559
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Baptism_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Elizabethan Public Baptism. Structurally the 1552 rite. Transcribed from the justus 1559 page, which interleaves the 1604 variant readings (footnoted); only the 1559 readings were taken here (the 1604 readings are used in the 1604 files)."
+    verify_items:
+      - anchor: The Flood Prayer
+        source_reading: "thy"
+        note: "source prints 'thy' ('with thy holy gost'); a footnote records 'the' in 1604 printings; kept as printed; confirm against a page scan"
+
+  - edition: 1604
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Baptism_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Jacobean Public Baptism. The public-baptism office is unchanged from 1559 (baptism carries no sovereign's name, so the Jacobean monarch change that drove the 1604 Morning/Evening Prayer, Litany and Communion does not touch it); this cell inherits the 1559 office. The only 1604 public-baptism variant the justus 1559 apparatus records is a single spelling nuance in the Flood Prayer ('thy'/'the'), flagged on the 1559 text and not separately applied. (The 1604 changes to private baptism and to the catechism are handled in their own files.)"
+    verify_items: []
+
+  - edition: 1662
+    service: occasional-offices/public-baptism
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/public-baptism-infants
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Standard Church of England Public Baptism, from the CoE website (authoritative 1662 publisher; Crown copyright in the UK). Adds the distinct Blessing of the Water ('Almighty everliving God, whose most dearly beloved Son...') as a section in its own right, the Prayer over the Children, and the Reception; the signing with the cross follows the baptism; the closing rubrics carry the confirmation cross-reference and the 30th-Canon (1604) note on the sign of the cross. [square brackets] kept as BCP optional-text typography."
+    verify_items:
+      - anchor: The Final Exhortation
+        source_reading: "Foreasmuch"
+        note: "source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan"
+
+  - edition: 1637
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Baptism_1637.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Scottish 'Laud's Liturgy' Public Baptism. Follows the 1552/1559 shape with 'Presbyter or Minister' throughout; no sovereign's name appears in the office. A bracketed font-hallowing clause is keyed by an asterisk to the font-water rubric (kept as source typography)."
+    verify_items:
+      - anchor: The Flood Prayer
+        source_reading: "Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things."
+        note: "source prints 'Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.' as a bracketed clause marked with an asterisk keyed to the following font-water rubric; the enclosing brackets are source (not editorial) and were kept, the asterisk dropped; confirm against a page scan"
+
+  - edition: 1789
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1789/Baptism_1789.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First American Public Baptism of Infants (the public portion of the 1789 baptism page). The justus e-text renders each rubric's opening pilcrow as a mojibake glyph (dropped as a corrupted marker; mechanical, noted in the file)."
+    verify_items: []
+
+  - edition: 1892
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1892/Baptism_1892.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892 Public Baptism of Infants (public portion). The justus e-text carries a couple of OCR letter-scannos ('graft' for 'grant', 'sternal' for 'eternal'), kept as printed and flagged."
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: "graft"
+        note: "source prints 'graft' ('he will graft to this Child'); likely 'grant'; kept as printed; confirm against a page scan"
+      - anchor: The Exhortation upon the Gospel
+        source_reading: "sternal"
+        note: "source prints 'sternal' ('the blessing of sternal life'); likely 'eternal'; kept as printed; confirm against a page scan"
+
+  - edition: 1928
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1928/Baptism.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928 Holy Baptism (the single office folds infant and adult baptism together via alternate 'When the Office is used for Children/Adults' address blocks, both kept). This edition OMITS the Flood Prayer (only the 'aid of all who need' second prayer survives), prints all three Gospel options (Mark/John/Matthew), the Sursum Corda before the water-blessing, and closes with the apostolic benediction (Ephesians 3) as its Blessing; there is no separate 'Forasmuch' final exhortation."
+    verify_items:
+      - anchor: The Second Prayer
+        source_reading: "arid"
+        note: "source prints 'arid' ('Ask, arid ye shall have'); likely 'and'; kept as printed; confirm against a page scan"
+      - anchor: The Gospel
+        source_reading: "putS"
+        note: "source prints 'putS' ('putS his hands upon them'); likely 'put'; kept as printed; confirm against a page scan"
+
+  - edition: 1979
+    service: occasional-offices/public-baptism
+    source_url: http://justus.anglican.org/resources/bcp/bcpspecl.txt
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Current American Holy Baptism, from the public-domain ASCII e-text (bcpspecl.txt) mechanically reflowed by ingest/transform_1979_baptism.py (source -> script -> file; the modern text is never re-typed, which also avoids an output content-filter false-positive). The 1979 book has a single contemporary-language rite for all ages, so its printed section headings are the anchors and the diff against 1928 reads as the wholesale modern restructure. Mechanically reflowed; verify against a page scan before sign-off."
+    verify_items: []
+
+  # ---- private-baptism ----
+  - edition: 1549
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1549/Baptism_1549.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First Edwardian Private Baptism ('Of them that be baptized in private houses in time of necessity'). Keeps the White Vesture step and a separate Creed step; ends with the conditional 'If thou be not baptized already' form. (The 1549 font-hallowing 'Blessing of the Font' prayers printed after this office are deferred to a later occasional-offices pass.)"
+    verify_items:
+      - anchor: The Private Baptism
+        source_reading: "he*"
+        note: "source prints 'he*' with a footnote '* they in some printings'; 'he' kept as the primary reading; confirm against a page scan"
+
+  - edition: 1552
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1552/Baptism_1552.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Second Edwardian Private Baptism. Mirrors the 1552 public simplification: the White Vesture is gone and the Creed is folded into the combined vow."
+    verify_items:
+      - anchor: The Introduction
+        source_reading: "shot compel"
+        note: "source prints 'shot compel'; likely 'shal compel'; kept as printed; confirm against a page scan"
+
+  - edition: 1559
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Baptism_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Elizabethan Private Baptism. Transcribed from the 1559 readings on the justus page (the 1604 expansions interleaved there are used in the 1604 file, not here)."
+    verify_items:
+      - anchor: The Vows
+        source_reading: "ponce Pilate"
+        note: "source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan"
+      - anchor: The Vows
+        source_reading: "wet doune"
+        note: "source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan"
+
+  - edition: 1604
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Baptism_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Jacobean Private Baptism -- the Hampton Court reform. Derived from the 1604 readings interleaved on the justus 1559 page (no separate 1604 book survives there). 1604 restricts the office to a lawful Minister (the added subtitle '[By the lawful Minister...]' and 'the said lawfull Minister' in the form); expands the doubt-rubric to the parish-minister certification; adds a fuller examination ('And because some things essentiall... I demand further of you'); reads 'finde'/'bring'/'all is well done' in the certificate; and reads 'such uncertaine answers' in the conditional rubric. Sections not flagged as changed are the shared 1559/1604 text."
+    verify_items:
+      - anchor: The Vows
+        source_reading: "ponce Pilate"
+        note: "source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan"
+      - anchor: The Vows
+        source_reading: "wet doune"
+        note: "source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan"
+
+  - edition: 1662
+    service: occasional-offices/private-baptism
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/private-baptism-infants
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Standard Church of England Private Baptism of Children in Houses, from the CoE website. Carries the minister's certification and the receiving-into-the-church / examination / certificate sequence; [square brackets] kept as BCP typography."
+    verify_items: []
+
+  - edition: 1637
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Baptism_1637.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Scottish 'Laud's Liturgy' Private Baptism, with 'Presbyter or Minister' wording throughout."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1789/Baptism_1789.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First American Private Baptism of Children (the private-houses portion of the 1789 baptism page). The 1789 source encloses a 'Wilt thou be baptized in this Faith?' exchange in brackets with a footnote calling it an error later omitted in 1832; kept as the 1789 printed text (editorial brackets/asterisk/footnote dropped) and flagged."
+    verify_items:
+      - anchor: The Vows
+        source_reading: "Wilt thou be baptized in this Faith?"
+        note: "source prints 'Wilt thou be baptized in this Faith?' (with the answer 'That is my desire.') enclosed in square brackets with a footnote marking it an error later omitted in 1832; kept here as 1789 printed text, with the editorial brackets, asterisk, and footnote dropped; confirm against a page scan"
+      - anchor: The Reception
+        source_reading: "let is give thanks"
+        note: "source prints 'let is give thanks'; likely 'let us give thanks'; kept as printed; confirm against a page scan"
+
+  - edition: 1892
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1892/Baptism_1892.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892 Private Baptism of Children (private portion); the erroneous 'Wilt thou be baptized' exchange is already absent here."
+    verify_items:
+      - anchor: The Reception
+        source_reading: "let is give thanks"
+        note: "source prints 'let is give thanks'; likely 'let us give thanks'; kept as printed; confirm against a page scan"
+
+  - edition: 1928
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/1928/Baptism.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928 private-baptism material: the short Private Baptism emergency form, The Receiving of One Privately Baptized, and Conditional Baptism (each printed sub-title given its own heading)."
+    verify_items: []
+
+  - edition: 1979
+    service: occasional-offices/private-baptism
+    source_url: http://justus.anglican.org/resources/bcp/bcpspecl.txt
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Current American 'Emergency Baptism' -- the modern equivalent of Private Baptism -- plus the Conditional Baptism rule, from the public-domain ASCII e-text (bcpspecl.txt) via ingest/transform_1979_baptism.py (source -> script -> file). Mechanically reflowed; verify against a page scan before sign-off."
+    verify_items: []
+
+  # ---- baptism-riper-years ----
+  - edition: 1662
+    service: occasional-offices/baptism-riper-years
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/public-baptism-such-are-riper
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "The Ministration of Baptism to such as are of Riper Years -- a wholly new office ADDED in 1662 (occasioned by the baptism of adults after the Commonwealth and in the growing colonies). Follows the infant office's shape but for adults answering for themselves (Question/Answer labels), with the Nicodemus Gospel (John 3) in place of Mark 10; the closing rubric cross-references the infant offices. From the CoE website."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/baptism-riper-years
+    source_url: http://justus.anglican.org/resources/bcp/1789/Baptism_1789.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First American Baptism to such as are of Riper Years (the adult-baptism portion of the 1789 baptism page). The justus e-text carries recurring 'he'-for-'be' and 'm'-for-'in' scannos in the trailing directions, kept as printed and flagged."
+    verify_items:
+      - anchor: The Flood Prayer
+        source_reading: "his family m the ark"
+        note: "source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "he may he admitted"
+        note: "source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "shall he assembled"
+        note: "source prints 'shall he assembled'; likely 'shall be assembled'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "shall he added"
+        note: "source prints 'shall he added' and 'shall he used'; likely 'shall be added'/'shall be used'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "shall he brought"
+        note: "source prints 'shall he brought'; likely 'shall be brought'; kept as printed; confirm against a page scan"
+
+  - edition: 1892
+    service: occasional-offices/baptism-riper-years
+    source_url: http://justus.anglican.org/resources/bcp/1892/Baptism_1892.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892 Baptism to such as are of Riper Years (adult portion). Same class of e-text 'he'-for-'be' scannos in the closing directions, kept as printed and flagged."
+    verify_items:
+      - anchor: The Flood Prayer
+        source_reading: "his family m the ark"
+        note: "source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan"
+      - anchor: The Lord's Prayer
+        source_reading: "Thy will be done oil earth"
+        note: "source prints 'Thy will be done oil earth'; likely 'on earth'; kept as printed; confirm against a page scan"
+      - anchor: The Final Exhortation
+        source_reading: "Baptism repre-sent unto us"
+        note: "source prints 'Baptism repre-sent unto us'; rejoined as 'represent'; 1789 parallel and CoE tradition read 'representeth'; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "he may he admitted"
+        note: "source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "persons shalt be assembled"
+        note: "source prints 'persons shalt be assembled'; likely 'shall be assembled'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "shall he added"
+        note: "source prints 'shall he added' and 'shall he used'; likely 'shall be added'/'shall be used'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "shall he brought"
+        note: "source prints 'shall he brought'; likely 'shall be brought'; kept as printed; confirm against a page scan"
+
+  # ---- confirmation ----
+  - edition: 1549
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1549/Confirmation_1549.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First Edwardian Confirmation. The page bundles the Catechism (deferred to the Catechism wave); only the Confirmation office is transcribed. 1549 keeps the signing with the cross ('I sign thee with the sign of the cross') and the 'Sign them, O Lord' versicle, and the sevenfold-gifts prayer prays God to 'send down from heaven... thy holy ghost'."
+    verify_items:
+      - anchor: The Signing with the Cross
+        source_reading: "heades"
+        note: "source prints 'heades' with a footnote '* head in several printings'; 'heades' kept as printed; confirm against a page scan"
+
+  - edition: 1552
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1552/Confirmation_1552.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Second Edwardian Confirmation, the flagship 1549->1552 change: the signing with the cross is REMOVED and the imposition of hands takes the enduring form 'Defend, O Lord, this child with thy heavenly grace...'; the versicle pair 'The Lord be with you / And with thy spirit' becomes 'Lord, hear our prayer / And let our cry come to thee'; the sevenfold prayer is reworded ('strengthen them... daily increase in them thy manifold gifts'). git diff v1549 v1552 exposes the change."
+    verify_items:
+      - anchor: The Confirmation
+        source_reading: "Lard"
+        note: "source prints 'Lard'; likely an OCR/scan corruption of 'Lord'; kept as printed; confirm against a page scan"
+      - anchor: The Confirmation
+        source_reading: "let out crye"
+        note: "source prints 'let out crye'; likely 'let our crye'; kept as printed; confirm against a page scan"
+
+  - edition: 1559
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1559/Confirmation_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Elizabethan Confirmation (1552 shape). Transcribed from the 1559 readings on the justus page; the two 1604 word-variants it footnotes ('bothe' removed, 'prayer'->'prayers') are applied in the 1604 file."
+    verify_items:
+      - anchor: The Preface
+        source_reading: "should he doen"
+        note: "source prints 'should he doen'; likely 'should be doen'; kept as printed; confirm against a page scan"
+      - anchor: The Preface
+        source_reading: "shoulde he ministred"
+        note: "source prints 'shoulde he ministred'; likely 'shoulde be ministred'; kept as printed; confirm against a page scan"
+      - anchor: The Confirmation
+        source_reading: "questyone"
+        note: "source prints 'questyone'; likely 'questions'; kept as printed; confirm against a page scan"
+      - anchor: The Confirmation
+        source_reading: "bothe"
+        note: "source prints 'bothe' with footnote \"'bothe' removed in 1604\"; kept as printed; confirm against a page scan"
+      - anchor: The Confirmation
+        source_reading: "prayer"
+        note: "source prints 'prayer' with footnote \"'prayers' in 1604\"; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "he ordred"
+        note: "source prints 'he ordred'; likely 'be ordred'; and 'sheal'; likely 'shal'; kept as printed; confirm against a page scan"
+
+  - edition: 1604
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1559/Confirmation_1559.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Jacobean Confirmation, derived from the 1559 office via the justus 1559 apparatus (no separate 1604 page survives there). The two documented office changes are applied: 'bothe' is removed from the versicle response ('Which hath made heaven and earth') and 'prayer' becomes 'prayers' ('Lord hear our prayers'). The famous 1604 addition to the CATECHISM (the sacraments Q&A) belongs to the Catechism service (a later wave), not this office."
+    verify_items:
+      - anchor: The Preface
+        source_reading: "should he doen"
+        note: "source prints 'should he doen'; likely 'should be doen'; kept as printed; confirm against a page scan"
+      - anchor: The Preface
+        source_reading: "shoulde he ministred"
+        note: "source prints 'shoulde he ministred'; likely 'shoulde be ministred'; kept as printed; confirm against a page scan"
+      - anchor: The Confirmation
+        source_reading: "questyone"
+        note: "source prints 'questyone'; likely 'questions'; kept as printed; confirm against a page scan"
+      - anchor: The Rubrics
+        source_reading: "he ordred"
+        note: "source prints 'he ordred'; likely 'be ordred'; and 'sheal'; likely 'shal'; kept as printed; confirm against a page scan"
+
+  - edition: 1662
+    service: occasional-offices/confirmation
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/order-confirmation
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Standard Church of England Order of Confirmation, from the CoE website. Adds over 1552 the Renewal of Vows ('Do ye here, in the presence of God, and of this Congregation, renew the solemn promise and vow...') after the preface, and a Lord's Prayer after the imposition of hands; no signing with the cross. [square brackets] kept as BCP typography."
+    verify_items: []
+
+  - edition: 1637
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Confirmation_1637.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Scottish 'Laud's Liturgy' Confirmation (1552 shape: imposition 'Defend, O Lord', no signing with the cross, no renewal of vows). Bundled catechism Q&A skipped."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1789/Confirmation_1789.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "First American Order of Confirmation. Carries the 1662 additions (Renewal of Vows, Lord's Prayer). A whole-word scanno ('under took' for 'undertook') kept as printed and flagged."
+    verify_items:
+      - anchor: The Renewal of Vows
+        source_reading: "under took"
+        note: "source prints 'under took'; likely 'undertook'; kept as printed; confirm against a page scan"
+
+  - edition: 1892
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1892/Confirmation_1892.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892 Order of Confirmation, with a printed Presentation and an Acts 8 Lesson before the renewal. The salutation's speaker label is scrambled in the e-text (reconstructed and flagged); 'under took' scanno kept and flagged."
+    verify_items:
+      - anchor: The Renewal of Vows
+        source_reading: "under took"
+        note: "source prints 'under took'; likely 'undertook'; kept as printed; confirm against a page scan"
+      - anchor: The Lord's Prayer
+        source_reading: "Answer"
+        note: "source prints the label 'Answer' before 'The Lord be with you' (label misplaced, likely OCR); assigned to the response 'And with thy spirit' per the parallel American rite; confirm against a page scan"
+
+  - edition: 1928
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/1928/Confirnation.htm
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928 Order of Confirmation. The page bundles the Offices of Instruction (a catechism, deferred to the Catechism wave); only 'The Order of Confirmation' is transcribed. Adds a second renewal question ('DO ye promise to follow Jesus Christ...') and the Lord's-Prayer doxology. The salutation's speaker label is scrambled in the e-text (reconstructed and flagged). NOTE the justus filename is 'Confirnation.htm' (a typo in the source URL)."
+    verify_items:
+      - anchor: The Lord's Prayer
+        source_reading: "Answer"
+        note: "source prints the label 'Answer' before 'The Lord be with you' (label misplaced, likely OCR); assigned to the response 'And with thy spirit' per the parallel American rite; confirm against a page scan"
+
+  - edition: 1979
+    service: occasional-offices/confirmation
+    source_url: http://justus.anglican.org/resources/bcp/bcpastrl.txt
+    retrieved: 2026-08-12
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Current American Confirmation (with forms for Reception and the Reaffirmation of Baptismal Vows), the first of the Pastoral Offices, from the public-domain ASCII e-text (bcpastrl.txt) via ingest/transform_1979_confirmation.py (source -> script -> file). NOTE: Confirmation lives in bcpastrl.txt, not bcpepscl.txt (which holds the Ordination rites). Mechanically reflowed; verify against a page scan before sign-off."
+    verify_items: []
