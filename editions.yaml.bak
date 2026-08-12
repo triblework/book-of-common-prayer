@@ -52,7 +52,7 @@ editions:
     tag: v1549
     tag_message: "1549 — First Book of Common Prayer (Edward VI)"
     commit_message: "1549 Book of Common Prayer (First Edwardian)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1552
@@ -62,7 +62,7 @@ editions:
     tag: v1552
     tag_message: "1552 — Second Book of Common Prayer (Edward VI)"
     commit_message: "1552 revision (Second Edwardian)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1559
@@ -72,7 +72,7 @@ editions:
     tag: v1559
     tag_message: "1559 — Elizabethan Book of Common Prayer"
     commit_message: "1559 revision (Elizabethan Settlement)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1604
@@ -82,7 +82,7 @@ editions:
     tag: v1604
     tag_message: "1604 — Jacobean Book of Common Prayer"
     commit_message: "1604 revision (Jacobean / Hampton Court)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1662
@@ -92,7 +92,7 @@ editions:
     tag: v1662
     tag_message: "1662 — Book of Common Prayer (Church of England standard)"
     commit_message: "1662 revision (Restoration; standard Church of England book)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   # ---- Scottish line (scottish), forks from v1604 ----
@@ -104,7 +104,7 @@ editions:
     tag: v1637
     tag_message: "1637 — Scottish Prayer Book (Laud's Liturgy)"
     commit_message: "1637 Scottish Book of Common Prayer (Laud's Liturgy)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1764
@@ -118,7 +118,7 @@ editions:
     # and Evening Prayer) are dropped so the removal shows cleanly in the diff
     # against v1637.
     present: [holy-communion/holy-communion]
-    absent: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    absent: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany]
 
   - id: 1929
     year: 1929
@@ -139,7 +139,7 @@ editions:
     tag: v1789
     tag_message: "1789 — First American Book of Common Prayer"
     commit_message: "1789 Book of Common Prayer (Protestant Episcopal Church, first American)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1892
@@ -149,7 +149,7 @@ editions:
     tag: v1892
     tag_message: "1892 — American Book of Common Prayer"
     commit_message: "1892 revision (Episcopal Church)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
 
   - id: 1928
@@ -159,8 +159,8 @@ editions:
     tag: v1928
     tag_message: "1928 — American Book of Common Prayer"
     commit_message: "1928 revision (Episcopal Church)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
-    absent: [occasional-offices/baptism-riper-years]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
+    absent: []
 
   - id: 1979
     year: 1979
@@ -169,5 +169,5 @@ editions:
     tag: v1979
     tag_message: "1979 — American Book of Common Prayer (current)"
     commit_message: "1979 revision (Episcopal Church, current)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/confirmation]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion]
     absent: []
