@@ -142,12 +142,16 @@ records:
     cross_check:
       - "justus full-book PDF (Scottish_BCP1929.pdf) is an image/OCR scan — NOT used for text"
     status: transcribed
-    depth: opening-slice
+    depth: tier-1
     verifier: bcp-authoring
+    note: "Scottish 1929 Communion. Wave 4 deepened the Wave-0 opening slice (exhortation note + offertory, incl. the seasonal sentences, preserved byte-for-byte) to full Tier-1: the Decalogue (with short-form rubric) and the Summary of the Law, the Kyrie, Collects, Epistle/Gospel, Creed, Sermon, then the Consecration (with the printed 'The Oblation'/'The Invocation' sub-headings), the intercession after the consecration, and the Communion through the Blessing, plus the appended Second-Consecration rubric. Presbyter terms. NOTE: the justus page follows a later reprint whose state prayer names 'Elizabeth our Queen' (anachronistic for a 1929 book, which named King George V) — flagged."
     verify_items:
       - anchor: The Offertory
         source_reading: "Acts 20. 85"
         note: "source prints 'Acts 20. 85'; the verse is Acts 20:35, so '85' is likely a scan or typographic error; confirm against a page scan"
+      - anchor: The Prayer for the Whole State of Christ's Church
+        source_reading: "Elizabeth our Queen"
+        note: "source prints 'Elizabeth our Queen'; a 1929 book would name the reigning King (George V), so the justus page follows a later reprint of the Scottish Communion Office; reign-dependent; confirm against a 1929 page scan"
 
   # ---- American line (american) ----
   - edition: 1789

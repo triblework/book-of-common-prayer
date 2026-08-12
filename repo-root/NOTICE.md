@@ -73,6 +73,13 @@ The published branches and tags are build artifacts, regenerated from the
 - **2026-08-12** — Wave 3: The Litany added at full Tier-1 across the same ten
   editions (1764/1929 remain Communion-only). Litany scope is the Litany proper
   through the Grace; appended occasional/state prayers are deferred.
+- **2026-08-12** — Wave 4: Holy Communion added at full Tier-1 across **all twelve**
+  editions (English 1549–1662, Scottish 1637/1764/1929, American 1789–1979). The
+  Scottish 1764 and 1929 opening slices were deepened to the full office. Flagship
+  diffs: the 1549→1552 restructuring, the Gloria in Excelsis moving to the end, the
+  words of administration, and the Black Rubric (Declaration on Kneeling) appearing
+  in 1552, vanishing in 1559, and returning in 1662; the American 1789 rite carries
+  the Scottish 1764 eucharistic prayer (`git diff v1764 v1789`).
 
 ## A note on transcription
 

@@ -4,8 +4,8 @@
 > **The full texts of the Book of Common Prayer are actively being transcribed
 > and added edition by edition — more services are coming soon.** The repository
 > structure, tooling, and diff mechanism are complete; today the transcribed
-> text covers **Morning Prayer, Evening Prayer, and the Litany** in full (plus
-> the Scottish Communion office). No
+> text covers **Morning Prayer, Evening Prayer, the Litany, and Holy Communion**
+> in full across every edition that has them. No
 > text is ever invented — everything is sourced from faithful public-domain
 > transcriptions (see [`SOURCES.md`](SOURCES.md)). See
 > [Transcription status](#transcription-status) for what's here and what's next.
@@ -95,17 +95,22 @@ see `NOTICE.md`.)*
 
 The **structure is complete**: all three branches and all twelve tags exist, and
 the diff mechanism works end-to-end. The **transcribed text so far** covers the
-**Daily Office — Morning Prayer and Evening Prayer — and the Litany** at full
-Tier-1 depth across every edition that has them (English 1549–1662, Scottish
-1637, American 1789–1979) — the richest source of famous edition-to-edition change — plus the
-**Scottish Communion** office at 1764/1929 (the 1764 book was Communion-only, so
-it has no daily office).
+**Daily Office — Morning Prayer and Evening Prayer — the Litany, and Holy
+Communion** at full Tier-1 depth across every edition that has them — the richest
+source of famous edition-to-edition change. Morning/Evening Prayer and the Litany
+run across the ten daily-office editions (English 1549–1662, Scottish 1637,
+American 1789–1979); **Holy Communion runs across all twelve** (the Scottish
+1764 "Wee Bookie" and 1929 are Communion-only, so they carry only that office).
+Holy Communion is where the tradition's most dramatic changes live: the 1549→1552
+restructuring, the Gloria in Excelsis moving from an early position to the end,
+the words of administration, and the Black Rubric appearing (1552), vanishing
+(1559), and returning (1662).
 
-**Coming soon** (in progress): the full Holy Communion office, the
-occasional offices (Baptism, Confirmation, Matrimony, Visitation of the Sick,
-Burial), the Collects, the Catechism, and the Ordinal; the Psalter and lectionary
-tables will follow. All twelve tags now carry sourced text (the earlier 1928/1979
-sourcing gaps were closed with clean public-domain sources — see `SOURCES.md`).
+**Coming soon** (in progress): the occasional offices (Baptism, Confirmation,
+Matrimony, Visitation of the Sick, Burial), the Collects, the Catechism, and the
+Ordinal; the Psalter and lectionary tables will follow. All twelve tags carry
+sourced text (the earlier 1928/1979 sourcing gaps were closed with clean
+public-domain sources — see `SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
@@ -118,9 +123,37 @@ Clone the repository (tags and branches come with it), then:
 # How Morning Prayer changed from 1549 to 1552 (the famous penitential opening):
 git diff v1549 v1552 -- texts/normalized/daily-office/morning-prayer.md
 
+# The Holy Communion restructuring of 1552 — the Gloria in Excelsis moves from an
+# early position to near the end, and the memorial words of administration change:
+git diff v1549 v1552 -- texts/normalized/holy-communion/holy-communion.md
+
+# The Black Rubric (Declaration on Kneeling) appears in 1552, vanishes in 1559,
+# and returns in 1662 — visible across three Communion diffs:
+git diff v1559 v1662 -- texts/normalized/holy-communion/holy-communion.md
+
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/
 ```
+
+### The Scottish influence on the American rite
+
+The first American Prayer Book (1789) took its eucharistic prayer not from the
+English 1662 book but from the **Scottish Communion Office of 1764** — the
+"Wee Bookie" that Samuel Seabury, first bishop of the American church,
+undertook to introduce as a condition of his consecration by the Scottish
+bishops. The borrowing is inspectable directly, as a cross-branch diff:
+
+```bash
+git diff v1764 v1789 -- texts/normalized/holy-communion/holy-communion.md
+```
+
+Both retain the Scottish shape of the Great Thanksgiving — the Prayer of
+Consecration flowing straight into the Oblation ("**which we now offer unto
+thee**") and the Invocation of the Word and Holy Spirit upon the gifts — a
+structure the 1662 English rite does not have. The diff shows the American
+adaptations (the added Summary of the Law, the fused words of administration,
+prayers for civil rulers in place of the King) against that shared Scottish
+core. See `NOTICE.md` for the genealogical note.
 
 **Readable word-level diffs.** Set up the suggested local aliases once:
 

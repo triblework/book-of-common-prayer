@@ -14,17 +14,20 @@ on its allow-list. All retrievals below were made **2026-08-10**.
 
 This repository models the whole genealogy (all branches and tags) and
 demonstrates the diff mechanism end-to-end. The **transcribed text** presently
-covers the **Daily Office — Morning Prayer and Evening Prayer** at full Tier-1
-depth across every edition that has them, which is where the tradition's most
-famous changes live (e.g. the 1552 penitential introduction, the 1662 Lord's
-Prayer doxology, the 1662 addition of the penitential opening to Evening Prayer,
-and the 1789 American recasting of the evening canticles).
-The Scottish 1764/1929 commits instead carry the **Holy Communion** office
-(exhortation + offertory), because the 1764 book was a Communion Office only.
-Deeper service bodies, the remaining occasional offices, the catechism, the
-ordinal, and the Psalter are **not yet transcribed** and are tracked as stretch
-work (brief §13). Where an edition could not be sourced cleanly, that is stated
-explicitly below rather than filled with invented text.
+covers the **Daily Office — Morning Prayer and Evening Prayer — the Litany, and
+Holy Communion** at full Tier-1 depth across every edition that has them, which
+is where the tradition's most famous changes live (e.g. the 1552 penitential
+introduction, the 1662 Lord's Prayer doxology, the 1789 American recasting of the
+evening canticles, and — in Holy Communion — the 1549→1552 restructuring, the
+moving Gloria in Excelsis, the changing words of administration, and the Black
+Rubric appearing/vanishing/returning across 1552/1559/1662). Morning/Evening
+Prayer and the Litany run across the ten daily-office editions; **Holy Communion
+runs across all twelve** (the Scottish 1764 "Wee Bookie" and 1929 are
+Communion-only, so they carry only that office). The remaining occasional
+offices, the catechism, the ordinal, and the Psalter are **not yet transcribed**
+and are tracked as stretch work (brief §13). Where an edition could not be
+sourced cleanly, that is stated explicitly below rather than filled with invented
+text.
 
 ---
 
@@ -130,3 +133,21 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 / 1892 (American) Litany | `whensoever they oppress us; and graciously hear us` | The justus page prints `oppress us . and graciously` (damaged semicolon); read against the 1662 parallel. |
 | 1789 / 1892 (American) Litany | `Fulfill` | The justus page prints `Fulfill`; the same-edition 1789 Evening Prayer prints `Fulfil`; internal commas restored from the parallel. |
 | 1892 (American) Litany | `That it may please thee to send forth laborers into thy harvest` | The justus 1789 page marks this petition `added in the 1892 BCP`; the only indicated 1892 difference. |
+| 1549 Communion | `The Epistle written in the Chapiter of to the` | 1549 prints a fill-in formula with blank slots for the proper Epistle's book/chapter/verse; the blanks did not survive the HTML capture. |
+| 1552 Communion | `God of goddes` | Nicene Creed; several printings read `God of God`. |
+| 1552 Communion | `Job iiii.` | The Tobit offertory sentences are cited `Job iiii.` (a printer error for Tobit 4). |
+| 1559 Communion | `as sane as he conveniently may` | Opening admission rubric; `sane` likely a printer error for `soone`. |
+| 1559 Communion | `Psal. lxi.` | Citation for `Blessed be the man…`; printed on the wrong line, likely a transposition of `Psal. xli.` (Psalm 41). |
+| 1604 Communion | `JAMES our King and governoure` | Derived from the justus 1559 apparatus (Jacobean monarch change Elizabeth→JAMES); no separate 1604 Communion page survives. |
+| 1662 Communion (Collect for the King) | `CHARLES our King` | The CoE source serves the reigning monarch (Charles III); the 1662 book named Charles II. Reign-dependent. |
+| 1662 Communion (admission rubric) | `give an account to the Ordinary within seven days an opportunity for interview` | The CoE admission rubric adds administrative wording that reads like a modern statutory amendment; the 1662 book carried the `open and notorious evil liver` rubric. |
+| 1637 (Scottish) Communion | `Matth. 11. 28` | The Comfortable Words marginal citations are set in a side column and were interleaved out of order by the HTML capture; realigned to their sentences. |
+| 1764 (Scottish) Communion | `holy Father` | The words `(holy Father)` are omitted on Trinity Sunday per a source footnote; retained in brackets. |
+| 1764 (Scottish) Communion | `1 John ii. 12` | Last Comfortable Word; `12` likely for `1` (1 John 2:1). |
+| 1789 (American) Communion | `the face of the Lord not be turned away` | The justus 1789 e-text drops `shall`; the page carries scattered OCR omissions. |
+| 1892 (American) Communion | `under the direction the Minister` | A dropped `of` (`under the direction of the Minister`). |
+| 1892 (American) Communion | `the flesh of Thy dear Son us Christ` | `us` appears to be a corruption of `Jesus`. |
+| 1892 (American) Communion | `after the manner dissemblers with God` | A dropped `of` (`after the manner of dissemblers`). |
+| 1892 / 1928 (American) Communion | `Answer` | Floating Sursum Corda / salutation speaker labels were assigned to their responses; the spoken words are unchanged. |
+| 1928 (American) Communion | `alms and` | The intercession prints `[alms and]` in brackets as optional text (said only when alms are collected); kept as BCP typography. |
+| 1929 (Scottish) Communion | `Elizabeth our Queen` | The justus page follows a later reprint; a 1929 book named the reigning King (George V). Reign-dependent. |
