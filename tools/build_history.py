@@ -340,6 +340,38 @@ def check_against_live(target: Path, live_repo: Path, built: dict) -> int:
     return 0
 
 
+def verify_built_tips(target: Path, built: dict) -> int:
+    """Run the per-push invariants on each published branch tip in the freshly
+    built repo. This is the publish precondition for a CONTENT wave, where texts
+    change on purpose (so a live byte-identity `--check` does NOT apply — that is
+    only for the migration / tools-only rebuild)."""
+    py = sys.executable
+    problems: list[str] = []
+    for branch in built["branch_tip"]:
+        try:
+            git(target, "checkout", "-q", branch)
+        except SystemExit:
+            problems.append(f"cannot checkout {branch}")
+            continue
+        for cmd, label in (
+            ([py, "tools/normalize.py", "--check"], "normalize"),
+            ([py, "tools/sentence_split.py", "--check", "texts"], "sentence_split"),
+            ([py, "tools/verify_index.py", "--check"], "verify_index"),
+        ):
+            r = subprocess.run(cmd, cwd=str(target),
+                               stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True,
+                               env={**os.environ, "PYTHONDONTWRITEBYTECODE": "1"})
+            if r.returncode != 0:
+                problems.append(f"{branch}: {label} --check failed\n{(r.stderr or '').strip()}")
+    if problems:
+        sys.stderr.write("build_history.py --publish: built tips fail invariants.\n"
+                         + "\n".join(f"  - {p}" for p in problems) + "\n")
+        return 1
+    sys.stdout.write("build_history.py --publish: built tips pass "
+                     "normalize/sentence_split/verify_index.\n")
+    return 0
+
+
 def print_summary(built: dict, target: Path, live_repo: Path | None) -> None:
     sys.stdout.write("Built graph (SHAs are NOT part of the interface; tags + diffs are):\n")
     sys.stdout.write(f"  scaffold: {built['scaffold_sha'][:12]}\n")
@@ -420,14 +452,21 @@ def main(argv: list[str]) -> int:
         built = build(authoring, target)
 
         rc = 0
-        if args.check or args.dry_run or args.publish:
+        # --check / --dry-run compare the rebuild to the LIVE tags (byte-identity):
+        # the reproducibility guarantee for the migration and tools-only rebuilds.
+        if args.check or args.dry_run:
             if not live_repo:
-                raise SystemExit("--check/--dry-run/--publish require --live-repo")
+                raise SystemExit("--check/--dry-run require --live-repo")
             rc = check_against_live(target, live_repo, built)
 
+        # --publish is for a CONTENT wave: texts change on purpose, so it does NOT
+        # require live byte-identity; it gates on the per-push invariants instead.
         if args.publish:
+            if not live_repo:
+                raise SystemExit("--publish requires --live-repo")
+            rc = verify_built_tips(target, built)
             if rc != 0:
-                sys.stderr.write("Refusing to publish: --check failed.\n")
+                sys.stderr.write("Refusing to publish: built tips failed invariants.\n")
                 return rc
             print_summary(built, target, live_repo)
             return publish(target, live_repo, built)
