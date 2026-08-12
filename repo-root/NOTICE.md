@@ -80,6 +80,24 @@ The published branches and tags are build artifacts, regenerated from the
   words of administration, and the Black Rubric (Declaration on Kneeling) appearing
   in 1552, vanishing in 1559, and returning in 1662; the American 1789 rite carries
   the Scottish 1764 eucharistic prayer (`git diff v1764 v1789`).
+- **2026-08-12** — Wave 5: the Christian-initiation offices added at full Tier-1.
+  Four services under `occasional-offices/` — Public Baptism of Infants, Private
+  Baptism, Baptism of Those of Riper Years, and Confirmation. Public/Private
+  Baptism and Confirmation run across the same ten daily-office editions (English
+  1549–1662, Scottish 1637, American 1789–1979); 1764/1929 remain Communion-only,
+  so they carry none of them. Baptism of Riper Years is a 1662 addition, carried
+  into the American line (1789/1892) and folded into a single Holy Baptism office
+  by 1928/1979 (so it exists as a separate office only at 1662/1789/1892). Flagship
+  diffs: the 1552 baptismal simplification (`git diff v1549 v1552 --
+  texts/normalized/occasional-offices/public-baptism.md` — exorcism, chrisom, and
+  anointing removed, signing with the cross moved after baptism); the 1604 Hampton
+  Court restriction of private baptism to a lawful minister; the 1549→1552
+  Confirmation change (the signing with the cross gives way to the "Defend, O Lord"
+  imposition of hands). The 1979 offices were reflowed mechanically from the
+  public-domain ASCII e-text (source → script → file). The 1549 "Blessing of the
+  Font" prayers (an appendix printed after private baptism) are deferred to a later
+  occasional-offices pass, as are the bundled Catechism bodies on the 1549/1559/1928
+  Confirmation pages (the Catechism is its own wave).
 
 ## A note on transcription
 

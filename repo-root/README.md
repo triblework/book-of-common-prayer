@@ -95,10 +95,12 @@ see `NOTICE.md`.)*
 
 The **structure is complete**: all three branches and all twelve tags exist, and
 the diff mechanism works end-to-end. The **transcribed text so far** covers the
-**Daily Office — Morning Prayer and Evening Prayer — the Litany, and Holy
-Communion** at full Tier-1 depth across every edition that has them — the richest
-source of famous edition-to-edition change. Morning/Evening Prayer and the Litany
-run across the ten daily-office editions (English 1549–1662, Scottish 1637,
+**Daily Office — Morning Prayer and Evening Prayer — the Litany, Holy
+Communion, and the initiation offices (Baptism and Confirmation)** at full Tier-1
+depth across every edition that has them — the richest
+source of famous edition-to-edition change. Morning/Evening Prayer, the Litany,
+and the Christian-initiation offices (Baptism and Confirmation) run across the ten
+daily-office editions (English 1549–1662, Scottish 1637,
 American 1789–1979); **Holy Communion runs across all twelve** (the Scottish
 1764 "Wee Bookie" and 1929 are Communion-only, so they carry only that office).
 Holy Communion is where the tradition's most dramatic changes live: the 1549→1552
@@ -106,11 +108,20 @@ restructuring, the Gloria in Excelsis moving from an early position to the end,
 the words of administration, and the Black Rubric appearing (1552), vanishing
 (1559), and returning (1662).
 
-**Coming soon** (in progress): the occasional offices (Baptism, Confirmation,
-Matrimony, Visitation of the Sick, Burial), the Collects, the Catechism, and the
-Ordinal; the Psalter and lectionary tables will follow. All twelve tags carry
-sourced text (the earlier 1928/1979 sourcing gaps were closed with clean
-public-domain sources — see `SOURCES.md`).
+The Christian-initiation offices carry their own famous restructuring: the 1552
+book strips the 1549 rite's exorcism, chrisom, and anointing and moves the signing
+with the cross to after the baptism; the 1604 book restricts private baptism to a
+lawful minister (the Hampton Court change); 1662 adds a distinct Blessing of the
+Water and a wholly new office for the Baptism of those of Riper Years; and the
+American line folds infant and adult baptism into one rite by 1928. The family is
+four separate offices — Public Baptism of Infants, Private Baptism, Baptism of
+Those of Riper Years, and Confirmation.
+
+**Coming soon** (in progress): the remaining occasional offices (Matrimony,
+Visitation of the Sick, Burial, Churching, Commination), the Collects, the
+Catechism, and the Ordinal; the Psalter and lectionary tables will follow. All
+twelve tags carry sourced text (the earlier 1928/1979 sourcing gaps were closed
+with clean public-domain sources — see `SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
@@ -130,6 +141,10 @@ git diff v1549 v1552 -- texts/normalized/holy-communion/holy-communion.md
 # The Black Rubric (Declaration on Kneeling) appears in 1552, vanishes in 1559,
 # and returns in 1662 — visible across three Communion diffs:
 git diff v1559 v1662 -- texts/normalized/holy-communion/holy-communion.md
+
+# The baptismal simplification of 1552 — the 1549 rite's exorcism, chrisom, and
+# anointing are removed and the signing with the cross moves to after the baptism:
+git diff v1549 v1552 -- texts/normalized/occasional-offices/public-baptism.md
 
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/
