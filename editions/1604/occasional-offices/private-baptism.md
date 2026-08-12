@@ -1,43 +1,42 @@
 # Of them that be baptised in private houses, in tyme of necessitie.
 
-<!-- 1604 Private Baptism derived from the 1559 office via the justus 1559 apparatus (no separate 1604 page survives on justus). The headline Hampton-Court change: 1604 restricts the office to a lawful Minister (the added subtitle below). 1604 also reads 'such uncertaine answers' (plural) in the conditional rubric, and the apparatus records minor verbal variants ('finde', 'bring', 'all is well done') in the certificate/examination not individually applied here — confirm against a 1604 page scan. -->
+<!-- 1604 Private Baptism derived from the justus 1559 page, which prints the 1559 text with the 1604 readings interleaved (no separate 1604 book survives on justus). This is the Hampton-Court reform of private baptism: the office is restricted to a lawful Minister (the added subtitle, and "the said lawfull Minister" in the form); the doubt-rubric is expanded to the parish-minister certification; a fuller examination is added ("And because some things essentiall... I demand further of you"); the certificate reads "finde"/"bring"/"all is well done"; and the conditional rubric reads "such uncertaine answers". Sections not flagged as changed (Gospel, Exhortation, Vows, Thanksgiving, Final Exhortation) are the shared 1559/1604 text. -->
 
 > [By the lawful Minister of the Parish, or any other lawful Minister that can be procured.]
-<!-- VERIFY: this subtitle restriction was 'Added in 1604' (justus 1559 apparatus), reflecting the Hampton Court Conference limitation of private baptism to a lawful minister; confirm exact 1604 wording/placement against a page scan. -->
 
 ## The Introduction
 
 > The Pastours and Curates shal oft admonish the people, that they deferre not the Baptisme of enfantes any longer then the Sonday, or other holy day, next after the childe be borne unlesse upon a great and reasonable cause declared to the Curate, and by him approved.
 
-> And also they shal warne theim that without great cause, and necessity, they baptize not children at home in their houses. And when great nede shall compelle theim so to doe, that then they minister on this fassion.
+> And also they shall warne them, that without great cause and necessity, they procure not their children to be baptized at home in their houses. And when great need shall compel them so to do, that then Baptisme shall be administered in this fashion.
 
 ## The Private Baptism
 
-> Fyrste let theim that be present cal upon God for hys grace, and say the Lordes prayour, yf the time wil sufre. And then one of them shall name the childe, and dippe him in the water, or powre water upon him, saying these wordes.
+> First, let the lawfull Minister, and them that be present, call upon God for his grace and say the Lord's Prayer, if the time will suffer. And then the childe being named by some one that is present, the said lawfull Minister shall dip it in water, or poure water upon it, saying these words.
 
-> N. I Baptise the in the name of the Father, and of the Sonne, and of the holy Ghoste. Amen.
+> N. I Baptise thee in the Name of the Father, and of the Sonne, and of the holy Ghost. Amen.
 
-> And let them not doubte, but that the childe so Baptised, is lawfully and sufficiently Baptised, and ought not to be Baptised agayne in the Church. But yet neverthles, if the child whyche is after this sorte Baptised, do afterwarde live, it is expediente that he be broughte into the Churche, to the entent the Priest may examyne and trie, whether the child be lawfully Baptised or no. And yf those that bryng any childe to the Churche do answere that he is already Baptised: then shal the Priest examine them further.
+> And let them not doubte, but that the childe so Baptised, is lawfully and sufficiently Baptised, and ought not to be Baptised agayne in the Church. But yet neverthles, if the child whyche is after this sorte Baptised, do afterwarde live, it is expediente that he be broughte into the Churche, to the entent that if the Priest or Minister of the same Parish did himself baptize that childe, the Congregation may be certified of the true forme of Baptisme, by him privately before used: Or if the child were baptized by any other lawfull Minister, that then the Minister of the Parish where the childe was borne or Christened, shall examine and trie whether this childe be lawfully baptized, or no. In which case, if those that bring any childe to the Church, do answer that the same child is already baptized, then shall the Minister examine them further, saying,
 
 ## The Examination
 
-> By whome the childe was Baptised?
+> By whom the childe was baptized?
 
-> Who was present when the childe was Baptised?
+> Who was present when the childe was baptized?
 
-> Whether they called upon God for grace and succour in that necessitie?
+> And because some things essentiall to this Sacrament may happen to be omitted through fear or haste in such times of extremitie; therefore I demand further of you,
 
-> Wyth what thing, or what matter they did Baptyse the Chylde?
+> With what matter was the childe baptized?
 
-> Wyth what wordes the childe was Baptised?
+> With what words was the childe baptized?
 
-> Whether they thinke the childe to be lawfully and perfectly Baptised?
+> Whether think you the childe to bee lawfully and perfectly baptized?
 
-> And yf the Minister shall prove by the aunswers of suche, as brought the childe, that all thinges were done as they oughte to be: Then shal not he Christen the childe againe, but shall receyve him, as one of the flocke of the true Christian people, saiynge thus.
+> And yf the Minister shall finde by the answers of such, as bring the childe, that all thinges were done as they oughte to be: Then shal not he Christen the childe againe, but shall receyve him, as one of the flocke of the true Christian people, saiynge thus.
 
 ## The Certificate
 
-I CERTIFY you, that in this case ye have done wel, and according unto due ordre concerning the Baptising of this childe, whiche beyng borne in Originall sinne and in the wrathe of God, is nowe by the laver of regeneracion in Baptisme, received into the nomber of the children of God, and heires of everlasting life, for our Lorde Jesus Christ doeth not deny his grace and mercy unto such infantes, but most lovingly doth cal the unto him: as the holy gospel doth witnes to our comfort on this wise.
+I CERTIFY you, that in this case all is well done, and according unto due ordre concerning the Baptising of this childe, whiche beyng borne in Originall sinne and in the wrathe of God, is nowe by the laver of regeneracion in Baptisme, received into the nomber of the children of God, and heires of everlasting life, for our Lorde Jesus Christ doeth not deny his grace and mercy unto such infantes, but most lovingly doth cal the unto him: as the holy gospel doth witnes to our comfort on this wise.
 
 ## The Gospel
 
@@ -73,7 +72,7 @@ DOEST thou in the name of this child forsake the devil, and al his workes, the v
 
 > Let us pray.
 
-ALMIGHTY and everlasting God, heavenly father, we geve thee humble thanckes, for that thou hast vouchedsafed to call us to the knowledge of thy grace and faythe in thee: increase this knowledge, and confyrme this faythe in us evermore: Geve thy holye spirite to this infante,that he beynge borne agayne and beynge made heyre of everlastynge salvacion, through our Lord Jesus Christ, may continue thy servant, and atteine thy promise, through the same our Lorde Jesus Christ thy sonne, who liveth and reigneth with the in the unitie of the same holy spirit everlasting. Amen.
+ALMIGHTY and everlasting God, heavenly father, we geve thee humble thanckes, for that thou hast vouchedsafed to call us to the knowledge of thy grace and faythe in thee: increase this knowledge, and confyrme this faythe in us evermore: Geve thy holye spirite to this infante, that he beynge borne agayne and beynge made heyre of everlastynge salvacion, through our Lord Jesus Christ, may continue thy servant, and atteine thy promise, through the same our Lorde Jesus Christ thy sonne, who liveth and reigneth with the in the unitie of the same holy spirit everlasting. Amen.
 
 ## The Final Exhortation
 
@@ -86,7 +85,6 @@ FORASMUCHE as this childe hath promised by you to forsake the devil and al his w
 ## Conditional Baptism
 
 > But if they which bring the enfantes to the Church, do make such uncertaine answers to the Priestes questions, and say that they cannot tel what they thought, didde, or said, in yt great feare, and trouble of minde: (as ofte times it chaunseth) then let the Priest Baptise him in forme above written, concerning publique Baptisme, saving that at the dipping of the chylde in the Fonte, he shal use this forme of wordes.
-<!-- VERIFY: 1559 reads 'make an uncerteine aunswere'; the justus apparatus records 'such uncertaine answers' in 1604 (applied here); confirm against a 1604 page scan. -->
 
 If thou be not Baptized al ready, N. I baptise the in the name of the father, and of the Sonne, and of the holy Ghoste. Amen.
 
