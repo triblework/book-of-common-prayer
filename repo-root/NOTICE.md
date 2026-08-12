@@ -70,6 +70,9 @@ The published branches and tags are build artifacts, regenerated from the
   daily-office editions.
 - **2026-08-12** — Wave 2: Evening Prayer added at full Tier-1 across the same
   ten editions (1764/1929 remain Communion-only).
+- **2026-08-12** — Wave 3: The Litany added at full Tier-1 across the same ten
+  editions (1764/1929 remain Communion-only). Litany scope is the Litany proper
+  through the Grace; appended occasional/state prayers are deferred.
 
 ## A note on transcription
 

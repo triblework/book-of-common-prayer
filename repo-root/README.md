@@ -4,8 +4,8 @@
 > **The full texts of the Book of Common Prayer are actively being transcribed
 > and added edition by edition — more services are coming soon.** The repository
 > structure, tooling, and diff mechanism are complete; today the transcribed
-> text covers **Morning Prayer and Evening Prayer** in full (plus the Scottish
-> Communion office). No
+> text covers **Morning Prayer, Evening Prayer, and the Litany** in full (plus
+> the Scottish Communion office). No
 > text is ever invented — everything is sourced from faithful public-domain
 > transcriptions (see [`SOURCES.md`](SOURCES.md)). See
 > [Transcription status](#transcription-status) for what's here and what's next.
@@ -95,13 +95,13 @@ see `NOTICE.md`.)*
 
 The **structure is complete**: all three branches and all twelve tags exist, and
 the diff mechanism works end-to-end. The **transcribed text so far** covers the
-**Daily Office — Morning Prayer and Evening Prayer** at full Tier-1 depth across
-every edition that has them (English 1549–1662, Scottish 1637, American
-1789–1979) — the richest source of famous edition-to-edition change — plus the
+**Daily Office — Morning Prayer and Evening Prayer — and the Litany** at full
+Tier-1 depth across every edition that has them (English 1549–1662, Scottish
+1637, American 1789–1979) — the richest source of famous edition-to-edition change — plus the
 **Scottish Communion** office at 1764/1929 (the 1764 book was Communion-only, so
 it has no daily office).
 
-**Coming soon** (in progress): the Litany, the full Holy Communion office, the
+**Coming soon** (in progress): the full Holy Communion office, the
 occasional offices (Baptism, Confirmation, Matrimony, Visitation of the Sick,
 Burial), the Collects, the Catechism, and the Ordinal; the Psalter and lectionary
 tables will follow. All twelve tags now carry sourced text (the earlier 1928/1979
