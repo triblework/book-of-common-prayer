@@ -14,9 +14,11 @@ on its allow-list. All retrievals below were made **2026-08-10**.
 
 This repository models the whole genealogy (all branches and tags) and
 demonstrates the diff mechanism end-to-end. The **transcribed text** presently
-centres on the **Daily Office — Morning Prayer**, from the opening of the office
-through the Venite rubric, which is where the tradition's most famous changes
-live (e.g. the 1552 penitential introduction, the 1662 Lord's Prayer doxology).
+covers the **Daily Office — Morning Prayer and Evening Prayer** at full Tier-1
+depth across every edition that has them, which is where the tradition's most
+famous changes live (e.g. the 1552 penitential introduction, the 1662 Lord's
+Prayer doxology, the 1662 addition of the penitential opening to Evening Prayer,
+and the 1789 American recasting of the evening canticles).
 The Scottish 1764/1929 commits instead carry the **Holy Communion** office
 (exhortation + offertory), because the 1764 book was a Communion Office only.
 Deeper service bodies, the remaining occasional offices, the catechism, the
@@ -93,3 +95,14 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 (American) Morning Prayer | several roman-numeral citations | The justus 1789 page had OCR damage in citations (e.g. `Psalm ii 17` for Psalm 51:17); read against the parallel 1662 sentences. |
 | 1662 Morning Prayer (Prayer for the King's Majesty) | `King CHARLES` | The CoE source serves the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan. |
 | 1662 Morning Prayer (Prayer for the Royal Family) | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the current Royal Family; the 1662 book named the then-Royal Family. Reign-dependent; reconcile against a dated 1662 scan. |
+| 1552 Evening Prayer | `Lord, make haste to helpe us` | 1552 Morning Prayer has `O Lord`; the missing `O` may be a transcription slip. |
+| 1552 Evening Prayer | `all that them is ... they that dwel therm` | Cantate Domino; justus prints `them is`/`therm`, both probable OCR for `therein`; normalized to `therein`. |
+| 1552 Evening Prayer | `Deus misereatur. Ps. lxvii.` | The justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on that page. |
+| 1559 / 1604 Evening Prayer | `And my sprit ... the loweliries of his handmaiden` | Magnificat; justus prints OCR forms `sprit` (spirit) and `loweliries` (lowelines); rendered as the intended words. |
+| 1637 (Scottish) Evening Prayer | `Lord make haste to help us` | 1637 Morning Prayer has `O Lord`; the missing `O` may be a transcription slip. |
+| 1637 (Scottish) Evening Prayer | `Cantate domino. Ps. 98 / Nunc dimittis / Luke 2. 29. / Deus misereatur. Ps. 67.` | The justus 1637 EP canticle labels float to the wrong positions; the bodies run Magnificat, Cantate Domino, Nunc Dimittis, Deus Misereatur and the labels are re-ordered to match. |
+| 1789 (American) Evening Prayer | `Psalm ii. 9` and other citations | Same OCR citation/word damage as 1789 MP (e.g. `Psalm ii. 9` for 51:9, `St. Luke vx. 18, 19` for xv, `walk m his laws`); read against the parallel 1789 MP / 1662. |
+| 1789 (American) Evening Prayer | `O God, make speed to save us / O Lord, make haste to help us` | The justus 1789 EP page prints only `O Lord, open thou our lips` then the Gloria; this pair (present at 1789 MP) is absent, as on the 1892/1928 EP pages; omitted following the source. |
+| 1892 / 1928 (American) Evening Prayer | `O God, make speed to save us / O Lord, make haste to help us` | The justus 1892 and 1928 EP pages likewise omit this pair (present at their Morning Prayer); omitted following the source; confirm against a scan. |
+| 1928 (American) Evening Prayer | `St. Mark xiii. 35, 36.` | Source prints `St. Mark xiii, 35, 36.` with a comma after `xiii`; normalized to a period for citation consistency. |
+| 1928 (American) Evening Prayer | `Thy will be done, On earth as it is in heaven.` | The 1928 EP page reads thus, diverging from the same-edition 1928 Morning Prayer (`Thy will be done on earth, As it is in heaven.`); transcribed as the EP source prints it. |

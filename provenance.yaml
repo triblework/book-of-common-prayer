@@ -190,3 +190,172 @@ records:
     verifier: bcp-authoring
     note: "GAP CLOSED (spec §4.2): the 1979 (explicitly PUBLIC DOMAIN) Daily Morning Prayer from the justus PD ASCII e-text bcpoffce.txt, ingested with scrape.py --text and reflowed mechanically by tools/../transform (source->file, never re-typed). Rite I is the office body (its diff against 1928 is the meaningful one); Rite II follows as a separate ## Rite Two section (Canticles 8-21, 'Lord, open our lips / And our mouth shall proclaim your praise'). MECHANICAL REFLOW pending cross-check against a page scan in the verify pass; the e-text carries occasional typos (e.g. 'acknoledge', 'therfore') to reconcile then."
     verify_items: []
+
+  # ---- Wave 2: Evening Prayer ----
+  # ---- English line (main) ----
+  - edition: 1549
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1549/Evensong_1549.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1549 Evensong opens directly at the Lord's Prayer (abbreviated 'Oure father, &c.'); the suffrages are cross-referenced to Matins and the three collects follow. The Athanasian Creed (Quicunque vult) printed at the close of the 1549 daily offices, rubricated for use after Benedictus at Matins, is out of Tier-1 scope, consistent with the 1549 Morning Prayer file."
+    verify_items: []
+
+  - edition: 1552
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1552/EP_1552.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1552 Evening Prayer begins at the Lord's Prayer (the penitential opening added in 1552 is printed at Morning Prayer only); it cross-references Morning Prayer for the Creed and suffrages. Athanasian Creed appendix omitted, consistent with the 1552 Morning Prayer file."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord, make haste to helpe us"
+        note: "the justus 1552 EP page omits the initial 'O' the 1552 Morning Prayer versicle has ('O Lord, make haste'); may be a transcription slip; confirm against a 1552 scan"
+      - anchor: Cantate Domino
+        source_reading: "all that them is ... they that dwel therm"
+        note: "the justus 1552 source prints 'them is' and 'therm', both probable OCR corruptions of 'therein'; normalized to 'therein'; confirm against a 1552 scan"
+      - anchor: Deus Misereatur
+        source_reading: "Deus misereatur. Ps. lxvii."
+        note: "the justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on the source page (1559 prints it in full); confirm the body against a 1552 scan"
+
+  - edition: 1559
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1559/EP_1559.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1559 Evening Prayer as 1552 with Elizabethan spelling; the Deus Misereatur is printed in full. Gloria Patri printed at length (bracketed variants on the justus page mark what 1604 abbreviates to '&c.'). Athanasian Creed appendix omitted."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord, make haste to helpe us"
+        note: "the justus 1559 EP page omits the initial 'O' (1552 Morning Prayer has 'O Lord'); the same omission is flagged at 1559 Morning Prayer; confirm against a 1559 scan"
+      - anchor: Magnificat
+        source_reading: "And my sprit ... the loweliries of his handmaiden"
+        note: "the justus 1559 page prints OCR forms 'sprit' (spirit) and 'loweliries' (lowelines); rendered as the intended words; confirm the 1559 spelling against a page scan"
+
+  - edition: 1604
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1559/EP_1559.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1604 Evening Prayer derived from the justus 1559 EP apparatus page, which documents the Jacobean change (the Gloria Patri in the versicle and canticles abbreviated to '&c.'); other 1604 opening changes do not apply because 1604 EP has no penitential opening. Same method as 1604 Morning Prayer."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord, make haste to helpe us"
+        note: "carried from 1559: the justus EP page omits the initial 'O' (1552 Morning Prayer has 'O Lord'); confirm against a page scan"
+      - anchor: Magnificat
+        source_reading: "And my sprit ... the loweliries of his handmaiden"
+        note: "carried from 1559: the justus page prints OCR forms 'sprit' (spirit) and 'loweliries' (lowelines); confirm against a page scan"
+
+  - edition: 1662
+    service: daily-office/evening-prayer
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/order-evening-prayer
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    acknowledgment: "BCP 1662"
+    note: "Full Tier-1 office from the Church of England website (authoritative 1662 publisher; Crown copyright in the UK). 1662 adds the full penitential opening (Sentences, Exhortation, Confession, Absolution) to Evening Prayer — the flagship 1604->1662 EP diff. The CoE EP web text omits several rubrics present in the printed 1662 book and in the CoE Morning Prayer page (the opening 'At the beginning of Evening Prayer...' rubric, the 'people shall answer here' rubric, the Apostles' Creed 'Except only such days...' clause, and the 'these five Prayers following' rubric); these were transcribed faithfully as the source presents them and are to be supplied from a 1662 facsimile in the verify pass. A modern interpolated rubric ('If no priest be present...') was excluded as not part of the 1662 book. The CoE serves the currently-authorized monarch/Royal-Family names in the state prayers (see verify_items)."
+    verify_items:
+      - anchor: A Prayer for the King's Majesty
+        source_reading: "King CHARLES"
+        note: "the source (CoE, current authorized text) names the reigning monarch, King CHARLES (Charles III); the 1662 book as first printed named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan before sign-off."
+      - anchor: A Prayer for the Royal Family
+        source_reading: "Queen Camilla, William Prince of Wales, the Princess of Wales"
+        note: "the source names the current Royal Family; the 1662 book named the then-Royal Family. Reign-dependent; reconcile against a dated 1662 scan before sign-off."
+
+  # ---- Scottish line (scottish) ----
+  - edition: 1637
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/EP_1637.htm
+    retrieved: 2026-08-11
+    cross_check:
+      - "a 1637 page scan is needed to confirm the re-ordered canticle labels"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Full Tier-1 office ('Laud's Liturgy'; Scottish 'Presbyter' term; AV-style Magnificat/Cantate/Nunc Dimittis/Deus Misereatur, including the AV 'Selah' in Deus Misereatur). Opens by cross-referencing Morning Prayer for the sentences/exhortation/confession/absolution, then the Lord's Prayer with doxology. The state prayers follow the Litany (not within EP). Athanasian Creed appendix omitted, consistent with the 1637 Morning Prayer file."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "Lord make haste to help us"
+        note: "the justus 1637 EP page omits the initial 'O' the 1637 Morning Prayer versicle has ('O Lord make haste to helpe us'); may be a transcription slip; confirm against a 1637 scan"
+      - anchor: Magnificat
+        source_reading: "Cantate domino. Ps. 98 / Nunc dimittis / Luke 2. 29. / Deus misereatur. Ps. 67."
+        note: "on the justus 1637 EP page the canticle title/citation labels float to the wrong positions (as at 1637 Morning Prayer); the canticle BODIES run in order (Magnificat, Cantate Domino, Nunc Dimittis, Deus Misereatur) and the labels are re-ordered to their bodies; confirm against a 1637 scan"
+
+  # ---- American line (american) ----
+  - edition: 1789
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1789/EP_1789.htm
+    retrieved: 2026-08-11
+    cross_check:
+      - "parallel 1789 Morning Prayer and 1662 sentences used to reconstruct OCR-damaged citations and the omitted versicle pair"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Full Tier-1 first-American Evening Prayer. American distinctives: three added opening sentences, the alternative absolution ('Almighty God, our heavenly Father...'), Nicene Creed as an 'Or this' alternative to the Apostles' Creed, shortened suffrages, and the American state prayer (President). The 1789 book drops the Magnificat and Nunc Dimittis as printed evening canticles, using Cantate Domino / Bonum est Confiteri after the first lesson and Deus Misereatur / Benedic anima mea after the second (restored in 1892) — a real diff vs 1662."
+    verify_items:
+      - anchor: The Opening Sentences
+        source_reading: "Psalm ii. 9"
+        note: "several roman-numeral citations and a few words on the justus 1789 EP page are OCR-damaged (e.g. 'Psalm ii. 9' for 51:9, 'St. Luke vx. 18, 19' for xv, 'walk m his laws', 'no man having be justified'); read against the parallel 1789 Morning Prayer and 1662 sentences; confirm against a scan"
+      - anchor: The Versicles
+        source_reading: "O God, make speed to save us / O Lord, make haste to help us"
+        note: "the justus 1789 EP page prints only 'O Lord, open thou our lips' then the Gloria; this versicle pair (present at 1789 Morning Prayer) is absent here, as it is on the 1892 and 1928 EP pages; omitted following the source; confirm against a 1789 scan"
+
+  - edition: 1979
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/bcpoffce.txt
+    retrieved: 2026-08-11
+    cross_check:
+      - "Wikisource / Wikimedia PD transcription of the 1979 book (add-only cross-check)"
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "GAP CLOSED (spec §4.2): 1979 (explicitly PUBLIC DOMAIN) Daily Evening Prayer from the justus PD ASCII e-text bcpoffce.txt, ingested and reflowed mechanically by ingest/transform_1979_ep.py (source->script->file, never re-typed). Rite I is the office body; Rite II follows as a separate ## Rite Two section (Phos hilaron, modern-language canticles). Two obvious e-text HEADING typos were corrected in the transform so cross-edition anchors align: '<The Song of Solomon>' (labelled '=Nunc dimittis=', i.e. the Song of Simeon; Rite Two prints 'Song of Simeon' correctly) -> 'The Song of Simeon', and '<The Apostle's Creed>' -> 'The Apostles' Creed'. MECHANICAL REFLOW pending cross-check against a page scan in the verify pass; the e-text carries occasional body typos (e.g. 'payer', 'boundries', 'Pleides') and a shared transform rendering quirk on speaker labels ('**Officiant* :'), identical to the published 1979 Morning Prayer, to reconcile then."
+    verify_items: []
+
+  - edition: 1892
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1892/EP_1892.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Full Tier-1 1892 American Evening Prayer from the justus clean HTML. Restores the full Suffrages (incl. 'O Lord, save the State' — American form, no King). Alternative absolution and the Nicene Creed 'Or this' alternative present; the President prayer and Collects use the EP-specific forms. Canticle pairs: Magnificat/Cantate Domino/Bonum est Confiteri after the first lesson, Nunc Dimittis/Deus Misereatur/Benedic anima mea after the second."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "O God, make speed to save us / O Lord, make haste to help us"
+        note: "the justus 1892 EP page prints only 'O Lord, open thou our lips' then the Gloria; this versicle pair (present at 1892 Morning Prayer) is absent, as on the 1789 and 1928 EP pages; omitted following the source; confirm against a 1892 scan"
+
+  - edition: 1928
+    service: daily-office/evening-prayer
+    source_url: http://justus.anglican.org/resources/bcp/1928/EP.htm
+    retrieved: 2026-08-11
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Full Tier-1 1928 American Evening Prayer from the justus 1928 Satucket clean HTML (licensing per spec §4.1). 1928 distinctives: the short penitential bid printed before the 'Dearly beloved' exhortation (reverse of Morning Prayer), an added short alternative absolution, the full Gloria in excelsis offered as the Psalm doxology, a distinct Prayer for the President ('Almighty God, whose kingdom is everlasting...'), 'O Lord, save the State' in the fuller Suffrages, and the Nicene Creed 'Or this' alternative. Canticle pairs as in 1892."
+    verify_items:
+      - anchor: The Versicles
+        source_reading: "O God, make speed to save us / O Lord, make haste to help us"
+        note: "the justus 1928 EP page prints only 'O Lord, open thou our lips' then the Gloria; this versicle pair (present at 1928 Morning Prayer) is absent, as on the 1789 and 1892 EP pages; omitted following the source; confirm against a 1928 scan"
+      - anchor: The Opening Sentences
+        source_reading: "St. Mark xiii. 35, 36."
+        note: "the source prints 'St. Mark xiii, 35, 36.' with a comma after 'xiii'; normalized to a period for citation consistency; confirm against a scan"
+      - anchor: The Lordes Prayer
+        source_reading: "Thy will be done, On earth as it is in heaven."
+        note: "the 1928 EP page reads thus, diverging from the same-edition 1928 Morning Prayer ('Thy will be done on earth, As it is in heaven.'); transcribed as the EP source prints it; confirm against a 1928 scan"
