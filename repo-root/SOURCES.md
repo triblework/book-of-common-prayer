@@ -62,7 +62,7 @@ Crown-copyright acknowledgment: **BCP 1662** (see `NOTICE.md`).
 | 1789 | <http://justus.anglican.org/resources/bcp/1789/MP_1789.htm> | First American book; Daily Morning Prayer. |
 | 1892 | <http://justus.anglican.org/resources/bcp/1892/MP_1892.htm> | Expanded opening sentences + liberalizing rubrics. |
 | 1928 | <http://justus.anglican.org/resources/bcp/1928/MP.htm> | Full Daily Morning Prayer from the justus Satucket clean HTML (spec §4.1); gap closed. |
-| 1979 | **not transcribed this pass** | The 1979 (public domain) is served by dynamic/JavaScript sites (bookofcommonprayer.net) or day-generated pages (missionstclare.com) that the static scraper cannot capture cleanly; transcribing from memory is disallowed. The commit documents the gap (notably Rite II's "Lord, open our lips / And our mouth shall proclaim your praise"). TODO: source a clean 1979 Rite I / Rite II transcription. |
+| 1979 | <http://justus.anglican.org/resources/bcp/bcpoffce.txt> | Public-domain ASCII e-text (spec §4.2); Rite I as the office body, Rite II as a separate `## Rite Two` section. Mechanically reflowed via `scrape.py --text`; gap closed. |
 
 ---
 

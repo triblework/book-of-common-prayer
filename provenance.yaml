@@ -176,13 +176,12 @@ records:
 
   - edition: 1979
     service: daily-office/morning-prayer
-    source_url: null
-    retrieved: null
+    source_url: http://justus.anglican.org/resources/bcp/bcpoffce.txt
+    retrieved: 2026-08-11
     cross_check:
-      - "1979 lives on JS/day-generated sites the static scraper can't capture this pass"
-      - "spec §4.2: justus public-domain ASCII e-text (bcpprayr.txt / bcp10.txt) closes this gap in a later wave"
-    status: inherited-unreviewed
-    depth: gap
+      - "Wikisource / Wikimedia PD transcription of the 1979 book (add-only cross-check)"
+    status: transcribed
+    depth: tier-1
     verifier: bcp-authoring
-    note: "GAP: carries the prior Daily Office forward with an inline <!-- SCOPE (1979) --> note. Rite I / Rite II text is a documented TODO (spec §4.2 identifies a clean PD source; convention: Rite I in office files, Rite II as a separate section)."
+    note: "GAP CLOSED (spec §4.2): the 1979 (explicitly PUBLIC DOMAIN) Daily Morning Prayer from the justus PD ASCII e-text bcpoffce.txt, ingested with scrape.py --text and reflowed mechanically by tools/../transform (source->file, never re-typed). Rite I is the office body (its diff against 1928 is the meaningful one); Rite II follows as a separate ## Rite Two section (Canticles 8-21, 'Lord, open our lips / And our mouth shall proclaim your praise'). MECHANICAL REFLOW pending cross-check against a page scan in the verify pass; the e-text carries occasional typos (e.g. 'acknoledge', 'therfore') to reconcile then."
     verify_items: []
