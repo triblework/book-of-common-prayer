@@ -11,14 +11,14 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS (2026-08-13) — Wave 6 DONE on authoring (commit 69d1e0e), awaiting publish
+## CURRENT STATUS (2026-08-13) — Waves 0–6 PUBLISHED
 
-**Waves 0–5 are DONE + PUBLISHED.** Published tips still on origin: `main f6ddd2b ·
-scottish 6395760 · american eca30d2`; all 12 tags.
-
-**Wave 6 = the pastoral occasional offices — DONE on `authoring` (pushed to
-origin/authoring, commit 69d1e0e); NOT YET published (awaiting user go-ahead on the
-force-push).** Five services under `occasional-offices/`: **matrimony**,
+**Waves 0–5 published earlier.** **Wave 6 = the pastoral occasional offices — DONE +
+PUBLISHED (force-pushed to origin 2026-08-13).** NEW published tips: `main b08f28cb ·
+scottish cca00fba · american e52f160a`; all 12 `vYYYY` tags recreated; local==remote
+verified for all branches + tags; flagship diffs render. `authoring` tip on origin
+after the Wave-6 publish work is `69d1e0e`+ (HANDOFF/status commits on top). Five
+services under `occasional-offices/`: **matrimony**,
 **visitation-sick** (incl. the Communion of the Sick), **burial**, **churching**,
 **commination**. Matrimony/Visitation/Burial across the ten daily-office editions
 (absent 1764/1929); Churching across them + 1979 (as "A Thanksgiving for the Birth or
@@ -40,9 +40,7 @@ anchor menus), `ingest/pdf_spine.py` (pypdf layout-mode PDF→spine),
 12 tags; sentence_split/normalize/verify_index --check all exit 0 on main/scottish/
 american. Flagship diffs verified: burial 1549→1552 stripping (375-line diff), matrimony
 1549→1552 "gold and silver" dropped, commination present v1662 / absent v1789.
-**TO PUBLISH Wave 6: follow §5** (recovery record → build_history --publish --live-repo →
-force-with-lease branches + force tags → verify local==remote + flagship diffs). After
-publishing, next is Wave 7 (Catechism) — plus deferred items (1549 Blessing of the Font;
+**Wave 6 is PUBLISHED** (2026-08-13). Next is Wave 7 (Catechism) — plus deferred items (1549 Blessing of the Font;
 bundled Catechism bodies; Litany occasional/state prayers).
 
 <!-- Superseded: prior "Waves 0–5 PUBLISHED" status block kept below for reference -->
