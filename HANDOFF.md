@@ -11,7 +11,7 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS (2026-08-12) — Waves 0–4 PUBLISHED; Wave 5 DONE ON `authoring`, NOT YET PUBLISHED
+## CURRENT STATUS (2026-08-13) — Waves 0–5 PUBLISHED
 
 **Waves 0–4 are DONE and PUBLISHED** (force-pushed to origin). Published tips:
 `main 0bc0686 · scottish 5426855 · american 0e7818c`; all 12 `vYYYY` tags recreated.
@@ -19,9 +19,9 @@ Wave 1 = Morning Prayer, Wave 2 = Evening Prayer, Wave 3 = The Litany (each full
 Tier-1 across the ten daily-office editions), **Wave 4 = Holy Communion (full
 Tier-1 across ALL TWELVE editions)**.
 
-**Wave 5 = the Christian-initiation offices — COMPLETE on `authoring` (built + all
-three invariant tools GREEN on every tip; committed + pushed to origin/authoring).
-NOT YET published to the public branches (awaiting user go-ahead on the force-push).**
+**Wave 5 = the Christian-initiation offices — DONE + PUBLISHED (force-pushed to
+origin 2026-08-13). NEW published tips: `main f6ddd2b · scottish 6395760 · american
+eca30d2`; all 12 tags recreated; local==remote verified.**
 Scope was the FULL initiation family (nothing deferred within it): four services
 under `occasional-offices/` — **public-baptism**, **private-baptism**,
 **baptism-riper-years** (a 1662 addition), **confirmation**. Public/Private Baptism
