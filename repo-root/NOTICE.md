@@ -126,6 +126,25 @@ The published branches and tags are build artifacts, regenerated from the
   the American 1892 offices, which justus serves only as text-layer PDFs, were
   extracted with pypdf layout mode. A handful of genuine e-text/print defects are kept
   verbatim and flagged inline (`<!-- VERIFY -->`) — see `SOURCES.md`.
+- **2026-08-13** — Wave 7: the Catechism added at Tier-1, as
+  `occasional-offices/catechism.md` (a sibling of Confirmation, with which it is
+  printed). It runs across the editions that carry it — English 1549–1662, Scottish
+  1637, American 1789–1979; 1764 is Communion-only and 1929 inherits that absence.
+  The catechism file holds the title and the Question-and-Answer body; the framing
+  and catechizing rubrics remain with the Confirmation office. The flagship feature
+  is that the Catechism **grows**: the 1604 book adds the whole Sacraments section
+  ("How many Sacraments hath Christ ordained…" → Baptism → the Lord's Supper),
+  authorized at the Hampton Court Conference — a clean insert at `git diff v1559
+  v1604 -- texts/normalized/occasional-offices/catechism.md`; an earlier growth
+  appears at 1552, which expands the Decalogue to its full scriptural form and adds
+  the Exodus preamble. The 1604 text was derived from the justus 1559 Confirmation
+  page, which appends the "added in 1604" material under a caption. The American line
+  recasts the Catechism twice: the 1928 book as the **Offices of Instruction** (two
+  Offices with prayers and Minister/People responses woven through the Q&A), and the
+  1979 book as **An Outline of the Faith** (a contemporary commentary on the creeds),
+  reflowed mechanically from the public-domain ASCII e-text `bcpprayr.txt` (source →
+  script → file). A few OCR/e-text readings are kept verbatim and flagged inline
+  (`<!-- VERIFY -->`) — see `SOURCES.md`.
 
 ## A note on transcription
 

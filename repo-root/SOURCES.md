@@ -277,6 +277,14 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1637 Commination | `Matt. 31.2.` | source prints 'Matt. 31.2.'; there is no Matthew 31, the reference is to Matt. 3.12 ('His fanne is in his hand… burn the chaff'); kept as printed; confirm against a page scan |
 | 1637 Commination | `thy god pleasure` | source prints 'thy god pleasure'; Psalm 51 and sense read 'thy good pleasure'; likely a dropped 'o'; kept as printed; confirm against a page scan |
 | 1637 Commination | `be I favourable, O Lord, bee favourable` | source prints 'be I favourable, O Lord, bee favourable'; the intrusive 'I' appears to be a stray character/dittography (cf. 1552 'bee favourable (O Lord) bee fauourable'); kept as printed; confirm against a page scan |
+| 1552 Catechism | `THAT IS TO SAVE` | source prints 'THAT IS TO SAVE'; obvious OCR scanno for 'saye' (cf. 1549 'that is to say'); rendered 'saye'; confirm against a page scan |
+| 1552 Catechism | `the Lard` | source prints 'the Lard'; obvious OCR scanno for 'Lord' (cf. II 'the Lorde thy God'); rendered 'Lord'; confirm against a page scan |
+| 1559 Catechism | `Commaundemetes` | source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan |
+| 1559 Catechism | `in hyrn` | source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan |
+| 1604 Catechism | `Commaundemetes` | source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan |
+| 1604 Catechism | `in hyrn` | source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan |
+| 1604 Catechism | `In the name the Name of the Father, and of Sonne` | source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan |
+| 1637 Catechism | `In the name the Name of the Father, and of Sonne` | source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan |
 
 ## Occasional offices — Baptism family & Confirmation (Wave 5)
 
@@ -352,3 +360,53 @@ e-text defects (a dropped clause in the Marriage banns form, a garbled run in th
 Marriage prayers rubric, a corrupted word in the Thanksgiving) are kept verbatim
 and flagged. The 1979 book has no Commination and its nearest relative (the Ash
 Wednesday liturgy) is deliberately not mapped.
+
+## The Catechism (Wave 7)
+
+One service, `occasional-offices/catechism.md`, at Tier-1 across the editions that
+carry it. Historically the Catechism is printed with Confirmation (its title is "A
+Catechism, that is to say, an Instruction to be learned of every person before he
+be brought to be Confirmed by the Bishop"), so it lives beside `confirmation.md`
+under `occasional-offices/`. **Scope:** `catechism.md` holds the Catechism title
+and its Question-and-Answer body; the framing/catechizing rubrics that surround it
+in the book (the Confirmation preface, "So soon as the children can say…", "The
+Curate of every parish shall diligently … instruct and examine…") are
+Confirmation-office rubrics and live in `confirmation.md`.
+
+The Catechism runs across the ten daily-office editions (English 1549–1662,
+Scottish 1637, American 1789–1979); 1764 is Communion-only (absent) and 1929
+inherits that absence (the repo's Scottish line is Communion-only after 1637).
+
+The flagship diff is that the Catechism **grows**: the pre-1604 text ends at the
+Lord's-Prayer exposition, and the 1604 book **adds the whole Sacraments section**
+("How many Sacraments hath Christ ordained…" → Baptism → the Lord's Supper) — the
+famous `git diff v1559 v1604` insert. (An earlier growth is visible at
+`git diff v1549 v1552`, where 1552 expands the Decalogue to its full scriptural
+form and adds the Exodus preamble.)
+
+| Edition | Catechism source | Form |
+|---|---|---|
+| 1549 | `1549/Confirmation_1549.htm` (bundled) | pre-1604 (no Sacraments) |
+| 1552 | `1552/Confirmation_1552.htm` (bundled) | pre-1604; full Decalogue + Exodus preamble added |
+| 1559 | `1559/Confirmation_1559.htm` (bundled) | pre-1604 (no Sacraments) |
+| 1604 | derived from the justus `1559` page (which appends the captioned "added in 1604" block) | **Sacraments section added** |
+| 1662 | CoE `catechism` | with Sacraments; `BCP 1662` |
+| 1637 | `Scotland/Confirmation_1637.htm` (bundled) | with Sacraments; title adds "throughout the whole Church of Scotland" |
+| 1789 | `1789/Catechism.htm` / `Catechism_1789.pdf` (standalone) | *pending — see note* |
+| 1892 | `1892/Catechism&Confirm_1892.pdf` (standalone) | *pending — see note* |
+| 1928 | `1928/Confirnation.htm` (bundled) | recast as the **Offices of Instruction** (two Offices) |
+| 1979 | `bcpprayr.txt` | recast as **An Outline of the Faith** (contemporary Q&A) |
+
+Scope notes: the 1928 American book recasts the Catechism as the "Offices of
+Instruction" — two Offices with prayers, hymn rubrics, and Minister/People
+responses woven through the Q&A; it is represented under `catechism.md` as the
+1928 lineal form (the recasting is the meaningful `v1892→v1928` diff), and its own
+headings are the anchors. The 1979 "Outline of the Faith" is reflowed mechanically
+from the public-domain ASCII e-text (`bcpprayr.txt`) and, like the other 1979
+files, keeps its e-text typos verbatim pending a scan check.
+
+**Pending (justus outage):** the standalone American Catechism pages for **1789**
+and **1892** live only on justus.anglican.org, which was unreachable during this
+wave (a live TLS/availability outage — modern clients get a failed handshake, and
+the site root returned 404). Those two cells are held for a justus re-fetch rather
+than derived from the 1662 text; they will be added to complete the American line.

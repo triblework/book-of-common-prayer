@@ -129,9 +129,21 @@ commendation of the soul, explicit prayers for the dead, an office of psalms, an
 a Communion of the dead), and the 1552 book reduces it to the bare graveside form
 and rewrites the committal and the prayer to remove prayer for the dead.
 
-**Coming soon** (in progress): the Collects, the Catechism, and the Ordinal; the
-Psalter and lectionary tables will follow. All twelve tags carry sourced text (the
-earlier 1928/1979 sourcing gaps were closed with clean public-domain sources — see
+The **Catechism** is transcribed at Tier-1 across the editions that carry it
+(English 1549–1662, Scottish 1637, American 1789–1979; 1764/1929 are
+Communion-only). Its flagship feature is that it **grows**: the pre-1604 text runs
+from the baptismal covenant through the Creed, the Ten Commandments, and the Lord's
+Prayer, and the 1604 book **adds the whole Sacraments section** ("How many
+Sacraments hath Christ ordained…" → Baptism → the Lord's Supper), authorized at the
+Hampton Court Conference — a clean insert at `git diff v1559 v1604`. An earlier
+growth appears at 1552, which expands the Decalogue to its full scriptural form.
+The American line recasts it twice: the 1928 book as the **Offices of Instruction**
+(two Offices with prayers and responses), and the 1979 book as **An Outline of the
+Faith** (a contemporary commentary on the creeds in question-and-answer form).
+
+**Coming soon** (in progress): the Collects, and the Ordinal; the Psalter and
+lectionary tables will follow. All twelve tags carry sourced text (the earlier
+1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
@@ -164,6 +176,11 @@ git diff v1549 v1552 -- texts/normalized/occasional-offices/burial.md
 
 # The American line drops the Commination entirely — a clean deletion at 1789:
 git diff v1662 v1789 -- texts/normalized/occasional-offices/commination.md
+
+# The Catechism grows: the 1604 book adds the whole Sacraments section
+# ("How many Sacraments hath Christ ordained…" → Baptism → the Lord's Supper),
+# authorized at the Hampton Court Conference — a clean insert:
+git diff v1559 v1604 -- texts/normalized/occasional-offices/catechism.md
 
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/

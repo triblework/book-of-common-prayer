@@ -1926,3 +1926,116 @@ records:
     verifier: bcp-authoring
     note: "1604: unchanged from 1559 (the justus 1559 page shows no 1604 apparatus for this office); inherits the 1559 text."
     verify_items: []
+
+  # ---- Wave 7: the Catechism ----
+  - edition: 1549
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1549/Confirmation_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "The Catechism is bundled on the Confirmation page (1549/Confirmation_1549.htm); only the Catechism Q&A body is transcribed here (the Confirmation office + its framing rubrics live in confirmation.md). Pre-1604 form: ends at the Lord's-Prayer exposition, no Sacraments section."
+    verify_items: []
+
+  - edition: 1552
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1552/Confirmation_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "The Catechism is bundled on the Confirmation page (1552/Confirmation_1552.htm); only the Catechism Q&A body is transcribed here (the Confirmation office + its framing rubrics live in confirmation.md). Pre-1604 form: ends at the Lord's-Prayer exposition, no Sacraments section."
+    verify_items:
+      - anchor: '?'
+        source_reading: THAT IS TO SAVE
+        note: source prints 'THAT IS TO SAVE'; obvious OCR scanno for 'saye' (cf. 1549 'that is to say'); rendered 'saye'; confirm against a page scan
+      - anchor: The Ten Commandments
+        source_reading: the Lard
+        note: source prints 'the Lard'; obvious OCR scanno for 'Lord' (cf. II 'the Lorde thy God'); rendered 'Lord'; confirm against a page scan
+
+  - edition: 1559
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Confirmation_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "The Catechism is bundled on the Confirmation page (1559/Confirmation_1559.htm); only the Catechism Q&A body is transcribed here (the Confirmation office + its framing rubrics live in confirmation.md). Pre-1604 form: ends at the Lord's-Prayer exposition, no Sacraments section."
+    verify_items:
+      - anchor: The Baptismal Covenant
+        source_reading: Commaundemetes
+        note: source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan
+      - anchor: The Ten Commandments
+        source_reading: in hyrn
+        note: source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan
+
+  - edition: 1604
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1559/Confirmation_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Derived from the justus 1559 Confirmation page, which appends the 1604 additions under the caption 'Page from the 1604 Book of Common Prayer ... additional questions' and the note 'The following questions & answers were added in 1604'. The 1604 changes: (1) the whole Sacraments section is ADDED ('How many Sacraments hath Christ ordained' -> the Lord's Supper) — the famous flagship diff v1559->v1604; (2) the baptismal-promise phrase 'all his workes and pompes, the vanities' -> 'all his workes, the pompes and vanities' (per the page's footnote). No other catechism-body change is apparatused."
+    verify_items:
+      - anchor: The Baptismal Covenant
+        source_reading: Commaundemetes
+        note: source prints 'Commaundemetes'; OCR drop of a letter for 'Commaundementes'; rendered 'Commaundementes'; confirm against a page scan
+      - anchor: The Ten Commandments
+        source_reading: in hyrn
+        note: source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan
+      - anchor: The Sacraments
+        source_reading: In the name the Name of the Father, and of Sonne
+        note: source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Confirmation_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "Scottish 1637; the Catechism is bundled on the Confirmation page (Scotland/Confirmation_1637.htm). Post-1604 form (has the Sacraments section). The title carries the Scottish clause 'and to be used throughout the whole Church of Scotland'."
+    verify_items:
+      - anchor: The Sacraments
+        source_reading: In the name the Name of the Father, and of Sonne
+        note: source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan
+
+  - edition: 1662
+    service: occasional-offices/catechism
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/catechism
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped; the heading split ('A Catechism' / 'That is to say' / 'An Instruction...') recombined into one title line. `BCP 1662`. Catechism-only page (ends at the Lord's-Supper answer '...be in charity with all men')."
+    verify_items: []
+
+  - edition: 1928
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1928/Confirnation.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928; the Catechism was recast as the 'Offices of Instruction' (two Offices with prayers, hymnody rubrics, and Minister/People responses interwoven with the Q&A), bundled on the Confirmation page (Confirnation.htm — source filename typo). Represented here under catechism.md as the 1928 lineal form (the recasting is the meaningful v1892->v1928 diff); its own headings (First/Second Office, The Creed, The Ten Commandments, The Church, The Sacraments, The Ministry, ...) are the anchors. The Offices' concluding confirmation-transition rubric ('So soon as Children...') stays in confirmation.md."
+    verify_items: []
+
+  - edition: 1979
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/bcpprayr.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1979; 'An Outline of the Faith, commonly called the Catechism' — the contemporary-language recasting (a commentary on the creeds in Q&A form), from the public-domain ASCII e-text bcpprayr.txt via ingest/transform_1979_catechism.py (source -> script -> file; text never re-typed). Its own section headings (Human Nature, God the Father, ... The Christian Hope) are the anchors; opens with its 'Concerning the Catechism' preface. Mechanically reflowed — the e-text carries scattered typos (e.g. 'knows' for 'known', 'give' for 'given', 'principle' for 'principal', 'response of God' for 'response to God'); verify against a page scan before sign-off."
+    verify_items: []
