@@ -90,6 +90,17 @@
     note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped; the heading split ('A Catechism' / 'That is to say' / 'An Instruction...') recombined into one title line. `BCP 1662`. Catechism-only page (ends at the Lord's-Supper answer '...be in charity with all men')."
     verify_items: []
 
+  - edition: 1789
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1789/Catechism.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1789; standalone Catechism page (1789/Catechism.htm), NOT bundled with Confirmation. Post-1604 form (with Sacraments). American changes vs 1662: 'My Sponsors in Baptism' (for 'Godfathers and Godmothers'), 'To honour and obey the civil authority' (for 'the King, and all that are put in authority under him'), and 'from our spiritual enemy' (for 'ghostly enemy'). Unlike the English editions, the 1789 catechism page prints its own concluding catechizing rubrics ('The Minister of every Parish shall diligently…') — kept here under ## The Rubrics, as they are not in the separate 1789 confirmation.md. A justus editorial note ('The Catechism text in the 1892 Book is identical…') is dropped as non-liturgical."
+    verify_items: []
+
   - edition: 1928
     service: occasional-offices/catechism
     source_url: http://justus.anglican.org/resources/bcp/1928/Confirnation.htm
@@ -110,4 +121,15 @@
     depth: tier-1
     verifier: bcp-authoring
     note: "American 1979; 'An Outline of the Faith, commonly called the Catechism' — the contemporary-language recasting (a commentary on the creeds in Q&A form), from the public-domain ASCII e-text bcpprayr.txt via ingest/transform_1979_catechism.py (source -> script -> file; text never re-typed). Its own section headings (Human Nature, God the Father, ... The Christian Hope) are the anchors; opens with its 'Concerning the Catechism' preface. Mechanically reflowed — the e-text carries scattered typos (e.g. 'knows' for 'known', 'give' for 'given', 'principle' for 'principal', 'response of God' for 'response to God'); verify against a page scan before sign-off."
+    verify_items: []
+
+  - edition: 1892
+    service: occasional-offices/catechism
+    source_url: http://justus.anglican.org/resources/bcp/1789/Catechism.htm
+    retrieved: 2026-08-13
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/Catechism&Confirm_1892.pdf]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892; the Catechism is identical to 1789 — justus states 'The Catechism text in the 1892 Book is identical and so is not given separately', and this was confirmed against the 1892 Catechism&Confirm PDF (a WordPerfect scan with minor OCR noise but no substantive change). Inherited from 1789 (no separate file)."
     verify_items: []

@@ -392,21 +392,27 @@ form and adds the Exodus preamble.)
 | 1604 | derived from the justus `1559` page (which appends the captioned "added in 1604" block) | **Sacraments section added** |
 | 1662 | CoE `catechism` | with Sacraments; `BCP 1662` |
 | 1637 | `Scotland/Confirmation_1637.htm` (bundled) | with Sacraments; title adds "throughout the whole Church of Scotland" |
-| 1789 | `1789/Catechism.htm` / `Catechism_1789.pdf` (standalone) | *pending — see note* |
-| 1892 | `1892/Catechism&Confirm_1892.pdf` (standalone) | *pending — see note* |
+| 1789 | `1789/Catechism.htm` (standalone) | American form: "My Sponsors in Baptism", "the civil authority"; with Sacraments; keeps its own catechizing rubrics |
+| 1892 | identical to 1789 (justus note; confirmed vs `1892/Catechism&Confirm_1892.pdf`) | inherits 1789 (reviewed-unchanged) |
 | 1928 | `1928/Confirnation.htm` (bundled) | recast as the **Offices of Instruction** (two Offices) |
 | 1979 | `bcpprayr.txt` | recast as **An Outline of the Faith** (contemporary Q&A) |
 
-Scope notes: the 1928 American book recasts the Catechism as the "Offices of
-Instruction" — two Offices with prayers, hymn rubrics, and Minister/People
-responses woven through the Q&A; it is represented under `catechism.md` as the
-1928 lineal form (the recasting is the meaningful `v1892→v1928` diff), and its own
-headings are the anchors. The 1979 "Outline of the Faith" is reflowed mechanically
-from the public-domain ASCII e-text (`bcpprayr.txt`) and, like the other 1979
-files, keeps its e-text typos verbatim pending a scan check.
+Scope notes: the American 1789 catechism is a standalone page (not bundled with
+Confirmation) and diverges from the English 1662 text — "My Sponsors in Baptism"
+for "Godfathers and Godmothers", "To honour and obey the civil authority" for "the
+King, and all that are put in authority under him", and "our spiritual enemy" for
+"ghostly enemy"; it also prints its own concluding catechizing rubrics (kept here
+under `## The Rubrics`, since the separate 1789 confirmation file does not carry
+them). The **1892** catechism is identical to 1789 (justus states so; confirmed
+against the 1892 `Catechism&Confirm` PDF, a WordPerfect scan with minor OCR noise
+but no substantive change), so it inherits 1789. The 1928 American book recasts the
+Catechism as the "Offices of Instruction" — two Offices with prayers, hymn rubrics,
+and Minister/People responses woven through the Q&A; it is represented under
+`catechism.md` as the 1928 lineal form (the recasting is the meaningful `v1892→v1928`
+diff), and its own headings are the anchors. The 1979 "Outline of the Faith" is
+reflowed mechanically from the public-domain ASCII e-text (`bcpprayr.txt`) and, like
+the other 1979 files, keeps its e-text typos verbatim pending a scan check.
 
-**Pending (justus outage):** the standalone American Catechism pages for **1789**
-and **1892** live only on justus.anglican.org, which was unreachable during this
-wave (a live TLS/availability outage — modern clients get a failed handshake, and
-the site root returned 404). Those two cells are held for a justus re-fetch rather
-than derived from the 1662 text; they will be added to complete the American line.
+Access note: justus.anglican.org serves its content over plain **HTTP**; its HTTPS
+virtual host currently returns 404 for every path (an old Apache/OpenSSL cert setup),
+so all justus fetches for this wave used `http://` URLs.

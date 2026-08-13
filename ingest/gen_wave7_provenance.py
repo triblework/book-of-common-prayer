@@ -11,10 +11,9 @@ Prints/writes two blocks:
   ingest/wave7_sources_rows.md         Markdown rows for the SOURCES 'Uncertain passages' table
 Usage: gen_wave7_provenance.py <authoring-root>
 
-NOTE: 1789 and 1892 are intentionally omitted here — their standalone American
-Catechism pages live only on justus.anglican.org, which was unreachable during this
-wave (live TLS/availability outage). They are pending a justus re-fetch; do NOT
-derive them from 1662 or from memory. Add their rows when justus returns.
+NOTE on justus access: justus.anglican.org's HTTPS vhost 404s every path (an
+expired/misconfigured cert setup on a 2010-era Apache/OpenSSL); the content is
+served fine over plain HTTP. All justus source_urls here therefore use http://.
 """
 import sys, re, os
 import yaml
@@ -39,10 +38,14 @@ URL = {
  "1604": J+"1559/Confirmation_1559.htm",   # derived from the justus 1559 page
  "1662": COE+"catechism",
  "1637": J+"Scotland/Confirmation_1637.htm",
+ "1789": J+"1789/Catechism.htm",
  "1928": J+"1928/Confirnation.htm",
  "1979": PRAYR,
 }
 STATUS = {ed: "transcribed" for ed in URL}
+# 1892 Catechism is identical to 1789 (justus states so; confirmed vs the 1892 PDF)
+# -> reviewed-unchanged, inherits 1789 (no file). Handled after the main loop.
+PDF_1892 = J + "1892/Catechism&Confirm_1892.pdf"
 
 
 def note_for(ed):
@@ -64,6 +67,16 @@ def note_for(ed):
                 "the UK). Site chrome stripped; the heading split ('A Catechism' / 'That is to say' / 'An "
                 "Instruction...') recombined into one title line. `BCP 1662`. Catechism-only page (ends at "
                 "the Lord's-Supper answer '...be in charity with all men').")
+    if ed == "1789":
+        return ("American 1789; standalone Catechism page (1789/Catechism.htm), NOT bundled with "
+                "Confirmation. Post-1604 form (with Sacraments). American changes vs 1662: 'My "
+                "Sponsors in Baptism' (for 'Godfathers and Godmothers'), 'To honour and obey the "
+                "civil authority' (for 'the King, and all that are put in authority under him'), and "
+                "'from our spiritual enemy' (for 'ghostly enemy'). Unlike the English editions, the "
+                "1789 catechism page prints its own concluding catechizing rubrics ('The Minister of "
+                "every Parish shall diligently…') — kept here under ## The Rubrics, as they are not in "
+                "the separate 1789 confirmation.md. A justus editorial note ('The Catechism text in the "
+                "1892 Book is identical…') is dropped as non-liturgical.")
     if ed == "1637":
         return ("Scottish 1637; the Catechism is bundled on the Confirmation page "
                 "(Scotland/Confirmation_1637.htm). Post-1604 form (has the Sacraments section). The title "
@@ -133,6 +146,22 @@ for ed in sorted(URL):
     else:
         rec.append("    verify_items: []")
     prov_lines += rec + [""]
+
+# 1892: reviewed-unchanged, inherits 1789 (identical catechism, no file).
+prov_lines += [
+  "  - edition: 1892",
+  "    service: occasional-offices/catechism",
+  f"    source_url: {URL['1789']}",
+  "    retrieved: 2026-08-13",
+  f"    cross_check: [{PDF_1892}]",
+  "    status: reviewed-unchanged",
+  "    depth: tier-1",
+  "    verifier: bcp-authoring",
+  '    note: "American 1892; the Catechism is identical to 1789 — justus states \'The Catechism '
+  "text in the 1892 Book is identical and so is not given separately', and this was confirmed against "
+  "the 1892 Catechism&Confirm PDF (a WordPerfect scan with minor OCR noise but no substantive "
+  'change). Inherited from 1789 (no separate file)."',
+  "    verify_items: []", ""]
 
 open(f"{WT}/ingest/wave7_provenance_block.yaml", "w").write("\n".join(prov_lines))
 open(f"{WT}/ingest/wave7_sources_rows.md", "w").write("\n".join(src_rows) + "\n")

@@ -11,12 +11,20 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) DONE 8/10, HELD (not published)
+## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) COMPLETE, build-green, NOT yet published
 
-**Wave 7 = the Catechism — authored + build-green for 8 of 10 editions; committed +
-pushed to `origin/authoring` (commit `a31af1e`); NOT published (held for justus).**
-One file `occasional-offices/catechism.md` (sibling of Confirmation). Scope: title +
-Q&A body only — the framing/catechizing rubrics stay in confirmation.md.
+**Wave 7 = the Catechism — authored + build-green for ALL 10 editions; committed +
+pushed to `origin/authoring`; NOT yet published (awaiting user go-ahead on the
+force-push).** One file `occasional-offices/catechism.md` (sibling of Confirmation).
+Scope: title + Q&A body only — the framing/catechizing rubrics stay in confirmation.md
+(EXCEPT American 1789/1892, whose catechism *page* prints its own catechizing rubrics,
+kept there under `## The Rubrics`).
+
+JUSTUS ACCESS GOTCHA (this is why "1789/1892 blocked" earlier was WRONG): justus's
+**HTTPS** vhost 404s every path (old Apache 2.2 / OpenSSL 0.9.8 cert setup); the
+content is served fine over plain **HTTP**. Use `http://justus.anglican.org/...`
+(WebFetch force-upgrades to https and fails; the scrape cache + transform scripts
+already use http). 1789/1892 were fetched fine over http and are DONE (see below).
 
 DONE + fidelity-CLEAN: **1549, 1552** (flagship pair; the `##` anchor menu = The
 Baptismal Covenant / The Creed / The Ten Commandments / The Lord's Prayer / The
@@ -35,22 +43,23 @@ updated. Build GREEN: authoring verify_index reconciles (158 inline / 192 proven
 all three built tips pass sentence_split/normalize/verify_index --check; flagship diff
 renders (v1559→v1604 = clean `## The Sacraments` insert, 52 insertions).
 
-**BLOCKED — the ONLY thing left for a complete Wave 7: 1789 + 1892 American Catechism.**
-Their standalone catechism pages live ONLY on justus.anglican.org, which had a **live
-TLS/availability outage** all through this session (WebFetch → SSL UNSUPPORTED_PROTOCOL;
-unverified urllib → HTTP 404 even on the justus root; CoE + the cached 1979 e-text were
-fine). Sources when justus returns: `1789/Catechism.htm` (or `Catechism_1789.pdf`) and
-`1892/Catechism&Confirm_1892.pdf` (a text-layer PDF, like the other 1892 offices — read
-it with the Read tool / pdf_spine.py). The American 1789/1892 catechism is **NOT** the
-1662 English text (it drops "obey the King", etc.) — do NOT derive it from 1662 or from
-memory. **User decision (2026-08-13): HOLD for justus** — 1789/1892 are marked `absent`
-in editions.yaml (with a TEMPORARY note) so the American line does not silently inherit
-the 1662 catechism; when justus returns, author `editions/1789|1892/occasional-offices/
-catechism.md` (fidelity-gated), move `occasional-offices/catechism` from `absent:` to
-`present:` at both, run `gen_wave7_provenance.py` again (add the 1789/1892 rows +
-source-map + SOURCES table rows), rebuild green, then PUBLISH the complete wave (force-
-push, per §5) with the user's explicit go-ahead. Do NOT publish the American line with
-the catechism in this `absent` placeholder state.
+**1789 + 1892 American Catechism — DONE** (once the http-vs-https gotcha was found).
+1789 authored from `1789/Catechism.htm` (fidelity-CLEAN; American form: "My Sponsors in
+Baptism", "obey the civil authority", "spiritual enemy"; its page's own catechizing
+rubrics kept under `## The Rubrics`). **1892 is identical to 1789** (justus states so;
+confirmed against the `1892/Catechism&Confirm_1892.pdf`, a WordPerfect scan with minor
+OCR noise) → inherits 1789, `reviewed-unchanged`, no file. editions.yaml: catechism now
+in `present:` of all ten; 1892 `absent: []` (inherits). Flagship cross-branch diff:
+`git diff v1662 v1789 -- .../catechism.md` shows the American changes
+(Godfathers/Godmothers→Sponsors, obey the King→obey the civil authority).
+
+**READY TO PUBLISH (needs user go-ahead on the force-push).** Everything is build-green
+and committed to `origin/authoring`. To publish: follow §5 — record `git ls-remote`
+recovery; `build_history.py --publish --live-repo /Users/wtrible/Developer/bcp`; in the
+primary repo `git reset --hard main`; `git push --force-with-lease origin main scottish
+american`; `git push --force origin --tags`; verify local==remote for all 3 branches +
+12 tags and that the flagship diffs render; record the publish in NOTICE.md + the memory
+note + this HANDOFF.
 
 <!-- Superseded: "Waves 0–6 PUBLISHED" block kept below for reference -->
 

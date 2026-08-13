@@ -139,18 +139,10 @@ editions:
     tag: v1789
     tag_message: "1789 — First American Book of Common Prayer"
     commit_message: "1789 Book of Common Prayer (Protestant Episcopal Church, first American)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation, occasional-offices/matrimony, occasional-offices/visitation-sick, occasional-offices/burial, occasional-offices/churching]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation, occasional-offices/matrimony, occasional-offices/visitation-sick, occasional-offices/burial, occasional-offices/churching, occasional-offices/catechism]
     # The American line drops the Commination (present at its 1662 parent): a
     # clean deletion diff at v1789 that 1892/1928/1979 inherit.
-    # NOTE (Wave 7, TEMPORARY): the 1789 (and 1892) American Catechism is a
-    # standalone page served only on justus.anglican.org, which was unreachable
-    # during Wave 7 (live TLS/availability outage). It is marked `absent` here so
-    # the American line does NOT silently inherit the 1662 English catechism; this
-    # is a placeholder pending a justus re-fetch — do NOT publish the American line
-    # with the catechism in this absent state, and do NOT derive it from 1662. When
-    # justus returns, author editions/1789|1892/occasional-offices/catechism.md and
-    # move `occasional-offices/catechism` from `absent:` to `present:`. See SOURCES.md.
-    absent: [occasional-offices/commination, occasional-offices/catechism]
+    absent: [occasional-offices/commination]
 
   - id: 1892
     year: 1892
@@ -159,8 +151,11 @@ editions:
     tag: v1892
     tag_message: "1892 — American Book of Common Prayer"
     commit_message: "1892 revision (Episcopal Church)"
-    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation, occasional-offices/matrimony, occasional-offices/visitation-sick, occasional-offices/burial, occasional-offices/churching]
-    absent: [occasional-offices/catechism]
+    present: [daily-office/morning-prayer, daily-office/evening-prayer, the-litany/litany, holy-communion/holy-communion, occasional-offices/public-baptism, occasional-offices/private-baptism, occasional-offices/baptism-riper-years, occasional-offices/confirmation, occasional-offices/matrimony, occasional-offices/visitation-sick, occasional-offices/burial, occasional-offices/churching, occasional-offices/catechism]
+    # 1892 Catechism is identical to 1789 (justus: "The Catechism text in the 1892
+    # Book is identical and so is not given separately"; confirmed against the 1892
+    # Catechism&Confirm PDF) — inherited from 1789, reviewed-unchanged (no file).
+    absent: []
 
   - id: 1928
     year: 1928
