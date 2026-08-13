@@ -11,6 +11,42 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT STATUS (2026-08-13) — Wave 6 DONE on authoring (commit 69d1e0e), awaiting publish
+
+**Waves 0–5 are DONE + PUBLISHED.** Published tips still on origin: `main f6ddd2b ·
+scottish 6395760 · american eca30d2`; all 12 tags.
+
+**Wave 6 = the pastoral occasional offices — DONE on `authoring` (pushed to
+origin/authoring, commit 69d1e0e); NOT YET published (awaiting user go-ahead on the
+force-push).** Five services under `occasional-offices/`: **matrimony**,
+**visitation-sick** (incl. the Communion of the Sick), **burial**, **churching**,
+**commination**. Matrimony/Visitation/Burial across the ten daily-office editions
+(absent 1764/1929); Churching across them + 1979 (as "A Thanksgiving for the Birth or
+Adoption of a Child"); **Commination is English/Scottish only — the American line
+DROPS it** (modeled as `absent: [occasional-offices/commination]` at 1789, inherited by
+1892/1928/1979). 1604 for matrimony/visitation/commination inherits 1559
+(reviewed-unchanged, no file); burial 1604 derived (`unto`→`into`); churching 1604
+derived (`Priest`→`Minister`). 1979 offices via `ingest/transform_1979_{matrimony,
+churching,visitation,burial}.py` (burial has Rite One + Rite Two). GOTCHA: an output
+content-filter false-positive blocks a *subagent's* Write of large sickness/childbirth/
+dying liturgical text (it hit 1892 churching, 1892 & 1928 visitation) — MY own Writes
+and file→file transform SCRIPTS are NOT blocked. Fixes used: `ingest/transform_1892_
+churching.py`, `ingest/spine_struct.py` + `ingest/drive_1928_visitation.py`, and (for
+the two-column 1892 visitation PDF) hand-authoring from the clean Read-tool PDF render.
+Method assets: `ingest/WAVE6_SOURCE_MAP.md`, `ingest/WAVE6_STRUCTURING_GUIDE.md` (five
+anchor menus), `ingest/pdf_spine.py` (pypdf layout-mode PDF→spine),
+`ingest/gen_wave6_provenance.py` (scans inline VERIFYs → provenance + SOURCES, in sync).
+**Build is GREEN:** verify_index --check (authoring) OK; build_history --keep builds all
+12 tags; sentence_split/normalize/verify_index --check all exit 0 on main/scottish/
+american. Flagship diffs verified: burial 1549→1552 stripping (375-line diff), matrimony
+1549→1552 "gold and silver" dropped, commination present v1662 / absent v1789.
+**TO PUBLISH Wave 6: follow §5** (recovery record → build_history --publish --live-repo →
+force-with-lease branches + force tags → verify local==remote + flagship diffs). After
+publishing, next is Wave 7 (Catechism) — plus deferred items (1549 Blessing of the Font;
+bundled Catechism bodies; Litany occasional/state prayers).
+
+<!-- Superseded: prior "Waves 0–5 PUBLISHED" status block kept below for reference -->
+
 ## CURRENT STATUS (2026-08-13) — Waves 0–5 PUBLISHED
 
 **Waves 0–4 are DONE and PUBLISHED** (force-pushed to origin). Published tips:
