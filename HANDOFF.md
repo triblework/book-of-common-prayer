@@ -203,9 +203,11 @@ done and what remains:
 ## 0. First actions (do these in order)
 
 1. `cd /Users/wtrible/Developer/bcp` and read:
-   - `/Users/wtrible/Downloads/BCP-FULL-TRANSCRIPTION-SPEC.md` — the full spec
+   - `/Users/wtrible/Developer/bcp/BCP-FULL-TRANSCRIPTION-SPEC.md` — the full spec
      (waves, depth tiers §3, canonical anchors §3.2, sourcing §4, presence matrix
-     §6.1, verification §7, licensing §8). **Authoritative.**
+     §6.1, verification §7, licensing §8). **Authoritative.** Lives in the repo root
+     but is git-ignored (via `.git/info/exclude`), so it is present locally yet
+     never tracked/published. (Was formerly at `~/Downloads/`.)
    - `CONTRIBUTING.md` (on `main`) — the authoring workflow + format rules.
    - Your memory note `bcp-build-out-waves` (auto-loaded) — current status.
 2. Create a fresh authoring worktree (the old one was in session scratch):
