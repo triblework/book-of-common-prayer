@@ -96,3 +96,41 @@ block or the concluding homily-rubric wording, add the sign-of-troth phrasing, o
 reword the second nuptial blessing. Include only the anchors the edition prints, in
 its printed order. If an edition prints a clearly-labelled section with no menu
 anchor, add a faithful `##` heading for it.
+
+### occasional-offices/commination  (exemplar: editions/1552)
+```
+## The Introduction     ("Brethren, in the primitive Church there was a godly discipline…")
+## The Curses           (the Deuteronomy curses "Cursed is he that…" with the people's "Amen")
+## The Exhortation      ("Now seeing that all they be accursed…")
+## The Psalm            (Miserere mei Deus / Psalm 51)
+## The Lord's Prayer    (the Kyrie "Lord have mercy…" + Our Father)
+## The Suffrages        ("O Lord, save thy servants…")
+## The Prayers          ("O Lord, we beseech thee…", "O most mighty God…")
+## Turn Thou Us         ("Turn thou us, O good Lord…")
+```
+Notes: the FIRST curse ("Cursed is the man that maketh any carved or molten
+image…") is spoken by the priest — render it as PLAIN text opening The Curses,
+then the rubric "And the people shall answer, and say," then "Amen", then the
+labelled `**Minister.**`/`**Answere.**` curse–response pairs. The `Turn Thou Us`
+rubric differs by edition (1549 calls it an anthem "said or sung"; 1552+ the
+people say it "after the Minister") — that rubric change is a meaningful diff.
+Scripture citations: keep the printed citation (e.g. `Psa. cxviii.`) but STRIP any
+justus modern-verse gloss inside the brackets (`[Psa. cxviii. =Ps. 119:21]` →
+`Psa. cxviii.`; `[Esai. (Isaiah) xxvi.]` → `Esai. xxvi.`) and DROP pure word
+glosses (`[=acknowledging]`, `[betime, =in good time]`, `[past]`).
+
+### occasional-offices/churching  (exemplars: editions/1549, editions/1552)
+```
+## The Introduction   (rubric + "Forasmuch as it hath pleased Almighty God…")
+## The Psalm          (1549/1552 Ps 121 "Levavi oculos"; 1662 & American use Ps 116 "Dilexi quoniam" and/or Ps 127 "Nisi Dominus")
+## The Lord's Prayer  (the Kyrie "Lord have mercy…" + Our Father)
+## The Suffrages      ("O Lord, save this woman thy servant…")
+## The Prayer         ("O Almighty God, which hast delivered…")
+## The Rubrics        (the offerings + Communion rubric)
+```
+Notes: the 1549 title is "The Order of the Purification of Women" (older name); 1552+
+retitle it "The Thanksgiving of Women after Childbirth, commonly called the Churching
+of Women." 1662 prints TWO psalms (Ps 116 and Ps 127, to be used one or other) — include
+both as printed under The Psalm. Some editions add a preliminary rubric that the service
+or its concluding prayer may be used at the Minister's discretion. Include only the
+anchors the edition prints, in printed order.
