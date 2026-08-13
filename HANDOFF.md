@@ -11,6 +11,49 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) DONE 8/10, HELD (not published)
+
+**Wave 7 = the Catechism — authored + build-green for 8 of 10 editions; committed +
+pushed to `origin/authoring` (commit `a31af1e`); NOT published (held for justus).**
+One file `occasional-offices/catechism.md` (sibling of Confirmation). Scope: title +
+Q&A body only — the framing/catechizing rubrics stay in confirmation.md.
+
+DONE + fidelity-CLEAN: **1549, 1552** (flagship pair; the `##` anchor menu = The
+Baptismal Covenant / The Creed / The Ten Commandments / The Lord's Prayer / The
+Sacraments[1604+]; 1552 expands the Decalogue to full scriptural form + Exodus
+preamble), **1559** (pre-1604, no Sacraments), **1604** (derived from the justus 1559
+Confirmation page's appended "added in 1604" block — adds the whole `## The Sacraments`
+section = the flagship `git diff v1559 v1604`, + the workes/pompes promise change),
+**1662** (CoE `catechism` slug), **1637** (Scottish, bundled on the Confirmation page;
+fidelity-gated subagent), **1928** (recast as the "Offices of Instruction" — two
+Offices; authored by hand), **1979** (recast as "An Outline of the Faith" via
+`ingest/transform_1979_catechism.py`, source→script→file, from cached `bcpprayr.txt`).
+Method assets: `ingest/WAVE7_SOURCE_MAP.md`, `WAVE7_STRUCTURING_GUIDE.md`,
+`spines-w7/{1637,1662,1928}.md`, `gen_wave7_provenance.py` (8 verify_items). editions.yaml
+wired (catechism in present of the 8 + 1764 absent); provenance/SOURCES/README/NOTICE
+updated. Build GREEN: authoring verify_index reconciles (158 inline / 192 provenance);
+all three built tips pass sentence_split/normalize/verify_index --check; flagship diff
+renders (v1559→v1604 = clean `## The Sacraments` insert, 52 insertions).
+
+**BLOCKED — the ONLY thing left for a complete Wave 7: 1789 + 1892 American Catechism.**
+Their standalone catechism pages live ONLY on justus.anglican.org, which had a **live
+TLS/availability outage** all through this session (WebFetch → SSL UNSUPPORTED_PROTOCOL;
+unverified urllib → HTTP 404 even on the justus root; CoE + the cached 1979 e-text were
+fine). Sources when justus returns: `1789/Catechism.htm` (or `Catechism_1789.pdf`) and
+`1892/Catechism&Confirm_1892.pdf` (a text-layer PDF, like the other 1892 offices — read
+it with the Read tool / pdf_spine.py). The American 1789/1892 catechism is **NOT** the
+1662 English text (it drops "obey the King", etc.) — do NOT derive it from 1662 or from
+memory. **User decision (2026-08-13): HOLD for justus** — 1789/1892 are marked `absent`
+in editions.yaml (with a TEMPORARY note) so the American line does not silently inherit
+the 1662 catechism; when justus returns, author `editions/1789|1892/occasional-offices/
+catechism.md` (fidelity-gated), move `occasional-offices/catechism` from `absent:` to
+`present:` at both, run `gen_wave7_provenance.py` again (add the 1789/1892 rows +
+source-map + SOURCES table rows), rebuild green, then PUBLISH the complete wave (force-
+push, per §5) with the user's explicit go-ahead. Do NOT publish the American line with
+the catechism in this `absent` placeholder state.
+
+<!-- Superseded: "Waves 0–6 PUBLISHED" block kept below for reference -->
+
 ## CURRENT STATUS (2026-08-13) — Waves 0–6 PUBLISHED
 
 **Waves 0–5 published earlier.** **Wave 6 = the pastoral occasional offices — DONE +
