@@ -11,11 +11,14 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) COMPLETE, build-green, NOT yet published
+## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) DONE + PUBLISHED
 
-**Wave 7 = the Catechism — authored + build-green for ALL 10 editions; committed +
-pushed to `origin/authoring`; NOT yet published (awaiting user go-ahead on the
-force-push).** One file `occasional-offices/catechism.md` (sibling of Confirmation).
+**Wave 7 = the Catechism — DONE + PUBLISHED (force-pushed to origin 2026-08-13).**
+NEW published tips: `main c67f7f6 · scottish f6567e5 · american 386a15bb`; all 12
+`vYYYY` tags recreated; local==remote verified for all 3 branches + 12 tags; flagship
+diffs render (v1559→v1604 Sacraments insert; v1662→v1789 American Sponsors/civil-authority
+change); catechism present at all 10 tags, absent at 1764/1929. One file
+`occasional-offices/catechism.md` (sibling of Confirmation).
 Scope: title + Q&A body only — the framing/catechizing rubrics stay in confirmation.md
 (EXCEPT American 1789/1892, whose catechism *page* prints its own catechizing rubrics,
 kept there under `## The Rubrics`).
