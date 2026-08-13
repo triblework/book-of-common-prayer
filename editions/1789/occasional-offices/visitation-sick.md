@@ -1,0 +1,197 @@
+# The Order for the Visitation of the Sick.
+
+## The Introduction
+
+> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person's house, shall say,
+
+PEACE be to this house, and to all that dwell in it.
+
+## The Antiphon
+
+> When he cometh into the sick person's presence, he shall say, kneeling down,
+
+REMEMBER not, Lord, our iniquities, nor the iniquities of our forefathers; Spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and be not angry with us for ever.
+
+**Answer.** Spare us good Lord.
+
+## The Lord's Prayer
+
+> Then the Minister shall say,
+
+Let us pray.
+
+Lord have mercy upon us.
+
+Christ have mercy upon us.
+
+Lord have mercy upon us.
+
+OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
+
+## The Suffrages
+
+**Minister.** O Lord, save thy servant;
+
+**Answer.** Who putteth his trust in thee.
+
+**Minister.** Send him help from thy holy place,
+
+**Answer.** And evermore mightily defend him.
+
+**Minister.** Let the enemy have no advantage of him;
+
+**Answer.** Nor the wicked approach to hurt him.
+
+**Minister.** Be unto him, O Lord, a strong tower,
+
+**Answer.** From the face of his enemy.
+
+**Minister.** O Lord, hear our prayer.
+
+**Answer.** And let our cry come unto thee.
+
+## The Prayers
+
+> Minister.
+
+O LORD, look down from heaven behold visit and relieve this thy servant. Look upon him with the eyes of thy mercy, give him comfort and sure confidence in thee, defend him from the danger of the enemy, and keep him in perpetual peace and safety; through Jesus Christ our Lord. Amen.
+
+HEAR us, Almighty and most merciful God and Saviour. extend thy accustomed goodness to this thy servant, who is grieved with sickness. Sanctify, we beseech thee, this thy fatherly correction to him; that the sense of his weakness may add strength to his faith, and seriousness to his repentance: That, if it shall be thy good pleasure to restore him to his former health, he may lead the residue of his life in thy fear, and to thy glory: or else give him grace so to take thy visitation, that, after this painful life ended, he may dwell with thee in life everlasting; through Jesus Christ our Lord. Amen.
+
+## The Exhortation
+
+> Then shall the Minister exhort the sick Person after this form, or other like,
+
+DEARLY beloved, know this, that Almighty God is the Lord of life and death, and of all things to them pertaining; as youth, strength, health, age, weakness, and sickness. Wherefore, whatsoever your sickness be, know you certainly that it is God's visitation. And for what cause soever this sickness be sent unto you; whether it be to try your patience for the example of others, and that your faith may be found, in the day of the Lord, laudable, glorious, and honourable, to the increase of glory and endless felicity, or else it be sent unto you to correct and amend in you whatsoever doth offend the eyes of your heavenly Father; know you certainly that if thou truly repent you of your sins, and bear your sickness patiently, trusting in God's mercy for his dear Son Jesus Christ's sake, and render unto him humble thanks for his fatherly visitation, submitting yourself wholly unto his will, it shall turn to your profit, and help you forward in the right way that leadeth unto everlasting life.
+
+> If the Person visited is very sick, then the Minister may end his Exhortation in this place, or else proceed.
+
+TAKE therefore in good part the chastisement of the Lord: For (as St. Paul saith in the twelfth Chapter to the Hebrews) whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the Father chasteneth not?. But if ye be without chastenment, whereof all are partakers, then are ye bastards, and not sons. <!-- VERIFY: source prints 'chastenment'; likely OCR / period variant of 'chastisement'; kept as printed; confirm against a page scan --> Furthermore, we have had fathers of our flesh, which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. These words, good brother, are written in holy Scripture for our comfort and instruction; that we should patiently, and with thanksgiving, bear our heavenly Father's correction, whensoever, by any manner of adversity, it shall please his gracious goodness to visit us. And there should be no greater comfort to Christian persons, than to be made like unto Christ, by suffering patiently adversities, troubles, and sicknesses. For He Himself went not up to joy, but first He suffered pain; He entered not into His glory before He was crucified. So truly our way to eternal joy is to suffer here with Christ; and our door to enter into eternal life is gladly to die with Christ; that we may rise again from death, and dwell with him in everlasting life. Now therefore, taking your sickness, which is thus profitable for you, patiently, I exhort you, in the Name of God, to remember the profession which you made unto God in your Baptism. And forasmuch as after this life there is an account to be given unto the righteous Judge, by whom all must be judged, without respect of persons, I require you to examine yourself and your estate, both toward God and man; so that, accusing and condemning yourself for your own faults, you may find mercy at our heavenly Father's hand for Christ's sake, and not be accused and condemned in that fearful judgment. Therefore I shall rehearse to you the Articles of our Faith; that you may know whether you do believe as a Christian man should, or no.
+
+## The Examination
+
+> Here the Minister shall rehearse the Articles of the Faith, saying thus,
+
+DOST thou believe in God the Father Almighty, Maker of heaven and earth?
+
+And in Jesus Christ his only-begotten Son our Lord? And that he was conceived by the Holy Ghost, born of the Virgin Mary; that he suffered under Pontius Pilate, was crucified, dead, and buried; that he went down into hell, and also did rise again the third day; that he ascended into heaven, and sitteth on the right hand of God the Father Almighty; and from thence shall come again, at the end of the world, to judge the quick and the dead?
+
+And dost thou believe in the Holy Ghost; the holy Catholic Church; the Communion of Saints; the Remission of sins; the Resurrection of the flesh; and everlasting Life after death?
+
+> The sick person shall answer,
+
+All this I steadfastly believe.
+
+> Then shall the Minister examine whether he repent him truly of his sins, and be in charity with all the world; exhorting him to forgive, from the bottom of his heart, all persons that have offended him; and if he hath offended any other, to ask them forgiveness; and where he hath done injury or wrong to any man, that he make amends to the uttermost of his power. And of he hath not before disposed of his goods, let him then be admonished to make his Will, and to declare his Debts, what he oweth, and what is owing unto him, for the better discharging, of his conscience, and the quietness of his Executors. But men should often be put in remembrance to take order for the settling of their temporal estates, whilst they are in health.
+
+<!-- VERIFY: source prints 'And of he hath not before disposed'; 'of' likely OCR for 'if' ("And if he hath not"); kept as printed; confirm against a page scan -->
+
+> The Exhortation before rehearsed, may be said before the Minister begin his Prayer, as he shall see cause.
+
+> The Minister shall not omit earnestly to move such sick persons as are of ability, to be liberal to the poor.
+
+## The Collect
+
+> And then the Minister shall say the Collect following.
+
+Let us pray.
+
+O MOST merciful God, who, according to the multitude of thy mercies, dost so put away the sins of those who truly repent, that thou rememberest them no more; Open thine eye of mercy upon this thy servant, who most earnestly desireth pardon and forgiveness. Renew in him, most loving Father, whatsoever hath been decayed by the fraud and malice of the devil, or by his own carnal will and frailness; preserve and continue this sick member in the unity of the Church; consider his contrition, accept his tears, assuage his pain, as shall seem to thee most expedient for him. And forasmuch as he putteth his full trust only in thy mercy, impute not unto him his former sins, but strengthen him with thy blessed Spirit; and, when thou art pleased to take him hence, take him unto thy favour; through the merits of thy most dearly beloved Son Jesus Christ our Lord. Amen.
+
+## The Psalm
+
+> Then shall the Minister say this Psalm.
+
+Psalm cxxx. De profundis.
+
+OUT of the deep have I called unto thee, O Lord; Lord, hear my voice.
+
+O let thine ears consider well the voice of my complaint.
+
+If thou, Lord, wilt be extreme to mark what is done amiss, O Lord, who may abide it?
+
+For there is mercy with thee; therefore shalt thou be feared.
+
+I look for the Lord; my soul doth wait for him; in his word is my trust.
+
+My soul fleeth unto the Lord, before the morning watch; I say, before the morning watch.
+
+O Israel, trust in the Lord; for with the Lord there is mercy, and with him is plenteous redemption.
+
+And he shall redeem Israel from all his sins.
+
+> Adding this.
+
+O SAVIOUR of the world, who by thy Cross and precious blood hast redeemed us; Save us, and help us, we humbly beseech thee, O Lord.
+
+## The Blessing
+
+> Then shall the Minister say,
+
+THE Almighty Lord, who is a most strong tower to all those who put their trust in him, to whom all things in heaven, in earth, and under the earth, do bow and obey, Be now and evermore thy defence; and make thee know and feel, that there is none other Name under heaven given to man, in whom, and through whom, thou mayest receive health and salvation, but only the Name of our Lord Jesus Christ. Amen.
+
+> Here the Minister may use any part of the service of this book, which, in his discretion, he shall think convenient to the occasion; and after that shall say,
+
+UNTO God's gracious mercy and protection we commit thee. The Lord bless thee, and keep thee. The Lord make his face to shine upon thee, and be gracious unto thee. The Lord lift up his countenance upon thee, and give thee peace, both now and evermore. Amen.
+
+## Additional Prayers
+
+> Prayers which may be said with the foregoing service, or any part thereof, at the discretion of the Minister.
+
+> A Prayer for a sick Child.
+
+O ALMIGHTY God, and merciful Father, to whom alone belong the issues of life and death; Look down from heaven, we humbly beseech thee, with the eyes of mercy upon this child, now lying upon the bed of sickness: Visit him, O Lord, with thy salvation; deliver him in thy good appointed time from his bodily pain, and save his soul for thy mercies' sake: That, if it shall be thy pleasure to prolong his days here on earth, he may live to thee, and be an instrument of thy glory, by serving thee faithfully, and doing good in his generation; or else receive him into those heavenly habitations, where the souls of those who sleep in the Lord Jesus enjoy perpetual rest and felicity. Grant this, O Lord, for thy mercies' sake, in the same thy Son our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, ever one God, world without end. Amen.
+
+> A Prayer for a sick Person, when there appeareth but small hope of recovery.
+
+O FATHER of mercies, and God of all comfort, our only help in time of need; We fly unto thee for succour in behalf of this thy servant, here lying under thy hand in great weakness of body. Look graciously upon him, O Lord; and the more the outward man decayeth, strengthen him, we beseech thee, so much the more continually with thy grace and Holy Spirit in the inner man. Give him unfeigned repentance for all the errors of his life past, and steadfast faith in thy Son Jesus; that his sins may be done away by thy mercy, and his pardon sealed in heaven, before he go hence, and be no more seen. We know, O Lord, that there is no word impossible with thee; and that, if thou wilt, thou canst even yet raise him up, and grant him a longer continuance amongst us: Yet, forasmuch as in all appearance the time of his dissolution draweth near, so fit and prepare him, we beseech thee, against the hour of death, that after his departure hence in peace, and in thy favour, his soul may be received into thine everlasting kingdom; through the merits and mediation of Jesus Christ thine only Son, our Lord and Saviour. Amen.
+
+> A Commendatory Prayer for a sick Person at the point of departure.
+
+O ALMIGHTY God, with whom do live the spirits of just men made perfect, after they are delivered from their earthly prisons; We humbly commend the soul of this thy servant, our dear brother, into thy hands, as into the hands of a faithful Creator, and most merciful Saviour; most humbly beseeching thee, that it may be precious in thy sight. Wash it, we pray thee, in the blood of that immaculate Lamb, that was slain to take away the sins of the world; that whatsoever defilements it may have contracted in the midst of this miserable and naughty world, through the lusts of the flesh, or the wiles of Satan, being purged and done away, it may be presented pure and without spot before thee[. And teach us who survive, in this, and other like daily spectacles of mortality, to see how frail and uncertain our own condition is; and so to number our days, that we may seriously apply our hearts to that holy and heavenly wisdom; whilst we live here, which may in the end bring us to life everlasting]; through the merits of Jesus Christ thine only Son our Lord. Amen.
+
+> A Prayer for Persons troubled in mind or in conscience.
+
+O BLESSED Lord, the Father of mercies, and the God of all comfort, We beseech thee, look down in pity and compassion upon this thy afflicted servant. Thou writest bitter things against him, and makest him to possess his former iniquities; thy wrath lieth hard upon him, and his soul is full trouble. But, O merciful God, who hast written thy holy Word for our learning, that we, through patience and comfort of thy holy Scriptures, might have hope; give him a right understanding of himself and of thy threats and promises; that he may neither cast away his confidence in thee, nor place it anywhere but in thee. Give him strength against all his temptations, and heal all his distempers. Break not the bruised reed, or quench the smoking flax. Shut not up thy tender mercies in displeasure; but make him to hear of joy and gladness, that the bones which thou hast broken may rejoice. Deliver him from fear of the enemy, and lift up the light of thy countenance upon him, and give him peace, through the merits and mediation of Jesus Christ our Lord. Amen.
+
+<!-- VERIFY: source prints 'his soul is full trouble'; standard reading 'full of trouble'; kept as printed; confirm against a page scan -->
+
+> A Prayer which may be said by the Minister in behalf of all present at the visitation.
+
+O GOD, whose days are without end, and whose mercies cannot be numbered; Make us, we beseech thee, deeply sensible of the shortness and uncertainty of human life; and let thy Holy Spirit lead us through this vale of misery, in holiness and righteousness, all the days of our lives: That, when we shall have served thee in our generation, we may be gathered unto our fathers, having the testimony of a good conscience; in the communion of the catholic Church; in the confidence of a certain faith; in the comfort of a reasonable, religious, and holy hope; in favour with thee our God, and in perfect charity with the world. All which we ask through Jesus Christ our Lord. Amen.
+
+> A Prayer which may be said in case of sudden surprise and immediate danger.
+
+O MOST gracious Father, we fly unto thee for mercy in behalf of this thy servant, here lying under the sudden visitation of thine hand. If it be thy will, preserve his life, that there may be place for repentance; but if thou hast otherwise appointed, let thy mercy supply to him the want of the usual opportunity for the trimming of his lamp. Stir up in him such sorrow for sin, and such fervent love to thee, as may in a short time do the work of many days: That among the praises which thy saints and holy angels shall sing to the honour of thy mercy through eternal ages, it may be to thy unspeakable glory, that thou hast redeemed the soul of this thy servant from eternal death, and made him partaker of the everlasting life, which is through Jesus Christ our Lord. Amen.
+
+> A Thanksgiving for the beginning of a recovery.
+
+GREAT and mighty God, who bringest down to the grave and bringest up again; We bless thy wonderful goodness, for having turned our heaviness into joy and our mourning into gladness, by restoring this our brother to some degree of his former health. Blessed be thy Name that thou didst not forsake him in his sickness; but didst visit him with comforts from above; didst support him in patience and submission to thy will; and, at last, didst send him seasonable relief. Perfect, we beseech thee, this thy mercy towards him; and prosper the means, which shall be made use of for his cure: That being restored to health of body, vigour of mind, and cheerfulness of spirit, he may be able to go to thine house, to offer thee an oblation with great gladness; and to bless thy holy Name for all thy goodness towards him; through Jesus Christ our Saviour, to whom, with thee and the Holy Spirit, be all honour and glory; world without end. Amen.
+
+## The Communion of the Sick.
+
+> Forasmuch as, all mortal men are subject to many sudden perils, diseases, and sicknesses, and ever uncertain what time they shall depart of this life; therefore, to the intent they may be always in readiness to die, whensoever it shall please Almighty God to call them, the Ministers shall diligently from time to time (but especially in the time of pestilence, or other infectious sickness) exhort their parishioners to the often receiving of the Holy Communion of the Body and Blood of our Saviour Christ, when it shall be publicly administered in the Church; that so doing, they may, in case of sudden visitation, have the less cause to be disquieted for lack of the same. But if the sick person be not able to come to the Church, and yet is desirous to receive the Communion in his house; then he must give timely notice to the Minister, signifying also how many there are to communicate with him, (which shall be two at the least;) and all things necessary being prepared, the Minister shall there celebrate the Holy Communion, beginning with the Collect, Epistle, and Gospel, here following.
+
+<!-- VERIFY: source prints 'depart of this life'; standard reading 'depart out of this life'; kept as printed; confirm against a page scan -->
+
+> The Collect.
+
+ALMIGHTY, everliving God, Maker of mankind, who dost correct those whom thou dost love, and chastise every one whom thou dost receive; We beseech thee to have mercy upon this thy servant visited with thine hand, and to grant that he may take his sickness patiently, and recover his bodily health, if it be thy gracious will; and that whensoever his soul shall depart from the body, it may be without spot presented unto thee; through Jesus Christ our Lord. Amen.
+
+The Epistle. Heb. xii. 5.
+
+MY son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him. For whom the Lord loveth he chasteneth; and scourgeth every son whom he receiveth.
+
+The Gospel. St. John v. 24.
+
+VERILY, verily, I say unto you, He that heareth my Word and believeth on Him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
+
+> After which the Minister shall proceed according to the form before prescribed for the Holy Communion, beginning at these words, Ye who do truly, &c.
+
+> At the time of the distribution of the holy Sacrament, the Minister shall first receive the Communion himself and after minister unto those who are appointed to communicate with the sick, and last of all to the sick person.
+
+> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or for lack of company to receive with him, or by any other just impediment, do not receive the Sacrament of Christ's Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and steadfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his Soul's health, although he do not receive the Sacrament with his mouth.
+
+> When the sick person is visited, and receiveth the Holy Communion all at one time, then the Minister, for more expedition, shall cut off the form of the Visitation at the Psalm, and go straight to the Communion.
+
+> In the times of contagious sickness or disease, when none of the Parish or neighbours can be gotten to communicate with the sick in their houses, for fear of the infection, upon special request of the diseased, the Minister alone may communicate with him.

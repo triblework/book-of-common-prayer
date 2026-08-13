@@ -1215,3 +1215,714 @@ records:
     verifier: bcp-authoring
     note: "Current American Confirmation (with forms for Reception and the Reaffirmation of Baptismal Vows), the first of the Pastoral Offices, from the public-domain ASCII e-text (bcpastrl.txt) via ingest/transform_1979_confirmation.py (source -> script -> file). NOTE: Confirmation lives in bcpastrl.txt, not bcpepscl.txt (which holds the Ordination rites). Mechanically reflowed; verify against a page scan before sign-off."
     verify_items: []
+
+  # ---- Wave 6: pastoral occasional offices ----
+  - edition: 1549
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1549/Marriage_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1552
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1552/Marriage_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1559
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1559/Marriage_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Charge
+        source_reading: sale
+        note: source prints 'sale'; likely 'saye'; kept as printed; confirm against a page scan
+      - anchor: The Joining of Hands
+        source_reading: thai
+        note: source prints 'thai'; likely 'shal' (Then shal the Priest joyne); kept as printed; confirm against a page scan
+      - anchor: The Psalm
+        source_reading: As it was in the be. &c.
+        note: source prints 'As it was in the be. &c.'; reading unclear (likely 'in thee'); kept as printed; confirm against a page scan
+      - anchor: The Prayers
+        source_reading: childers children
+        note: source prints 'childers children'; likely 'childrens children'; kept as printed; confirm against a page scan
+      - anchor: The Homily
+        source_reading: Thaposthe
+        note: source prints 'Thaposthe'; likely 'Thapostle' (the apostle); kept as printed; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Marriage_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1662
+    service: occasional-offices/matrimony
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/form-solemnization-matrimony
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped. `BCP 1662`."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1789/Marriage_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1892
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1892/Marriage_1892.pdf
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892; justus serves this office only as a text-layer PDF (its HTML index links back to the 1789 page). Extracted with pypdf layout mode via ingest/pdf_spine.py; obvious PDF-layout artifacts (drop-caps, split/joined words, line-break hyphenation) fixed. Verify against the 1892 Standard scan."
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: shalt come
+        note: source prints 'shalt come' and "shalt be"; likely "shall come"/"shall be"; kept as printed; confirm against a page scan
+      - anchor: The Exhortation
+        source_reading: not by any to he entered into
+        note: source prints 'not by any to he entered into'; likely "to be entered into"; kept as printed; confirm against a page scan
+      - anchor: The Vows
+        source_reading: to have andhold
+        note: source prints 'to have andhold' (Man's vow reads "and to hold"); corrected joined word to "and hold"; a "to" may be dropped; confirm against a page scan
+      - anchor: The Lord's Prayer
+        source_reading: who art m heaven
+        note: source prints 'who art m heaven'; corrected obvious OCR to "in heaven"; confirm against a page scan
+
+  - edition: 1928
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1928/Marriage.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1979
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/bcpastrl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1979: The Celebration and Blessing of a Marriage (+ An Order for Marriage, Additional Directions), from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_matrimony.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
+    verify_items:
+      - anchor: The Prayers
+        source_reading: Am the ordering of their common life
+        note: '''Am the ordering of their common life'' the 1979 PD e-text is garbled here — the rubric ''to which the People respond, saying, Amen.'' and the first petition''s opening (''Give them wisdom and devotion in the ordering…'') are run together and words appear dropped; kept as printed in the e-text; confirm against a page scan'
+      - anchor: Additional Directions
+        source_reading: you are bidden to declare it
+        note: '''you are bidden to declare it'' the 1979 PD e-text banns form reads ''between N. N. of — and N. N. of — in Holy Matrimony, you are bidden to declare it'', apparently dropping the clause ''If any of you know reason why these two persons should not be joined together''; kept as printed in the e-text; confirm against a page scan'
+
+  - edition: 1604
+    service: occasional-offices/matrimony
+    source_url: http://justus.anglican.org/resources/bcp/1559/Marriage_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1604: unchanged from 1559 (the justus 1559 page shows no 1604 apparatus for this office); inherits the 1559 text."
+    verify_items: []
+
+  - edition: 1549
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1549/Visitation_Sick_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: yougth
+        note: source prints 'yougth'; likely 'youth'; kept as printed; confirm against a page scan
+      - anchor: The Absolution
+        source_reading: its
+        note: source prints 'its'; likely 'in'; kept as printed; confirm against a page scan
+      - anchor: The Communion of the Sick
+        source_reading: us
+        note: source prints 'us'; likely 'in'; kept as printed; confirm against a page scan
+      - anchor: The Preface
+        source_reading: O Lorde,
+        note: source prints 'O Lorde,' with a footnote 'Lorde omitted in some printings'; kept as printed; confirm against a page scan
+
+  - edition: 1552
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1552/Visitation_Sick_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Examination
+        source_reading: the articles a/the faith
+        note: source prints 'the articles a/the faith'; 'a/the' is OCR for 'of the'; corrected; confirm against a page scan
+      - anchor: The Psalm
+        source_reading: Psal. xxi.
+        note: source prints 'Psal. xxi.'; the psalm is actually Psalm 71 (Vulgate Ps 70); kept as printed; confirm against a page scan
+      - anchor: The Gospel
+        source_reading: cut of the forum of the visitacion
+        note: source prints 'cut of the forum of the visitacion'; 'of the forum' is OCR for 'off the form'; corrected; confirm against a page scan
+
+  - edition: 1559
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1559/Visitation_Sick_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Introduction
+        source_reading: in
+        note: source prints 'in'; a footnote records "to" in early 1600's printings; footnote line dropped; confirm against a page scan
+      - anchor: The Examination
+        source_reading: rekerse
+        note: source prints 'rekerse'; likely "reherse" (rehearse); kept as printed; confirm against a page scan
+      - anchor: The Examination
+        source_reading: lowarde
+        note: source prints 'lowarde'; likely "towarde"; kept as printed; confirm against a page scan
+      - anchor: The Collect
+        source_reading: Chriest
+        note: source prints 'Chriest'; likely "Christe"; kept as printed; confirm against a page scan
+      - anchor: The Gospel
+        source_reading: Psaime
+        note: source prints 'Psaime'; likely "Psalme"; kept as printed; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Visitation_Sick_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1662
+    service: occasional-offices/visitation-sick
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/visitation-sick
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England (+ the Communion of the Sick page), from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped. `BCP 1662`."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1789/Visitation_Sick_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: chastenment
+        note: source prints 'chastenment'; likely OCR / period variant of 'chastisement'; kept as printed; confirm against a page scan
+      - anchor: The Examination
+        source_reading: And of he hath not before disposed
+        note: source prints 'And of he hath not before disposed'; 'of' likely OCR for 'if' ("And if he hath not"); kept as printed; confirm against a page scan
+      - anchor: Additional Prayers
+        source_reading: his soul is full trouble
+        note: source prints 'his soul is full trouble'; standard reading 'full of trouble'; kept as printed; confirm against a page scan
+      - anchor: The Communion of the Sick.
+        source_reading: depart of this life
+        note: source prints 'depart of this life'; standard reading 'depart out of this life'; kept as printed; confirm against a page scan
+
+  - edition: 1892
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1892/Visitation_Sick_1892.pdf
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892; justus serves this office only as a text-layer PDF (its HTML index links back to the 1789 page). Extracted with pypdf layout mode via ingest/pdf_spine.py; obvious PDF-layout artifacts (drop-caps, split/joined words, line-break hyphenation) fixed. Verify against the 1892 Standard scan."
+    verify_items:
+      - anchor: The Examination
+        source_reading: Maker heaven and earth
+        note: '''Maker heaven and earth'' the 1892 PDF prints ''Maker heaven and earth'' (the word ''of'' appears dropped; standard reading ''Maker of heaven and earth''); kept as printed; confirm against a page scan'
+      - anchor: The Examination
+        source_reading: And of he hath not before disposed
+        note: '''And of he hath not before disposed'' the 1892 PDF prints ''And of he hath not''; ''of'' is likely OCR for ''if'' (both are real words), kept as printed; confirm against a page scan'
+      - anchor: Additional Prayers
+        source_reading: his soul is full trouble
+        note: '''his soul is full trouble'' the 1892 PDF prints ''his soul is full trouble'' (the word ''of'' appears dropped; standard reading ''full of trouble''); kept as printed; confirm against a page scan'
+      - anchor: The Communion of the Sick
+        source_reading: that so doing
+        note: '''that so doing'' the 1892 PDF prints ''to the often receiving of te Holy Communion'' and ''that to doing, they may''; ''te''->''the'' and ''to doing''->''so doing'' read as OCR errors and are here corrected to the standard rite; confirm against a page scan'
+
+  - edition: 1928
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1928/Visitation_Sick.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1979
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/bcpastrl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1979: Ministration to the Sick (Parts I-III + Prayers for the Sick), from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_visitation.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
+    verify_items: []
+
+  - edition: 1604
+    service: occasional-offices/visitation-sick
+    source_url: http://justus.anglican.org/resources/bcp/1559/Visitation_Sick_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1604: unchanged from 1559 (the justus 1559 page shows no 1604 apparatus for this office); inherits the 1559 text."
+    verify_items: []
+
+  - edition: 1549
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1549/Burial_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Psalms
+        source_reading: m
+        note: source prints 'm'; likely 'in' (Ps 116 'I was in misery'); kept as printed; confirm against a page scan
+      - anchor: The Lesson
+        source_reading: avavntageth
+        note: source prints 'avavntageth'; likely 'avauntageth'; kept as printed; confirm against a page scan
+      - anchor: The Lesson
+        source_reading: eivill
+        note: source prints 'eivill'; likely 'evill'; kept as printed; confirm against a page scan
+      - anchor: The Lesson
+        source_reading: arid
+        note: source prints 'arid'; likely 'and'; kept as printed; confirm against a page scan
+      - anchor: The Lesson
+        source_reading: naturiall
+        note: source prints 'naturiall'; likely 'naturall'; kept as printed; confirm against a page scan
+      - anchor: The Collect
+        source_reading: hyfe
+        note: source prints 'hyfe'; likely 'lyfe' (cf. 1552 'depart thys lyfe'); kept as printed; confirm against a page scan
+
+  - edition: 1552
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1552/Burial_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1559
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1559/Burial_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Procession
+        source_reading: unto
+        note: source prints 'unto'; a footnote notes 'into' in 1604 printings; kept as printed; confirm against a page scan
+      - anchor: The Anthem
+        source_reading: Job xi.
+        note: source dumps marginal citation 'Job xi.' after this anthem; the anthem ("I heard a voice from heaven") is Revelation xiiii, not Job, so the citation appears misplaced or mis-scanned; kept as printed; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Burial_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Procession
+        source_reading: the the resurrection
+        note: source prints 'the the resurrection'; doubled word likely a transcription dittography for 'the resurrection'; kept as printed; confirm against a page scan
+      - anchor: The Procession
+        source_reading: hath taketh away
+        note: source prints 'hath taketh away'; likely 'hath taken away'; kept as printed; confirm against a page scan
+      - anchor: At the Grave
+        source_reading: an is full of trouble
+        note: source prints 'an is full of trouble'; likely 'and is full of trouble'; kept as printed; confirm against a page scan
+      - anchor: The Committal
+        source_reading: shall he cast
+        note: source prints 'shall he cast'; likely 'shall be cast'; kept as printed; confirm against a page scan
+
+  - edition: 1662
+    service: occasional-offices/burial
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/burial-dead
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped. `BCP 1662`."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1789/Burial_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Lord's Prayer
+        source_reading: Then the Minister shall say [the Lord
+        note: source prints 'Then the Minister shall say [the Lord's Prayer]' with a bracket-and-asterisk footnote ("omitted in 1892 BCP"); brackets/asterisk dropped as editorial apparatus, words kept as printed; confirm against a page scan
+      - anchor: The Prayer
+        source_reading: shalt say
+        note: source prints 'shalt say'; likely "shall say"; kept as printed; confirm against a page scan
+
+  - edition: 1892
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1892/Burial_1892.pdf
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892; justus serves this office only as a text-layer PDF (its HTML index links back to the 1789 page). Extracted with pypdf layout mode via ingest/pdf_spine.py; obvious PDF-layout artifacts (drop-caps, split/joined words, line-break hyphenation) fixed. Verify against the 1892 Standard scan."
+    verify_items:
+      - anchor: Additional Prayers
+        source_reading: Inasmuch it may sometimes
+        note: source prints 'Inasmuch it may sometimes' with a doubled space; standard 1892 reads "Inasmuch as it may sometimes"; a word ("as") appears dropped in extraction; kept as printed; confirm against a page scan
+
+  - edition: 1928
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1928/Burial.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Burial of a Child
+        source_reading: Grace
+        note: source prints 'Grace'; likely 'Grave'; kept as printed; confirm against a page scan
+      - anchor: The Burial of a Child
+        source_reading: Minister.
+        note: the spine prints detached 'Minister.'/"Answer." speaker labels for the following versicles (five stand-alone label lines, plus one "Answer." attached to "Blessed are the pure in heart"); the OCR separated the labels from their texts, so they are rendered here as plain versicle-and-response lines without reconstructed attribution; confirm against a page scan
+
+  - edition: 1979
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/bcpastrl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1979: The Burial of the Dead, Rite One (office body) + Rite Two (separate section), from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_burial.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
+    verify_items: []
+
+  - edition: 1604
+    service: occasional-offices/burial
+    source_url: http://justus.anglican.org/resources/bcp/1559/Burial_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "e"
+    verify_items:
+      - anchor: The Anthem
+        source_reading: Job xi.
+        note: source dumps marginal citation 'Job xi.' after this anthem; the anthem ("I heard a voice from heaven") is Revelation xiiii, not Job, so the citation appears misplaced or mis-scanned; kept as printed; confirm against a page scan
+
+  - edition: 1549
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1549/Purification_Women_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1549; titled 'The Order of the Purification of Women' (the older name for the Churching)."
+    verify_items: []
+
+  - edition: 1552
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1552/Churching_Women_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items: []
+
+  - edition: 1559
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1559/Churching_of_Women_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Introduction
+        source_reading: as the case that require
+        note: source prints 'as the case that require'; likely 'as the case shal require'; kept as printed; confirm against a page scan
+      - anchor: The Suffrages
+        source_reading: Priest
+        note: source prints 'Priest'; footnote notes 'Minister' in 1604; confirm against a page scan
+      - anchor: The Rubrics
+        source_reading: gine her thanckes
+        note: source prints 'gine her thanckes'; likely 'geve/give her thankes'; kept as printed; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Churching_of_Women_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Rubrics
+        source_reading: Psal. 121.
+        note: spine prints a trailing 'Psal. 121.' after "if there be any at that time." on the Communion rubric; dropped here as a running caption / catchword rather than liturgical text; confirm against a page scan
+
+  - edition: 1662
+    service: occasional-offices/churching
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/churching-women
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped. `BCP 1662`."
+    verify_items: []
+
+  - edition: 1789
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1789/Churching_of_Women_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Psalm
+        source_reading: Minster
+        note: source prints 'Minster'; likely 'Minister'; kept as printed; confirm against a page scan
+
+  - edition: 1892
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1892/Churching_of_Women_1892.pdf
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1892; justus serves this office only as a text-layer PDF (its HTML index links back to the 1789 page). Extracted with pypdf layout mode via ingest/pdf_spine.py; obvious PDF-layout artifacts (drop-caps, split/joined words, line-break hyphenation) fixed. Verify against the 1892 Standard scan."
+    verify_items:
+      - anchor: The Lord's Prayer
+        source_reading: sf
+        note: '''sf'' source (1892 PDF) prints ''sf this be used''; obvious OCR for ''if''; corrected; confirm against a page scan'
+      - anchor: The Rubrics
+        source_reading: he applied
+        note: '''he applied'' source (1892 PDF) prints ''which shall he applied by the Minister''; obvious OCR for ''be applied''; corrected; confirm against a page scan'
+
+  - edition: 1928
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1928/Marriage.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "American 1928; the Churching is bundled on the Marriage page after the marriage service (Marriage.htm#Churching_Women) — only the Churching is transcribed here."
+    verify_items: []
+
+  - edition: 1979
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/bcpastrl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1979: A Thanksgiving for the Birth or Adoption of a Child, from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_churching.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
+    verify_items:
+      - anchor: For an Adoption
+        source_reading: asbrant
+        note: '''asbrant'' the 1979 PD e-text is garbled/merged here — the rubric ''The Celebrant, holding or taking the child by the hand, gives the child to the mother or father, saying'' is run into the preceding address and ''the Celebrant'' appears corrupted to ''asbrant''; kept as printed in the e-text; confirm against a page scan'
+
+  - edition: 1604
+    service: occasional-offices/churching
+    source_url: http://justus.anglican.org/resources/bcp/1559/Churching_of_Women_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "e"
+    verify_items:
+      - anchor: The Introduction
+        source_reading: as the case that require
+        note: source prints 'as the case that require'; likely 'as the case shal require'; kept as printed; confirm against a page scan
+      - anchor: The Rubrics
+        source_reading: gine her thanckes
+        note: source prints 'gine her thanckes'; likely 'geve/give her thankes'; kept as printed; confirm against a page scan
+
+  - edition: 1549
+    service: occasional-offices/commination
+    source_url: http://justus.anglican.org/resources/bcp/1549/Ashwednesday_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1549; the Commination is printed as 'The First Day of Lent, commonly called Ash-Wednesday' (Ashwednesday_1549.htm); subsequent books title it 'A Commination'."
+    verify_items:
+      - anchor: '?'
+        source_reading: Date
+        note: source prints 'Date' (Firste Date of Lente); likely 'Daye' (the first day of Lent); kept as printed; confirm against a page scan
+      - anchor: The Exhortation
+        source_reading: cummen
+        note: source prints 'cummen' (the lorde is cummen out of his place); a footnote notes 'come' in some printings; confirm against a page scan
+      - anchor: Turn Thou Us
+        source_reading: pietie
+        note: source prints 'pietie' (of a great pietie); a footnote notes 'pity' in some printings; confirm against a page scan
+
+  - edition: 1552
+    service: occasional-offices/commination
+    source_url: http://justus.anglican.org/resources/bcp/1552/Commination_1552.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Psalm
+        source_reading: alter
+        note: '''alter'' source (justus 1552) prints ''alter thy great goodness''; Psalm 51 and the 1549 parallel read ''after''; likely an f/l OCR scanno; kept as printed; confirm against a page scan'
+      - anchor: The Psalm
+        source_reading: dense
+        note: '''dense'' source (justus 1552) prints ''dense me from my sinne''; the 1549 parallel reads ''clense''; likely a ''cl''->''d'' OCR scanno; kept as printed; confirm against a page scan'
+
+  - edition: 1559
+    service: occasional-offices/commination
+    source_url: http://justus.anglican.org/resources/bcp/1559/Churching_of_Women_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1559; the Commination is bundled after the Churching on Churching_of_Women_1559.htm (#Commination) — only the Commination is transcribed here."
+    verify_items:
+      - anchor: The Curses
+        source_reading: judgmet
+        note: source prints 'judgmet'; likely 'judgment' (missing 'n'); kept as printed; confirm against a page scan
+      - anchor: The Curses
+        source_reading: Curseth
+        note: source prints 'Curseth'; every parallel curse reads 'Cursed'; likely a 'd'->'th' OCR scanno; kept as printed; confirm against a page scan
+      - anchor: The Exhortation
+        source_reading: cornmaundernentes
+        note: source prints 'cornmaundernentes'; likely 'commaundementes' (rn->m OCR scannos); kept as printed; confirm against a page scan
+      - anchor: The Exhortation
+        source_reading: soubdenly
+        note: source prints 'soubdenly'; likely 'sodenly' (stray 'b'); kept as printed; confirm against a page scan
+      - anchor: The Exhortation
+        source_reading: tyrne of Justice
+        note: source prints 'tyrne of Justice'; likely 'tyme' (rn->m OCR scanno); kept as printed; confirm against a page scan
+      - anchor: The Psalm
+        source_reading: were
+        note: 'source rubric prints ''were'' (likely ''where'') and ''shall say thy: Psalme'' (likely ''this''); both look like OCR errors; kept as printed; confirm against a page scan'
+      - anchor: The Psalm
+        source_reading: multitud
+        note: source prints 'multitud'; likely 'multitude' (missing 'e'); kept as printed; confirm against a page scan
+      - anchor: The Suffrages
+        source_reading: Minis/er.
+        note: source prints the label 'Minis/er.'; clearly 'Minister.'; rendered as the printed speaker designation
+      - anchor: Turn Thou Us
+        source_reading: Psal. li.
+        note: source prints 'Psal. li.' as a detached final line after the Turn Thou Us prayer (the psalm citation for the Miserere); kept in printed position; confirm against a page scan
+
+  - edition: 1637
+    service: occasional-offices/commination
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Commination_1637.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: Matt. 31.2.
+        note: source prints 'Matt. 31.2.'; there is no Matthew 31, the reference is to Matt. 3.12 ('His fanne is in his hand… burn the chaff'); kept as printed; confirm against a page scan
+      - anchor: The Psalm
+        source_reading: thy god pleasure
+        note: source prints 'thy god pleasure'; Psalm 51 and sense read 'thy good pleasure'; likely a dropped 'o'; kept as printed; confirm against a page scan
+      - anchor: Turn Thou Us
+        source_reading: be I favourable, O Lord, bee favourable
+        note: source prints 'be I favourable, O Lord, bee favourable'; the intrusive 'I' appears to be a stray character/dittography (cf. 1552 'bee favourable (O Lord) bee fauourable'); kept as printed; confirm against a page scan
+
+  - edition: 1662
+    service: occasional-offices/commination
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/commination
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within the UK). Site chrome stripped. `BCP 1662`."
+    verify_items: []
+
+  - edition: 1604
+    service: occasional-offices/commination
+    source_url: http://justus.anglican.org/resources/bcp/1559/Churching_of_Women_1559.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: "1604: unchanged from 1559 (the justus 1559 page shows no 1604 apparatus for this office); inherits the 1559 text."
+    verify_items: []

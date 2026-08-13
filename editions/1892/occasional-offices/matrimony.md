@@ -8,9 +8,9 @@
 
 ## The Exhortation
 
-> At the day and time appointed for Solemnization of Matrimony, the Persons to be married shalt come into the body of the Church, or shalt be ready in some proper house, with their friends and neighbours; and there standing together, the Man on the right hand, and the Woman on the left, the Minister shall say, <!-- VERIFY: source prints "shalt come" and "shalt be"; likely "shall come"/"shall be"; kept as printed; confirm against a page scan -->
+> At the day and time appointed for Solemnization of Matrimony, the Persons to be married shalt come into the body of the Church, or shalt be ready in some proper house, with their friends and neighbours; and there standing together, the Man on the right hand, and the Woman on the left, the Minister shall say, <!-- VERIFY: source prints 'shalt come' and "shalt be"; likely "shall come"/"shall be"; kept as printed; confirm against a page scan -->
 
-DEARLY beloved, we are gathered together here in the sight of God, and in the face of this company, to join together this Man and this Woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church: which holy estate Christ adorned and beautified with his presence and first miracle that he wrought in Cana of Galilee, and is commended of Saint Paul to be honourable among all men: and therefore is not by any to he entered into unadvisedly or lightly; but reverently, discreetly, advisedly, soberly, and in the fear of God. Into this holy estate these two persons present come now to be joined. If any man can show just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace. <!-- VERIFY: source prints "not by any to he entered into"; likely "to be entered into"; kept as printed; confirm against a page scan -->
+DEARLY beloved, we are gathered together here in the sight of God, and in the face of this company, to join together this Man and this Woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church: which holy estate Christ adorned and beautified with his presence and first miracle that he wrought in Cana of Galilee, and is commended of Saint Paul to be honourable among all men: and therefore is not by any to he entered into unadvisedly or lightly; but reverently, discreetly, advisedly, soberly, and in the fear of God. Into this holy estate these two persons present come now to be joined. If any man can show just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace. <!-- VERIFY: source prints 'not by any to he entered into'; likely "to be entered into"; kept as printed; confirm against a page scan -->
 
 ## The Charge
 
@@ -50,7 +50,7 @@ I M. take thee N. to my wedded wife, to have and to hold from this day forward, 
 
 > Then shall they loose their hands; and the Woman with her right hand taking the Man by his right hand, shall likewise say after the Minister:
 
-I N. take thee M. to my wedded husband, to have and hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth. <!-- VERIFY: source prints "to have andhold" (Man's vow reads "and to hold"); corrected joined word to "and hold"; a "to" may be dropped; confirm against a page scan -->
+I N. take thee M. to my wedded husband, to have and hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth. <!-- VERIFY: source prints 'to have andhold' (Man's vow reads "and to hold"); corrected joined word to "and hold"; a "to" may be dropped; confirm against a page scan -->
 
 ## The Ring
 
@@ -64,7 +64,7 @@ WITH this Ring I thee wed, and with all my worldly goods I thee endow: In the Na
 
 > Let us pray
 
-OUR Father who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen. <!-- VERIFY: source prints "who art m heaven"; corrected obvious OCR to "in heaven"; confirm against a page scan -->
+OUR Father who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen. <!-- VERIFY: source prints 'who art m heaven'; corrected obvious OCR to "in heaven"; confirm against a page scan -->
 
 ## The Prayer
 

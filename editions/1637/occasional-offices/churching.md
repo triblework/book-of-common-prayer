@@ -68,6 +68,6 @@ O ALmighty God, which hast delivered this woman thy servant from the great pain 
 
 ## The Rubrics
 
-<!-- VERIFY: spine prints a trailing "Psal. 121." after "if there be any at that time." on the Communion rubric; dropped here as a running caption / catchword rather than liturgical text; confirm against a page scan -->
+<!-- VERIFY: spine prints a trailing 'Psal. 121.' after "if there be any at that time." on the Communion rubric; dropped here as a running caption / catchword rather than liturgical text; confirm against a page scan -->
 
 > The woman that cometh to give her thanks, it is convenient that she receive the holy Communion, if there be any at that time.

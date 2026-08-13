@@ -134,3 +134,62 @@ of Women." 1662 prints TWO psalms (Ps 116 and Ps 127, to be used one or other) �
 both as printed under The Psalm. Some editions add a preliminary rubric that the service
 or its concluding prayer may be used at the Minister's discretion. Include only the
 anchors the edition prints, in printed order.
+
+### occasional-offices/burial  (exemplar: editions/1552)
+```
+## The Procession       (rubric + "I am the resurrection…", "I know that my Redeemer…", "We brought nothing…")
+## At the Grave         ("Man that is born of a woman…", "In the midst of life we be in death…")
+## The Committal        (the casting of earth; 1549 "I commend thy soul to God…earth to earth"; 1552+ "Forasmuch as it hath pleased…we commit his body")
+## The Anthem           ("I heard a voice from heaven…")
+## The Commendation     (1549 ONLY — the prayers for the dead after the anthem: "We commend into thy hands…the soul", "Almighty God, we give thee hearty thanks for this thy servant")
+## The Psalms           (1549 ONLY — the office of Psalms said in church: Ps 116 Dilexi quoniam, Ps 146 Lauda anima mea, Ps 139 Domine probasti)
+## The Lesson           (1 Corinthians 15 "Christ is risen from the dead…")
+## The Lord's Prayer    (the Kyrie + Our Father)
+## The Suffrages        (1549 ONLY — "Enter not, O Lord, into judgement…", "From the gates of hell…")
+## The Prayer           (1549 "O Lord, with whom do live the spirits…"; 1552+ "Almighty God, with whom do live the spirits…")
+## The Collect          ("O merciful God, the Father of our Lord Jesus Christ…")
+## The Celebration of Holy Communion  (1549 ONLY — Introit Ps 42 Quemadmodum)
+## The Epistle          (1549 Communion — 1 Thess. iv "I would not have you ignorant…")
+## The Gospel           (1549 Communion — John vi "Jesus said to his disciples…")
+```
+### occasional-offices/visitation-sick  (format exemplar for markdown conventions: editions/1552/occasional-offices/burial.md — but follow THIS menu)
+Includes "The Communion of the Sick" as a section (it is printed with the Visitation across editions).
+```
+## The Introduction     (rubric + "Peace be in this house, and to all that dwell in it.")
+## The Antiphon         ("Remember not, Lord, our iniquities…")
+## The Lord's Prayer    (the Kyrie "Lord, have mercy…" + Our Father)
+## The Suffrages        ("O Lord, save thy servant…")
+## The Prayers          ("O Lord, look down from heaven…", "Hear us, Almighty and most merciful God…")
+## The Exhortation      ("Dearly beloved, know this: that Almighty God is the Lord of life and death…")
+## The Examination      (the interrogation of faith "Dost thou believe in God the Father almighty?…as it is in Baptism", then the charity/forgiveness/will/restitution/alms rubrics)
+## The Absolution       (the special-confession rubric + "Our Lord Jesus Christ, who hath left power to his Church to absolve…I absolve thee…")
+## The Collect          ("O most merciful God, which according to the multitude of thy mercies…")
+## The Psalm            ("In te Domine speravi" / Psalm 71 [the source may mislabel it "Psal. xxi." — keep as printed + VERIFY, drop any "[actually Psalm 71]" editorial gloss] + the added anthem "O Saviour of the world, save us…")
+## The Unction          (1549 ONLY — the anointing of the sick: rubric + "As with this visible oil thy body is outwardly anointed…" — absent from 1552 onward)
+## The Blessing         ("The Almighty Lord, which is a most strong tower to all them that put their trust in him…")
+## The Communion of the Sick   (the "THE COMMUNION OF THE SICK" heading + its opening rubric + ## The Collect [Almighty everliving God, maker of mankind] + The Epistle [Heb. xii] + The Gospel [John v] + the distribution & spiritual-communion & plague rubrics)
+```
+Notes: 1549 additionally has the Unction (anointing) and may print extra antiphons/psalms
+— include them under the nearest anchor / a faithful `##` heading. 1662 and the American
+books rework the exhortation, drop the anointing, and the American line splits out a
+separate "Communion of the Sick" (already folded here) and adds prayers — include only
+what the edition prints, in printed order. NOTE the 1789 book ALSO has a separate
+"Visitation of Prisoners" service — that is OUT OF SCOPE; transcribe only Visitation of
+the Sick (+ Communion of the Sick). Place out-of-position marginal citations inline.
+
+### occasional-offices/burial (continued)
+The flagship diff is the 1549→1552 Reformation stripping: 1549 is a full requiem
+(soul-commendation "I commend thy soul", explicit prayers FOR the dead, an office
+of psalms, and a Communion of the dead); 1552 reduces it to the graveside form and
+rewrites the Committal ("Forasmuch…we commit his body") and the Prayer to REMOVE
+prayer for the dead. Keep the SAME anchor names where a section persists (Committal,
+Anchor, Lesson, Prayer, Collect) so the rewrite reads as a body diff; the
+1549-only sections (Commendation, Psalms, Suffrages, Celebration, Epistle, Gospel)
+simply absent from later books. 1549 prints scripture citations (John xi., Job xix.,
+1 Tim. vi., Job i., Job ix., Apoca. xiiii.) in the margin; the justus cleaner may dump
+them on their own lines out of position — place each inline at the END of the sentence
+it annotates (as the 1552 exemplar does), stripping any editorial gloss like
+"[=Revelation]". Later editions (1662/American) add "The sentences", the "Thou knowest,
+Lord" reworkings, additional prayers, and (American) a committal at the grave — include
+what each prints under the nearest anchor, adding a faithful `##` heading for a clearly
+new labelled section.

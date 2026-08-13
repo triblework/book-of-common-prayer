@@ -1,0 +1,65 @@
+# The Order for the Buriall of the Dead.
+
+## The Procession
+
+> The prieste metyng the corpse at the Church style, shal saye, Or els the priestes and clerkes shall syng, and so go eyther into the churche, or towardes the grave.
+
+I AM the resurrection and the life (saith the Lord) he that beleveth in me: yea, thoughe he were dead, yet shall he live. And whosoever liveth, and believeth in me, shall not dye for ever. Jhon xi.
+
+I KNOWE that my redemer lyveth, and that I shal rise out of the earth in the last daye, and shal be covered agayne with my skinne, and shall se God in my flesh: yea, and I my selfe shall beholde hym, not with other, but with thesame eyes. Job xix.
+
+WE brought nothinge into this worlde, neither may we cary any thyng out of this worlde. i. Tim. vi. The Lord geveth, and the Lorde taketh awaye. Even as it hath pleased the Lorde so commeth thynges to passe: Blessed be the name of the Lorde. Job i.
+
+## At the Grave
+
+> When they come to the grave, whyles the corps is made redy to be layd into the earth, ye priest shal say, or the priestes, and clerkes shal sing.
+
+MAN that is borne of a woman hathe but a shorte tyme to lyve, and is full of miserye: he commeth up, and is cut doune lyke a floure, he flyeth as it were a shadow, and never continueth in one staye.
+
+In the middest of life we be in death, of whom mai we seke for succour but of the, O Lorde, whiche for our sinnes justly arte displeased: yet O Lorde God most holy, O Lorde moste mightye, O holy, and moste mercifull Saviour, deliver us not into the bitter paynes of eternall death. Thou knowest Lord the secretes of our hertes, shut not up thy mercifull eyes to our prayers. But spare us Lorde moste holy, O God moste mighty, O holy and mercifull Saviour, thou most worthy judge eternall, suffer us not at our last houre for any paines of death to fall from the.
+
+## The Committal
+
+> Then whyle the earth shal be cast upon the body by some standing by, the priest shall saye.
+
+FOR asmuche as it hath pleased almightie God of his great mercy to take unto hym selfe the Soule of oure deare brother, here departed, we therfore committe hys bodye to the grounde, earthe, to earthe ashes, to ashes, dust, to dust, in sure, and certein hope of resurrection to eternall lyfe, throughe oure Lorde Jesus Christe, who shall change oure vyle body that it may be lyke to his glorious body, according to the mighty workynge whereby he is able to subdue al thynges to hym selfe.
+
+## The Anthem
+
+> Then shalbe sayde, or songe.
+
+I HEARDE a voyce from heaven saiyng unto me, wryte from hencefurth, blessed are the dead whiche dye in the Lorde. Even so sayeth the spirite that they reste from their labours. Job xi. <!-- VERIFY: source dumps marginal citation 'Job xi.' after this anthem; the anthem ("I heard a voice from heaven") is Revelation xiiii, not Job, so the citation appears misplaced or mis-scanned; kept as printed; confirm against a page scan -->
+
+## The Lesson
+
+> Then shall folowe this lesson, taken out of the . xv. Chap. to the Corin. the first Epistle.
+
+CHRIST is rysen from the dead, and become the fyrst frutes of them that slept. For by a man came deth, and by a man came the resurreccion of the dead. For as by Adam al die, even so by Christ shal al be made alive, but every manne in his owne order. The fyrste is Christe, then they that are Christes at his comming. Then commeth the ende when he hathe delivered up the kyngedome to God the father, when he hath put doune all rule, and all aucthoritie and power. For he must reygne till he have put hys enemies under hys fete. The laste enemye that shalbe destroyed is deathe. For he hath putte all thynges under his feete. But when he sayeth, all thynges are putte under hym, it is manifeste that hee is excepted, whyche dyd putte all thynges under hym. When al thinges are subdued unto him, then shall the sonne also hym self be subjecte unto him that put all thynges under hym, that God maye be al in all, elles what do they whyche are baptised over the deade, if the dead rise not at all? Why are they then baptised over them: yea, and why stande we alway then in jeopardye? By our rejoysinge which I have in Christ jesu our Lorde, I dye daily. That I have foughte wyth beastes Ephesus after the maner of men, what avauntageth it me, if the dead ryse not agayne? Lette us eate and drincke, for to morow we shall dye. Be not ye deceyved; evil wordes corrupt good maners. Awake truly out of slepe, and sinne not. For somme have not the knowledge of God. I speake this to your shame. But some manne wyl say how aryse the dead? with what body shal they come? thou foole, that whiche thou sowest is not quickened except it dye. And what sowest thou? thou sowest not that body that shalbe; but bare corne, as of wheate, or some other: but God geveth it a bodye at hys plesure, to everye sede his owne bodye. All fleshe is not one maner of flesh: but there is one maner of flesh of menne, an other maner of flesh of beasts, an other of fishes, an other of byrdes. There are also celestial bodyes, and there are bodies terrestriall. But the glory of the celestiall is one, and the glory of the terrestrial is another. There is one maner glory of the Sonne, and another glory of the Mone, and another glory of the starres. For one starre differeth from another in glory: so is the resurrection of the deade. It is sowen in corrupcion, it riseth againe in incorrupcion. It is sowen in dishonoure, it riseth againe in honoure. It is sowen in weaknes, it ryseth againe in power. It is sowen a natural body, it ryseth againe a spirituall bodye. There is a natural body, and there is a spirituall body: as it is also wryten, the fyrst man Adam was made a lyvynge soule, and the laste Adam was made a quickeninge spirite. How be it that is not fyrst whyche is spirituall: but that whiche is naturall and then that whiche is spirytual. The first man is of the earth, earthye : The seconde manne is the Lord from Heaven (heavenlye). As is the earthy, suche are they that be earthy. And as is the heavenly, such are they that are heavenly. And as we have borne the ymage of the earthye, so shall we beare the ymage of the heavenly. Thys saye I brethren, that fleshe and bloude cannot enherite the kyngdome of God, neyther doth corruption enherite incorruption. Beholde, I shewe you a mystery. we shall not all slepe: but we shall al be chaunged, and that in a momente, in the twynkelynge of an eye by the last trumpe. For the trumpe shall blowe, and the deade shall rise incorruptible, and we shall be chaunged. For this corruptible must put on incorruption, and this mortall must put on immortalitye. When this corruptible hath put on incorruption, and this mortall hath put on immortalitye: then shall be broughte to passe the sayinge that is wrytten, Deathe is swallowed up in victory: Deathe, where is thy stinge? Hell where is thy victory? The stynge of deathe is sinne, and the strengthe of sinne is the lawe. But thankes be unto God, whyche hathe geven us victory, through our Lord Jesus Christ. Therfore my deare brethren, be ye stedfast and unmovable, alwaies rich in the worke of the lorde, forasmuch as ye knowe, howe that your laboure is not in vayne in the Lorde.
+
+## The Lord's Prayer
+
+> The Lesson ended, the Priest shall saye.
+
+Lorde have mercye upon us.
+
+Christe have mercye upon us.
+
+Lorde have mercye upon us.
+
+Our Father whiche arte in heaven. &c.
+
+And leade us not into temptacion.
+
+**Aunswere.** But deliver us from evil. Amen.
+
+## The Prayer
+
+> The Priest.
+
+ALMIGHTIE God, with whome do live the spirites of them that depart hence in the lorde and in whome the soules of them that be elected, after they be delivered from the burthen of the flesh, be in joye and felicitie. We geve the hearty thankes for that it hath pleased the to deliver this N. oure brother, out of the miseries of thys synneful worlde beseching the that it may please the of thy gracious goodnes, shortelye to accomplishe the numbre of thyne electe, and to haste thy kyngedome, that we with thys oure brother, and all other departed in the true fayth of thy holy name, may have our perfect consummacion and blisse, both in bodye and soule in thy eternall and everlastynge glorie. Amen.
+
+## The Collect
+
+> The Collect.
+
+O MERCIFULL God, the father of our Lord Jesus Christe, who is the Resurrection and the lyfe, in whom whosoever beleveth shall live, thoughe he dye, and whosoever liveth, and beleveth in hym, shall not dye eternally, who also taughte us (by hys holy apostle Paule), not to be sory as men without hope, for them that slepe in hym: We mekely beseche the (O Father) to rayse us from the deathe of sinne unto the lyfe of righteousnes, that when we shall depart thys lyfe, we may rest in hym, as our hope is thys oure brother doeth, and that at the generall resurrection in the laste daye, we maye be founde acceptable in thy syghte, and receive that blessing which thy welbeloved sonne shall then pronounce to all that love and fear the, saiynge: Come ye blessed children of my father, receyve the Kyngedome prepared for you frome the begynnynge of the worlde. Graunte thys, we beseche the, O mercifull father, throughe Jesus Christe our mediatoure and redemer. Amen.

@@ -98,6 +98,34 @@ The published branches and tags are build artifacts, regenerated from the
   Font" prayers (an appendix printed after private baptism) are deferred to a later
   occasional-offices pass, as are the bundled Catechism bodies on the 1549/1559/1928
   Confirmation pages (the Catechism is its own wave).
+- **2026-08-13** — Wave 6: the pastoral occasional offices added at full Tier-1.
+  Five services under `occasional-offices/` — Matrimony, the Visitation of the Sick
+  (with the Communion of the Sick), the Burial of the Dead, the Churching of Women,
+  and the Commination. Matrimony, Visitation, and Burial run across the ten
+  daily-office editions (English 1549–1662, Scottish 1637, American 1789–1979);
+  1764/1929 remain Communion-only, so they carry none of them. Churching runs across
+  them too — the 1979 book replaces it with "A Thanksgiving for the Birth or Adoption
+  of a Child", represented under the same file. The **Commination is an
+  English/Scottish office (1549–1662 + 1637) that the American line drops**: it is
+  modelled as a clean deletion at 1789 (`git diff v1662 v1789 --
+  texts/normalized/occasional-offices/commination.md`), which 1892/1928/1979 inherit;
+  the 1979 book has no Commination and its nearest relative (the Ash Wednesday
+  liturgy) is deliberately not mapped. Flagship diffs: the Reformation stripping of
+  the Burial office in 1552 (`git diff v1549 v1552 --
+  texts/normalized/occasional-offices/burial.md` — the 1549 requiem's commendation of
+  the soul, prayers for the dead, office of psalms, and Communion of the dead removed,
+  leaving the graveside form, with the committal and prayer rewritten to remove prayer
+  for the dead); the 1549→1552 Matrimony changes (the "gold and silver" dropped from
+  the giving of the ring, the blessing reworded, the apocryphal Tobias/Raphael
+  reference removed); and the 1549 Commination's title as "The First Day of Lent,
+  commonly called Ash-Wednesday". 1604 changes were derived from the justus 1559
+  apparatus (Burial "unto"→"into"; Churching "Priest"→"Minister"; Matrimony,
+  Visitation, and Commination unchanged and inherited). 1979 offices were reflowed
+  mechanically from the public-domain ASCII e-text `bcpastrl.txt` (source → script →
+  file), including the Burial's Rite One (office body) and Rite Two (separate section);
+  the American 1892 offices, which justus serves only as text-layer PDFs, were
+  extracted with pypdf layout mode. A handful of genuine e-text/print defects are kept
+  verbatim and flagged inline (`<!-- VERIFY -->`) — see `SOURCES.md`.
 
 ## A note on transcription
 

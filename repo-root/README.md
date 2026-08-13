@@ -117,11 +117,22 @@ American line folds infant and adult baptism into one rite by 1928. The family i
 four separate offices — Public Baptism of Infants, Private Baptism, Baptism of
 Those of Riper Years, and Confirmation.
 
-**Coming soon** (in progress): the remaining occasional offices (Matrimony,
-Visitation of the Sick, Burial, Churching, Commination), the Collects, the
-Catechism, and the Ordinal; the Psalter and lectionary tables will follow. All
-twelve tags carry sourced text (the earlier 1928/1979 sourcing gaps were closed
-with clean public-domain sources — see `SOURCES.md`).
+The **pastoral occasional offices** — **Matrimony, the Visitation of the Sick,
+the Burial of the Dead, the Churching of Women, and the Commination** — are also
+transcribed at full Tier-1. Matrimony, the Visitation of the Sick (with the
+Communion of the Sick), and Burial run across the ten daily-office editions;
+Churching runs across them too (becoming the 1979 "Thanksgiving for the Birth or
+Adoption of a Child"); and the Commination is an English/Scottish office that the
+American line **drops** — a clean deletion diff at 1789. The Burial office shows
+the tradition's starkest Reformation cut: the 1549 book is a full requiem (a
+commendation of the soul, explicit prayers for the dead, an office of psalms, and
+a Communion of the dead), and the 1552 book reduces it to the bare graveside form
+and rewrites the committal and the prayer to remove prayer for the dead.
+
+**Coming soon** (in progress): the Collects, the Catechism, and the Ordinal; the
+Psalter and lectionary tables will follow. All twelve tags carry sourced text (the
+earlier 1928/1979 sourcing gaps were closed with clean public-domain sources — see
+`SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
@@ -145,6 +156,14 @@ git diff v1559 v1662 -- texts/normalized/holy-communion/holy-communion.md
 # The baptismal simplification of 1552 — the 1549 rite's exorcism, chrisom, and
 # anointing are removed and the signing with the cross moves to after the baptism:
 git diff v1549 v1552 -- texts/normalized/occasional-offices/public-baptism.md
+
+# The Reformation stripping of the Burial office in 1552 — the 1549 requiem's
+# commendation of the soul, prayers for the dead, office of psalms, and Communion
+# of the dead are removed, leaving the bare graveside form:
+git diff v1549 v1552 -- texts/normalized/occasional-offices/burial.md
+
+# The American line drops the Commination entirely — a clean deletion at 1789:
+git diff v1662 v1789 -- texts/normalized/occasional-offices/commination.md
 
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/
