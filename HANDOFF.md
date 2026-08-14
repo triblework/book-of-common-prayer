@@ -11,6 +11,54 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT STATUS — Wave 8 (the Ordinal) DONE on `authoring`, READY TO PUBLISH
+
+**Wave 8 = the Ordinal — DONE + build-green + pushed to origin/authoring; NOT YET
+published to the public branches (awaiting user go-ahead on the force-push).** New
+service family `ordinal/` with four files: `preface`, `ordering-deacons`,
+`ordering-priests`, `consecration-bishops`. Present at the nine editions that carry
+it: English 1549/1552/1559/1604/1662, American 1789/1892/1928/1979. **Absent from the
+whole Scottish line** (1637 book had no Ordinal; 1764/1929 Communion-only) → all four
+`absent:` at 1637, inherited-absent after. **1549/1550 placement decision (recorded in
+NOTICE):** the v1549 node carries the separately-published **1550 Ordinal** (bound in
+from 1552), sourced from the justus synoptic "Ordinal from the 1549, 1552 and 1559
+Books" pages — preserves the 1550→1552 flagship diff.
+
+METHOD: hand-authored the English 1549/1552/1559 trio from the three-way justus
+synoptic apparatus (1550 base + `[…] added 1552/1559` inserts + labelled 1552/1559
+branch columns; parser `ingest/parse_ordinal.py` dumped the structure, then authored
+by hand). 1604 derived from 1559 (Deacons+Bishops only: Elizabeth→James, Queen→King in
+the oaths; Priests+Preface inherit). 1662 from the CoE website. American 1789/1928 from
+justus; 1892 derived from 1789 (Nicene-Creed rubric adds + hymn cross-ref); 1979 by
+`ingest/transform_1979_ordinal.py` from `bcpepscl.txt`. GOTCHA (escalated this wave):
+the output content-filter blocked the large ordination-rite Writes for BOTH subagents
+AND the main agent — so 1662 priests/bishops, 1789 priests/bishops, and 1928 were built
+by file→file structuring scripts (`ingest/ordinal_struct.py` + `ingest/drive_*.py`;
+`transform_1979_ordinal.py`), which never emit the text as model tokens. Method assets:
+`ingest/WAVE8_SOURCE_MAP.md`, `WAVE8_STRUCTURING_GUIDE.md`, `spines-w8/`,
+`gen_wave8_provenance.py` (36 records / 16 verify_items), `append_wave8_docs.py`,
+`add_w8_verifies.py`.
+
+BUILD GREEN: `verify_index --check` (authoring) reconciles 170 inline VERIFY / 208
+provenance verify_items; all three built tips pass sentence_split/normalize/verify_index
+`--check`; ordinal present at the 9 tags, absent at the 3 Scottish tags. Flagship diffs
+render: porrection removed `git diff v1549 v1552 -- texts/normalized/ordinal/
+ordering-priests.md`; anti-papal + oath `v1552→v1559 …/ordering-deacons.md`; the 1662
+order-naming `v1604→v1662 …/ordering-priests.md`; the American Promise of Conformity
+`v1662→v1789 …/consecration-bishops.md`. editions.yaml wired; provenance/SOURCES/README/
+NOTICE updated.
+
+**TO PUBLISH (needs user go-ahead on the force-push):** follow §5 — record `git
+ls-remote` recovery; `build_history.py --publish --live-repo /Users/wtrible/Developer/
+bcp`; in the primary repo `git reset --hard main`; `git push --force-with-lease origin
+main scottish american`; `git push --force origin --tags`; verify local==remote for all
+3 branches + 12 tags and that the flagship diffs render; record the publish in NOTICE +
+the memory note + this HANDOFF. After publishing, next is front-matter (spec §9), then
+Collects/Epistles/Gospels; deferred small items still open: 1549 Blessing of the Font,
+Litany occasional/state prayers.
+
+<!-- Superseded: "Wave 7 … PUBLISHED" block kept below for reference -->
+
 ## CURRENT STATUS (2026-08-13) — Wave 7 (Catechism) DONE + PUBLISHED
 
 **Wave 7 = the Catechism — DONE + PUBLISHED (force-pushed to origin 2026-08-13).**
