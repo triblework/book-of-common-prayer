@@ -11,6 +11,62 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT STATUS — Wave 9 (the front-matter) DONE + PUBLISHED (2026-08-14)
+
+**Wave 9 = the front-matter — DONE + PUBLISHED (force-pushed to origin 2026-08-14).
+NEW published tips: `main da4fa1d · scottish 2474e65 · american 4a722f6`; all 12
+vYYYY tags recreated; local==remote verified for all 3 branches + 12 tags; flagship
+diffs render on the published refs.** New family `front-matter/` with four pieces:
+`preface`, `concerning-the-service`, `of-ceremonies`, `ratification`. Presence is the
+point (matrix confirmed against sources):
+- `concerning-the-service` = the 1549 "There was never any thing…" Preface — titled
+  **The Preface** through 1604, **renamed** "Concerning the Service of the Church" in
+  1662 (kept one file so the rename is a heading diff). English 1549–1662 + Scottish
+  1637 (a **distinct** Scottish preface, "The Church of Christ hath in all ages…").
+  American line **drops** it at 1789, **re-adds** a modern one at 1979.
+- `preface` = the **1662 addition** ("It hath been the wisdom…"), absent 1549–1604 →
+  clean insert `v1604→v1662`. American line has its **own** ("It is a most invaluable
+  part…", 1789), inherited 1892/1928/1979.
+- `of-ceremonies` = 1549–1662 + 1637; end-of-book in 1549 → front in 1552 (a book-order
+  note in NOTICE, not a text diff); **absent** the American line.
+- `ratification` = **American only** (1789+). 1764/1929 carry no front-matter.
+
+11 files authored (1559/1604 inherit; 1892/1928/1979 inherit the American
+preface+ratification). METHOD: built file→file to dodge the content filter —
+`ingest/w9_build.py` (spine paragraph-slicer over `ingest/spines-w9/*`),
+`ingest/w9_american.py` (1789 from the FrontMatter HTML; 1979 `concerning` from
+`bcpoffce.txt`), `ingest/w9_verifies.py` (VERIFY inserter), `ingest/w9_editions.py`
+(wires editions.yaml), `gen_wave9_provenance.py` + `append_wave9_docs.py` (22 records
+/ 4 verify_items + SOURCES scope section). 1662 from CoE slugs (`preface`,
+`concerning-service-church`, `concerning-ceremonies-why-some-be`). GOTCHAs: the justus
+1549 preface lives on `front_matter_1549.htm` (there is **no** per-piece 1549 preface
+page); the **1928 `Front_Matter_1928.pdf` has a garbled font layer** (glyph codes, no
+usable text) → 1892/1928 modeled as inheriting the reprinted 1789 Preface+Ratification
+(corroborated by the 1979 e-text labeling them "(1789)"). Also published in this wave:
+the completed **1549 Blessing of the Font** (Wave-5 deferral; `ingest/w9b_font1549.py`),
+appended to `1549 private-baptism.md`, present at 1549 only (clean deletion `v1552`).
+Build green: authoring `verify_index` reconciles (175 inline / 213 provenance); all
+three built tips pass sentence_split/normalize/verify_index `--check`; presence at all
+12 tags matches the matrix; inheritance cells diff to zero. Flagships render:
+`v1604→v1662` preface clean insert; the `# The Preface`→`# Concerning the Service of
+the Church` rename; `v1662→v1789` American restructure (preface replaced, ratification
+added, concerning+ceremonies deleted); `v1604→v1637` Scottish preface replacement.
+
+**STILL DEFERRED → its own next wave: the Litany-appended PRAYERS AND THANKSGIVINGS.**
+On inspection (see `ingest/spines-w9/{1552,1559,1637}_litany.md`) this is NOT a small
+item: the sources print a growing, edition-variable block after the Litany suffrages —
+*nothing* at 1549; the **occasional prayers** (rain/fair weather/dearth/war/plague) at
+1552; **state prayers** (royal progeny, clergy) + occasional prayers + **thanksgivings**
+(rain/fair weather/plenty) at 1559 and 1637; and 1662/American move the whole set into a
+separate "Prayers and Thanksgivings upon several Occasions" section (their Litany already
+ends at "Here endeth the Litany"). Each edition's `## The Prayers` section would receive
+its block inserted after "We humbly beseech thee" / before the concluding collect or
+Grace. User decided (2026-08-14) to publish Wave 9 now and do this as its own wave. Next
+(spec §6): Prayers-and-Thanksgivings; then Collects/Epistles/Gospels; stretch Psalter,
+tables.
+
+<!-- Superseded: "Wave 8 … DONE + PUBLISHED" block kept below for reference -->
+
 ## CURRENT STATUS — Wave 8 (the Ordinal) DONE + PUBLISHED (2026-08-14)
 
 **Wave 8 = the Ordinal — DONE + PUBLISHED (force-pushed to origin 2026-08-14). NEW

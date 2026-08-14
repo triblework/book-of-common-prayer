@@ -215,6 +215,16 @@ The published branches and tags are build artifacts, regenerated from the
   stability was relied on), and the 1979 `concerning-the-service` by transform script
   from the public-domain ASCII e-text `bcpoffce.txt` (source → script → file). A few
   OCR/print readings are kept verbatim and flagged inline (`<!-- VERIFY -->`).
+  (Published 2026-08-14; tips main `da4fa1d` · scottish `2474e65` · american
+  `4a722f6`.) This publish also carries a completed Wave-5 deferral — the **1549
+  Blessing of the Font** (the monthly font-hallowing printed after Private Baptism),
+  appended to the 1549 Private Baptism file (present at 1549 only). **Still deferred:**
+  the Litany-appended **Prayers and Thanksgivings** — the occasional prayers (rain,
+  fair weather, dearth, war, plague), the appended state prayers (royal progeny,
+  clergy), and the thanksgivings — which the sources print as a growing,
+  edition-variable block after the Litany (1552 onward) and which the 1662 and
+  American books gather into a separate "Prayers and Thanksgivings upon several
+  Occasions" section; these are their own future wave, not part of the Litany file.
 
 ## A note on transcription
 
