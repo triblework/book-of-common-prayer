@@ -1,0 +1,255 @@
+
+  # ---- Wave 9: the front-matter ----
+  - edition: 1662
+    service: front-matter/preface
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/preface
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The 1662 Preface (''It hath been the wisdom of the Church of England, ever since the first compiling of her Publick Liturgy...'') — a 1662 ADDITION (absent 1549-1604). From the CoE website. Flagship v1604->v1662: a clean insertion of the whole piece.'
+    verify_items: []
+
+  - edition: 1789
+    service: front-matter/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The American Preface (''It is a most invaluable part of that blessed liberty wherewith Christ hath made us free...'', William White, 1789) — a DISTINCT preface replacing the English 1662 one. From the justus 1789 front-matter page. Flagship v1662->v1789: the English Preface is wholly replaced by the American Preface; the Ratification is added; ''Concerning the Service'' and ''Of Ceremonies'' are dropped. Carries a source punctuation oddity (flagged).'
+    verify_items:
+      - anchor: The Preface
+        source_reading: member of our Church. and every sincere Christian
+        note: '''member of our Church. and every sincere Christian'' — the justus 1789 text prints a full stop before a lower-case "and"; likely a comma in the original; left as-sourced pending a 1789 scan'
+
+  - edition: 1892
+    service: front-matter/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/BCP_1892.htm]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Preface: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The American Preface (''It is a most invaluable part of that blessed liberty wherewith Christ hath made us free...'', William White, 1789) — a DISTINCT preface replacing the English 1662 one. From the justus 1789 front-matter page. Flagship v1662->v1789: the English Preface is wholly replaced by the American Preface; the Ratification is added; ''Concerning the Service'' and ''Of Ceremonies'' are dropped. Carries a source punctuation oddity (flagged).'
+    verify_items: []
+
+  - edition: 1928
+    service: front-matter/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: [http://justus.anglican.org/resources/bcp/1928/Front_Matter_1928.pdf]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Preface: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The American Preface (''It is a most invaluable part of that blessed liberty wherewith Christ hath made us free...'', William White, 1789) — a DISTINCT preface replacing the English 1662 one. From the justus 1789 front-matter page. Flagship v1662->v1789: the English Preface is wholly replaced by the American Preface; the Ratification is added; ''Concerning the Service'' and ''Of Ceremonies'' are dropped. Carries a source punctuation oddity (flagged).'
+    verify_items: []
+
+  - edition: 1979
+    service: front-matter/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Preface: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The American Preface (''It is a most invaluable part of that blessed liberty wherewith Christ hath made us free...'', William White, 1789) — a DISTINCT preface replacing the English 1662 one. From the justus 1789 front-matter page. Flagship v1662->v1789: the English Preface is wholly replaced by the American Preface; the Ratification is added; ''Concerning the Service'' and ''Of Ceremonies'' are dropped. Carries a source punctuation oddity (flagged).'
+    verify_items: []
+
+  - edition: 1549
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/1549/front_matter_1549.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 1549 original Preface ('There was never any thing by the wit of man so well devised...') — titled simply 'The Preface' in 1549; this is the piece later (1662) renamed 'Concerning the Service of the Church'. From the justus 1549 front-matter page (modern-spelling transcription); the title page, contents, and Kalendar on that page are out of Wave-9 scope.
+    verify_items: []
+
+  - edition: 1552
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/1552/Front_matter_1552.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1552, from the justus 1552 front-matter page. Flagship v1549->v1552: the Preface gains the Archbishop-appeal clause and three closing directives (that Priests and Deacons say the daily Office; and that the Curate toll a bell).'
+    verify_items: []
+
+  - edition: 1559
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/1552/Front_matter_1552.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Concerning the Service of the Church: unchanged from 1552 in this edition — inherited from 1552 (no separate file). 1552, from the justus 1552 front-matter page. Flagship v1549->v1552: the Preface gains the Archbishop-appeal clause and three closing directives (that Priests and Deacons say the daily Office; and that the Curate toll a bell).'
+    verify_items: []
+
+  - edition: 1604
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/1552/Front_matter_1552.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Concerning the Service of the Church: unchanged from 1552 in this edition — inherited from 1552 (no separate file). 1552, from the justus 1552 front-matter page. Flagship v1549->v1552: the Preface gains the Archbishop-appeal clause and three closing directives (that Priests and Deacons say the daily Office; and that the Curate toll a bell).'
+    verify_items: []
+
+  - edition: 1662
+    service: front-matter/concerning-the-service
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/concerning-service-church
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within; site chrome / Crown-CUP acknowledgement stripped). Flagship v1604->v1662: the 1549 ''Preface'' is RENAMED ''Concerning the Service of the Church'' and modernised; a wholly new Preface (''It hath been the wisdom...'') is added alongside it (front-matter/preface, absent 1549-1604).'
+    verify_items: []
+
+  - edition: 1637
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/front_matter_1637.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1637 Scottish (Laud''s Liturgy) — a DISTINCT preface (''The Church of Christ hath in all ages had a prescript forme of Common prayer...''), naming King James and the reigning Charles; from the justus Scotland 1637 front-matter page. Flagship v1604->v1637 (scottish line): the English ''There was never any thing'' preface is wholly replaced by the Scottish one. The Proclamation and Kalendar on that page are out of scope.'
+    verify_items:
+      - anchor: The Preface
+        source_reading: to fall to thin ground
+        note: '''to fall to thin ground'' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan'
+
+  - edition: 1979
+    service: front-matter/concerning-the-service
+    source_url: http://justus.anglican.org/resources/bcp/bcpoffce.txt
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 1979 American — a modern 'Concerning the Service of the Church' (directions on the regular services, orders of ministry, hymns and anthems), RE-ADDED after the American line dropped the piece at 1789. From the public-domain ASCII e-text bcpoffce.txt via ingest/w9_american.py (source -> script -> file). Mechanically reflowed; carries an e-text typo (flagged).
+    verify_items:
+      - anchor: Concerning the Service of the Church
+        source_reading: fulfull
+        note: '''fulfull'' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check'
+
+  - edition: 1549
+    service: front-matter/of-ceremonies
+    source_url: http://justus.anglican.org/resources/bcp/1549/Of_Ceremonies_1549.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 1549 'Of Ceremonies, why some be abolished and some retained' — from the justus 1549 Of Ceremonies page, where it is printed at the END of the book (with the 'Certain notes' and colophon, both out of scope). Placement moved to the FRONT in 1552 (a book-order change recorded in NOTICE, not a text diff).
+    verify_items: []
+
+  - edition: 1552
+    service: front-matter/of-ceremonies
+    source_url: http://justus.anglican.org/resources/bcp/1549/Of_Ceremonies_1549.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Of Ceremonies: unchanged from 1549 in this edition — inherited from 1549 (no separate file). 1549 ''Of Ceremonies, why some be abolished and some retained'' — from the justus 1549 Of Ceremonies page, where it is printed at the END of the book (with the ''Certain notes'' and colophon, both out of scope). Placement moved to the FRONT in 1552 (a book-order change recorded in NOTICE, not a text diff).'
+    verify_items: []
+
+  - edition: 1559
+    service: front-matter/of-ceremonies
+    source_url: http://justus.anglican.org/resources/bcp/1549/Of_Ceremonies_1549.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Of Ceremonies: unchanged from 1549 in this edition — inherited from 1549 (no separate file). 1549 ''Of Ceremonies, why some be abolished and some retained'' — from the justus 1549 Of Ceremonies page, where it is printed at the END of the book (with the ''Certain notes'' and colophon, both out of scope). Placement moved to the FRONT in 1552 (a book-order change recorded in NOTICE, not a text diff).'
+    verify_items: []
+
+  - edition: 1604
+    service: front-matter/of-ceremonies
+    source_url: http://justus.anglican.org/resources/bcp/1549/Of_Ceremonies_1549.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Of Ceremonies: unchanged from 1549 in this edition — inherited from 1549 (no separate file). 1549 ''Of Ceremonies, why some be abolished and some retained'' — from the justus 1549 Of Ceremonies page, where it is printed at the END of the book (with the ''Certain notes'' and colophon, both out of scope). Placement moved to the FRONT in 1552 (a book-order change recorded in NOTICE, not a text diff).'
+    verify_items: []
+
+  - edition: 1662
+    service: front-matter/of-ceremonies
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/concerning-ceremonies-why-some-be
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 1662, from the CoE website. Modernised spelling; text otherwise continuous with the Edwardian/Elizabethan Of Ceremonies.
+    verify_items: []
+
+  - edition: 1637
+    service: front-matter/of-ceremonies
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/front_matter_1637.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 1637 Scottish, from the justus Scotland 1637 front-matter page. justus notes two leaves are missing from its original around this section (flagged); the Of Ceremonies text may be supplied from a parallel copy.
+    verify_items:
+      - anchor: Of Ceremonies, why some be abolish'd and some retain'd
+        source_reading: OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man
+        note: '''OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man'' — justus notes two leaves are missing from its 1637 original around this section, so the Of Ceremonies text may be supplied from a parallel copy; confirm against a 1637 scan'
+
+  - edition: 1789
+    service: front-matter/ratification
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: The Ratification of the Book of Common Prayer (Convention of 16 October 1789) — AMERICAN ONLY. From the justus 1789 front-matter page. New at v1789 (v1662->v1789).
+    verify_items: []
+
+  - edition: 1892
+    service: front-matter/ratification
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/BCP_1892.htm]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Ratification: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The Ratification of the Book of Common Prayer (Convention of 16 October 1789) — AMERICAN ONLY. From the justus 1789 front-matter page. New at v1789 (v1662->v1789).'
+    verify_items: []
+
+  - edition: 1928
+    service: front-matter/ratification
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: [http://justus.anglican.org/resources/bcp/1928/Front_Matter_1928.pdf]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Ratification: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The Ratification of the Book of Common Prayer (Convention of 16 October 1789) — AMERICAN ONLY. From the justus 1789 front-matter page. New at v1789 (v1662->v1789).'
+    verify_items: []
+
+  - edition: 1979
+    service: front-matter/ratification
+    source_url: http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm
+    retrieved: 2026-08-14
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'The Ratification: unchanged from 1789 in this edition — inherited from 1789 (no separate file). The Ratification of the Book of Common Prayer (Convention of 16 October 1789) — AMERICAN ONLY. From the justus 1789 front-matter page. New at v1789 (v1662->v1789).'
+    verify_items: []

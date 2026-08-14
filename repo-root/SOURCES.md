@@ -301,6 +301,10 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1604 Consecration of Bishops | `Kings` | 'Kings'; there is no 1604 justus Ordinal page; the King's Mandate/Sovereignty is derived from the 1559 Queen's readings per the synoptic 'Kings supremacie in 1604' note; confirm against a 1604 page scan |
 | 1789 Consecration of Bishops | `That neither devil, world, nor` | 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan |
 | 1892 Consecration of Bishops | `Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.` | 'Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.'; the justus 1789 apparatus notes only that in 1892 the printed hymn is replaced by this cross-reference; confirm the exact 1892 rubric wording against a 1892 page scan |
+| 1789 The Preface | `member of our Church. and every sincere Christian` | 'member of our Church. and every sincere Christian' — the justus 1789 text prints a full stop before a lower-case "and"; likely a comma in the original; left as-sourced pending a 1789 scan |
+| 1637 Concerning the Service of the Church | `to fall to thin ground` | 'to fall to thin ground' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan |
+| 1979 Concerning the Service of the Church | `fulfull` | 'fulfull' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check |
+| 1637 Of Ceremonies | `OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man` | 'OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man' — justus notes two leaves are missing from its 1637 original around this section, so the Of Ceremonies text may be supplied from a parallel copy; confirm against a 1637 scan |
 
 ## Occasional offices — Baptism family & Confirmation (Wave 5)
 
@@ -454,4 +458,43 @@ the book only from 1552) — see NOTICE.md for that placement decision.
 | 1892 | derived from 1789 (`1892/Ordinations_1892.pdf` cross-check) | Nicene-Creed rubric additions; printed hymn → cross-reference |
 | 1928 | justus `1928/Ordinal.htm` | adds the Litany for Ordinations + a second metrical Veni Creator |
 | 1979 | `bcpepscl.txt` via transform | contemporary-language rites (own section headings) |
+
+## Front-matter (Wave 9)
+
+The prefatory matter — **The Preface**, **Concerning the Service of the Church**,
+**Of Ceremonies (why some be abolished and some retained)**, and the American
+**Ratification** — under `front-matter/`. Presence differs sharply by line and is
+the point of the wave:
+
+- **Concerning the Service of the Church** is the 1549 original Preface ("There was
+  never any thing by the wit of man..."), titled simply *The Preface* through 1604 and
+  **renamed** *Concerning the Service of the Church* in 1662. English 1549-1662 and
+  Scottish 1637 (a wholly distinct Scottish preface); the American line **drops** it at
+  1789 and **re-adds** a new modern one at 1979.
+- **The Preface** ("It hath been the wisdom of the Church of England...") is a **1662
+  addition** (absent 1549-1604); the American line has its **own** Preface ("It is a
+  most invaluable part of that blessed liberty...", 1789+), inherited 1892/1928/1979.
+- **Of Ceremonies** runs from 1549 (printed at the *end* of the 1549 book, moved to the
+  *front* in 1552 — a book-order change, see NOTICE) through 1662 and Scottish 1637;
+  **absent from the American line**.
+- **The Ratification** is **American only** (1789+).
+- 1764/1929 (Communion-only Scottish line) carry no front-matter.
+
+The title pages, Tables of Contents, Kalendars, the 1559 Act of Uniformity, and the
+1637 royal Proclamation that share these source pages are book-structure / tables and
+are out of Wave-9 scope; the 1979 "Historical Documents of the Church" (Articles of
+Religion etc.) is back-matter, likewise out of scope.
+
+| Edition | Source | Notes |
+|---------|--------|-------|
+| 1549 | justus `1549/front_matter_1549.htm`, `1549/Of_Ceremonies_1549.htm` | original Preface + Of Ceremonies (Of Ceremonies at the book's end) |
+| 1552 | justus `1552/Front_matter_1552.htm` | Preface adds the Archbishop clause + three closing directives; Of Ceremonies now at the front (inherits 1549 text) |
+| 1559 | justus `1559/front_matter_1559.htm` (reviewed) | Preface/Of Ceremonies unchanged from 1552 → inherited |
+| 1604 | derived (reviewed-unchanged) | front-matter unchanged from 1559 → inherited |
+| 1662 | CoE website (`preface`, `concerning-service-church`, `concerning-ceremonies-why-some-be`) | new Preface added; 1549 Preface renamed *Concerning the Service of the Church* |
+| 1637 | justus `Scotland/front_matter_1637.htm` | distinct Scottish Preface (names James & Charles); Of Ceremonies (two source leaves missing — flagged) |
+| 1789 | justus `1789/FrontMatter_1789.htm` | American Preface + Ratification; drops Concerning-the-Service and Of Ceremonies |
+| 1892 | inherited from 1789 (`1892/BCP_1892.htm` cross-check) | Preface + Ratification unchanged |
+| 1928 | inherited from 1789 (`1928/Front_Matter_1928.pdf` cross-check) | Preface + Ratification unchanged (1928 front-matter PDF has a garbled font layer; relied on cross-source stability) |
+| 1979 | `bcpoffce.txt` via transform | re-adds a modern *Concerning the Service of the Church*; Preface + Ratification are the 1789 documents reprinted (inherited) |
 
