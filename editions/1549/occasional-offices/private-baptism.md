@@ -106,3 +106,31 @@ FORASMUCHE as this chylde hath promised by you to forsake the devil and al his w
 > But if they which bring the infantes to the church, do make an uncertain answere to the priestes questions, and say that they cannot tel what they thought, did, or sayde in that great feare and trouble of mynde (as oftentymes it chaunseth): Then let the priest Baptize him in forme above written, concernyng publyke Baptisme, savyng that at the dyppyng of the childe in the fonte, he shall use this forme of woordes.
 
 IF thou be not Baptized already, N. I Baptize thee in the name of the father, and of the sonne, and of the holy gost. Amen. Marke x.
+
+## The Blessing of the Font
+
+> The water in the fonte shalbe chaunged every moneth once at the lest, and afore any child be Baptized in the water so chaunged, the priest shall say at the font these prayers folowing.
+
+O MOSTE mercifull god our savioure Jesu Christ, who hast ordeyned the element of water for the regeneracion of thy faythful people, upon whom, beyng baptised in the river of Jordane, the holye ghoste came down in the likenesse of a doove: Sende down we beseche thee the same thy holye spirite to assiste us, and to bee present at this our invocacion of thy holy name: Sanctifie this fountaine of baptisme, thou that art the sanctifier of al thynges, that by the power of thy worde, all those that shall he baptized therein, maye be spirituallye regenerated, and made the children of everlasting adopcion. Amen.
+<!-- VERIFY: 'all those that shall he baptized' — the justus 1549 text reads "shall he baptized"; an OCR/print slip for "shall be baptized"; left as-sourced pending a 1549 scan -->
+
+O MERCIFULL God , graunte that the olde Adam, in them that shalbe baptized in this fountayne, maye so be buried, that the newe man may be raised up agayne. Amen.
+
+GRAUNT that all carnal affeccions maie die in them; and that all thynges, belongyng to the spirite maye live and growe in them. Amen.
+
+GRAUNT to all them which at this fountayne forsake the devill and all his workes: that they maye have power and strength to have victorye and to triumph againste hym, the worlde, and the fleshe. Amen.
+
+WHOSOEVER shal confesse the, o lorde: recognise him also in thy kingdome. Amen.
+
+GRAUNT that al sinne and vice here maie bee so extinct: that thei never have power to raigne in thy servauntes. Amen.
+
+GRAUNTE that whosoever here shall begynne to be of thy flocke: maie evermore continue in the same. Amen.
+
+GRAUNT that all they which for thy sake in this life doe denie and forsake themselfes: may winne and purchase thee (o lord) which art everlasting treasure. Amen.
+
+GRAUNT that whosoever is here dedicated to thee by our office and ministerie: maye also bee endewed with heavenly vertues, and everlastinglye rewarded through thy mercie, O Blessed lorde God, who doest live and governe al thinges world without ende. Amen.
+
+The Lorde be with you.
+**Answer.** The people. And with thy spirite.
+
+ALMIGHTYE everliving God, whose moste derely beloved sonne Jesus Christe, for the forgevenesse of our sinnes did shead out of his moste precious side bothe water and bloude, and gave commaundemente to his disciples that they shoulde goe teache all nacions, and baptise them in the name of the father, the sonne, and the holye ghoste: Regarde, we beseche thee, the supplicacions of thy congregacion, and graunte that all thy servauntes which shall bee baptized in this water prepared for the mynystracion of thy holy sacrament, maye receive the fulnesse of thy grace, and ever remaine in the noumbre of thy faithful, and elect children, through Jesus Christ our Lord.

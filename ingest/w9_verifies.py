@@ -31,6 +31,12 @@ FLAGS = [
      "\"to fall to the ground\"; left as-sourced from justus pending a 1637 scan "
      "-->"),
 
+    ("1549/occasional-offices/private-baptism.md",
+     "all those that shall he baptized",
+     "<!-- VERIFY: 'all those that shall he baptized' — the justus 1549 text "
+     "reads \"shall he baptized\"; an OCR/print slip for \"shall be baptized\"; "
+     "left as-sourced pending a 1549 scan -->"),
+
     ("1637/front-matter/of-ceremonies.md",
      "OF such Ceremonies as be used in the Church, and have had their Beginning",
      "<!-- VERIFY: 'OF such Ceremonies as be used in the Church, and have had "

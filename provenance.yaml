@@ -852,11 +852,14 @@ records:
     status: transcribed
     depth: tier-1
     verifier: bcp-authoring
-    note: "First Edwardian Private Baptism ('Of them that be baptized in private houses in time of necessity'). Keeps the White Vesture step and a separate Creed step; ends with the conditional 'If thou be not baptized already' form. (The 1549 font-hallowing 'Blessing of the Font' prayers printed after this office are deferred to a later occasional-offices pass.)"
+    note: "First Edwardian Private Baptism ('Of them that be baptized in private houses in time of necessity'). Keeps the White Vesture step and a separate Creed step; ends with the conditional 'If thou be not baptized already' form. The 1549 font-hallowing 'Blessing of the Font' prayers printed after this office (a monthly hallowing of the font water, dropped by the 1552 book) are appended here under '## The Blessing of the Font' — present at 1549 only, a clean deletion at v1552. From the same justus 1549 baptism page."
     verify_items:
       - anchor: The Private Baptism
         source_reading: "he*"
         note: "source prints 'he*' with a footnote '* they in some printings'; 'he' kept as the primary reading; confirm against a page scan"
+      - anchor: The Blessing of the Font
+        source_reading: "all those that shall he baptized"
+        note: "the justus 1549 text reads 'shall he baptized'; an OCR/print slip for 'shall be baptized'; left as-sourced pending a 1549 scan"
 
   - edition: 1552
     service: occasional-offices/private-baptism

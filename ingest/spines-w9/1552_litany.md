@@ -1,0 +1,253 @@
+HERE FOLOWETH THE
+
+LETANY
+
+TO BE USED
+
+UPON SUNDAYES, WEDNESDAYES, AND
+
+FRIDAYES,
+
+AND AT OTHER TIMES, WHEN IT SHALBE COMMANDED BY THE ORDENARY.
+
+O GOD the father of heaven : have mercye upon us miserable synners.
+
+> O God the father of heaven : have mercie upon us miserable synners.
+
+O God the sonne, redemer of the world : have mercye upon us miserable synners.
+
+> O God the sonne, redemer of the world : have mercy upon us miserable synners.
+
+O God the holy Ghost, proceding from the father and the sonne : have mercye upon us miserable synners.
+
+> O God the holy ghost, proceding from the father and the sonne : have mercye upon us miserable synners.
+
+O holy, blessed and glorious Trinitie, three persones and one God : have mercy upon us miserable synners.
+
+> O holy, blessed, and glorious Trinitie, three persons and one God : have mercie upon us miserable synners.
+
+Remember not, Lorde, our offences, nor the offences of oure forefathers, neyther take thou vengeaunce of our sinnes spare us, good lord, spare thy people, whom thou hast redemed with thy most precious bloud, and be not angry with us for ever.
+
+> Spare us, good Lorde.
+
+From all evill and myschiefe, from synne, from the craftes and assaultes of the devill, from thy wrath, and from everlasting damnacion.
+
+> Good Lorde, deliver us.
+
+From all blyndnes of heart, from pryde, vaynglorye, and hipocricie, from envy, hatred, and malice, and all uncharitableness.
+
+> Good Lorde, deliver us.
+
+From fornicacion, and al other deadly synne, and from all the disceites of the world, the fleshe, and the devill.
+
+> Good Lorde, deliver us.
+
+From lightninges and tempestes, from plage, pestilence, and famine, from battayle and murther, and from sodayne death.
+
+> Good Lorde, deliver us.
+
+From all sedicion and prievie conspiracie, from the tyranny of the Bysshop of Rome and al hys detestable enormities, from all false doctrine and heresy, from hardnesse of hearte, and contempte of thy woorde and commaundemente.
+
+> Good Lorde, deliver us.
+
+By the mistery of thy holy incarnacion, by thy holy Nativitie and Circumcision, by thy baptisme, fastyng, and temptacion.
+
+> Good Lorde, deliver us.
+
+By thyne agonye and bloudy sweate, by thy crosse and passion, by thy precious death and buriall, by thy gloryous resurrecyon and ascensyon, and by the cumming of the holy gost.
+
+> Good Lorde, deliver us.
+
+In all tyme of our tribulacion, in all time of our wealth, in the houre of death, and in the daye of judgemente.
+
+> Good Lorde, deliver us.
+
+We sinners doe beseche thee to heare us (O lord god) and that it maye please thee to rule and governe thy holy churche universally in the ryght way.
+
+> We beseche thee to heare us, good Lorde.
+
+That it maye please thee to kepe Edward the sixth, thy servaunt, our King and governour.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to rule his hearte in thy faith, feare, and love, that he maye alwayes have affiaunce [=trust] in thee, and ever seke thy honour and glory.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to bee his defendoure and keper, geving him the victory over all hys enemies.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to illuminate al Bisshops, Pastours, and ministers of the Churche with true knowledge and understanding of thy worde, and that both by theyr preaching and living they maye sette it furth, and shewe it accordyngly.
+
+> We beseche thee to heare us, good Lorde.
+
+That it maye please thee to endue the Lordes of the counsayle, and all the nobilitie, with grace, wysedome, and understanding.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to blesse and kepe the Magistrates, geving them grace to execute justice, and to mainteine truth.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to bless and kepe all thy people.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to geve to al nacions unitie, peace, and concorde.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to geve us an hearte to love and dreade [=revere] thee, and diligently to lyve after thy commaundementes.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to geve all thy people encrease of grace, to here mekely thy worde, and to receive it with pure affeccion, and to bryng furth the fruites of the Spirite.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to bryng into the way of trueth all suche as have erred and are deceived.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to strengthen suche as doe stand, and to comfort and helpe the weake harted, and to raise them up that fall, and finally to beate down Satan under our fete.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to succoure, helpe, and comforte al that be in daunger, necessitie, and tribulacion.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to preserve all that travaile by lande or by water, al women labouringe of chyld, al sycke persons, and yong chyldren, and to shewe thy pietie upon al prysoners and captives.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to defende and provide for the fatherles chyldren and wyddowes, and all that be desolate and oppressed.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to have mercie upon al men.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to forgeve our enemyes, persecutours and slaunderers, and to turne their heartes.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to geve and preserve to our use the kyndly fruites of the yearth, so as in due tyme we may enjoie them.
+
+> We beseche thee to heare us, good Lorde.
+
+That it may please thee to geve us true repentaunce, to forgeve us all our synnes, neglygences, and ignoraunces, and to endue us with the grace of thy holy spirite to amende oure lyves accordynge to thy holy worde.
+
+> We beseche thee to heare us, good Lorde.
+
+Sonne of God: we beseche thee to heare us.
+
+> Sonne of God: we beseche thee to heare us.
+
+O lambe of god, that takest away the synnes of the worlde.
+
+> Graunt us thy peace.
+
+O Lambe of god, that takest away the synnes of the worlde.
+
+> Have mercie upon us.
+
+O Christe heare us.
+
+> O Christe heare us.
+
+Lorde, have mercy upon us.
+
+> Lorde, have mercy upon us.
+
+Christ, have mercy upon us.
+
+> Christ, have mercy upon us.
+
+Lorde, have mercy upon us.
+
+> Lorde, have mercy upon us.
+
+Our Father, which art in heaven, &c.
+
+> And lead us not into temptacion.
+
+But deliver us from evill.
+
+> The versicle.
+
+O lord, deale not with us after our sinnes.
+
+> The answere.
+
+Neither reward us after our iniquities.
+
+Let us pray.
+
+O GOD merciful father, that despisest not the sighing of a contrite hearte, nor the desyre of such as be sorowful, mercifully assist our prayers, that we make before thee in al our troubles and adversities, whensoever they oppresse us: And graciouslye beare us, that those evils, whiche the craft and subtiltie of the devil or man worketh againste us, be brought to naught, and by the providence of thy goodnes they may be dispersed, that we thy servaunts, beeing hurte by no persecucions, maye evermore geve thankes unto thee, in thy holy Churche: through Jesu Chryste our Lorde.
+
+> O Lord, aryse, help us, and deliver us for thy names sake.
+
+O god, we have heard with our cares, and our fathers have declared unto us, the noble woorks that thou didst in theyr dayes, and in the olde tyme before them.
+
+> O Lord, aryse, helpe us, and deliver us for thyne honor.
+
+Glory be to the father, and to the sonne, and to the holy gost: as it was in the beginning, is nowe, and ever shalbe: worlde wythout ende. Amen.
+
+From our enemyes defende us, O Christe.
+
+> Graciously loke upon our affliccions.
+
+Pitifully beholde the sorowes of our heart.
+
+> Mercifully forgeve the synnes of thy people.
+
+Favourably with mercy heare our prayers.
+
+> O sonne of David have mercy upon us.
+
+Both nowe and ever vouchesafe to heare us, O Christ.
+
+> Graciousely heare us, O Christe, graciously hear us, O Lorde Christe.
+
+> The Versicle.
+
+O Lorde, let thy mercy be shewed upon us.
+
+> The Aunswere.
+
+As we do put our trust in thee.
+
+Let us praye.
+
+We humbly beseche thee, O father, mercifully to loke upon our infirmities, and for the glory of thy names sake turne from us all those evills that we most righteously have deserved; and graunte that in all our troubles we may put our whole trust and confidence in thy mercye and evermore serve thee in holynesse and purenesse of lyvinge, to thy honour and glory: through our only mediatour and advocate Jesus Christ our lord. Amen.
+
+> For rayne yf the tyme require.
+
+O GOD, heavenly Father, which by thy sonne Jesu Christ haste promised to all them that seke thy kingdom and the righteousnes therof, all thyngs necessarie to their bodily sustenance: sende us, we beseche thee, in this our necessitie, such moderate raine and showers, that we may receive the fruites of the yearth to oure comforte and to thy honoure: throughe Jesus Christ our Lorde. Amen.
+
+> For faire weather.
+
+O LORD god, which for the sinne of man didst once drown all the world, excepte eighte persons, and afterward of thye greate mercy didst promise never to destroie it so again: we humbly beseche thee, that although we for our iniquities have worthely deserved this plague of rayne and waters, yet upon our true repentaunce thou wilt send us such weather whereby we may receive the fruites of the earth in due season, and learne bothe by thy punishment to amende our lives, and for thy clemency to geve thee prayse and glory: through Jesus Christ our Lord. Amen.
+
+> In the tyme of dearth and famine.
+
+O GOD heavenly father, whose gift it is that the raine doeth fall, the yearth is fruitfull, beastes increase, and fishes doe multiplye: beholde, we beseche thee, the affliccions of thy people, and graunte that the scarcitie and dearth (which we doe now most justly suffer for our iniquitie) may throughe thy goodness be mercifully turned into cheapnes and plentie, for the love of Jesu Christ our lorde, to whom wyth thee and the holy gost, &c.
+
+> Or thus.
+
+O GOD merciful father, which, in the tyme of Heliseus [Elisha] the Prophete, didst suddynly turne in Samaria great scarcitie and dearth into plentie and cheapnes, and extreme famine into abundance of vyctuall: Have pietie upon us, that nowe bee punished for oure sinnes with like adversitie, encrease the fruites of the yearth by thy heavenly benediccion: And grant, that we recevyng thy bountyful lyberalytye, maye use the same to thy glorye, oure comforte, and reliefe of our nedy neyghbours: through Jesu Christ our lord. Amen.
+
+> In the tyme of Warre.
+
+O ALMIGHTIE God, kyng of al kinges, and governour of all thyngs, whose power no creature is able to resiste, to whom it belongeth justly to punisbe sinners, and to be merciful to them that truly repent: save and deliver us (we humbly beseche thee) from the handes of our enemies: abate their pride, assuage their malice, and confound their devises, that we beeing armed with thy defence, may be preserved evermore from al periles to glorifie thee, whiche art the onely gever of all victory, through the merites of thy only sonne Jesu Christ our Lord.
+
+> In the tyme of any common plague or sickness.
+
+O ALMIGHTY god, which in thy wrath, in the time of king David, did slea with the plague of pestilence lx and ten thousande, and yet remembryng thy mercye dyddest save the rest: have pietie upon us miserable synners, that nowe are visited with great sickenes and mortalitie, that like as thou diddest then command thy angel to ceasse from punishing : So it maye now please thee to withdrawe from us thys plague and grevous sickenesse, throughe Jesu Chryste oure Lorde.
+
+> And the Letany shall ever ende with thys Collecte folowyng:
+
+ALMIGHTIE god, which hast geven us grace at this time with one accorde to make oure common supplicacions unto thee, and doest promyse that when two or three be gathered in thy name, thou wilt graunte their requestes: fulfil now, O Lorde, the desires and peticions of thy servaunts, as may be most expediente for them, grauntynge us in thys worlde knowledge of thy trueth, and in the worlde to come life everlastyng. Amen.

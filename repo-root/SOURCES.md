@@ -176,6 +176,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1604 Private Baptism (The Vows) | `ponce Pilate` | source prints 'ponce Pilate'; likely 'Poncius'/'Pontius Pilate'; kept as printed; confirm against a page scan |
 | 1604 Private Baptism (The Vows) | `wet doune` | source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan |
 | 1637 Public Baptism (The Flood Prayer) | `Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.` | source prints 'Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.' as a bracketed clause marked with an asterisk keyed to the following font-water rubric; the enclosing brackets are source (not editorial) and were kept, the asterisk dropped; confirm against a page scan |
+| 1549 Private Baptism (The Blessing of the Font) | `all those that shall he baptized` | the justus 1549 text reads 'shall he baptized'; an OCR/print slip for 'shall be baptized'; left as-sourced pending a 1549 scan |
 | 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan |
 | 1789 Baptism of Riper Years (The Flood Prayer) | `his family m the ark` | source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan |
 | 1789 Baptism of Riper Years (The Rubrics) | `he may he admitted` | source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan |
@@ -340,8 +341,10 @@ carries no sovereign's name) and inherits the 1559 file; the flagged 1604 change
 fall in **Private Baptism** (the Hampton Court restriction to a lawful minister,
 an expanded doubt-rubric and examination) and in **Confirmation** (`bothe`
 removed; `prayer`→`prayers`). The 1549 "Blessing of the Font" prayers (printed
-after the private-baptism office) and the Catechism bodies bundled on the
-1549/1559/1928 Confirmation pages are deferred to later waves.
+after the private-baptism office) are now transcribed — appended to the 1549
+Private Baptism file under `## The Blessing of the Font`, present at 1549 only (a
+clean deletion at v1552). The Catechism bodies once bundled on the 1549/1559/1928
+Confirmation pages were transcribed in the Catechism wave.
 
 
 ## Occasional offices — pastoral offices (Wave 6)

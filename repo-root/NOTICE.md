@@ -94,10 +94,11 @@ The published branches and tags are build artifacts, regenerated from the
   Court restriction of private baptism to a lawful minister; the 1549→1552
   Confirmation change (the signing with the cross gives way to the "Defend, O Lord"
   imposition of hands). The 1979 offices were reflowed mechanically from the
-  public-domain ASCII e-text (source → script → file). The 1549 "Blessing of the
-  Font" prayers (an appendix printed after private baptism) are deferred to a later
-  occasional-offices pass, as are the bundled Catechism bodies on the 1549/1559/1928
-  Confirmation pages (the Catechism is its own wave).
+  public-domain ASCII e-text (source → script → file). (The 1549 "Blessing of the
+  Font" prayers — the monthly font-hallowing printed after private baptism — were
+  since transcribed, appended to the 1549 Private Baptism file under `## The
+  Blessing of the Font`; present at 1549 only, dropped in 1552. See the Wave-9
+  rebuild entry below.)
 - **2026-08-13** — Wave 6: the pastoral occasional offices added at full Tier-1.
   Five services under `occasional-offices/` — Matrimony, the Visitation of the Sick
   (with the Communion of the Sick), the Burial of the Dead, the Churching of Women,
