@@ -38,10 +38,16 @@ def build(spine_path, out_path, cfg):
         blocks.append(cur)
 
     labels = cfg.get("labels", [])
-    label_re = re.compile(r"^(?:>\s*)?(%s)\.\s*(.*)$" % "|".join(re.escape(l) for l in labels)) if labels else None
+    label_re = re.compile(r"^(%s)\.\s*(.*)$" % "|".join(re.escape(l) for l in labels)) if labels else None
     fixes = cfg.get("fixes", {})
     rubrics = cfg.get("rubrics", [])
+    drop_blocks = cfg.get("drop_blocks", [])
     pending = list(cfg.get("anchors", []))
+
+    def destrip(s):
+        # the spines' leading "> " markers are unreliable artifacts (hymn indents,
+        # etc.); drop them and re-derive rubrics by trigger below.
+        return re.sub(r"^>\s*", "", s.strip())
 
     def fixup(s):
         for a, b in fixes.items():
@@ -50,8 +56,10 @@ def build(spine_path, out_path, cfg):
 
     out = [cfg["title"], ""]
     for blk in blocks:
-        head = blk[0].strip()
-        if cfg.get("drop_hashes") and head.startswith("#"):
+        head = destrip(blk[0])
+        if cfg.get("drop_hashes") and blk[0].strip().startswith("#"):
+            continue
+        if any(head.startswith(t) for t in drop_blocks):
             continue
         for i, (name, trig) in enumerate(pending):
             if head.startswith(trig):
@@ -60,9 +68,9 @@ def build(spine_path, out_path, cfg):
                 break
         is_rubric = any(head.startswith(t) for t in rubrics)
         for ln in blk:
-            s = ln.strip()
+            s = destrip(ln)
             if is_rubric:
-                out.append("> " + fixup(re.sub(r"^>\s*", "", s)))
+                out.append("> " + fixup(s))
                 continue
             if label_re:
                 m = label_re.match(s)
