@@ -48,7 +48,7 @@ JESUS came and spake unto them, saying, All power is given unto me in heaven and
 
 ## The Presentation
 
-> After the Gospel and the Sermon are ended, the Elected Bishop, vested with his Rochet, shall be presented by two Bishops of this Church unto the Presiding Bishop, or to the Bishop appointed, sitting in his chair, near the Holy Table; the Bishops who present him saying,
+> Then shall follow the Nicene Creed, and after that the Sermon; which being ended, the Elected Bishop, vested with his Rochet, shall be presented by two Bishops of this Church unto the Presiding Bishop, or to the Bishop appointed, sitting in his chair, near the Holy Table; the Bishops who present him saying,
 
 REVEREND Father in God, we present unto you this godly and well learned man, to be Ordained and Consecrated Bishop.
 
@@ -66,7 +66,7 @@ IN the Name of God, Amen. I, N., chosen Bishop of the Protestant Episcopal Churc
 
 BRETHREN, it is written in the Gospel of Saint Luke, That our Saviour Christ continued the whole night in prayer before he chose and sent forth his twelve Apostles. It is written also, that the holy Apostles prayed before they ordained Matthias to be of the number of the Twelve. Let us therefore, following the example of our Saviour Christ, and his Apostles, offer up our prayers to Almighty God, before we admit and send forth this person presented unto us, to the work whereunto we trust the Holy Ghost hath called him.
 
-> And then shall be said the Litany; save only, that after this place, That it may please thee to illuminate all Bishops, &c., the proper Suffrage shall be,
+> And then shall be said the Litany; save only, that after this place, That it may please thee to illuminate all Bishops, etc., the proper Suffrage shall be,
 
 THAT it may please thee to bless this our Brother elected, and to send thy grace upon him, that he may duly execute the Office whereunto he is called, to the edifying of thy Church, and to the honour, praise, and glory of thy Name;
 
@@ -136,172 +136,8 @@ ALMIGHTY God, our heavenly Father, who hath given you a good will to do all thes
 
 > Then shall the Bishop elect put on the rest of the Episcopal habit; and, kneeling down, Veni, Creator Spiritus shall be sung or said over him, the Presiding Bishop beginning, and the Bishops, with others that are present, answering by verses, as followeth.
 
-COME Holy Ghost, our souls inspire,
-
-And lighten with celestial fire.
-
-Thou the anointing Spirit art,
-
-Who dost Thy sevenfold gifts impart.
-
-Thy blessed Unction from above,
-
-Is comfort, life, and fire of love.
-
-Enable with perpetual light
-
-The dullness of our blinded sight.
-
-Anoint and cheer our soiled face
-
-With the abundance of Thy grace.
-
-Keep far our foes, give peace at home;
-
-Where Thou art guide, no ill can come.
-
-Teach us to know the Father, Son,
-
-And Thee, of both, to be but one.
-
-That, through the ages all along,
-
-This may be our endless song;
-
-Praise to Thy eternal merit,
-
-Father, Son, and Holy Spirit.
-
-> Or this.
-
-COME, Holy Ghost, eternal God,
-
-Proceeding from above,
-
-Both from the Father and the Son,
-
-The God of peace and love;
-
-Visit our minds, into our hearts
-
-Thy heavenly grace inspire;
-
-That truth and godliness we may
-
-Pursue with full desire.
-
-Thou art the very Comforter
-
-In grief and all distress;
-
-The heavenly gift of God most High;
-
-No tongue can it express.
-
-The fountain and the living spring
-
-Of joy celestial,
-
-The fire so bright, the love so sweet,
-
-The Unction spiritual.
-
-Thou in Thy gifts art manifold,
-
-By them Christ's Church doth stand:
-
-In faithful hearts Thou writ'st Thy law,
-
-The finger of God's hand.
-
-According to Thy promise, Lord,
-
-Thou givest speech with grace;
-
-That, through Thy help, God's praises may
-
-Resound in every place.
-
-O Holy Ghost, into our minds
-
-Send down Thy heavenly light;
-
-Kindle our hearts with fervent zeal,
-
-To serve God day and night.
-
-Our weakness strengthen and confirm,
-
-(For, Lord, Thou know'st us frail;)
-
-That neither devil, world, nor
-<!-- VERIFY: 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan -->
-
-Against us may prevail.
-
-Put back our enemy far from us,
-
-And help us to obtain
-
-Peace in our hearts with God and Man,
-
-(The best, the truest gain;)
-
-And grant that Thou being; O Lord,
-
-Our leader and our guide,
-
-We may escape the snares of sin,
-
-And never from Thee slide.
-
-Such measures of Thy powerful grace
-
-Grant, Lord, to us, we pray;
-
-That Thou may'st be our comforter
-
-At the last dreadful day.
-
-Of strife and of dissension
-
-Dissolve, O Lord, the bands,
-
-And knit the knots of peace and love
-
-Throughout all Christian land.
-
-Grant us the grace that we may know
-
-The Father of all might,
-
-That we of His beloved Son
-
-May gain the blissful sight;
-
-And that we may with perfect faith
-
-Ever acknowledge Thee,
-
-The Spirit of Father, and of Son,
-
-One God in Person Three.
-
-To God the Father laud and praise,
-
-And to His blessed Son,
-
-And to the Holy Spirit of grace,
-
-Co-equal Three in One.
-
-And pray we, that our only Lord
-
-Would please his Spirit to send
-
-On all that shall profess His Name,
-
-From hence to the world's end. Amen.
+> Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.
+<!-- VERIFY: 'Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.'; the justus 1789 apparatus notes only that in 1892 the printed hymn is replaced by this cross-reference; confirm the exact 1892 rubric wording against a 1892 page scan -->
 
 ## The Consecration
 
