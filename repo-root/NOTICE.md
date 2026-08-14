@@ -145,6 +145,32 @@ The published branches and tags are build artifacts, regenerated from the
   reflowed mechanically from the public-domain ASCII e-text `bcpprayr.txt` (source →
   script → file). A few OCR/e-text readings are kept verbatim and flagged inline
   (`<!-- VERIFY -->`) — see `SOURCES.md`.
+- **2026-08-13** — Wave 8: the Ordinal added at Tier-1, under `ordinal/` as four
+  services — `preface`, `ordering-deacons`, `ordering-priests`, and
+  `consecration-bishops`. It runs across the nine editions that carry it (English
+  1549/1552/1559/1604/1662, American 1789/1892/1928/1979). **Placement decision (the
+  1549 nuance):** the Ordinal was published *separately* as the **1550 Ordinal** and
+  was bound into the Prayer Book only from 1552; the 1549 book proper contained no
+  Ordinal. It is represented here at the **v1549 node**, sourced from the standalone
+  1550 Ordinal (justus files it under `/1549/` as the synoptic "Ordinal from the
+  1549, 1552 and 1559 Books of Common Prayer", title-page 1550). This preserves the
+  1550→1552 revision as a `git diff v1549 v1552` and keeps the 1550 witness; the
+  alternative (first representing it at 1552) would discard it. **Scottish line:** the
+  Ordinal is **absent** from the whole Scottish line — the 1637 book (Laud's Liturgy)
+  contained no Ordinal, and 1764/1929 are Communion-only; all four services are
+  `absent:` at 1637 and inherited-absent thereafter. The English 1549/1552/1559 texts
+  were hand-authored from the justus synoptic pages (a three-way apparatus: 1550 base
+  + "added 1552/1559" inserts + labelled 1552/1559 branches); 1604 was derived from
+  1559 (sovereign name and oath only); 1662 came from the Church of England website;
+  the American 1789/1928 from justus and 1892 by derivation from 1789; and 1979 by
+  transform script from the public-domain ASCII e-text `bcpepscl.txt` (source →
+  script → file). Flagships: the **delivery of instruments (porrection) removed in
+  1552** (`git diff v1549 v1552 -- texts/normalized/ordinal/ordering-priests.md`), the
+  **anti-papal clause and King's-Supremacy oath dropped in 1559**, the **explicit
+  order-naming added to the forms in 1662** (`git diff v1604 v1662`), and the
+  **American Promise of Conformity replacing the oath in 1789** (`git diff v1662
+  v1789 -- texts/normalized/ordinal/consecration-bishops.md`). A handful of OCR/print
+  readings are kept verbatim and flagged inline (`<!-- VERIFY -->`) — see `SOURCES.md`.
 
 ## A note on transcription
 

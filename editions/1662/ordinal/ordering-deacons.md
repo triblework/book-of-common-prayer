@@ -74,7 +74,8 @@ We sinners do beseech thee to hear us, O Lord God: and that it may please thee t
 
 We beseech thee to hear us, good Lord.
 
-That it may please thee to keep and strengthen in the true worshipping of thee, in righteousness and holiness of life, thy Servant CHARLES, our most gracious King and Governor, <!-- VERIFY names: source prints the reigning monarch/current Royal Family; the 1662 book named the then-sovereign; reign-dependent; reconcile against a dated 1662 page scan -->
+That it may please thee to keep and strengthen in the true worshipping of thee, in righteousness and holiness of life, thy Servant CHARLES, our most gracious King and Governor,
+<!-- VERIFY: 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan -->
 
 We beseech thee to hear us, good Lord.
 
@@ -86,7 +87,8 @@ That it may please thee to be his defender and keeper, giving him the victory ov
 
 We beseech thee to hear us, good Lord.
 
-That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family, <!-- VERIFY names: source prints the reigning monarch/current Royal Family; the 1662 book named the then-sovereign; reign-dependent; reconcile against a dated 1662 page scan -->
+That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan -->
 
 We beseech thee to hear us, good Lord.
 

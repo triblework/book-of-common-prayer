@@ -285,6 +285,22 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1604 Catechism | `in hyrn` | source prints 'in hyrn'; OCR 'rn' for 'm' → 'hym'; rendered 'hym'; confirm against a page scan |
 | 1604 Catechism | `In the name the Name of the Father, and of Sonne` | source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan |
 | 1637 Catechism | `In the name the Name of the Father, and of Sonne` | source prints 'In the name the Name of the Father, and of Sonne'; apparent dittography of 'name/Name' and a dropped 'the' before 'Sonne'; kept as printed; confirm against a page scan |
+| 1559 Ordering of Deacons | `Elizabeth` | 'Elizabeth'; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note 'changed appropriately for Queen Elizabeth, King James & King Charles'; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan |
+| 1604 Ordering of Deacons | `James` | 'James'; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note 'changed appropriately for … King James'; confirm against a 1604 page scan |
+| 1604 Ordering of Deacons | `Kings` | 'Kings'; the 1604 King's-Sovereignty oath is derived from the 1559 Queen's oath per the justus note 'Kings supremacie in 1604' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan |
+| 1662 Ordering of Deacons | `CHARLES` | 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan |
+| 1662 Ordering of Deacons | `Queen Camilla, William Prince of Wales, the Princess of Wales` | 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan |
+| 1549 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
+| 1552 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
+| 1789 Ordering of Priests | `for that and ability` | 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan |
+| 1789 Ordering of Priests | `as much as in lieth` | 'as much as in lieth'; likely 'as much as in you lieth' (word 'you' dropped in OCR); kept as printed; confirm against a 1789 page scan |
+| 1789 Ordering of Priests | `That neither devil, world, nor` | 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan |
+| 1892 Ordering of Priests | `for that and ability` | 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan |
+| 1892 Ordering of Priests | `as much as in lieth` | 'as much as in lieth'; likely 'as much as in you lieth' (word 'you' dropped in OCR); kept as printed; confirm against a 1789 page scan |
+| 1892 Ordering of Priests | `That neither devil, world, nor` | 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan |
+| 1604 Consecration of Bishops | `Kings` | 'Kings'; there is no 1604 justus Ordinal page; the King's Mandate/Sovereignty is derived from the 1559 Queen's readings per the synoptic 'Kings supremacie in 1604' note; confirm against a 1604 page scan |
+| 1789 Consecration of Bishops | `That neither devil, world, nor` | 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan |
+| 1892 Consecration of Bishops | `Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.` | 'Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.'; the justus 1789 apparatus notes only that in 1892 the printed hymn is replaced by this cross-reference; confirm the exact 1892 rubric wording against a 1892 page scan |
 
 ## Occasional offices — Baptism family & Confirmation (Wave 5)
 
@@ -416,3 +432,26 @@ the other 1979 files, keeps its e-text typos verbatim pending a scan check.
 Access note: justus.anglican.org serves its content over plain **HTTP**; its HTTPS
 virtual host currently returns 404 for every path (an old Apache/OpenSSL cert setup),
 so all justus fetches for this wave used `http://` URLs.
+
+## Ordinal (Wave 8)
+
+The Ordinal — the Preface, the Ordering of Deacons, the Ordering of Priests, and the
+Consecration of Bishops — across the nine editions that carry it (English
+1549/1552/1559/1604/1662, American 1789/1892/1928/1979). **Absent from the Scottish
+line:** the 1637 book contained no Ordinal (Laud's Liturgy omitted it), and 1764/1929
+are Communion-only, so all four services are `absent:` at 1637 and inherited-absent
+thereafter. The 1549 node carries the separately-published **1550 Ordinal** (bound into
+the book only from 1552) — see NOTICE.md for that placement decision.
+
+| Edition | Source | Notes |
+|---------|--------|-------|
+| 1549 | justus `1549/{Deacons,Priests,Bishops}_1549.htm` (synoptic) | = the 1550 Ordinal; base readings |
+| 1552 | same synoptic page, 1552 apparatus | delivery of instruments (porrection) removed; vesture stripped |
+| 1559 | same synoptic page, 1559 apparatus | anti-papal Litany clause removed; King's Oath → Queen's Oath |
+| 1604 | derived from 1559 (no justus page) | Deacons/Bishops only: Elizabeth→James, Queen→King in the oaths |
+| 1662 | CoE website (`form-and-manner-making-ordaining` + three sub-pages) | forms gain the order-naming; preface gains the episcopal-succession clause |
+| 1789 | justus `1789/{Deacon,Priests,Bishops}_1789.htm` | King's-Supremacy oath dropped → Promise of Conformity; dual priest form |
+| 1892 | derived from 1789 (`1892/Ordinations_1892.pdf` cross-check) | Nicene-Creed rubric additions; printed hymn → cross-reference |
+| 1928 | justus `1928/Ordinal.htm` | adds the Litany for Ordinations + a second metrical Veni Creator |
+| 1979 | `bcpepscl.txt` via transform | contemporary-language rites (own section headings) |
+

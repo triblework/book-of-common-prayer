@@ -141,10 +141,26 @@ The American line recasts it twice: the 1928 book as the **Offices of Instructio
 (two Offices with prayers and responses), and the 1979 book as **An Outline of the
 Faith** (a contemporary commentary on the creeds in question-and-answer form).
 
-**Coming soon** (in progress): the Collects, and the Ordinal; the Psalter and
-lectionary tables will follow. All twelve tags carry sourced text (the earlier
-1928/1979 sourcing gaps were closed with clean public-domain sources — see
-`SOURCES.md`).
+The **Ordinal** — the Preface and the services for making Deacons, ordering
+Priests, and consecrating Bishops — is transcribed at Tier-1 across the nine
+editions that carry it (English 1549–1662, American 1789–1979). It is absent from
+the Scottish line: the 1637 book contained no Ordinal, and the 1764/1929 line is
+Communion-only. The 1549 node carries the separately-published **1550 Ordinal**
+(bound into the book only from 1552). Its flagships are ceremonial and doctrinal:
+the **1552 book removes the delivery of instruments** (the "porrection" — the
+priest is no longer handed the chalice with bread, and the bishop no longer has the
+Bible laid on his neck and the pastoral staff put in his hand); the **1559 book
+drops the anti-papal Litany clause** and replaces the Oath of the King's Supremacy
+with the Oath of the Queen's Sovereignty; the **1662 book strengthens the forms of
+ordination** with the explicit order-naming ("Receive the Holy Ghost *for the
+office and work of a Priest/Bishop*…") and adds the episcopal-succession clause to
+the Preface; and the **American 1789 book drops the oath entirely**, replacing it
+with a Promise of Conformity to the Protestant Episcopal Church.
+
+**Coming soon** (in progress): the front-matter (Prefaces, Of Ceremonies, the
+Ratification) and the Collects, Epistles & Gospels; the Psalter and lectionary
+tables will follow. All twelve tags carry sourced text (the earlier 1928/1979
+sourcing gaps were closed with clean public-domain sources — see `SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
@@ -181,6 +197,18 @@ git diff v1662 v1789 -- texts/normalized/occasional-offices/commination.md
 # ("How many Sacraments hath Christ ordained…" → Baptism → the Lord's Supper),
 # authorized at the Hampton Court Conference — a clean insert:
 git diff v1559 v1604 -- texts/normalized/occasional-offices/catechism.md
+
+# The Ordinal loses the delivery of instruments in 1552 — the priest is no longer
+# handed "the Chalice or cuppe with the breade", only the Bible:
+git diff v1549 v1552 -- texts/normalized/ordinal/ordering-priests.md
+
+# The 1662 book strengthens the form of ordination with the explicit order-naming
+# ("Receive the Holy Ghost for the office and work of a Priest…"):
+git diff v1604 v1662 -- texts/normalized/ordinal/ordering-priests.md
+
+# The American line drops the Oath of the King's Supremacy and replaces it with the
+# Promise of Conformity to the Protestant Episcopal Church:
+git diff v1662 v1789 -- texts/normalized/ordinal/consecration-bishops.md
 
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/

@@ -2061,3 +2061,448 @@ records:
     verifier: bcp-authoring
     note: "American 1892; the Catechism is identical to 1789 — justus states 'The Catechism text in the 1892 Book is identical and so is not given separately', and this was confirmed against the 1892 Catechism&Confirm PDF (a WordPerfect scan with minor OCR noise but no substantive change). Inherited from 1789 (no separate file)."
     verify_items: []
+
+  # ---- Wave 8: the Ordinal ----
+  - edition: 1549
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1549 node = the separately-published 1550 Ordinal (bound into the book from 1552; the 1549 book proper had no Ordinal — see NOTICE). From the justus synoptic page 'The Ordinal from the 1549, 1552 and 1559 Books of Common Prayer' (1549/*_1549.htm), title-page 1550; the 1550 readings are taken as the base.
+    verify_items: []
+
+  - edition: 1552
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Preface: unchanged from 1549 in this edition — inherited from 1549 (no separate file). English 1552, from the same justus synoptic page''s 1552 apparatus (roman base + ''[…] added 1552'' inserts + ''1552, 59:'' branches). Flagship v1549->v1552: the delivery of instruments (porrection) removed — priests lose ''the Chalice or cuppe with the breade'', bishops lose the pastoral staff and the Bible-on-neck; the plain-Albe / surplice-cope vesture is 1550-only.'
+    verify_items: []
+
+  - edition: 1559
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Preface: unchanged from 1549 in this edition — inherited from 1549 (no separate file). English 1559 (Elizabethan), from the same synoptic page''s ''1559:'' branches. Flagship v1552->v1559: the anti-papal Litany clause (''tyrannye of the Bysshop of Rome'') removed; the Oath of the King''s Supremacy replaced by the Oath of the Queen''s Sovereignty; the sovereign petition recast for Elizabeth.'
+    verify_items: []
+
+  - edition: 1604
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Preface: unchanged from 1549 in this edition — inherited from 1549 (no separate file). English 1604 (Jacobean); no separate justus Ordinal page — DERIVED from 1559 per the synoptic page''s own 1604 apparatus (''Kings supremacie in 1604'' + bracketed [Kings]/[his] readings). Only the Deacons (Litany sovereign petition Elizabeth->James; Queen''s oath->King''s) and Bishops (Queen''s Mandate/Sovereignty->King''s; ''at the last daye'' loses ''daye'') differ; Priests and Preface inherit 1559 unchanged.'
+    verify_items: []
+
+  - edition: 1662
+    service: ordinal/preface
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/form-and-manner-making-ordaining
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within). Site chrome / Crown-CUP acknowledgement stripped. Flagship v1604->v1662: the ordination forms gain the explicit order-naming (''Receive the Holy Ghost FOR THE OFFICE AND WORK OF A Priest/Bishop…''); the Preface gains the anti-Puritan episcopal-succession clause (''…or hath had formerly Episcopal Consecration or Ordination''). The embedded Litany prints the reigning Royal Family (reign-dependent — flagged).'
+    verify_items: []
+
+  - edition: 1789
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/Deacon_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'American 1789, from the justus per-order pages (Deacon/Priests/Bishops_1789.htm; the Ordinal Preface heads the Deacon page). Flagship v1662->v1789: the Oath of the King''s Supremacy is DROPPED and (bishops) replaced by the Promise of Conformity to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church; the priest rite offers BOTH the 1662 form and the older ''Take thou Authority to execute the Office of a Priest'' form. The justus HTML carries scattered OCR noise (flagged inline); dropped justus editorial ''…identical in the 1892 Book…'' apparatus notes.'
+    verify_items: []
+
+  - edition: 1892
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1789/Deacon_1789.htm
+    retrieved: 2026-08-13
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/Ordinations_1892.pdf]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Preface: unchanged from 1789 in this edition — inherited from 1789 (no separate file). American 1892; justus states the Ordinal text ''is essentially identical'' to 1789, ''any differences … indicated'' (1892 PDF Ordinations_1892.pdf as cross-check). Only Priests (the Communion rubric adds ''the Nicene Creed shall be said, and'') and Bishops (the presentation rubric adds the Nicene Creed; ''&c.''->''etc.''; the printed metrical hymn replaced by a cross-reference to the longer paraphrase in the Ordering of Priests) differ; Deacons and Preface inherit 1789.'
+    verify_items: []
+
+  - edition: 1928
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/1928/Ordinal.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1928, from the justus one-page Ordinal (1928/Ordinal.htm; all three orders + preface + the Litany for Ordinations, appended to the Deacons file). Its own printed headings are the anchors; OCR line-break hyphens closed up. Adds the option of the Litany for Ordinations and a second metrical Veni Creator ('True Promise of the Father thou').
+    verify_items: []
+
+  - edition: 1979
+    service: ordinal/preface
+    source_url: http://justus.anglican.org/resources/bcp/bcpepscl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1979 (current); the contemporary-language Ordination rites, from the public-domain ASCII e-text bcpepscl.txt (Episcopal Services) via ingest/transform_1979_ordinal.py (source -> script -> file; text never re-typed). The rite's own headings (The Presentation, The Examination, The Consecration of the Bishop/Priest/Deacon, …) are the anchors; the Litany for Ordinations is appended to the Deacons file. Mechanically reflowed — the e-text carries some OCR artifacts; verify against a page scan before sign-off.
+    verify_items: []
+
+  - edition: 1549
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1549 node = the separately-published 1550 Ordinal (bound into the book from 1552; the 1549 book proper had no Ordinal — see NOTICE). From the justus synoptic page 'The Ordinal from the 1549, 1552 and 1559 Books of Common Prayer' (1549/*_1549.htm), title-page 1550; the 1550 readings are taken as the base.
+    verify_items: []
+
+  - edition: 1552
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'English 1552, from the same justus synoptic page''s 1552 apparatus (roman base + ''[…] added 1552'' inserts + ''1552, 59:'' branches). Flagship v1549->v1552: the delivery of instruments (porrection) removed — priests lose ''the Chalice or cuppe with the breade'', bishops lose the pastoral staff and the Bible-on-neck; the plain-Albe / surplice-cope vesture is 1550-only.'
+    verify_items: []
+
+  - edition: 1559
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'English 1559 (Elizabethan), from the same synoptic page''s ''1559:'' branches. Flagship v1552->v1559: the anti-papal Litany clause (''tyrannye of the Bysshop of Rome'') removed; the Oath of the King''s Supremacy replaced by the Oath of the Queen''s Sovereignty; the sovereign petition recast for Elizabeth.'
+    verify_items:
+      - anchor: The Litany
+        source_reading: Elizabeth
+        note: '''Elizabeth''; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note ''changed appropriately for Queen Elizabeth, King James & King Charles''; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan'
+
+  - edition: 1604
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1549/Deacons_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1604 (Jacobean); no separate justus Ordinal page — DERIVED from 1559 per the synoptic page's own 1604 apparatus ('Kings supremacie in 1604' + bracketed [Kings]/[his] readings). Only the Deacons (Litany sovereign petition Elizabeth->James; Queen's oath->King's) and Bishops (Queen's Mandate/Sovereignty->King's; 'at the last daye' loses 'daye') differ; Priests and Preface inherit 1559 unchanged.
+    verify_items:
+      - anchor: The Litany
+        source_reading: James
+        note: '''James''; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note ''changed appropriately for … King James''; confirm against a 1604 page scan'
+      - anchor: The Oath of the Kings Soveraintie
+        source_reading: Kings
+        note: '''Kings''; the 1604 King''s-Sovereignty oath is derived from the 1559 Queen''s oath per the justus note ''Kings supremacie in 1604'' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan'
+
+  - edition: 1662
+    service: ordinal/ordering-deacons
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/ordaining-and-consecrating-bishops-priests-and-deacons/ordering-deacons
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within). Site chrome / Crown-CUP acknowledgement stripped. Flagship v1604->v1662: the ordination forms gain the explicit order-naming (''Receive the Holy Ghost FOR THE OFFICE AND WORK OF A Priest/Bishop…''); the Preface gains the anti-Puritan episcopal-succession clause (''…or hath had formerly Episcopal Consecration or Ordination''). The embedded Litany prints the reigning Royal Family (reign-dependent — flagged).'
+    verify_items:
+      - anchor: The Litany
+        source_reading: CHARLES
+        note: '''CHARLES''; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan'
+      - anchor: The Litany
+        source_reading: Queen Camilla, William Prince of Wales, the Princess of Wales
+        note: '''Queen Camilla, William Prince of Wales, the Princess of Wales''; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan'
+
+  - edition: 1789
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1789/Deacon_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'American 1789, from the justus per-order pages (Deacon/Priests/Bishops_1789.htm; the Ordinal Preface heads the Deacon page). Flagship v1662->v1789: the Oath of the King''s Supremacy is DROPPED and (bishops) replaced by the Promise of Conformity to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church; the priest rite offers BOTH the 1662 form and the older ''Take thou Authority to execute the Office of a Priest'' form. The justus HTML carries scattered OCR noise (flagged inline); dropped justus editorial ''…identical in the 1892 Book…'' apparatus notes.'
+    verify_items: []
+
+  - edition: 1892
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1789/Deacon_1789.htm
+    retrieved: 2026-08-13
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/Ordinations_1892.pdf]
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Ordering of Deacons: unchanged from 1789 in this edition — inherited from 1789 (no separate file). American 1892; justus states the Ordinal text ''is essentially identical'' to 1789, ''any differences … indicated'' (1892 PDF Ordinations_1892.pdf as cross-check). Only Priests (the Communion rubric adds ''the Nicene Creed shall be said, and'') and Bishops (the presentation rubric adds the Nicene Creed; ''&c.''->''etc.''; the printed metrical hymn replaced by a cross-reference to the longer paraphrase in the Ordering of Priests) differ; Deacons and Preface inherit 1789.'
+    verify_items: []
+
+  - edition: 1928
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/1928/Ordinal.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1928, from the justus one-page Ordinal (1928/Ordinal.htm; all three orders + preface + the Litany for Ordinations, appended to the Deacons file). Its own printed headings are the anchors; OCR line-break hyphens closed up. Adds the option of the Litany for Ordinations and a second metrical Veni Creator ('True Promise of the Father thou').
+    verify_items: []
+
+  - edition: 1979
+    service: ordinal/ordering-deacons
+    source_url: http://justus.anglican.org/resources/bcp/bcpepscl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1979 (current); the contemporary-language Ordination rites, from the public-domain ASCII e-text bcpepscl.txt (Episcopal Services) via ingest/transform_1979_ordinal.py (source -> script -> file; text never re-typed). The rite's own headings (The Presentation, The Examination, The Consecration of the Bishop/Priest/Deacon, …) are the anchors; the Litany for Ordinations is appended to the Deacons file. Mechanically reflowed — the e-text carries some OCR artifacts; verify against a page scan before sign-off.
+    verify_items: []
+
+  - edition: 1549
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1549/Priests_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1549 node = the separately-published 1550 Ordinal (bound into the book from 1552; the 1549 book proper had no Ordinal — see NOTICE). From the justus synoptic page 'The Ordinal from the 1549, 1552 and 1559 Books of Common Prayer' (1549/*_1549.htm), title-page 1550; the 1550 readings are taken as the base.
+    verify_items:
+      - anchor: The Ordering
+        source_reading: where thou shalt be so appointed
+        note: '''where thou shalt be so appointed''; the justus synoptic brackets this tail with a note "Replaced by ''al'' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan'
+
+  - edition: 1552
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1549/Priests_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'English 1552, from the same justus synoptic page''s 1552 apparatus (roman base + ''[…] added 1552'' inserts + ''1552, 59:'' branches). Flagship v1549->v1552: the delivery of instruments (porrection) removed — priests lose ''the Chalice or cuppe with the breade'', bishops lose the pastoral staff and the Bible-on-neck; the plain-Albe / surplice-cope vesture is 1550-only.'
+    verify_items:
+      - anchor: The Ordering
+        source_reading: where thou shalt be so appointed
+        note: '''where thou shalt be so appointed''; the justus synoptic brackets this tail with a note "Replaced by ''al'' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan'
+
+  - edition: 1559
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1549/Priests_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Ordering of Priests: unchanged from 1552 in this edition — inherited from 1552 (no separate file). English 1559 (Elizabethan), from the same synoptic page''s ''1559:'' branches. Flagship v1552->v1559: the anti-papal Litany clause (''tyrannye of the Bysshop of Rome'') removed; the Oath of the King''s Supremacy replaced by the Oath of the Queen''s Sovereignty; the sovereign petition recast for Elizabeth.'
+    verify_items: []
+
+  - edition: 1604
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1549/Priests_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: reviewed-unchanged
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'Ordering of Priests: unchanged from 1552 in this edition — inherited from 1552 (no separate file). English 1604 (Jacobean); no separate justus Ordinal page — DERIVED from 1559 per the synoptic page''s own 1604 apparatus (''Kings supremacie in 1604'' + bracketed [Kings]/[his] readings). Only the Deacons (Litany sovereign petition Elizabeth->James; Queen''s oath->King''s) and Bishops (Queen''s Mandate/Sovereignty->King''s; ''at the last daye'' loses ''daye'') differ; Priests and Preface inherit 1559 unchanged.'
+    verify_items: []
+
+  - edition: 1662
+    service: ordinal/ordering-priests
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/ordaining-and-consecrating-0
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within). Site chrome / Crown-CUP acknowledgement stripped. Flagship v1604->v1662: the ordination forms gain the explicit order-naming (''Receive the Holy Ghost FOR THE OFFICE AND WORK OF A Priest/Bishop…''); the Preface gains the anti-Puritan episcopal-succession clause (''…or hath had formerly Episcopal Consecration or Ordination''). The embedded Litany prints the reigning Royal Family (reign-dependent — flagged).'
+    verify_items: []
+
+  - edition: 1789
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1789/Priests_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'American 1789, from the justus per-order pages (Deacon/Priests/Bishops_1789.htm; the Ordinal Preface heads the Deacon page). Flagship v1662->v1789: the Oath of the King''s Supremacy is DROPPED and (bishops) replaced by the Promise of Conformity to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church; the priest rite offers BOTH the 1662 form and the older ''Take thou Authority to execute the Office of a Priest'' form. The justus HTML carries scattered OCR noise (flagged inline); dropped justus editorial ''…identical in the 1892 Book…'' apparatus notes.'
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: for that and ability
+        note: '''for that and ability''; the 1662 reads ''for that will and ability''; the 1789 justus HTML likely dropped ''will'' in OCR; kept as printed; confirm against a 1789 page scan'
+      - anchor: The Examination
+        source_reading: as much as in lieth
+        note: '''as much as in lieth''; likely ''as much as in you lieth'' (word ''you'' dropped in OCR); kept as printed; confirm against a 1789 page scan'
+      - anchor: Veni, Creator Spiritus
+        source_reading: That neither devil, world, nor
+        note: '''That neither devil, world, nor''; the following metrical line likely began ''flesh,'' (dropped in OCR — cf. 1662 ''nor flesh, against us''); kept as printed; confirm against a 1789 page scan'
+
+  - edition: 1892
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1789/Priests_1789.htm
+    retrieved: 2026-08-13
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/Ordinations_1892.pdf]
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1892; justus states the Ordinal text 'is essentially identical' to 1789, 'any differences … indicated' (1892 PDF Ordinations_1892.pdf as cross-check). Only Priests (the Communion rubric adds 'the Nicene Creed shall be said, and') and Bishops (the presentation rubric adds the Nicene Creed; '&c.'->'etc.'; the printed metrical hymn replaced by a cross-reference to the longer paraphrase in the Ordering of Priests) differ; Deacons and Preface inherit 1789.
+    verify_items:
+      - anchor: The Exhortation
+        source_reading: for that and ability
+        note: '''for that and ability''; the 1662 reads ''for that will and ability''; the 1789 justus HTML likely dropped ''will'' in OCR; kept as printed; confirm against a 1789 page scan'
+      - anchor: The Examination
+        source_reading: as much as in lieth
+        note: '''as much as in lieth''; likely ''as much as in you lieth'' (word ''you'' dropped in OCR); kept as printed; confirm against a 1789 page scan'
+      - anchor: Veni, Creator Spiritus
+        source_reading: That neither devil, world, nor
+        note: '''That neither devil, world, nor''; the following metrical line likely began ''flesh,'' (dropped in OCR — cf. 1662 ''nor flesh, against us''); kept as printed; confirm against a 1789 page scan'
+
+  - edition: 1928
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/1928/Ordinal.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1928, from the justus one-page Ordinal (1928/Ordinal.htm; all three orders + preface + the Litany for Ordinations, appended to the Deacons file). Its own printed headings are the anchors; OCR line-break hyphens closed up. Adds the option of the Litany for Ordinations and a second metrical Veni Creator ('True Promise of the Father thou').
+    verify_items: []
+
+  - edition: 1979
+    service: ordinal/ordering-priests
+    source_url: http://justus.anglican.org/resources/bcp/bcpepscl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1979 (current); the contemporary-language Ordination rites, from the public-domain ASCII e-text bcpepscl.txt (Episcopal Services) via ingest/transform_1979_ordinal.py (source -> script -> file; text never re-typed). The rite's own headings (The Presentation, The Examination, The Consecration of the Bishop/Priest/Deacon, …) are the anchors; the Litany for Ordinations is appended to the Deacons file. Mechanically reflowed — the e-text carries some OCR artifacts; verify against a page scan before sign-off.
+    verify_items: []
+
+  - edition: 1549
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1549/Bishops_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1549 node = the separately-published 1550 Ordinal (bound into the book from 1552; the 1549 book proper had no Ordinal — see NOTICE). From the justus synoptic page 'The Ordinal from the 1549, 1552 and 1559 Books of Common Prayer' (1549/*_1549.htm), title-page 1550; the 1550 readings are taken as the base.
+    verify_items: []
+
+  - edition: 1552
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1549/Bishops_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'English 1552, from the same justus synoptic page''s 1552 apparatus (roman base + ''[…] added 1552'' inserts + ''1552, 59:'' branches). Flagship v1549->v1552: the delivery of instruments (porrection) removed — priests lose ''the Chalice or cuppe with the breade'', bishops lose the pastoral staff and the Bible-on-neck; the plain-Albe / surplice-cope vesture is 1550-only.'
+    verify_items: []
+
+  - edition: 1559
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1549/Bishops_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'English 1559 (Elizabethan), from the same synoptic page''s ''1559:'' branches. Flagship v1552->v1559: the anti-papal Litany clause (''tyrannye of the Bysshop of Rome'') removed; the Oath of the King''s Supremacy replaced by the Oath of the Queen''s Sovereignty; the sovereign petition recast for Elizabeth.'
+    verify_items: []
+
+  - edition: 1604
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1549/Bishops_1549.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: English 1604 (Jacobean); no separate justus Ordinal page — DERIVED from 1559 per the synoptic page's own 1604 apparatus ('Kings supremacie in 1604' + bracketed [Kings]/[his] readings). Only the Deacons (Litany sovereign petition Elizabeth->James; Queen's oath->King's) and Bishops (Queen's Mandate/Sovereignty->King's; 'at the last daye' loses 'daye') differ; Priests and Preface inherit 1559 unchanged.
+    verify_items:
+      - anchor: The Oath of Due Obedience
+        source_reading: Kings
+        note: '''Kings''; there is no 1604 justus Ordinal page; the King''s Mandate/Sovereignty is derived from the 1559 Queen''s readings per the synoptic ''Kings supremacie in 1604'' note; confirm against a 1604 page scan'
+
+  - edition: 1662
+    service: ordinal/consecration-bishops
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/ordaining-and-consecrating-1
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: '1662 Church of England, from the CoE website (PD outside the UK; Crown copyright within). Site chrome / Crown-CUP acknowledgement stripped. Flagship v1604->v1662: the ordination forms gain the explicit order-naming (''Receive the Holy Ghost FOR THE OFFICE AND WORK OF A Priest/Bishop…''); the Preface gains the anti-Puritan episcopal-succession clause (''…or hath had formerly Episcopal Consecration or Ordination''). The embedded Litany prints the reigning Royal Family (reign-dependent — flagged).'
+    verify_items: []
+
+  - edition: 1789
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1789/Bishops_1789.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: 'American 1789, from the justus per-order pages (Deacon/Priests/Bishops_1789.htm; the Ordinal Preface heads the Deacon page). Flagship v1662->v1789: the Oath of the King''s Supremacy is DROPPED and (bishops) replaced by the Promise of Conformity to the Doctrine, Discipline, and Worship of the Protestant Episcopal Church; the priest rite offers BOTH the 1662 form and the older ''Take thou Authority to execute the Office of a Priest'' form. The justus HTML carries scattered OCR noise (flagged inline); dropped justus editorial ''…identical in the 1892 Book…'' apparatus notes.'
+    verify_items:
+      - anchor: Veni, Creator Spiritus
+        source_reading: That neither devil, world, nor
+        note: '''That neither devil, world, nor''; the following metrical line likely began ''flesh,'' (dropped in OCR — cf. 1662 ''nor flesh, against us''); kept as printed; confirm against a 1789 page scan'
+
+  - edition: 1892
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1789/Bishops_1789.htm
+    retrieved: 2026-08-13
+    cross_check: [http://justus.anglican.org/resources/bcp/1892/Ordinations_1892.pdf]
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1892; justus states the Ordinal text 'is essentially identical' to 1789, 'any differences … indicated' (1892 PDF Ordinations_1892.pdf as cross-check). Only Priests (the Communion rubric adds 'the Nicene Creed shall be said, and') and Bishops (the presentation rubric adds the Nicene Creed; '&c.'->'etc.'; the printed metrical hymn replaced by a cross-reference to the longer paraphrase in the Ordering of Priests) differ; Deacons and Preface inherit 1789.
+    verify_items:
+      - anchor: Veni, Creator Spiritus
+        source_reading: Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.
+        note: '''Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.''; the justus 1789 apparatus notes only that in 1892 the printed hymn is replaced by this cross-reference; confirm the exact 1892 rubric wording against a 1892 page scan'
+
+  - edition: 1928
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/1928/Ordinal.htm
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1928, from the justus one-page Ordinal (1928/Ordinal.htm; all three orders + preface + the Litany for Ordinations, appended to the Deacons file). Its own printed headings are the anchors; OCR line-break hyphens closed up. Adds the option of the Litany for Ordinations and a second metrical Veni Creator ('True Promise of the Father thou').
+    verify_items: []
+
+  - edition: 1979
+    service: ordinal/consecration-bishops
+    source_url: http://justus.anglican.org/resources/bcp/bcpepscl.txt
+    retrieved: 2026-08-13
+    cross_check: []
+    status: transcribed
+    depth: tier-1
+    verifier: bcp-authoring
+    note: American 1979 (current); the contemporary-language Ordination rites, from the public-domain ASCII e-text bcpepscl.txt (Episcopal Services) via ingest/transform_1979_ordinal.py (source -> script -> file; text never re-typed). The rite's own headings (The Presentation, The Examination, The Consecration of the Bishop/Priest/Deacon, …) are the anchors; the Litany for Ordinations is appended to the Deacons file. Mechanically reflowed — the e-text carries some OCR artifacts; verify against a page scan before sign-off.
+    verify_items: []
