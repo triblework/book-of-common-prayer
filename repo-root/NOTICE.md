@@ -145,9 +145,10 @@ The published branches and tags are build artifacts, regenerated from the
   reflowed mechanically from the public-domain ASCII e-text `bcpprayr.txt` (source →
   script → file). A few OCR/e-text readings are kept verbatim and flagged inline
   (`<!-- VERIFY -->`) — see `SOURCES.md`.
-- **2026-08-13** — Wave 8: the Ordinal added at Tier-1, under `ordinal/` as four
+- **2026-08-14** — Wave 8: the Ordinal added at Tier-1, under `ordinal/` as four
   services — `preface`, `ordering-deacons`, `ordering-priests`, and
-  `consecration-bishops`. It runs across the nine editions that carry it (English
+  `consecration-bishops`. (Published 2026-08-14; tips main `8675fb8` · scottish
+  `f004784` · american `36b8e6e`.) It runs across the nine editions that carry it (English
   1549/1552/1559/1604/1662, American 1789/1892/1928/1979). **Placement decision (the
   1549 nuance):** the Ordinal was published *separately* as the **1550 Ordinal** and
   was bound into the Prayer Book only from 1552; the 1549 book proper contained no

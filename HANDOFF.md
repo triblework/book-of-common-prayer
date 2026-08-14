@@ -11,10 +11,13 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT STATUS — Wave 8 (the Ordinal) DONE on `authoring`, READY TO PUBLISH
+## CURRENT STATUS — Wave 8 (the Ordinal) DONE + PUBLISHED (2026-08-14)
 
-**Wave 8 = the Ordinal — DONE + build-green + pushed to origin/authoring; NOT YET
-published to the public branches (awaiting user go-ahead on the force-push).** New
+**Wave 8 = the Ordinal — DONE + PUBLISHED (force-pushed to origin 2026-08-14). NEW
+published tips: `main 8675fb8 · scottish f004784 · american 36b8e6e`; all 12 vYYYY
+tags recreated; local==remote verified for all 3 branches + 12 tags; flagship diffs
+render on the published refs; ordinal present at the 9 tags, absent at the 3 Scottish
+tags.** New
 service family `ordinal/` with four files: `preface`, `ordering-deacons`,
 `ordering-priests`, `consecration-bishops`. Present at the nine editions that carry
 it: English 1549/1552/1559/1604/1662, American 1789/1892/1928/1979. **Absent from the
@@ -48,14 +51,15 @@ order-naming `v1604→v1662 …/ordering-priests.md`; the American Promise of Co
 `v1662→v1789 …/consecration-bishops.md`. editions.yaml wired; provenance/SOURCES/README/
 NOTICE updated.
 
-**TO PUBLISH (needs user go-ahead on the force-push):** follow §5 — record `git
-ls-remote` recovery; `build_history.py --publish --live-repo /Users/wtrible/Developer/
-bcp`; in the primary repo `git reset --hard main`; `git push --force-with-lease origin
-main scottish american`; `git push --force origin --tags`; verify local==remote for all
-3 branches + 12 tags and that the flagship diffs render; record the publish in NOTICE +
-the memory note + this HANDOFF. After publishing, next is front-matter (spec §9), then
+**PUBLISHED 2026-08-14** (force-push per §5: recovery recorded; `build_history.py
+--publish --live-repo`; `git reset --hard main`; `push --force-with-lease origin main
+scottish american`; `push --force origin --tags`; local==remote verified for all 3
+branches + 12 tags; flagship diffs render). Next is front-matter (spec §9), then
 Collects/Epistles/Gospels; deferred small items still open: 1549 Blessing of the Font,
-Litany occasional/state prayers.
+Litany occasional/state prayers. NOTE (recurring this session): the authoring worktree
+under the session scratchpad got wiped twice mid-session (a stale prior-session worktree
+re-took the `authoring` branch); content is ALWAYS safe on origin/authoring — just prune
++ re-add the worktree from origin/authoring and continue.
 
 <!-- Superseded: "Wave 7 … PUBLISHED" block kept below for reference -->
 
