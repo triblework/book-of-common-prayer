@@ -173,6 +173,48 @@ The published branches and tags are build artifacts, regenerated from the
   v1789 -- texts/normalized/ordinal/consecration-bishops.md`). A handful of OCR/print
   readings are kept verbatim and flagged inline (`<!-- VERIFY -->`) — see `SOURCES.md`.
 
+- **2026-08-14** — Wave 9: the front-matter added at Tier-1, under `front-matter/`
+  as four pieces — `preface`, `concerning-the-service`, `of-ceremonies`, and
+  `ratification`. Presence differs by piece and by line, and that divergence is the
+  point of the wave.
+  **Slot / identity decisions:** (1) `concerning-the-service` is the 1549 original
+  **Preface** ("There was never any thing by the wit of man…"); it is *titled* "The
+  Preface" through 1604 and **renamed** "Concerning the Service of the Church" in
+  1662. It is kept under one filename across editions so the 1662 rename reads as a
+  heading change rather than a delete-plus-add (`git diff v1604 v1662 --
+  texts/normalized/front-matter/concerning-the-service.md`). (2) `preface` is the
+  **1662 addition** ("It hath been the wisdom of the Church of England…"), absent
+  1549–1604, so `git diff v1604 v1662 -- .../front-matter/preface.md` is a clean
+  insertion; the American line carries its **own** distinct Preface ("It is a most
+  invaluable part of that blessed liberty…", 1789), which replaces the English one at
+  the fork (`git diff v1662 v1789`). (3) The **American line drops** both
+  `concerning-the-service` and `of-ceremonies` at 1789 (clean deletions); the 1979
+  book **re-adds** a modern `concerning-the-service`. (4) `ratification` is **American
+  only** (1789+). (5) The **Scottish 1637** book opens with its **own distinct
+  Preface** ("The Church of Christ hath in all ages had a prescript forme of Common
+  prayer…", naming King James and Charles), which occupies the same opening-preface
+  slot — so `git diff v1604 v1637 -- .../front-matter/concerning-the-service.md`
+  shows the English preface wholly replaced by the Scottish one.
+  **Placement note (Of Ceremonies):** in the **1549** book "Of Ceremonies" was printed
+  at the **end** of the volume; from **1552** it was moved to the **front**. This
+  build models it as one `of-ceremonies` file whose text is essentially unchanged
+  1549→1552 (the move is a book-order change, not a textual one), so the placement
+  shift is recorded here rather than as a diff. 1764/1929 (Communion-only) carry no
+  front-matter.
+  **Out of scope this wave** (recorded, not transcribed): the title pages, Tables of
+  Contents, and Kalendars that share these source pages; the **1559 Act of
+  Uniformity** and the **1637 royal Proclamation** printed before their prefaces; and
+  the 1979 **"Historical Documents of the Church"** (Articles of Religion, etc.),
+  which is back-matter. These are book-structure or tables and belong to later waves.
+  **Sourcing:** English 1549/1552 from the justus front-matter pages; 1559/1604
+  reviewed as unchanged and inherited; 1662 from the Church of England website; the
+  Scottish 1637 from justus (`Scotland/front_matter_1637.htm`); American 1789 from
+  justus (`1789/FrontMatter_1789.htm`), 1892/1928 inherited as the reprinted 1789
+  documents (the 1928 front-matter PDF has a garbled font layer — cross-source
+  stability was relied on), and the 1979 `concerning-the-service` by transform script
+  from the public-domain ASCII e-text `bcpoffce.txt` (source → script → file). A few
+  OCR/print readings are kept verbatim and flagged inline (`<!-- VERIFY -->`).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

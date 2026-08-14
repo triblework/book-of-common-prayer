@@ -157,10 +157,24 @@ office and work of a Priest/Bishop*…") and adds the episcopal-succession claus
 the Preface; and the **American 1789 book drops the oath entirely**, replacing it
 with a Promise of Conformity to the Protestant Episcopal Church.
 
-**Coming soon** (in progress): the front-matter (Prefaces, Of Ceremonies, the
-Ratification) and the Collects, Epistles & Gospels; the Psalter and lectionary
-tables will follow. All twelve tags carry sourced text (the earlier 1928/1979
-sourcing gaps were closed with clean public-domain sources — see `SOURCES.md`).
+The **front-matter** — the prefatory prose printed before the services — is
+transcribed under `front-matter/`, and its presence is itself the history. The
+1549 book's **Preface** ("There was never any thing by the wit of man so well
+devised…") is carried forward and, in 1662, **renamed** *Concerning the Service
+of the Church*; the 1662 book then adds a wholly **new Preface** ("It hath been
+the wisdom of the Church of England…") alongside it. **Of Ceremonies** ("why some
+be abolished and some retained") runs from 1549 — where it stood at the *end* of
+the book — moving to the *front* in 1552. The **Scottish 1637** book opens with
+its own distinct Preface (naming King James and Charles). The **American** line
+rewrites the front-matter entirely: it drops *Concerning the Service* and *Of
+Ceremonies*, writes its own **Preface** ("It is a most invaluable part of that
+blessed liberty…") and adds **The Ratification** of 1789; the 1979 book then
+re-adds a modern *Concerning the Service of the Church*.
+
+**Coming soon** (in progress): the Collects, Epistles & Gospels; the Psalter and
+lectionary tables will follow. All twelve tags carry sourced text (the earlier
+1928/1979 sourcing gaps were closed with clean public-domain sources — see
+`SOURCES.md`).
 
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
@@ -209,6 +223,18 @@ git diff v1604 v1662 -- texts/normalized/ordinal/ordering-priests.md
 # The American line drops the Oath of the King's Supremacy and replaces it with the
 # Promise of Conformity to the Protestant Episcopal Church:
 git diff v1662 v1789 -- texts/normalized/ordinal/consecration-bishops.md
+
+# The 1662 book adds a wholly new Preface ("It hath been the wisdom of the Church
+# of England…") — a clean insertion of a piece that did not exist before:
+git diff v1604 v1662 -- texts/normalized/front-matter/preface.md
+
+# The 1549 Preface is renamed "Concerning the Service of the Church" in 1662
+# (the heading changes; the body is modernised and gains three closing directives):
+git diff v1604 v1662 -- texts/normalized/front-matter/concerning-the-service.md
+
+# The American line rewrites the whole front-matter at once — its own Preface, a new
+# Ratification, and the deletion of Concerning-the-Service and Of Ceremonies:
+git diff v1662 v1789 -- texts/normalized/front-matter/
 
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/
