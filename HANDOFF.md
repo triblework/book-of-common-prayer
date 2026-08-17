@@ -11,6 +11,75 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## NEXT UP — Wave 10 (Collects, Epistles & Gospels) — PLANNED, NOT STARTED
+
+The next wave is the **propers** — one Collect, Epistle and Gospel for every Sunday
+and Holy Day (the 1549/1552 also print an Introit). It is the largest remaining wave.
+**These scoping decisions were made with the maintainer (2026-08-14) and are LOCKED —
+do not re-litigate them; a fuller copy/paste brief exists but these decisions are the
+durable record:**
+
+- **DECISION A — seasonal sub-waves, one publish each, in order:** (10a) Advent →
+  Christmas → Epiphany (incl. Sundays after Epiphany); (10b) Pre-Lent
+  (Septuagesima/Sexagesima/Quinquagesima) → Ash Wednesday → Lent → Holy Week → Easter
+  Even; (10c) Easter Day → Sundays after Easter → Ascension → Whitsunday → Trinity
+  Sunday → Sundays after Trinity; (10d) the Holy Days / Saints' Days (fixed feasts,
+  St. Andrew … All Saints). Keep each sub-wave build-green and publish it (with
+  maintainer go-ahead on the force-push) before starting the next.
+- **DECISION B — reading depth = "full Collect + bare citation".** Transcribe the
+  COLLECT(S) in full (where Prayer-Book revision actually lives), and give the Epistle
+  and Gospel as their appointed CITATION ONLY (e.g. `Romans 13:8-14`) — no body, no
+  incipit/first line. The 1549 Introit is a proper-psalm citation (e.g. `Psalm 24`).
+  Anchors per occasion: `## The Introit` (1549 only) / `## The Collect` /
+  `## The Epistle` / `## The Gospel`. Rationale: the reading bodies are the Bible
+  TRANSLATION (a separate work); the Prayer-Book signal is the collect wording + the
+  appointed pericope, which the citation captures. The classic book prints readings in
+  full — citation-only is a deliberate repo scoping choice; anchors are identical
+  whether they later hold a citation or full text, so a "deepen to full readings" pass
+  throws nothing away.
+- **DECISION C — 1979 comparability is HIGH PRIORITY** (1979 is the book people use
+  today, so make `git diff <historic> v1979` meaningful wherever a genuine
+  correspondence exists). Because the builder aligns files BY PATH, this needs an
+  explicit, version-controlled **crosswalk manifest** (`ingest/WAVE10_1979_CROSSWALK.md`)
+  that DRIVES the 1979 rows in `editions.yaml`. Rules: (1) map by collect LINEAGE, not
+  by calendar number — 1979 renumbers "Sundays after Trinity" as "Sundays after
+  Pentecost / Propers 1–29" and the ordinals do NOT line up (Trinity 4 ≠ Proper 4);
+  key on "is this 1979 collect the lineal descendant of that historic collect?".
+  (2) 1979 continues a collect → SAME slug (override → modernization diff); drops one →
+  `absent:`; adds a genuinely new one → its OWN slug — NEVER force a non-descendant onto
+  a historic slug to manufacture a diff (that fabricates a comparison, which the prime
+  directive forbids); record every map/skip with a one-line rationale. (3) 1979 prints
+  each collect in TRADITIONAL and CONTEMPORARY language — the Traditional set goes at
+  the historic slug and carries the `v1928→v1979` lineage diff; the Contemporary set
+  sits ALONGSIDE as its own anchor (`## The Collect (Contemporary)`), the Rite I / Rite
+  II pattern. (4) 1979 replaced the one-year eucharistic lectionary with the three-year
+  (A/B/C) Revised Common Lectionary — its reading-citations are structurally
+  incommensurable with the historic single citation, so represent them separately (or
+  defer to the lectionary-tables wave, Wave 12), not crammed into the single-citation
+  slot. Keep the slug scheme forward-compatible from 10a so mappings discovered later
+  in 10c/10d don't force renames.
+
+**Sourcing pointers** (confirm against the justus/CoE indexes over HTTP for justus):
+per-occasion files under a new family `collects-epistles-gospels/<slug>.md`. 1549/1552/
+1559 from justus `1549/collects_epistles_gospels_1549.htm` (annotated apparatus; 1552
+DROPS the Introits — a flagship; 1604 derive from 1559); 1662 from the CoE website;
+1637 Scottish from justus `Scotland/Collects{1,2,3}_1637.htm`; 1789 & 1892 from justus
+`1789/collects_epistles_gospels_1789&1892.htm` (shared; 1892 ≈ 1789); 1928 from justus
+`1928/Propers.pdf` (WARNING: the Wave-9 1928 front-matter PDF had a garbled font layer
+under pypdf — check Propers.pdf the same way and fall back to a clean source / Read-tool
+render / derive-from-1892 if garbled); 1979 from the PD e-text `bcpcolct.txt` (Trad +
+Contemporary), via a transform script + the Decision-C crosswalk. Propers are ABSENT
+from the Communion-only Scottish 1764/1929 (confirm 1637 carries them). REUSE the Wave-9
+method assets (`ingest/w9_build.py`, `w9_american.py`, `w9_editions.py`,
+`gen_wave9_provenance.py`, `append_wave9_docs.py`, `hc_clean.py`, `fidelity_check.py`,
+`pdf_spine.py`, `transform_1979_*.py`) — generalize, don't reinvent.
+
+Also still deferred as ITS OWN wave (do NOT fold into Wave 10): the Litany-appended
+**Prayers and Thanksgivings** (occasional prayers + state prayers + thanksgivings) — see
+the Wave-9 block below for why it is wave-sized.
+
+---
+
 ## CURRENT STATUS — Wave 9 (the front-matter) DONE + PUBLISHED (2026-08-14)
 
 **Wave 9 = the front-matter — DONE + PUBLISHED (force-pushed to origin 2026-08-14).
