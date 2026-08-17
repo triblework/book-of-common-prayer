@@ -4,3 +4,7 @@ __pycache__/
 .cache/
 scrape-cache/
 .DS_Store
+
+# Generated viewer data — a build artifact (spec §3.4), produced by
+# tools/build_viewer_data.py. Schemas under viewer/data/schema/ ARE tracked.
+/viewer/data/*.json

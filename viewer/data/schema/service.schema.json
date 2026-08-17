@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://triblework.github.io/book-of-common-prayer/viewer/data/schema/service.schema.json",
+  "title": "BCP Viewer — per-service payload",
+  "description": "One file per service (viewer/data/<service-slug>.json). Emitted by tools/build_viewer_data.py from the published git layer only. Mirrors spec §3.2.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["service", "label", "canonical_anchors", "editions"],
+  "properties": {
+    "service": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Service id, e.g. 'daily-office/morning-prayer'."
+    },
+    "label": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-friendly service name."
+    },
+    "canonical_anchors": {
+      "type": "array",
+      "description": "Union of ## anchors across editions, in first-seen order (spec §3.1).",
+      "items": { "type": "string" }
+    },
+    "feature_editions": {
+      "type": "array",
+      "description": "Optional default columns for this service (tags). Only present when derivable (e.g. via --authoring).",
+      "items": { "$ref": "#/$defs/tag" }
+    },
+    "editions": {
+      "type": "object",
+      "description": "Keyed by tag (never SHA). One entry per edition tag in the corpus.",
+      "minProperties": 1,
+      "propertyNames": { "$ref": "#/$defs/tag" },
+      "additionalProperties": { "$ref": "#/$defs/edition" }
+    }
+  },
+  "$defs": {
+    "tag": {
+      "type": "string",
+      "pattern": "^v[0-9]{3,4}$"
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["year", "line", "branch", "trees"],
+      "properties": {
+        "year": { "type": "integer" },
+        "line": { "enum": ["english", "scottish", "american"] },
+        "branch": { "type": "string" },
+        "trees": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["normalized", "original"],
+          "properties": {
+            "normalized": { "$ref": "#/$defs/tree" },
+            "original": { "$ref": "#/$defs/tree" }
+          }
+        }
+      }
+    },
+    "tree": {
+      "type": "object",
+      "description": "A spelling tree for one edition. Either absent (present:false) or a full parsed service.",
+      "oneOf": [
+        {
+          "additionalProperties": false,
+          "required": ["present"],
+          "properties": { "present": { "const": false } }
+        },
+        {
+          "additionalProperties": false,
+          "required": ["present", "title", "meta", "units"],
+          "properties": {
+            "present": { "const": true },
+            "title": {
+              "type": ["string", "null"],
+              "description": "Office title (# line), or null if the file has none."
+            },
+            "meta": { "$ref": "#/$defs/meta" },
+            "units": {
+              "type": "array",
+              "items": { "$ref": "#/$defs/unit" }
+            }
+          }
+        }
+      ]
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["acknowledgment", "verify"],
+      "properties": {
+        "acknowledgment": {
+          "type": ["string", "null"],
+          "description": "e.g. 'BCP 1662' when required for this edition; null otherwise."
+        },
+        "verify": {
+          "type": "array",
+          "description": "All surfaced <!-- VERIFY: ... --> notes for this tree (spec §13).",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "unit": {
+      "type": "object",
+      "description": "One source line, carrying its governing ## anchor. Serves both reading and compare modes.",
+      "additionalProperties": false,
+      "required": ["anchor", "kind", "text"],
+      "properties": {
+        "anchor": {
+          "type": ["string", "null"],
+          "description": "The governing ## section anchor, or null before the first heading."
+        },
+        "kind": {
+          "enum": ["title", "heading", "rubric", "text", "speech", "note"],
+          "description": "Scripture citations are emitted as 'text' (spec §4.1); the app applies the cite heuristic cosmetically."
+        },
+        "text": { "type": "string" },
+        "speaker": {
+          "type": "string",
+          "description": "Present only when kind == 'speech'."
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 6,
+          "description": "Heading depth: 2 for a `##` section anchor, 3+ for a sub-heading kept under the current `##`. Present only when kind == 'heading'."
+        },
+        "verify": {
+          "type": "array",
+          "description": "VERIFY notes attached to this unit for margin display (spec §4.1/§13).",
+          "items": { "type": "string" }
+        }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "kind": { "const": "speech" } } },
+          "then": { "required": ["speaker"] }
+        }
+      ]
+    }
+  }
+}

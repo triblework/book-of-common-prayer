@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Book of Common Prayer, in Parallel</title>
+<meta name="description" content="A reader's parallel/diff viewer for the version-controlled Book of Common Prayer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="beta-banner" role="note" aria-label="Beta notice">
+  <span class="beta-pill">Beta</span>
+  <span>Work in progress. Both this viewer <b>and the prayer-book texts it shows</b> are still being
+  <b>built and audited</b> — expect gaps, rough edges, and readings that may yet change.</span>
+</div>
+
+<header class="top">
+  <div class="wordmark">The Book of Common Prayer, in&nbsp;<span class="amp">Parallel</span></div>
+  <div class="spacer"></div>
+  <span class="ctl-label">Spelling</span>
+  <div class="seg" id="seg-spelling" role="group" aria-label="Spelling">
+    <button data-v="normalized" role="switch" aria-checked="true">Modern</button>
+    <button data-v="original" role="switch" aria-checked="false">Original</button>
+  </div>
+  <span class="ctl-label" style="margin-left:.6rem">View</span>
+  <div class="seg" id="seg-mode" role="group" aria-label="View mode">
+    <button data-v="reading" role="switch" aria-checked="true">Reading</button>
+    <button data-v="compare" role="switch" aria-checked="false">Compare</button>
+  </div>
+  <button class="icon-btn" id="about-btn" title="About this project" aria-label="About this project">ⓘ</button>
+</header>
+
+<div class="banner" id="ack-banner" hidden>
+  <span>⚖️</span>
+  <div>A <b>1662</b> column is shown. The 1662 Book of Common Prayer is reproduced with the
+  Crown-copyright acknowledgment required in the UK: <b>BCP 1662</b>. See the
+  <a href="#" id="ack-notice-link" target="_blank" rel="noopener">NOTICE</a>.</div>
+  <button class="close" id="ack-close" aria-label="Dismiss">✕</button>
+</div>
+
+<div class="shell">
+  <nav class="rail" aria-label="Service and sections">
+    <h2 id="svc-head">Service</h2>
+    <div class="rail-svc-picker">
+      <select id="svc-picker" class="svc-select" aria-labelledby="svc-head" style="max-width:100%"></select>
+    </div>
+    <div class="rail-mobile-sections">
+      <select id="mobile-sections" aria-label="Jump to section"></select>
+    </div>
+    <h2 class="sections-head">Sections</h2>
+    <ul id="rail-list" role="listbox" aria-label="Sections"></ul>
+  </nav>
+
+  <main class="surface">
+    <div class="context" id="context"></div>
+    <div class="colheads" id="colheads" aria-label="Editions"></div>
+    <div class="legend" id="legend" hidden>
+      <span class="k"><span class="sw" style="background:var(--add-bg)"></span> Added in this edition</span>
+      <span class="k"><span class="sw" style="background:repeating-linear-gradient(135deg,var(--del-bg),var(--del-bg) 4px,#ead7cf 4px,#ead7cf 5px)"></span> Removed (present in base)</span>
+      <span class="k"><ins>changed</ins>&nbsp;<del>words</del> highlighted</span>
+      <span class="opt">
+        <button class="mini on" id="opt-word" role="switch" aria-checked="true" title="Word-level highlighting on modified lines">Word&nbsp;hi-lite</button>
+        <button class="mini on" id="opt-rubrics" role="switch" aria-checked="true" title="Include rubrics in the diff">Rubrics</button>
+      </span>
+    </div>
+    <div id="content"></div>
+  </main>
+</div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+name: viewer
+
+# Independent Pages deploy for the reader's viewer (spec §14). Decoupled from the
+# history-rebuild workflow: it builds only from the published git layer and never
+# waits on build_history.py. Viewer source (app + builder + schemas) lives on the
+# `authoring` branch, which this workflow checks out explicitly; the corpus is read
+# from the v* tags + the three content branches via git.
+on:
+  # NOTE: do not add a `paths:` filter here. GitHub applies `paths` to every ref
+  # in a push trigger, tags included — a new edition tag (which only changes
+  # texts/) would then be filtered out, defeating the primary trigger.
+  push:
+    tags: ["v*"] # a new/updated edition tag -> rebuild the viewer
+    branches: ["authoring"] # viewer source, builder, or schema changes
+  workflow_dispatch:
+  # Optional: track each corpus publish. Enable if a publish workflow exists.
+  # workflow_run:
+  #   workflows: ["publish"]
+  #   types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never cancel an in-flight deploy; let publishes queue.
+concurrency:
+  group: pages-viewer
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout authoring (viewer source + builder + schemas)
+        uses: actions/checkout@v4
+        with:
+          ref: authoring
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Fetch all branches + tags (ancestry needs the content-branch tips)
+        run: git fetch origin '+refs/heads/*:refs/remotes/origin/*' --tags --force
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install jsonschema   # reference validator for the hard gate
+
+      - name: Build viewer data (git-only, §3.1)
+        run: python tools/build_viewer_data.py --out viewer/data
+
+      - name: Determinism gate (byte-stable rebuild)
+        run: python tools/build_viewer_data.py --check
+
+      - name: Schema validation (hard gate, §3.5)
+        run: python tools/validate_viewer_data.py viewer/data viewer/data/schema
+
+      - name: Assemble site
+        run: |
+          rm -rf _site && mkdir -p _site/viewer/data
+          cp authoring/viewer/index.html authoring/viewer/*.css authoring/viewer/*.js _site/
+          cp viewer/data/*.json _site/viewer/data/
+          # Copy the schemas too, so the published data is self-describing.
+          mkdir -p _site/viewer/data/schema
+          cp viewer/data/schema/*.json _site/viewer/data/schema/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

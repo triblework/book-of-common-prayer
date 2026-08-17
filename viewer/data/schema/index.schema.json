@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://triblework.github.io/book-of-common-prayer/viewer/data/schema/index.schema.json",
+  "title": "BCP Viewer — global index",
+  "description": "viewer/data/index.json. Loaded once by the app; lists lines (genealogy), service groups (with observed presence matrix), and the notice block. Mirrors spec §3.3.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["repo", "built", "lines", "service_groups", "notice"],
+  "properties": {
+    "repo": { "type": "string" },
+    "built": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Deterministic build stamp derived from git (newest branch-tip commit date), not wall clock."
+    },
+    "wave_note": {
+      "type": ["string", "null"],
+      "description": "Latest rebuild-log line from NOTICE.md, when derivable."
+    },
+    "lines": {
+      "type": "array",
+      "description": "Genealogy derived from git ancestry: english, then scottish, then american.",
+      "items": { "$ref": "#/$defs/line" }
+    },
+    "service_groups": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/group" }
+    },
+    "notice": { "$ref": "#/$defs/notice" }
+  },
+  "$defs": {
+    "tag": {
+      "type": "string",
+      "pattern": "^v[0-9]{3,4}$"
+    },
+    "line": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "branch", "editions"],
+      "properties": {
+        "id": { "enum": ["english", "scottish", "american"] },
+        "label": { "type": "string" },
+        "branch": { "type": "string" },
+        "editions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/edition" }
+        }
+      }
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tag", "year", "label", "desc"],
+      "properties": {
+        "tag": { "$ref": "#/$defs/tag" },
+        "year": { "type": "integer" },
+        "label": { "type": "string" },
+        "desc": {
+          "type": ["string", "null"],
+          "description": "One-line description from the annotated tag message."
+        },
+        "acknowledgment": {
+          "type": ["string", "null"],
+          "description": "e.g. 'BCP 1662' for editions that carry a required acknowledgment."
+        },
+        "copyright": {
+          "type": ["string", "null"],
+          "description": "Edition-level copyright status from NOTICE.md (spec §13)."
+        },
+        "source_url": {
+          "type": ["string", "null"],
+          "description": "Edition-level source URL from SOURCES.md, or null when derived/absent."
+        },
+        "retrieved": {
+          "type": ["string", "null"],
+          "description": "Retrieval date from SOURCES.md."
+        },
+        "status": {
+          "description": "Transcription status when derivable from SOURCES.md; omitted/null otherwise (spec §13 fallback).",
+          "type": ["string", "null"],
+          "enum": ["transcribed", "reviewed-unchanged", "inherited-unreviewed", null]
+        }
+      }
+    },
+    "group": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "services"],
+      "properties": {
+        "label": { "type": "string" },
+        "services": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/service" }
+        }
+      }
+    },
+    "service": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "file", "present_at"],
+      "properties": {
+        "id": { "type": "string" },
+        "label": { "type": "string" },
+        "file": { "type": "string" },
+        "present_at": {
+          "type": "array",
+          "description": "Observed presence matrix: tags where texts/normalized/<id>.md exists.",
+          "items": { "$ref": "#/$defs/tag" }
+        },
+        "feature_editions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/tag" }
+        }
+      }
+    },
+    "notice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["bcp1662_ack", "notice_url", "sources_url"],
+      "properties": {
+        "bcp1662_ack": { "type": "string" },
+        "notice_url": { "type": ["string", "null"] },
+        "sources_url": { "type": ["string", "null"] }
+      }
+    }
+  }
+}
