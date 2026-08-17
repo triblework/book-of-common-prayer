@@ -48,10 +48,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
+        # The git-only builder runs on the stdlib alone; these are only for the
+        # optional --authoring path (PyYAML) and the schema hard gate (jsonschema).
+        # requirements.txt lives on the content branches, not on `authoring`, so
+        # install explicitly rather than depending on it being in this checkout.
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install jsonschema   # reference validator for the hard gate
+          pip install pyyaml jsonschema
 
       - name: Build viewer data (git-only, §3.1)
         run: python tools/build_viewer_data.py --out viewer/data
