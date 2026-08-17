@@ -1,5 +1,10 @@
 # The Book of Common Prayer, as Git History
 
+**▶ [Read it in the parallel viewer →](https://triblework.github.io/book-of-common-prayer/)** —
+compare editions of the prayer book side by side in your browser, with a
+GitHub-style diff of exactly what changed. No git required. *(Beta: the viewer
+and the texts are still being built and audited.)*
+
 > # 🚧 Work in progress
 > **The full texts of the Book of Common Prayer are actively being transcribed
 > and added edition by edition — more services are coming soon.** The repository
