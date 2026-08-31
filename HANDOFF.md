@@ -11,7 +11,53 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10b (pre-Lent → Easter Even) DONE + PUBLISHED (2026-08-31)
+## CURRENT — Wave 10c (Easter → Trinity) BUILT + BUILD-GREEN, NOT PUBLISHED
+
+**10c is DONE on `authoring` (tip `5a13fa7`) and awaiting go-ahead on the
+force-push.** 39 further occasions; 77 occasions in total across 10a–10c.
+Presence: 68 at v1559, 69 at v1662, 68 at v1637, 70 at v1789/v1892/v1928,
+55 at v1979, 0 at v1764/v1929. verify_index reconciles 280 inline / 355
+provenance; `w10_audit.py` reports 0 anomalies; all three tips pass
+sentence_split/normalize/verify_index `--check`.
+
+**DECISION (a) — MAINTAINER-FLAGGED FOR REVISION (2026-08-31).** 1979 replaces
+the Sundays after Trinity with calendar-dated Propers, so no day in that season
+corresponds. Where a Sunday-after-Trinity collect demonstrably survives at a 1979
+Proper, the 1979 collect is placed at the HISTORIC slug so the modernization
+reads as a diff (8 slugs: trinity-4/7/11/12/13/17/19/20). **The cost — recorded
+in NOTICE.md, WAVE10_1979_CROSSWALK.md and inline in every affected cell — is
+that this attaches a 1979 collect to a day the 1979 book does not observe, and
+leaves the 1979 Propers represented only through the historic days they map
+onto. The maintainer asked that this be revisited; treat it as provisional, and
+option (b) (historic slugs `absent:` + their own `proper-N` slugs) remains open.**
+NOT applied to trinity-1/trinity-6, whose descendants are 1979's Epiphany 6 and
+Easter 6 — real days already carried at their own slugs; repeating them would put
+one text at two slugs.
+
+**NEW GATE — `ingest/w10_audit.py`.** Fidelity proves nothing was INVENTED; the
+audit proves nothing was silently LOST, by comparing each occasion's anchor set
+across editions. It found bugs fidelity structurally could not: the Passion
+Gospels had vanished from Palm Sunday and Good Friday (the apparatus quotes a
+reading in full, and a substring test suppressed the genuine line), and the
+Holy Week days that carry no collect had lost their readings. Run it every
+sub-wave.
+
+**Citation rule refinement:** roman+roman means two CHAPTERS ("John xv. xvi." =
+John 15 and 16), roman+arabic remains chapter+verse. Reading the second roman as
+a verse invented precision the 1549 lacks (verse numbers entered in 1604).
+
+**1979 e-text:** now 3 known truncated collects (detector in `w10_1979.py`
+flags any collect ending without sentence punctuation before its Amen); 2 will
+surface in 10d. Plus the earlier heading dropouts. Nothing reconstructed.
+
+TO PUBLISH 10c: the §5 sequence, as for 10a/10b. THEN 10d (the Saints' Days;
+justus `Readings_SaintsA_1549.htm` / `SaintsB`, CoE `-71`…`-87` + `/all`,
+Scotland `Collects3_1637.htm`, American `Readings1789&1892D.htm`, and the 1979
+Holy Days — several of which are 1979 additions needing their own slugs).
+
+<!-- Superseded: the 10b block is kept below -->
+
+## Wave 10b (pre-Lent → Easter Even) DONE + PUBLISHED (2026-08-31)
 
 **10b is DONE + PUBLISHED (force-pushed 2026-08-31). Published tips:
 `main 9662c96 · scottish d4ae223 · american 78615e1`; all 12 tags recreated;
