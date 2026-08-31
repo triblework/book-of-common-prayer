@@ -1,0 +1,16 @@
+historic slug -> where its collect survives in the 1979 Traditional set
+  advent-1       SURVIVES  0.96/1.00  First Sunday of Advent
+  advent-2       SURVIVES  0.88/1.00  Proper 28
+  advent-3       no match  0.05/0.54  Proper 13
+  advent-4       no match  0.02/0.53  Third Sunday of Advent
+  christmas-1    SURVIVES  1.00/1.00  The Nativity of Our Lord:  Christmas Day
+  christmas-2    SURVIVES  0.79/1.00  First Sunday after Christmas Day
+  christmas-day  SURVIVES  1.00/1.00  The Nativity of Our Lord:  Christmas Day
+  circumcision   no match  0.10/0.65  Proper 15
+  epiphany       SURVIVES  0.39/1.00  The Epiphany
+  epiphany-1     SURVIVES  0.86/1.00  Proper 10
+  epiphany-2     SURVIVES  0.54/1.00  Fourth Sunday after the Epiphany
+  epiphany-3     no match  0.45/0.63  Proper 24
+  epiphany-4     no match  0.09/0.56  The Nativity of Our Lord:  Christmas Day
+  epiphany-5     no match  0.06/0.65  Proper 6
+  epiphany-6     SURVIVES  0.57/1.00  Proper 27

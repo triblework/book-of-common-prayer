@@ -1,0 +1,17 @@
+1979 occasion                             slug          full   open    verdict
+First Sunday of Advent                    advent-1      0.64   0.81    CONTINUES
+Second Sunday of Advent                   advent-2      0.03   0.33    REPLACED
+Third Sunday of Advent                    advent-3      0.05   0.38    REPLACED
+The Nativity of Our Lord:  Christmas Day  christmas-day 0.08   0.84    CONTINUES
+First Sunday after Christmas Day          christmas-1   0.08   0.51    review
+The Holy Name                             circumcision  0.04   0.30    REPLACED
+Second Sunday after Christmas Day         christmas-2   0.39   0.39    REPLACED
+The Epiphany                              epiphany      0.21   0.78    CONTINUES
+First Sunday after the Epiphany:  The Bap epiphany-1    0.04   0.35    REPLACED
+Second Sunday after the Epiphany          epiphany-2    0.11   0.40    REPLACED
+Third Sunday after the Epiphany           epiphany-3    0.21   0.28    REPLACED
+Fourth Sunday after the Epiphany          epiphany-4    0.12   0.35    REPLACED
+Fifth Sunday after the Epiphany           epiphany-5    0.05   0.29    REPLACED
+Sixth Sunday after the Epiphany           epiphany-6      -- MISSING from e-text --
+Seventh Sunday after the Epiphany         (no same day) 0.35           new? best=christmas-2
+Last Sunday after the Epiphany            (no same day) 0.37           new? best=christmas-2
