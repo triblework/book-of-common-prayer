@@ -12,6 +12,10 @@ O GOD, which by the leading of a starre diddest manifest thy onelye begotten son
 
 Ephesians 3
 
+## The Gospel
+
+Matthew 2
+
 ## The Proper Lessons
 
 > At Mattins.

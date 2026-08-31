@@ -47,9 +47,20 @@ def load(spine_name, notes_name=None):
 
 
 def is_apparatus(line, notes):
-    """True if this spine line is Wohlers' editorial note, not Prayer-Book text."""
+    """True if this spine line is Wohlers' editorial note, not Prayer-Book text.
+
+    A STRUCTURAL line -- an occasion heading, 'The Collect.', or a reading label
+    with its citation -- is always real Prayer-Book text and is never apparatus.
+    This guard matters: the apparatus column sometimes QUOTES a reading in full,
+    beginning with the very citation line it discusses ("The Gospell. Matt. xxvi.
+    xxvii. AND it came to passe..."), and the substring test below would then
+    suppress the genuine line. That silently dropped the Passion Gospels from
+    Palm Sunday and Good Friday.
+    """
     probe = re.sub(r"^>\s*", "", line).strip()
     if not probe:
+        return False
+    if READING.match(probe) or LABEL_ONLY.match(line) or COLLECT.match(line):
         return False
     if re.fullmatch(r"\[[^\]]{2,60}\](?:;.*)?", probe):     # [Romans 13:8-14]
         return True
@@ -157,15 +168,13 @@ def parse_cell(block, want_introit):
             seen_collect = True
             continue
 
-        if not want_introit and not seen_collect:
-            continue
-
         mr = READING.match(bare)
         if mr:
             slot = "gospel" if mr.group("label").lower().startswith("the gosp") else "epistle"
             scope[slot] = {"cite": mr.group("cite").strip(),
                            "for_the": mr.group("label").lower().startswith("for the")}
             mode = slot
+            seen_collect = True
             continue
         if LABEL_ONLY.match(line):
             lbl = LABEL_ONLY.match(line).group(1).lower()
@@ -173,6 +182,14 @@ def parse_cell(block, want_introit):
             scope[slot] = scope.get(slot) or {"cite": None,
                                               "for_the": lbl.startswith("for the")}
             mode = slot
+            seen_collect = True
+            continue
+
+        # Everything before the first STRUCTURAL marker (a Collect label or a
+        # reading label) is the Introit block. Skip it for the books that print
+        # no Introit -- but only here, after the reading labels have had their
+        # chance, since several Holy Week days carry readings and NO collect.
+        if not want_introit and not seen_collect:
             continue
 
         if mode == "lessons":
@@ -182,7 +199,14 @@ def parse_cell(block, want_introit):
             if GLORIA.match(bare):
                 continue
             if line.startswith(">"):
-                cell["rubrics"].append(bare)
+                # Some days print no collect of their own but a CROSS-REFERENCE
+                # to another day's ("God, which, &c. as upon witsonday."). That
+                # cross-reference is the printed text, so it stands as the
+                # collect rather than being dropped as a rubric.
+                if re.search(r"&c\.?\s*as upon|as upon (the )?\w", bare, re.I):
+                    scope["collect"].append(bare)
+                else:
+                    cell["rubrics"].append(bare)
                 continue
             scope["collect"].append(bare)
             continue

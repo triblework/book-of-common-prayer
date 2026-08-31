@@ -11,3 +11,7 @@ LORDE GOD, whiche seest that we put not our trust in any thyng that we do; mercy
 ## The Epistle
 
 2 Corinthians 11
+
+## The Gospel
+
+Luke 8

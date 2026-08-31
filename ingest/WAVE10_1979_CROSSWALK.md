@@ -93,3 +93,64 @@ Fourth Sunday of Advent and Eighth Sunday after the Epiphany, and the
 **Contemporary** Sixth Sunday after the Epiphany. Each affected cell carries an
 inline VERIFY naming the defect. Nothing is reconstructed from memory, and no
 substitute source has been added to the allow-list to paper over it.
+
+
+---
+
+## 10c — the Trinity Sundays: where the evidence runs out
+
+Sub-wave 10c is the case Decision C was written for. 1979 does not merely rename
+the Sundays after Trinity; it **replaces the reckoning**, keying the season to
+calendar-dated Propers. Trinity 4 is not Proper 4, and no day-level
+correspondence exists to anchor a mapping.
+
+That matters because it removes the corroboration 10a relied on. There, a low
+full-text score with a high opening score was trustworthy — the Epiphany collect
+scores **0.39 full / 1.00 opening** and is a genuine modernized descendant,
+because it is the collect for the same day. In 10c nothing plays that role, and
+collects share stock openings ("O God, who...", "Almighty God..."), so opening
+similarity alone is **formula noise**: `trinity-22` scores 0.04 full / 0.80
+opening against Proper 6, which is no evidence of descent whatsoever.
+
+**Rule adopted, as the faithful reading of Decision C:**
+
+- Where the DAY corresponds (all of 10a, and Easter/Ascension/Whitsunday in 10c),
+  a high opening score is sufficient — the day corroborates it.
+- Where the day does NOT correspond (Trinity → Propers), only a **high full-text
+  score** is sufficient. A lineal descendant that merely modernizes retains most
+  of its words. Opening-only agreement is recorded as **unproven** and does not
+  drive a mapping.
+
+Forcing the unproven ones onto historic slugs would fabricate a cross-edition
+comparison, which the prime directive forbids outright.
+
+### Evidence (Traditional set, scored against the 1928 collects)
+
+Confident descendants (full-text ≥ 0.55):
+
+| historic slug | 1979 occasion | full | open |
+|---|---|---:|---:|
+| `trinity-1` | Sixth Sunday after the Epiphany | 0.86 | 0.90 |
+| `trinity-4` | Proper 12 | 0.78 | 1.00 |
+| `trinity-6` | Sixth Sunday of Easter | 0.61 | 1.00 |
+| `trinity-7` | Proper 17 | 0.72 | 1.00 |
+| `trinity-11` | Proper 21 | 0.75 | 1.00 |
+| `trinity-12` | Proper 22 | 0.81 | 1.00 |
+| `trinity-13` | Proper 26 | 0.64 | 0.94 |
+| `trinity-17` | Proper 23 | 0.78 | 0.95 |
+| `trinity-19` | Proper 19 | 0.80 | 0.94 |
+| `trinity-20` | Proper 2 | 0.59 | 0.87 |
+
+Unproven (opening-only agreement; NOT mapped): `trinity-2`, `trinity-3`,
+`trinity-5`, `trinity-8`, `trinity-9`, `trinity-10`, `trinity-14`, `trinity-15`,
+`trinity-16`, `trinity-18`, `trinity-21`, `trinity-22`, `trinity-23`,
+`trinity-24`, `trinity-25`.
+
+**Open question for the maintainer**, because it changes what the repo asserts and
+is not settled by the evidence: for a Sunday after Trinity whose collect 1979
+carries at a Proper, do we (a) place the 1979 collect at the historic slug — the
+lineage reading of Decision C, which yields a modernization diff but attaches a
+collect to a day 1979 does not observe; or (b) mark the historic slugs `absent:`
+at 1979 and give the Propers their own `proper-N` slugs — which is truer to the
+1979 calendar but yields no diff for the Trinity season? 10a and 10b needed no
+such choice, since every occasion there survives as a day.

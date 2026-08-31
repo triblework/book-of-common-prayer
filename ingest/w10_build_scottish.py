@@ -61,7 +61,52 @@ MARKS = [
     ("easter-even", "Easter Even."),
 ]
 
-CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9:]+\])?$")
+# ---- sub-wave 10c: the second Scottish collects page ----
+MARKS_B = [
+    ("easter-day", "EASTER DAY."),
+    ("easter-monday", "Munday in Easter week."),
+    ("easter-tuesday", "Tuesday in Easter week."),
+    ("easter-1", "The first Sunday after Easter."),
+    ("easter-2", "The ii. Sunday after Easter."),
+    ("easter-3", "The iij. Sunday after Easter."),
+    ("easter-4", "The fourth Sunday after Easter."),
+    ("easter-5", "The fifth Sunday after Easter."),
+    ("ascension-day", "The Ascension day."),
+    ("ascension-1", "Sunday after Ascension day."),
+    ("whitsunday", "Whitsunday."),
+    ("whit-monday", "Munday in Whitsun week."),
+    ("whit-tuesday", "Tuesday in Whitsun week."),
+    ("trinity-sunday", "Trinity Sunday."),
+    ("trinity-1", "The first Sunday after Trinity."),
+    ("trinity-2", "The second Sunday after Trinity."),
+    ("trinity-3", "The iij. Sunday after Trinity."),
+    ("trinity-4", "The iiij. Sunday after Trinity."),
+    ("trinity-5", "The fifth Sunday after Trinity."),
+    ("trinity-6", "The vj. Sunday after Trinity."),
+    ("trinity-7", "The vij. Sunday after Trinity."),
+    ("trinity-8", "The viij. Sunday after Trinity."),
+    ("trinity-9", "The ix. Sunday after Trinity."),
+    ("trinity-10", "The x. Sunday after Trinity."),
+    ("trinity-11", "The xj. Sunday after Trinity."),
+    ("trinity-12", "The xij. Sunday after Trinity."),
+    ("trinity-13", "The xiij. Sunday after Trinity."),
+    ("trinity-14", "The xiiij. Sunday after Trinity."),
+    ("trinity-15", "The xv. Sunday after Trinity."),
+    ("trinity-16", "The xvj. Sunday after Trinity."),
+    ("trinity-17", "The xvij. Sunday after Trinity."),
+    ("trinity-18", "The xviij. Sunday after Trinity."),
+    ("trinity-19", "The xix. Sunday after Trinity."),
+    ("trinity-20", "The xx. Sunday after Trinity."),
+    ("trinity-21", "The xxj. Sunday after Trinity."),
+    ("trinity-22", "The xxij. Sunday after Trinity."),
+    ("trinity-23", "The xxiij. Sunday after Trinity."),
+    ("trinity-24", "The xxiiij. Sunday after Trinity."),
+    ("trinity-25", "The xxv. Sunday after Trinity."),
+]
+
+SPINES = [("1637_A.md", MARKS), ("1637_B.md", MARKS_B)]
+
+CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9:a-z]+\])?$")
 EPISTLE = re.compile(r"^>?\s*(For the Epistle|The Epistle)\s*\.?\s*$", re.I)
 GOSPEL = re.compile(r"^>?\s*The Gospel\s*\.?\s*$", re.I)
 COLLECT = re.compile(r"^>?\s*The Collects?\s*\.?\s*$", re.I)
@@ -138,19 +183,15 @@ def render(cell):
 
 
 def main():
-    lines, _ = W.load("1637_A.md")
-    segs = W.segment(lines, [], MARKS)
     n = 0
-    for slug, block in segs.items():
-        if slug.startswith("_skip:"):
-            continue
-        cell = parse(block)
-        W.write_cell("1637", slug, render(cell))
-        ep = cell["epistle"] and cell["epistle"]["cite"]
-        go = cell["gospel"] and cell["gospel"]["cite"]
-        print(f"  {slug:14s} collect_paras={len(cell['collect'])} "
-              f"rubrics={len(cell['gospel_rubrics'])}  {ep} / {go}")
-        n += 1
+    for spine, marks in SPINES:
+        lines, _ = W.load(spine)
+        for slug, block in W.segment(lines, [], marks).items():
+            if slug.startswith("_skip:"):
+                continue
+            cell = parse(block)
+            W.write_cell("1637", slug, render(cell))
+            n += 1
     print(f"1637: {n} cells")
 
 

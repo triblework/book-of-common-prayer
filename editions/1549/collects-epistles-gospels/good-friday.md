@@ -11,3 +11,7 @@ ALMIGHTIE god, we beseche thee graciously to behold this thy famely, for the whi
 ## The Epistle
 
 Hebrews 10
+
+## The Gospel
+
+John 18 and 19

@@ -30,7 +30,8 @@ BOOKS = {
     "cant": "Song of Solomon",
     "esa": "Isaiah", "esay": "Isaiah", "esai": "Isaiah", "isa": "Isaiah", "isai": "Isaiah",
     "isaiah": "Isaiah",
-    "hiere": "Jeremiah", "jere": "Jeremiah", "jerem": "Jeremiah",
+    "hiere": "Jeremiah", "jer": "Jeremiah", "jere": "Jeremiah",
+    "jerem": "Jeremiah",
     "jeremiah": "Jeremiah", "jeremy": "Jeremiah",
     "ezek": "Ezekiel", "ezekiel": "Ezekiel",
     "dan": "Daniel", "daniel": "Daniel",
@@ -47,7 +48,7 @@ BOOKS = {
     "luke": "Luke", "luc": "Luke", "luk": "Luke", "st luke": "Luke",
     "st luc": "Luke",
     "john": "John", "joh": "John", "st john": "John",
-    "1 john": "1 John", "1 st john": "1 John",
+    "1 john": "1 John", "1 joh": "1 John", "1 st john": "1 John",
     "2 john": "2 John", "3 john": "3 John",
     "acts": "Acts", "the actes": "Acts", "actes": "Acts",
 
@@ -65,7 +66,7 @@ BOOKS = {
     "tit": "Titus", "titus": "Titus",
     "philemon": "Philemon",
     "heb": "Hebrews", "hebr": "Hebrews", "hebrews": "Hebrews",
-    "james": "James", "st james": "James",
+    "james": "James", "jam": "James", "st james": "James",
     "1 pet": "1 Peter", "1 peter": "1 Peter", "1 st pet": "1 Peter",
     "1 st peter": "1 Peter",
     "2 pet": "2 Peter", "2 peter": "2 Peter",
@@ -97,15 +98,36 @@ def _number(token):
     return roman_to_int(token)
 
 
+# A citation whose pericope runs on into the next chapter, e.g.
+# "St. John xv. 26, and part of chap. xvi." Truncating it to the first chapter
+# would silently drop half the appointed reading, so the continuation is kept.
+COMPOUND = re.compile(
+    r"^(?P<base>.*?),?\s*(?:and|&)\s*part of chap(?:ter)?\.?\s*"
+    r"(?P<chap>[0-9ivxlcdmIVXLCDM]+)\.?\s*$", re.I)
+
+
 def canonical(printed):
-    """Printed citation -> 'Book Chapter' or 'Book Chapter:verse'."""
+    """Printed citation -> 'Book Chapter' or 'Book Chapter:verse'.
+
+    A compound citation keeps its continuation: "St. John xv. 26, and part of
+    chap. xvi." -> "John 15:26, and part of chapter 16".
+    """
+    m_compound = COMPOUND.match(printed.strip())
+    if m_compound:
+        chap = _number(m_compound.group("chap"))
+        if chap is None:
+            raise ValueError(f"unparsed continuation chapter in {printed!r}")
+        return f"{canonical(m_compound.group('base'))}, and part of chapter {chap}"
     s = printed.strip()
     s = re.sub(r"\[[^\]]*\]", "", s)          # drop editorial [-14] ranges
     # The Church of England renders 1662 with a closing verse ("Romans 13.8-14")
     # that the printed book does not carry; drop it per WAVE10_GUIDE.md §3. The
     # full modern range is recorded in provenance.yaml instead.
-    s = re.sub(r"(\d)\s*[-\u2013]\s*(?:\d+|end)\s*\.?\s*$", r"\1", s,
-               flags=re.I)
+    # The closing point may itself carry a chapter when the pericope runs on
+    # into the next one ("St. John 15.26-16.4"): still editorial, still
+    # dropped -- the book prints only the initial verse.
+    s = re.sub(r"(\d)\s*[-\u2013]\s*(?:\d+(?:\.\d+)?|end)\s*\.?\s*$",
+               r"\1", s, flags=re.I)
     s = s.replace("&nbsp;", " ")
     s = re.sub(r"\s+", " ", s).strip().rstrip(".").strip()
     if not s:
@@ -131,6 +153,15 @@ def canonical(printed):
         raise ValueError(f"unparsed chapter/verse in {printed!r}")
     if len(nums) == 1:
         return f"{book} {nums[0]}"
+    # Two numerals: ROMAN + ARABIC is chapter + verse ("Rom. xiii. 8."), but
+    # ROMAN + ROMAN is two CHAPTERS ("John xv. xvi."). The 1549-1559 books print
+    # no verse numbers at all -- those entered in 1604 -- so reading the second
+    # roman numeral as a verse would invent a precision the book does not have
+    # and would misrepresent a two-chapter reading as a single verse. The
+    # American books spell the same reading out as "and part of chap. xvi."
+    second_is_roman = not parts[1].strip(".").isdigit()
+    if second_is_roman:
+        return f"{book} {nums[0]} and {nums[1]}"
     return f"{book} {nums[0]}:{nums[1]}"
 
 
@@ -151,6 +182,14 @@ SELF_CHECK = {
     "Luc. ii.": "Luke 2",
     "Coloss. iii.": "Colossians 3",
     "Heb. 1. 1.": "Hebrews 1:1",          # source prints arabic 1 for roman i
+    "St. John xv. 26, and part of chap. xvi.": "John 15:26, and part of chapter 16",
+    "Jer. xxiii.": "Jeremiah 23",
+    "St. John 15.26-16.4": "John 15:26",   # CoE range spanning chapters
+
+    "John xv. xvi.": "John 15 and 16",      # two chapters, not 15:16
+    "Matt. xxvi. xxvii.": "Matthew 26 and 27",
+    "John xviii. xix.": "John 18 and 19",
+    "1 Joh. 5.4.": "1 John 5:4",
     "Revel. 14.1. [-5]": "Revelation 14:1",
     "Luk. 2.15.": "Luke 2:15",
     "Isa. 60.1.": "Isaiah 60:1",

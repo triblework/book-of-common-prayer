@@ -62,16 +62,58 @@ MARKS_B = [
     ("thursday-before-easter", "Thursday before Easter."),
     ("good-friday", "Good Friday"),
     ("easter-even", "Easter Even."),
-    ("_skip:easter-day", "Easter-day."),
+    ("easter-day", "Easter-day."),
+    ("easter-monday", "Monday in Easter-week."),
+    ("easter-tuesday", "Tuesday in Easter-week."),
+    ("easter-1", "The First Sunday after Easter."),
+    ("easter-2", "The Second Sunday after Easter."),
+    ("easter-3", "The Third Sunday after Easter."),
+    ("easter-4", "The Fourth Sunday after Easter,"),
+    ("easter-5", "The Fifth Sunday after Easter."),
 ]
 
-SPINES = [("1789_A.md", MARKS), ("1789_B.md", MARKS_B)]
+# ---- sub-wave 10c: the third American synoptic page ----
+MARKS_C = [
+    ("ascension-day", "The Ascension-day."),
+    ("ascension-1", "Sunday after Ascension-day."),
+    ("whitsunday", "Whitsunday."),
+    ("whit-monday", "Monday in Whitsun-week."),
+    ("whit-tuesday", "Tuesday in Whitsun-week."),
+    ("trinity-sunday", "Trinity-Sunday."),
+    ("trinity-1", "The First Sunday after Trinity."),
+    ("trinity-2", "The Second Sunday after Trinity."),
+    ("trinity-3", "The Third Sunday after Trinity."),
+    ("trinity-4", "The Fourth Sunday after Trinity."),
+    ("trinity-5", "The Fifth Sunday after Trinity."),
+    ("trinity-6", "The Sixth Sunday after Trinity."),
+    ("trinity-7", "The Seventh Sunday after Trinity."),
+    ("trinity-8", "The Eighth Sunday after Trinity."),
+    ("trinity-9", "The Ninth Sunday after Trinity"),
+    ("trinity-10", "The Tenth Sunday after Trinity."),
+    ("trinity-11", "The Eleventh Sunday after Trinity."),
+    ("trinity-12", "The Twelfth Sunday after Trinity."),
+    ("trinity-13", "The Thirteenth Sunday after Trinity."),
+    ("trinity-14", "The Fourteenth Sunday after Trinity."),
+    ("trinity-15", "The Fifteenth Sunday after Trinity."),
+    ("trinity-16", "The Sixteenth Sunday after Trinity."),
+    ("trinity-17", "The Seventeenth Sunday after Trinity."),
+    ("trinity-18", "The Eighteenth Sunday after Trinity."),
+    ("trinity-19", "The Nineteenth Sunday after Trinity"),
+    ("trinity-20", "The Twentieth Sunday after Trinity."),
+    ("trinity-21", "The Twenty-first Sunday after Trinity."),
+    ("trinity-22", "The Twenty-second Sunday after Trinity."),
+    ("trinity-23", "The Twenty-third Sunday after Trinity."),
+    ("trinity-24", "The Twenty-fourth Sunday after Trinity."),
+    ("trinity-25", "The Twenty-fifth Sunday after Trinity."),
+]
+
+SPINES = [("1789_A.md", MARKS), ("1789_B.md", MARKS_B), ("1789_C.md", MARKS_C)]
 
 # "Collect added in 1928." -- 1789 and 1892 print no collect for these days.
 COLLECT_FROM_1928 = {"tuesday-before-easter", "wednesday-before-easter"}
 
 SECOND_SERVICE = "twice celebrated on Christmas-day"
-COLLECT = re.compile(r"^>\s*The Collect\.?\s*$", re.I)
+COLLECT = re.compile(r"^>\s*The Collects?\.?\s*$", re.I)
 READING = re.compile(r"^(?P<label>For the Epistle|The Epistle|The Gospel)[.,]?\s+(?P<cite>\S.*)$", re.I)
 
 # Editorial prose that appears in the flattened text stream.
@@ -84,8 +126,17 @@ APPARATUS_PREFIX = (
 )
 
 
+# An apparatus line that LABELS a per-edition replacement ("1928:",
+# "1789, 1892:") is not discarded: parse() consumes it so a delta can take the
+# source's own words. Only unlabelled editorial prose is dropped.
+VARIANT_LABEL = re.compile(
+    r"^(?:1928|1892|1789|1786)(?:,\s*(?:1928|1892|1789|1786))*\s*:", )
+
+
 def is_apparatus(line):
     bare = re.sub(r"^>\s*", "", line).strip()
+    if VARIANT_LABEL.match(bare):
+        return False
     return any(bare.startswith(p) for p in APPARATUS_PREFIX)
 
 
@@ -93,13 +144,43 @@ def parse(block):
     """Split one occasion into its main propers and any second-service block."""
     cell = {"heading": re.sub(r"^>\s*", "", block[0]).strip().rstrip("."),
             "collect": [], "rubrics": [], "epistle": None, "gospel": None,
-            "second": None}
+            "second": None, "variants": []}
     scope, mode = cell, None
+    variant_open = False
     for raw in block[1:]:
         line = raw.strip()
-        if not line or is_apparatus(line):
+        if not line:
             continue
         bare = re.sub(r"^>\s*", "", line).strip()
+        # The apparatus prints an edition's replacement text in full, prefixed
+        # with the book(s) it belongs to ("1928: The Collect. ..."). Keep those
+        # so a delta can take the SOURCE's words.
+        m_var = re.match(r"^(?P<eds>(?:1928|1892|1789|1786)(?:,\s*(?:1928|1892|1789|1786))*)\s*:\s*(?P<rest>.*)$", line)
+        if m_var:
+            # hc_clean can split the prefix ("1928:") from the body it labels,
+            # so the body may arrive on the following lines.
+            cell["variants"].append([m_var.group("eds"), m_var.group("rest").strip()])
+            variant_open = True
+            continue
+        if variant_open:
+            # The label is followed by the variant's own 'The Collect.' heading
+            # (or a reading label) and then its text. Consume the heading and
+            # take ONE body paragraph, so the variant's words never leak into
+            # the base cell's collect.
+            if COLLECT.match(line):
+                continue
+            mr_v = READING.match(bare)
+            if mr_v:
+                cell["variants"][-1][1] = bare
+                variant_open = False
+                continue
+            if line.startswith(">"):
+                continue
+            cell["variants"][-1][1] = (cell["variants"][-1][1] + " " + bare).strip()
+            variant_open = False
+            continue
+        if is_apparatus(line):
+            continue
         if SECOND_SERVICE in bare:
             cell["second"] = {"collect": [], "rubrics": [bare],
                               "epistle": None, "gospel": None}
@@ -135,6 +216,11 @@ def parse(block):
 # ---------------------------------------------------------------------------
 DELTAS = {
     "1892": [
+        ("easter-day", "second", True,
+         "This rubric, the Collect, and Readings for a second service, were all "
+         "added in 1892."),
+        ("trinity-25", "title", "The Sunday next before Advent",
+         "Title changed to The Sunday next before Advent in 1892."),
         ("christmas-day", "second", True,
          "This rubric, and the Collect, Epistle, and Gospel for a second service, "
          "were all added in the 1892 Book"),
@@ -154,6 +240,10 @@ DELTAS = {
          "The First Sunday after Christmas Day. in 1928."),
         ("circumcision", "epistle", "Philippians ii. 9.",
          "1928: The Epistle. Philippians ii. 9."),
+        ("circumcision", "verify", None,
+         "the apparatus labels the earlier Epistle \"1786, 1786, 1892\" -- 1786 "
+         "twice and no 1789 -- evidently a typo for \"1786, 1789, 1892\"; read "
+         "as including 1789, whose base text it is."),
         ("epiphany-2", "gospel", "St. Mark i. 1.",
          "1928: The Gospel. St. Mark i. 1."),
         ("epiphany-3", "gospel", "@epiphany-2",
@@ -170,12 +260,56 @@ DELTAS = {
         ("advent-3", "verify", None, "* against myself in 1928"),
         ("advent-4", "verify", None, "* through Jesus Christ our Lord in 1928"),
         ("epiphany", "verify", None, "This rubric dropped in 1928."),
+        # ---- sub-wave 10c ----
+        ("ascension-day", "gospel", "St. Luke xxiv. 49.",
+         "1928: The Gospel. St. Luke xxiv. 49."),
+        ("easter-monday", "collect_variant", "1928",
+         "1928: The Collect. <replaced; text taken from the apparatus>"),
+        ("easter-tuesday", "collect_variant", "1928",
+         "1928: The Collect. <replaced; text taken from the apparatus>"),
+        ("whit-monday", "collect_variant", "1928",
+         "1928: The Collect. <replaced; text taken from the apparatus>"),
+        ("whit-tuesday", "collect_variant", "1928",
+         "1928: The Collect. <replaced; text taken from the apparatus>"),
+        ("trinity-9", "gospel", "St. Luke xv. 11.",
+         "1928: The Gospel. St. Luke xv. 11."),
+        ("whitsunday", "verify", None,
+         "WHITSUNTIDE. Pentecost, commonly called Whitsunday. in 1928 — and "
+         "\"Rubric and Readings for a second service added in 1928\"; the second "
+         "service's readings are not separately printed on the page, so they are "
+         "not represented here."),
+        ("trinity-25", "title", "The Sunday next before Advent",
+         "Title changed to The Sunday next before Advent in 1892."),
         ("christmas-2", "verify", None,
          "Readings for the 2nd Sunday after Christmas added in 1928 — the source "
          "prints one set of readings for this day without distinguishing them, so "
          "they are carried at 1928 and omitted at 1789/1892."),
     ],
 }
+
+
+# The apparatus labels the Circumcision Epistle "1786, 1786, 1892" -- 1786 twice
+# and no 1789 -- which is evidently a typo for "1786, 1789, 1892": the text it
+# labels is the base 1789 reading, and 1928 alone is given a replacement. The
+# affected cell carries a VERIFY recording this.
+LABEL_TYPOS = {"1786, 1786, 1892": "1786, 1789, 1892"}
+
+
+def variant_body(variants, edition):
+    """The apparatus text belonging to one edition.
+
+    The apparatus labels a replacement with the books it belongs to
+    ("1928:", "1789, 1892:") and then quotes the text. Returns the quoted words
+    with the leading label stripped, so the SOURCE supplies every word.
+    """
+    for eds, body in variants:
+        eds = LABEL_TYPOS.get(eds.strip(), eds)
+        if edition not in [e.strip() for e in eds.split(",")]:
+            continue
+        body = re.sub(r"^The Collects?\.\s*", "", body).strip()
+        if body:
+            return body
+    return None
 
 
 def render(cell, verifies):
@@ -242,17 +376,52 @@ def main():
                         applied.append(f"{slug}:title")
                     elif op in ("epistle", "gospel"):
                         if isinstance(value, str) and value.startswith("@"):
+                            # "1928 shifts the Gospel from Sunday X to Sunday Y":
+                            # the reading being moved is the PRE-1928 one, which
+                            # may live in a labelled variant rather than the base.
                             src = base[value[1:]]
-                            cell[op] = dict(src[op]) if src.get(op) else None
+                            moved = src.get(op)
+                            if not (moved and moved.get("cite")):
+                                prior = variant_body(src["variants"], "1892")
+                                mr_p = READING.match(prior) if prior else None
+                                moved = ({"cite": mr_p.group("cite").strip(),
+                                          "for_the": False} if mr_p else None)
+                            cell[op] = dict(moved) if moved else None
                         else:
                             cell[op] = {"cite": value, "for_the": False}
                         applied.append(f"{slug}:{op}")
                     elif op == "second":
                         keep_second = True
+                    elif op == "collect_variant":
+                        body = variant_body(base[slug]["variants"], value)
+                        if not body:
+                            raise SystemExit(
+                                f"  !! {slug}: no {value!r} variant in the apparatus")
+                        cell["collect"] = [body]
+                        applied.append(f"{slug}:collect({value})")
             if not keep_second:
                 cell["second"] = None
             elif cell["second"]:
                 applied.append(f"{slug}:second")
+            # Where the page labels the BASE collect with the books it belongs
+            # to ("1789, 1892:"), the cell's own collect is empty for those
+            # editions -- the words live in the labelled variant. Take them.
+            own = variant_body(base[slug]["variants"], edition)
+            if own:
+                mr_own = READING.match(own)
+                if mr_own:
+                    # The page labels the base READING with its books too
+                    # ("1786, 1789, 1892: The Gospel. St. Luke xvi. 1.").
+                    slot = ("gospel" if mr_own.group("label").lower()
+                            .startswith("the gospel") else "epistle")
+                    if not cell.get(slot) or not cell[slot].get("cite"):
+                        cell[slot] = {"cite": mr_own.group("cite").strip(),
+                                      "for_the": mr_own.group("label").lower()
+                                      .startswith("for the")}
+                        applied.append(f"{slug}:{slot}({edition})")
+                elif not cell["collect"]:
+                    cell["collect"] = [own]
+                    applied.append(f"{slug}:collect({edition})")
             # 1789/1892 have no readings for the Second Sunday after Christmas.
             if slug == "christmas-2" and edition in ("1789", "1892"):
                 cell["epistle"] = cell["gospel"] = None

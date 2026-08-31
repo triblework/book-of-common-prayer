@@ -7,3 +7,7 @@ ALMIGHTIE and everlastynge God, whiche of thy tender love towarde man, haste sen
 ## The Epistle
 
 Philippians 2
+
+## The Gospel
+
+Matthew 26 and 27

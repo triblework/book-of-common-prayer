@@ -9,3 +9,7 @@ LORD, we beseche thee to kepe thy Churche and housholde continually in thy true 
 ## The Epistle
 
 Colossians 3
+
+## The Gospel
+
+Matthew 13
