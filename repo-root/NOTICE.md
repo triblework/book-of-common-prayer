@@ -264,6 +264,21 @@ The published branches and tags are build artifacts, regenerated from the
   other day's collect. 1979 also renames the days it keeps (Monday in Holy Week,
   Maundy Thursday, Holy Saturday), which shows as a heading change on the same
   file.
+- **2026-08-31** — Wave 10c: the propers for **Easter Day through the Twenty-Fifth
+  Sunday after Trinity**, 39 occasions across the editions that carry them.
+  **A representational caveat, recorded because it shapes what the 1979 files
+  assert.** The 1979 book does not merely rename the Sundays after Trinity; it
+  replaces the reckoning, keying the season to calendar-dated Propers, so no day
+  in that season corresponds between the older books and 1979. Where a Sunday
+  after Trinity's collect demonstrably survives in 1979 at a Proper, this repo
+  places the 1979 collect at the historic day's file, so that the modernization of
+  the collect can be read as a diff. The cost is that such a file attaches a 1979
+  collect to a day the 1979 book does not observe, and that the 1979 Propers are
+  represented only through the historic days they map onto. Every file affected
+  says so inline. **This representation is provisional and expected to be
+  revised.** Where the evidence for descent is weak — collects share stock
+  openings, so a shared opening alone proves nothing — no mapping was made at all,
+  and the day is recorded as absent from 1979 rather than guessed at.
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

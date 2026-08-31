@@ -36,22 +36,46 @@ HOLYWEEK = [F + s for s in (
     "easter-even")]
 W10B = GESIMA + LENT + HOLYWEEK
 
+# ---- sub-wave 10c ----
+W10C = [F + s for s in (
+    "easter-day", "easter-monday", "easter-tuesday",
+    "easter-1", "easter-2", "easter-3", "easter-4", "easter-5",
+    "ascension-day", "ascension-1",
+    "whitsunday", "whit-monday", "whit-tuesday", "trinity-sunday")] + \
+    [F + f"trinity-{n}" for n in range(1, 26)]
+
+# 1979 keeps these 10c days; the rest of the season it reckons differently.
+W10C_1979_DAYS = [F + s for s in (
+    "easter-day", "easter-monday", "easter-tuesday",
+    "easter-1", "easter-2", "easter-3", "easter-4", "easter-5",
+    "ascension-day", "ascension-1", "whitsunday", "trinity-sunday")]
+# Placed by collect lineage (maintainer decision (a)); flagged for revision.
+W10C_1979_LINEAGE = [F + f"trinity-{n}" for n in (4, 7, 11, 12, 13, 17, 19, 20)]
+# 1979-only days in Easter Week: no historic ancestor, own slugs.
+NEW_1979_10C = [F + s for s in ("easter-wednesday", "easter-thursday",
+                                "easter-friday", "easter-saturday")]
+W10C_1979_ABSENT = [x for x in W10C
+                    if x not in W10C_1979_DAYS + W10C_1979_LINEAGE]
+
 AMERICAN = BASE13 + EP6 + XMAS2
 
 ADD = {
-    "1549": (BASE13 + W10B, []),
-    "1552": (BASE13 + W10B, []),
-    "1559": (BASE13 + W10B, []),
-    "1604": (BASE13 + W10B, []),
-    "1662": (BASE13 + EP6 + W10B, []),
-    "1637": (BASE13 + W10B, []),
-    "1764": ([], BASE13 + W10B),
+    "1549": (BASE13 + W10B + W10C, []),
+    "1552": (BASE13 + W10B + W10C, []),
+    "1559": (BASE13 + W10B + W10C, []),
+    "1604": (BASE13 + W10B + W10C, []),
+    "1662": (BASE13 + EP6 + W10B + W10C, []),
+    "1637": (BASE13 + W10B + W10C, []),
+    "1764": ([], BASE13 + W10B + W10C),
     "1929": ([], []),
-    "1789": (AMERICAN + W10B, []),
-    "1892": (AMERICAN + W10B, []),
-    "1928": (AMERICAN + W10B, []),
-    # 1979 abolishes the pre-Lent "Gesima" Sundays -> a genuine drop.
-    "1979": (AMERICAN + NEW1979 + LENT + HOLYWEEK, GESIMA),
+    "1789": (AMERICAN + W10B + W10C, []),
+    "1892": (AMERICAN + W10B + W10C, []),
+    "1928": (AMERICAN + W10B + W10C, []),
+    # 1979 abolishes the pre-Lent "Gesima" Sundays, does not observe Whitsun
+    # Monday/Tuesday, and replaces the Sundays after Trinity with calendar-dated
+    # Propers -- all genuine drops, never force-mapped.
+    "1979": (AMERICAN + NEW1979 + LENT + HOLYWEEK + W10C_1979_DAYS
+             + W10C_1979_LINEAGE + NEW_1979_10C, GESIMA + W10C_1979_ABSENT),
 }
 
 

@@ -23,9 +23,26 @@ STAR = re.compile(r"^\*(?P<note>.*?)\*?\s*$")
 
 
 def _clean(text):
-    text = text.replace("=Amen.=", "Amen.")
-    text = re.sub(r"=([^=]*)=", r"\1", text)
+    """Strip the e-text's '=...=' emphasis markup.
+
+    The marker can sit flush against a word ("t=Amen.="), so removing it must
+    leave a word boundary behind -- otherwise two words fuse into one token that
+    appears nowhere in the source.
+    """
+    # '=' is emphasis markup throughout this e-text and never part of a word.
+    # It can sit flush against text ("t=Amen.="), so every run becomes a space:
+    # that strips the markup without ever fusing two words into one token.
+    text = re.sub(r"=+", " ", text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+# A collect whose text stops without sentence-ending punctuation before its
+# Amen has been truncated in the e-text's keying, not in the book.
+TRUNCATED = re.compile(r"(?<![.!?:;])\s+Amen\.\s*$")
+
+
+def looks_truncated(body):
+    return bool(TRUNCATED.search(body))
 
 
 def load(section):

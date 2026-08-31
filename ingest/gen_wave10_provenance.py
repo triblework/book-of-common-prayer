@@ -41,6 +41,37 @@ for s_ in ("monday-before-easter", "tuesday-before-easter",
            "easter-even"):
     SEASON[s_] = "HolyWeek"
 
+# ---- sub-wave 10c ----
+for s_ in ("easter-day", "easter-monday", "easter-tuesday"):
+    SEASON[s_] = "EasterWeek"
+for n_ in range(1, 6):
+    SEASON[f"easter-{n_}"] = "EasterSeason"
+for s_ in ("ascension-day", "ascension-1", "whitsunday", "whit-monday",
+           "whit-tuesday"):
+    SEASON[s_] = "AscensionWhitsuntide"
+SEASON["trinity-sunday"] = "TrinityA"
+for n_ in range(1, 26):
+    SEASON[f"trinity-{n_}"] = ("TrinityA" if n_ <= 8 else
+                               "TrinityB" if n_ <= 16 else "TrinityC")
+# 1979-only Easter-week days come from the e-text alone.
+for s_ in ("easter-wednesday", "easter-thursday", "easter-friday",
+           "easter-saturday"):
+    SEASON[s_] = "EasterWeek"
+
+# The justus 1549 filenames are not uniform.
+PAGE_FILE = {"EasterWeek": "Reading_EasterWeek_1549.htm",
+             "AscensionWhitsuntide": "Readings_Ascension&Whitsuntide_1549.htm"}
+
+# The American synoptic runs onto a third page at Ascension.
+AMERICAN_PAGE_C = ({"ascension-day", "ascension-1", "whitsunday", "whit-monday",
+                    "whit-tuesday", "trinity-sunday"}
+                   | {f"trinity-{n}" for n in range(1, 26)})
+AMERICAN_PAGE_B_10C = ({"easter-day", "easter-monday", "easter-tuesday"}
+                       | {f"easter-{n}" for n in range(1, 6)})
+
+# The Scottish collects run onto a second page at Easter.
+SCOTTISH_PAGE_B = AMERICAN_PAGE_C | AMERICAN_PAGE_B_10C
+
 # The American synoptic runs onto a second page at Palm Sunday.
 AMERICAN_PAGE_B = {"palm-sunday", "monday-before-easter", "tuesday-before-easter",
                    "wednesday-before-easter", "thursday-before-easter",
@@ -59,20 +90,27 @@ COE_SLUG = {"advent-1": "-1", "advent-2": "-2", "advent-3": "-3", "advent-4": "-
             "wednesday-before-easter": "-28", "thursday-before-easter": "-29",
             "good-friday": "-30", "easter-even": "-31"}
 
+# The 10c CoE slugs were derived from the site map; reuse, do not retype.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from w10_coe import SLUGS as _COE_SLUGS  # noqa: E402
+COE_10C = {slug: coe for coe, slug in _COE_SLUGS}
+
 VERIFY_RE = re.compile(r"<!--\s*VERIFY\b(.*?)-->", re.S | re.I)
 
 
 def source_url(edition, slug):
-    if edition in ("1549", "1552", "1559"):
-        return J + f"1549/Readings_{SEASON[slug]}_1549.htm"
-    if edition == "1604":
-        return J + f"1549/Readings_{SEASON[slug]}_1549.htm"
+    if edition in ("1549", "1552", "1559", "1604"):
+        season = SEASON[slug]
+        return J + "1549/" + PAGE_FILE.get(season, f"Readings_{season}_1549.htm")
     if edition == "1662":
-        return COE + COE_SLUG.get(slug, "")
+        return COE + COE_SLUG.get(slug, COE_10C.get(slug, ""))
     if edition == "1637":
-        return J + "Scotland/Collects1_1637.htm"
+        n = "2" if slug in SCOTTISH_PAGE_B else "1"
+        return J + f"Scotland/Collects{n}_1637.htm"
     if edition in ("1789", "1892", "1928"):
-        page = "B" if slug in AMERICAN_PAGE_B else "A"
+        page = ("C" if slug in AMERICAN_PAGE_C else
+                "B" if slug in AMERICAN_PAGE_B or slug in AMERICAN_PAGE_B_10C
+                else "A")
         return J + f"1789/Readings1789&1892{page}.htm"
     if edition == "1979":
         return J + "bcpcolct.txt"

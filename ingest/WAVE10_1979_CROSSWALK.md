@@ -146,7 +146,39 @@ Unproven (opening-only agreement; NOT mapped): `trinity-2`, `trinity-3`,
 `trinity-16`, `trinity-18`, `trinity-21`, `trinity-22`, `trinity-23`,
 `trinity-24`, `trinity-25`.
 
-**Open question for the maintainer**, because it changes what the repo asserts and
+### RESOLVED (maintainer, 2026-08-31): option (a) — place by lineage
+
+> **FLAGGED FOR REVISION.** The maintainer chose (a) and asked that the choice be
+> recorded as needing revisiting. It is a considered trade-off, not a settled
+> reading, and a later pass may prefer (b).
+
+Where a Sunday after Trinity's collect survives in 1979 **at a Proper**, the 1979
+collect is placed at the historic slug, so `git diff v1928 v1979` shows the
+modernization. What that costs, stated plainly:
+
+- It attaches a 1979 collect to a **day 1979 does not observe**. The file asserts
+  "this is the collect for the Nth Sunday after Trinity", and 1979 has no such
+  Sunday.
+- It leaves the 1979 calendar **partially represented**: the Propers appear only
+  through the historic slugs they map onto, not as occasions in their own right.
+- Every cell placed this way carries an inline `<!-- VERIFY -->` saying so, so the
+  claim is never silent.
+
+Applied to eight slugs: `trinity-4` (Proper 12), `trinity-7` (17), `trinity-11`
+(21), `trinity-12` (22), `trinity-13` (26), `trinity-17` (23), `trinity-19` (19),
+`trinity-20` (2).
+
+**Deliberately NOT applied** to `trinity-1` and `trinity-6`, whose confident
+descendants are 1979's Sixth Sunday after the Epiphany and Sixth Sunday of Easter.
+Those are real DAYS that 1979 keeps and that the repo already carries at
+`epiphany-6` and `easter-5`. Placing them again at a Trinity slug would put one
+1979 text at two slugs and invent a second occasion for it. They are `absent:`
+instead, with the lineage recorded here.
+
+The fifteen unproven slugs and Whitsun Monday/Tuesday are `absent:` at 1979 —
+1979 neither observes those days nor supplies a collect the evidence ties to them.
+
+**Original question, kept for the record.** **Open question for the maintainer**, because it changes what the repo asserts and
 is not settled by the evidence: for a Sunday after Trinity whose collect 1979
 carries at a Proper, do we (a) place the 1979 collect at the historic slug — the
 lineage reading of Decision C, which yields a modernization diff but attaches a

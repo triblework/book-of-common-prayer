@@ -58,7 +58,53 @@ MAP = [
     ("thursday-before-easter", "Maundy Thursday"),
     ("good-friday", "Good Friday"),
     ("easter-even", "Holy Saturday"),
+    # ---- sub-wave 10c: days that correspond ----
+    # 1979 counts Easter Day itself as the First Sunday of Easter, so its
+    # ordinals sit one ahead of the historic "Sundays AFTER Easter" -- the same
+    # DAYS under a different reckoning.
+    ("easter-day", "Easter Day"),
+    ("easter-monday", "Monday in Easter Week"),
+    ("easter-tuesday", "Tuesday in Easter Week"),
+    ("easter-1", "Second Sunday of Easter"),
+    ("easter-2", "Third Sunday of Easter"),
+    ("easter-3", "Fourth Sunday of Easter"),
+    ("easter-4", "Fifth Sunday of Easter"),
+    ("easter-5", "Sixth Sunday of Easter"),
+    ("ascension-day", "Ascension Day"),
+    ("ascension-1", "Seventh Sunday of Easter:  The Sunday after Ascension Day"),
+    ("whitsunday", "The Day of Pentecost:  Whitsunday"),
+    ("trinity-sunday", "First Sunday after Pentecost:  Trinity Sunday"),
+    # 1979-only days in Easter Week: no historic ancestor -> their own slugs.
+    ("easter-wednesday", "Wednesday in Easter Week"),
+    ("easter-thursday", "Thursday in Easter Week"),
+    ("easter-friday", "Friday in Easter Week"),
+    ("easter-saturday", "Saturday in Easter Week"),
+    # ---- 10c: collect LINEAGE (maintainer decision (a), 2026-08-31) ----
+    # Where a Sunday after Trinity's collect survives in 1979 at a PROPER, the
+    # 1979 collect is placed at the historic slug so the modernization diff
+    # reads. Only high full-text agreement counts as descent here, since no day
+    # corresponds; see WAVE10_1979_CROSSWALK.md.
+    # NOTE: this attaches a collect to a day 1979 does not observe. Recorded as
+    # requiring revision.
+    ("trinity-4", "Proper 12"),
+    ("trinity-7", "Proper 17"),
+    ("trinity-11", "Proper 21"),
+    ("trinity-12", "Proper 22"),
+    ("trinity-13", "Proper 26"),
+    ("trinity-17", "Proper 23"),
+    ("trinity-19", "Proper 19"),
+    ("trinity-20", "Proper 2"),
 ]
+
+# Absent at 1979: the day is not observed and no confident descendant is placed.
+# trinity-1 and trinity-6 DO have confident descendants (1979's Epiphany 6 and
+# Easter 6), but those 1979 occasions are already carried at their own day slugs;
+# repeating them here would duplicate one text at two slugs.
+DROPPED_10C = ["whit-monday", "whit-tuesday",
+               "trinity-1", "trinity-2", "trinity-3", "trinity-5", "trinity-6",
+               "trinity-8", "trinity-9", "trinity-10", "trinity-14",
+               "trinity-15", "trinity-16", "trinity-18", "trinity-21",
+               "trinity-22", "trinity-23", "trinity-24", "trinity-25"]
 
 # Dropped by 1979 -> `absent:` in editions.yaml, never mapped onto a 1979 collect.
 DROPPED_1979 = ["septuagesima", "sexagesima", "quinquagesima"]
@@ -66,6 +112,17 @@ DROPPED_1979 = ["septuagesima", "sexagesima", "quinquagesima"]
 DEFECT = ("<!-- VERIFY: '{occ}' — the {which}-language collect for this day is "
           "absent from the public-domain e-text (a dropout in its 1993 keying, "
           "not a feature of the book); not reconstructed. -->")
+
+LINEAGE_NOTE = (
+    "<!-- VERIFY: '{occ}' — placed at `{slug}` by COLLECT LINEAGE, not by day: "
+    "1979 replaces the Sundays after Trinity with calendar-dated Propers, so it "
+    "does not observe this day. See ingest/WAVE10_1979_CROSSWALK.md; this "
+    "representation is flagged for revision. -->")
+
+TRUNCATED_NOTE = (
+    "<!-- VERIFY: '{occ}' — the collect under `{which}` breaks off mid-sentence "
+    "in the public-domain e-text (a dropout in its 1993 keying, not a feature of "
+    "the book); carried as the source has it and NOT reconstructed. -->")
 
 READINGS_NOTE = (
     "<!-- VERIFY: '{occ}' — 1979 appoints three reading sets for this day under "
@@ -94,11 +151,15 @@ def main():
         if not c:
             parts += [DEFECT.format(occ=title, which="contemporary"), ""]
         parts += [READINGS_NOTE.format(occ=title), ""]
+        if slug.startswith("trinity-") and occ.startswith("Proper"):
+            parts += [LINEAGE_NOTE.format(occ=title, slug=slug), ""]
         for anchor, data in (("The Collect", t),
                              ("The Collect (Contemporary)", c)):
             if not data or not data["collects"]:
                 continue
             parts += [f"## {anchor}", ""]
+            if any(w10_1979.looks_truncated(b) for b in data["collects"]):
+                parts += [TRUNCATED_NOTE.format(occ=title, which=anchor), ""]
             for i, body in enumerate(data["collects"]):
                 if i:
                     parts += ["> Or this.", ""]
