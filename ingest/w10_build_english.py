@@ -1,0 +1,98 @@
+#!/usr/bin/env python3
+"""w10_build_english.py — build the 1549/1552/1559 propers (Wave 10, sub-wave 10a).
+
+Authoring-only; NOT published. File -> file: the collect text flows
+spine -> script -> editions/<year>/collects-epistles-gospels/<slug>.md and is
+never emitted as model output.
+
+The three books share one annotated justus page. Their differences come only
+from that page's own apparatus, and are applied here explicitly:
+
+  1552  drops the Introits and the 1549-only proper Psalms/Lessons.
+  1559  as 1552, plus: "'Amen' added at the end of this and each subsequent
+        collect in the 1559 edition only" (applied CONDITIONALLY -- most
+        collects already end in Amen, so appending blindly would fabricate a
+        reading), plus the occasion-title expansions the page brackets and
+        footnotes as "added in late 1500's".
+
+The "late 1500's" footnote does not name a book, so every title it affects
+carries an inline VERIFY.
+"""
+import os, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import w10_slice as W
+
+SEASONS = [
+    ("1549_advent.md", "notes_Advent.txt", [
+        ("advent-1", "> The fyrst Sonday in Advente."),
+        ("advent-2", "> The second sunday."),
+        ("advent-3", "> The thirde sonday"),
+        ("advent-4", "> The fourth sonday"),
+    ]),
+    ("1549_Xmas.md", "notes_Xmas.txt", [
+        ("christmas-day", "> Proper Psalmes and lessons on Christmas day."),
+        ("_skip:st-stephen", "> St. Stephin's Day."),
+        ("_skip:st-john-evangelist", "> Sayncte John Evangelistes Daye."),
+        ("_skip:holy-innocents", "> The Innocentes Daye."),
+        ("christmas-1", "> The Sunday after Christmas Day."),
+        ("circumcision", "> The Circumcision of Christ."),
+    ]),
+    ("1549_Epiphany.md", "notes_Epiphany.txt", [
+        ("epiphany", "> The Epiphanie."),
+        ("epiphany-1", "> The firste Sonday after the Epiphanye."),
+        ("epiphany-2", "> The second Sonday."),
+        ("epiphany-3", "> The thirde Soondaye"),
+        ("epiphany-4", "> The iiii Sonday"),
+        ("epiphany-5", "> The v. Sonday"),
+        ("_skip:septuagesima", "> The sonday called Septuagesima."),
+    ]),
+]
+
+# The page prints Christmas Day's block under its proper-lessons rubric rather
+# than a bare occasion title; the index page and every later book title it
+# "Christmas Day".
+TITLE_OVERRIDE = {"christmas-day": "Christmas Day"}
+
+# Titles whose expansion the page footnotes only as "added in late 1500's".
+LATE_1500S = {"advent-3", "advent-4", "epiphany-3", "epiphany-4", "epiphany-5"}
+
+VERIFY_LATE = ("<!-- VERIFY: '{title}' — the source brackets this title expansion "
+               "and footnotes it only as \"added in late 1500's\", without naming "
+               "a book; represented here as entering at 1559. -->")
+
+
+def build():
+    written = {}
+    for spine, notes_file, marks in SEASONS:
+        lines, notes = W.load(spine, notes_file)
+        segs = W.segment(lines, notes, marks)
+        for slug, block in segs.items():
+            if slug.startswith("_skip:"):
+                continue
+            for edition in ("1549", "1552", "1559"):
+                want_introit = edition == "1549"
+                keep_bracket = edition == "1559"
+                cell = W.parse_cell(block, want_introit=want_introit)
+                title = TITLE_OVERRIDE.get(
+                    slug, W.strip_brackets(cell["heading"], keep_bracket))
+                title = title.strip().rstrip(".")
+                if edition == "1559" and slug != "advent-1":
+                    cell["collect"] = [W.add_amen(p) for p in cell["collect"]]
+                    if cell.get("second", {}).get("collect"):
+                        cell["second"]["collect"] = [
+                            W.add_amen(p) for p in cell["second"]["collect"]]
+                text = W.render(cell, title, edition, want_introit, keep_bracket)
+                if slug in LATE_1500S:
+                    verify = VERIFY_LATE.format(title=title)
+                    text = text.replace(f"# {title}\n",
+                                        f"# {title}\n\n{verify}\n", 1)
+                path = W.write_cell(edition, slug, text)
+                written.setdefault(edition, []).append(os.path.basename(path))
+    for edition, files in sorted(written.items()):
+        print(f"  {edition}: {len(files)} cells -> {', '.join(sorted(files))}")
+
+
+if __name__ == "__main__":
+    build()
