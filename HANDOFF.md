@@ -11,9 +11,11 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10b (pre-Lent → Easter Even) BUILT + BUILD-GREEN, NOT PUBLISHED
+## CURRENT — Wave 10b (pre-Lent → Easter Even) DONE + PUBLISHED (2026-08-31)
 
-**10b is DONE on `authoring` and awaiting go-ahead on the force-push.** 16 further
+**10b is DONE + PUBLISHED (force-pushed 2026-08-31). Published tips:
+`main 9662c96 · scottish d4ae223 · american 78615e1`; all 12 tags recreated;
+local==remote verified; flagship diffs render on the published refs.** 16 further
 occasions (septuagesima, sexagesima, quinquagesima, ash-wednesday, lent-1..5,
 palm-sunday, monday/tuesday/wednesday/thursday-before-easter, good-friday,
 easter-even) across the same ten editions — 270 cells total for 10a+10b.
@@ -42,7 +44,7 @@ Flagship diffs verified: the Gesima deletion at v1928→v1979 (14 deletions), th
 1928 Collect addition for Tuesday before Easter, the Easter Even → Holy Saturday
 rename, and the 1552 Introit drop at ash-wednesday.
 
-TO PUBLISH 10b: same §5 sequence as 10a. THEN 10c (Easter → Trinity), which is the
+PUBLISHED 2026-08-31 via §5. NEXT: 10c (Easter → Trinity), which is the
 largest sub-wave (~40 occasions) and where the 1979 Propers crosswalk actually
 bites — `ingest/WAVE10_1979_CROSSWALK.md` already records the 10a destinations
 (Advent 2 → Proper 28, Epiphany 1 → Proper 10, Epiphany 6 → Proper 27).
