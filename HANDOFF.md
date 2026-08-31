@@ -11,7 +11,57 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## NEXT UP — Wave 10 (Collects, Epistles & Gospels) — PLANNED, NOT STARTED
+## CURRENT — Wave 10a (Advent → Epiphany propers) BUILT + BUILD-GREEN, NOT PUBLISHED
+
+**Sub-wave 10a is DONE on `authoring` and awaiting maintainer go-ahead on the
+force-push.** 129 cells in the new family `collects-epistles-gospels/` across the
+ten editions that carry propers (absent 1764/1929). Authoring `verify_index`
+reconciles (211 inline VERIFY / 260 provenance items); all 12 tags build;
+sentence_split/normalize/verify_index `--check` pass on all three built tips.
+Flagship diffs verified at the tags: the **1552 Introit removal**, the **1662
+`epiphany-6` insert**, the **1928 Circumcision Epistle** re-appointment
+(Romans 4:8 → Philippians 2:9), and the **1928→1979** modernization with the
+contemporary collect alongside. Presence at tags: 13 at v1559, 14 at v1662,
+0 at v1764/v1929, 15 at v1789, 18 at v1979.
+
+METHOD ASSETS (reuse for 10b–10d): `ingest/WAVE10_GUIDE.md` (slug scheme for ALL
+sub-waves, anchor menu, the citation rule), `WAVE10_SOURCE_MAP.md`,
+`WAVE10_1979_CROSSWALK.md`, and `ingest/w10_*.py` — `w10_cite.py`
+(citation canonicalizer, self-checked), `w10_slice.py`, `w10_spine.py`/`w10_rows.py`
+(apparatus separation), `w10_build_{english,scottish,american,1979}.py`,
+`w10_coe.py`, `w10_fidelity.py`, `w10_xw_{sameday,reverse}.py`,
+`gen_wave10_provenance.py`, `append_wave10_docs.py`, `w10_editions.py`.
+
+KEY DECISIONS MADE IN 10a (carry into 10b–10d):
+- **Citation precision = what the BOOK prints** — chapter only for 1549–1559,
+  chapter + initial verse from 1662 and in the American line. Closing verses are
+  supplied only by editors (justus's `[Romans 13:8-14]`, the CoE's `13.8-14`), so
+  carrying them where a source happens to offer one would manufacture a diff out
+  of a difference between web sites. Full ranges live in `provenance.yaml`.
+- **Two bracket kinds** on the justus pages: `[x]*` is an edition marker (kept or
+  dropped per edition); `[=obstructed]` is an editorial gloss (always removed).
+- **1979 carries collects only** — its three-year lectionary is incommensurable
+  with the single-citation slot; the inherited Epistle/Gospel anchors are dropped
+  and the tables deferred to Wave 12.
+- **St. Stephen / St. John Evangelist / Holy Innocents are 10d**, not 10a: justus
+  prints them in its Christmas block, but 1662 and the American line print them in
+  the Saints' Days sequence.
+- **Two recorded gaps, not filled:** no allow-listed 1604 propers source exists (so
+  the 1604 initial-verse-number change is unrepresented; 1604 inherits 1559), and
+  the 1979 e-text lost three collects in its 1993 keying (Traditional Advent 4 and
+  Epiphany 8, Contemporary Epiphany 6), flagged inline and not reconstructed.
+
+TO PUBLISH 10a (needs explicit go-ahead — outward-facing, irreversible): follow
+§5 — record `git ls-remote --heads --tags origin`; `build_history.py --publish
+--live-repo /Users/wtrible/Developer/bcp --keep --target <scratch>`; in the primary
+repo `git reset --hard main`; `git push --force-with-lease origin main scottish
+american`; `git push --force origin --tags`; verify local==remote for all 3
+branches + 12 tags and that the flagship diffs render; record in NOTICE + memory +
+this HANDOFF. THEN 10b (pre-Lent → Easter Even).
+
+<!-- Superseded: the original Wave-10 plan block is kept below for reference -->
+
+## Wave 10 (Collects, Epistles & Gospels) — the locked scoping decisions
 
 The next wave is the **propers** — one Collect, Epistle and Gospel for every Sunday
 and Holy Day (the 1549/1552 also print an Introit). It is the largest remaining wave.
