@@ -11,10 +11,11 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10c (Easter → Trinity) BUILT + BUILD-GREEN, NOT PUBLISHED
+## CURRENT — Wave 10c (Easter → Trinity) DONE + PUBLISHED (2026-08-31)
 
-**10c is DONE on `authoring` (tip `5a13fa7`) and awaiting go-ahead on the
-force-push.** 39 further occasions; 77 occasions in total across 10a–10c.
+**10c is DONE + PUBLISHED (force-pushed 2026-08-31). Published tips:
+`main e2c3328 · scottish b9de11b · american cb18919`; all 12 tags recreated;
+local==remote verified; flagship diffs render.** 39 further occasions; 77 occasions in total across 10a–10c.
 Presence: 68 at v1559, 69 at v1662, 68 at v1637, 70 at v1789/v1892/v1928,
 55 at v1979, 0 at v1764/v1929. verify_index reconciles 280 inline / 355
 provenance; `w10_audit.py` reports 0 anomalies; all three tips pass
@@ -34,13 +35,13 @@ NOT applied to trinity-1/trinity-6, whose descendants are 1979's Epiphany 6 and
 Easter 6 — real days already carried at their own slugs; repeating them would put
 one text at two slugs.
 
-**NEW GATE — `ingest/w10_audit.py`.** Fidelity proves nothing was INVENTED; the
-audit proves nothing was silently LOST, by comparing each occasion's anchor set
-across editions. It found bugs fidelity structurally could not: the Passion
-Gospels had vanished from Palm Sunday and Good Friday (the apparatus quotes a
-reading in full, and a substring test suppressed the genuine line), and the
-Holy Week days that carry no collect had lost their readings. Run it every
-sub-wave.
+**VERIFICATION METHOD — read `ingest/AUDIT_METHOD.md`.** It documents the
+two-gate discipline (fidelity catches fabrication; `ingest/w10_audit.py` catches
+silent LOSS, which fidelity is structurally blind to) as a wave-agnostic method,
+with the reusable audit pattern and the rules of thumb. **Run both gates every
+sub-wave, and re-run over everything after any parser fix.** Wave 10c is the
+worked example: the Passion Gospels had vanished from Palm Sunday and Good
+Friday while fidelity stayed green.
 
 **Citation rule refinement:** roman+roman means two CHAPTERS ("John xv. xvi." =
 John 15 and 16), roman+arabic remains chapter+verse. Reading the second roman as
@@ -50,7 +51,7 @@ a verse invented precision the 1549 lacks (verse numbers entered in 1604).
 flags any collect ending without sentence punctuation before its Amen); 2 will
 surface in 10d. Plus the earlier heading dropouts. Nothing reconstructed.
 
-TO PUBLISH 10c: the §5 sequence, as for 10a/10b. THEN 10d (the Saints' Days;
+PUBLISHED 2026-08-31 via §5. NEXT: 10d (the Saints' Days;
 justus `Readings_SaintsA_1549.htm` / `SaintsB`, CoE `-71`…`-87` + `/all`,
 Scotland `Collects3_1637.htm`, American `Readings1789&1892D.htm`, and the 1979
 Holy Days — several of which are 1979 additions needing their own slugs).
