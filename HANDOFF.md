@@ -11,10 +11,12 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10a (Advent → Epiphany propers) BUILT + BUILD-GREEN, NOT PUBLISHED
+## CURRENT — Wave 10a (Advent → Epiphany propers) DONE + PUBLISHED (2026-08-31)
 
-**Sub-wave 10a is DONE on `authoring` and awaiting maintainer go-ahead on the
-force-push.** 129 cells in the new family `collects-epistles-gospels/` across the
+**Sub-wave 10a is DONE + PUBLISHED (force-pushed 2026-08-31). NEW published tips:
+`main fb511f2 · scottish 271358d · american 55998b5`; all 12 vYYYY tags recreated;
+local==remote verified for all 3 branches + 12 tags; flagship diffs render on the
+published refs.** 129 cells in the new family `collects-epistles-gospels/` across the
 ten editions that carry propers (absent 1764/1929). Authoring `verify_index`
 reconciles (211 inline VERIFY / 260 provenance items); all 12 tags build;
 sentence_split/normalize/verify_index `--check` pass on all three built tips.
@@ -51,7 +53,11 @@ KEY DECISIONS MADE IN 10a (carry into 10b–10d):
   the 1979 e-text lost three collects in its 1993 keying (Traditional Advent 4 and
   Epiphany 8, Contemporary Epiphany 6), flagged inline and not reconstructed.
 
-TO PUBLISH 10a (needs explicit go-ahead — outward-facing, irreversible): follow
+PUBLISHED 2026-08-31 via §5 (recovery recorded; `build_history.py --publish
+--live-repo`; `reset --hard main`; `push --force-with-lease` branches; `push
+--force --tags`; local==remote + flagship diffs verified). NEXT: **10b**
+(pre-Lent → Ash Wednesday → Lent → Holy Week → Easter Even). The old publish
+recipe, for reference: follow
 §5 — record `git ls-remote --heads --tags origin`; `build_history.py --publish
 --live-repo /Users/wtrible/Developer/bcp --keep --target <scratch>`; in the primary
 repo `git reset --hard main`; `git push --force-with-lease origin main scottish
