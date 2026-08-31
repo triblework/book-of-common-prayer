@@ -100,7 +100,8 @@ def canonical(printed):
     # The Church of England renders 1662 with a closing verse ("Romans 13.8-14")
     # that the printed book does not carry; drop it per WAVE10_GUIDE.md §3. The
     # full modern range is recorded in provenance.yaml instead.
-    s = re.sub(r"(\d)\s*[-\u2013]\s*\d+\s*\.?\s*$", r"\1", s)
+    s = re.sub(r"(\d)\s*[-\u2013]\s*(?:\d+|end)\s*\.?\s*$", r"\1", s,
+               flags=re.I)
     s = s.replace("&nbsp;", " ")
     s = re.sub(r"\s+", " ", s).strip().rstrip(".").strip()
     if not s:

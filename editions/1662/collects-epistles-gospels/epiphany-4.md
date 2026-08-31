@@ -1,0 +1,15 @@
+<!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
+
+# The Fourth Sunday after The Epiphany
+
+## The Collect
+
+O God, who knowest us to be set in the midst of so many and great dangers, that by reason of the frailty of our nature we cannot always stand upright: Grant to us such strength and protection, as may support us in all dangers, and carry us through all temptations; through Jesus Christ our Lord. Amen.
+
+## The Epistle
+
+Romans 13:1
+
+## The Gospel
+
+Matthew 8:23
