@@ -16,7 +16,7 @@ import os, re, sys
 
 WT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
 FAM = "collects-epistles-gospels"
-RETRIEVED = "2026-08-17"
+RETRIEVED = "2026-08-31"
 VERIFIER = "claude-opus-5 (scripted ingest + fidelity gate)"
 
 J = "http://justus.anglican.org/resources/bcp/"

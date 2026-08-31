@@ -225,7 +225,7 @@ The published branches and tags are build artifacts, regenerated from the
   edition-variable block after the Litany (1552 onward) and which the 1662 and
   American books gather into a separate "Prayers and Thanksgivings upon several
   Occasions" section; these are their own future wave, not part of the Litany file.
-- **2026-08-17** — Wave 10a: the **Collects, Epistles and Gospels** (the "propers")
+- **2026-08-31** — Wave 10a: the **Collects, Epistles and Gospels** (the "propers")
   for Advent through the Sundays after the Epiphany, across the ten editions that
   carry them (absent from the Communion-only Scottish 1764/1929). Wave 10 is split
   into seasonal sub-waves, each published separately: 10a Advent–Epiphany, 10b

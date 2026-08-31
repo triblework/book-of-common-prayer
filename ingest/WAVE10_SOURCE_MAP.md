@@ -1,6 +1,6 @@
 # Wave 10 — source map
 
-Authoring-only. Every URL below was fetched and confirmed on **2026-08-17**.
+Authoring-only. Every URL below was fetched and confirmed on **2026-08-31**.
 justus is reachable over **plain HTTP only** (its HTTPS vhost 404s every path).
 
 ## Index pages (occasion → page/anchor)

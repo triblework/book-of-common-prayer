@@ -1,21 +1,21 @@
   - edition: 1549
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
@@ -25,7 +25,7 @@
   - edition: 1549
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
@@ -35,49 +35,49 @@
   - edition: 1549
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1549
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
@@ -87,7 +87,7 @@
   - edition: 1549
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
@@ -97,7 +97,7 @@
   - edition: 1549
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
@@ -107,21 +107,21 @@
   - edition: 1552
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -131,7 +131,7 @@
   - edition: 1552
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -141,49 +141,49 @@
   - edition: 1552
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1552
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -193,7 +193,7 @@
   - edition: 1552
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -203,7 +203,7 @@
   - edition: 1552
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -213,21 +213,21 @@
   - edition: 1559
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -237,7 +237,7 @@
   - edition: 1559
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -247,49 +247,49 @@
   - edition: 1559
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -299,7 +299,7 @@
   - edition: 1559
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -309,7 +309,7 @@
   - edition: 1559
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
@@ -319,392 +319,392 @@
   - edition: 1604
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1662
     service: collects-epistles-gospels/advent-1
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-1
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/advent-2
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-2
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/advent-3
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-3
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/advent-4
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-4
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/christmas-1
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-7
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/christmas-day
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-6
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/circumcision
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-8
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-9
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-1
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-10
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-2
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-11
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-3
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-12
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-4
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-13
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-5
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-14
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
     service: collects-epistles-gospels/epiphany-6
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-15
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1637
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1789
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/christmas-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1892
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -714,7 +714,7 @@
   - edition: 1892
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -724,35 +724,35 @@
   - edition: 1892
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/christmas-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -762,63 +762,63 @@
   - edition: 1892
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -828,7 +828,7 @@
   - edition: 1928
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -838,7 +838,7 @@
   - edition: 1928
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -848,7 +848,7 @@
   - edition: 1928
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -858,14 +858,14 @@
   - edition: 1928
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/christmas-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -875,7 +875,7 @@
   - edition: 1928
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -885,14 +885,14 @@
   - edition: 1928
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -902,28 +902,28 @@
   - edition: 1928
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
@@ -933,21 +933,21 @@
   - edition: 1928
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1928
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1979
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -957,7 +957,7 @@
   - edition: 1979
     service: collects-epistles-gospels/advent-2
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -967,7 +967,7 @@
   - edition: 1979
     service: collects-epistles-gospels/advent-3
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -977,7 +977,7 @@
   - edition: 1979
     service: collects-epistles-gospels/advent-4
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -989,7 +989,7 @@
   - edition: 1979
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -999,7 +999,7 @@
   - edition: 1979
     service: collects-epistles-gospels/christmas-2
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1009,7 +1009,7 @@
   - edition: 1979
     service: collects-epistles-gospels/christmas-day
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1019,7 +1019,7 @@
   - edition: 1979
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1029,7 +1029,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1039,7 +1039,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1049,7 +1049,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-2
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1059,7 +1059,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-3
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1069,7 +1069,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-4
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1079,7 +1079,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-5
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1089,7 +1089,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1101,7 +1101,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-7
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1111,7 +1111,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-8
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
@@ -1123,7 +1123,7 @@
   - edition: 1979
     service: collects-epistles-gospels/epiphany-last
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
-    retrieved: 2026-08-17
+    retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."

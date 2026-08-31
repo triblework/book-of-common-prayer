@@ -355,7 +355,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 epiphany-8 | `Eighth Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 epiphany-last | `Last Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 <!-- wave10-10a rows: end -->
-
 ## Occasional offices — Baptism family & Confirmation (Wave 5)
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has

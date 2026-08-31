@@ -165,7 +165,7 @@ flow **source → spine → script → file** and are never emitted as model tok
 
 ---
 
-## 5. Per-edition presence (10a; confirmed against the indexes 2026-08-17)
+## 5. Per-edition presence (10a; confirmed against the indexes 2026-08-31)
 
 | edition | present? | source |
 |---|---|---|
