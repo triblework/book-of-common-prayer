@@ -225,6 +225,30 @@ The published branches and tags are build artifacts, regenerated from the
   edition-variable block after the Litany (1552 onward) and which the 1662 and
   American books gather into a separate "Prayers and Thanksgivings upon several
   Occasions" section; these are their own future wave, not part of the Litany file.
+- **2026-08-17** — Wave 10a: the **Collects, Epistles and Gospels** (the "propers")
+  for Advent through the Sundays after the Epiphany, across the ten editions that
+  carry them (absent from the Communion-only Scottish 1764/1929). Wave 10 is split
+  into seasonal sub-waves, each published separately: 10a Advent–Epiphany, 10b
+  pre-Lent–Easter Even, 10c Easter–Trinity, 10d the Holy Days.
+  **Reading depth is a deliberate scoping choice:** each occasion carries its
+  Collect(s) in full, and the Epistle and Gospel as their appointed **citation
+  only**. The reading bodies are the Bible translation (Great Bible → King James →
+  later versions), a separate work from the Prayer Book; the Prayer-Book signal is
+  the collect wording and the appointed pericope, which the citation captures. The
+  citation is written to the precision the book itself prints — chapter only for
+  1549–1559, chapter and initial verse from 1662 and in the American line — so a
+  closing verse supplied only by a modern editor never manufactures a diff.
+  **1979 is mapped by an explicit crosswalk**, not by calendar number: 1979
+  renumbers the year, and most historic collects that survive in it land on days
+  outside this season (Advent 2's at Proper 28, Epiphany 1's at Proper 10). Its
+  traditional-language collect carries the lineage diff and the contemporary one
+  sits alongside; because 1979 appoints three reading sets per day under the
+  three-year lectionary, it carries no single Epistle and Gospel, and those tables
+  are deferred to the lectionary wave.
+  **Two gaps are recorded rather than filled:** no allow-listed source prints the
+  1604 propers, so the initial verse numbers that entered the citations in 1604 are
+  not represented; and the public-domain 1979 e-text lost three collects in its
+  1993 keying, which are flagged inline and not reconstructed.
 
 ## A note on transcription
 

@@ -241,6 +241,20 @@ git diff v1604 v1662 -- texts/normalized/front-matter/concerning-the-service.md
 # Ratification, and the deletion of Concerning-the-Service and Of Ceremonies:
 git diff v1662 v1789 -- texts/normalized/front-matter/
 
+# The 1552 book drops the Introit — the proper psalm the 1549 appointed before
+# each Collect — from every Sunday and Holy Day at once:
+git diff v1549 v1552 -- texts/normalized/collects-epistles-gospels/advent-1.md
+
+# 1662 adds a Sixth Sunday after the Epiphany, which the earlier books do not have:
+git diff v1604 v1662 -- texts/normalized/collects-epistles-gospels/epiphany-6.md
+
+# The 1928 American book re-appoints the Epistle for the Circumcision:
+git diff v1892 v1928 -- texts/normalized/collects-epistles-gospels/circumcision.md
+
+# 1979 modernises the Advent 1 Collect and prints a contemporary-language version
+# alongside it; its three-year lectionary replaces the single Epistle and Gospel:
+git diff v1928 v1979 -- texts/normalized/collects-epistles-gospels/advent-1.md
+
 # Compare any two editions on a shared line, whole tree or one service:
 git diff v1552 v1662 -- texts/normalized/daily-office/
 ```
