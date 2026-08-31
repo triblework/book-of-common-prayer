@@ -46,7 +46,27 @@ SEASONS = [
         ("epiphany-3", "> The thirde Soondaye"),
         ("epiphany-4", "> The iiii Sonday"),
         ("epiphany-5", "> The v. Sonday"),
-        ("_skip:septuagesima", "> The sonday called Septuagesima."),
+        ("septuagesima", "> The sonday called Septuagesima."),
+        ("sexagesima", "> The Sunday called Sexagesima."),
+        ("quinquagesima", "> The Sonday called Quinquagesima."),
+    ]),
+    # ---- sub-wave 10b ----
+    ("1549_Lent.md", "notes_Lent.txt", [
+        ("ash-wednesday", "> The fyrst day of Lent"),
+        ("lent-1", "> The first Sonday in Lent."),
+        ("lent-2", "> The seconde Sonday"),
+        ("lent-3", "> The iii. Sonday"),
+        ("lent-4", "> The iiii Sonday"),
+        ("lent-5", "> The v. Sonday"),
+        ("palm-sunday", "> The Sonday next before Easter."),
+    ]),
+    ("1549_HolyWeek.md", "notes_HolyWeek.txt", [
+        ("monday-before-easter", "> Monday before Easter."),
+        ("tuesday-before-easter", "> Tewesday before Easter."),
+        ("wednesday-before-easter", "> Wednesday before Easter."),
+        ("thursday-before-easter", "> Thursday before Easter."),
+        ("good-friday", "> On good Fryday."),
+        ("easter-even", "> Easter Even."),
     ]),
 ]
 
@@ -56,7 +76,8 @@ SEASONS = [
 TITLE_OVERRIDE = {"christmas-day": "Christmas Day"}
 
 # Titles whose expansion the page footnotes only as "added in late 1500's".
-LATE_1500S = {"advent-3", "advent-4", "epiphany-3", "epiphany-4", "epiphany-5"}
+LATE_1500S = {"advent-3", "advent-4", "epiphany-3", "epiphany-4", "epiphany-5",
+              "ash-wednesday", "lent-2", "lent-3", "lent-4", "lent-5"}
 
 VERIFY_LATE = ("<!-- VERIFY: '{title}' — the source brackets this title expansion "
                "and footnotes it only as \"added in late 1500's\", without naming "

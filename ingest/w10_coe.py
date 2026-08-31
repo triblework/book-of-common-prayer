@@ -38,6 +38,14 @@ SLUGS = [
     ("-9", "epiphany"),
     ("-10", "epiphany-1"), ("-11", "epiphany-2"), ("-12", "epiphany-3"),
     ("-13", "epiphany-4"), ("-14", "epiphany-5"), ("-15", "epiphany-6"),
+    # ---- sub-wave 10b ---- ("/ash" is a path suffix, not a numbered slug)
+    ("-16", "septuagesima"), ("-17", "sexagesima"), ("-18", "quinquagesima"),
+    ("/ash", "ash-wednesday"),
+    ("-20", "lent-1"), ("-21", "lent-2"), ("-22", "lent-3"), ("-23", "lent-4"),
+    ("-24", "lent-5"), ("-25", "palm-sunday"),
+    ("-26", "monday-before-easter"), ("-27", "tuesday-before-easter"),
+    ("-28", "wednesday-before-easter"), ("-29", "thursday-before-easter"),
+    ("-30", "good-friday"), ("-31", "easter-even"),
 ]
 
 TAG = re.compile(
@@ -136,7 +144,10 @@ def main():
     for coe_slug, slug in SLUGS:
         doc = scrape.fetch(BASE + coe_slug)
         cell = parse(doc)
-        if not cell["title"] or not cell["collect"]:
+        # Monday-Thursday before Easter carry NO proper Collect in 1662 -- Palm
+        # Sunday's serves all week -- so a cell with only readings is valid.
+        has_reading = any(cell[k] and cell[k].get("cite") for k in ("epistle", "gospel"))
+        if not cell["title"] or not (cell["collect"] or has_reading):
             print(f"  !! {slug}: title={cell['title']!r} collect={len(cell['collect'])}")
             continue
         dest = os.path.abspath(os.path.join(

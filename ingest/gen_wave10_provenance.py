@@ -31,12 +31,33 @@ for s in ("christmas-day", "christmas-1", "christmas-2", "circumcision"):
 SEASON.update({f"epiphany-{n}": "Epiphany" for n in (1, 2, 3, 4, 5, 6, 7, 8)})
 SEASON["epiphany"] = "Epiphany"
 SEASON["epiphany-last"] = "Epiphany"
+for s_ in ("septuagesima", "sexagesima", "quinquagesima"):
+    SEASON[s_] = "Epiphany"          # printed on the justus Epiphany page
+for s_ in ("ash-wednesday", "lent-1", "lent-2", "lent-3", "lent-4", "lent-5",
+           "palm-sunday"):
+    SEASON[s_] = "Lent"
+for s_ in ("monday-before-easter", "tuesday-before-easter",
+           "wednesday-before-easter", "thursday-before-easter", "good-friday",
+           "easter-even"):
+    SEASON[s_] = "HolyWeek"
+
+# The American synoptic runs onto a second page at Palm Sunday.
+AMERICAN_PAGE_B = {"palm-sunday", "monday-before-easter", "tuesday-before-easter",
+                   "wednesday-before-easter", "thursday-before-easter",
+                   "good-friday", "easter-even"}
 
 COE_SLUG = {"advent-1": "-1", "advent-2": "-2", "advent-3": "-3", "advent-4": "-4",
             "christmas-day": "-6", "christmas-1": "-7", "circumcision": "-8",
             "epiphany": "-9", "epiphany-1": "-10", "epiphany-2": "-11",
             "epiphany-3": "-12", "epiphany-4": "-13", "epiphany-5": "-14",
-            "epiphany-6": "-15"}
+            "epiphany-6": "-15",
+            "septuagesima": "-16", "sexagesima": "-17", "quinquagesima": "-18",
+            "ash-wednesday": "/ash",
+            "lent-1": "-20", "lent-2": "-21", "lent-3": "-22", "lent-4": "-23",
+            "lent-5": "-24", "palm-sunday": "-25",
+            "monday-before-easter": "-26", "tuesday-before-easter": "-27",
+            "wednesday-before-easter": "-28", "thursday-before-easter": "-29",
+            "good-friday": "-30", "easter-even": "-31"}
 
 VERIFY_RE = re.compile(r"<!--\s*VERIFY\b(.*?)-->", re.S | re.I)
 
@@ -51,7 +72,8 @@ def source_url(edition, slug):
     if edition == "1637":
         return J + "Scotland/Collects1_1637.htm"
     if edition in ("1789", "1892", "1928"):
-        return J + "1789/Readings1789&1892A.htm"
+        page = "B" if slug in AMERICAN_PAGE_B else "A"
+        return J + f"1789/Readings1789&1892{page}.htm"
     if edition == "1979":
         return J + "bcpcolct.txt"
     raise KeyError(edition)

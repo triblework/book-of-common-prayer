@@ -26,21 +26,32 @@ EP6 = [F + "epiphany-6"]
 XMAS2 = [F + "christmas-2"]
 NEW1979 = [F + s for s in ("epiphany-7", "epiphany-8", "epiphany-last")]
 
+# ---- sub-wave 10b ----
+GESIMA = [F + s for s in ("septuagesima", "sexagesima", "quinquagesima")]
+LENT = [F + s for s in ("ash-wednesday", "lent-1", "lent-2", "lent-3", "lent-4",
+                        "lent-5")]
+HOLYWEEK = [F + s for s in (
+    "palm-sunday", "monday-before-easter", "tuesday-before-easter",
+    "wednesday-before-easter", "thursday-before-easter", "good-friday",
+    "easter-even")]
+W10B = GESIMA + LENT + HOLYWEEK
+
 AMERICAN = BASE13 + EP6 + XMAS2
 
 ADD = {
-    "1549": (BASE13, []),
-    "1552": (BASE13, []),
-    "1559": (BASE13, []),
-    "1604": (BASE13, []),
-    "1662": (BASE13 + EP6, []),
-    "1637": (BASE13, []),
-    "1764": ([], BASE13),
+    "1549": (BASE13 + W10B, []),
+    "1552": (BASE13 + W10B, []),
+    "1559": (BASE13 + W10B, []),
+    "1604": (BASE13 + W10B, []),
+    "1662": (BASE13 + EP6 + W10B, []),
+    "1637": (BASE13 + W10B, []),
+    "1764": ([], BASE13 + W10B),
     "1929": ([], []),
-    "1789": (AMERICAN, []),
-    "1892": (AMERICAN, []),
-    "1928": (AMERICAN, []),
-    "1979": (AMERICAN + NEW1979, []),
+    "1789": (AMERICAN + W10B, []),
+    "1892": (AMERICAN + W10B, []),
+    "1928": (AMERICAN + W10B, []),
+    # 1979 abolishes the pre-Lent "Gesima" Sundays -> a genuine drop.
+    "1979": (AMERICAN + NEW1979 + LENT + HOLYWEEK, GESIMA),
 }
 
 

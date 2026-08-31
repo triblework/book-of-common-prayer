@@ -40,7 +40,28 @@ MAP = [
     ("epiphany-7", "Seventh Sunday after the Epiphany"),
     ("epiphany-8", "Eighth Sunday after the Epiphany"),
     ("epiphany-last", "Last Sunday after the Epiphany"),
+    # ---- sub-wave 10b ----
+    # 1979 keeps every 10b day but renames several; same day -> same slug, and
+    # the rename is a heading diff. It DROPS the pre-Lent "Gesima" Sundays
+    # entirely (septuagesima/sexagesima/quinquagesima appear nowhere in the
+    # book), so those are `absent:` at 1979 rather than force-mapped.
+    ("ash-wednesday", "Ash Wednesday"),
+    ("lent-1", "First Sunday in Lent"),
+    ("lent-2", "Second Sunday in Lent"),
+    ("lent-3", "Third Sunday in Lent"),
+    ("lent-4", "Fourth Sunday in Lent"),
+    ("lent-5", "Fifth Sunday in Lent"),
+    ("palm-sunday", "Sunday of the Passion:  Palm Sunday"),
+    ("monday-before-easter", "Monday in Holy Week"),
+    ("tuesday-before-easter", "Tuesday in Holy Week"),
+    ("wednesday-before-easter", "Wednesday in Holy Week"),
+    ("thursday-before-easter", "Maundy Thursday"),
+    ("good-friday", "Good Friday"),
+    ("easter-even", "Holy Saturday"),
 ]
+
+# Dropped by 1979 -> `absent:` in editions.yaml, never mapped onto a 1979 collect.
+DROPPED_1979 = ["septuagesima", "sexagesima", "quinquagesima"]
 
 DEFECT = ("<!-- VERIFY: '{occ}' — the {which}-language collect for this day is "
           "absent from the public-domain e-text (a dropout in its 1993 keying, "

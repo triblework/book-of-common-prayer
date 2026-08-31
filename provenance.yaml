@@ -2800,6 +2800,16 @@ records:
       - anchor: "advent-4"
         note: ": 'The fourth sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
   - edition: 1549
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+    verify_items:
+      - anchor: "ash-wednesday"
+        note: ": 'The fyrst day of Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
     retrieved: 2026-08-31
@@ -2816,6 +2826,13 @@ records:
   - edition: 1549
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -2871,6 +2888,116 @@ records:
     verify_items:
       - anchor: "epiphany-5"
         note: ": 'The v. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+    verify_items:
+      - anchor: "lent-2"
+        note: ": 'The seconde Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+    verify_items:
+      - anchor: "lent-3"
+        note: ": 'The iii. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+    verify_items:
+      - anchor: "lent-4"
+        note: ": 'The iiii Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+    verify_items:
+      - anchor: "lent-5"
+        note: ": 'The v. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1549
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1549
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
   - edition: 1552
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
@@ -2906,6 +3033,16 @@ records:
       - anchor: "advent-4"
         note: ": 'The fourth sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
   - edition: 1552
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "ash-wednesday"
+        note: ": 'The fyrst day of Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
     retrieved: 2026-08-31
@@ -2922,6 +3059,13 @@ records:
   - edition: 1552
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -2977,6 +3121,116 @@ records:
     verify_items:
       - anchor: "epiphany-5"
         note: ": 'The v. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-2"
+        note: ": 'The seconde Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-3"
+        note: ": 'The iii. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-4"
+        note: ": 'The iiii Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-5"
+        note: ": 'The v. Sonday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1552
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1552
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1559
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
@@ -3012,6 +3266,16 @@ records:
       - anchor: "advent-4"
         note: ": 'The fourth sonday in Advent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
   - edition: 1559
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "ash-wednesday"
+        note: ": 'The fyrst day of Lent, commonly called Ash-Wednesday' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
     retrieved: 2026-08-31
@@ -3028,6 +3292,13 @@ records:
   - edition: 1559
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3083,6 +3354,116 @@ records:
     verify_items:
       - anchor: "epiphany-5"
         note: ": 'The v. Sondayafter the Epiphany' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-2"
+        note: ": 'The seconde Sonday in Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-3"
+        note: ": 'The iii. Sonday in Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-4"
+        note: ": 'The iiii Sonday in Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+    verify_items:
+      - anchor: "lent-5"
+        note: ": 'The v. Sonday in Lent' — the source brackets this title expansion and footnotes it only as \"added in late 1500's\", without naming a book; represented here as entering at 1559."
+  - edition: 1559
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
+  - edition: 1559
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the shared justus 1549/1552/1559 synoptic using that page's own apparatus: 1552 drops the Introits and the 1549-only proper Psalms/Lessons; 1559 adds 'Amen' to each collect after Advent 1 (applied only where one is absent) and the bracketed title expansions the page footnotes as 'added in late 1500's'."
   - edition: 1604
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Advent_1549.htm
@@ -3112,6 +3493,13 @@ records:
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1604
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
     retrieved: 2026-08-31
@@ -3128,6 +3516,13 @@ records:
   - edition: 1604
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Xmas_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
     retrieved: 2026-08-31
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3174,6 +3569,104 @@ records:
     status: reviewed-unchanged
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Lent_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_Epiphany_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
+  - edition: 1604
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1549/Readings_HolyWeek_1549.htm
+    retrieved: 2026-08-31
+    status: reviewed-unchanged
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "1604 inherits 1559. No allow-listed source prints the 1604 propers. The justus apparatus records that initial verse numbers (rather than bare chapter numbers) entered the Epistle/Gospel citations in 1604; that change is therefore NOT represented, rather than reconstructed by inference from 1662."
   - edition: 1662
     service: collects-epistles-gospels/advent-1
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-1
@@ -3203,6 +3696,13 @@ records:
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1662
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels/ash
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
     service: collects-epistles-gospels/christmas-1
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-7
     retrieved: 2026-08-31
@@ -3219,6 +3719,13 @@ records:
   - edition: 1662
     service: collects-epistles-gospels/circumcision
     source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-8
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/easter-even
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-31
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3272,6 +3779,104 @@ records:
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/good-friday
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-30
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/lent-1
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-20
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/lent-2
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-21
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/lent-3
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-22
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/lent-4
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-23
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/lent-5
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-24
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-26
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/palm-sunday
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-25
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/quinquagesima
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-18
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/septuagesima
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-16
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/sexagesima
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-17
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-29
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-27
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
+  - edition: 1662
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/collects-epistles-and-gospels-28
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the Church of England website (PD outside the UK; Crown copyright within, reproduced with the required acknowledgment). The citation is taken from the page's bible-reference line; the reading body is never transcribed."
   - edition: 1637
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
@@ -3301,6 +3906,13 @@ records:
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
     retrieved: 2026-08-31
@@ -3316,6 +3928,13 @@ records:
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1637
     service: collects-epistles-gospels/circumcision
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/easter-even
     source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
     retrieved: 2026-08-31
     status: transcribed
@@ -3363,6 +3982,104 @@ records:
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
+  - edition: 1637
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/Scotland/Collects1_1637.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the justus Scottish 1637 collects page, which prints the collects in full and the readings as citations only."
   - edition: 1789
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
@@ -3392,6 +4109,13 @@ records:
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Transcribed from the edition's source page."
   - edition: 1789
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
     retrieved: 2026-08-31
@@ -3415,6 +4139,13 @@ records:
   - edition: 1789
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3464,6 +4195,104 @@ records:
   - edition: 1789
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Transcribed from the edition's source page."
+  - edition: 1789
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3503,6 +4332,13 @@ records:
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1892
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
     retrieved: 2026-08-31
@@ -3529,6 +4365,13 @@ records:
   - edition: 1892
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3578,6 +4421,104 @@ records:
   - edition: 1892
     service: collects-epistles-gospels/epiphany-6
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1892
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3623,6 +4564,13 @@ records:
       - anchor: "advent-4"
         note: ": 'The Fourth Sunday in Advent' — * through Jesus Christ our Lord in 1928"
   - edition: 1928
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
     retrieved: 2026-08-31
@@ -3652,6 +4600,13 @@ records:
   - edition: 1928
     service: collects-epistles-gospels/circumcision
     source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
@@ -3711,6 +4666,104 @@ records:
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
     note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/quinquagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/septuagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/sexagesima
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892A.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
+  - edition: 1928
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/1789/Readings1789&1892B.htm
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "Derived from the four-edition American synoptic (1786 Proposed / 1789 / 1892 / 1928) by applying that page's apparatus column; each delta cites the note that licenses it."
   - edition: 1979
     service: collects-epistles-gospels/advent-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
@@ -3754,6 +4807,16 @@ records:
       - anchor: "advent-4"
         note: ": 'Fourth Sunday of Advent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   - edition: 1979
+    service: collects-epistles-gospels/ash-wednesday
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "ash-wednesday"
+        note: ": 'Ash Wednesday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
     service: collects-epistles-gospels/christmas-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
     retrieved: 2026-08-31
@@ -3793,6 +4856,18 @@ records:
     verify_items:
       - anchor: "circumcision"
         note: ": 'The Holy Name' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/easter-even
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "easter-even"
+        note: ": 'Holy Saturday' — the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed."
+      - anchor: "easter-even"
+        note: ": 'Holy Saturday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   - edition: 1979
     service: collects-epistles-gospels/epiphany
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
@@ -3897,4 +4972,116 @@ records:
     verify_items:
       - anchor: "epiphany-last"
         note: ": 'Last Sunday after the Epiphany' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/good-friday
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "good-friday"
+        note: ": 'Good Friday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/lent-1
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "lent-1"
+        note: ": 'First Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/lent-2
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "lent-2"
+        note: ": 'Second Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/lent-3
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "lent-3"
+        note: ": 'Third Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/lent-4
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "lent-4"
+        note: ": 'Fourth Sunday in Lent' — the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed."
+      - anchor: "lent-4"
+        note: ": 'Fourth Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/lent-5
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "lent-5"
+        note: ": 'Fifth Sunday in Lent' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/monday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "monday-before-easter"
+        note: ": 'Monday in Holy Week' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/palm-sunday
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "palm-sunday"
+        note: ": 'Sunday of the Passion: Palm Sunday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/thursday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "thursday-before-easter"
+        note: ": 'Maundy Thursday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/tuesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "tuesday-before-easter"
+        note: ": 'Tuesday in Holy Week' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
+  - edition: 1979
+    service: collects-epistles-gospels/wednesday-before-easter
+    source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
+    retrieved: 2026-08-31
+    status: transcribed
+    verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    verify_items:
+      - anchor: "wednesday-before-easter"
+        note: ": 'Wednesday in Holy Week' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   # --- end Wave 10 (10a) ---

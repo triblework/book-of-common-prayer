@@ -42,8 +42,33 @@ MARKS = [
     ("epiphany-4", "The Fourth Sunday after the Epiphany."),
     ("epiphany-5", "The Fifth Sunday after the Epiphany."),
     ("epiphany-6", "The Sixth Sunday after the Epiphany."),
-    ("_skip:septuagesima", "The Sunday called Septuagesima,"),
+    ("septuagesima", "The Sunday called Septuagesima,"),
+    ("sexagesima", "The Sunday called Sexagesima,"),
+    ("quinquagesima", "The Sunday called Quinquagesima,"),
+    ("ash-wednesday", "Ash-Wednesday"),
+    ("lent-1", "The First Sunday in Lent."),
+    ("lent-2", "The Second Sunday in Lent"),
+    ("lent-3", "The Third Sunday in Lent."),
+    ("lent-4", "The Fourth Sunday in Lent."),
+    ("lent-5", "The Fifth Sunday in Lent."),
 ]
+
+# Holy Week runs onto the second synoptic page.
+MARKS_B = [
+    ("palm-sunday", "The Sunday next before Easter."),
+    ("monday-before-easter", "Monday before Easter."),
+    ("tuesday-before-easter", "Tuesday before Easter."),
+    ("wednesday-before-easter", "Wednesday before Easter"),
+    ("thursday-before-easter", "Thursday before Easter."),
+    ("good-friday", "Good Friday"),
+    ("easter-even", "Easter Even."),
+    ("_skip:easter-day", "Easter-day."),
+]
+
+SPINES = [("1789_A.md", MARKS), ("1789_B.md", MARKS_B)]
+
+# "Collect added in 1928." -- 1789 and 1892 print no collect for these days.
+COLLECT_FROM_1928 = {"tuesday-before-easter", "wednesday-before-easter"}
 
 SECOND_SERVICE = "twice celebrated on Christmas-day"
 COLLECT = re.compile(r"^>\s*The Collect\.?\s*$", re.I)
@@ -189,13 +214,13 @@ def render(cell, verifies):
 
 
 def main():
-    lines, _ = W.load("1789_A.md")
-    lines = [ln for ln in lines if not is_apparatus(ln)]
-    segs = W.segment(lines, [], MARKS)
     base = {}
-    for slug, block in segs.items():
-        if not slug.startswith("_skip:"):
-            base[slug] = parse(block)
+    for spine, marks in SPINES:
+        lines, _ = W.load(spine)
+        lines = [ln for ln in lines if not is_apparatus(ln)]
+        for slug, block in W.segment(lines, [], marks).items():
+            if not slug.startswith("_skip:"):
+                base[slug] = parse(block)
 
     for edition in ("1789", "1892", "1928"):
         applied = []
@@ -231,6 +256,10 @@ def main():
             # 1789/1892 have no readings for the Second Sunday after Christmas.
             if slug == "christmas-2" and edition in ("1789", "1892"):
                 cell["epistle"] = cell["gospel"] = None
+            # "Collect added in 1928." -- Tuesday/Wednesday before Easter print
+            # no collect in the earlier American books.
+            if slug in COLLECT_FROM_1928 and edition in ("1789", "1892"):
+                cell["collect"] = []
             W.write_cell(edition, slug, render(cell, verifies))
         print(f"  {edition}: {len(base)} cells, deltas applied: "
               f"{', '.join(sorted(set(applied))) or 'none (base text)'}")

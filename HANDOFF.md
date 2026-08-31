@@ -11,7 +11,45 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10a (Advent → Epiphany propers) DONE + PUBLISHED (2026-08-31)
+## CURRENT — Wave 10b (pre-Lent → Easter Even) BUILT + BUILD-GREEN, NOT PUBLISHED
+
+**10b is DONE on `authoring` and awaiting go-ahead on the force-push.** 16 further
+occasions (septuagesima, sexagesima, quinquagesima, ash-wednesday, lent-1..5,
+palm-sunday, monday/tuesday/wednesday/thursday-before-easter, good-friday,
+easter-even) across the same ten editions — 270 cells total for 10a+10b.
+Authoring `verify_index` reconciles (234 inline / 290 provenance); all 12 tags
+build; all three tips pass sentence_split/normalize/verify_index `--check`.
+Presence: 29 at v1559, 30 at v1662, 31 at v1789/v1979, 0 at v1764/v1929;
+1979 carries 3 explicit absences (the Gesima drop).
+
+10b findings, all represented rather than smoothed away:
+- **Several Holy Week days carry NO proper Collect** (Palm Sunday's serves the
+  week) — those cells hold only readings, and their Epistle is an OT lesson the
+  books label "For the Epistle" (kept as a `> ` rubric above the citation).
+- **Good Friday carries three Collects**; 1637 prints the label as "The Collects".
+- **The American line prints no Collect for Tuesday/Wednesday before Easter until
+  1928**, which adds them (licensed by the apparatus note "Collect added in 1928.").
+- **1979 abolishes the pre-Lent Gesima Sundays** — a genuine deletion, recorded as
+  `absent:` at 1979, never force-mapped onto another day's collect. 1979 renames
+  the days it keeps (Monday in Holy Week / Maundy Thursday / Holy Saturday) →
+  heading diffs on the same slugs.
+- Source spellings that broke naive matching: 1637 prints "Munday before Easter";
+  the American page prints "Wednesday before Easter" with no full stop.
+- New citation forms the canonicalizer refused rather than guessed (then added):
+  `Esai.`, `Joh.`, `1 St. Pet.`, plus two-chapter Passion refs (`Mat.26.1. [-27:56]`).
+
+Flagship diffs verified: the Gesima deletion at v1928→v1979 (14 deletions), the
+1928 Collect addition for Tuesday before Easter, the Easter Even → Holy Saturday
+rename, and the 1552 Introit drop at ash-wednesday.
+
+TO PUBLISH 10b: same §5 sequence as 10a. THEN 10c (Easter → Trinity), which is the
+largest sub-wave (~40 occasions) and where the 1979 Propers crosswalk actually
+bites — `ingest/WAVE10_1979_CROSSWALK.md` already records the 10a destinations
+(Advent 2 → Proper 28, Epiphany 1 → Proper 10, Epiphany 6 → Proper 27).
+
+<!-- Superseded: the 10a block is kept below -->
+
+## Wave 10a (Advent → Epiphany propers) DONE + PUBLISHED (2026-08-31)
 
 **Sub-wave 10a is DONE + PUBLISHED (force-pushed 2026-08-31). NEW published tips:
 `main fb511f2 · scottish 271358d · american 55998b5`; all 12 vYYYY tags recreated;

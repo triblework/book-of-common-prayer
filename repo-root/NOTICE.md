@@ -250,6 +250,20 @@ The published branches and tags are build artifacts, regenerated from the
   not represented; and the public-domain 1979 e-text lost three collects in its
   1993 keying, which are flagged inline and not reconstructed.
 
+- **2026-08-31** — Wave 10b: the propers for **pre-Lent through Easter Even**
+  (Septuagesima, Sexagesima and Quinquagesima; Ash Wednesday; the five Sundays in
+  Lent; Holy Week; Easter Even), 16 occasions across the same ten editions.
+  Notable features of the books, represented rather than smoothed away: several
+  days in Holy Week carry **no proper Collect** (the Sunday next before Easter's
+  serves the week), so those cells hold only their appointed readings, and the
+  Epistle on those days is an Old Testament lesson, which the books label "For the
+  Epistle". Good Friday carries three Collects. The American line prints no Collect
+  for the Tuesday and Wednesday before Easter until **1928**, which adds them.
+  The **1979 book abolishes the pre-Lent "Gesima" Sundays** altogether; that is a
+  genuine deletion, recorded as an explicit absence rather than mapped onto some
+  other day's collect. 1979 also renames the days it keeps (Monday in Holy Week,
+  Maundy Thursday, Holy Saturday), which shows as a heading change on the same
+  file.
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

@@ -42,13 +42,29 @@ MARKS = [
     ("epiphany-3", "The third Sunday after the Epiphany."),
     ("epiphany-4", "The iiij. Sunday after the Epiphany."),
     ("epiphany-5", "The fifth Sunday after the Epiphany."),
-    ("_skip:septuagesima", "The Sunday called Septuagesima."),
+    ("septuagesima", "The Sunday called Septuagesima."),
+    ("sexagesima", "The Sund. called Sexagesima."),
+    ("quinquagesima", "The Sunday called Quinquagesima."),
+    ("ash-wednesday", "called Ashwednesday."),
+    ("lent-1", "The first Sunday in Lent."),
+    ("lent-2", "The second Sunday in Lent."),
+    ("lent-3", "The third Sunday in Lent"),
+    ("lent-4", "The fourth Sunday in Lent"),
+    ("lent-5", "The fifth Sunday in Lent"),
+    ("palm-sunday", "Sunday next before Easter"),
+    # "Munday" -- the page's own spelling.
+    ("monday-before-easter", "Munday before Easter."),
+    ("tuesday-before-easter", "Tuesday before Easter."),
+    ("wednesday-before-easter", "Wednesday before Easter."),
+    ("thursday-before-easter", "Thursday before Easter."),
+    ("good-friday", "On good Friday."),
+    ("easter-even", "Easter Even."),
 ]
 
-CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9]+\])?$")
+CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9:]+\])?$")
 EPISTLE = re.compile(r"^>?\s*(For the Epistle|The Epistle)\s*\.?\s*$", re.I)
 GOSPEL = re.compile(r"^>?\s*The Gospel\s*\.?\s*$", re.I)
-COLLECT = re.compile(r"^>?\s*The Collect\s*\.?\s*$", re.I)
+COLLECT = re.compile(r"^>?\s*The Collects?\s*\.?\s*$", re.I)
 
 # Editorial prose on the Scotland page (not Prayer-Book text).
 APPARATUS = ("In the original, the Epistles and Gospels are printed at length",
