@@ -6,7 +6,9 @@ Jubilate Deo. Psalm 100
 
 ## The Collect
 
-God, which, &c. as upon witsonday.
+God, which, &c. as upon
+
+witsonday.
 
 ## The Epistle
 

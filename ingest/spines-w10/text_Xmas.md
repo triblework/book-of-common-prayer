@@ -1,56 +1,24 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 Proper Psalmes and lessons on Christmas day.
 
-> 
-
-At Mattins.
+>  At Mattins.
 
 Psalms
 
 xix. xlv. lxxxv.
 
-The
-
-First Lesson, Isa. ix. Unto the ende.
+The First Lesson, Isa. ix. Unto the ende.
 
 The Second Less, Matt. 1. Unto the ende.
 
-> 
-
-At the First Communion.
+>  At the First Communion.
 
 Cantate
 
 Domino. Psalm xcviii.
 
-O
-
-SING unto the Lorde a newe song: for he hath done maruaylous thinges.
+OSING unto the Lorde a newe song: for he hath done maruaylous thinges.
 
 With his owne right hande, and with his holy arme
 
@@ -94,13 +62,9 @@ Glory be to the father, and to the sonne &c.
 
 As it was in the begynnyng, is nowe, and euer &c.
 
-The
+The Collect.
 
-Collect.
-
-GOD,
-
-whiche makest us glad with the yerely remembraunce of the birth of thy
+GOD, whiche makest us glad with the yerely remembraunce of the birth of thy
 
 onely sonne Jesus Christ; graunt that as we joyfully receiue him for
 
@@ -348,13 +312,9 @@ yeres."
 
 At the Communion.
 
-Quid
+Quid gloriaris in malicia? Ps. lii.
 
-gloriaris in malicia? Ps. lii.
-
-WHY
-
-hoastest thou thyself, thou tyraunt: that thou canst do mischiefe.
+WHY hoastest thou thyself, thou tyraunt: that thou canst do mischiefe.
 
 Whereas the goodnes of God : endureth yet dayly.
 
@@ -410,9 +370,7 @@ saincte Stephin, who prayed to thee for hys persecutors; whiche liuest
 
 and reignest, &c.
 
-> 
-
-Then shall folowe a Collect of the Nativitie [which shalbe sayd
+>  Then shall folowe a Collect of the Nativitie [which shalbe sayd
 
 continually unto newe years daye]*.
 
@@ -488,13 +446,9 @@ Daye.
 
 At the Communion.
 
-In
+In Domino contido. Psalm xi.
 
-Domino contido. Psalm xi.
-
-IN
-
-the Lord put I my trust : how say ye then to my soule, that she shoulde
+IN the Lord put I my trust : how say ye then to my soule, that she shoulde
 
 flye as a bird to the hyll?
 
@@ -532,9 +486,7 @@ Glory be to the father, and to the sonne &c.
 
 As it was in the beginnyng, is now, and ever &c.
 
-The
-
-Collect.
+The Collect.
 
 MERCYFULL
 
@@ -854,9 +806,7 @@ thou arte also an heyre of God throughe Christe.
 
 The Gospel. Matt. i.
 
-THYS
-
-is the booke of the generacyon of Jesus Christe, the sonne of Dauid,
+THYS is the booke of the generacyon of Jesus Christe, the sonne of Dauid,
 
 the sonne of Abraham. Abraham begat Isaac; Isaac begat Jacob; Jacob
 
@@ -970,9 +920,7 @@ Laetatus
 
 sum. Ps. cxxii.
 
-I
-
-WAS glad when they sayde unto me : We wil goe into the house of the
+IWAS glad when they sayde unto me : We wil goe into the house of the
 
 Lorde.
 
@@ -1092,9 +1040,7 @@ name was called JESUS, which was named of the Angel before he was conceiued
 
 in the wombe.
 
-> 
-
-At Euensong.
+>  At Euensong.
 
 The First Lesson, Deut. x. "And now Israel," unto the ende.
 
@@ -1110,19 +1056,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

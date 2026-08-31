@@ -2,7 +2,15 @@
 
 ## The Collect
 
-GOD, whiche haste taughte all the worlde, through the preachyng of thy blessed apostle saincte Paule; graunt, we beseche thee, that we whiche have hys wonderfull conversion in remembraunce, maye folowe and fulfill the holy doctryne that he taughte; through Jesus Christ our Lorde.
+GOD, whiche haste
+
+taughte all the worlde, through the preachyng of thy blessed apostle
+
+saincte Paule; graunt, we beseche thee, that we whiche have hys wonderfull
+
+conversion in remembraunce, maye folowe and fulfill the holy doctryne
+
+that he taughte; through Jesus Christ our Lorde.
 
 ## The Epistle
 

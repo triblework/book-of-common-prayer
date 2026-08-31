@@ -4,7 +4,13 @@
 
 ## The Collect
 
-GRAUNTE, we beseche thee, almyghtye God, that we, whiche for oure evill dedes are worthely punyshed, by the comforte of thy grace may mercyfully be releved; through our Lorde Jesus Christe. Amen.
+GRAUNTE, we beseche. Amen.
+
+thee, almyghtye God, that we, whiche for oure evill dedes are worthely. Amen.
+
+punyshed, by the comforte of thy grace may mercyfully be releved; through. Amen.
+
+our Lorde Jesus Christe. Amen.
 
 ## The Epistle
 

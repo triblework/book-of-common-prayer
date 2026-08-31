@@ -2,7 +2,17 @@
 
 ## The Collect
 
-O LORD, whiche for oure sake dyddeste faste fortye dayes and fourtie nightes; Geve us grace to use suche abstinence, that, oure fleshe beyng subdued to the spirite, wee maye ever obeye thy Godlye mocions in righteousnesse, and true holinesse, to thy honoure and glorye, whiche lyveste and reigneste, &c.*. Amen.
+O LORD, whiche. Amen.
+
+for oure sake dyddeste faste fortye dayes and fourtie nightes; Geve. Amen.
+
+us grace to use suche abstinence, that, oure fleshe beyng subdued to. Amen.
+
+the spirite, wee maye ever obeye thy Godlye mocions in righteousnesse,. Amen.
+
+and true holinesse, to thy honoure and glorye, whiche lyveste and reigneste,. Amen.
+
+&c.*. Amen.
 
 ## The Epistle
 

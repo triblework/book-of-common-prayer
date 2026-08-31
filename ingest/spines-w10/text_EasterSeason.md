@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The first Sondaie after Easter.
@@ -121,6 +97,30 @@ this is the record, how that God hath geven unto us eternall life, and
 this lyfe is in his sonne. He that hath the sonne, hath lyfe; and he
 
 that hath not the sonne of God, hath not lyfe.
+
+The Gospell. John xx.
+
+THE same daye
+
+at nyghte; whiche was the firste daye of the Sabbothes [=week],
+
+when the dores were shut (where the disciples were assembled together,
+
+for feare of the Jewes,) came Jesus and stode in the middes [midst],
+
+and saide unto them; Peace bee unto you. And when he had so saide, he
+
+shewed unto them his handes and hys syde. Then were the disciples glad
+
+when thei sawe the lorde. Then saide Jesus to them againe: Peace be
+
+unto you. As my father sente me, even so sende I you also. And when
+
+he had saide those wordes, he breathed on them, and saide unto them;
+
+receive ye the holy ghoste. Whosoevers synnes ye remitte, they are remitted
+
+unto them. And whosoevers synnes ye retaine, they are retained.
 
 > The second Sondaie after Easter.
 
@@ -630,19 +630,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

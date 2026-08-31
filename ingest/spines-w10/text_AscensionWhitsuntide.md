@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The Assencion Day.
@@ -34,21 +10,13 @@ Psalms
 
 viii. xv. xxi.
 
-The
+The Second Lesson, John xiv. unto the end.
 
-Second Lesson, John xiv. unto the end.
+>  At the Communion.]*
 
-> 
+Omnes gentes plaudite. Psalm xlvii.
 
-At the Communion.]*
-
-Omnes
-
-gentes plaudite. Psalm xlvii.
-
-O
-
-CLAP your handes together (all ye people) : O syng unto God with the
+OCLAP your handes together (all ye people) : O syng unto God with the
 
 voyce of melody.
 
@@ -90,9 +58,7 @@ Glory be to the father, &c.
 
 As it was in the begin : &c.
 
-The
-
-Collect.
+The Collect.
 
 GRAUNTE
 
@@ -157,6 +123,42 @@ apparel, whiche also sayde: ye men of Galile, why stand ye gasyng up
 into heaven? This same Jesus, which is taken up from you into heaven,
 
 shall so come, even as ye have sene him goe into heaven.
+
+The Gospel. Mark xvi.
+
+JESUS appeared
+
+unto the eleven as they sate at meate: and cast in their teth [=upbraided]
+
+there [their] unbelefe and hardnes
+
+of heart, because they beleved not them which had sene that he was risen
+
+agayn from the dead: and he sayd unto them; goe ye into all the world,
+
+and preache the gospel to all creatures: he that beleveth, and is baptised,
+
+shalbee saved; But he that beleveth not shalbee damned. And these tokens
+
+shal folowe them that beleve. In my name they shall cast out devils,
+
+they shal speake with new tonges, they shall dryve away serpentes. And
+
+if they drinke any deadly thing, it shall not hurt them. They shall
+
+laye their handes on the sycke, and they shall recover. So then when
+
+the lord had spoken unto them, he was received into heaven, and is on
+
+the right hand of God. And they wente furth and preached every where;
+
+The lord working with them, and confirming the word with miracles folowing.
+
+[� Proper psalmes and lessons at Evensong.
+
+Psalms xxiv. lxviii. cxlviii.
+
+The Seconde Lesson, Ephe. iv. unto the ende.]*
 
 > The Sonday after the Ascencion.
 
@@ -370,9 +372,7 @@ As it was in the beginning, &c.
 
 The Collect.
 
-GOD,
-
-whiche as upon this daye haste [hast]
+GOD, whiche as upon this daye haste [hast]
 
 taughte the heartes of thy faithful people, by the sending to them the
 
@@ -636,9 +636,7 @@ Misericordiam.
 
 Psalm ci.
 
-MY
-
-song shall bee of mercye and judgemente : unto thee (O Lorde) will I
+MY song shall bee of mercye and judgemente : unto thee (O Lorde) will I
 
 sing.
 
@@ -744,19 +742,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

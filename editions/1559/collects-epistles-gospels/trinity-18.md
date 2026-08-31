@@ -2,7 +2,13 @@
 
 ## The Collect
 
-LORDE we beseche thee, graunt thy people grace to avoyde the infeccions of the Devil, and with pure harte and mynde to folowe thee the onelye God; Through Jesus Christ our Lorde. Amen.
+LORDE we beseche. Amen.
+
+thee, graunt thy people grace to avoyde the infeccions of the Devil,. Amen.
+
+and with pure harte and mynde to folowe thee the onelye God; Through. Amen.
+
+Jesus Christ our Lorde. Amen.
 
 ## The Epistle
 

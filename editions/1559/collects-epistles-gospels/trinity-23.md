@@ -2,7 +2,15 @@
 
 ## The Collect
 
-GOD, our refuge and strength, which art the author of all godlines, be ready to heare the devoute prayers of thy churche; and graunt that those thynges which we aske faithfully we maye obteine effectually; through Jesu Christe our lorde. Amen.
+GOD, our refuge. Amen.
+
+and strength, which art the author of all godlines, be ready to heare. Amen.
+
+the devoute prayers of thy churche; and graunt that those thynges which. Amen.
+
+we aske faithfully we maye obteine effectually; through Jesu Christe. Amen.
+
+our lorde. Amen.
 
 ## The Epistle
 

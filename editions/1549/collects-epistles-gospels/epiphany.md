@@ -2,11 +2,17 @@
 
 ## The Introit
 
-Cantate Domino. Psalm 96
+Domino. Psalm 96
 
 ## The Collect
 
-O GOD, which by the leading of a starre diddest manifest thy onelye begotten sonne to the Gentiles; Mercifully graunt, that we, which know thee now by faith, may after this life have the fruicion of thy glorious Godhead; through Christe our Lorde.
+OGOD, which by the leading of a starre diddest manifest thy onelye begotten
+
+sonne to the Gentiles; Mercifully graunt, that we, which know thee now
+
+by faith, may after this life have the fruicion of thy glorious Godhead;
+
+through Christe our Lorde.
 
 ## The Epistle
 
@@ -28,4 +34,6 @@ Matthew 2
 
 > The Firste Lesson, Esai. xlix. unto the ende.
 
-> The ii Lesson, John ii. "After this he wente doune Capernaum," unto the ende.; 1549 only
+> The ii Lesson, John ii. "After this he wente
+
+> doune Capernaum," unto the ende.

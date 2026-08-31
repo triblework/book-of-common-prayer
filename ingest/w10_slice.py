@@ -29,9 +29,14 @@ SPINES = os.path.join(HERE, "spines-w10")
 INTROIT = re.compile(r"^>?\s*(?P<incipit>[A-Z][^.]{2,60})\.\s*(?:Psalm|Ps\.)\s*(?P<num>[ivxlcIVXLC]+|\d+)\.?\s*$")
 READING = re.compile(r"^(?P<label>For the Epistle|The Epistle|The Gospel|The Gospell)[.,]?\s+(?P<cite>\S.*)$", re.I)
 LABEL_ONLY = re.compile(r"^>?\s*(For the Epistle|The Epistle|The Gospel|The Gospell)\s*[.,]?\s*$", re.I)
-COLLECT = re.compile(r"^>\s*The Collect\.?\s*$", re.I)
+COLLECT = re.compile(r"^>?\s*The Collects?\.?\s*$", re.I)
+# Only these two phrasings denote a reading shared with another day.
+# A looser pattern also matched general directions ("The sixth Sunday,
+# if there be so many..."), stealing a section and orphaning a real
+# citation.
+CROSSREF_RE = re.compile(r"(?:the same (?:that is )?appo[iy]nted|&c\.? as upon)", re.I)
 GLORIA = re.compile(r"^(Glory be to the (father|Father)|As it was in the (begynnyng|beginning))")
-SUBHEAD = re.compile(r"^>\s*(At Mattins|At Matins|At Mattyns|At Euensong|At Evensong|"
+SUBHEAD = re.compile(r"^>?\s*(At Mattins|At Matins|At Mattyns|At Euensong|At Evensong|"
                      r"At the (First|Firste|Seconde|Second) Communion|At the Communion)\b", re.I)
 
 
@@ -128,9 +133,13 @@ def segment(lines, notes, marks, textcol=""):
     """marks = [(slug, start-substring), ...] in spine order -> {slug: [lines]}"""
     idx = []
     for slug, marker in marks:
+        # Markers and lines are compared without the "> " rubric prefix, so the
+        # same mark table works against hc_clean's output and the text-column
+        # spine (whose pages mark labels with italics, not pilcrows).
+        probe_marker = re.sub(r"^>\s*", "", marker)
         found = None
         for i, ln in enumerate(lines):
-            if marker in ln:
+            if probe_marker in re.sub(r"^>\s*", "", ln):
                 if idx and i <= idx[-1][1]:
                     continue
                 found = i
@@ -236,6 +245,12 @@ def parse_cell(block, want_introit):
                 continue
             scope["collect"].append(bare)
             continue
+        if (mode in ("epistle", "gospel") and scope.get(mode)
+                and not scope[mode]["cite"] and CROSSREF_RE.search(bare)):
+            # Some days appoint no citation of their own but refer to another
+            # day's reading. That cross-reference IS the printed text.
+            scope[mode]["crossref"] = bare
+            continue
         if mode in ("epistle", "gospel") and scope.get(mode) and not scope[mode]["cite"]:
             # 1637 prints the citation on its own line beneath the label.
             if re.match(r"^[0-9A-Za-z][^ ]{0,12}\.?\s*[0-9ivxlcIVXLC]", bare) and len(bare) < 40:
@@ -253,14 +268,17 @@ def render(cell, title, edition, want_introit, keep_bracket):
     parts = [f"# {title}", ""]
 
     def cite_block(anchor, slot):
-        if not slot or not slot.get("cite"):
+        if not slot or not (slot.get("cite") or slot.get("crossref")):
             return
         parts.append(f"## {anchor}")
         parts.append("")
         if slot.get("for_the"):
             parts.append("> For the Epistle.")
             parts.append("")
-        parts.append(canonical(slot["cite"]))
+        if slot.get("cite"):
+            parts.append(canonical(slot["cite"]))
+        else:
+            parts.append("> " + slot["crossref"])
         parts.append("")
 
     if want_introit and cell.get("introit"):

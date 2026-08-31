@@ -21,6 +21,8 @@ sys.path.insert(0, HERE)
 from w10_cite import BOOKS  # noqa: E402
 
 ALLOWED = {w.lower() for name in BOOKS.values() for w in name.split()}
+# "and part of chapter 16" -- the compound-citation rendering (guide 3).
+ALLOWED |= {"chapter", "and", "part", "of"}
 
 MISSING = re.compile(r"^\s*'(?P<word>[^']+)'\s*x\d+\s*$")
 

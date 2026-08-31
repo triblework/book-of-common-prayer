@@ -4,7 +4,13 @@
 
 ## The Collect
 
-WE beseche thee, almighty God, looke upon the hartye desires of thy humble servauntes, and stretche foorth the right hande of thy majestie, to bee oure defence against all oure enemies; through Jesus Christe oure Lorde. Amen.
+WE beseche thee,. Amen.
+
+almighty God, looke upon the hartye desires of thy humble servauntes,. Amen.
+
+and stretche foorth the right hande of thy majestie, to bee oure defence. Amen.
+
+against all oure enemies; through Jesus Christe oure Lorde. Amen.
 
 ## The Epistle
 

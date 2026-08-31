@@ -58,6 +58,29 @@ for s_ in ("easter-wednesday", "easter-thursday", "easter-friday",
            "easter-saturday"):
     SEASON[s_] = "EasterWeek"
 
+# ---- sub-wave 10d: the Saints' Days ----
+SAINTS_A = ("st-andrew", "st-thomas", "conversion-st-paul", "purification",
+            "st-matthias", "annunciation", "st-mark", "st-philip-st-james",
+            "st-barnabas", "st-john-baptist")
+SAINTS_B = ("st-peter", "st-mary-magdalene", "st-james", "st-bartholomew",
+            "st-matthew", "st-michael", "st-luke", "st-simon-st-jude",
+            "all-saints", "transfiguration")
+for s_ in SAINTS_A:
+    SEASON[s_] = "SaintsA"
+for s_ in SAINTS_B:
+    SEASON[s_] = "SaintsB"
+# These three are printed in the Christmas block of the 1549 pages.
+for s_ in ("st-stephen", "st-john-evangelist", "holy-innocents"):
+    SEASON[s_] = "Xmas"
+for s_ in ("st-joseph", "the-visitation", "st-mary-the-virgin",
+           "st-james-of-jerusalem", "independence-day", "thanksgiving-day"):
+    SEASON[s_] = "SaintsB"      # 1979-only; sourced from the e-text
+
+SAINTS = set(SAINTS_A) | set(SAINTS_B) | {
+    "st-stephen", "st-john-evangelist", "holy-innocents", "st-joseph",
+    "the-visitation", "st-mary-the-virgin", "st-james-of-jerusalem",
+    "independence-day", "thanksgiving-day"}
+
 # The justus 1549 filenames are not uniform.
 PAGE_FILE = {"EasterWeek": "Reading_EasterWeek_1549.htm",
              "AscensionWhitsuntide": "Readings_Ascension&Whitsuntide_1549.htm"}
@@ -105,10 +128,13 @@ def source_url(edition, slug):
     if edition == "1662":
         return COE + COE_SLUG.get(slug, COE_10C.get(slug, ""))
     if edition == "1637":
-        n = "2" if slug in SCOTTISH_PAGE_B else "1"
+        n = ("3" if slug in SAINTS and slug not in
+             ("st-stephen", "st-john-evangelist", "holy-innocents")
+             else "2" if slug in SCOTTISH_PAGE_B else "1")
         return J + f"Scotland/Collects{n}_1637.htm"
     if edition in ("1789", "1892", "1928"):
-        page = ("C" if slug in AMERICAN_PAGE_C else
+        page = ("D" if slug in SAINTS else
+                "C" if slug in AMERICAN_PAGE_C else
                 "B" if slug in AMERICAN_PAGE_B or slug in AMERICAN_PAGE_B_10C
                 else "A")
         return J + f"1789/Readings1789&1892{page}.htm"

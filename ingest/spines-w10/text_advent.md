@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 THE [INTROITES,]*
@@ -32,13 +8,9 @@ CELEBRACION OF' THE LORDES SUPPER AND HOLYE
 
 COMMUNION THROUGHE THE YEARE:
 
-[WITH
+[WITH PROPER PSALMES, AND LESSONS FOR DIVERS FEASTES AND DAYES.]*
 
-PROPER PSALMES, AND LESSONS FOR DIVERS FEASTES AND DAYES.]*
-
-> 
-
-The fyrst Sonday in Advente.
+>  The fyrst Sonday in Advente.
 
 Beatus
 
@@ -86,17 +58,11 @@ As it was in the begynnyng, is nowe, and ever shalbe
 
 : worlde without ende. Amen.
 
-And
+And so must every Introite be ended.
 
-so must every Introite be ended.
+Let us pray.
 
-Let
-
-us pray.
-
-The
-
-Collect.
+The Collect.
 
 ALMYGHTYE
 
@@ -372,13 +338,9 @@ thee, geve eare to our prayers, and by thy gracious visitacion lighten
 
 the darkenes of our hearte, by our Lorde Jesus Christe.
 
-The
+The Epistle. 1 Cor. iv.
 
-Epistle. 1 Cor. iv.
-
-LET
-
-a man this wise esteme us, even as the ministers of Christ and stewardes
+LET a man this wise esteme us, even as the ministers of Christ and stewardes
 
 of the secretes of God. Furthermore, it is required of the stewardes,
 
@@ -396,13 +358,9 @@ hydde in darkenesse, and open the counsayles of the heartes and then
 
 shall every manne have prayse of God.
 
-The
+The Gospel. Matt. xi.
 
-Gospel. Matt. xi.
-
-WHEN
-
-John beeyng in pryson hearde the workes of Christe he sente two of his
+WHEN John beeyng in pryson hearde the workes of Christe he sente two of his
 
 disciples, and sayed unto hym; Art thou he that shall come? or doe we
 
@@ -566,19 +524,13 @@ woorthie to unlooce. These thinges were doen at Bethabara [Bethany]
 
 beyond Jordane, where John did baptise.
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

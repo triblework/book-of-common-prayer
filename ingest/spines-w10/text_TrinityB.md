@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The ix Sonday.
@@ -256,6 +232,34 @@ of tongues: But these al worketh even the selfe same spirite, devydyng
 
 to every manne a severall gifte, even as he will.
 
+The Gospell. Luke xix.
+
+AND when he was
+
+come nere to Hierusalem [Jerusalem], he behelde the citie,
+
+and wepte on it, saying; If thou haddest knowen those thinges, whiche
+
+belong unto thy peace, even in this thy daye, thou wouldest take hede.
+
+But nowe are they hid from thine iyes. For the dayes shall come upon
+
+thee, that thy enemies also shall cast a banke [=wall] aboute thee, and compasse
+
+thee rounde, and kepe thee in on every syde, and make thee even with
+
+the ground, and thy children whiche are in thee. And they shall not
+
+leave in thee one stone upon another, because thou knowest not the time
+
+of thy visitacion. And he went into the Temple, and began to cast out
+
+them that solde them, and them that bought, saying unto them; It is
+
+written; my house is the house of prayer; but ye have made it a denne
+
+of theves. And he taught dayly in the Temple.
+
 > The xi Sonday.
 
 Dejecit. Psalm cxix.
@@ -364,9 +368,7 @@ God, I thanke thee, that I am not as other men are, extorcioners, unjust,
 
 adulterers, or as this Publican. I fast twise in the weke: I geve tythe
 
-[=a
-
-tenth] of al that I possesse. And the Publican, standing afarre
+[=a tenth] of al that I possesse. And the Publican, standing afarre
 
 of, would not lyft up his eyes to heaven, but smote upon his brest,
 
@@ -488,9 +490,7 @@ Quomodo
 
 dilexi! Psalm cxix.
 
-LORDE
-
-what love have I unto thy lawe? all the day long is my study in it.
+LORDE what love have I unto thy lawe? all the day long is my study in it.
 
 Thou thorough thy commaundementes haste made me wyser
 
@@ -630,9 +630,7 @@ Lucerna
 
 pedibus meis. Psalm cxix.
 
-THY
-
-woorde is a Lanteme unto my feete : and a light unto my pathes.
+THY woorde is a Lanteme unto my feete : and a light unto my pathes.
 
 I have sworne and am stedfastly purposed : to kepe
 
@@ -744,9 +742,7 @@ Iniquos
 
 odio habui. Psalm cxix.
 
-I
-
-HATE them that imagine evill thinges : but thy lawe do I love.
+IHATE them that imagine evill thinges : but thy lawe do I love.
 
 Thou art my defence and shylde : and my truste is
 
@@ -782,9 +778,7 @@ As it was in the beginnyng, &c.
 
 The Collect.
 
-KEPE
-
-we beseche thee, O Lorde, thy Churche with thy perpetuall mercye: and
+KEPE we beseche thee, O Lorde, thy Churche with thy perpetuall mercye: and
 
 because the frailtie of man without thee, cannot but fall: Kepe us ever
 
@@ -874,13 +868,9 @@ The xvi Sonday.
 
 > At the Communion.
 
-Feci
+Feci judicium. Psalm cxix.
 
-judicium. Psalm cxix.
-
-I
-
-DEALE with the thyng that is lawfull and right : O geve me not over
+IDEALE with the thyng that is lawfull and right : O geve me not over
 
 unto myne oppressoures.
 
@@ -918,9 +908,7 @@ As it was in the beginnyng, &c. Amen.
 
 The Collect.
 
-LORD,
-
-we beseche thee, let thy continual pitie clense and defende thy congregacion;
+LORD, we beseche thee, let thy continual pitie clense and defende thy congregacion;
 
 and, because it cannot continue in safetie without thy succoure, preserve
 
@@ -958,23 +946,47 @@ congregacion by Christ Jesus, throughoute al generacions from time to
 
 time, Amen.
 
+The Gospel. Luke vii.
+
+AND it fortuned,
+
+that Jesus went into a Citie called Naim [Nain],
+
+and many of his disciples went with him, and muche people. When he came
+
+nye to the gate of the citie, beholde there was a deade man caried out,
+
+whiche was the only sonne of his mother, and she was a wydow; and muche
+
+people of the citie was with her. And when the lorde sawe her, he had
+
+compassion on her, and sayed unto her; wepe not. And he came nye, and
+
+touched the coffyn, and they that bare him stode stil. And he saied;
+
+yong man, I say unto thee, aryse. And he that was dead, sate up, and
+
+began to speake. And he delivered hym to his mother. And there came
+
+a feare on them all. And they gave the glorye unto God, saying; A great
+
+prophet is rysen up among us, and God hathe visited his people. And
+
+this rumor of hym went foorth through out all Jewrye [=Judea],
+
+and throughout all the regions which lye round about.
+
 Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

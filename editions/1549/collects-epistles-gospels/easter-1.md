@@ -6,7 +6,11 @@ Beatus vir. Psalm 112
 
 ## The Collect
 
-ALMIGHTY Father, &c. as at the Communion on Easter day. * 1549 book only
+ALMIGHTY
+
+Father, &c. as at the Communion on Easter
+
+day.
 
 ## The Epistle
 

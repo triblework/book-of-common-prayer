@@ -8,7 +8,15 @@ Et venial super me. Psalm 119
 
 ## The Collect
 
-GOD, whiche haste prepared to them that love thee suche good thynges as passe all mannes understanding; Powre into our hartes such love toward thee, that we lovyng thee in al thinges, may obteine thy promises, whiche excede all that we canne desyre; Through Jesus Christe our Lorde.
+GOD, whiche haste
+
+prepared to them that love thee suche good thynges as passe all mannes
+
+understanding; Powre into our hartes such love toward thee, that we
+
+lovyng thee in al thinges, may obteine thy promises, whiche excede all
+
+that we canne desyre; Through Jesus Christe our Lorde.
 
 ## The Epistle
 

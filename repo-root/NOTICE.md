@@ -279,6 +279,17 @@ The published branches and tags are build artifacts, regenerated from the
   revised.** Where the evidence for descent is weak — collects share stock
   openings, so a shared opening alone proves nothing — no mapping was made at all,
   and the day is recorded as absent from 1979 rather than guessed at.
+- **2026-08-31** — Wave 10d: the propers for the **Holy Days** (Saints' Days), from
+  St. Andrew round to All Saints, completing Wave 10. The calendar itself is part
+  of the record here: **St. Mary Magdalene is kept in 1549 alone**, dropped from
+  1552, and restored by the 1979 book; the **Transfiguration** is an American
+  addition; and the 1979 book adds Holy Days the older books never kept (St.
+  Joseph, the Visitation, St. James of Jerusalem, Independence Day, Thanksgiving
+  Day), which are carried as their own days rather than folded onto historic
+  ones. Where a day appoints no reading of its own but refers to another's — the
+  Purification, whose Epistle is "the same that is appointed for the Sunday" —
+  that cross-reference is carried as the printed text rather than silently
+  resolved.
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

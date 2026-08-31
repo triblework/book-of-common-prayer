@@ -1,8 +1,16 @@
-# Sayncte John Evangelistes Daye
+# Sayncte John Evangelistes
 
 ## The Collect
 
-MERCYFULL Lorde, we beseche thee to caste thy bryght beames of lyght upon thy Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle and Euangelyste John may attayne to thy euerlastyng gyftes; Through Jesus Christe our Lorde. Amen.
+MERCYFULL. Amen.
+
+Lorde, we beseche thee to caste thy bryght beames of lyght upon thy. Amen.
+
+Churche: that it beeyng lyghtened by the doctryne of thy blessed Apostle. Amen.
+
+and Euangelyste John may attayne to thy euerlastyng gyftes; Through. Amen.
+
+Jesus Christe our Lorde. Amen.
 
 ## The Epistle
 

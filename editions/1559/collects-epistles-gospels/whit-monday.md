@@ -2,7 +2,9 @@
 
 ## The Collect
 
-God, which, &c. as upon witsonday. Amen.
+God, which, &c. as upon. Amen.
+
+witsonday. Amen.
 
 ## The Epistle
 

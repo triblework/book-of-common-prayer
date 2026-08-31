@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The fyrst day of Lent[, commonly called
@@ -360,13 +336,9 @@ the body, and from all evel thoughtes which maye assault and hurte the
 
 soule; through Jesus Christ &c.
 
-The
+The Epistle. 1 Thess. iv.
 
-Epistle. 1 Thess. iv.
-
-WE
-
-beseche you brethren, and exhorte you by the lorde Jesus, that ye increase
+WE beseche you brethren, and exhorte you by the lorde Jesus, that ye increase
 
 more and more, even as ye have receiyved of us, howe ye oughte to walke
 
@@ -509,6 +481,60 @@ when they are brought forth by the light are manifest. For whatsoever
 is manifest, the same is lyght: wherfore he sayeth, awake, thou that
 
 slepest, and stande up from death; and Christ shall geve thee light.
+
+The Gospell. Luke xi.
+
+JESUS was casting
+
+out a devel that was domme [dumb]. And when he had cast the devel, the domme spake,
+
+and the people wondered. But some of them saied, He casteth out devils
+
+through Belzebub, the chiefe of the devels. And other tempted him, and
+
+required of him a signe from heaven. But he knowyng their thoughtes,
+
+sayed unto them; Every kyngdome devided against itselfe, is desolate;
+
+and one house doth fall upon another. If Sathan also be devided againste
+
+hymselfe, howe shall his kyngdome endure? Because ye saye that I cast
+
+out devels through Beizebub: If I by the helpe of Beizebub caste oute
+
+devels, by whose helpe do your chyldren caste them oute? Therfore shall
+
+they be youre judges. But if I with the fynger of God caste out devels,
+
+no doubt the kingdome of God is come upon you. When a strong man armed
+
+watcheth his house; the thinges that he possesseth are in peace. But
+
+when a stronger than he commeth upon hym, he taketh from hym all his
+
+harnes [harness] (wherin he trusted) and devideth
+
+his goodes. He that is not with me, is against me. And he that gathereth
+
+not with me scattereth abrode. When the uncleane spirit is gone out
+
+of a man, he walketh through drye places, sekyng rest. And when he fyndeth
+
+none, he sayeth: I will returne agayne into my house whence I came out.
+
+And when he commeth, he fyndeth it swepte and garnisshed. Then goeth
+
+he and taketh to hym vii. other spirites worse then him selfe; and they
+
+entre in and dwell there. And the ende of that man is worse than the
+
+beginning. And it fortuned that as he spake these thinges, a certaine
+
+woman of the company lifte up her voice, and saied unto hym: happy is
+
+the wombe that bare thee, and the pappes which gave thee sucke. But
+
+he sayd: yea, happy are they that heare the woorde of God and kepe it.
 
 > The iiii Sonday [in Lent]*.
 
@@ -870,23 +896,461 @@ and thinges under the yearch; and that all tongues shoulde confesse
 
 that Jesus Christe is the lorde, unto the prayse of God the father.
 
+The Gospell. Matt. xxvi. xxvii.
+
+AND it came to
+
+passe, when Jesus had finished all these sayinges, he sayd unto his
+
+disciples: ye knowe that after two dayes shalbe Easter [=Passover], and the sonne of man shalbe
+
+delyvered over to be crucified. Then assembled together the chiefe Priestes,
+
+and the Scribes, and the Elders of the people unto the palace of the
+
+high priest, (which was called Cayphas,) and helde a counsayl that they
+
+might take Jesus by subteltie, and kill him. But they sayd: not on the
+
+holy daye, leste there be an uproare among the people.
+
+When Jesus was in Bethany, in the house of Simon
+
+the Leper, there came unto hym a woman havyng an Alabaster boxe of precious
+
+oyntment, and powred it on his head, as he sate at the bourde. But when
+
+his disciples sawe it, they had indignacion, saiyng, Whereto serveth
+
+this wast [waste]? This oynment might have
+
+been well solde and geven to the poore. When Jesus understode that,
+
+he sayd unto them: why trouble ye the woman? for she hath wrought a
+
+good worke upon me. For ye have the poore alwayes with you; but me ye
+
+shall not have alwayes. And in that she hath cast this oyntment on my
+
+body, she did it to bury me. Verely I say unto you: whersoever this
+
+gospell shalbe preached in al the worlde, there shall also this, that
+
+she hath done, be tolde for a memoriall of her. Then one of the xii
+
+(whiche was called Judas Iscarioth) went unto the chiefe priestes, and
+
+sayd unto them, what will ye geve me, and I will deliver hym unto you?
+
+And they appointed unto him xxx pieces of silver. And from that tyme
+
+furth he sought oportunitie to betray hym. The first day of swete [=unleavened] bread, the disciples came to
+
+Jesus, saying unto him; where wilt thou that we prepare for thee, to
+
+eate the Passeover? And he sayd; Go into the citie, to suche a man,
+
+and say unto him, the Maister sayth; my tyme is at hand, I will kepe
+
+my Easter [=Passover] by thee
+
+with my disciples. And the disciples did as Jesus had appointed them;
+
+and they made ready the passeover. When the even [evening]
+
+was come, he sate doune with the xii. And as they did eate, he sayd;
+
+Verely I say unto you, that one of you shall betray me. And they were
+
+exceding sorowful, and began every one of them to say unto him; Lorde,
+
+is it I? he aunswered and sayd; he that dippeth his had with me in the
+
+dishe, the same shal betraye me. The sonne of man truely goeth as it
+
+is written of him: but woe unto that man, by whom the sonne of man is
+
+betrayed. It had been good for that man if he had not been borne. Then
+
+Judas, which betraied him, answered and sayd; Maister, is it I? He said
+
+unto him, thou hast sayd. When they were eatyng, Jesus take bread, and
+
+when he had geven thankes, he brake it and gave it to the disciples,
+
+and sayd, Take, eat, this is my body. And he tooke the cuppe and thanked,
+
+and gave it them, saying; drinke ye all of this; For this is my bloud
+
+(whiche is of the newe testament) that is shed for many, for the remission
+
+of synnes. But I say unto you: I will not drinke hencefurth of this
+
+fruite of the vyne tree, untyll that day when I shall drynke it newe
+
+with you, in my fathers kyngdome. And when they had sayd grace, they
+
+went out unto mount Oliuete. Then sayth Jesus unto them; all ye shalbe
+
+offended [=fall into sinful ways]
+
+because of me this night. For it is written; I will smyte the shepherde,
+
+and the shepe of the flocke shalbe scattered abroade: but after I am
+
+rysen again, I will go before you into Galilee. Peter answered and sayd
+
+unto him: though all men be offended because of thee, yet wil not I
+
+be offended. Jesus sayd unto him; verely I say unto thee, That in this
+
+same night before the cocke crowe; thou shalt deny me thrise. Peter
+
+sayd unto him: yea, though I should dye with thee, yet will I not deny
+
+thee: lykewyse also said all the disciples.
+
+Then came Jesus with them unto a farme place, (which
+
+is called Gethsemane,) and sayd unto the disciples; Syt ye here, whyle
+
+I go and pray yonder. And he tooke with him Peter and the two sonnes
+
+of Zebede, and began to waxe sorowful and heavy. Then sayd Jesus unto
+
+them: My soule is heavy even unto the death: Tary ye here and watche
+
+with me. And he went a litle farther, and fell flat on his face, and
+
+prayed, saying; O my father if it be possible, let this cup passe frome
+
+me: neverthelesse not as I will, but as thou wilt. And he came unto
+
+the disciples, and found them aslepe, and sayd unto Peter, what, could
+
+ye not watche with me one houre? watche and praye, that ye entre not
+
+into temptacion: the spirite is willyng, but the fleshe is weake. He
+
+went away once againe and prayed, saying; O my father, yf this cup may
+
+not passe away from me, except I drinke of it, thy wil be fulfylled:
+
+and he came and found them aslepe agayne, for their eyes were heavy.
+
+And he left them, and went againe and prayed the third tyme, saying
+
+the same woordes. Then commeth he to his disciples, and sayth unto them,
+
+Slepe on now, and take your rest. Behold, the houre is at hand, and
+
+the sonne of man is betrayed into the handes of synners. Ryse, let us
+
+be goyng: behold, he is at hand that doth betray me.
+
+While he yet spake; lo, Judas one of the nombre of
+
+the xii, came, and with him a great multitude with sweordes and staves
+
+sent from the chief priestes and elders of the people. But he that betrayed
+
+hym, gave them a token, saying: whomsoever I kisse, the same is he,
+
+holde him fast. And furthwith he came to Jesus, and sayd, hayle Maister,
+
+and kyssed him. And Jesus sayd unto hym, frend, wherfore art thou come?
+
+Then came they, and layde handes on Jesus, and toke hym. And beholde,
+
+one of them whiche were with Jesus, stretched out his hand and drew
+
+his sworde, and stroke a servaunt of the hye Priest, and smote of his
+
+eare. Then sayd Jesus unto hym; put up thy sworde into the sheath: for
+
+all they that take the sworde, shall perishe with the sworde. Thynkest
+
+thou that I cannot nowe pray to my father, and he shall geve me even
+
+nowe more than xii legions of Angelles? But howe then shall the scriptures
+
+bee fulfylled? For thus must it be. In that same houre sayd Jesus to
+
+the multitude: ye be come out as it were to a thefe with swordes and
+
+staves, for to take me. I sate dayly with you teaching in the temple,
+
+and ye tooke me not. But all this is done, that the scriptures of the
+
+Prophets might be fulfilled. Then all the disciples forsoke him, and
+
+fled. And they toke Jesus and led him to Cayphas the hye Priest, where
+
+the Scribes and the Elders were assembled.
+
+But Peter folowed hym afar of unto the hye Priestes
+
+palace; and went in and sate with the servauntes, to see thende [the
+
+end]. The chiefe priestes and the elders and all the counsail
+
+sought false wytnesse against Jesus, (for to put hym to death,) but
+
+found none: yea, when many false wytnesses came, yet found they none.
+
+At the last came ii false wytnesses, and sayde: This felow sayd: I am
+
+able to destroy the temple of God, and to buylde it againe in iii days.
+
+And the chiefe priest arose, and sayd unto hym; aunswerest thou nothing?
+
+Why do these beare wytnes against thee? But Jesus helde his peace. And
+
+the chiefe priest aunswered and sayd unto him I charge thee by the lyving
+
+God, that thou tel us, whether thou be Christ the some of God. Jesus
+
+sayd unto him: thou hast sayd. Neverthelesse I say unto you: hereafter
+
+shall ye see the sonne of man sitting on the right hand of power, and
+
+comming in the cloudes of the skye. Then the hye priest rent his clothes,
+
+saying: he hath spoken blasphemy; what nede we of any mo wytnesses?
+
+Beholde, now ye have heard his blasphemy; what thynke ye? They aunswered
+
+and sayd: he is worthy to dye. Then did they spyt in his face, and buffeted
+
+him with fystes. And other smote him on the face with the palme of their
+
+handes, saying: tel us thou Christ, who is he that smote thee? Peter
+
+sate without in the palace, and a damosel came to him, saying: thou
+
+also wast with Jesus of Galile: but he denied before them al, saying;
+
+I wot [=know] not what thou sayest.
+
+When he was gone out into the porche, another wenche sawe him, and sayd
+
+unto them that were there; This felow was also with Jesus of Nazareth.
+
+And agayne he denyed with an othe [oath],
+
+saying: I do not know the man. And after a while came unto him they
+
+that stode by, and sayd unto Peter: surely thou art even one of them;
+
+for thy speche bewrayeth [betrayeth]
+
+thee. Then began he to cursse and to sweare, that he knewe not the man.
+
+And immediatly the cocke krewe. And Peter remembred the worde of Jesu,
+
+whiche sayd unto him; before the cocke krow, thou shalt deny me thrise:
+
+and he went out and wept bitterly.
+
+When the mornyng was come, all the chiefe priestes
+
+and the elders of the people helde a counsaill against Jesus, to put
+
+hym to death, and brought him bound, and delivered hym unto Poncius
+
+Pylate the deputie. Then Judas (whiche had betrayed him) seyng that
+
+he was condemned, repented himselfe, and brought againe the xxx plates
+
+[=pieces] of silver to the chiefe
+
+priestes and elders, saying; I have synned, betraying the innocent bloud.
+
+And they sayd; what is that to us? Se thou to that. And he cast downe
+
+the silver plates in the temple, and departed, and went and hanged himselfe.
+
+And the chief Priestes toke the silver plates, and said: It is not lawfull
+
+for to put them into the treasure, because it is the price of bloud.
+
+And thei toke councell, and bought with them a potters felde, to burie
+
+straungers in. Wherefore the felde is called Haceldema, that is, the
+
+felde of bloud, untill this day. Then was fulfilled that whiche was
+
+spoken by Jeremie [Jeremiah]
+
+the prophet, saying: and thei toke xxx silver plates, the price of him
+
+that was valued, whom they bought of the children of Israel, and gave
+
+them for the potters felde, as the Lord appointed me.
+
+Jesus stode before the deputie, and the deputie asked
+
+hym, saying, Art thou the king of the Jewes? Jesus sayed unto hym: thou
+
+sayest. And when he was accused of the chief priestes and elders, he
+
+answered nothyng. Then said Pilate unto hym: hearest thou not howe many
+
+witnesses they laye agaynste thee? And he answered him to never a worde,
+
+insomuche that the deputie marvayled greately. At that feaste, the deputie
+
+was woont to delyver unto the people a prisoner, whom they would desire.
+
+He had then a notable prisoner, called Barrabas. Therfore, when they
+
+were gathered together, Pylate sayd; whether wyll ye that I geve loce
+
+[loose] unto you, Barrabas, or Jesus whiche
+
+is called Christ? For he knewe that for envy they had delivered hym.
+
+When he was set doune to geve judgement, his wyfe sent unto him, saying,
+
+have thou nothyng to do with that just man: For I have suffred many
+
+thynges this day in my slepe because of hym. But the chiefe priestes
+
+and Elders persuaded the people that they shoulde aske Barrabas, and
+
+destroy Jesus. The deputie answered, and sayd unto them: whether of
+
+the twayne [=two] wyll ye that
+
+I let loce unto you? They sayd, Barrabas. Pylate sayd unto them, what
+
+shal I do then with Jesus, which is called Christ? They all sayd unto
+
+hym, let hym be crucified. The deputie sayd: what evill hath he done?
+
+But they cried the more, saying; let hym be crucified. When Pylate sawe
+
+that he could prevayle nothyng, but that more busynes was made, he toke
+
+water and washed his handes before the people, saying; I am innocent
+
+of the bloud of this just person, ye shall see. Then answered all the
+
+people and sayd; his bloud be on us, and on our children.
+
+Then let he Barrabas loce unto them, and skourged
+
+Jesus, and delivered hym to be crucified. Then the souldiers of the
+
+deputie toke Jesus into the common hall, and gathered unto hym all the
+
+company: and they stripped hym, and put on hym a purple robe, and platted
+
+[plaited] a croune of thornes,
+
+and put it upon his head, and a rede in his right hande, and bowed the
+
+knee before him, and mocked him, saying: hayle kyng of the Jewes: and
+
+when they had spyt upon him, thei toke the rede, and smote him on the
+
+head. And after that they had mocked him, they toke the robe of him
+
+agayne, and put his owne rayment on him, and led him away to crucifie
+
+him. And as they came out, they found a man of Cirene (named Symon)
+
+him they compelled to beare his crosse. And they came unto the place
+
+whiche is called Golgotha, that is to say (a place of dead men sculles)
+
+and gave hym vynegar to drynke myngled with gall. And when he had tasted
+
+therof, he would not drynke. When they had crucified hym, they parted
+
+his garmentes, and did cast lottes: that it might be fulfilled which
+
+was spoken by the Prophet; They parted my garmentes among them, and
+
+upon my vesture did they cast lottes. And they sate, and watched hym
+
+there, and set up over hys head the cause of his death, written; This
+
+is Jesus the kyng of the Jewes. Then were there ii theves crucified
+
+with him, one on the right hand, and another on the left. They that
+
+passed by revyled him waggyng their heades, and saying: thou that destroyedst
+
+the temple of God, and dyddest buylde it in thre daies, save thyselfe.
+
+If thou be the sonne of God, come doune from the crosse. Likewise also
+
+the high Priestes, mockyng hym, with the Scribes and Elders, sayd; he
+
+saved other, hymselfe he cannot save. If he be the kyng of Israel, let
+
+hym nowe come doune from the crosse, and we will beleve hym. He trusted
+
+in God, let him deliver him nowe, if he wyll have him, for he sayed;
+
+I am the sonne of God. The theves also, whiche were crucifyed with him,
+
+cast the same in his teethe. From the sixt houre was there darkenesse
+
+over all the lande, untill the nynth houre. And aboute the nynth houre,
+
+Jesus cryed with a loude voyce, saying, Ely, Ely, lamasabathany?
+
+that is to say, My God, my God, why hast thou forsaken me? Some
+
+of them that stoode there, when they heard that, sayd: This man calleth
+
+for Helias [=Elijah]. And straightway
+
+one of them ranne and take a sponge, and when he had fylled it full
+
+of vyneger, he put it on a reede, and gave hym to drinke. Other sayd:
+
+let be, let us see whether Helias will came and deliver hym. Jesus,
+
+when he had cried agayne with a loude voyce, yelded up the ghost. And
+
+beholde, the vayle of the temple did rent into two partes, from the
+
+top to the botome, and the yerth did quake, and the stones rent, and
+
+graves did open, and many bodies of saintes, whiche slept, arose and
+
+went out of the graves after his resurreccion, and came into the holy
+
+citie, and appeared unto many.
+
+When the Centurion, and they that were with him watchyng
+
+Jesus, sawe the yerthquake and those thynges whiche happened, they feared
+
+greatly, saying; Truely, this was the sonne of God. And many women were
+
+there, (beholdyng him afarre of,) whiche folowed Jesus from Galilee,
+
+ministring unto him: Emong whiche was Mary Magdalene, and Mary the mother
+
+of James and Joses [Joseph],
+
+and the mother of Zebedes children.
+
 Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

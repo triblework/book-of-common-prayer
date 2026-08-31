@@ -2,7 +2,13 @@
 
 ## The Collect
 
-GOD, which declarest thy almighty power, most chiefly in shewyng mercy and pitie; Geve unto us abundauntly thy grace, that we, running to thy promises, may be made partakers of thy heavenly treasure; through Jesus Christe our Lorde. Amen.
+GOD, which declarest. Amen.
+
+thy almighty power, most chiefly in shewyng mercy and pitie; Geve unto. Amen.
+
+us abundauntly thy grace, that we, running to thy promises, may be made. Amen.
+
+partakers of thy heavenly treasure; through Jesus Christe our Lorde. Amen.
 
 ## The Epistle
 

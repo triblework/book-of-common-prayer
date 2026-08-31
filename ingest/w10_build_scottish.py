@@ -129,12 +129,25 @@ MARKS_C = [
 
 SPINES = [("1637_A.md", MARKS), ("1637_B.md", MARKS_B), ("1637_C.md", MARKS_C)]
 
-CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9:a-z]+\])?$")
+# Chapter-and-verse is the normal printed form ("Rom. 13.8."). A SINGLE number
+# is valid only for a single-chapter book -- Jude, Philemon, 2 and 3 John --
+# which print just a verse ("Jude 1. [-8]"). Allowing a bare number for any book
+# made ordinary text match and left real citations unassigned.
+ONE_CHAPTER = r"(?:Jude|Philemon|Philem\.|2 ?(?:St\. ?)?John|3 ?(?:St\. ?)?John)"
+CITE_LINE = re.compile(
+    r"^(?:[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(?:\s*\[-[0-9:a-z]+\])?"
+    r"|" + ONE_CHAPTER + r"\.? ?[0-9]+\.(?:\s*\[-[0-9:a-z]+\])?)$")
 EPISTLE = re.compile(r"^>?\s*(For the Epistle|The Epistle)\s*\.?\s*$", re.I)
 GOSPEL = re.compile(r"^>?\s*The Gospel\s*\.?\s*$", re.I)
 COLLECT = re.compile(r"^>?\s*The Collects?\s*\.?\s*$", re.I)
 
 # Editorial prose on the Scotland page (not Prayer-Book text).
+# Only these two phrasings denote a reading shared with another day.
+# A looser pattern also matched general directions ("The sixth Sunday,
+# if there be so many..."), stealing a section and orphaning a real
+# citation.
+CROSSREF_RE = re.compile(r"(?:the same (?:that is )?appo[iy]nted|&c\.? as upon)", re.I)
+
 APPARATUS = ("In the original, the Epistles and Gospels are printed at length",
              "only the citations are given here")
 
@@ -174,11 +187,15 @@ def parse(block):
                 cell["collect"].append(bare)
             continue
         if line.startswith(">"):
+            if mode in ("epistle", "gospel") and cell.get(mode) and CROSSREF_RE.search(bare):
+                # No citation of its own: the day refers to another's reading.
+                cell[mode]["crossref"] = bare
+                continue
             # The Gospel-announcement directions are printed between the Epistle
             # label and its citation; they govern the Gospel.
             cell["gospel_rubrics"].append(bare)
     for slot in ("epistle", "gospel"):
-        if cell[slot] and not cell[slot]["cite"] and cites:
+        if cell[slot] and not cell[slot]["cite"] and not cell[slot].get("crossref") and cites:
             cell[slot]["cite"] = cites.pop(0)
     if cites:
         raise SystemExit(f"  !! {cell['heading']!r}: unassigned citations {cites}")
@@ -194,14 +211,15 @@ def render(cell):
     for anchor, slot, rubrics in (
             ("The Epistle", cell["epistle"], cell["epistle_rubrics"]),
             ("The Gospel", cell["gospel"], cell["gospel_rubrics"])):
-        if not slot or not slot.get("cite"):
+        if not slot or not (slot.get("cite") or slot.get("crossref")):
             continue
         parts += [f"## {anchor}", ""]
         if slot.get("for_the"):
             parts += ["> For the Epistle.", ""]
         for rub in rubrics:
             parts += ["> " + rub, ""]
-        parts += [canonical(slot["cite"]), ""]
+        parts += [canonical(slot["cite"]) if slot.get("cite")
+                  else "> " + slot["crossref"], ""]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(parts)).strip() + "\n"
 
 

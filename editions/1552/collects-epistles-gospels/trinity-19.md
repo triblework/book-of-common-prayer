@@ -2,7 +2,11 @@
 
 ## The Collect
 
-O GOD, for asmuche as without thee, we are not able to please thee; Graunte that the workyng of thy mercie maye in all thynges directe and rule our heartes; Through Jesus Christ our Lorde.
+OGOD, for asmuche as without thee, we are not able to please thee; Graunte
+
+that the workyng of thy mercie maye in all thynges directe and rule
+
+our heartes; Through Jesus Christ our Lorde.
 
 ## The Epistle
 

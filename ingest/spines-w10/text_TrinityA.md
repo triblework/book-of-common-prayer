@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > Trinitie Sonday.
@@ -150,6 +126,60 @@ for thou hast created all thinges, and for thy wylles sake they are,
 
 and were created.
 
+The Gospel. John iii.
+
+THERE was a manne
+
+of the Phariseis, named Nicodemus, a ruler of the Jewes. The same came
+
+to Jesus by night, and sayd unto hym, Rabby [Rabbi],
+
+we knowe that thou art a teacher come from God: for no man could do
+
+suche miracles as thou doest, except God were with him. Jesus answered,
+
+and sayd unto him; Verely, verely, I saye unto thee; except a man be
+
+borne from above, he cannot see the kyngdom of god. Nicodemus sayd unto
+
+him; how can a man be borne when he is olde? can he entre into his mothers
+
+wombe, and be borne agayne? Jesus answered; verely, verely, I saye unto
+
+thee; excepte a man be borne of water, and of the spirite, he cannot
+
+entre into the kyngdome of God. That whiche is borne of the fleshe,
+
+is fleshe; and that whiche is borne of the spirit, is spirit. Marvayl
+
+not thou that I sayd thee, ye must bee borne from above. The wynde bloweth
+
+where it lusteth [=chooses],
+
+and thou hearest the sound therof, but canst not tel whence it commeth,
+
+and whither it goeth; So is every one that is borne of the spirite Nicodemus
+
+answered, and sayd unto him; how can these thinges be? Jesus answered,
+
+and sayd unto him; arte thou a maister in Israell, and knowest not these
+
+thinges? Verely, verely I say unto thee; we speake that we do know,
+
+and testifie that we have seen; and ye receyve not our wytnes. If I
+
+have tolde you yearthly thynges, and ye beleve not; howe shall ye beleve
+
+yf I tell you of heavenly thynges? And no man ascendeth up to heaven,
+
+but he that came doune from heaven, even the sonne of man whiche is
+
+in heaven. And as Moses lift up the serpent in the wilderness, even
+
+so must the Sonne of man be lift up, that whosoever beleveth in hym,
+
+perishe not, but have everlastyng lyfe.
+
 > The first Sonday after Trinitie Sonday.
 
 Beati immaculati. Psalm cxix.
@@ -188,13 +218,9 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the beginnyng, &c.
 
-The
+The Collect.
 
-Collect.
-
-GOD,
-
-the strength of all theym that trust in thee, mercifully accept our
+GOD, the strength of all theym that trust in thee, mercifully accept our
 
 prayers; and because the weakenes of oure mortall nature can do no good
 
@@ -342,13 +368,9 @@ Glory be to the father and to sonne, &c.
 
 As it was in the begynning, &c.
 
-The
+The Collect.
 
-Collect.
-
-LORD,
-
-make us to have a perpetuall feare and love of thy holy name: for thou
+LORD, make us to have a perpetuall feare and love of thy holy name: for thou
 
 never faillest to helpe and governe them whom thou doest bryng up in
 
@@ -562,9 +584,7 @@ Adhaessit
 
 pavimento anima. Ps. cxix.
 
-MY
-
-soule cleaveth to the dust : O quicken thou me, accordyng to thy worde.
+MY soule cleaveth to the dust : O quicken thou me, accordyng to thy worde.
 
 I have knowleged my wayes, and thou heardest me :
 
@@ -598,13 +618,9 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the beginning, is now, &c.
 
-The
+The Collect.
 
-Collect.
-
-GOD
-
-the protector of all that trust in thee, without whom nothyng is strong,
+GOD the protector of all that trust in thee, without whom nothyng is strong,
 
 nothing is holy; increase and multiply upon us thy mercye; that thou
 
@@ -1058,9 +1074,7 @@ Portlo
 
 mea, Domine. Psalm cxix.
 
-THOU
-
-art my porcion, O Lord : I have promised to kepe thy lawe.
+THOU art my porcion, O Lord : I have promised to kepe thy lawe.
 
 I made myne humble peticion in thy presence with
 
@@ -1100,9 +1114,7 @@ As it was in the beginning, is nowe, and ever shalbe
 
 The Collect.
 
-GOD,
-
-whose providence is never deceived, we humbly beseche thee that thou
+GOD, whose providence is never deceived, we humbly beseche thee that thou
 
 wilt put away from us al hurtfull thinges, and geve [us]* those thinges
 
@@ -1160,19 +1172,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

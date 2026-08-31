@@ -4,7 +4,15 @@
 
 ## The Collect
 
-LORDE from whom all good thynges do come; graunte us, thy humble servauntes, that by thy holy inspiracion wee maie thynke those thynges that bee good, and by thy mercifull guydyng maye perfourme the same; thorow our Lorde Jesus Christ.
+LORDE from whom
+
+all good thynges do come; graunte us, thy humble servauntes, that by
+
+thy holy inspiracion wee maie thynke those thynges that bee good, and
+
+by thy mercifull guydyng maye perfourme the same; thorow our Lorde Jesus
+
+Christ.
 
 ## The Epistle
 

@@ -8,4 +8,8 @@ Oct. 28
 
 ## The Epistle
 
+Jude 1
+
+## The Gospel
+
 John 15:17

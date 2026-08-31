@@ -2,7 +2,13 @@
 
 ## The Collect
 
-GRAUNT we beseche thee, merciful Lord, to thy faithfull people pardon and peace, that they maye bee clensed from all. their synnes, and serve thee with a quiet mynde. Through Jesus Christ our Lorde. Amen.
+GRAUNT we beseche. Amen.
+
+thee, merciful Lord, to thy faithfull people pardon and peace, that. Amen.
+
+they maye bee clensed from all. their synnes, and serve thee with a. Amen.
+
+quiet mynde. Through Jesus Christ our Lorde. Amen.
 
 ## The Epistle
 

@@ -1,42 +1,12 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 Sainct Andrewes Daye.
 
-At
+At the Communion.
 
-the Communion.
+S�pe expugnaverunt. Psalm cxxix.
 
-S�pe
-
-expugnaverunt. Psalm cxxix.
-
-MANY
-
-tymes they have fought agaynst me from my youth up : may Israeli nowe
+MANY tymes they have fought agaynst me from my youth up : may Israeli nowe
 
 saye.
 
@@ -76,9 +46,87 @@ As it was in the begynning, is nowe, and ever shalbe
 
 worlde without ende. Amen.
 
-The
+The Collect.
 
-Collect.
+1549 only:
+
+ALMYGHTIE God, which hast geven
+
+suche grace to thy Apostle saynct Andrew, that he counted the sharp
+
+and painful death of the crosse to be an high honour, and a great glory;
+
+Graunt us to take and esteme all troubles and adversities which shal
+
+come unto us for thy sake, as thinges proffytable for us toward the
+
+obtaining of everlasting life; through Jesus Christ our Lorde.
+
+1552 & 1559:
+
+ALMIGHTY
+
+God, whiche didest geve suche grace unto thy holy Apostle saincte Andrew,
+
+that hee redily obeied the callyng of thy Sonne Jesus Christe, and folowed
+
+him without delaie, graunt unto us all that we beyng called by thy holie
+
+worde, may furthwith geve over our selves obediently to folowe thy holy
+
+commaundementes, through thesame Jesus Christ our lord. Amen.
+
+The Epistle. Rom. x.
+
+IF thou knowledge
+
+[acknowledge]
+
+with thy mouthe, that Jesus is the Lord,. and beleve in thy heart that
+
+God raised him up from death, thou shalt be safe [saved].
+
+For, to beleve with the hearte justifyeth; and to knowledge with the
+
+mouth maketh a man safe. For the scripture saith; whosoever beleveth
+
+on hym shall not be confounded. There is no difference betwene the Jewe
+
+and the Gentyle. For one is Lorde of all, whyche is ryche unto all that
+
+call upon hym. For whosoever doth cal on the name of the Lorde shalbe
+
+safe. Howe then shal they call on him, on whom they have not beleved
+
+? How shal they beleve on him, of whom they have not heard? How shal
+
+they heare, without a preacher? And how shal they preache except they
+
+be sent? As it is written; howe beutiful are the fete of them which
+
+bring tidinges of peace, and bring tidynges of good thynges. But they
+
+have not al obeyed to the gospel, for Esay [Isaiah]
+
+sayeth; Lorde, who hath beleved our saiynges? So then, faith commeth
+
+by hearing, and hearing commeth by the worde of God. But I aske; have
+
+they not heard? no doubt their sound went out into al landes, and their
+
+wordes into the endes of the world. But I demaunde whether Israell dyd
+
+knowe or not? fyrst Moyses sayth; I wyll provoke you to envy, by them
+
+that are no people, by a folysh nacion I wyll anger you. Esaie [Isaiah]
+
+after that is bolde, and sayth; I am found of them that sought me not,
+
+I am manyfest unto them that asked not after me. But against Israell
+
+he saith, all daye long have I stretched furth my handes unto a people
+
+that beleveth not, but speaketh agaynst me.
 
 The Gospel. Matt. iv.
 
@@ -106,9 +154,7 @@ Saynct Thomas the Apostle.
 
 > At the Communion.
 
-Beati
-
-omnes. Psalm cxxviii.
+Beati omnes. Psalm cxxviii.
 
 BLESSED
 
@@ -220,9 +266,7 @@ At Matins.
 
 The Second Lesson, Acts xxii. unto "they heard
 
-him."
-
-Confitebor tibi. Psalm cxxxviii.
+him." Confitebor tibi. Psalm cxxxviii.
 
 I WILL geve thankes
 
@@ -418,9 +462,7 @@ prayse the Lorde : all ye servauntes of the lord; ye that by night stand
 
 in the house of the Lorde : (even in the courtes of the house of our
 
-God.)
-
-Lift up your handes in the Sanctuary : and prayse
+God.) Lift up your handes in the Sanctuary : and prayse
 
 the Lorde.
 
@@ -447,6 +489,34 @@ pure and cleare myndes; By Jesus Christ our Lorde.
 The Epistle.
 
 The same that is appoynted for the Sondaye.
+
+The Gospel. Luke ii.
+
+WHEN the tyme
+
+of their Purificacion (after the lawe of Moses) was come, they brought
+
+him to Hierusalem [Jerusalem],
+
+to present hym to the Lorde, (as it is written in the Lawe of the Lorde:
+
+every manne child that first openeth the matrix [=womb],
+
+shalbe called holy to the lorde;) and to offre (as it is saied in the
+
+Lawe of the Lorde) a payre of turtle Dooves, or twoo young Pigions.
+
+And beholde, there was a man in Hierusalem, whose name was Simeon. And
+
+the same man was just and godly, and loked for the consolacion of Israeli,
+
+and the holy Goste was in hym. And an answere had he received of the
+
+holy Goste, that he should not see death, excepte be firste sawe the
+
+Lordes Christe. And he came by inspiracion [=the
+
+spirit] into the temple.
 
 > Saint Mathies' daie.
 
@@ -524,6 +594,62 @@ being alway preserved from false Apostles, may be ordred and guided
 
 by faythfull and true pastors; Through Jesus Christ our Lorde.
 
+The Epistle. Acts i.
+
+IN those dayes,
+
+Peter stode up in the middes [midst]
+
+of the disciples, and sayd; (the numbre of names that were together,
+
+were about an cxx,) Ye men and brethren, thys scripture must nedes have
+
+bene fulfilled, which the holye Ghoste, throughe the mouthe of David,
+
+spake before of Judas, whiche was guyde to them that toke Jesus. For
+
+he was numbred with us, and had obteined felowship in this ministracion
+
+[=ministry].
+
+And the same hath now possessed a plat [plot]
+
+of ground with the rewarde of iniquitie; and when he was hanged, he
+
+burst asunder in the middes, and all his bowels gusshed out: And it
+
+is knowen unto all the inhabiters of Hierusalem [Jerusalem];
+
+insomuche that the same fielde is called, in theyr mother tongue, Acheldama,
+
+that is to saye, the bloude fielde. For it is written in the boke of
+
+Psalmes: his habitacion be voyde, and no man be dwelling therein, and
+
+his bishoprike [=office]
+
+let another take. Wherfore, of these menne whiche have companyed with
+
+us (al the tyme that the lorde Jesus had al his conversacion [=ministry]
+
+emong us, beginning at the baptisme of John unto that same day, that
+
+he was taken up from us) must one be ordayned, to be a witnes with us
+
+of his resurreccion. And they appoynted two, Joseph whiche is called
+
+Barsabas, (whose simame was Justus,) and Matthias. And when they prayed,
+
+they sayde: Thou Lorde, which knowest the heartes of al menne, shew
+
+whether of these two thou haste chosen; That he may take the roume [=place]
+
+of this ministracion and Apostleship, from whiche Judas by transgression
+
+fel, that he might goe to his own place. And they gave furth theyr lottes;
+
+and the lot fel on Matthias, and he was coumpted with the eleven Apostles.
+
 The Gospel. Matt. xi.
 
 IN that tyme Jesus
@@ -578,9 +704,7 @@ As it was in the beginning, &c. Amen.
 
 The Collect.
 
-WE
-
-beseche thee, Lorde, powre thy grace into our heartes; that, as we have
+WE beseche thee, Lorde, powre thy grace into our heartes; that, as we have
 
 knowen Christ, thy sonnes incarnacion, by the message of an Angell;
 
@@ -716,6 +840,32 @@ be world without ende. Amen.
 
 The Collect.
 
+1549, 1552, and early printings of 1559.
+
+ALMYGHTIE God, whiche haste instructed
+
+thy holy Church with the heavenly doctrine of thy Evangelist Sainct
+
+Marke: Geve us grace so to be established by thy holy Gospell, that
+
+we be not, lyke chyldren, caried away with every blast of vaine Doctrine;
+
+through Jesus Christ our Lorde.
+
+Introduced
+
+in the late 1500's:
+
+ALMYGHTIE
+
+God, whiche hast instructed thy holy Church with the heavenly doctrine
+
+of thy Evangelist S. Marke: give us grace, that we be not like children,
+
+carried away with every blast of vaine doctrine: but formely to be established
+
+in the trueth of thy holy Gospel, through Jesus Christ our Lord.
+
 The Epistle. Ephes. iv.
 
 UNTO every one
@@ -806,9 +956,7 @@ The Second Lesson, Acts viii. unto "When the apostles."
 
 > At the Communion.
 
-Ecce,
-
-quam bonum! Psalm cxxxiii.
+Ecce, quam bonum! Psalm cxxxiii.
 
 BEHOLDE,
 
@@ -950,13 +1098,9 @@ At Matins.
 
 > At the Communion.
 
-Voce
+Voce mea ad Dominum. Ps. cxlii.
 
-mea ad Dominum. Ps. cxlii.
-
-I
-
-CRYED unto the Lord with my voyce : yea even unto the Lord did I make
+ICRYED unto the Lord with my voyce : yea even unto the Lord did I make
 
 my supplicacion.
 
@@ -1000,15 +1144,57 @@ As it was in the beginning, is now, &c.
 
 The Collect.
 
-LORDE
-
-Almightie, whiche hast indued thy holy Apostle Barnabas with singuler
+LORDE Almightie, whiche hast indued thy holy Apostle Barnabas with singuler
 
 giftes of thy holy goste; let us not be destytute of thy manyfold giftes,
 
 nor yet of grace to use them alway to thy honour and glory; through
 
 Jesus Christ our Lorde.
+
+The Epistle. Acts xi.
+
+TYDINGES of these
+
+thinges came unto the eares of the congregacyon which was in Hierusalem
+
+[Jerusalem].
+
+And they sente furth Barnabas, that he should goe unto Antioche. Which
+
+when he came, and had seene the grace of God, was glad, and exhorted
+
+them all, that with purpose of heart, they would continually cleave
+
+unto the Lorde. For he was a good man, and ful of the holy gost, and
+
+of fayth, and much people was added unto the Lorde. Then departed Barnabas
+
+to Tharsus, for to seke Saul. And when he had found him, he brought
+
+him unto Antioche. And it chaunsed, that a whole yere they had theyr
+
+conversacyon [=ministry]
+
+with the congregacion there, and taught muche people, insomuche that
+
+the disciples of Antioche were the first that were called Christen [Christians].
+
+In those dayes came Prophetes from the citie of Hierusalem unto Antioche.
+
+And there stoode up one of them, named Agabus, and signifyed by the
+
+spirite, that there should be great dearth [=famine]
+
+throughout al the world, which came to passe in the Emperour Claudius
+
+dayes. Then the disciples, every man accordyng to his habilitie, purposed
+
+to send succour unto the brethren whiche dwelt in Jewry [=Judea]:
+
+which thyng they also dyd, and sent it to the elders by the handes of
+
+Barnabas and Saul.
 
 The Gospel. John xv.
 
@@ -1050,9 +1236,7 @@ Domine,
 
 exaudi. Psalm cxliii.
 
-HEARE
-
-my prayer, O Lord, and considre my desyre : herken unto me for thy trueth
+HEARE my prayer, O Lord, and considre my desyre : herken unto me for thy trueth
 
 and righteousnes sake.
 
@@ -1112,9 +1296,7 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the beginning, &c. Amen.
 
-The
-
-Collect.
+The Collect.
 
 ALMIGHTIE
 
@@ -1260,31 +1442,21 @@ himselfe unto the Israelites.
 
 Proper Lessons at Evensong.
 
-The
+The First Lesson, Malachi iii. unto the end.
 
-First Lesson, Malachi iii. unto the end.
-
-The
-
-Second Lesson, Matt. xiv. (unto) "When Jesus heard."
+The Second Lesson, Matt. xiv. (unto) "When Jesus heard."
 
 Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

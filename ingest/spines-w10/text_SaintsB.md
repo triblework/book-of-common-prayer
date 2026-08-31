@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > Saint Peter's Day.
@@ -548,13 +524,9 @@ Sainct Bartholomewe[
 
 Apostle]*.
 
-Non
+Non nobis, Domine. Psalm cxv.
 
-nobis, Domine. Psalm cxv.
-
-NOT
-
-unto us, (O Lorde) not unto us, but unto thy name geve the praise :
+NOT unto us, (O Lorde) not unto us, but unto thy name geve the praise :
 
 for thy lovyng mercy, and for thy truthes sake.
 
@@ -634,15 +606,39 @@ As it was in the beginnyng, &c. Amen.
 
 The Collect.
 
-O
-
-ALMIGHTIE and everlastyng God, whiche haste geven grace to thy* apostle
+OALMIGHTIE and everlastyng God, whiche haste geven grace to thy* apostle
 
 Bartholomewe truly to beleve and to preache thy worde; graunt, we beseche
 
 thee, unto thy Churche, both to love that he beleved, and to preache
 
 that he taught; thorough Christ our Lorde.
+
+The Epistle. Acts v.
+
+BY the handes
+
+of the Apostles were many signes and wonders shewed among the people.
+
+And they were altogether with one accorde in Salomous [Solomon's]
+
+porch. And of other durste no man joyne himselfe to them: nevertheles
+
+the people magnified them. The nombre of them that beleved in the Lord,
+
+both of men and women, grewe more and more: insomuche that they brought
+
+the sicke into the stretes, and layde them on beddes and couches, that
+
+at the leaste waye the shadowe of Peter, when he came by, might shadowe
+
+some of them, [(and that they might all be delivered from their infirmities.)]*
+
+There came also a multitude out of the cities rounde about unto Jerusalem,
+
+bringing sicke folkes, and them which were vexed with uncleane spirites.
+
+And they were healed every one.
 
 The Gospell. Luke xxii.
 
@@ -702,13 +698,69 @@ all covetous desires, and inordinate love of riches, and to folowe thy
 
 sayed sonne Jesus Christ; who lyveth and reigneth, &c.
 
+The Epistle. 2 Cor. iv.
+
+SEYNG that we
+
+have suche an office, even as God hath had mercye on us, we go not out
+
+of kynde [i.
+
+e., do not swerve], but have cast from us the clokes of unhonestye,
+
+and walke not in craftines, neither handle we the worde of God deceiptfully,
+
+but open the trueth, and reporte ourselves to every mans conscience
+
+in the sight of God. If our gospel be yet hid, it is hid among them
+
+that are lost: in whom the god of this world hath blinded the mindes
+
+of them whiche beleve not, leste the light of the gospell of the glory
+
+of Christe (whiche is the image of God) should shyne unto them. For
+
+we preache not ourselves, but Christe Jesus to be the Lorde, and oureselves
+
+youre servauntes for Jesus sake. For it is God, that commaunded the
+
+light to shyne out of darkenes, whiche hath shyned in our heartes, for
+
+to geve the light of the knowlege of the glory of God, in the face of
+
+Jesus Christe.
+
+The Gospell. Matt. ix.
+
+AND as Jesus passed
+
+forth from thence, he sawe a man (named Mathewe) sitting at the receipt
+
+of custome [=tax
+
+office], and he sayd unto him, folowe me: and he arose, and folowed
+
+him. And it came to passe as Jesus sate at meate in his house; beholde,
+
+many Publicans also and synners that came, sate downe with Jesus and
+
+his disciples. And when the Phariseis sawe it, they sayd unto his disciples;
+
+why eateth your Master with Publicanes and synners? But when Jesus heard
+
+that, he sayed unto them; They that be strong nede not the phisicion,
+
+but they that are sicke. Goe ye rather and learne what that meaneth;
+
+I will have mercy, and not sacrifice, for I am not come to cal the righteous,
+
+but synners to repentaunce.
+
 > Saynte Michaell and all Angels.
 
 > At the Communion.
 
-Laud
-
-ate, pueri. Psalm cxiii.
+Laud ate, pueri. Psalm cxiii.
 
 PRAYSE
 
@@ -748,9 +800,7 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the beginning, &c.
 
-The
-
-Collect.
+The Collect.
 
 EVERLASTYNG
 
@@ -1268,15 +1318,11 @@ also."
 
 The Second Lesson, Apoc. xix. (unto) "And I saw an angel stand."
 
-Web author: Charles
-
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

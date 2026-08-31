@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The xvii Sondaye.
@@ -250,9 +226,7 @@ Clamavi.
 
 Psalm cxix.
 
-I
-
-CALL with my whole harte : heare me, O Lord, I wyll kepe thy statutes.
+ICALL with my whole harte : heare me, O Lord, I wyll kepe thy statutes.
 
 Yea, even upon thee do I call : helpe me, and I shall
 
@@ -288,9 +262,7 @@ As it was in the beginning, is now, &c.
 
 The Collect.
 
-O
-
-GOD, for asmuche as without thee, we are not able to please thee; Graunte
+OGOD, for asmuche as without thee, we are not able to please thee; Graunte
 
 that the workyng of thy mercie maye in all thynges directe and rule
 
@@ -384,13 +356,9 @@ merveiled and glorified God, whiche had geven suche power unto men.
 
 The xx Sondaie.
 
-Vide
+Vide humilitatem meam. Ps. cxix.
 
-humilitatem meam. Ps. cxix.
-
-O
-
-CONSIDRE myne adversitie and deliver me : For I do not forget thy lawe.
+OCONSIDRE myne adversitie and deliver me : For I do not forget thy lawe.
 
 Avenge thou my cause and deliver me : quicken me,
 
@@ -599,6 +567,40 @@ bee geven unto me, that I maye open my mouthe frely, to utter the secretes
 of my Gospell (wherof I am a messenger in bondes,) that therein I maye
 
 speake frely, as I oughte to speake.
+
+The Gospel. John iv.
+
+THERE was a certaine
+
+Ruler, whose sonne was sicke at Capernaum. As sone as the same heard,
+
+that Jesus was come out of Jewry [=Judea]
+
+into Galile, he went unto him, and besought hym that he would come doune
+
+and heale his sonne. For he was even at the poinct of death. Then saied
+
+Jesus unto him; except ye see signes and wonders, ye wil not beleve.
+
+The Ruler saieth unto him; Sir, come doune or ever that my sonne dye.
+
+Jesus sayeth unto hym; Go thy waye, thy sonne liveth. The manne beleved
+
+the woorde that Jesus had spoken unto hym. And he wente his waye. And
+
+as he was goyng doune, the servauntes mette hym, and told hym, saying;
+
+thy sonne liveth. Then enquired he of them the houre, when he heganne
+
+to amende. And thy saied unto hym; yesterdaie at the seventh houre,
+
+the fever left him. So the father knew that it was the same houre, in
+
+the whiche Jesus saied unto hym. Thy sonne liveth, and he beleved, and
+
+all his houshold. This is agayn the second miracle that Jesus did, when
+
+he was come out of Jewry into Galile.
 
 > The xxii Sondaye.
 
@@ -934,6 +936,40 @@ geving thankes unto the father, which hath made us meete to be partakers
 
 of the inherytaunce of sainctes in lyght.
 
+The Gospel. Matt. ix.
+
+WHYLE Jesus spake
+
+unto the people, beholde, there came a certaine ruler, and worshipped
+
+him, saiyng; my doughter is even nowe disceased [deceased],
+
+but come and laye thy hande upon her, and she shall lyve. And Jesus
+
+arose and folowed hym, and so dyd hys discyples. And beholde, a woman
+
+whyche was diseased with an issue of bloude twelve yeres, came behinde
+
+him and touched the hemme of his vesture. For she saide within herselfe:
+
+If I maye touche but even hys vesture only, I shalbe safe [=saved].
+
+But Jesus turned him about, and when he sawe her, he sayde: doughter,
+
+be of good comfort, thy fayth bath made thee safe. And the woman was
+
+made whole even that same tyme. And when Jesus came into the rulers
+
+house, and sawe the mynstrelles and the people makyng a noyse, he said
+
+unto them; get you hence, for the maide is not dead but slepeth. And
+
+they laughed hym to scorne: But when the people were put furth he went
+
+in, and toke her by the hande (and sayde: damosell aryse). And the damosell
+
+arose. And thys noyse went abrode into all that lande.
+
 > The xxv Sondaye.
 
 Nisi Dominus. Psalm cxxvii.
@@ -1058,19 +1094,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 

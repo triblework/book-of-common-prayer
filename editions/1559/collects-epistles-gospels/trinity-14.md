@@ -2,7 +2,15 @@
 
 ## The Collect
 
-ALMIGHTYE and everlastyng God, geve unto us the increase of faythe, hope, and charitie; and that we may obteine that whiche thou doest promise; make us to love that whiche thou doest commaunde, through Jesus Christe our Lorde. Amen.
+ALMIGHTYE. Amen.
+
+and everlastyng God, geve unto us the increase of faythe, hope, and. Amen.
+
+charitie; and that we may obteine that whiche thou doest promise; make. Amen.
+
+us to love that whiche thou doest commaunde, through Jesus Christe our. Amen.
+
+Lorde. Amen.
 
 ## The Epistle
 

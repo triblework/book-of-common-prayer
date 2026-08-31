@@ -4,7 +4,11 @@
 
 ## The Collect
 
-LORD, make us to have a perpetuall feare and love of thy holy name: for thou never faillest to helpe and governe them whom thou doest bryng up in thy stedfast love. Graunt this, &c.
+LORD, make us to have a perpetuall feare and love of thy holy name: for thou
+
+never faillest to helpe and governe them whom thou doest bryng up in
+
+thy stedfast love. Graunt this, &c.
 
 ## The Epistle
 

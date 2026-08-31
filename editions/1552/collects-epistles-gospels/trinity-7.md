@@ -1,10 +1,18 @@
-# The vii Sonday
+# The vii Sonday[
 
-<!-- VERIFY: 'The vii Sonday' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
+<!-- VERIFY: 'The vii Sonday[' — the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. -->
 
 ## The Collect
 
-LORDE of all power and might, whiche art the author and gever of all good thynges; graffe in our hartes the love of thy name, increase in us true religion, norishe us with all goodnes, and of thy great mercy kepe us in the same; Through Jesus Christe our Lorde.
+LORDE of all power
+
+and might, whiche art the author and gever of all good thynges; graffe
+
+in our hartes the love of thy name, increase in us true religion, norishe
+
+us with all goodnes, and of thy great mercy kepe us in the same; Through
+
+Jesus Christe our Lorde.
 
 ## The Epistle
 

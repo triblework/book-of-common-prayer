@@ -2,7 +2,13 @@
 
 ## The Collect
 
-GOD, whiche makest us glad with the yerely remembraunce of the birth of thy onely sonne Jesus Christ; graunt that as we joyfully receiue him for our redemer, so we may with sure confidence beholde hym, when he shall come to be our judge, who liveth and reigneth &c.
+GOD, whiche makest us glad with the yerely remembraunce of the birth of thy
+
+onely sonne Jesus Christ; graunt that as we joyfully receiue him for
+
+our redemer, so we may with sure confidence beholde hym, when he shall
+
+come to be our judge, who liveth and reigneth &c.
 
 ## The Epistle
 
@@ -14,7 +20,17 @@ Luke 2
 
 ## The Collect (Second Communion)
 
-ALMYGHTYE God, whiche haste geuen us thy onlye begotten sonne to take our nature upon hym, and this daye to bee borne of a pure Vyrgyn; Graunte that we beyng regenerate, and made thy children by adoption and grace, maye dailye be renued by thy holy spirite, through the same our Lorde Jesus Christe who lyueth and reygneth &c.
+ALMYGHTYE God,
+
+whiche haste geuen us thy onlye begotten sonne to take our nature upon
+
+hym, and this daye to bee borne of a pure Vyrgyn; Graunte that we beyng
+
+regenerate, and made thy children by adoption and grace, maye dailye
+
+be renued by thy holy spirite, through the same our Lorde Jesus Christe
+
+who lyueth and reygneth &c.
 
 ## The Epistle (Second Communion)
 

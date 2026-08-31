@@ -57,25 +57,40 @@ NEW_1979_10C = [F + s for s in ("easter-wednesday", "easter-thursday",
 W10C_1979_ABSENT = [x for x in W10C
                     if x not in W10C_1979_DAYS + W10C_1979_LINEAGE]
 
+# ---- sub-wave 10d: the Saints' Days ----
+SAINTS_CORE = [F + s for s in (
+    "st-andrew", "st-thomas", "st-stephen", "st-john-evangelist",
+    "holy-innocents", "conversion-st-paul", "purification", "st-matthias",
+    "annunciation", "st-mark", "st-philip-st-james", "st-barnabas",
+    "st-john-baptist", "st-peter", "st-james", "st-bartholomew", "st-matthew",
+    "st-michael", "st-luke", "st-simon-st-jude", "all-saints")]
+MAGDALENE = [F + "st-mary-magdalene"]      # 1549 only; restored at 1979
+TRANSFIG = [F + "transfiguration"]         # an American addition
+NEW_1979_10D = [F + s for s in (
+    "st-joseph", "the-visitation", "st-mary-the-virgin",
+    "st-james-of-jerusalem", "independence-day", "thanksgiving-day")]
+
 AMERICAN = BASE13 + EP6 + XMAS2
 
 ADD = {
-    "1549": (BASE13 + W10B + W10C, []),
-    "1552": (BASE13 + W10B + W10C, []),
-    "1559": (BASE13 + W10B + W10C, []),
-    "1604": (BASE13 + W10B + W10C, []),
-    "1662": (BASE13 + EP6 + W10B + W10C, []),
-    "1637": (BASE13 + W10B + W10C, []),
-    "1764": ([], BASE13 + W10B + W10C),
+    "1549": (BASE13 + W10B + W10C + SAINTS_CORE + MAGDALENE, []),
+    # St. Mary Magdalene is marked "1549 only" -- a clean deletion at 1552.
+    "1552": (BASE13 + W10B + W10C + SAINTS_CORE, MAGDALENE),
+    "1559": (BASE13 + W10B + W10C + SAINTS_CORE, []),
+    "1604": (BASE13 + W10B + W10C + SAINTS_CORE, []),
+    "1662": (BASE13 + EP6 + W10B + W10C + SAINTS_CORE, []),
+    "1637": (BASE13 + W10B + W10C + SAINTS_CORE, []),
+    "1764": ([], BASE13 + W10B + W10C + SAINTS_CORE),
     "1929": ([], []),
-    "1789": (AMERICAN + W10B + W10C, []),
-    "1892": (AMERICAN + W10B + W10C, []),
-    "1928": (AMERICAN + W10B + W10C, []),
+    "1789": (AMERICAN + W10B + W10C + SAINTS_CORE + TRANSFIG, []),
+    "1892": (AMERICAN + W10B + W10C + SAINTS_CORE + TRANSFIG, []),
+    "1928": (AMERICAN + W10B + W10C + SAINTS_CORE + TRANSFIG, []),
     # 1979 abolishes the pre-Lent "Gesima" Sundays, does not observe Whitsun
     # Monday/Tuesday, and replaces the Sundays after Trinity with calendar-dated
     # Propers -- all genuine drops, never force-mapped.
     "1979": (AMERICAN + NEW1979 + LENT + HOLYWEEK + W10C_1979_DAYS
-             + W10C_1979_LINEAGE + NEW_1979_10C, GESIMA + W10C_1979_ABSENT),
+             + W10C_1979_LINEAGE + NEW_1979_10C + SAINTS_CORE + TRANSFIG
+             + MAGDALENE + NEW_1979_10D, GESIMA + W10C_1979_ABSENT),
 }
 
 

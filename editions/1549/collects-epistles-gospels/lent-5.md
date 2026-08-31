@@ -8,7 +8,13 @@ Deus, in nomine tuo. Psalm 54
 
 ## The Collect
 
-WE beseche thee, almyghtie God, mercifullye to looke upon thy people; that by thy greate goodnesse they may be governed and preserved evermore, both in body and soule; through Jesus Christe our Lorde.
+WE beseche thee,
+
+almyghtie God, mercifullye to looke upon thy people; that by thy greate
+
+goodnesse they may be governed and preserved evermore, both in body
+
+and soule; through Jesus Christe our Lorde.
 
 ## The Epistle
 

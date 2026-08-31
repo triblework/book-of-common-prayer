@@ -1,8 +1,10 @@
-# The Sunday after Christmas Day
+# The Sunday after
 
 ## The Collect
 
-ALMIGHTY God, which hast geven us, &c. as upon Christmas-day.
+ALMIGHTY God,
+
+which hast geven us, &c. as upon Christmas-day.
 
 ## The Epistle
 

@@ -1,12 +1,18 @@
-# The Circumcision of Christ
-
-## The Introit
-
-Laetatus sum. Psalm 122
+# The Circumcision
 
 ## The Collect
 
-ALMYGHTIE God, whiche madeste thy blessed sonne to be circumcised, and obedyente to the law for man; Graunt us the true circumcision of thy spirite, that our hertes, and al our membres, being mortifyed from al worldly and carnal lustes, may in al thinges obey thy blessed wil; through the same thy sonne Jesus Christ our Lorde.
+ALMYGHTIE
+
+God, whiche madeste thy blessed sonne to be circumcised, and obedyente
+
+to the law for man; Graunt us the true circumcision of thy spirite,
+
+that our hertes, and al our membres, being mortifyed from al worldly
+
+and carnal lustes, may in al thinges obey thy blessed wil; through the
+
+same thy sonne Jesus Christ our Lorde.
 
 ## The Epistle
 
@@ -24,10 +30,24 @@ Luke 2
 
 > The Seconde Lesson, Colloss. ii. unto the ende.
 
-> If there be a Sunday between the Epiphany and the Circumcision then shall be used the same Collect, Epistle, and Gospel, at the Communion, which was used upon the day of Circumcision.
+> If there be a Sunday between the Epiphany and the Circumcision then
 
-> Previous Readings
+> shall be used the same Collect, Epistle, and Gospel, at the Communion,
+
+> which was used upon the day of Circumcision.
+
+> Previous
+
+> Readings
 
 > Next Readings
 
-> Return to 1549, 1552, 1559 Book of Common Prayer
+> Wohlers
+
+> U.
+
+> S. • England • Scotland
+
+> • Ireland • Wales
+
+> • Canada • World

@@ -2,9 +2,17 @@
 
 ## The Collect
 
-GRAUNTE us, O Lorde, to learne to loue oure enemies, by the example of thy marter saincte Stephin, who prayed to thee for hys persecutors; whiche liuest and reignest, &c.
+GRAUNTE
 
-> Then shall folowe a Collect of the Nativitie.
+us, O Lorde, to learne to loue oure enemies, by the example of thy marter
+
+saincte Stephin, who prayed to thee for hys persecutors; whiche liuest
+
+and reignest, &c.
+
+continually unto newe years daye]*.
+
+> Then shall folowe a Collect of the Nativitie [which shalbe sayd
 
 ## The Epistle
 

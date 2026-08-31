@@ -4,7 +4,13 @@
 
 ## The Collect
 
-WE beseche thee, almyghtie God, mercifullye to looke upon thy people; that by thy greate goodnesse they may be governed and preserved evermore, both in body and soule; through Jesus Christe our Lorde. Amen.
+WE beseche thee,. Amen.
+
+almyghtie God, mercifullye to looke upon thy people; that by thy greate. Amen.
+
+goodnesse they may be governed and preserved evermore, both in body. Amen.
+
+and soule; through Jesus Christe our Lorde. Amen.
 
 ## The Epistle
 

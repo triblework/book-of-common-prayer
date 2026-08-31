@@ -4,7 +4,13 @@
 
 ## The Collect
 
-GRAUNTE Lorde, wee beseche thee, that the course of thys worlde maye bee so peaceably ordred by thy governaunce, that thy congregacion may joyfully serve thee in all godly quietnes; thoroughe Jesus Christe oure Lorde. Amen.
+GRAUNTE. Amen.
+
+Lorde, wee beseche thee, that the course of thys worlde maye bee so. Amen.
+
+peaceably ordred by thy governaunce, that thy congregacion may joyfully. Amen.
+
+serve thee in all godly quietnes; thoroughe Jesus Christe oure Lorde. Amen.
 
 ## The Epistle
 

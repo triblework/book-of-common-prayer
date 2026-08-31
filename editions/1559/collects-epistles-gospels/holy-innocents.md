@@ -1,8 +1,18 @@
-# The Innocentes Daye
+# The Innocentes
 
 ## The Collect
 
-ALMIGHTY God, whose prayse this daye the yong innocentes thy witnesses hath confessed and shewed forth, not in speakyng but in dying; Mortifye and kyll all vyces in us, that in oure conuersacion oure lyfe maye expresse thy fayth, whiche with oure tongues we doe confesse; through Jesus Christe oure Lord. Amen.
+ALMIGHTY God,. Amen.
+
+whose prayse this daye the yong innocentes thy witnesses hath confessed. Amen.
+
+and shewed forth, not in speakyng but in dying; Mortifye and kyll all. Amen.
+
+vyces in us, that in oure conuersacion. Amen.
+
+oure lyfe maye expresse thy fayth, whiche with oure tongues we doe confesse;. Amen.
+
+through Jesus Christe oure Lord. Amen.
 
 ## The Epistle
 

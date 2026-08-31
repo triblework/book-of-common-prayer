@@ -4,7 +4,13 @@
 
 ## The Collect
 
-ALMYGHTYE and everlastyng God, mercifullye looke upon oure infirmities, and in al our daungiers and necessities, stretche foorth thy ryghte hande to helpe and defende us; through Christ our Lorde. Amen.
+ALMYGHTYE and. Amen.
+
+everlastyng God, mercifullye looke upon oure infirmities, and in al. Amen.
+
+our daungiers and necessities, stretche foorth thy ryghte hande to helpe. Amen.
+
+and defende us; through Christ our Lorde. Amen.
 
 ## The Epistle
 

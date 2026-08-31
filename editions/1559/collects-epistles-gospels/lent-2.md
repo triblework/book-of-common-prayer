@@ -4,7 +4,17 @@
 
 ## The Collect
 
-ALMIGHTYE God, whiche doest see that we have no power of oureselves to helpe ourselves; kepe thou us both outwardly in oure bodies, and inwardly in oure soules; that we maye be defended from all adversities whiche maye happen to the body, and from all evel thoughtes which maye assault and hurte the soule; through Jesus Christ &c. Amen.
+ALMIGHTYE God,. Amen.
+
+whiche doest see that we have no power of oureselves to helpe ourselves;. Amen.
+
+kepe thou us both outwardly in oure bodies, and inwardly in oure soules;. Amen.
+
+that we maye be defended from all adversities whiche maye happen to. Amen.
+
+the body, and from all evel thoughtes which maye assault and hurte the. Amen.
+
+soule; through Jesus Christ &c. Amen.
 
 ## The Epistle
 

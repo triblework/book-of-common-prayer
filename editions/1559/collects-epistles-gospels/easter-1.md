@@ -2,7 +2,11 @@
 
 ## The Collect
 
-ALMIGHTY Father, &c. as at the second Communion on Easter day. * 1549 book only. Amen.
+ALMIGHTY. Amen.
+
+Father, &c. as at the second Communion on Easter. Amen.
+
+day. Amen.
 
 ## The Epistle
 

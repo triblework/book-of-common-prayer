@@ -8,4 +8,8 @@ ALmightie and everlasting God, we humbly beseech thy Majesty, that as thy onely 
 
 ## The Epistle
 
+> The same that is appointed for the Sunday.
+
+## The Gospel
+
 Luke 2:22

@@ -34,10 +34,10 @@ SEASONS = [
     ("1549_Xmas.md", "notes_Xmas.txt", [
         ("christmas-day", "> Proper Psalmes and lessons on Christmas day."),
         ("st-stephen", "> St. Stephin's Day."),
-        ("st-john-evangelist", "> Sayncte John Evangelistes Daye."),
-        ("holy-innocents", "> The Innocentes Daye."),
-        ("christmas-1", "> The Sunday after Christmas Day."),
-        ("circumcision", "> The Circumcision of Christ."),
+        ("st-john-evangelist", "Sayncte John Evangelistes"),
+        ("holy-innocents", "The Innocentes"),
+        ("christmas-1", "The Sunday after"),
+        ("circumcision", "The Circumcision"),
     ]),
     ("1549_Epiphany.md", "notes_Epiphany.txt", [
         ("epiphany", "> The Epiphanie."),
@@ -168,12 +168,22 @@ VERIFY_LATE = ("<!-- VERIFY: '{title}' — the source brackets this title expans
 def build():
     written = {}
     for spine, notes_file, marks in SEASONS:
-        lines, notes, textcol = W.load(spine, notes_file)
-        segs = W.segment(lines, notes, marks, textcol)
+        # Source the TEXT COLUMN directly. The apparatus quotes the text it
+        # discusses -- whole collects, whole readings -- so no content-based
+        # filter can tell a genuine line from a quoted one; using the column
+        # removes the entire class of silent loss. (w10_textspine.py)
+        text_spine = "text_" + spine[len("1549_"):]
+        lines, _, _ = W.load(text_spine)
+        segs = W.segment(lines, [], marks)
         for slug, block in segs.items():
             if slug.startswith("_skip:"):
                 continue
             for edition in ("1549", "1552", "1559"):
+                # The justus index marks St. Mary Magdalene "1549 only": the
+                # feast is dropped at 1552. Authoring it for the later books
+                # would assert a day they do not keep.
+                if slug == "st-mary-magdalene" and edition != "1549":
+                    continue
                 want_introit = edition == "1549"
                 keep_bracket = edition == "1559"
                 cell = W.parse_cell(block, want_introit=want_introit)

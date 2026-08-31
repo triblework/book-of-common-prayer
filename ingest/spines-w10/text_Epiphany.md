@@ -1,27 +1,3 @@
-The Book
-
-of Common Prayer
-
-United
-
-States
-
-England
-
-Scotland
-
-Ireland
-
-Wales
-
-Canada
-
-World
-
-Collects, Epistles, and Gospels
-
-from the 1549, 1552 and 1559 Books of Common
-
 Prayer
 
 > The Epiphanie.
@@ -38,9 +14,7 @@ Cantate
 
 Domino. Psalm xcvi.
 
-O
-
-SYNG unto the Lorde a newe song : sing unto the Lorde all the whole
+OSYNG unto the Lorde a newe song : sing unto the Lorde all the whole
 
 yearth.
 
@@ -102,9 +76,7 @@ As it was in the beginning, &c.
 
 The Collect.
 
-O
-
-GOD, which by the leading of a starre diddest manifest thy onelye begotten
+OGOD, which by the leading of a starre diddest manifest thy onelye begotten
 
 sonne to the Gentiles; Mercifully graunt, that we, which know thee now
 
@@ -154,6 +126,58 @@ purpose which he wrought in Christ Jesu our lord: by whom wee have boldenesse
 
 and entraunce with the confidence which is by the faith of him.
 
+The Gospel. Matt. ii.
+
+WHEN Jesus was
+
+borne in Bethleem a city of Jury [Jewry, i. e., Judea], in the tyme of Herode
+
+the kyng: Behold there came wise men from the East to Jerusalem, salyng:
+
+where is he that is borne king of Jewes? For we have sene his starre
+
+in the East, and are come to worship him. When Herode the kyng had heard
+
+these thynges, he was troubled, and all the citie of Jerusalem with
+
+him. And when he had gathered al the chief priestes and scribes of the
+
+people together, he demaunded of them, where Christe shoulde be borne.
+
+And they said unto him, At Bethleem in Jurie. For thus it is written
+
+by the prophete; And thou, Bethleem, in the land of Jury, art not the
+
+least among the princes of Juda: for oute of thee there shall come unto
+
+me the capitain that shal governe my people Israel. Then Herode (when
+
+he had prievely called the wise men) he inquired of them diligentlye
+
+what time the starre appeared, and he bad them go to Bethleem, and said
+
+go your waie thither, and serche diligentelye for the childe. And when
+
+ye have found him, bring me woord again, that I maie come and worship
+
+him also. When they had heard the king, they departed; and loe, the
+
+starre whiche thei sawe in the Easte, wente beefore them, tyll it came
+
+and stoode over the place where the child was. When thei saw the starre
+
+thei were exceadyng glad, and wente into the house, and founde the child
+
+with Marie his mother, and fel downe flat and woorshipped him, and opened
+
+their treasures and offred unto hym gyftes: Golde, Frankinsence, and
+
+Mirre. And after they were warned of God in slepe, (that they shoulde
+
+not go again to Herode,) they returned into their owne countrey another
+
+waie.
+
 At Evensong.
 
 The Firste Lesson, Esai. xlix. unto the ende.
@@ -162,17 +186,13 @@ The ii Lesson, John ii. "After this he wente
 
 doune Capernaum," unto the ende.
 
-The
-
-firste Sonday after the Epiphanye.
+The firste Sonday after the Epiphanye.
 
 Usquequo,
 
 Domine? Psalm xiii.
 
-HOW
-
-long wilt thou forget me, O Lord, for ever? howe long wilt thou hide
+HOW long wilt thou forget me, O Lord, for ever? howe long wilt thou hide
 
 thy face from me?
 
@@ -202,9 +222,7 @@ As it was in the begynnyng, &c.
 
 The Collect.
 
-LORDE
-
-we beseche the mercyfullye to receive the praiers of thy people which
+LORDE we beseche the mercyfullye to receive the praiers of thy people which
 
 cal upon thee; and graunt that they maie both perceave and knowe what
 
@@ -790,6 +808,40 @@ or deede, doe all in the name of the lorde Jesu, gevyng thankes to God
 
 the father by him.
 
+The Gospel. Matt. xiii.
+
+THE kyngdome of
+
+heaven is like unto a manne whiche sowed good sede in his felde: but
+
+while men slept, his enemy came, and sowed tares [=vetch, or weeds] amonge the wheat, and went his waye.
+
+But when the blade was sprong up, and had brought furth fruite, then
+
+appeared the tares also. So the servauntes of the housholder came, and
+
+said unto him: Sir, diddest not thou sowe good seede in thy felde? from
+
+whence then hath it tares? he sayde unto theim, the envyous man hath
+
+done this. The servauntes sayd unto him, Wilt thou then that we go and
+
+wede them up? But he saide, naye; leste whyle ye gather up the tares,
+
+ye plucke up also the wheat with them: lette bothe growe together until
+
+the harvest; and in tyme of harvest I will say to the reapers: gather
+
+ye fyrste the tares, and bynde them together in sheves to be brent:
+
+but gather the wheat into my barne.
+
+The vi sonday (if there be so many) shall have
+
+the same [psalme,]* Collect, Epistle, and Gospel, that
+
+was upon the v.
+
 > The sonday called Septuagesima.
 
 Dominus regit. Psalm xxiii.
@@ -932,9 +984,7 @@ Domini
 
 est terra. Psalm xxiv.
 
-THE
-
-yearth is the lordes, and all that therin is : the compass of the worlde,
+THE yearth is the lordes, and all that therin is : the compass of the worlde,
 
 and they that dwell therin.
 
@@ -980,13 +1030,9 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the begynning, is now, &c.
 
-The
+The Collect.
 
-Collect.
-
-LORDE
-
-GOD, whiche seest that we put not our trust in any thyng that we do;
+LORDE GOD, whiche seest that we put not our trust in any thyng that we do;
 
 mercyfully graunt that by thy power we may be defended against al adversitie;
 
@@ -1039,6 +1085,56 @@ and I burne not? If I muste nedes boast, I wyl boast of the thynges
 that concerne myne infirmities. The God and father of our lorde Jesus
 
 Christ, whiche is blessed for evermore, knoweth that I lye not.
+
+The Gospel. Luke viii.
+
+WHEN muche people
+
+were gathered together, and were come to hym out of all cities, he spake
+
+by a similitude [=parable]: The
+
+sower went out to sowe his seede: and as he sowed, some fell by the
+
+way-syde, and it was troden doune, and the foules of the ayre devoured
+
+it up. And some fell on stones, and as sone as it was sprong up, it
+
+withered awaye, because it lacked moystnes. And some fell among thornes,
+
+and the thornes sprang up with it and choked it. And some fell on good
+
+ground, and sprong up, and bare fruite an hundreth-folde. And as he
+
+sayd these thinges, he cryed; he that hath eares to heare, let him heare.
+
+And his disciples asked hym, saying, what maner of similitude is this?
+
+And he sayd; unto you it is geven to know the kyngdome of God, but to
+
+other by parables; that when they see, they should not see, and when
+
+they heare they should not understande. The parable is this: The seede
+
+is the worde of God: those that are beside the way, are they that heare:
+
+then commeth the devil and taketh the worde out of their hartes, leste
+
+they should beleve, and be saved. They on the stones, are they whiche
+
+when they heare, receive the woorde with joye; and these have no rotes
+
+[roots], whiche for a while beleve, and in tyme of
+
+temptacion go away. And that whiche fell among thornes, are they whiche
+
+when they have heard, go furth, and are choked with cares, and riches,
+
+and voluptuous lyving, and bryng furth no fruite. That whiche fell in
+
+the good grounde, are they whiche with a pure and good heart, heare
+
+the woorde and kepe it, and bryng furth fruite through pacience.
 
 > The Sonday called Quinquagesima.
 
@@ -1208,19 +1304,13 @@ Previous
 
 Readings
 
-Next
-
-Readings
-
-Web author: Charles
+Next Readings
 
 Wohlers
 
 U.
 
-S. •
-
-England • Scotland
+S. • England • Scotland
 
 • Ireland • Wales
 
