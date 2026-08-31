@@ -71,3 +71,47 @@ to any family where the same logical unit exists across editions:
 - **When a parser is fixed, re-run both gates over everything**, not just the
   cell that failed. The fixes in 10c changed output for occasions that had never
   been flagged.
+
+
+## Corollary: prefer a structural discriminator to a content filter
+
+Wave 10d ended by deleting a filter rather than improving it, and that is the
+transferable lesson.
+
+The propers pages are two-column. The apparatus column **quotes the text it
+discusses** — often a whole collect or a whole reading. So a filter that decides
+"is this line apparatus?" from the line's *content* is attempting something
+impossible: the genuine line and the quoted line are the same words. Every
+version of that filter silently deleted real text, and each fix only moved the
+failure somewhere new.
+
+The fix was to stop filtering and read the **left column** instead
+(`ingest/w10_textspine.py`). Where the text came from is structural, knowable,
+and not a judgement call.
+
+When ingesting a new source, ask early: *what structural fact distinguishes the
+content I want from the content I don't?* Markup position, cell width, element
+class. If the answer is "I'll recognize it when I see it", expect silent loss.
+
+Three traps met while doing this, worth checking for in any table-based source:
+
+- **A column can be split.** These pages divide the 450-wide text column into two
+  225-wide halves for some occasions. Keying on the *text* width missed those;
+  keying on the *apparatus* width (consistently 150) and treating everything else
+  as text is the robust polarity — enumerate the narrow, well-defined thing, not
+  the open-ended one.
+- **Don't classify a cell by sniffing its contents.** Looking for an Arial font
+  inside a cell misread a text cell that happened to contain one, and dropped a
+  whole occasion. Use the cell's own attributes.
+- **Markup fragments words.** Drop-capitals and headings broken after their first
+  word arrive as separate pieces, so heading markers stop matching. Rejoin short
+  leading fragments before matching anything.
+
+And a pattern-matching caution learned twice in one wave: **a matcher widened to
+catch a rare case will catch common ones too.** Broadening the citation matcher to
+see single-chapter books ("Jude 1.") made ordinary prose match; widening the
+cross-reference matcher made a general rubric ("The sixth Sunday, if there be so
+many...") look like a shared reading, which stole a section and orphaned a real
+citation. Both were caught only because the builder **aborts on an unassigned
+citation** rather than dropping it. Build such assertions in deliberately: they
+turn a silent loss into a loud stop.

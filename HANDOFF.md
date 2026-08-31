@@ -11,7 +11,36 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — Wave 10c (Easter → Trinity) DONE + PUBLISHED (2026-08-31)
+## CURRENT — Wave 10d (the Saints' Days) BUILT + BUILD-GREEN, NOT PUBLISHED
+
+**10d is DONE on `authoring` (tip `4e0fb62`) and awaiting go-ahead on the
+force-push. Wave 10 is then COMPLETE.** 106 occasions in total.
+Audit: 0 anomalies. Fidelity: English 270/270, 1662 89/89, 1637 89/89, American
+276/276, 1979 84/84. verify_index reconciles 302 inline / 397 provenance (896
+records). All three tips pass every `--check`.
+
+**THE ENGLISH FAMILY IS NOW BUILT FROM THE TEXT COLUMN** (`w10_textspine.py`),
+not from a filtered flat stream. The apparatus column quotes the text it
+discusses, so no content-based filter can separate genuine text from a quotation
+— the column is the only reliable discriminator. Read the "prefer a structural
+discriminator to a content filter" section of `ingest/AUDIT_METHOD.md` before
+ingesting any new table-based source.
+
+Calendar facts now represented: **St. Mary Magdalene is 1549-only** (clean
+deletion at v1552) and is **restored by 1979**; the **Transfiguration** is an
+American addition; 1979 adds Holy Days the older books never kept (St. Joseph,
+the Visitation, St. James of Jerusalem, Independence Day, Thanksgiving Day),
+carried as their own days. A day that appoints no reading of its own but refers
+to another's (the Purification) carries that cross-reference as printed.
+
+TO PUBLISH 10d: the §5 sequence, as for 10a–10c. AFTER THAT, Wave 10 is done;
+next are the still-deferred **Prayers and Thanksgivings** wave, then spec §6
+stretch items (Psalter, lectionary tables — where the 1979 three-year readings
+and the 1979 Propers' own reading sets are owed).
+
+<!-- Superseded: the 10c block is kept below -->
+
+## Wave 10c (Easter → Trinity) DONE + PUBLISHED (2026-08-31)
 
 **10c is DONE + PUBLISHED (force-pushed 2026-08-31). Published tips:
 `main e2c3328 · scottish b9de11b · american cb18919`; all 12 tags recreated;
