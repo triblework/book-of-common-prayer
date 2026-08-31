@@ -28,7 +28,8 @@ BOOKS = {
     "prov": "Proverbs", "proverbs": "Proverbs",
     "eccles": "Ecclesiastes", "ecclesiasticus": "Ecclesiasticus",
     "cant": "Song of Solomon",
-    "esa": "Isaiah", "esay": "Isaiah", "isai": "Isaiah", "isaiah": "Isaiah",
+    "esa": "Isaiah", "esay": "Isaiah", "isa": "Isaiah", "isai": "Isaiah",
+    "isaiah": "Isaiah",
     "hiere": "Jeremiah", "jere": "Jeremiah", "jerem": "Jeremiah",
     "jeremiah": "Jeremiah", "jeremy": "Jeremiah",
     "ezek": "Ezekiel", "ezekiel": "Ezekiel",
@@ -43,7 +44,8 @@ BOOKS = {
     "matthew": "Matthew", "st matt": "Matthew", "st matth": "Matthew",
     "st matthew": "Matthew",
     "mark": "Mark", "marke": "Mark", "st mark": "Mark", "st marke": "Mark",
-    "luke": "Luke", "luc": "Luke", "st luke": "Luke", "st luc": "Luke",
+    "luke": "Luke", "luc": "Luke", "luk": "Luke", "st luke": "Luke",
+    "st luc": "Luke",
     "john": "John", "st john": "John",
     "1 john": "1 John", "1 st john": "1 John",
     "2 john": "2 John", "3 john": "3 John",
@@ -68,6 +70,7 @@ BOOKS = {
     "2 pet": "2 Peter", "2 peter": "2 Peter",
     "jude": "Jude",
     "apoc": "Revelation", "revelation": "Revelation", "rev": "Revelation",
+    "revel": "Revelation",
 }
 
 ROMAN = {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100, "d": 500, "m": 1000}
@@ -147,6 +150,9 @@ SELF_CHECK = {
     "Luc. ii.": "Luke 2",
     "Coloss. iii.": "Colossians 3",
     "Heb. 1. 1.": "Hebrews 1:1",          # source prints arabic 1 for roman i
+    "Revel. 14.1. [-5]": "Revelation 14:1",
+    "Luk. 2.15.": "Luke 2:15",
+    "Isa. 60.1.": "Isaiah 60:1",
 }
 
 
