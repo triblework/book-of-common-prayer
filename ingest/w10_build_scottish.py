@@ -31,9 +31,9 @@ MARKS = [
     ("advent-3", "The third Sunday in Advent."),
     ("advent-4", "The fourth Sunday in Advent."),
     ("christmas-day", "Christmas day."),
-    ("_skip:st-stephen", "Saint Stevens day."),
-    ("_skip:st-john-evangelist", "S. John Evangelists day."),
-    ("_skip:holy-innocents", "Innocents day."),
+    ("st-stephen", "Saint Stevens day."),
+    ("st-john-evangelist", "S. John Evangelists day."),
+    ("holy-innocents", "Innocents day."),
     ("christmas-1", "The Sund. after Christm. day."),
     ("circumcision", "The Circumcision of Christ"),
     ("epiphany", "The Epiphany."),
@@ -104,7 +104,30 @@ MARKS_B = [
     ("trinity-25", "The xxv. Sunday after Trinity."),
 ]
 
-SPINES = [("1637_A.md", MARKS), ("1637_B.md", MARKS_B)]
+# ---- sub-wave 10d: the Saints' Days page ----
+# Two headings wrap across lines, so the marker is the first line only.
+MARKS_C = [
+    ("st-andrew", "Saint Andrews day."),
+    ("st-thomas", "Saint Thomas the Apostle."),
+    ("conversion-st-paul", "The Conversion of S. Paul."),
+    ("purification", "The Purification of Saint"),
+    ("st-matthias", "Saint Matthias day."),
+    ("annunciation", "Annunciation of the blessed"),
+    ("st-mark", "Saint Markes day."),
+    ("st-philip-st-james", "Saint Philip and James day."),
+    ("st-barnabas", "Saint Barnabe Apostle."),
+    ("st-john-baptist", "Saint John Baptist."),
+    ("st-peter", "Saint Peters day."),
+    ("st-james", "S. James the Apostle"),
+    ("st-bartholomew", "S. Bartholomew the Apostle."),
+    ("st-matthew", "Saint Matthew the Apostle."),
+    ("st-michael", "Saint Michael and all Angels."),
+    ("st-luke", "Saint Luke the Evangelist."),
+    ("st-simon-st-jude", "Simon and Jude Apostles."),
+    ("all-saints", "All Saints day."),
+]
+
+SPINES = [("1637_A.md", MARKS), ("1637_B.md", MARKS_B), ("1637_C.md", MARKS_C)]
 
 CITE_LINE = re.compile(r"^[0-9A-Za-z][A-Za-z. ]*\.? ?[0-9]+\.[0-9]+\.(\s*\[-[0-9:a-z]+\])?$")
 EPISTLE = re.compile(r"^>?\s*(For the Epistle|The Epistle)\s*\.?\s*$", re.I)
@@ -185,7 +208,7 @@ def render(cell):
 def main():
     n = 0
     for spine, marks in SPINES:
-        lines, _ = W.load(spine)
+        lines, _, _ = W.load(spine)
         for slug, block in W.segment(lines, [], marks).items():
             if slug.startswith("_skip:"):
                 continue

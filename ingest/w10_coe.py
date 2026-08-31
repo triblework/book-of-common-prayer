@@ -87,6 +87,30 @@ SLUGS = [
     ("-68", "trinity-23"),
     ("-69", "trinity-24"),
     ("-70", "trinity-25"),
+    # ---- sub-wave 10d: the Saints' Days (derived from the site map).
+    # 1662 has no St. Mary Magdalene (1549 only) and no Transfiguration
+    # (American); All Saints is the path suffix "/all".
+    ("", "holy-innocents"),
+    ("-5", "st-stephen"),
+    ("-19", "st-john-evangelist"),
+    ("-71", "st-andrew"),
+    ("-72", "st-thomas"),
+    ("-73", "conversion-st-paul"),
+    ("-74", "purification"),
+    ("-75", "st-matthias"),
+    ("-76", "annunciation"),
+    ("-77", "st-mark"),
+    ("-78", "st-philip-st-james"),
+    ("-79", "st-barnabas"),
+    ("-80", "st-john-baptist"),
+    ("-81", "st-peter"),
+    ("-82", "st-james"),
+    ("-83", "st-bartholomew"),
+    ("-84", "st-matthew"),
+    ("-85", "st-michael"),
+    ("-86", "st-luke"),
+    ("-87", "st-simon-st-jude"),
+    ("/all", "all-saints"),
 ]
 
 TAG = re.compile(

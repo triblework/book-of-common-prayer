@@ -107,7 +107,34 @@ MARKS_C = [
     ("trinity-25", "The Twenty-fifth Sunday after Trinity."),
 ]
 
-SPINES = [("1789_A.md", MARKS), ("1789_B.md", MARKS_B), ("1789_C.md", MARKS_C)]
+# ---- sub-wave 10d: the Saints' Days page ----
+MARKS_D = [
+    ("st-andrew", "Saint Andrew's Day"),
+    ("st-thomas", "Saint Thomas the Apostle."),
+    ("st-stephen", "Saint Stephen's Day."),
+    ("st-john-evangelist", "Saint John the Evangelist's Day."),
+    ("holy-innocents", "The Innocents' Day."),
+    ("conversion-st-paul", "The Conversion of Saint Paul."),
+    ("purification", "The Purification of Saint Mary the Virgin."),
+    ("st-matthias", "Saint Matthias's Day."),
+    ("annunciation", "The Annunciation of the blessed Virgin Mary."),
+    ("st-mark", "Saint Mark's Day."),
+    ("st-philip-st-james", "Saint Philip and Saint James's Day."),
+    ("st-barnabas", "Saint Barnabas the Apostle."),
+    ("st-john-baptist", "Saint John Baptist's Day."),
+    ("st-peter", "Saint Peter's Day."),
+    ("st-james", "Saint James the Apostle."),
+    ("transfiguration", "The Transfiguration of Christ."),
+    ("st-bartholomew", "Saint Bartholomew the Apostle."),
+    ("st-matthew", "Saint Matthew the Apostle."),
+    ("st-michael", "Saint Michael and all Angels."),
+    ("st-luke", "Saint Luke the Evangelist."),
+    ("st-simon-st-jude", "Saint Simon and Saint Jude, Apostles."),
+    ("all-saints", "All Saints' Day."),
+]
+
+SPINES = [("1789_A.md", MARKS), ("1789_B.md", MARKS_B), ("1789_C.md", MARKS_C),
+          ("1789_D.md", MARKS_D)]
 
 # "Collect added in 1928." -- 1789 and 1892 print no collect for these days.
 COLLECT_FROM_1928 = {"tuesday-before-easter", "wednesday-before-easter"}
@@ -216,6 +243,10 @@ def parse(block):
 # ---------------------------------------------------------------------------
 DELTAS = {
     "1892": [
+        ("transfiguration", "verify", None,
+         "Readings for the Transfiguration added in 1892 — the source states "
+         "only that the READINGS were added then, and does not say when the "
+         "feast or its collect first appeared in the American books."),
         ("easter-day", "second", True,
          "This rubric, the Collect, and Readings for a second service, were all "
          "added in 1892."),
@@ -280,6 +311,9 @@ DELTAS = {
          "not represented here."),
         ("trinity-25", "title", "The Sunday next before Advent",
          "Title changed to The Sunday next before Advent in 1892."),
+        # ---- sub-wave 10d ----
+        ("st-peter", "title", "Saint Peter the Apostle",
+         "Saint Peter the Apostle. in 1928."),
         ("christmas-2", "verify", None,
          "Readings for the 2nd Sunday after Christmas added in 1928 — the source "
          "prints one set of readings for this day without distinguishing them, so "
@@ -350,7 +384,7 @@ def render(cell, verifies):
 def main():
     base = {}
     for spine, marks in SPINES:
-        lines, _ = W.load(spine)
+        lines, _, _ = W.load(spine)
         lines = [ln for ln in lines if not is_apparatus(ln)]
         for slug, block in W.segment(lines, [], marks).items():
             if not slug.startswith("_skip:"):

@@ -94,6 +94,39 @@ MAP = [
     ("trinity-17", "Proper 23"),
     ("trinity-19", "Proper 19"),
     ("trinity-20", "Proper 2"),
+    # ---- sub-wave 10d: the Holy Days ----
+    # Same feast on the same date -> same slug; where 1979 renames the day, that
+    # is a heading diff on the same file.
+    ("st-andrew", "Saint Andrew"),
+    ("st-thomas", "Saint Thomas"),
+    ("st-stephen", "Saint Stephen"),
+    ("st-john-evangelist", "Saint John"),
+    ("holy-innocents", "The Holy Innocents"),
+    ("conversion-st-paul", "Conversion of Saint Paul"),
+    ("purification", "The Presentation"),          # 2 February, renamed
+    ("st-matthias", "Saint Matthias"),
+    ("annunciation", "The Annunciation"),
+    ("st-mark", "Saint Mark"),
+    ("st-philip-st-james", "Saint Philip and Saint James"),
+    ("st-barnabas", "Saint Barnabas"),
+    ("st-john-baptist", "The Nativity of Saint John the Baptist"),
+    ("st-peter", "Saint Peter and Saint Paul"),    # 29 June; 1979 adds Paul
+    ("st-mary-magdalene", "Saint Mary Magdalene"), # 1549 only, then restored 1979
+    ("st-james", "Saint James"),
+    ("transfiguration", "The Transfiguration"),
+    ("st-bartholomew", "Saint Bartholomew"),
+    ("st-matthew", "Saint Matthew"),
+    ("st-michael", "Saint Michael and All Angels"),
+    ("st-luke", "Saint Luke"),
+    ("st-simon-st-jude", "Saint Simon and Saint Jude"),
+    ("all-saints", "All Saint's Day"),
+    # 1979 Holy Days with no historic counterpart -> their own slugs.
+    ("st-joseph", "Saint Joseph"),
+    ("the-visitation", "The Visitation"),
+    ("st-mary-the-virgin", "Saint Mary the Virgin"),
+    ("st-james-of-jerusalem", "Saint James of Jerusalem"),
+    ("independence-day", "Independence Day"),
+    ("thanksgiving-day", "Thanksgiving Day"),
 ]
 
 # Absent at 1979: the day is not observed and no confident descendant is placed.

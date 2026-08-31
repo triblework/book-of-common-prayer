@@ -33,9 +33,9 @@ SEASONS = [
     ]),
     ("1549_Xmas.md", "notes_Xmas.txt", [
         ("christmas-day", "> Proper Psalmes and lessons on Christmas day."),
-        ("_skip:st-stephen", "> St. Stephin's Day."),
-        ("_skip:st-john-evangelist", "> Sayncte John Evangelistes Daye."),
-        ("_skip:holy-innocents", "> The Innocentes Daye."),
+        ("st-stephen", "> St. Stephin's Day."),
+        ("st-john-evangelist", "> Sayncte John Evangelistes Daye."),
+        ("holy-innocents", "> The Innocentes Daye."),
         ("christmas-1", "> The Sunday after Christmas Day."),
         ("circumcision", "> The Circumcision of Christ."),
     ]),
@@ -120,6 +120,32 @@ SEASONS = [
         ("trinity-24", "> The xxiiii Sondaye."),
         ("trinity-25", "> The xxv Sondaye."),
     ]),
+    # ---- sub-wave 10d: the Saints' Days ----
+    # Markers omit the "> " prefix: not every heading on these pages carries the
+    # pilcrow hc_clean converts (St. Bartholomew's does not).
+    ("1549_SaintsA.md", "notes_SaintsA.txt", [
+        ("st-andrew", "Sainct Andrewes Daye."),
+        ("st-thomas", "Saynct Thomas the Apostle."),
+        ("conversion-st-paul", "The conversion of sainct Paule."),
+        ("purification", "The Purificacion of Saint Mary the Virgin."),
+        ("st-matthias", "Saint Mathies' daie."),
+        ("annunciation", "The Annunciacion of the virgin Marie."),
+        ("st-mark", "Sainct Markes day."),
+        ("st-philip-st-james", "Sainct Philip and James."),
+        ("st-barnabas", "Saint Barnabe Apostle."),
+        ("st-john-baptist", "Saint John Baptist."),
+    ]),
+    ("1549_SaintsB.md", "notes_SaintsB.txt", [
+        ("st-peter", "Saint Peter's Day."),
+        ("st-mary-magdalene", "Sainct Mary Magdalene."),
+        ("st-james", "Sainct James the Apostle."),
+        ("st-bartholomew", "Sainct Bartholomewe"),
+        ("st-matthew", "Sayncte Matthewe"),
+        ("st-michael", "Saynte Michaell and all Angels."),
+        ("st-luke", "Sainct Luke evangelist."),
+        ("st-simon-st-jude", "Symon and Jude Apostles."),
+        ("all-saints", "All Saynctes."),
+    ]),
 ]
 
 # The page prints Christmas Day's block under its proper-lessons rubric rather
@@ -131,7 +157,8 @@ TITLE_OVERRIDE = {"christmas-day": "Christmas Day"}
 LATE_1500S = {"advent-3", "advent-4", "epiphany-3", "epiphany-4", "epiphany-5",
               "ash-wednesday", "lent-2", "lent-3", "lent-4", "lent-5",
               "easter-3", "easter-4", "easter-5", "trinity-2", "trinity-3",
-              "trinity-4", "trinity-5", "trinity-6", "trinity-7", "trinity-8"}
+              "trinity-4", "trinity-5", "trinity-6", "trinity-7", "trinity-8",
+              "st-matthew", "st-bartholomew"}
 
 VERIFY_LATE = ("<!-- VERIFY: '{title}' — the source brackets this title expansion "
                "and footnotes it only as \"added in late 1500's\", without naming "
@@ -141,8 +168,8 @@ VERIFY_LATE = ("<!-- VERIFY: '{title}' — the source brackets this title expans
 def build():
     written = {}
     for spine, notes_file, marks in SEASONS:
-        lines, notes = W.load(spine, notes_file)
-        segs = W.segment(lines, notes, marks)
+        lines, notes, textcol = W.load(spine, notes_file)
+        segs = W.segment(lines, notes, marks, textcol)
         for slug, block in segs.items():
             if slug.startswith("_skip:"):
                 continue

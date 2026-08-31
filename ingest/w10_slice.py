@@ -35,7 +35,19 @@ SUBHEAD = re.compile(r"^>\s*(At Mattins|At Matins|At Mattyns|At Euensong|At Even
                      r"At the (First|Firste|Seconde|Second) Communion|At the Communion)\b", re.I)
 
 
-def load(spine_name, notes_name=None):
+def _norm(text):
+    return re.sub(r"\s+", " ", re.sub(r"^>\s*", "", text)).strip()
+
+
+def load(spine_name, notes_name=None, textcol_name=None):
+    """Spine lines, apparatus notes, and (if available) the TEXT-column set.
+
+    The apparatus quotes the text it discusses, so content alone cannot tell a
+    genuine line from a quoted one. `textcol` is the set of paragraphs that
+    actually came from the liturgical column (built by w10_textspine.py), and it
+    is the authority: a line present there is never apparatus, however much of
+    some note it happens to match.
+    """
     path = os.path.join(SPINES, spine_name)
     lines = [ln.rstrip("\n") for ln in open(path, encoding="utf-8")]
     notes = []
@@ -43,10 +55,21 @@ def load(spine_name, notes_name=None):
         np = os.path.join(SPINES, notes_name)
         if os.path.exists(np):
             notes = [ln.strip() for ln in open(np, encoding="utf-8") if ln.strip()]
-    return lines, notes
+    textcol = ""
+    if textcol_name is None and spine_name.startswith("1549_"):
+        textcol_name = "text_" + spine_name[len("1549_"):]
+    if textcol_name:
+        tp = os.path.join(SPINES, textcol_name)
+        if os.path.exists(tp):
+            # One normalized blob: hc_clean splits a paragraph at <br> where the
+            # column builder joins it, so exact line membership would miss. What
+            # matters is only whether the words came from the text column.
+            textcol = _norm(" ".join(
+                ln for ln in open(tp, encoding="utf-8") if ln.strip()))
+    return lines, notes, textcol
 
 
-def is_apparatus(line, notes):
+def is_apparatus(line, notes, textcol=""):
     """True if this spine line is Wohlers' editorial note, not Prayer-Book text.
 
     A STRUCTURAL line -- an occasion heading, 'The Collect.', or a reading label
@@ -62,6 +85,8 @@ def is_apparatus(line, notes):
         return False
     if READING.match(probe) or LABEL_ONLY.match(line) or COLLECT.match(line):
         return False
+    if textcol and len(probe) > 24 and _norm(line) in textcol:
+        return False          # these words came from the liturgical column
     if re.fullmatch(r"\[[^\]]{2,60}\](?:;.*)?", probe):     # [Romans 13:8-14]
         return True
     if re.fullmatch(r"\*.*", probe) and len(probe) < 90:     # footnote markers
@@ -99,7 +124,7 @@ def strip_brackets(text, keep):
     return text.strip()
 
 
-def segment(lines, notes, marks):
+def segment(lines, notes, marks, textcol=""):
     """marks = [(slug, start-substring), ...] in spine order -> {slug: [lines]}"""
     idx = []
     for slug, marker in marks:
@@ -116,7 +141,8 @@ def segment(lines, notes, marks):
     out = {}
     for n, (slug, start) in enumerate(idx):
         stop = idx[n + 1][1] if n + 1 < len(idx) else len(lines)
-        out[slug] = [ln for ln in lines[start:stop] if not is_apparatus(ln, notes)]
+        out[slug] = [ln for ln in lines[start:stop]
+                     if not is_apparatus(ln, notes, textcol)]
     return out
 
 

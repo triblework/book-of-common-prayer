@@ -38,6 +38,8 @@ BOOKS = {
     "joel": "Joel", "amos": "Amos", "jonah": "Jonah", "micah": "Micah",
     "hab": "Habakkuk", "zeph": "Zephaniah", "hag": "Haggai",
     "zech": "Zechariah", "zachary": "Zechariah", "mal": "Malachi",
+    "malachi": "Malachi", "zechariah": "Zechariah", "amos": "Amos",
+    "hosea": "Hosea", "nahum": "Nahum", "obadiah": "Obadiah",
     "wisd": "Wisdom", "wisdom": "Wisdom", "baruch": "Baruch",
     "tobit": "Tobit", "ecclus": "Ecclesiasticus",
 
@@ -62,15 +64,20 @@ BOOKS = {
     "col": "Colossians", "coloss": "Colossians", "colossians": "Colossians",
     "1 thess": "1 Thessalonians", "1 thessalonians": "1 Thessalonians",
     "2 thess": "2 Thessalonians", "2 thessalonians": "2 Thessalonians",
-    "1 tim": "1 Timothy", "2 tim": "2 Timothy",
+    "1 tim": "1 Timothy", "1 timothy": "1 Timothy",
+    "1 st timothy": "1 Timothy",
+    "2 tim": "2 Timothy", "2 timothy": "2 Timothy",
+    "2 st timothy": "2 Timothy",
     "tit": "Titus", "titus": "Titus",
     "philemon": "Philemon",
     "heb": "Hebrews", "hebr": "Hebrews", "hebrews": "Hebrews",
     "james": "James", "jam": "James", "st james": "James",
     "1 pet": "1 Peter", "1 peter": "1 Peter", "1 st pet": "1 Peter",
     "1 st peter": "1 Peter",
-    "2 pet": "2 Peter", "2 peter": "2 Peter",
-    "jude": "Jude",
+    "2 pet": "2 Peter", "2 peter": "2 Peter", "2 st pet": "2 Peter",
+    "2 st peter": "2 Peter",
+    "jude": "Jude", "st jude": "Jude", "st philemon": "Philemon",
+    "2 st john": "2 John", "3 st john": "3 John",
     "apoc": "Revelation", "revelation": "Revelation", "rev": "Revelation",
     "revel": "Revelation",
 }
@@ -184,6 +191,9 @@ SELF_CHECK = {
     "Heb. 1. 1.": "Hebrews 1:1",          # source prints arabic 1 for roman i
     "St. John xv. 26, and part of chap. xvi.": "John 15:26, and part of chapter 16",
     "Jer. xxiii.": "Jeremiah 23",
+    "2 St. Timothy 4.5-15": "2 Timothy 4:5",
+    # Jude is a single-chapter book: the printed number is a verse.
+    "St. Jude 1-8": "Jude 1",
     "St. John 15.26-16.4": "John 15:26",   # CoE range spanning chapters
 
     "John xv. xvi.": "John 15 and 16",      # two chapters, not 15:16
