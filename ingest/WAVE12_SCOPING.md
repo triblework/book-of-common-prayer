@@ -1,5 +1,25 @@
 # Wave 12 — the four deferred sections: source survey + one open decision
 
+> ## DECISIONS — LOCKED (maintainer ruling, 2026-09-01)
+>
+> **1. The Penitential Office gets its OWN slug** —
+> `occasional-offices/penitential-office.md`, present 1892 and 1928, NOT mapped
+> onto `occasional-offices/commination`. The Commination stays `absent:` in the
+> American line from 1789. The Commination→Penitential relationship is an
+> *occasion* relationship, not a textual one (it keeps the first day of Lent and
+> Psalm 51 and drops the name, all eight curses and their responses), so it is
+> recorded in **NOTICE.md**, not asserted as a diff on one slug.
+>
+> **2. The Sea forms carry their psalms as a CITATION POINTER, not in full.**
+> The CoE page prints 98 psalm-verse paragraphs; the Psalter is a deferred wave,
+> so transcribing them here would pre-empt it and duplicate the text later. This
+> follows the Wave-10 "citation only" precedent: the anchor is identical whether
+> it later holds a citation or a full text, so a deepening pass throws nothing
+> away.
+>
+> Do not re-litigate either ruling; this is the durable record.
+
+
 Authoring-only. These four were excluded from Wave 11 by the maintainer's locked
 ruling (`WAVE11_SCOPING.md`) as "each its own future wave". This is that wave.
 
@@ -75,7 +95,7 @@ defining content. See §5 for the options and the recommendation.
   it and duplicate text later. Decide whether the Sea forms carry their psalms in
   full or as a pointer (the Wave-10 "citation only" precedent applies cleanly).
 
-## 5. Options for §3, with a recommendation
+## 5. Options for §3 — (a) ACCEPTED (see the locked decision at the top)
 
 **(a) Its own slug** — `occasional-offices/penitential-office.md`, present 1892+,
 with the relationship to the Commination recorded in NOTICE. *Recommended.*

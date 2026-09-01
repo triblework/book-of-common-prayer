@@ -11,6 +11,40 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 12 (the four deferred sections) IN PROGRESS
+
+The four sections Wave 11 excluded, now their own wave. Survey + both locked
+rulings: `ingest/WAVE12_SCOPING.md` — read it before touching this wave.
+
+- **RULING 1: the Penitential Office takes its OWN slug**
+  (`occasional-offices/penitential-office.md`, 1892 + 1928), NOT the commination
+  slug. Measured rather than assumed: it keeps the first day of Lent and Psalm
+  51 but carries 0 of the Commination's 8 denounced curses and drops the name
+  entirely (whole-text overlap 0.33). The Commination stays `absent:` in the
+  American line from 1789; the occasion relationship goes in NOTICE.md.
+- **RULING 2: the Sea forms carry their psalms as a citation pointer**, not in
+  full — the CoE page prints 98 psalm-verse paragraphs and the Psalter is a
+  deferred wave (Wave-10 citation-only precedent).
+
+PRESENCE (from the indexes, not assumed): Sea 1662/1789/1892 — **1928 drops it**
+(75 hrefs on its index, none matching `sea`); Penitential Office 1892/1928, and
+**1928 moves it onto the Litany page** (`Litany.htm#Penitential`) where 1892
+prints it with Prayers and Thanksgivings; Family Prayer 1789/1892/1928; Prayer
+and Thanksgiving to Almighty God 1789/1892. **1979 carries none of the four.**
+1892 links to the 1789 pages for three of them — shared, like the propers, but
+confirm textual identity per section rather than assuming it.
+
+STILL TO CONFIRM: whether the Sea forms are a 1662 addition (absent 1549–1604).
+The justus 1662 index URL 404s; do not assert it without a source.
+
+PARSING: the Penitential Office is already parsed — it is exactly the 10 blocks
+`w11_spine.extract('1892')` drops at the EXCLUDE cut. The CoE Sea page uses a
+DIFFERENT class vocabulary from the P&T page (`vlpsalm`/`vlitemheading`/
+`bcpitalicheading`, and **no `bcprubricheading`**), so `w11_spine`'s `coe` style
+yields zero titles until extended.
+
+<!-- Superseded: the Wave-11 block is kept below -->
+
 ## CURRENT — WAVE 11 (Prayers and Thanksgivings) DONE + PUBLISHED (2026-09-01)
 
 **PUBLISHED 2026-09-01 (force-pushed with maintainer go-ahead). New published
