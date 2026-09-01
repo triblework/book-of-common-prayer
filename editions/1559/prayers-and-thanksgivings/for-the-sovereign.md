@@ -1,0 +1,3 @@
+# Prayer for the Queenes Majesty.
+
+O LORD our hevenly father, high and mighty king of kynges, Lorde of lordes, the onely ruler of princes, which doest from thy throne beholde all the dwellers upon earth, most hartely we beseche the with thy favoure to beholde our mooste gracious soveraigne Lady Quene Elizabeth*, and so replenyshe her with the grace of thy holy spirit, that she may alway incline to thy wil, and walcke in thy waye: Indue her plentifully wyth heavenly gifts: Graunt her in health and wealthe longe to live: strength her that she may vanquish and overcome al her enemies: And finally after this life she may attaine everlasting joye and felicitie, thorowe Jesus Christ our Lorde. Amen.

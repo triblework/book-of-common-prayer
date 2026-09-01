@@ -18,6 +18,23 @@ Sickness" -> "In Time of great Sickness and Mortality") a clean one-line diff.
 Where a book prints two forms under one head, the second is its own file with a
 `-2` slug and keeps its own printed label (`Or this.` / `(ii)`).
 
+## Untitled prayers — the bracket convention
+
+Some books print a prayer with **no title at all** (the 1559 prayer for the
+clergy runs straight on from the one before it with a drop capital; the 1928
+Collects are six untitled texts under one shared rubric). A file still needs an
+`#` heading to be an anchor, but putting the 1662 printed title there would
+fabricate a heading the book does not have — and would make the 1559->1662
+heading diff vanish, which is a false claim of continuity.
+
+Convention: the heading carries the conventional name **in square brackets**,
+and the cell carries an inline `<!-- VERIFY -->` recording that the source
+prints the prayer untitled. Brackets already mean "editorial, not printed"
+elsewhere in this repo.
+
+    # [A Prayer for the Clergy and People]
+    <!-- VERIFY: 'untitled' - the 1559 source prints this prayer with no title -->
+
 ## The state-prayer migration (evidence-based, decided this wave)
 
 At **1559 / 1604 / 1637** Morning Prayer ends at `## The Collect for Grace`; the

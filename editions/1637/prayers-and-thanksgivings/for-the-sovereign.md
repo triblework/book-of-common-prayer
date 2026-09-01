@@ -1,0 +1,3 @@
+# A Prayer for the King's Majesty
+
+O LORD our heavenly father, high and mighty King of kings, Lord of lords, the only ruler of Princes, which doest from thy throne behold all the dwellers upon earth, most heartily we beseech thee with thy favour to behold our most gracious Soveraigne Lord King Charles, and so replenish him with the grace of thy holy Spirit, that he may allway incline to thy will, and walk in thy way : indue him plenteously with heavenly gifts; grant him in health and wealth long to live; strength him that he may vanquish and overcome all his enemies; and finally after this life, he may attaine everlasting joy and felicity, through Jesus Christ our Lord. Amen.
