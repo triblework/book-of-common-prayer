@@ -11,10 +11,13 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 12 (the four deferred sections) BUILD-COMPLETE, NOT PUBLISHED
+## CURRENT — WAVE 12 (the four deferred sections) DONE + PUBLISHED (2026-09-01)
 
-**Built, gated and green on `origin/authoring`; NOT published — that needs the
-maintainer's explicit go-ahead on the force-push.** 9 cells under
+**PUBLISHED 2026-09-01 (force-pushed with maintainer go-ahead). Published tips:
+`main 1056c53 · scottish 279a2cb · american a921f9a`; all 12 tags recreated;
+local==remote verified for all 3 branches + 12 tags (15 refs, 0 mismatched);
+flagship diffs render on the published refs; no tag carries a replacement
+character.** 9 cells under
 `occasional-offices/`. Fidelity 9/9 clean; audit 0 anomalies; authoring
 verify_index reconciles 306 inline VERIFY / 403 provenance items; all three
 built tips pass sentence_split / normalize / verify_index `--check`.
