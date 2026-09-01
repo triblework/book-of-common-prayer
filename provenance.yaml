@@ -9571,3 +9571,1954 @@ records:
       - anchor: "whitsunday"
         note: ": 'The Day of Pentecost: Whitsunday' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   # --- end Wave 10 (10a) ---
+
+  # --- Wave 11: Prayers and Thanksgivings upon several Occasions ---
+  - edition: 1552
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1552
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1552
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine-2
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1552
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1552
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1552
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Litany_1552.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The occasional prayers printed after the Litany suffrages. 1552 is the first edition to carry any of this block (1549 has none). Extracted by explicit spine line number (ingest/w11_build_spine.py); the book prints them inline after the Litany, recorded as a book-order note in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/for-the-clergy-and-people
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+    verify_items:
+      - anchor: "for-the-clergy-and-people"
+        source_reading: "untitled"
+        note: "— the source prints this prayer with no title; the bracketed heading is editorial"
+  - edition: 1559
+    service: prayers-and-thanksgivings/for-the-sovereign
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1559
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "State prayers + occasional prayers printed after the Litany suffrages. Per the page's own apparatus the Thanksgivings and the Royal Family prayer are NOT 1559 (see 1604). Inline placement recorded in NOTICE.md, not as a text diff."
+  - edition: 1604
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/for-the-clergy-and-people
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+    verify_items:
+      - anchor: "for-the-clergy-and-people"
+        source_reading: "untitled"
+        note: "— the source prints this prayer with no title; the bracketed heading is editorial"
+  - edition: 1604
+    service: prayers-and-thanksgivings/for-the-royal-family
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/for-the-sovereign
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+    verify_items:
+      - anchor: "for-the-sovereign"
+        source_reading: "Quene Elizabeth"
+        note: "— the 1559 page's apparatus says this prayer was replaced by a prayer for the King in 1604 and gives the style 'Sovereign Lord King James', but attests neither the pronouns nor the spellings the 1604 book printed. The 1559 wording is retained and the gap recorded; resolve from a 1604 facsimile."
+  - edition: 1604
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/prayer-after-the-former
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+    verify_items:
+      - anchor: "prayer-after-the-former"
+        source_reading: "untitled"
+        note: "— the source prints this prayer with no title; the bracketed heading is editorial"
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague-2
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1604
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Litany_1559.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Derived from the 1559 page, whose apparatus dates these additions to 1604: \"The following Thanksgivings were added in 1604\", \"[prayer added 1604]\" (Royal Family) and \"Replaced by a prayer for the King in 1604\". Nothing is derived that an apparatus note does not license."
+  - edition: 1637
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/for-the-clergy-and-people
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/for-the-royal-family
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/for-the-sovereign
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/in-the-ember-weeks
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/prayer-after-the-former
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+    verify_items:
+      - anchor: "prayer-after-the-former"
+        source_reading: "untitled"
+        note: "— the source prints this prayer with no title; the bracketed heading is editorial"
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague-2
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1637
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/Scotland/Litany_1637.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The full block (state prayers, Ember weeks, occasional prayers, concluding collect, thanksgivings) printed after the Litany suffrages in the Scottish book."
+  - edition: 1662
+    service: prayers-and-thanksgivings/for-all-conditions-of-men
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/for-the-high-court-of-parliament
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/for-those-to-be-admitted-into-holy-orders
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/in-the-ember-weeks
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine-2
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/prayer-after-the-former
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague-2
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-for-restoring-publick-peace
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1662
+    service: prayers-and-thanksgivings/thanksgiving-general
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/prayers-and-thanksgivings"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "The block becomes its own section, \"Prayers and Thanksgivings upon several Occasions\"; the Litany already ends \"Here endeth the Litany.\" The state prayers move into Morning and Evening Prayer and are absent here (a relocation, not a deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-a-person-going-to-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-a-person-under-affliction
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-a-sick-child
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-a-sick-person
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-malefactors-after-condemnation
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-the-convention
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/for-those-to-be-admitted-into-holy-orders
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-recovery-from-sickness
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-restoring-publick-peace
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-for-safe-return-from-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1789
+    service: prayers-and-thanksgivings/thanksgiving-women-after-childbirth
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Prayers&Thanks_1789.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "First American book. The Convention prayer on this page is EXCLUDED from 1789: the page's own apparatus column reads \"This prayer and rubric added in 1845\". A Prayer for all Conditions of Men and the General Thanksgiving move into Morning and Evening Prayer (relocation, not deletion — see NOTICE.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-a-person-going-to-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-a-person-under-affliction
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-a-sick-child
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-a-sick-person
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-congress
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-fruitful-seasons
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-malefactors-after-condemnation
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-missions
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-the-convention
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-those-to-be-admitted-into-holy-orders
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/for-unity
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-childs-recovery
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-deliverance-from-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-recovery-from-sickness
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-restoring-publick-peace
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-for-safe-return-from-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1892
+    service: prayers-and-thanksgivings/thanksgiving-women-after-childbirth
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Pray&Thanks_1892.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Adds the pastoral prayers. The Penitential Office printed on the same page is excluded from this wave by the locked scoping ruling (ingest/WAVE11_SCOPING.md)."
+  - edition: 1928
+    service: prayers-and-thanksgivings/a-bidding-prayer
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-assist-us-mercifully
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-direct-us-o-lord
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-fountain-of-all-wisdom
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-grant-we-beseech-thee
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-peace-i-leave-with-you
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/collect-promised-to-hear-petitions
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-a-person-going-to-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-a-person-under-affliction
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-a-sick-child
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-a-sick-person
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-a-state-legislature
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-children
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-christian-service
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-congress
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-courts-of-justice
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-every-man-in-his-work
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-fruitful-seasons
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-missions
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-our-country
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-prisoners
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-religious-education
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-schools-colleges-universities
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-social-justice
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-army
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-church
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-convention
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-family-of-nations
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-increase-of-the-ministry
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-the-navy
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-those-about-to-be-confirmed
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-those-to-be-admitted-into-holy-orders
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/for-unity
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/in-time-of-calamity
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/in-time-of-dearth-and-famine
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/in-time-of-plague
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/in-time-of-war-and-tumults
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/memorial-days
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-childs-recovery
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-fair-weather
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-fruits-of-the-earth
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-peace-and-deliverance
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-plenty
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-recovery-from-sickness
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-restoring-publick-peace
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-for-safe-return-from-sea
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1928
+    service: prayers-and-thanksgivings/thanksgiving-women-after-childbirth
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Pray&Thanks.htm"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "Largest historic set. Includes the six untitled COLLECTS printed under one shared rubric inside this section (in scope; slugs are incipit-derived, see ingest/WAVE11_GUIDE.md). Satucket/Wohlers formatted text of a public-domain book."
+  - edition: 1979
+    service: prayers-and-thanksgivings/a-prayer-attributed-to-st-francis
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/a-prayer-of-self-dedication
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/after-receiving-communion
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/after-worship
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/before-receiving-communion
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/before-worship
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-a-birthday-2
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-a-birthday
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-a-church-convention-or-meeting
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-a-person-in-trouble-or-bereavement
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-agriculture
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-all-conditions-of-men
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-an-election
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-church-musicians-and-artists
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-cities
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-congress-or-a-state-legislature
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-courts-of-justice
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-families
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-guidance-2
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-guidance
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-joy-in-gods-creation
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-knowledge-of-gods-creation
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-local-government
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-monastic-orders-and-vocations
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-our-country
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-our-enemies
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-peace-among-the-nations
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-peace
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-prisons-and-correctional-institutions
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-protection
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-quiet-confidence
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-rain
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-schools-colleges-universities
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-social-justice
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-sound-government
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-absent
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-aged
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-answering-of-prayer
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-care-of-children
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-church
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-clergy-and-people
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-conservation-of-natural-resources
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-diocese
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-election-of-a-bishop-or-other-minister
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-future-of-the-human-race
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-good-use-of-leisure
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-harvest-of-lands-and-waters
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-human-family
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-mission-of-the-church
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-oppresed
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-parish
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-poor-and-the-neglected
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-president-of-the-united-states-and-all-in-civil-authority
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-right-use-of-gods-gifts
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-unemployed
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-unity-of-the-church
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-the-victims-of-addiction
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-about-to-be-baptized-or-to-renew-their-baptismal-covenant
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-in-the-armed-forces-of-our-country
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-we-love
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-who-influence-public-opinion
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-who-live-alone
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-those-who-suffer-for-the-sake-of-conscience
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-towns-and-rural-areas
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-travelers
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/for-young-persons
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/grace-at-meals
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/in-the-evening
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/in-times-of-conflict
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/on-sunday
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-a-litany-of-thanksgiving
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-heroic-service
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-beauty-of-the-earth
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-diversity-of-races-and-cultures
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-gift-of-a-child
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-harvest
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-mission-of-the-church
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-nation
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-restoration-of-health
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-for-the-saints-and-faithful-departed
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  - edition: 1979
+    service: prayers-and-thanksgivings/thanksgiving-general
+    source_url: "http://justus.anglican.org/resources/bcp/bcpprayr.txt"
+    retrieved: 2026-09-01
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest + two gates)"
+    note: "70 Prayers + 11 Thanksgivings from the public-domain 1979 e-text, built by ingest/transform_1979_prayers.py (source->script->file). Mapped to a historic slug only on demonstrable lineage; contested candidates keep their own 1979 slug and the rejection is recorded in the transform (CROSSWALK_REJECTED)."
+  # --- end Wave 11 ---
