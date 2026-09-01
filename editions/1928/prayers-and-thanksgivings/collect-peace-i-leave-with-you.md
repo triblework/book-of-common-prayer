@@ -1,0 +1,5 @@
+# A Collect.
+
+> To be used after the Collects of Morning or Evening Prayer, or Communion, at the discretion of the Minister.
+
+O LORD Jesus Christ, who saidst unto thine Apostles, Peace I leave with you, my peace I give unto you; Regard not our sins, but the faith of thy Church; and grant to it that peace and unity which is according to thy will, who livest and reignest with the Father and the Holy Ghost, one God, world without end. Amen.

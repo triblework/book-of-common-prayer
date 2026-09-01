@@ -1,0 +1,3 @@
+# For the Army.
+
+O LORD God of Hosts, stretch forth, we pray thee, thine almighty arm to strengthen and protect the soldiers of our country; Support them in the day of battle, and in the time of peace keep them safe from all evil; endue them with courage and loyalty; and grant that in all things they may serve without reproach; through Jesus Christ our Lord. Amen.

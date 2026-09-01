@@ -1,0 +1,3 @@
+# For Rain.
+
+O GOD, our heavenly Father, by whose gracious providence the former and the latter rain descend upon the earth, that it may bring forth fruit for the use of man; We give thee humble thanks that it hath pleased thee to send us rain to our great comfort, and to the glory of thy holy Name; through Jesus Christ our Lord. Amen.

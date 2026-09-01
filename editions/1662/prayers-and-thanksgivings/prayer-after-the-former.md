@@ -1,0 +1,3 @@
+# A Prayer that may be said after any of the former.
+
+O God, whose nature and property is ever to have mercy and to forgive, receive our humble petitions; and though we be tied and bound with the chain of our sins, yet let the pitifulness of thy great mercy loose us; for the honour of Jesus Christ, our Mediator and Advocate. Amen.

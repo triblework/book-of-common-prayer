@@ -1,0 +1,3 @@
+# For the Increase of the Ministry.
+
+O ALMIGHTY God, look mercifully upon the world which thou hast redeemed by the blood of thy dear Son, and incline the hearts of many to dedicate themselves to the sacred ministry of thy Church; through the same thy Son Jesus Christ our Lord. Amen.

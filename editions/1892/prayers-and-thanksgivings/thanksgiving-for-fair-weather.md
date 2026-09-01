@@ -1,0 +1,3 @@
+# For Fair Weather.
+
+O LORD God, who hast justly humbled us by thy late visitation of us with immoderate rain and waters, and in thy mercy hast relieved and comforted our souls by this seasonable and blessed change of weather; We praise and glorify thy holy Name for this thy mercy, and will always declare thy loving-kindness from generation to generation; through Jesus Christ our Lord. Amen.

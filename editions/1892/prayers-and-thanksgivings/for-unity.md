@@ -1,0 +1,3 @@
+# For the Unity of God's People.
+
+O GOD, the Father of our Lord Jesus Christ, our only Saviour, the Prince of Peace; Give us grace seriously to lay to heart the great dangers we are in by our unhappy divisions. Take away all hatred and prejudice, and whatso-ever else may hinder us from godly union and concord: that as there is but one Body and one Spirit, and one hope of our calling, one Lord, one Faith, one Baptism, one God and Father of us all, so we may be all of one heart and of one soul, united in one holy bond of truth and peace, of faith and charity, and may with one mind and one mouth glorify thee; through Jesus Christ our Lord. Amen.
