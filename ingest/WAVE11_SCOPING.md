@@ -1,5 +1,28 @@
 # Wave 11 — Prayers and Thanksgivings: source survey + scoping options
 
+> ## DECISION — LOCKED (maintainer ruling, 2026-09-01)
+>
+> **Placement: option (b).** Own family `prayers-and-thanksgivings/<slug>.md`,
+> one file per prayer, for **every** edition that carries the block — including
+> 1552–1637, where the book prints it inline after the Litany suffrages. That
+> inline placement is recorded as a **book-order note in NOTICE.md and in the
+> per-edition `provenance.yaml` records**, not as a text diff (the Wave-9
+> `of-ceremonies` precedent).
+>
+> **Scope boundary: the following four are EXCLUDED from this wave** and are
+> each their own (small) future wave, not folded in here:
+> 1. 1662 *Forms of Prayer to be used at Sea* (CoE slug `prayers-be-used-sea`)
+> 2. the 1892/1928 *Penitential Office*
+> 3. *Family Prayer* (1789 `Family_Prayer_1789.htm`, 1928 `Family_Prayer.htm`)
+> 4. the 1789 *Prayer and Thanksgiving to Almighty God*
+>    (`Prayer&Thanksgiving_1789.htm`)
+>
+> These are adjacent on the same source pages and MUST be sliced off
+> deliberately — see §1 "Other findings".
+>
+> Do not re-litigate either half of this ruling; it is the durable record.
+
+
 Authoring-only. Written before any build, to record what the sources actually
 say and to frame the placement decision. **Nothing here is transcribed text —
 this is an inventory and a structural argument.**
@@ -102,7 +125,7 @@ in fact continued. That is the "a missing section reads as *this edition didn't
 have it*" failure `AUDIT_METHOD.md` exists to prevent, except deliberately
 built in.
 
-## 4. Recommendation
+## 4. Recommendation — ACCEPTED (see the locked decision at the top)
 
 **(b)**, with the 1552–1637 inline placement recorded in NOTICE.md and in each
 affected `provenance.yaml` record.

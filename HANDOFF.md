@@ -11,6 +11,60 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 11 (Prayers and Thanksgivings) IN PROGRESS
+
+**Scoping ruled by the maintainer 2026-09-01 and LOCKED. Full survey +
+reasoning: `ingest/WAVE11_SCOPING.md` (read it before touching this wave).**
+
+- **DECISION (b): own family `prayers-and-thanksgivings/<slug>.md`, one file per
+  prayer, for every edition that carries the block** — 1552–1637 included, even
+  though those books print it inline after the Litany suffrages. The inline
+  placement is recorded as a **book-order note in NOTICE.md + the per-edition
+  provenance records**, NOT as a text diff (the Wave-9 `of-ceremonies`
+  precedent). Option (c) — inline before 1662, own family after — was
+  considered and **rejected**: the builder aligns by PATH, so a prayer
+  continuously present 1552→1928 would move file, and `git diff v1637 v1662`
+  would render a mass delete + mass insert, manufacturing a discontinuity where
+  the text actually continued. That is exactly the false-historical-claim
+  failure `ingest/AUDIT_METHOD.md` exists to prevent.
+- **EXCLUDED from this wave, each its own future wave** (they sit adjacent on
+  the same source pages — slice them off deliberately): 1662 *Forms of Prayer to
+  be used at Sea* (`prayers-be-used-sea`); the 1892/1928 *Penitential Office*;
+  *Family Prayer* (1789/1928); the 1789 *Prayer and Thanksgiving to Almighty
+  God*.
+
+**PRESENCE — the brief's premise was WRONG about 1559 and the source apparatus
+says so.** `The following Thanksgivings were added in 1604:` is printed on the
+justus 1559 Litany page, as is `[prayer added 1604]` against the Royal Family
+prayer and `* Replaced by a prayer for the King in 1604`. So **1604 is a real
+change point in this wave** (the brief did not list it). 1637, which follows
+1604 and carries the full set, corroborates independently. Growth curve:
+1549 nothing · 1552 five occasional prayers (dearth has a 2nd form, `Or thus`)
+· 1559 + Queen's Majesty, Clergy, Chrysostom, the Grace (and LOSES 1552's 2nd
+dearth form) · **1604 + Royal Family + all the Thanksgivings** · 1637 + Ember
+weeks · 1662 own section, + Parliament, A General Thanksgiving, restoring
+Publick Peace · 1789/1892/1928 own section (1892 adds the pastoral prayers) ·
+1979 **70 Prayers + 11 Thanksgivings** in 7 subsections · 1764/1929 **absent**
+(Communion-only; already `absent:` in editions.yaml).
+
+**SOURCES all confirmed live:** CoE slug `prayers-and-thanksgivings`; justus
+(http only) `1789/Prayers&Thanks_1789.htm`, `1892/Pray&Thanks_1892.htm`,
+`1928/Pray&Thanks.htm`; 1979 cached `bcpprayr.txt` (`<page N>` / `<Section>`
+markers + a numbered TOC); 1552/1559/1637/1549 from `ingest/spines-w9/*_litany.md`;
+1604 derived from the 1559 page's own apparatus.
+
+**TWO OPEN VERIFY ITEMS — do not resolve by inference:**
+1. `O God, whose nature and property…` — the note `This prayer added in 1604`
+   follows it in the spine, but the spine has lost the page's visual
+   association of note to referent. Confirm against the page markup.
+2. **Apparent rain/dearth transposition at 1637** — 1552 and 1559 print
+   `which by thy Sonne Jesus Christe hast promised…` under *For Rain* and
+   `whose gift it is that the raine doth fall…` under *Dearth and Famine*; the
+   1637 page prints them the other way round. Genuine revision or a justus
+   slip. Check a 1637 scan; do NOT smooth it away in either direction.
+
+<!-- Superseded: the Wave-10 completion block is kept below -->
+
 ## CURRENT — WAVE 10 COMPLETE: 10d published (2026-08-31)
 
 **10d is DONE + PUBLISHED (force-pushed 2026-08-31), and WAVE 10 IS COMPLETE.
