@@ -39,6 +39,7 @@ SOURCES = {
  'penitential-1928': ('http://justus.anglican.org/resources/bcp/1928/Litany.htm', 'justus', '200'),
 }
 
+PSALM_HEAD = re.compile(r'\bPsalm\s+[0-9ivxlc]+', re.I)
 PAIR_RE = re.compile(r'^\s*(1789|1892)\s*BCP\s*:\s*', re.I)
 
 # Some sources bundle a section inside a bigger page. SLICE is the INVERSE of
@@ -76,7 +77,16 @@ def extract(name: str, edition: str | None = None):
         i = s.lower().find('forms of prayer to be used at sea')
         if i < 0:
             i = s.lower().find('prayers to be used at sea')
-        blocks = W._blocks_from_html(W._coe_promote_inline_titles(s[i:]), style='coe')
+        seg = W._coe_promote_inline_titles(s[i:])
+        blocks = W._blocks_from_html(seg, style='coe')
+        # EXACT structural marker for psalm verses on the CoE pages: the page
+        # classes each verse <p class="vlpsalm">. Re-kind them from the markup
+        # rather than guessing from the text -- an earlier ' : '-and-length test
+        # collapsed only 85 of the 98 verses here and 0 of the 1789 page's.
+        psalm_txts = {W._text(m.group(1)) for m in
+                      re.finditer(r'<p class="vlpsalm"[^>]*>(.*?)</p>', seg, re.S | re.I)}
+        blocks = [('psalm', t) if (k == 'body' and t in psalm_txts) else (k, t)
+                  for k, t in blocks]
     else:
         for w, inner in _cells(s, appw):
             txt = W._text(inner)
@@ -87,6 +97,23 @@ def extract(name: str, edition: str | None = None):
                     continue
                 inner = re.sub(r'(1789|1892)\s*BCP\s*:\s*', '', inner, count=1, flags=re.I)
             blocks.extend(W._blocks_from_html(inner, style='justus'))
+    # justus pages do not mark psalm verses at all -- their psalm text sits in
+    # ordinary paragraphs. The structural fact available there is POSITION: a
+    # body block that follows a heading naming a psalm is that psalm's text.
+    if style != 'coe':
+        out, armed = [], False
+        for k, t in blocks:
+            if k in ('title', 'section'):
+                armed = bool(PSALM_HEAD.search(t))
+                out.append((k, t)); continue
+            if k == 'body' and armed:
+                out.append(('psalm', t)); armed = False
+                continue
+            if k == 'body':
+                armed = False
+            out.append((k, t))
+        blocks = out
+
     # keep only the bundled section, where this source carries one
     if name in SLICE:
         start_pat, end_pat = SLICE[name]
