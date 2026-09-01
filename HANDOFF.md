@@ -885,22 +885,47 @@ write a fresh HANDOFF section rather than rushing.
 
 ## 8. Open verify items to resolve (carry forward; don't lose these)
 
+**402 verify_items are open**, and they are concentrated: propers 184,
+occasional-offices 130, daily-office 26, holy-communion 24, ordinal 16, litany 13,
+prayers-and-thanksgivings 5, front-matter 4. Most need a **page scan**, not more
+transcription — so this is a distinct kind of work from a content wave, and a good
+candidate for a focused resolution pass rather than being folded into one.
+
+Named items, highest value first:
+
 - **1662 Prayer for the Royal Family** — the CoE source serves current names
   (Camilla/William); the 1662 original named Catherine/Mary/James. ("King CHARLES"
   is already period-correct — Charles II ≡ Charles III first name.) Source the
   period names from a PD 1662 facsimile (allow-list en.wikisource.org or use a
   Commons/LoC scan), then resolve the VERIFY. Flagged in provenance/SOURCES.
+- **1604 prayer for the sovereign** (Wave 11) — a RECORDED GAP, not a reading.
+  The 1559 apparatus attests that a prayer for the King replaced the Queen's and
+  gives the style "Sovereign Lord King James", but not the pronouns or spellings
+  the 1604 book printed. The attested 1559 wording stands. Resolve from a 1604
+  facsimile; do not derive the pronouns.
+- **`O God, whose nature and property`** (Wave 11) — the 1559 page's note "This
+  prayer added in 1604" sits immediately after this text, but the spine has lost
+  the page's visual association of note to referent. Confirm the attribution
+  against the page markup before treating 1604 as its first appearance.
 - **1979 Morning Prayer** — mechanically reflowed from the e-text; cross-check
   against a page scan (the e-text has a few typos, e.g. `acknoledge`, `therfore`).
 - **1637 missing-page span** (Te Deum → Collects) — reconstructed text with
   re-ordered canticle labels; confirm against a 1637 scan.
+- **1979 e-text dropouts** (Wave 10) — three collects truncated in the 1993
+  keying, plus some heading dropouts. Flagged inline, nothing reconstructed.
+- **No allow-listed 1604 propers source exists** (Wave 10), so the 1604
+  initial-verse-number change is unrepresented and 1604 inherits 1559.
 - Pre-existing citation VERIFYs: 1552 `Psalm ii`/`Jerem ii`, 1559/1604 missing
   `O`, 1637 `Ps. 28`, 1764 `Matth vi 9 20`, 1929 `Acts 20. 85`, 1789 OCR citations.
-- **Doc staleness:** `repo-root/SOURCES.md` "Current transcription scope" prose
-  still says "through the Venite rubric" — update it (MP is now full Tier-1) on the
-  next publish.
 
----
+**Doc staleness — FIXED 2026-09-01, ships on the next publish.** `SOURCES.md`
+"Current transcription scope" had gone four waves stale: it still declared the
+catechism, ordinal, front-matter and propers "not yet transcribed" long after
+Waves 7–11 had done them. Rewritten to list the eight families actually present
+and to name what genuinely remains (Psalter, lectionary/calendar tables, and the
+four smaller sections). **Lesson: that paragraph is published prose and nothing
+validates it — re-read it at the end of every wave, because no gate will catch
+it drifting.**
 
 ## 9. Gotchas / lessons
 

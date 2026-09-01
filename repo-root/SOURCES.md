@@ -13,25 +13,42 @@ on its allow-list. All retrievals below were made **2026-08-10**.
 ## Current transcription scope (read this first)
 
 This repository models the whole genealogy (all branches and tags) and
-demonstrates the diff mechanism end-to-end. The **transcribed text** presently
-covers the **Daily Office (Morning and Evening Prayer), the Litany, Holy
-Communion, the Christian-initiation offices (Baptism and Confirmation), and the
-pastoral occasional offices (Matrimony, the Visitation of the Sick, the Burial of
-the Dead, the Churching of Women, and the Commination)** at full Tier-1 depth
-across every edition that has them — where the tradition's most famous changes
-live (e.g. the 1552 penitential introduction; the Holy Communion 1549→1552
-restructuring, the moving Gloria in Excelsis, the changing words of
-administration, and the Black Rubric appearing/vanishing/returning across
-1552/1559/1662; the 1552 baptismal simplification; and the Reformation stripping
-of the Burial office in 1552). Morning/Evening Prayer, the Litany, Baptism,
-Confirmation, Matrimony, Visitation, Burial, and Churching run across the ten
-daily-office editions; the Commination is English/Scottish only (the American line
-drops it); **Holy Communion runs across all twelve** (the Scottish 1764 "Wee
-Bookie" and 1929 are Communion-only, so they carry only that office). The
-catechism, the ordinal, the front-matter, the seasonal Collects/Epistles/Gospels,
-and the Psalter are **not yet transcribed** and are tracked as later waves. Where
-an edition could not be sourced cleanly, that is stated explicitly below rather
-than filled with invented text.
+demonstrates the diff mechanism end-to-end. The **transcribed text** now covers
+eight service families at full Tier-1 depth, across every edition that has them:
+
+- **`daily-office/`** — Morning and Evening Prayer
+- **`the-litany/`** — the Litany
+- **`holy-communion/`** — the Communion office, across **all twelve** editions
+- **`occasional-offices/`** — Baptism (public, private, riper years),
+  Confirmation, Matrimony, Visitation of the Sick, Burial, Churching,
+  Commination, and the Catechism
+- **`ordinal/`** — the Preface and the ordering of deacons, priests and bishops
+- **`front-matter/`** — Preface, Concerning the Service, Of Ceremonies, Ratification
+- **`collects-epistles-gospels/`** — the propers for 106 occasions across the
+  church year (collects in full; Epistle and Gospel as their appointed citation)
+- **`prayers-and-thanksgivings/`** — the occasional prayers, state prayers and
+  thanksgivings, 135 prayers
+
+This is where the tradition's most famous changes live — the 1552 penitential
+introduction; the Holy Communion 1549→1552 restructuring, the moving Gloria in
+Excelsis, the changing words of administration, and the Black Rubric
+appearing/vanishing/returning across 1552/1559/1662; the 1552 baptismal
+simplification; the Reformation stripping of the Burial office in 1552; the 1604
+Catechism sacraments section; and the growth of the occasional prayers from
+nothing in 1549 to eighty-one texts in 1979.
+
+Presence varies by edition and is itself the signal: most families run across the
+ten full-book editions, while the Scottish 1764 "Wee Bookie" and 1929 are
+Communion-only; the Commination is English/Scottish only (the American line drops
+it); the propers and the Prayers and Thanksgivings are absent from 1764/1929.
+
+**Not yet transcribed**, tracked as later waves: the **Psalter**; the
+**lectionary and calendar tables** (including the 1979 three-year lectionary,
+which the single-citation slot in the propers cannot represent); and four smaller
+sections of the book — the *Forms of Prayer to be used at Sea*, the American
+*Penitential Office*, *Family Prayer*, and the 1789 *Prayer and Thanksgiving to
+Almighty God*. Where an edition could not be sourced cleanly, that is stated
+explicitly below rather than filled with invented text.
 
 ---
 
