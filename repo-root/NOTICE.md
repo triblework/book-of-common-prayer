@@ -324,6 +324,16 @@ The published branches and tags are build artifacts, regenerated from the
     and gives the royal style, but not the pronouns or spellings the 1604 book
     printed. The attested 1559 wording is retained and the gap flagged inline
     rather than inventing a text no source supports.
+  - **Shipped with this rebuild, a Wave 10 correction.** `tools/scrape.py` was
+    decoding several justus pages as UTF-8 although they declare iso-8859-1 and
+    are served with no charset header, which replaced every high-Latin-1 byte
+    with U+FFFD. The characters lost were almost entirely pilcrows and
+    non-breaking spaces — page furniture that never enters a transcription, and
+    no ingest script read them — but three 1549 Introit psalm incipits lost the
+    **æ** ligature: `Manus tuæ` (trinity-10), `In æternum, Domine` (trinity-12)
+    and `Sæpe expugnaverunt` (st-andrew). Each has been restored and re-verified
+    against its source re-fetched through the corrected fetcher. No published
+    tag now contains a replacement character.
 
 ## A note on transcription
 

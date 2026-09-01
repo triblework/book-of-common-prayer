@@ -11,11 +11,12 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 11 (Prayers and Thanksgivings) BUILD-COMPLETE, NOT PUBLISHED
+## CURRENT — WAVE 11 (Prayers and Thanksgivings) DONE + PUBLISHED (2026-09-01)
 
-**Everything below is built, gated and green on `origin/authoring`. It is NOT
-published — publishing needs the maintainer's explicit go-ahead on the
-force-push.** 241 cells / 135 prayers across the nine editions that carry the
+**PUBLISHED 2026-09-01 (force-pushed with maintainer go-ahead). New published
+tips: `main 03f67e4 · scottish 9e343ff · american df750d9`; all 12 tags
+recreated; local==remote verified for all 3 branches + 12 tags (15 refs, 0
+mismatched); flagship diffs render on the published refs.** 241 cells / 135 prayers across the nine editions that carry the
 block. Both gates pass: `ingest/w11_fidelity.py` 241/241 with no unattested
 words; `ingest/w11_audit.py` 0 anomalies. Authoring `verify_index` reconciles
 305 inline VERIFY / 402 provenance items. All three built tips pass
@@ -38,6 +39,17 @@ unmapped title), `w11_build_html.py`, `w11_build_spine.py`,
 `transform_1979_prayers.py` (carries CROSSWALK + CROSSWALK_REJECTED),
 `w11_editions.py`, `gen_wave11_provenance.py`, `append_wave11_docs.py`,
 `w11_fidelity.py`, `w11_audit.py`.
+
+**A WAVE-10 CORRECTION SHIPPED WITH THIS PUBLISH.** Three 1549 Introit psalm
+incipits had lost the **æ** ligature to the charset bug below (`Manus tuæ`,
+`In æternum, Domine`, `Sæpe expugnaverunt`), and that damage was live on the
+published v1549. Restored and re-verified against the re-fetched sources. **No
+published tag now contains a replacement character** — checked across all 12.
+Audit note: 77 of 274 cache files were hit, but the lost characters were
+overwhelmingly pilcrows and non-breaking spaces, no earlier ingest script ever
+read a pilcrow (grep: zero hits), and rubric coverage matches the sources
+(1549 Commination 6 rubrics for 6 source pilcrows; 1552 Communion 49 for 40).
+Rubrics were never broken.
 
 **A TOOL FIX SHIPS WITH THIS WAVE:** `tools/scrape.py` now honours the HTML
 `<meta>` charset when the HTTP header omits one. Several justus pages declare
