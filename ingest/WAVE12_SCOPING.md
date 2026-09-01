@@ -127,3 +127,50 @@ after being explicitly `absent:` at 1789 — a restoration the books did not mak
 **Recommendation: (a).** The Commination→Penitential relationship is real but it
 is an *occasion* relationship, not a textual one, so NOTICE.md is the right place
 to record it — the same treatment already given to the Wave-11 relocations.
+
+
+## 6. FINDING — 1979 promotes six prayers out of the 1928 Family Prayer
+
+Measured while surveying `family-1928`. Six of its titles coincide with slugs
+created at 1979 in Wave 11, and the texts confirm real descent (Jaccard overlap
+of the bodies, each against the correct 1979 cell):
+
+| 1928 Family Prayer | 1979 cell | overlap |
+|---|---|:-:|
+| For Quiet Confidence | `for-quiet-confidence` | **1.00** |
+| For Those We Love | `for-those-we-love` | **1.00** |
+| For the Absent | `for-the-absent` | 0.98 |
+| For Joy in God's Creation | `for-joy-in-gods-creation` | 0.94 |
+| For Guidance | `for-guidance-2` | **1.00** |
+| For a Birthday | `for-a-birthday-2` | 0.92 |
+
+So 1979 **promoted** these out of Family Prayer into its main Prayers and
+Thanksgivings section. Wave 11 gave them their own 1979 slugs, which was correct
+on the evidence available then — their ancestor lived in a section Wave 11 had
+excluded. **No Wave-11 defect:** the two initially-low scores (0.22, 0.26) were
+an artifact of comparing against the wrong twin where 1979 prints two prayers
+under one title; against the `-2` cell both match.
+
+**Decision (precedent, not a new ruling): keep them where each book prints
+them.** The 1928 prayers stay in `occasional-offices/family-prayer.md`; the 1979
+cells keep their own `prayers-and-thanksgivings/` slugs. Moving the 1928 prayers
+onto the 1979 paths to manufacture a `v1928->v1979` diff would assert that the
+1928 book printed them in Prayers and Thanksgivings, which it does not — the
+same error option (c) would have made in Wave 11. **Record the promotion in
+NOTICE.md**, alongside the other relocations.
+
+## 7. File scheme
+
+Four files in the existing `occasional-offices/` family, each an office-like
+section with `##` anchors — matching how this repo already treats the
+Commination, Churching and the other occasional offices:
+
+| file | editions |
+|---|---|
+| `occasional-offices/prayers-at-sea.md` | 1662, 1789, 1892 |
+| `occasional-offices/penitential-office.md` | 1892, 1928 |
+| `occasional-offices/family-prayer.md` | 1789, 1892, 1928 |
+| `occasional-offices/prayer-and-thanksgiving.md` | 1789, 1892 |
+
+One file per service (not per prayer as in Wave 11) because these are offices
+with internal structure, not independent occasional prayers.
