@@ -1,0 +1,13 @@
+# For the Future of the Human Race
+
+O God our heavenly Father, you have blessed us and given us
+
+dominion over all the earth:  Increase our reverence before
+
+the mystery of life; and give us new insight into your purposes
+
+for the human race, and new wisdom and determination in
+
+making provision for its future in accordance with your will;
+
+through Jesus Christ our Lord.  =Amen.=

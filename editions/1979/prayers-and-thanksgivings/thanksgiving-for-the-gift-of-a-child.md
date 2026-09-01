@@ -1,0 +1,15 @@
+# For the Gift of a Child
+
+*See also the Thanksgiving for a Child on page 439.*
+
+Heavenly Father, you sent; your own Son into this world.  We
+
+thank you for the life of this child, &N., entrusted to our care.
+
+Help us to remember that we are all your children, and so to
+
+love and nurture =him=, that =he= may attain to that full stature
+
+intended for =him= in your eternal kingdom; for the sake of
+
+your dear Son, Jesus Christ our Lord.  =Amen.=

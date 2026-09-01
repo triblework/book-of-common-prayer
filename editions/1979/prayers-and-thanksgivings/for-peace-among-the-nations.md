@@ -1,0 +1,11 @@
+# For Peace Among the Nations
+
+Almighty God our heavenly Father, guide the nations of the
+
+world into the way of justice and truth, and establish among
+
+them that peace which is the fruit of righteousness, that they
+
+may become the kingdom of our Lord and Savior Jesus Christ.
+
+=Amen.=

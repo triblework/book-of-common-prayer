@@ -1,0 +1,13 @@
+# For Travelers
+
+O God, our heavenly Father, whose glory fills the whole
+
+creation, and whose presence we find wherever we go:  Preserve
+
+those who travel [in particular &mdash.]; surround
+
+them with your loving care; protect them from every danger;
+
+and bring them in safety to their journey's end; through
+
+Jesus Christ our Lord.  =Amen.=

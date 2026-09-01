@@ -1,0 +1,17 @@
+# For a Church Convention or Meeting
+
+*See also Various Occasions no. 13.*
+
+Almighty and everliving God, source of all wisdom and
+
+understanding, be present with those who take counsel
+
+[in &mdash.] for the renewal and mission of your Church.
+
+Teach us in all things to seek first your honor and glory.  Guide
+
+us to perceive what is right, and grant us both the courage to
+
+pursue it and the grace to accomplish it; through Jesus Christ
+
+our Lord.  =Amen.=

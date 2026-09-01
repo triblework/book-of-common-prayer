@@ -1,0 +1,13 @@
+# For a Birthday
+
+Watch over thy child, O Lord, as =his= days increase; bless and
+
+guide =him= wherever =he= may be.  Strengthen =him= when =he=
+
+stands; comfort =him= when discouraged or sorrowful; raise
+
+=him= up if =he= fall; and in =his= heart may thy peace which
+
+passeth understanding abide all the days of =his= life;
+
+through Jesus Christ our Lord.  =Amen.=

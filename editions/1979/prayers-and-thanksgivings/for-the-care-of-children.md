@@ -1,0 +1,11 @@
+# For the Care of Children
+
+Almighty God, heavenly Father, you have blessed us with the
+
+joy and care of children:  Give us calm strength and patient
+
+wisdom as we bring them up, that we may teach them to love
+
+whatever is just and true and good, following the example of
+
+our Savior Jesus Christ.  =Amen.=

@@ -1,0 +1,13 @@
+# For the Diversity of Races and Cultures
+
+O God, who created all peoples in your image, we thank you
+
+for the wonderful diversity of races and cultures in this world.
+
+Enrich our lives by ever-widening circles of fellowship, and
+
+show us your presence in those who differ most from us, until
+
+our knowledge of your love is made perfect in our love for all
+
+your children; through Jesus Christ our Lord.  =Amen.=
