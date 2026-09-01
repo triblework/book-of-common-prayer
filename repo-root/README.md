@@ -237,6 +237,31 @@ git diff v1604 v1662 -- texts/normalized/front-matter/preface.md
 # (the heading changes; the body is modernised and gains three closing directives):
 git diff v1604 v1662 -- texts/normalized/front-matter/concerning-the-service.md
 
+# PRAYERS AND THANKSGIVINGS — the block that grows edition by edition.
+# 1549 has none of it at all; 1552 is the first book to print the occasional prayers:
+git diff v1549 v1552 -- texts/normalized/prayers-and-thanksgivings/for-rain.md
+
+# The Thanksgivings arrive in 1604, not 1559 — the 1559 source's own apparatus dates
+# them ("The following Thanksgivings were added in 1604"). A clean insert:
+git diff v1559 v1604 -- texts/normalized/prayers-and-thanksgivings/thanksgiving-for-plenty.md
+
+# A prayer dropped and later restored: 1552 prints a second dearth prayer under
+# "Or thus", 1559 drops it, and 1662 brings it back as "(ii)":
+git diff v1552 v1559 -- texts/normalized/prayers-and-thanksgivings/in-time-of-dearth-and-famine-2.md
+git diff v1559 v1662 -- texts/normalized/prayers-and-thanksgivings/in-time-of-dearth-and-famine-2.md
+
+# In 1662 the state prayers leave this section for Morning and Evening Prayer —
+# a relocation, not a deletion (the text continues in daily-office/):
+git diff v1604 v1662 -- texts/normalized/prayers-and-thanksgivings/for-the-sovereign.md
+
+# The American line renames the plague prayer "In Time of great Sickness and
+# Mortality" — same prayer, same file, so the rename reads as a heading diff:
+git diff v1662 v1789 -- texts/normalized/prayers-and-thanksgivings/in-time-of-plague.md
+
+# 1979 brings the Prayer for all Conditions of Men back into this section
+# (1789–1928 kept it in the daily office) and modernises it:
+git diff v1928 v1979 -- texts/normalized/prayers-and-thanksgivings/for-all-conditions-of-men.md
+
 # The American line rewrites the whole front-matter at once — its own Preface, a new
 # Ratification, and the deletion of Concerning-the-Service and Of Ceremonies:
 git diff v1662 v1789 -- texts/normalized/front-matter/

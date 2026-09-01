@@ -11,7 +11,44 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 11 (Prayers and Thanksgivings) IN PROGRESS
+## CURRENT — WAVE 11 (Prayers and Thanksgivings) BUILD-COMPLETE, NOT PUBLISHED
+
+**Everything below is built, gated and green on `origin/authoring`. It is NOT
+published — publishing needs the maintainer's explicit go-ahead on the
+force-push.** 241 cells / 135 prayers across the nine editions that carry the
+block. Both gates pass: `ingest/w11_fidelity.py` 241/241 with no unattested
+words; `ingest/w11_audit.py` 0 anomalies. Authoring `verify_index` reconciles
+305 inline VERIFY / 402 provenance items. All three built tips pass
+sentence_split / normalize / verify_index `--check`. All 12 tags build.
+Presence: 1549 0 · 1552 6 · 1559 7 · 1604 15 · 1637 16 · 1662 19 · 1764/1929 0
+· 1789 21 · 1892 26 · 1928 50 · 1979 81.
+
+Flagship diffs verified to render: `v1549->v1552 for-rain` (the block appears),
+`v1559->v1604 thanksgiving-for-plenty` (thanksgivings arrive at 1604),
+`v1552->v1559` then `v1559->v1662 in-time-of-dearth-and-famine-2` (dropped and
+restored), `v1604->v1662 for-the-sovereign` (relocation to MP),
+`v1662->v1789 in-time-of-plague` (rename), `v1928->v1979
+for-all-conditions-of-men` (returns to the section, modernized).
+
+METHOD ASSETS: `ingest/WAVE11_SCOPING.md` (the locked ruling + source survey),
+`WAVE11_GUIDE.md` (anchors, slugs, both migrations, the Ember lineage, the
+bracket convention for untitled prayers), `w11_spine.py` (per-source structural
+discriminators), `w11_map.py` (explicit title->slug; the builder ABORTS on an
+unmapped title), `w11_build_html.py`, `w11_build_spine.py`,
+`transform_1979_prayers.py` (carries CROSSWALK + CROSSWALK_REJECTED),
+`w11_editions.py`, `gen_wave11_provenance.py`, `append_wave11_docs.py`,
+`w11_fidelity.py`, `w11_audit.py`.
+
+**A TOOL FIX SHIPS WITH THIS WAVE:** `tools/scrape.py` now honours the HTML
+`<meta>` charset when the HTTP header omits one. Several justus pages declare
+iso-8859-1 and are served with no charset; defaulting to UTF-8 replaced every
+high-Latin-1 byte with U+FFFD, which destroyed the pilcrow that marks a rubric
+and made rubrics undetectable. Affected cache entries were re-fetched with
+`force=True`. Any future justus ingest depends on this.
+
+<!-- Superseded: the in-progress block is kept below -->
+
+## Wave 11 — the locked scoping decisions and findings
 
 **Scoping ruled by the maintainer 2026-09-01 and LOCKED. Full survey +
 reasoning: `ingest/WAVE11_SCOPING.md` (read it before touching this wave).**

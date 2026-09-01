@@ -289,6 +289,42 @@ The published branches and tags are build artifacts, regenerated from the
   Purification, whose Epistle is "the same that is appointed for the Sunday" —
   that cross-reference is carried as the printed text rather than silently
   resolved.
+- **2026-09-01** — Wave 11: **Prayers and Thanksgivings upon several Occasions**
+  added across the nine editions that carry the block (241 cells, 135 prayers).
+  One file per prayer under `prayers-and-thanksgivings/`.
+  - **Book order.** 1552–1637 print these prayers *inline, after the Litany
+    suffrages*; 1662 and the American line print them as a separate section
+    (their Litany already ends "Here endeth the Litany"). The repo gives them
+    their own family in every edition so each prayer keeps one stable path and
+    its own diff. The earlier books' inline placement is recorded here as a
+    book-order fact, not as a text difference — the same treatment given to
+    *Of Ceremonies* moving from the end of the 1549 book to the front in 1552.
+  - **Two relocations, recorded as such rather than shown as deletions.** The
+    **state prayers** (sovereign, royal family, clergy) move out of this block
+    into Morning and Evening Prayer at **1662**. **A Prayer for all Conditions
+    of Men** and the **General Thanksgiving** move into Morning and Evening
+    Prayer across the American line from **1789**, and return to this section in
+    **1979**. In every case the text continues elsewhere in the same book.
+  - **Growth is the signal.** 1549 carries none of it; 1552 adds five occasional
+    prayers; 1559 adds the state prayers; **1604** adds the Royal Family prayer
+    and all the Thanksgivings (dated by the 1559 source's own apparatus, which
+    reads "The following Thanksgivings were added in 1604"); 1637 adds the
+    Ember-weeks prayer; 1662 adds Parliament, the prayer for all Conditions of
+    Men and the General Thanksgiving; 1892 adds the pastoral prayers; 1928 adds
+    twenty more plus six untitled Collects; 1979 replaces the section with
+    seventy Prayers and eleven Thanksgivings.
+  - **Not carried at 1789:** the *Prayer to be used at the Meetings of
+    Convention*, though the 1789 source page prints it — that page's own
+    apparatus records it as added in 1845.
+  - **Excluded, each its own section of the book:** the 1662 *Forms of Prayer to
+    be used at Sea*, the 1892/1928 *Penitential Office*, *Family Prayer*, and
+    the 1789 *Prayer and Thanksgiving to Almighty God*.
+  - **Recorded gap, not reconstructed:** the 1604 prayer for the sovereign. Its
+    source attests that a prayer for the King replaced the prayer for the Queen,
+    and gives the royal style, but not the pronouns or spellings the 1604 book
+    printed. The attested 1559 wording is retained and the gap flagged inline
+    rather than inventing a text no source supports.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally
