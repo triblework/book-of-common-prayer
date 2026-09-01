@@ -101,6 +101,28 @@ not yet transcribed (the Scottish line currently centres the Communion office at
 1764/1929); `justus`'s `Scotland/Scot_Litany.htm` in fact serves the 1929 book,
 while the 1637 Litany is at `Scotland/Litany_1637.htm`.
 
+### Prayers and Thanksgivings upon several Occasions (Wave 11)
+
+One file per prayer under `prayers-and-thanksgivings/`, for every edition that
+carries the block. 1552–1637 print these prayers **inline after the Litany
+suffrages**; 1662 and the American line print them as a separate section. The
+repo gives them their own family throughout so each prayer has a single stable
+path and its own per-edition diff; the earlier books' inline placement is a
+book-order fact recorded in `NOTICE.md`, not a text difference.
+
+Two relocations are recorded rather than shown as deletions: the **state
+prayers** (sovereign, royal family, clergy) move from this block into Morning
+and Evening Prayer at 1662, and **A Prayer for all Conditions of Men** and the
+**General Thanksgiving** move into Morning and Evening Prayer in the American
+line from 1789. Both texts continue in `daily-office/`.
+
+Excluded from this wave, each its own section of the book: the 1662 *Forms of
+Prayer to be used at Sea*, the 1892/1928 *Penitential Office*, *Family Prayer*,
+and the 1789 *Prayer and Thanksgiving to Almighty God*.
+
+The 1789 *Prayer to be used at the Meetings of Convention* is **not** carried at
+1789: the source page's own apparatus records it as added in 1845.
+
 ## Uncertain passages (`<!-- VERIFY -->`)
 
 Each is flagged inline in the text and should be checked against a page scan.
@@ -493,6 +515,9 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 whitsunday | `The Day of Pentecost: Whitsunday` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 <!-- wave10-10a rows: end -->
 ## Occasional offices — Baptism family & Confirmation (Wave 5)
+| `prayers-and-thanksgivings/for-the-clergy-and-people.md` (1559, 1604) | `untitled` | The source prints this prayer with no title of its own — it follows the preceding prayer directly, opening with a drop capital. The bracketed heading is editorial; confirm against a page scan. |
+| `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
+| `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has
 them. Public/Private Baptism and Confirmation run across the ten daily-office
