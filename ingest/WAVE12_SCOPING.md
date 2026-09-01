@@ -17,6 +17,18 @@
 > it later holds a citation or a full text, so a deepening pass throws nothing
 > away.
 >
+> **2a. Refinement, decided from repo precedent (not a new policy).** Ruling 2
+> covers the **Sea forms**, where whole psalms are appended as devotional
+> material. It does NOT cover **Psalm 51 in the Penitential Office**, which is
+> the structural core of that service. The repo already answered this case: the
+> existing `occasional-offices/commination.md` transcribes Psalm 51 **in full**
+> under a `## The Psalm` anchor (Wave 6, published). The Penitential Office
+> follows that precedent and carries Psalm 51 in full.
+>
+> This is deliberate, and it is what makes the two Ash Wednesday services
+> comparable — which is the whole reason for recording their occasion
+> relationship in NOTICE.md rather than collapsing them onto one slug.
+>
 > Do not re-litigate either ruling; this is the durable record.
 
 
