@@ -93,10 +93,21 @@ class _BlockParser(HTMLParser):
       +2 = major section, +1 = subsection, plain centred = one prayer's title.
     """
 
+    # <div> is a block here on purpose: the 1928 prints several prayer titles
+    # as a bare <div align="center"><em>For Missions.</em></div> with no <p> at
+    # all, and without this they open no buffer and are discarded outright
+    # (their bodies still arrive, so the loss looks like "this book has no such
+    # prayer"). A div that wraps real blocks flushes only whitespace, which is
+    # dropped, so nesting stays harmless.
     BLOCK = {'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'}
+    BLOCK_JUSTUS = BLOCK | {'div'}
 
-    def __init__(self):
+    def __init__(self, style='justus'):
         super().__init__(convert_charrefs=True)
+        # <div> counts as a block ONLY for justus (see BLOCK_JUSTUS). The CoE
+        # pages are modern div-heavy markup with exact CSS classes; treating
+        # div as a block there turns every nav wrapper into a text block.
+        self.BLOCK = self.BLOCK_JUSTUS if style == 'justus' else self.BLOCK
         self.stack = []          # [(tag, align, size)]
         self.blocks = []
         self.buf = None
@@ -125,6 +136,13 @@ class _BlockParser(HTMLParser):
             self.dropcap_depth = len(self.stack)
         self.stack.append((tag, align, size))
         if tag in self.BLOCK:
+            # These pages leave <p> unclosed constantly. Starting a new block
+            # while one is open must FLUSH the open one, not silently discard
+            # it -- discarding cost the 1928 five prayer titles (For Missions,
+            # Memorial Days, For Prisoners, A Bidding Prayer, For a Sick
+            # Person) whose bodies survived, so the loss was invisible.
+            if self.buf is not None:
+                self._flush()
             self.buf = []
             self.buf_ctx = self._ctx()
             self.buf_own = align
@@ -197,7 +215,7 @@ def _blocks_from_html(frag: str, style: str = 'justus'):
                       vlnarrowspace = body, <h1>/<h2> = section head.
     style='justus' -- alignment + drop-capital (see _BlockParser).
     """
-    p = _BlockParser()
+    p = _BlockParser(style=style)
     p.feed(frag)
     p.close()
     out = []
