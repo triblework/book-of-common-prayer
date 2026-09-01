@@ -140,6 +140,35 @@ and the 1789 *Prayer and Thanksgiving to Almighty God*.
 The 1789 *Prayer to be used at the Meetings of Convention* is **not** carried at
 1789: the source page's own apparatus records it as added in 1845.
 
+### The four deferred sections (Wave 12)
+
+Four smaller sections of the book, each excluded from Wave 11 as its own wave:
+the *Forms of Prayer to be used at Sea* (1662, 1789, 1892), *A Penitential
+Office for Ash-Wednesday* (1892, 1928), *Forms of Prayer to be used in Families*
+(1789, inherited 1892, expanded 1928), and *A Form of Prayer and Thanksgiving to
+Almighty God* (1789, 1892). Each is one file under `occasional-offices/` with
+`##` anchors, like the other occasional offices.
+
+**Psalms in the Sea forms are carried as a pointer, not transcribed.** Those
+pages print whole psalms (97 verse blocks at 1662 alone); the Psalter is a
+separate wave, so each run collapses to a line naming the psalm and its verse
+count. The anchor is identical whether it later holds a pointer or the full
+text, so deepening throws nothing away. **Psalm 51 in the Penitential Office is
+carried in full**, because it is the structural core of that service and the
+already-published Commination sets that precedent for the same psalm on the same
+day.
+
+**The Penitential Office is not the Commination.** The American line drops the
+Commination at 1789 and prints a Penitential Office for the same day from 1892.
+It keeps the occasion and Psalm 51 but carries none of the Commination's eight
+denounced curses and drops the name. It therefore has its own file, and the
+relationship between them is recorded in `NOTICE.md` rather than asserted as a
+diff on one path.
+
+Two justus pages print **1789 and 1892 side by side** in labelled parallel
+columns. Each edition's cell is built from its own column; the texts genuinely
+differ, so 1892 is not merely the 1789 page reprinted.
+
 ## Uncertain passages (`<!-- VERIFY -->`)
 
 Each is flagged inline in the text and should be checked against a page scan.
@@ -535,6 +564,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | `prayers-and-thanksgivings/for-the-clergy-and-people.md` (1559, 1604) | `untitled` | The source prints this prayer with no title of its own — it follows the preceding prayer directly, opening with a drop capital. The bracketed heading is editorial; confirm against a page scan. |
 | `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
 | `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
+| `occasional-offices/prayers-at-sea.md` (1662) | `psalm-cento` | Two runs of psalm verses in the Sea forms (the composite "Hymn of Praise and Thanksgiving" after a tempest, and the one after victory) carry no single printed psalm label, so no citation is supplied for them. The verses are deferred to the Psalter wave along with the labelled psalms. Confirm against a page scan whether the book names a source for either hymn. |
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has
 them. Public/Private Baptism and Confirmation run across the ten daily-office
