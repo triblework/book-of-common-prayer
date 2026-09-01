@@ -49,6 +49,35 @@ So the state prayers are `present:` here at 1559/1604/1637 and `absent:` from
 continues, in `daily-office/morning-prayer.md`, which already carries it.
 **Record this in NOTICE.md**, next to the 1552–1637 inline-placement note.
 
+## The American counter-migration (evidence-based, decided this wave)
+
+The reverse of the state-prayer move, and it must be recorded the same way.
+**1662** prints `for-all-conditions-of-men` and `thanksgiving-general` inside
+the Prayers and Thanksgivings section, and its Morning Prayer does NOT carry
+them. **1789 / 1892 / 1928** carry both as anchors in *both* Morning and
+Evening Prayer (`## A Prayer for all Conditions of Men`, `## A General
+Thanksgiving`) and drop them from this section.
+
+So both are `absent:` here from 1789 — a **relocation into the daily office,
+not a deletion**. Record it in NOTICE.md next to the state-prayer note.
+
+## The Ember-weeks lineage (do not assign by order)
+
+1662 prints TWO prayers under one Ember-weeks title. They must be told apart by
+**identity**, not by page order:
+
+| prayer | slug | carried by |
+|---|---|---|
+| "…the giver of all good gifts…" | `in-the-ember-weeks` | 1637, 1662 |
+| "…who hast purchased to thyself an universal Church…" | `for-those-to-be-admitted-into-holy-orders` | 1662, 1789, 1892, 1928 |
+
+The American line renames the second one "For those who are to be admitted into
+Holy Orders" and keeps it unchanged. Assigning the pair by order instead made
+that American prayer a brand-new slug and showed 1662's as dropped — a
+fabricated discontinuity across a prayer that in fact continues unbroken.
+`w11_build_html.py` now resolves the pair by incipit and aborts if neither
+matches.
+
 ## Slug list
 
 Lineage keys the slug, not the printed wording; a rename is a heading diff on

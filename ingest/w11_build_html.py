@@ -23,6 +23,7 @@ SECT_OF = {
 
 def units(year: str):
     blocks, dropped = S.extract(year)
+    pending_ember = False
     sect = 'p'
     cur = None
     out = []
@@ -47,8 +48,16 @@ def units(year: str):
                                         'rubrics': [], 'body': [], 'sect': sect}
                 continue
             if n.startswith(M.EMBER[:40]):
+                # 1662 prints TWO Ember prayers under one title. Assign them by
+                # IDENTITY, not by order: 1637 carries only the "giver of all
+                # good gifts" one, and the American line's "For those who are to
+                # be admitted into Holy Orders" is the "universal Church" one
+                # renamed. Ordering alone made the American prayer a NEW slug
+                # and showed 1662's as dropped -- a fabricated discontinuity
+                # across a prayer that in fact continues unbroken.
                 ember_n += 1
-                slug = 'in-the-ember-weeks' + ('' if ember_n == 1 else '-2')
+                slug = None            # resolved once the body is known
+                pending_ember = True
             else:
                 key = (sect, n)
                 if key not in M.MAP:
@@ -59,7 +68,9 @@ def units(year: str):
                 slug = M.MAP[key]
             if cur:
                 out.append(cur)
-            cur = {'slug': slug, 'title': text, 'rubrics': [], 'body': [], 'sect': sect}
+            cur = {'slug': slug, 'title': text, 'rubrics': [], 'body': [],
+                   'sect': sect, 'pending_ember': locals().get('pending_ember', False)}
+            pending_ember = False
             continue
         if kind == 'rubric':
             (cur['rubrics'] if cur else []).append(text)
@@ -79,6 +90,16 @@ def units(year: str):
                 continue
             if cur:
                 cur['body'].append(text)
+                if cur.get('pending_ember') and cur['slug'] is None:
+                    low = text.lower()
+                    if 'universal church' in low:
+                        cur['slug'] = 'for-those-to-be-admitted-into-holy-orders'
+                    elif 'giver of all good gifts' in low:
+                        cur['slug'] = 'in-the-ember-weeks'
+                    else:
+                        raise SystemExit(
+                            f"ABORT {year}: an Ember-weeks prayer matched neither "
+                            f"known incipit; resolve its lineage explicitly.")
             continue
     if cur:
         out.append(cur)
