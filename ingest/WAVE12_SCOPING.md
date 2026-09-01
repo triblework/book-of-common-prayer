@@ -1,0 +1,97 @@
+# Wave 12 — the four deferred sections: source survey + one open decision
+
+Authoring-only. These four were excluded from Wave 11 by the maintainer's locked
+ruling (`WAVE11_SCOPING.md`) as "each its own future wave". This is that wave.
+
+## 1. Presence, from the edition indexes
+
+| section | 1662 | 1637 | 1789 | 1892 | 1928 | 1979 |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| Forms of Prayer to be used at Sea | x | — | x | x (shares the 1789 page) | **—** | — |
+| A Penitential Office for Ash-Wednesday | — | — | — | x | x (**on the Litany page**) | — |
+| Prayer to be used in Families | — | — | x | x (shares the 1789 page) | x | — |
+| A Prayer and Thanksgiving to Almighty God | — | — | x | x (shares the 1789 page) | — | — |
+
+Evidence, not assumption:
+- **1928 drops the Sea forms.** Its index carries 75 hrefs and *none* matches
+  `sea`. It does carry `Family_Prayer.htm` and `Litany.htm#Penitential`.
+- **1928 moves the Penitential Office to the Litany page** (`Litany.htm#Penitential`),
+  where 1892 prints it with Prayers and Thanksgivings — a placement change to
+  record, exactly like the Wave-11 migrations.
+- **1892 shares 1789's pages** for Sea / Family Prayer / Prayer and Thanksgiving
+  (its index links `../1789/...`), the same pattern as the propers. Whether 1892
+  is textually identical must be confirmed per section, not assumed.
+- **1979 carries none of the four.** The PD e-text set has no "at Sea", no
+  "Family Prayer", no "Thanksgiving to Almighty God"; its "Penitential" hits are
+  the Eucharist's Penitential Order and penitential psalms, a different thing.
+- **CONFIRM BEFORE BUILDING:** whether the Sea forms are a 1662 addition (absent
+  1549–1604) — the CoE has them at 1662, but the English 1549–1604 indexes were
+  not reachable this pass (the justus 1662 index URL 404s). Do not assert it.
+
+## 2. Sources
+
+| edition | source | note |
+|---|---|---|
+| 1662 | CoE `…/book-common-prayer/prayers-be-used-sea` | different class vocabulary from the P&T page — see §4 |
+| 1789 | `1789/Prayer_at_Sea_1789.htm`, `Family_Prayer_1789.htm`, `Prayer&Thanksgiving_1789.htm` | not yet fetched |
+| 1892 | links to the 1789 pages; Penitential Office on the cached `Pray&Thanks_1892.htm` | already parsed — see §4 |
+| 1928 | `1928/Family_Prayer.htm`, `1928/Litany.htm#Penitential` | Family Prayer not yet fetched |
+
+## 3. THE OPEN DECISION — the Penitential Office and the Commination
+
+The American line **drops the Commination at 1789** (`absent:` in editions.yaml;
+1892/1928/1979 inherit the absence), and a **Penitential Office for
+Ash-Wednesday appears at 1892**. Same liturgical slot. Is it the Commination's
+successor (same slug, so the American revision reads as a diff) or a distinct
+service (its own slug)?
+
+Measured, not guessed — 1662 Commination vs the 1892 Penitential Office:
+
+| marker | 1662 Commination | 1892 Penitential Office |
+|---|:-:|:-:|
+| the word "Commination" | 1 | **0** |
+| "Cursed is he" — the denounced curses | **8** | **0** |
+| congregational Amen responses | 20 | 2 |
+| Psalm 51 (Miserere) | 1 | 1 |
+| appointed for the first day of Lent | 1 | 1 |
+| whole-text word overlap | — | 0.33 |
+
+So it keeps the **occasion** and **Psalm 51**, and drops the Commination's entire
+defining content. See §5 for the options and the recommendation.
+
+## 4. Parsing notes (structural discriminators)
+
+- **The Penitential Office is already parsed.** `w11_spine.extract('1892')`
+  drops exactly 10 blocks at the `EXCLUDE` cut; those blocks *are* this office,
+  correctly classified (2 title, 3 rubric, and the Psalm). Emitting them is
+  nearly free.
+- **The CoE Sea page uses a different class vocabulary** from the P&T page:
+  `vlpsalm` (98), `vlnormal` (26), `vlrubric` (18), `vlitemheading` (2),
+  `bcpitalicheading` (1) — and **no `bcprubricheading` at all**, which is what
+  `w11_spine`'s `coe` style keys titles on. Extend the style before reusing it,
+  or it will yield zero titles.
+- **SCOPE FLAG — psalms.** The Sea forms carry **98 psalm-verse paragraphs**.
+  The Psalter is a deferred wave; transcribing these psalms here would pre-empt
+  it and duplicate text later. Decide whether the Sea forms carry their psalms in
+  full or as a pointer (the Wave-10 "citation only" precedent applies cleanly).
+
+## 5. Options for §3, with a recommendation
+
+**(a) Its own slug** — `occasional-offices/penitential-office.md`, present 1892+,
+with the relationship to the Commination recorded in NOTICE. *Recommended.*
+The repo's own rule is "never force a non-descendant onto a historic slug to
+manufacture a diff". Nothing that makes a Commination a Commination survives:
+the name, all eight curses and their responses are gone. A `v1662→v1892` diff on
+one slug would render as "the Commination lost its content", which reads as a
+revision of one service rather than what happened — one service dropped in 1789,
+another supplied for the same day three editions later.
+
+**(b) The commination slug** — 1892 restores `occasional-offices/commination.md`
+with the Penitential Office's text. Makes the American revision a single visible
+diff and keeps one file per liturgical slot. But it asserts a textual descent the
+measurements do not support, and it would have the service reappear at 1892
+after being explicitly `absent:` at 1789 — a restoration the books did not make.
+
+**Recommendation: (a).** The Commination→Penitential relationship is real but it
+is an *occasion* relationship, not a textual one, so NOTICE.md is the right place
+to record it — the same treatment already given to the Wave-11 relocations.
