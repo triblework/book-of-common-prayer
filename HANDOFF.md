@@ -14,7 +14,7 @@ into published commits). Everything you need is in the repo + the spec.
 ## CURRENT — WAVE 10 COMPLETE: 10d published (2026-08-31)
 
 **10d is DONE + PUBLISHED (force-pushed 2026-08-31), and WAVE 10 IS COMPLETE.
-Published tips: `main 183d3b7 · scottish efddcbf · american 7eb49c7`; all 12
+Published tips: `main 0e68da6 · scottish a3073b1 · american aaca4c0`; all 12
 tags recreated; local==remote verified; flagship diffs render.** The propers now
 cover 106 occasions across the whole church year, in every edition that carries
 them.
