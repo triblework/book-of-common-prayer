@@ -52,7 +52,7 @@ Presence: 68 at v1559, 69 at v1662, 68 at v1637, 70 at v1789/v1892/v1928,
 provenance; `w10_audit.py` reports 0 anomalies; all three tips pass
 sentence_split/normalize/verify_index `--check`.
 
-**DECISION (a) — MAINTAINER-FLAGGED FOR REVISION (2026-08-31).** 1979 replaces
+**DECISION (a) — MAINTAINER-FLAGGED FOR REVIEW (2026-08-31).** 1979 replaces
 the Sundays after Trinity with calendar-dated Propers, so no day in that season
 corresponds. Where a Sunday-after-Trinity collect demonstrably survives at a 1979
 Proper, the 1979 collect is placed at the HISTORIC slug so the modernization
@@ -60,8 +60,10 @@ reads as a diff (8 slugs: trinity-4/7/11/12/13/17/19/20). **The cost — recorde
 in NOTICE.md, WAVE10_1979_CROSSWALK.md and inline in every affected cell — is
 that this attaches a 1979 collect to a day the 1979 book does not observe, and
 leaves the 1979 Propers represented only through the historic days they map
-onto. The maintainer asked that this be revisited; treat it as provisional, and
-option (b) (historic slugs `absent:` + their own `proper-N` slugs) remains open.**
+onto. The maintainer asked that this be REVIEWED — not that it is known to be
+wrong. Treat it as provisional and held open on purpose: look at it again with
+fresh evidence and either keep (a) or move to (b) (historic slugs `absent:` plus
+their own `proper-N` slugs).**
 NOT applied to trinity-1/trinity-6, whose descendants are 1979's Epiphany 6 and
 Easter 6 — real days already carried at their own slugs; repeating them would put
 one text at two slugs.

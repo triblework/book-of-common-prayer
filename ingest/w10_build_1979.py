@@ -85,7 +85,7 @@ MAP = [
     # reads. Only high full-text agreement counts as descent here, since no day
     # corresponds; see WAVE10_1979_CROSSWALK.md.
     # NOTE: this attaches a collect to a day 1979 does not observe. Recorded as
-    # requiring revision.
+    # requiring REVIEW -- held open on purpose, not known to be wrong.
     ("trinity-4", "Proper 12"),
     ("trinity-7", "Proper 17"),
     ("trinity-11", "Proper 21"),
@@ -150,7 +150,7 @@ LINEAGE_NOTE = (
     "<!-- VERIFY: '{occ}' — placed at `{slug}` by COLLECT LINEAGE, not by day: "
     "1979 replaces the Sundays after Trinity with calendar-dated Propers, so it "
     "does not observe this day. See ingest/WAVE10_1979_CROSSWALK.md; this "
-    "representation is flagged for revision. -->")
+    "representation is flagged for review. -->")
 
 TRUNCATED_NOTE = (
     "<!-- VERIFY: '{occ}' — the collect under `{which}` breaks off mid-sentence "

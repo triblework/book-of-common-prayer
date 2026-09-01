@@ -275,8 +275,7 @@ The published branches and tags are build artifacts, regenerated from the
   the collect can be read as a diff. The cost is that such a file attaches a 1979
   collect to a day the 1979 book does not observe, and that the 1979 Propers are
   represented only through the historic days they map onto. Every file affected
-  says so inline. **This representation is provisional and expected to be
-  revised.** Where the evidence for descent is weak — collects share stock
+  says so inline. **This representation is provisional and flagged for review.** Where the evidence for descent is weak — collects share stock
   openings, so a shared opening alone proves nothing — no mapping was made at all,
   and the day is recorded as absent from 1979 rather than guessed at.
 - **2026-08-31** — Wave 10d: the propers for the **Holy Days** (Saints' Days), from

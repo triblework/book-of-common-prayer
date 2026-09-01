@@ -49,7 +49,7 @@ W10C_1979_DAYS = [F + s for s in (
     "easter-day", "easter-monday", "easter-tuesday",
     "easter-1", "easter-2", "easter-3", "easter-4", "easter-5",
     "ascension-day", "ascension-1", "whitsunday", "trinity-sunday")]
-# Placed by collect lineage (maintainer decision (a)); flagged for revision.
+# Placed by collect lineage (maintainer decision (a)); flagged for review.
 W10C_1979_LINEAGE = [F + f"trinity-{n}" for n in (4, 7, 11, 12, 13, 17, 19, 20)]
 # 1979-only days in Easter Week: no historic ancestor, own slugs.
 NEW_1979_10C = [F + s for s in ("easter-wednesday", "easter-thursday",

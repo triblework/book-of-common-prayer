@@ -148,9 +148,10 @@ Unproven (opening-only agreement; NOT mapped): `trinity-2`, `trinity-3`,
 
 ### RESOLVED (maintainer, 2026-08-31): option (a) — place by lineage
 
-> **FLAGGED FOR REVISION.** The maintainer chose (a) and asked that the choice be
-> recorded as needing revisiting. It is a considered trade-off, not a settled
-> reading, and a later pass may prefer (b).
+> **FLAGGED FOR REVIEW.** The maintainer chose (a) and asked that the choice be
+> recorded as needing review — not that it is known to be wrong. It is a
+> considered trade-off held open on purpose: a later pass should look at it
+> again with fresh evidence and may keep (a) or prefer (b).
 
 Where a Sunday after Trinity's collect survives in 1979 **at a Proper**, the 1979
 collect is placed at the historic slug, so `git diff v1928 v1979` shows the
