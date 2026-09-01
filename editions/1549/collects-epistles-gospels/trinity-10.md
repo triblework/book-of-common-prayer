@@ -2,7 +2,7 @@
 
 ## The Introit
 
-Manus tu�. Psalm 119
+Manus tuæ. Psalm 119
 
 ## The Collect
 

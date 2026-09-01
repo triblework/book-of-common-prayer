@@ -2,7 +2,7 @@
 
 ## The Introit
 
-S�pe expugnaverunt. Psalm 129
+Sæpe expugnaverunt. Psalm 129
 
 ## The Collect
 

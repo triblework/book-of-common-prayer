@@ -2,7 +2,7 @@
 
 ## The Introit
 
-In �ternum, Domine. Psalm 119
+In æternum, Domine. Psalm 119
 
 ## The Collect
 
