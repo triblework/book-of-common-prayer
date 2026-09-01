@@ -199,10 +199,22 @@ def fetch(url: str, force: bool = False) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
         raw = resp.read()
-        charset = resp.headers.get_content_charset() or "utf-8"
+        charset = resp.headers.get_content_charset()
     _LAST_REQUEST[0] = time.monotonic()
 
-    text = raw.decode(charset, errors="replace")
+    # Several justus pages are served with no charset in the Content-Type
+    # header but declare iso-8859-1 in their own <meta>. Defaulting to UTF-8
+    # there silently replaces every high-Latin-1 byte with U+FFFD -- which
+    # destroys the pilcrow that marks a rubric, so rubrics stop being
+    # detectable. Prefer the header, fall back to the document's declaration,
+    # and only then to UTF-8.
+    if not charset:
+        meta = re.search(rb'charset=["\']?([\w-]+)', raw[:4096], re.I)
+        charset = meta.group(1).decode("ascii", "replace") if meta else "utf-8"
+    try:
+        text = raw.decode(charset, errors="replace")
+    except LookupError:
+        text = raw.decode("utf-8", errors="replace")
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     cache.write_text(text, encoding="utf-8")
     return text
