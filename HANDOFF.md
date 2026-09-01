@@ -11,7 +11,42 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 12 (the four deferred sections) IN PROGRESS
+## CURRENT — WAVE 12 (the four deferred sections) BUILD-COMPLETE, NOT PUBLISHED
+
+**Built, gated and green on `origin/authoring`; NOT published — that needs the
+maintainer's explicit go-ahead on the force-push.** 9 cells under
+`occasional-offices/`. Fidelity 9/9 clean; audit 0 anomalies; authoring
+verify_index reconciles 306 inline VERIFY / 403 provenance items; all three
+built tips pass sentence_split / normalize / verify_index `--check`.
+
+Flagship diffs verified: `v1604->v1662 prayers-at-sea` (+169, the 1662
+addition), `v1892->v1928 prayers-at-sea` (-153, 1928 drops it),
+`v1789->v1892 penitential-office` (+45), `v1892->v1928 penitential-office`
+(+70/-28, expanded and relocated), `v1789->v1928 family-prayer` (+217/-42),
+`v1928->v1979 family-prayer` (-262). Structurally confirmed that
+`commination.md` and `penitential-office.md` never coexist on one path.
+
+METHOD ASSETS: `ingest/WAVE12_SCOPING.md` (survey, both locked rulings, the
+psalm distinction, the 1979-promotion finding, the file scheme), `w12_spine.py`
+(paired-column selection, inverse slicing, per-source structural psalm
+detection), `w12_build.py`, `w12_editions.py` (carries the INHERITS map),
+`gen_wave12_provenance.py`, `w12_fidelity.py`, `w12_audit.py`.
+
+**PARSER LESSONS WORTH CARRYING:** (1) two justus pages print 1789 and 1892 in
+labelled PARALLEL COLUMNS — treating the narrow cells as apparatus deletes the
+text, treating every cell as text conflates two editions into a reading no book
+printed. (2) The psalm collapse began as a content test (` : ` plus a length
+bound) and caught 85 of 1662's 97 psalm blocks and NONE of 1789's; replacing it
+with per-source structural markers (CoE `class="vlpsalm"`; justus: a body
+following a psalm-naming heading) fixed it, and `w12_audit.py` check 3 now
+asserts pointer verse-counts equal the spine's psalm blocks so a swallowed
+paragraph is a loud stop. (3) Computing presence from authored files alone put
+1892 `family-prayer` into `absent:`, which would have claimed 1892 DROPPED it;
+the `INHERITS` map declares reprint-unchanged inheritance explicitly.
+
+<!-- Superseded: the in-progress block is kept below -->
+
+## WAVE 12 — the locked rulings (kept for reference)
 
 The four sections Wave 11 excluded, now their own wave. Survey + both locked
 rulings: `ingest/WAVE12_SCOPING.md` — read it before touching this wave.

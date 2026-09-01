@@ -335,6 +335,38 @@ The published branches and tags are build artifacts, regenerated from the
     against its source re-fetched through the corrected fetcher. No published
     tag now contains a replacement character.
 
+- **2026-09-01** — Wave 12: the **four deferred sections**, each excluded from
+  Wave 11 as its own wave. Nine cells under `occasional-offices/`.
+  - **Forms of Prayer to be used at Sea** — a 1662 addition (1549/1552/1559
+    carry none), inherited by the American line at 1789 and 1892, and **dropped
+    by 1928**.
+  - **A Penitential Office for Ash-Wednesday** (1892, 1928). **It is not the
+    Commination.** The American line drops the Commination at 1789 and supplies
+    this office for the same day from 1892: it keeps the occasion and Psalm 51
+    but carries none of the Commination's eight denounced curses and drops the
+    name entirely. The two therefore have separate files, and the relationship
+    between them is recorded here rather than asserted as a diff on one path.
+    1928 also **moves the office onto the Litany page**, where 1892 prints it
+    with the Prayers and Thanksgivings.
+  - **Forms of Prayer to be used in Families** (1789; reprinted unchanged at
+    1892; greatly expanded at 1928). **1979 promotes six of the 1928 family
+    prayers into its main Prayers and Thanksgivings section** — For Quiet
+    Confidence, For Those We Love, For the Absent, For Joy in God's Creation,
+    For Guidance and For a Birthday. Each is kept where its own book prints it,
+    so the promotion is recorded here rather than shown as a diff.
+  - **A Form of Prayer and Thanksgiving to Almighty God** (1789, 1892), a
+    harvest form with its own Collect, Epistle and Gospel.
+  - **Psalms in the Sea forms are carried as a pointer, not transcribed** — the
+    Psalter is a separate wave, and those pages print 97 psalm verses at 1662
+    alone. Each run collapses to a line naming the psalm and its verse count.
+    Two composite hymns carry no single printed psalm label, so no citation is
+    invented for them and the omission is flagged. **Psalm 51 in the Penitential
+    Office is carried in full**, following the Commination's precedent for the
+    same psalm on the same day.
+  - Two source pages print **1789 and 1892 side by side** in labelled parallel
+    columns; each edition's cell is built from its own column, and the texts
+    genuinely differ.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally
