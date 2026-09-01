@@ -125,10 +125,18 @@ Restoration of Health" vs `thanksgiving-for-recovery-from-sickness`.
 
 ## Excluded (locked ruling) — slice off deliberately
 1662 *Forms of Prayer to be used at Sea*; the 1892/1928 *Penitential Office*;
-*Family Prayer*; the 1789 *Prayer and Thanksgiving to Almighty God*. The 1928's
-`COLLECTS.` sub-block sits inside this section on the page — **decide and record
-whether it is in scope before building 1928** (it is a set of collects, not
-occasional prayers; leaning out-of-scope, to the propers family).
+*Family Prayer*; the 1789 *Prayer and Thanksgiving to Almighty God*.
+
+**The 1928 `COLLECTS.` sub-block IS IN SCOPE (decided 2026-09-01).** It is six
+collects under one shared rubric, printed inside Prayers and Thanksgivings, and
+absent from 1789/1892 — so it is a clean 1928 insert. They are occasional
+collects, not propers (nothing ties them to a Sunday or Holy Day), so they do
+not belong to `collects-epistles-gospels/`. They are printed **untitled**, so
+their slugs are incipit-derived and each file's `#` title is the shared section
+head with an ordinal, with the shared rubric carried on every one:
+`collect-peace-i-leave-with-you` · `collect-assist-us-mercifully` ·
+`collect-grant-we-beseech-thee` · `collect-direct-us-o-lord` ·
+`collect-fountain-of-all-wisdom` · `collect-promised-to-hear-petitions`
 
 ## Sources
 See `WAVE11_SCOPING.md` §2. Parser: `ingest/w11_spine.py` — structural

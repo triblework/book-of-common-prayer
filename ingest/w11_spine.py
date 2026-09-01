@@ -207,6 +207,26 @@ def _despace(t: str) -> str:
     return t
 
 
+
+def _coe_promote_inline_titles(frag: str) -> str:
+    """Promote a title that the CoE marks up INLINE into its own block.
+
+    Most CoE titles are `<p class="bcprubricheading">Title</p>`, but some are
+    `<p class="vlnormal"><span class="vlrubric">Title</span><br>body...</p>`.
+    Parsed as-is, such a title is swallowed into the body block and disappears
+    from the title list -- which is how the 1662 thanksgiving for deliverance
+    from the plague went missing while its text was still present.
+
+    Rewriting the inline form into the block form is a structural fix (it keys
+    on the markup, not on what the text says), so both spellings converge
+    before classification.
+    """
+    return re.sub(
+        r'<p[^>]*>\s*<span class="vlrubric">(.*?)</span>\s*(?:<br\s*/?>)+',
+        lambda m: '<p class="bcprubricheading">' + m.group(1) + '</p><p class="vlnormal">',
+        frag, flags=re.S | re.I)
+
+
 def _blocks_from_html(frag: str, style: str = 'justus'):
     """Yield (kind, text) per block element, in document order.
 
@@ -233,8 +253,14 @@ def _blocks_from_html(frag: str, style: str = 'justus'):
                 kind = 'body'
             if kind == 'section' and t.strip().lower() in CHROME:
                 continue
-            if kind == 'body' and t.strip() in ('Some functionality has been disabled',
-                                                'A Christian presence in every community'):
+            if kind == 'body' and (
+                    t.strip() in ('Some functionality has been disabled',
+                                  'A Christian presence in every community',
+                                  'Join us in Daily Prayer', 'Apps for Worship')
+                    or t.startswith('Text from The Book of Common')
+                    or t.startswith('Find Morning, Evening')
+                    or t.startswith('Apps for Worship are available')
+                    or t.startswith('Stay connected and get')):
                 continue
             out.append((kind, t))
             continue
@@ -281,7 +307,7 @@ def extract(year: str):
             blocks.extend(_blocks_from_html(cell))
     else:
         i = s.lower().find('prayers and thanksgivings')
-        blocks.extend(_blocks_from_html(s[i:], style='coe'))
+        blocks.extend(_blocks_from_html(_coe_promote_inline_titles(s[i:]), style='coe'))
     # drop excluded sections: from a matching TITLE to the next title that is
     # NOT excluded is ambiguous, so drop from the match to end-of-source, which
     # is where these sections sit on every page. Assert that below.
