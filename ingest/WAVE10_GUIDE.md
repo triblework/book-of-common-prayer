@@ -137,7 +137,7 @@ than being guessed at.
 
 **1549 Introit.** The 1549 prints the proper psalm in full with its Latin incipit
 (`Beatus vir. Psalm i.`). The file carries the citation with the incipit that
-identifies it: `Beatus vir. Psalm 1`. (The psalm body is Wave 11, the Psalter.)
+identifies it: `Beatus vir. Psalm 1`. (The psalm body is Wave 13, the Psalter.)
 
 ---
 

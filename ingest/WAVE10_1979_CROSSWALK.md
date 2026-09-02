@@ -85,7 +85,7 @@ and Decision C.4 forbids cramming them into that slot. The 1979 cells therefore
 carry **collects only**: the `## The Epistle` / `## The Gospel` anchors inherited
 from 1928 are dropped, which is the truthful statement that 1979 appoints no
 single Epistle and Gospel for the day. The three-year sets are deferred to the
-lectionary-tables wave (Wave 12).
+lectionary-tables wave (Wave 14).
 
 ### E-text defects encountered in 10a
 `bcpcolct.txt` lost material in its 1993 keying. In 10a: the **Traditional**

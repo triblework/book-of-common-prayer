@@ -339,7 +339,7 @@ KEY DECISIONS MADE IN 10a (carry into 10b–10d):
   dropped per edition); `[=obstructed]` is an editorial gloss (always removed).
 - **1979 carries collects only** — its three-year lectionary is incommensurable
   with the single-citation slot; the inherited Epistle/Gospel anchors are dropped
-  and the tables deferred to Wave 12.
+  and the tables deferred to Wave 14.
 - **St. Stephen / St. John Evangelist / Holy Innocents are 10d**, not 10a: justus
   prints them in its Christmas block, but 1662 and the American line print them in
   the Saints' Days sequence.
@@ -406,7 +406,7 @@ durable record:**
   II pattern. (4) 1979 replaced the one-year eucharistic lectionary with the three-year
   (A/B/C) Revised Common Lectionary — its reading-citations are structurally
   incommensurable with the historic single citation, so represent them separately (or
-  defer to the lectionary-tables wave, Wave 12), not crammed into the single-citation
+  defer to the lectionary-tables wave, Wave 14), not crammed into the single-citation
   slot. Keep the slug scheme forward-compatible from 10a so mappings discovered later
   in 10c/10d don't force renames.
 
@@ -926,6 +926,18 @@ The `scrape.py --text` mode is the ingest half. Verify by inspecting STRUCTURE
 
 ## 7. Remaining waves (spec §6 order) — proceed through as many as feasible
 
+**WAVE NUMBERING — read before assigning a number.** Waves 11 and 12 were used
+for work the spec's original table did not number: **Wave 11 = Prayers and
+Thanksgivings** and **Wave 12 = the four deferred sections** (both published
+2026-09-01). Those two numbers had been informally reserved in the spec for the
+Psalter and the lectionary tables, so the two stretch waves were **renumbered to
+13 (Psalter) and 14 (Lectionary / calendar tables)** in this table, in spec §6
+and §10, and in the Wave-10 assets that forward-referenced them. The published
+`NOTICE.md` rebuild log is the source of truth for what each number means,
+because it records what actually shipped and in what order. **Before labelling a
+new wave, check the rebuild log, not this table.**
+
+
 For each: consult the **presence matrix (spec §6.1)** for which editions have the
 service (confirm against the actual source), and the **canonical anchors (§3.2)**.
 
@@ -940,8 +952,8 @@ service (confirm against the actual source), and the **canonical anchors (§3.2)
 | **8** | Ordinal | 1550 Ordinal; decide 1549-vs-1552 placement, note in NOTICE (spec §6.1 n.2). |
 | **9** | Front-matter (Preface, Of Ceremonies, Concerning the Service, Ratification) | Rich English/American divergence. |
 | **10** | Collects, Epistles & Gospels (proper sets) | Large; one unit per file section, stable per-Sunday anchors. |
-| **11** | *(stretch)* Psalter | One verse per line; `## Psalm N` anchors; Coverdale (English) vs American. |
-| **12** | *(stretch)* Lectionary/calendar tables | Normalized long-form, one entry per line, stable column order. |
+| **13** | *(stretch)* Psalter | One verse per line; `## Psalm N` anchors; Coverdale (English) vs American. |
+| **14** | *(stretch)* Lectionary/calendar tables | Normalized long-form, one entry per line, stable column order. |
 
 **Sourcing:** justus per-edition pages. Discover URLs from the justus index
 `BCP_<year>.htm` (or `/Scotland/…`, `/1928/…`). 1979 = `bcpoffce.txt` (all offices)
