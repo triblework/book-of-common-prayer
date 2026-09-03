@@ -248,3 +248,63 @@ def report(edition):
 if __name__ == "__main__":
     for ed in (sys.argv[1:] or ["1549", "1552", "1559", "1789"]):
         report(ed)
+
+
+# ---------------------------------------------------------------------------
+# Holy-day column: rejoining wrapped names.
+#
+# The column is positionally aligned but a long name WRAPS across <br>, so
+# "Circumcision" arrives as "Circumci-" + "sion." on the next slot. The join
+# must not swallow a genuinely adjacent feast: December prints St. Stephen (26),
+# St. John (27) and Innocents (28) on three consecutive days, and those are
+# three feasts, not one wrapped name.
+#
+# The discriminator is structural, and it is the ACCUMULATED text that decides:
+# a slot continues the previous name when it begins lower-case or with "&", or
+# when what has been accumulated so far ends on a connector that cannot end a
+# name ("-", "of", "&", "the", "St."). Everything else starts a new feast.
+#
+# The rule is then GATED by the caller against the edition's own Table of
+# Feasts: names come from that table, dates from this column, and agreement
+# validates the join. A name the feast table does not know is flagged, never
+# silently accepted.
+_CONNECTOR = re.compile(r"(?:-|\bof|&|\bthe|\bSt\.)$", re.I)
+_CONTINUES = re.compile(r"^(?:[a-z]|&)")
+
+
+# Named joins the connector rule provably cannot see, each with its reason.
+# AUDIT_METHOD's KNOWN_GOOD tier: an exemption must state a source-checked
+# reason, or it is a silenced bug.
+KNOWN_JOIN = {
+    # "All Saints" / "Day": the tail begins upper-case and the head ends on no
+    # connector, so the rule cannot see the wrap. The 1789 Table of Feasts
+    # prints "All Saints", and no feast falls on 2 November in any edition.
+    ("1789", "November", 2): ("November", 1),
+}
+
+
+def join_holy_days(cells, edition=None):
+    """{(month, day): fragment} -> ({(month, day): name}, [(month, day) joined])."""
+    out, joined = {}, []
+    order = sorted(cells, key=lambda k: (MONTHS.index(k[0]), k[1]))
+    i = 0
+    while i < len(order):
+        key = order[i]
+        name = cells[key]
+        i += 1
+        while i < len(order):
+            nxt = order[i]
+            frag = cells[nxt]
+            # only an immediately following day can be a wrap
+            if not (nxt[0] == key[0] and nxt[1] == key[1] + (i - order.index(key))):
+                pass
+            forced = KNOWN_JOIN.get((edition, nxt[0], nxt[1])) == key
+            if forced or _CONTINUES.match(frag) or _CONNECTOR.search(name.strip()):
+                name = (name.rstrip("-") + frag) if name.rstrip().endswith("-") \
+                    else (name + " " + frag)
+                joined.append(nxt)
+                i += 1
+                continue
+            break
+        out[key] = re.sub(r"\s+", " ", name).strip()
+    return out, joined
