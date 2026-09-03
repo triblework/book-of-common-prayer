@@ -40,7 +40,13 @@ URL = "http://justus.anglican.org/resources/bcp/bcplectn.txt"
 OCCASION = re.compile(r"^(?P<name>[A-Z0-9][^:]*):\s*(?:=(?P<sub>[^=]*)=)?\s*$")
 # A Daily Office day heading carries its psalms on the same line.
 DAYLINE = re.compile(r"^(?P<name>[A-Z][A-Za-z0-9 .'()/-]*?):\s+(?P<ps>\S.*)$")
-HEADING = re.compile(r"^<(?P<h>[^>]+)>\s*$")
+# A heading may carry a trailing italic subtitle on the SAME line:
+#     <Proper 20>  =Week of the Sunday closest to September 21=
+# Requiring end-of-line after ">" made every Proper week invisible, and the
+# line was then swallowed into the previous day's readings -- silent loss that
+# surfaced only as an anomalous reading count (AUDIT_METHOD: "a count that
+# comes up short is a finding").
+HEADING = re.compile(r"^<(?P<h>[^>]+)>\s*(?P<sub>.*)$")
 PAGE = re.compile(r"^<page (\d+)>\s*$")
 
 
@@ -165,6 +171,7 @@ def parse_daily_office(lines):
             if cur:
                 cur["raw"] = _flush(buf); out.append(cur); cur, buf = None, []
             hs = strip_markup(h).strip()
+            sub = strip_markup(mh.group("sub") or "").strip()
             if hs in ("Year One", "Year Two"):
                 year = hs; week = None
             elif hs.startswith("/Year"):
@@ -172,7 +179,7 @@ def parse_daily_office(lines):
             elif hs == "Daily Office Lectionary":
                 pass
             else:
-                week = hs
+                week = "%s (%s)" % (hs, sub) if sub else hs
             continue
         md = DAYLINE.match(l)
         if md and not l.startswith(" "):

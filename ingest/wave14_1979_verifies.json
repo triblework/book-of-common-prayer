@@ -1,0 +1,164 @@
+[
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "Year A: First and Second Sundays of Advent",
+  "note": "the public-domain e-text loses page 889 entirely, taking the '<Year A>' heading, the close of 'Concerning the Lectionary', and Year A's First and Second Sundays of Advent; the rows are absent rather than reconstructed"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "Hebrews 1:1-12, John 1:1-14",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "John 1:29-41",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "Matthew 21:1-11",
+  "note": "the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 892)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "The Great Vigil: See pages 288-291.",
+  "note": "the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 893)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year A",
+  "source_reading": "thew 21:33-43",
+  "note": "the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 898)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year B",
+  "source_reading": "Mark 11:1-11a",
+  "note": "the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 903)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year B",
+  "source_reading": "Matthew 28:1-10",
+  "note": "the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 904)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year B",
+  "source_reading": "John 6:37-51",
+  "note": "the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 908)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "Luke 21:25-31",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 911)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "Luke 2:15-21",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 912)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "Philippians 3:17--4:1 Luke 13:(22-30)31-35",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "2 Corinthians 5:17-21 Luke 15:11-32",
+  "note": "the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "Luke 19:29-40",
+  "note": "the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "The Great Vigil: See pages 288-291",
+  "note": "the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915)"
+ },
+ {
+  "service": "tables/eucharistic-lectionary",
+  "anchor": "Year C",
+  "source_reading": "Luke 12:13-21",
+  "note": "the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919)"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year One",
+  "source_reading": "Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)",
+  "note": "the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year One",
+  "source_reading": "Year One / Proper 10 (Week of the Sunday closest to July 13) / Friday",
+  "note": "the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year One",
+  "source_reading": "Mark 15:12-21",
+  "note": "the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year One",
+  "source_reading": "Luke 10:1-12,17-20",
+  "note": "the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "Matt. 22:15-22",
+  "note": "the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "John 2:1-12",
+  "note": "the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "2 Cor. 5:11-21 Mark 10:35-45",
+  "note": "the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "1 Cor. 10:14-17,- 42[*]",
+  "note": "the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "Rom. 11:1-12 Matt. 25:1-13",
+  "note": "the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "Year Two / Proper 19 (Week of the Sunday closest to September 14) / Friday",
+  "note": "the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ },
+ {
+  "service": "tables/daily-office-lectionary",
+  "anchor": "Year Two",
+  "source_reading": "Luke 14:18-30",
+  "note": "the e-text yields 6 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+ }
+]
