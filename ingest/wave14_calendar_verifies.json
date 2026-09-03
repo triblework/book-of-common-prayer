@@ -1,0 +1,9 @@
+[
+ {
+  "edition": "1789",
+  "service": "tables/calendar",
+  "anchor": "November",
+  "source_reading": "November Morning 1, Evening 1",
+  "note": "the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month"
+ }
+]

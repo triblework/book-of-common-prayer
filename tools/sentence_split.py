@@ -45,6 +45,26 @@ _ABBREVIATIONS = {
     "ezek", "ezech", "dan", "hos", "joel", "amos", "obad", "jon", "jonah",
     "jere", "psal", "matt", "math", "matth",
     "mic", "nah", "hab", "zeph", "hag", "zech", "mal",
+    # Wave 14: abbreviations printed in the Kalendar's annotation column
+    # (saints' days, astronomical notes and law-term notes) and in archaic
+    # lesson citations. Additive: an entry here can only PREVENT a split, so it
+    # cannot fragment text that is correct today.
+    "andr", "annun", "annuncia", "apo", "apos", "barna", "barnab", "bart",
+    "bartho", "beg", "beh", "con", "convers", "edw", "evan", "incap", "inv",
+    "ja", "jo", "januarii", "laur", "laurence", "libr", "luc", "mar", "marg",
+    "na", "nat", "port", "pur", "puri", "rich", "sainct", "scorp", "sol",
+    "tho", "tr", "v", "visit", "w", "s",
+    "acte", "gene", "genes", "hiere", "hierem", "esaie", "sapie", "eccls",
+    "judic", "josue", "hester", "mala", "dani", "naum", "agge", "zach",
+    "toby", "judi", "hebre", "ephe", "ephes", "collos", "coloss", "roma",
+    "math", "mathe", "jhon", "levi", "leviti", "nume", "deu", "deute",
+    "reg", "esd", "thren", "ezech", "osee", "abdi", "michae", "abac",
+    "sopho", "corin", "gala", "thessa", "timo", "tite", "phile", "jame",
+    "pete", "apoca", "philip", "machab", "sap", "tobi", "exo",
+    "joh", "less", "sy", "ju", "sim", "jud", "m", "a", "anti",
+    "di", "luk", "hagg", "jude", "abd", "soph", "mich",
+    "magd", "aeq", "sar", "prid", "kl", "id", "no", "circumci",
+    "epiphani", "pau", "purif", "trans", "trin", "dedic",
     "mark", "luke", "john", "acts", "rom", "cor", "gal", "eph", "phil",
     "col", "thess", "tim", "tit", "philem", "heb", "jas", "pet", "rev",
 }

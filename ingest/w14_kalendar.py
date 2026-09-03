@@ -179,20 +179,28 @@ def month_tables(edition, html):
         month = MONTHS[i]
         emitted = _emitted(edition)
         counts = [len(cell_entries(cells[j])) for j, _l in emitted]
-        span = DAYS_IN[month]
         # The modal count is the month's true height; a column that disagrees
         # has LOST an entry in the source, and index-zipping it would misdate
         # every day after the loss. Such a column is dropped and named, never
         # aligned on a guess (GUIDE §4).
         modal = max(set(counts), key=counts.count)
+        # THE HEADER SLOT IS DETECTED STRUCTURALLY, NOT BY ARITHMETIC. Deriving
+        # it as (entries - days) silently misdated 1549 February, which prints a
+        # header row AND 29 slots: the subtraction gave 0, the header leaked in
+        # as 1 February, and every day of the month shifted by one. The Sunday
+        # Letter column is the discriminator -- a real day always carries a
+        # letter, a header slot never does.
+        letter_col = cell_entries(cells[lay["letter"]])
+        offset = 0 if (letter_col and re.fullmatch(r"[A-Ga-g]", letter_col[0].strip())) else 1
         dropped = [emitted[k][1] for k, c in enumerate(counts) if c != modal]
         keep = [emitted[k] for k, c in enumerate(counts) if c == modal]
-        offset = modal - span
-        if offset not in (0, 1) and month == "February":
-            span, offset = 28, modal - 28
-        if offset not in (0, 1):
-            raise ZipError("%s %s: %d entries for a %d-day month"
-                           % (edition, month, modal, span))
+        span = modal - offset
+        allowed = {DAYS_IN[month]} | ({28} if month == "February" else set())
+        if span not in allowed:
+            raise ZipError("%s %s: %d entries minus %d header = %d days, "
+                           "want one of %s"
+                           % (edition, month, modal, offset, span,
+                              sorted(allowed)))
         out.append((month, span, offset, cells, keep, dropped))
     return out
 
