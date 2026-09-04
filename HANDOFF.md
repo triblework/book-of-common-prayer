@@ -11,6 +11,97 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 14 (lectionary & calendar tables) DONE, AWAITING PUBLISH
+
+Built and verified 2026-09-02; **not yet published** (force-push needs the
+maintainer's go-ahead). Nine cells under a new `tables/` family plus two under
+`front-matter/`. Both gates clean: `ingest/w14_fidelity.py` 22 cells / 0
+unattested tokens; `ingest/w14_audit.py` 0 anomalies. Authoring `verify_index`
+reconciles 334 inline VERIFY / 432 provenance items. All three built tips pass
+sentence_split / normalize / verify_index `--check`; no tag carries a
+replacement character.
+
+**THE WAVE-10 DEBT IS PAID.** The 1979 three-year lectionary was NOT missing
+from the e-text — the earlier scan looked at nine files, but the `ASCII_1979`
+index publishes ELEVEN, and the eleventh (`bcplectn.txt`, pp. 887-1001) carries
+both 1979 lectionaries in full. No prior wave had fetched it.
+
+CONTENT: `tables/eucharistic-lectionary.md` (1979, 280 rows, Years A/B/C + Holy
+Days + Common of Saints + Various Occasions) · `tables/daily-office-lectionary.md`
+(1979, 784 rows / 108 weeks) · `tables/calendar.md` (1549/1552/1559/1789/1979;
+365/365/365/366/365 rows) · `tables/proper-lessons.md` (1789 117, 1892 191) ·
+`tables/feasts-and-fasts.md` (1662/1789/1892/1979) ·
+`front-matter/order-how-psalter-appointed.md` (1549/1552/1559/1789) ·
+`front-matter/order-how-rest-of-scripture.md` (+1979).
+
+**RULINGS (maintainer, 2026-09-02) — see `ingest/WAVE14_GUIDE.md`.** One file per
+table; the five content tables in and the golden-number / Sunday-letter / Easter
+grids out as computational apparatus; 1662 left unauthored with the absence made
+legible to readers; the 1928 lectionary fork resolved to the ORIGINAL.
+
+**TWO RULINGS I HAD TO CORRECT MID-WAVE — both were false claims about the books:**
+- **Ruling C was wrong.** 1979 did NOT abolish the civil-date Kalendar. "The
+  Calendar of the Church Year" prints a full twelve-month day-by-day table; what
+  1979 drops is the four LESSON columns. So 1979 is on `tables/calendar.md` and
+  `git diff v1789 v1979 -- texts/normalized/tables/calendar.md` is the flagship.
+- **Ruling F was wrong as written.** "The whole Scottish branch takes `absent:`
+  for tables" would assert that 1637 has no Kalendar; it plainly does. Only 1764
+  (genuinely Communion-only) is absent; 1637 inherits with a recorded gap.
+
+**THE GENERAL LESSON, worth carrying into every future wave:** `absent:` is a
+POSITIVE HISTORICAL CLAIM that the book lacks the section. Where the book has it
+but no allow-listed source gives us its text, the service must be
+PRESENT-BUT-UNAUTHORED (inherits, `status: inherited-unreviewed`) and the gap
+stated in NOTICE.md and SOURCES.md. Wave 12 learned half of this; this wave hit
+it four times.
+
+**PARSER LESSONS:**
+1. In 1549/1552/1559 the Kalendar's numeric column is the THIRTY-DAY PSALTER
+   COURSE, not the date — it restarts inside the month (January runs 1..30 then
+   1). The day of the month is the row POSITION. Reading it as a date would have
+   misdated a third of the year.
+2. The header slot must be detected STRUCTURALLY (does the Sunday-letter column's
+   first entry hold a letter?), never as `entries - days`: 1549 February prints a
+   header AND 29 slots, so the subtraction gave 0, the header leaked in as
+   1 February and every day shifted.
+3. Month tables cannot be located by heading — 1552 labels its months in Latin
+   ("Octobris") and several headings are split across tags. Use row shape, gated
+   on day counts.
+4. A table's TITLE is printed in a preceding row or paragraph, not in the
+   occasion column. Missing this put the 1789 five-column Sundays table and the
+   three-column Holy-Days table under one anchor; the audit gate caught it.
+5. Column positions are best expressed as NEGATIVE offsets from the lesson
+   block: 1789 prints ten months in seven cells and two in eight.
+6. **The trailing-period trap.** `sentence_split.py` splits on `. ` + non-space,
+   so a cell ending in a period BREAKS THE ROW IN HALF. Citations drop their
+   terminal period; a printed list ordinal ("2. Of the Holy Spirit") becomes its
+   own leading field; and the tool gained an additive abbreviation list.
+7. A fidelity gate must build its source token set SEVERAL WAYS — tags stripped,
+   tags removed, hyphenated line breaks undone — or it reports correct readings
+   as invented (`<span>T</span>HOLD`, `con-<br>tinueth`).
+
+METHOD ASSETS: `ingest/WAVE14_SCOPING.md` (survey + the sourcing findings),
+`WAVE14_GUIDE.md` (rulings, row schema, gates), `w14_cite.py` (extends
+`w10_cite` with the rest of the canon and printed extents), `w14_kalendar.py`,
+`w14_1979.py`, `w14_build_1979.py`, `w14_build_1979_calendar.py`,
+`w14_build_calendar.py`, `w14_build_proper.py`, `w14_build_feasts.py`,
+`w14_build_rubrics.py`, `w14_editions.py`, `gen_wave14_provenance.py`,
+`append_wave14_docs.py`, `w14_fidelity.py`, `w14_audit.py`.
+
+**A CORRECTION SHIPS WITH THIS WAVE.** The `sentence_split.py` abbreviation
+additions incidentally fix two places where the splitter broke a sentence
+mid-phrase after an abbreviated "S." — 1552 St. Mark ("thy Evangelist S. Marke")
+and 1637 St. Matthew ("didst call S. Matthew"). Measured against the previous
+tool, those two cells are the only pre-existing text affected.
+
+**CACHE REPAIR.** 71 files in `scrape-cache` still carried U+FFFD from the
+charset bug Wave 11 fixed; that pass had re-fetched only the entries whose
+damage was known to matter. All were re-fetched (`force=True`); the cache is now
+clean. Published output had always been clean — this was a source hazard for any
+NEW ingest.
+
+<!-- Superseded: the Wave-12 block is kept below -->
+
 ## CURRENT — WAVE 12 (the four deferred sections) DONE + PUBLISHED (2026-09-01)
 
 **PUBLISHED 2026-09-01 (force-pushed with maintainer go-ahead). Published tips:
@@ -976,6 +1067,21 @@ transcription — so this is a distinct kind of work from a content wave, and a 
 candidate for a focused resolution pass rather than being folded into one.
 
 Named items, highest value first:
+
+- **The 1928 lectionary fork** (Wave 14, maintainer-ruled). justus publishes the
+  1928 lectionary TWICE: the original (in use 1928-1944) and the 1945 revision
+  (*Psalms and Lessons for the Christian Year*, used 1945-1978). One edition node
+  cannot carry both, so `v1928` denotes the book as published and the 1945
+  revision is DELIBERATELY OMITTED. If the repo ever wants it, it needs its own
+  representation (a second node, or a sibling file) — not a silent overwrite of
+  the 1928 tables. Recorded here so it survives the wave.
+- **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
+  1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
+  recension); 1892's Kalendar (the source HTML has lost the table's row
+  structure); 1928's tables (PDF-only); the 1549-1662 Proper Lessons (printed as
+  ~30 small per-occasion tables with varying column heights); the 1789 "Proper
+  Psalms on Certain Days" table inside the Psalter rubric; and the Scottish
+  line's tables.
 
 - **1662 Prayer for the Royal Family** — the CoE source serves current names
   (Camilla/William); the 1662 original named Catherine/Mary/James. ("King CHARLES"
