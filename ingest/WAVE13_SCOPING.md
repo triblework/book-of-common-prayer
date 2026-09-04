@@ -130,3 +130,55 @@ In all options 1549–1604 and the Scottish line carry a recorded gap (§2.2).
 - `psalter/selections.md` — the 1789 Selections of Psalms (§2.3).
 - `tables/proper-psalms.md` — the Tables of Proper Psalms, closing the Wave-14
   recorded gap (§2.4).
+
+---
+
+## 4. REVISION after maintainer challenge (2026-09-02)
+
+The maintainer asked why older text would be derived from newer. The objection
+is correct and the original option B1 is **WITHDRAWN**.
+
+**The principled problem.** Backward derivation is only as complete as the
+apparatus, and a note's ABSENCE is not evidence that nothing changed — it is
+evidence the editor recorded nothing. A 1789 derived that way could silently
+carry 1928 modernizations, and the fidelity gate would stay GREEN, because every
+word really is attested on the 1928 page. That is the silent-loss failure mode
+pointed backwards, and it is exactly what this project's gates exist to prevent.
+
+**What re-checking the sources turned up.** The original survey had not looked
+hard enough for direct per-edition sources:
+
+- **`1892/Psalms.pdf` EXISTS** — 92 pages, a genuine 1892 source (musical-colon
+  mediant, verses numbered "2.", the 1892 title page), with a full text layer
+  covering all 150 psalms and ~2,335 verses. So 1892 need not be derived at all.
+- **1789 has no usable source.** justus's own 1789 index says "HTML only for the
+  Psalter" and that HTML link points at `../1928/Psalms.htm` — the shared page.
+  The one other candidate, `1789/1790/1790folio.pdf` (72 MB), does carry a text
+  layer, but it is unusable OCR of a long-s original: "C 0 M M U N f 0 N",
+  "BLES (If LE S SON S", "S- B ·.t[· ~TIO· NS OF P·S:ALMS".
+
+**REVISED RULING — every edition from its own source; no backward derivation.**
+
+| Edition | Source | Route |
+|---|---|---|
+| 1662 | CoE, 60 sub-pages | direct |
+| 1892 | `1892/Psalms.pdf` | direct, after a whitespace repair (below) |
+| 1928 | `1928/Psalms{1,2,3}.htm`, the width-400 text column | direct (base text only; the sidebar is NOT applied) |
+| 1979 | `bcpsalt1.txt` + `bcpsalt2.txt` | direct |
+| 1789 | none | **RECORDED GAP** — inherits 1662, `inherited-unreviewed` |
+| 1549–1604, Scottish | none | **RECORDED GAP** |
+
+**The 1892 whitespace repair, and its own risk.** That PDF's text layer is
+letter-spaced: 12.1% of its "words" are single-letter fragments ("wal ked",
+"t he", "P SAL M S"). Repair must NOT be done by dictionary guessing, which
+would silently corrupt a liturgical text. Instead, because the 1892 psalter is
+Coverdale and so very close to 1662, the repair uses **1662 as an alignment
+reference for WHITESPACE ONLY**: it may decide where a space belongs, and may
+never change a letter. Every letter-level divergence between the repaired 1892
+and 1662 is REPORTED, not accepted — each is then either a genuine 1892 reading
+(kept and cited) or a residual artifact (fixed).
+
+That still carries a directional risk of its own — pulling 1892 toward 1662 — so
+the whitespace-only constraint is the gate, and the divergence report is the
+evidence. If the report cannot be made clean, **1892 becomes a recorded gap too**
+rather than shipping a text assembled from guesses.
