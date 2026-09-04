@@ -14,41 +14,62 @@ on its allow-list. All retrievals below were made **2026-08-10**.
 
 This repository models the whole genealogy (all branches and tags) and
 demonstrates the diff mechanism end-to-end. The **transcribed text** now covers
-eight service families at full Tier-1 depth, across every edition that has them:
+nine service families, across every edition that has them:
 
 - **`daily-office/`** — Morning and Evening Prayer
 - **`the-litany/`** — the Litany
 - **`holy-communion/`** — the Communion office, across **all twelve** editions
 - **`occasional-offices/`** — Baptism (public, private, riper years),
   Confirmation, Matrimony, Visitation of the Sick, Burial, Churching,
-  Commination, and the Catechism
+  Commination, the Catechism, the Forms of Prayer to be used at Sea, the
+  American Penitential Office, Family Prayer, and the 1789 Prayer and
+  Thanksgiving to Almighty God
 - **`ordinal/`** — the Preface and the ordering of deacons, priests and bishops
-- **`front-matter/`** — Preface, Concerning the Service, Of Ceremonies, Ratification
+- **`front-matter/`** — Preface, Concerning the Service, Of Ceremonies,
+  Ratification, and the two rubrics that govern the tables (the Order how the
+  Psalter, and how the rest of Holy Scripture, is appointed to be read)
 - **`collects-epistles-gospels/`** — the propers for 106 occasions across the
   church year (collects in full; Epistle and Gospel as their appointed citation)
 - **`prayers-and-thanksgivings/`** — the occasional prayers, state prayers and
   thanksgivings, 135 prayers
+- **`tables/`** — the Kalendar, the Tables of Proper Lessons, the Tables and
+  Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and
+  two-year Daily Office lectionaries, all as normalized long-form (one entry per
+  line, stable column order) so a changed cell is a one-line diff
 
 This is where the tradition's most famous changes live — the 1552 penitential
 introduction; the Holy Communion 1549→1552 restructuring, the moving Gloria in
 Excelsis, the changing words of administration, and the Black Rubric
 appearing/vanishing/returning across 1552/1559/1662; the 1552 baptismal
 simplification; the Reformation stripping of the Burial office in 1552; the 1604
-Catechism sacraments section; and the growth of the occasional prayers from
-nothing in 1549 to eighty-one texts in 1979.
+Catechism sacraments section; the growth of the occasional prayers from nothing
+in 1549 to eighty-one texts in 1979; and, in the tables, the disappearance of the
+Kalendar's four lesson columns between 1789 and 1979 as the readings move into a
+two-year cycle keyed to the church's own weeks rather than to the civil date.
 
 Presence varies by edition and is itself the signal: most families run across the
 ten full-book editions, while the Scottish 1764 "Wee Bookie" and 1929 are
 Communion-only; the Commination is English/Scottish only (the American line drops
 it); the propers and the Prayers and Thanksgivings are absent from 1764/1929.
 
-**Not yet transcribed**, tracked as later waves: the **Psalter**; the
-**lectionary and calendar tables** (including the 1979 three-year lectionary,
-which the single-citation slot in the propers cannot represent); and four smaller
-sections of the book — the *Forms of Prayer to be used at Sea*, the American
-*Penitential Office*, *Family Prayer*, and the 1789 *Prayer and Thanksgiving to
-Almighty God*. Where an edition could not be sourced cleanly, that is stated
-explicitly below rather than filled with invented text.
+**Not yet transcribed**, tracked as a later wave: the **Psalter**. Several tables
+are also carried for some editions but not others; where an edition's own table
+could not be sourced it INHERITS its parent's and is marked
+`inherited-unreviewed` in `provenance.yaml`. **That is a transcription gap, not a
+claim that the edition reprinted its parent unchanged.** The gaps are listed
+below. Where an edition could not be sourced cleanly, that is always stated
+explicitly rather than filled with invented text.
+
+### Recorded gaps in the tables
+
+| Edition | Table | Why |
+|---|---|---|
+| 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
+| 1662 | Kalendar, Proper Lessons, both rubrics | The Church of England serves only the **post-1922 recension** of these (verse-level citations, "or" alternatives, and PDFs that are explicitly the Revised Tables of Lessons Measure 1922). Its *Tables and Rules* and *Vigils and Fasts* PDFs **do** print the 1662 text, and those are transcribed. |
+| 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
+| 1892 | Kalendar | The source HTML has lost the table's row structure — several days are packed into one line-break slot, the packing differs column by column, and continuation lines interleave. No structural rule recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. |
+| 1928 | Kalendar, Proper Lessons, Feasts and Fasts | PDF-only. 1928 also revised its lectionary twice — the original (1928–1944) and the 1945 revision — and one edition node cannot carry both. |
+| 1549–1662 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. |
 
 ---
 
@@ -565,6 +586,35 @@ Each is flagged inline in the text and should be checked against a page scan.
 | `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
 | `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
 | `occasional-offices/prayers-at-sea.md` (1662) | `psalm-cento` | Two runs of psalm verses in the Sea forms (the composite "Hymn of Praise and Thanksgiving" after a tempest, and the one after victory) carry no single printed psalm label, so no citation is supplied for them. The verses are deferred to the Psalter wave along with the labelled psalms. Confirm against a page scan whether the book names a source for either hymn. |
+| 1789 (American) Kalendar | `November Morning 1, Evening 1` | the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month |
+| 1892 (American) Proper Lessons | `Proper Lessons: Morning 2` | the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess |
+| 1979 (American) Daily Office Lectionary | `Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)` | the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed |
+| 1979 (American) Daily Office Lectionary | `Year One / Proper 10 (Week of the Sunday closest to July 13) / Friday` | the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Mark 15:12-21` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Luke 10:1-12,17-20` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Matt. 22:15-22` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `John 2:1-12` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `2 Cor. 5:11-21 Mark 10:35-45` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `1 Cor. 10:14-17,- 42[*]` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Rom. 11:1-12 Matt. 25:1-13` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Year Two / Proper 19 (Week of the Sunday closest to September 14) / Friday` | the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Daily Office Lectionary | `Luke 14:18-30` | the e-text yields 6 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
+| 1979 (American) Eucharistic Lectionary | `Year A: First and Second Sundays of Advent` | the public-domain e-text loses page 889 entirely, taking the '<Year A>' heading, the close of 'Concerning the Lectionary', and Year A's First and Second Sundays of Advent; the rows are absent rather than reconstructed |
+| 1979 (American) Eucharistic Lectionary | `Hebrews 1:1-12, John 1:1-14` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890) |
+| 1979 (American) Eucharistic Lectionary | `John 1:29-41` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890) |
+| 1979 (American) Eucharistic Lectionary | `Matthew 21:1-11` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 892) |
+| 1979 (American) Eucharistic Lectionary | `The Great Vigil: See pages 288-291.` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 893) |
+| 1979 (American) Eucharistic Lectionary | `thew 21:33-43` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 898) |
+| 1979 (American) Eucharistic Lectionary | `Mark 11:1-11a` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 903) |
+| 1979 (American) Eucharistic Lectionary | `Matthew 28:1-10` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 904) |
+| 1979 (American) Eucharistic Lectionary | `John 6:37-51` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 908) |
+| 1979 (American) Eucharistic Lectionary | `Luke 21:25-31` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 911) |
+| 1979 (American) Eucharistic Lectionary | `Luke 2:15-21` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 912) |
+| 1979 (American) Eucharistic Lectionary | `Philippians 3:17--4:1 Luke 13:(22-30)31-35` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913) |
+| 1979 (American) Eucharistic Lectionary | `2 Corinthians 5:17-21 Luke 15:11-32` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913) |
+| 1979 (American) Eucharistic Lectionary | `Luke 19:29-40` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914) |
+| 1979 (American) Eucharistic Lectionary | `The Great Vigil: See pages 288-291` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915) |
+| 1979 (American) Eucharistic Lectionary | `Luke 12:13-21` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919) |
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has
 them. Public/Private Baptism and Confirmation run across the ten daily-office

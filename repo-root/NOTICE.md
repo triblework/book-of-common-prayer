@@ -374,3 +374,36 @@ Charles Wohlers' collection at the Society of Archbishop Justus) cross-checked,
 where practical, against public-domain page scans. Transcription involves
 editorial judgment; passages whose reading is uncertain are marked inline with
 `<!-- VERIFY: ... -->` comments and listed in `SOURCES.md`.
+- **2026-09-02** — Wave 14: the **lectionary and calendar tables**, under a new
+  `tables/` family, represented as normalized long-form (one entry per line,
+  stable column order) so a changed cell is a one-line diff. This wave pays a
+  debt Wave 10 deliberately deferred: the 1979 **three-year (A/B/C) eucharistic
+  lectionary** (280 entries) and the **two-year Daily Office Lectionary** (784
+  entries across 108 weeks) had no representation in the repository at all,
+  because three reading sets per day cannot fit the single-citation slot the
+  historic propers use. Their source is the eleventh part of the public-domain
+  1979 e-text, which no earlier wave had fetched. Also added: the **Kalendar**
+  for 1549/1552/1559/1789/1979, the **Tables of Proper Lessons** for 1789/1892,
+  the **Tables and Rules for the Feasts and Fasts** for 1662/1789/1892/1979, and
+  the two rubrics that govern them under `front-matter/`. Flagship diff:
+  `git diff v1789 v1979 -- texts/normalized/tables/calendar.md`, where the
+  Kalendar's four lesson columns vanish — 1979 keeps the civil-date calendar but
+  moves the readings into a lectionary keyed to the church's own weeks.
+  Presence notes: 1892 and 1928 **merged** both rubrics into *Concerning the
+  Service of the Church*, so those take an explicit absence; 1979 has no
+  successor to the Psalter-order rubric (only two of its six provisions survive,
+  inside the lectionary note) but does have one to the Scripture-order rubric,
+  which it prints as *Concerning the Daily Office Lectionary*. Editions whose own
+  table could not be sourced INHERIT their parent's and are marked
+  `inherited-unreviewed`; those gaps are listed in `SOURCES.md` and are
+  transcription gaps, not claims about the books. The 1979 e-text is missing
+  pages 889, 899 and 909 with their content; those losses are flagged inline and
+  nothing is reconstructed.
+- **2026-09-02** — A correction ships with Wave 14. `tools/sentence_split.py`
+  gained an additive abbreviation list for the forms these tables print, and it
+  incidentally fixes two places where the splitter had been breaking a sentence
+  mid-phrase after an abbreviated "S.": the 1552 collect for Saint Mark
+  ("thy Evangelist S. Marke") and the 1637 collect for Saint Matthew ("didst
+  call S. Matthew"). Additive entries can only prevent a split, and the change
+  was measured against the previous tool: those two cells are the only
+  pre-existing text affected.

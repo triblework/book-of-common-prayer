@@ -11601,3 +11601,390 @@ records:
     verifier: "claude-opus-5 (scripted ingest + two gates)"
     note: "1928 MOVES this office onto the Litany page, where 1892 prints it with Prayers and Thanksgivings — a placement change recorded in NOTICE.md. The 1928 text is substantially longer than 1892's."
   # --- end Wave 12 ---
+
+  # --- Wave 14: lectionary and calendar tables ---
+  - edition: 1549
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1549/Kalendar_1549.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The rubric governing the monthly Psalter course."
+  - edition: 1549
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1549/Kalendar_1549.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The rubric governing the daily lessons."
+  - edition: 1549
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/1549/Kalendar_1549.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The Kalendar with its daily lesson columns. The day of the month is the row POSITION, not the numeric column: that column is the thirty-day Psalter course, which restarts inside the month. The annotation column is labelled \"Kalendar Note\" rather than \"Holy Day\" because the older books print astronomical and law-term notes there alongside saints' days. Golden-number and Kalends columns are excluded as computational apparatus."
+  - edition: 1552
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Kalendar_1552.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "On this page the <a name> anchors mark the psalm TABLE, not the rubric; the prose precedes them."
+  - edition: 1552
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Kalendar_1552.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1549."
+  - edition: 1552
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/1552/Kalendar_1552.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1549. Month tables cannot be located by heading here: this page labels its months in Latin (\"Octobris\"), so they are found by row shape and gated on day counts."
+  - edition: 1559
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Kalendar_1559.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1552."
+  - edition: 1559
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Kalendar_1559.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1552."
+  - edition: 1559
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/1559/Kalendar_1559.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1552."
+  - edition: 1662
+    service: tables/feasts-and-fasts
+    source_url: "https://www.churchofengland.org/sites/default/files/2017-10/4-tables-and-rules.pdf"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "Tables and Rules for the moveable and immoveable feasts, with the Table of the Vigils, Fasts and Days of Abstinence (5-table-vigils-fasts.pdf). These two Church of England PDFs print the 1662 text; the same site's Kalendar and Proper Lessons do NOT, which is why those are a recorded gap at 1662. The golden-number and Easter grids that accompany them are excluded as computational apparatus."
+  - edition: 1789
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The slice stops at the \"Proper Psalms on Certain Days\" table the 1789 book prints within this section; that table is not transcribed (recorded gap)."
+  - edition: 1789
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1559, in the American recension."
+  - edition: 1789
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The American Kalendar. November's two First-Lesson columns carry one entry fewer than the month has days; they are omitted for that month rather than aligned on a guess, which would misdate every following day. The holy-day column wraps long names across line breaks and is rejoined by a rule that refuses to merge genuinely adjacent feasts (St. Stephen, St. John and the Innocents on 26-28 December)."
+    verify_items:
+      - anchor: "calendar"
+        source_reading: "November Morning 1, Evening 1"
+        note: "; the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month"
+  - edition: 1789
+    service: tables/feasts-and-fasts
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Tables&Rules_1789.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "Rules to know when the Moveable Feasts begin, the Table of Feasts and the Table of Fasts. The slice stops before the Tables for finding the Holy-Days, which are apparatus."
+  - edition: 1789
+    service: tables/proper-lessons
+    source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "Tables of Lessons for Sundays and for Holy-Days. Each column is emitted as a single cell; the occasion column carries its section heading as leading fragments, and the count difference against the lesson columns gives exactly how many."
+  - edition: 1892
+    service: tables/feasts-and-fasts
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Lectionary_1892.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "As 1789, from 1892's own page. The printed heading carries an OCR slip (\"for tbe Movable Feasts\")."
+  - edition: 1892
+    service: tables/proper-lessons
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Lectionary_1892.htm"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "Its own page, not shared with 1789. 1892 adds three tables 1789 lacks: the Forty Days of Lent, the Rogation Days and the Ember Days."
+    verify_items:
+      - anchor: "proper-lessons"
+        source_reading: "Proper Lessons: Morning 2"
+        note: "; the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess"
+  - edition: 1979
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/bcplectn.txt"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "1979 prints this rubric as \"Concerning the Daily Office Lectionary\", in the same position in the book and doing the same job. Four of the historic rubric's seven provisions have an analogue: the Old-Testament-first rule, where to find the day's readings, what happens when a feast interrupts the course, and a discretion clause. Mapped on lineage, per Wave-10 Decision C. The Psalter-order rubric has NO 1979 successor and is absent."
+  - edition: 1979
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/bcpoffce.txt"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "1979 did NOT abolish the civil-date Kalendar: \"The Calendar of the Church Year\" prints a full twelve-month day-by-day table. What 1979 drops is the four lesson columns, which move into the two-year Daily Office Lectionary. The golden number printed in the left margin is excluded as apparatus."
+  - edition: 1979
+    service: tables/daily-office-lectionary
+    source_url: "http://justus.anglican.org/resources/bcp/bcplectn.txt"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The two-year Daily Office Lectionary, 784 day entries across 108 weeks. It takes its own path rather than sharing tables/calendar.md: it is keyed by liturgical week, not civil date, so the two are structurally incommensurable (Wave-10 Decision C)."
+    verify_items:
+      - anchor: "daily-office-lectionary"
+        source_reading: "Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)"
+        note: "; the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Year One / Proper 10 (Week of the Sunday closest to July 13) / Friday"
+        note: "; the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Mark 15:12-21"
+        note: "; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Luke 10:1-12,17-20"
+        note: "; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Matt. 22:15-22"
+        note: "; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "John 2:1-12"
+        note: "; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "2 Cor. 5:11-21 Mark 10:35-45"
+        note: "; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "1 Cor. 10:14-17,- 42[*]"
+        note: "; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Rom. 11:1-12 Matt. 25:1-13"
+        note: "; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Year Two / Proper 19 (Week of the Sunday closest to September 14) / Friday"
+        note: "; the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+      - anchor: "daily-office-lectionary"
+        source_reading: "Luke 14:18-30"
+        note: "; the e-text yields 6 readings where this office takes 3; carried exactly as the e-text prints it, not repaired"
+  - edition: 1979
+    service: tables/eucharistic-lectionary
+    source_url: "http://justus.anglican.org/resources/bcp/bcplectn.txt"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The three-year (A/B/C) eucharistic lectionary, which Wave 10 deferred because three reading sets per day cannot fit the single-citation slot the historic propers use. Source is the eleventh part of the public-domain e-text, which no prior wave had fetched. Its pages 889, 899 and 909 are LOST WITH THEIR CONTENT, taking Year A's first two Sundays of Advent and two bands of Propers; the gaps are flagged inline and nothing is reconstructed."
+    verify_items:
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Year A: First and Second Sundays of Advent"
+        note: "; the public-domain e-text loses page 889 entirely, taking the '<Year A>' heading, the close of 'Concerning the Lectionary', and Year A's First and Second Sundays of Advent; the rows are absent rather than reconstructed"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Hebrews 1:1-12, John 1:1-14"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "John 1:29-41"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Matthew 21:1-11"
+        note: "; the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 892)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "The Great Vigil: See pages 288-291."
+        note: "; the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 893)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "thew 21:33-43"
+        note: "; the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 898)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Mark 11:1-11a"
+        note: "; the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 903)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Matthew 28:1-10"
+        note: "; the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 904)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "John 6:37-51"
+        note: "; the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 908)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Luke 21:25-31"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 911)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Luke 2:15-21"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 912)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Philippians 3:17--4:1 Luke 13:(22-30)31-35"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "2 Corinthians 5:17-21 Luke 15:11-32"
+        note: "; the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 913)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Luke 19:29-40"
+        note: "; the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "The Great Vigil: See pages 288-291"
+        note: "; the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915)"
+      - anchor: "eucharistic-lectionary"
+        source_reading: "Luke 12:13-21"
+        note: "; the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919)"
+  - edition: 1979
+    service: tables/feasts-and-fasts
+    source_url: "http://justus.anglican.org/resources/bcp/bcpoffce.txt"
+    retrieved: 2026-09-02
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "The lineal successor: \"The Calendar of the Church Year\" rebuilds this material around a precedence scheme -- Principal Feasts, Sundays, Holy Days, Days of Special Devotion, Days of Optional Observance."
+  - edition: 1604
+    service: front-matter/order-how-psalter-appointed
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. No allow-listed 1604 source; inherits 1559."
+    verify_items: []
+  - edition: 1604
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. No allow-listed 1604 source; inherits 1559."
+    verify_items: []
+  - edition: 1604
+    service: tables/calendar
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. No allow-listed 1604 source exists (the same gap Wave 10 recorded for the 1604 propers), so 1604 inherits 1559."
+    verify_items: []
+  - edition: 1637
+    service: front-matter/order-how-psalter-appointed
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. Not transcribed for the Scottish line; 1637 inherits 1604. The 1637 page does carry this rubric."
+    verify_items: []
+  - edition: 1637
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. Not transcribed for the Scottish line; 1637 inherits 1604."
+    verify_items: []
+  - edition: 1637
+    service: tables/calendar
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. The Scottish line is transcribed for the Communion; the 1637 Kalendar is not transcribed and 1637 inherits 1604. The 1637 book does print a Kalendar."
+    verify_items: []
+  - edition: 1662
+    service: front-matter/order-how-psalter-appointed
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. The Church of England text of this rubric is the post-1922 recension (it refers to alternative Second Lessons appointed in the Table). 1662 inherits 1559; the 1662 book did print its own."
+    verify_items: []
+  - edition: 1662
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. Post-1922 recension on the CoE site; 1662 inherits 1559."
+    verify_items: []
+  - edition: 1662
+    service: tables/calendar
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. The Church of England serves only the POST-1922 recension of the Kalendar (verse-level citations, \"or\" alternatives, and three PDFs that are explicitly the Revised Tables of Lessons Measure 1922). No allow-listed source gives 1662's own Kalendar, so 1662 inherits 1559. THE 1662 BOOK DID PRINT ITS OWN KALENDAR: this is a transcription gap, not a claim that 1662 reprinted 1559."
+    verify_items: []
+  - edition: 1892
+    service: tables/calendar
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. The justus HTML for the 1892 Kalendar has LOST the table's row structure: several days are packed into one line-break slot (\"5 6 7\"), the packing differs column by column, and continuation lines interleave. No structural discriminator recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. 1892 inherits 1789."
+    verify_items: []
+  - edition: 1928
+    service: tables/calendar
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. 1928's Kalendar is PDF-only and, unlike its predecessors, prints no lesson columns (1928 moved the lessons into a separate table). Not transcribed this wave; 1928 inherits 1892."
+    verify_items: []
+  - edition: 1928
+    service: tables/feasts-and-fasts
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. PDF-only; not transcribed this wave. 1928 inherits 1892."
+    verify_items: []
+  - edition: 1928
+    service: tables/proper-lessons
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-02
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
+    note: "RECORDED GAP. 1928 revised its lectionary twice -- the original (in use 1928-1944) and the 1945 revision. Only PDF sources exist and one edition node cannot carry both, so 1928 inherits 1892 and the fork is recorded in NOTICE.md."
+    verify_items: []
+  # --- end Wave 14 ---

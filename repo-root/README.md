@@ -176,8 +176,10 @@ Ceremonies*, writes its own **Preface** ("It is a most invaluable part of that
 blessed liberty…") and adds **The Ratification** of 1789; the 1979 book then
 re-adds a modern *Concerning the Service of the Church*.
 
-**Coming soon** (in progress): the Collects, Epistles & Gospels; the Psalter and
-lectionary tables will follow. All twelve tags carry sourced text (the earlier
+The **lectionary and calendar tables** are transcribed under `tables/` as
+normalized long-form — the Kalendar, the Tables of Proper Lessons, the Tables and
+Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and two-year
+Daily Office lectionaries. **Coming soon**: the Psalter. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 
@@ -195,6 +197,11 @@ git diff v1549 v1552 -- texts/normalized/daily-office/morning-prayer.md
 # The Holy Communion restructuring of 1552 — the Gloria in Excelsis moves from an
 # early position to near the end, and the memorial words of administration change:
 git diff v1549 v1552 -- texts/normalized/holy-communion/holy-communion.md
+
+# The Kalendar loses its lesson columns between 1789 and 1979: the American 1979
+# book keeps a civil-date calendar but moves the readings into a two-year cycle
+# keyed to the church's own weeks, so the four lesson columns simply vanish:
+git diff v1789 v1979 -- texts/normalized/tables/calendar.md
 
 # The Black Rubric (Declaration on Kneeling) appears in 1552, vanishes in 1559,
 # and returns in 1662 — visible across three Communion diffs:
