@@ -11,10 +11,13 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 14 (lectionary & calendar tables) DONE, AWAITING PUBLISH
+## CURRENT — WAVE 14 (lectionary & calendar tables) DONE + PUBLISHED (2026-09-02)
 
-Built and verified 2026-09-02; **not yet published** (force-push needs the
-maintainer's go-ahead). Nine cells under a new `tables/` family plus two under
+**PUBLISHED 2026-09-02 (force-pushed with maintainer go-ahead). Published tips:
+`main 2b398dc · scottish d47c37e · american 45fa124`; all 12 tags recreated;
+local==remote verified for all 3 branches + 12 tags (15 refs, 0 mismatched);
+flagship diffs render on the published refs; no published tag carries a
+replacement character.** Nine cells under a new `tables/` family plus two under
 `front-matter/`. Both gates clean: `ingest/w14_fidelity.py` 22 cells / 0
 unattested tokens; `ingest/w14_audit.py` 0 anomalies. Authoring `verify_index`
 reconciles 334 inline VERIFY / 432 provenance items. All three built tips pass
