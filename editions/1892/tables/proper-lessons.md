@@ -1,6 +1,6 @@
 # Tables of Proper Lessons
 
-## Proper Lessons
+## A TABLE OF PROPER LESSONS FOR SUNDAYS.
 
 In Advent | Morning 1: — | Morning 2: — | Evening 1: — | Evening 2: —
 1 | Morning 1: Isaiah 1 to v. 28 | Morning 2: Luke— 1 to v. 26 | Evening 1: Isaiah— 2 | Evening 2: Revelation— 1
@@ -69,9 +69,9 @@ After Trinity | Morning 1: — | Morning 2: — | Evening 1: — | Evening 2: �
 Next before Ad- | Morning 1: — | Morning 2: — | Evening 1: — | Evening 2: —
 vent | Morning 1: Malaohi— 3& 4 | Morning 2: 16 | Evening 1: Eccles. 11 & 12 | Evening 2: Jude—
 
-## Proper Lessons
+## A TABLE OF PROPER LESSONS FOR HOLY-DAYS.
 
-<!-- VERIFY: 'Proper Lessons: Morning 2'; the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess -->
+<!-- VERIFY: 'A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2'; the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess -->
 
 St. Andrew | Morning 1: Numbers 10 v.29 | Evening 1: Isaiah—55 | Evening 2: John 12 v.20 to 42
 St. Thomas | Morning 1: 2 Kings 6 v.8 to 24 | Evening 1: 2 Kings 7 | Evening 2: 14 to v.15
@@ -126,7 +126,7 @@ St. Simon and | Morning 1: — | Evening 1: — | Evening 2: —
 St. Jude | Morning 1: Isaiah 28 v.9 to 19 | Evening 1: Jeremiah 3 v.12 | Evening 2: Jude
 All Saints | Morning 1: Wisdom 2 to v.10 | Evening 1: Wisdom 5 to v.17 | Evening 2: Revel. 19 to v.17
 
-## Proper Lessons
+## A TABLE OF LESSONS FOR THE FORTY DAYS OF LENT.
 
 LENT | Morning 1: — | Morning 2: — | Evening 1: — | Evening 2: —
 1 | Ash-wednesd'y | Morning 1: Isaiah— 58 | Morning 2: Luke— 15 | Evening 1: Jonah— 3 | Evening 2: Hebr. 12 to v.18

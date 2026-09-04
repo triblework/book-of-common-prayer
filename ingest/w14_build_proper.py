@@ -76,14 +76,43 @@ def slice_page(edition):
     return tail[:e.start() + 1] if e else tail
 
 
+HEADINGISH = re.compile(r"<(?:p|td)[^>]*>(.*?)</(?:p|td)>", re.S | re.I)
+
+
+def _title_before(seg, pos):
+    """The nearest short, heading-like block before `pos`."""
+    best = None
+    for m in HEADINGISH.finditer(seg, 0, pos):
+        txt = K._clean(m.group(1))
+        # The nearest preceding block is usually a COLUMN HEADER ("2d Lesson.",
+        # "EVENING."), so the title is identified by naming itself a table --
+        # every one of these does ("A TABLE OF LESSONS FOR SUNDAYS").
+        if 4 < len(txt) < 90 and re.search(r"\bTABLE\b", txt, re.I):
+            best = txt
+    return best or ""
+
+
 def tables(edition):
     """-> [(heading, [(occasion, [values]), ...], labels, dropped)]"""
     seg = slice_page(edition)
     out = []
-    for tr in K.table_rows(seg):
-        cells = K.row_cells(tr)
+    # A table's TITLE ("A TABLE OF LESSONS FOR SUNDAYS") is printed in a
+    # preceding single-cell row, not inside the occasion column, so it must be
+    # carried forward. Without it every table landed under one anchor and the
+    # five-column Sundays table sat beside the three-column Holy-Days table as
+    # if they were one -- which the audit gate caught as a column-shape split.
+    # Titles appear EITHER in a preceding single-cell row (1789) OR in a <p>
+    # element between the tables (1892), so the lookup must be position-aware:
+    # take the nearest short heading-like block before this row. Using only the
+    # single-cell form gave all three 1892 tables the same title, which the
+    # audit gate caught as three differently-shaped tables under one anchor.
+    for m in re.finditer(r"<tr[^>]*>(.*?)</tr>", seg, re.S | re.I):
+        cells = K.row_cells(m.group(1))
+        if len(cells) == 1:
+            continue
         if len(cells) not in LABELS:
             continue
+        pending = _title_before(seg, m.start())
         cols = [K.cell_entries(c) for c in cells]
         if max(len(c) for c in cols) < 5:
             continue
@@ -97,7 +126,7 @@ def tables(edition):
         nhead = len(occ) - modal
         if nhead < 0:
             continue                     # not a proper-lesson table
-        heading = " ".join(x for x in occ[:nhead] if x).strip()
+        heading = " ".join(x for x in occ[:nhead] if x).strip() or pending or ""
         rows = []
         for r in range(modal):
             name = occ[nhead + r].strip()

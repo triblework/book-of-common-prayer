@@ -11745,7 +11745,7 @@ records:
     note: "Its own page, not shared with 1789. 1892 adds three tables 1789 lacks: the Forty Days of Lent, the Rogation Days and the Ember Days."
     verify_items:
       - anchor: "proper-lessons"
-        source_reading: "Proper Lessons: Morning 2"
+        source_reading: "A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2"
         note: "; the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess"
   - edition: 1979
     service: front-matter/order-how-rest-of-scripture

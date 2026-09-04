@@ -1,6 +1,6 @@
 # Tables of Proper Lessons
 
-## Proper Lessons
+## A TABLE OF LESSONS FOR SUNDAYS.
 
 1 S. in Ad | Morning 1: Isa. 1 | Morning 2: Luke 1 to v.39 | Evening 1: Isa. 2 | Evening 2: Rom. 10
 2 | Morning 1: 5 | Morning 2: 1 v.39 | Evening 1: 24 | Evening 2: 12
@@ -60,7 +60,7 @@ Trin. Sund | Morning 1: Gen. 1 | Morning 2: Matt. 3 | Evening 1: Gen. 2 | Evenin
 26 | Morning 1: 13 | Morning 2: 15 | Evening 1: 14 | Evening 2: Jude
 27 | Morning 1: 15 | Morning 2: 16 | Evening 1: 16 | Evening 2: 2 John
 
-## Proper Lessons
+## A TABLE OF LESSONS FOR HOLY-DAYS.
 
 St. Andrew | Morning: Prov. 20 | Evening: Prov 21
 St. Thomas | Morning: 23 | Evening: 24
