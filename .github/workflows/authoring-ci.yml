@@ -30,7 +30,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: python -m pip install -r requirements.txt
+        # requirements.txt is stamped into published commits from repo-root/;
+        # on this branch it lives there, not at the checkout root.
+        run: python -m pip install -r repo-root/requirements.txt
 
       - name: inline VERIFY comments reconcile with provenance.yaml
         run: python tools/verify_index.py --root . --check
