@@ -11,10 +11,13 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 13 (the Psalter) DONE, AWAITING PUBLISH
+## CURRENT — WAVE 13 (the Psalter) DONE + PUBLISHED (2026-09-11)
 
-Built and verified 2026-09-11; **not yet published** (force-push needs the
-maintainer's go-ahead). With this wave every family the spec names is in the
+**PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
+`main 6f24790 · scottish e6922b8 · american eaf29c4`; all 12 tags recreated;
+local==remote verified for all 3 branches + 12 tags (15 refs, 0 mismatched);
+flagship diffs render on the published refs; no published tag carries a
+replacement character.** With this wave every family the spec names is in the
 repository; what remains is recorded gaps and the open VERIFY backlog.
 
 CONTENT: `psalter/psalms-{1-50,51-100,101-150}.md` for **1662, 1892, 1928,
