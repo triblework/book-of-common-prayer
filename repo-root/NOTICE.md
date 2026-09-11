@@ -426,6 +426,12 @@ The published branches and tags are build artifacts, regenerated from the
   broken 25 Coverdale verses and 180 of 1979's across two lines, one of them
   without its number. Verse files still get whitespace and blank-line
   normalization. Every file outside `psalter/` behaves exactly as before.
+- **2026-09-11** — A records-only rebuild. The Wave 14 and Wave 13 entries above
+  had been placed after this log's closing heading instead of inside it; they are
+  moved back, unchanged. The reader's viewer builder is also corrected (it now
+  reads this file and `SOURCES.md` from the resolved branch tip, so the viewer's
+  per-edition source details are no longer blank). No text under `texts/`
+  changed: every tag's `texts/` tree is byte-identical to the previous build.
 
 ## A note on transcription
 
