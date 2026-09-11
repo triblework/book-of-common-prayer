@@ -53,12 +53,31 @@ def pages():
     return ["https://www.churchofengland.org" + u for u in urls]
 
 
+MULTI = []
+
+
 def parse_page(url):
+    """A verse paragraph can hold SEVERAL verses: the CoE packs Psalm 17's
+    verses 14, 15 and 16 into one <p class="vlpsalm">, separated by <br>, each
+    with its own number span. Treating a paragraph as a verse merged them
+    silently -- the verse-run gate stayed green, and only the mediant count
+    (three in one "verse") and the cross-edition verse count exposed it. So a
+    paragraph is split at every <br> that precedes a verse-number span."""
     import scrape
     h = scrape.fetch(url)
     i = h.find('<div id="bcp">')
     j = h.find("</article>", i)
-    return P.findall(h[i:j])
+    out = []
+    for cls, body in P.findall(h[i:j]):
+        if cls == "vlpsalm":
+            parts = re.split(r'<br\s*/?>\s*(?=<span class="vlversenumber">)', body)
+            if len(parts) > 1:
+                MULTI.append((url.rsplit("/", 1)[-1], len(parts)))
+            for part in parts:
+                out.append((cls, part))
+        else:
+            out.append((cls, body))
+    return out
 
 
 def parse():
@@ -158,6 +177,7 @@ if __name__ == "__main__":
           % (len(ps), sum(len(p["verses"]) for p in ps.values()),
              sum(1 for p in ps.values() if p["incipit"]),
              sum(1 for v in ps.get(119, {"verses": []})["verses"] if v[2])))
+    print("paragraphs holding several verses (split): %d %s" % (len(MULTI), MULTI))
     print("joined split verses: %d  %s" % (len(JOINED), JOINED))
     print("dropped boilerplate: %d  %s" % (len(DROPPED), DROPPED))
     print("GATE:", "clean" if not bad else "%d problems" % len(bad))

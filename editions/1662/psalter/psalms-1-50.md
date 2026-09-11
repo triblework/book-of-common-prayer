@@ -45,6 +45,7 @@ Why do the heathen so furiously rage together : and why do the people imagine a 
 11 Serve the Lord in fear : and rejoice unto him with reverence.
 
 12 Kiss the Son, lest he be angry, and so ye perish from the right way, if his wrath be kindled, (yea but a little) blessed are all they that put their trust in him.
+<!-- VERIFY: 'no mediant'; the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan -->
 
 ## Psalm 3
 
@@ -452,7 +453,11 @@ Hear the right, O Lord, consider my complaint : and hearken unto my prayer, that
 
 13 Up, Lord, disappoint him, and cast him down : deliver my soul from the ungodly, which is a sword of thine;
 
-14 From the men of thy hand, O Lord, from the men, I say, and from the evil world : which have their portion in this life, whose bellies thou fillest with thy hid treasure. They have children at their desire : and leave the rest of their substance for their babes. But as for me, I will behold thy presence in righteousness : and when I awake up after thy likeness, I shall be satisfied with it.
+14 From the men of thy hand, O Lord, from the men, I say, and from the evil world : which have their portion in this life, whose bellies thou fillest with thy hid treasure.
+
+15 They have children at their desire : and leave the rest of their substance for their babes.
+
+16 But as for me, I will behold thy presence in righteousness : and when I awake up after thy likeness, I shall be satisfied with it.
 
 ## Psalm 18
 
