@@ -45,9 +45,10 @@ HTML_SOURCES = {
     "1789": (J + "1789/Tables&Rules_1789.htm",
              r"RULES, to know when the Moveable Feasts",
              r"TABLES FOR FINDING THE HOLY-DAYS"),
-    "1892": (J + "1892/Lectionary_1892.htm",
-             r"Tables and Rules for t.e Movable",
-             r"THE Numbers prefixed to the several Days|TO FIND THE DOMINICAL"),
+    # 1892 moved to w16_build.feasts_1892 (Wave 16): this markdown slice
+    # emitted one HTML fragment per line, splitting wrapped entries and brace
+    # columns, so `v1892 -> v1928` was mostly re-lining. Same source, same
+    # words; the builder there rebuilds the lines in the 1928 cell's shape.
 }
 
 DROP = re.compile(r"^(The Book of Common Prayer|United States England|"

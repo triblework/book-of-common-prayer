@@ -59,10 +59,12 @@ the Christian Year" with separate psalm tables, and the 1945 book combines them.
   text-layer reading is no longer what the parser produces fails the build.
   Nothing is computed; the Calendar's letter cycle only *finds* the defects.
 - **One inline VERIFY:** Palm Sunday's "Also: 24, 130, 132" (proper-psalms).
-  The scan's last digit is damaged.
+  The scan's last digit is damaged. **WITHDRAWN in Wave 16** — the figure is
+  this face's old-style 1, and the 1936 printing prints 131 cleanly; the text
+  layer's reading stands and the VERIFY is resolved (see WAVE16_GUIDE.md).
 
-Totals: 229 corrections (calendar 13, feasts 10, psalms 14, rubrics 2, lessons
-190).
+Totals: 228 corrections (calendar 13, feasts 10, psalms 13, rubrics 2, lessons
+190) — 229 as Wave 15 shipped, less the withdrawn one.
 
 ## Row schema (as Wave 14)
 

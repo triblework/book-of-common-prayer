@@ -448,7 +448,8 @@ The published branches and tags are build artifacts, regenerated from the
   Every row was therefore compared with a scan of the **original 1928
   printing**, and where the two disagree the scan's reading is carried: 229
   corrections, each recorded with its book page. One reading, a damaged digit,
-  is flagged inline. Flagship diffs: `git diff v1892 v1928 --
+  is flagged inline. (Wave 16 withdrew one of those corrections and resolved
+  that flag; see below.) Flagship diffs: `git diff v1892 v1928 --
   texts/normalized/tables/proper-lessons.md`, where 1892's proper lessons for
   Sundays, holy days and Lent give way to a table of lessons for every day of
   the Christian year (the daily readings having left the Kalendar), and `git diff v1928
@@ -472,6 +473,45 @@ The published branches and tags are build artifacts, regenerated from the
   - Still wrong, and recorded rather than fixed: 1892 and 1928 also print a
     short American *Concerning the Service of the Church*, which the history
     does not carry for them (see `SOURCES.md`, Front-matter).
+
+- **2026-09-11** — Wave 16: the **backlog pass**. No new family; this wave works
+  through items earlier waves recorded rather than fixed, using two witnesses
+  justus also serves — a keyed text of the **1892 Standard Book** and a scan of a
+  **1936 printing** of the 1928 book.
+  - **Concerning the Service of the Church, 1892 and 1928.** Wave 15 found that
+    both books print a short American rules text under that title while the
+    history carried none for them, and left the slot question open, because this
+    file's earlier history is the 1549 Preface. It is answered the way Wave 9
+    answered it for 1979: the file holds what a book prints under that title. So
+    1892 introduces the American text, 1928 rewrites it, and 1979 replaces it,
+    while 1789 — which prints nothing under the title — still deletes the file.
+    Each cell stops before the two "Order how…" rubrics that follow it in the
+    book, which are their own files. Flagship diff: `git diff v1892 v1928 --
+    texts/normalized/front-matter/concerning-the-service.md`.
+  - **The 1892 Selections of Psalms are transcribed; the recorded gap closes.**
+    justus's index links this edition's Selections to the 1789 page — the "looks
+    shared" trap that Wave 13 recorded — but the 1892 front-matter page prints
+    the book's own table: twenty selections where 1789 had ten, untitled where
+    1928 would give each a title. Every row agrees with the Standard Book.
+  - **Three corrected values in the 1892 Proper Psalms, and both of that table's
+    VERIFYs resolved.** Its source page is an OCR-grade keying that reads 3 as 8:
+    it printed the impossible Psalms 180 and 190. The Standard Book reads 130 and
+    108, and justus's own separately keyed copy of the table agrees; the same
+    comparison caught a third value the VERIFYs could not see (Transfiguration
+    evening 132 → 133) and five day names with keying artefacts.
+  - **The 1892 Tables and Rules for the Feasts and Fasts are rebuilt** in the
+    shape of the 1928 cell, with no word changed. Wave 14 had emitted one HTML
+    fragment per line, so wrapped entries and the columns of the two brace tables
+    read as separate lines and `v1892 → v1928` was mostly re-lining. The braces
+    are now read across, as 1928 sets the same rules in sentences.
+  - **The 1928 Palm Sunday psalms read "Also: 24, 130, 131" again.** Wave 15 read
+    the original printing's damaged final figure as a 2 and carried 132 under a
+    flag. At pixel level the figure is this typeface's old-style 1, and the 1936
+    printing — a different setting, in lining figures — prints 131 cleanly.
+  - Recorded, not fixed: the fourteen 1892 **Psalter** flags stand. The Standard
+    Book's Psalter file looked like a witness for them, but it repeats the
+    carrier's own slips, so the two are one keying; they differ in about 470
+    words and it is not known which was edited. That needs a page scan.
 
 ## A note on transcription
 

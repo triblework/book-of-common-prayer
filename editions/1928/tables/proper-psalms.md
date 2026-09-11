@@ -7,8 +7,7 @@ The Epiphany | Morning: 46, 47, 48 | Evening: 72, 117, 135 | Also: 19, 67, 87, 9
 The Purification | Morning: 20, 86, 87 | Evening: 84, 113, 134 | Also: 48, 138
 Ash Wednesday | Morning: 6, 32, 38 | Evening: 102, 130, 143
 The Annunciation | Morning: 89:1-30 | Evening: 131, 132, 138 | Also: 113
-Palm Sunday | Morning: 97, 110 | Evening: 22, 23 | Also: 24, 130, 132
-<!-- VERIFY: '132' the scan's final digit is damaged; it has the form of this face's old-style 2, not its serifed 1, but the text layer keys 131. Carried as the scan reads; confirm against a clean copy of the 1928 printing -->
+Palm Sunday | Morning: 97, 110 | Evening: 22, 23 | Also: 24, 130, 131
 Holy Week | Psalms: 42, 43, 51, 71, 74, 94, 116, 120, 141, 142; or any of the Psalms for Ash Wednesday or Good Friday
 Good Friday | Morning: 22:1-9, 40:1-16, 54 | Evening: 69:1-22, 88 | Also: 64
 Easter Even | Morning: 4, 16, 17 | Evening: 30, 31 | Also: 27

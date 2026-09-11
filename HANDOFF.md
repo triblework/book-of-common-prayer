@@ -11,6 +11,38 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 16 (the backlog pass) BUILT, NOT YET PUBLISHED
+
+**Scope: items HANDOFF §8 recorded, not a new family.** Guide:
+`ingest/WAVE16_GUIDE.md`. Scripts: `w16_build.py`, `w16_witness.py`,
+`w16_editions.py`, `gen_wave16_provenance.py`, `w16_gates.py` (+ edits in
+`w13_build_extras.py`, `w15_witness.py`, `w15_audit.py`, `w14_build_feasts.py`).
+
+What shipped in this wave:
+
+1. **Concerning the Service of the Church for 1892 and 1928** — the slot
+   question is answered by the Wave-9 precedent: the file holds what a book
+   prints under that title. 1789 keeps its `absent:`.
+2. **1892 Selections of Psalms** transcribed (twenty), closing the Wave-13
+   recorded gap: justus's index links 1789's page, but the 1892 front-matter
+   page prints the book's own table.
+3. **1892 Proper Psalms**: 7 corrections from the 1892 Standard Book keying,
+   each confirmed by justus's own second copy of the table. Both VERIFYs
+   ('180', '190') resolved, and a third bad value found (132 → 133).
+4. **1892 Tables and Rules** rebuilt in the 1928 cell's line shape, no word
+   changed (gate proves it).
+5. **1928 Palm Sunday**: '132' withdrawn, 131 restored, VERIFY resolved. The
+   Wave-15 witness total is now 228, and `w15_audit` asserts that.
+
+Gates green: `w16_gates` 0 anomalies, `w15_fidelity` 0 unattested + 18/18
+sensitivity, `w15_audit` 0 anomalies, `w14_fidelity`/`w14_audit`,
+`verify_index --check` OK.
+
+**To publish** (needs maintainer go-ahead on the force-push) — the Wave-15
+block below has the exact six steps; they are unchanged.
+
+---
+
 ## CURRENT — WAVE 15 (the 1928 tables) DONE + PUBLISHED (2026-09-11)
 
 **PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
@@ -1216,11 +1248,13 @@ write a fresh HANDOFF section rather than rushing.
 
 ## 8. Open verify items to resolve (carry forward; don't lose these)
 
-**402 verify_items are open**, and they are concentrated: propers 184,
-occasional-offices 130, daily-office 26, holy-communion 24, ordinal 16, litany 13,
-prayers-and-thanksgivings 5, front-matter 4. Most need a **page scan**, not more
+**462 verify_items are open** (2026-09-11, after Wave 16), and they are
+concentrated: propers 184, occasional-offices 131, tables 29, psalter 29,
+daily-office 26, holy-communion 24, ordinal 16, litany 13,
+prayers-and-thanksgivings 5, front-matter 5. Most need a **page scan**, not more
 transcription — so this is a distinct kind of work from a content wave, and a good
-candidate for a focused resolution pass rather than being folded into one.
+candidate for a focused resolution pass rather than being folded into one. Wave 16
+was the first such pass; what it could not settle is listed below.
 
 Named items, highest value first:
 
@@ -1230,21 +1264,19 @@ Named items, highest value first:
   Lessons for the Christian Year*, used 1945-1978), which is DELIBERATELY
   OMITTED. If the repo ever wants it, it needs its own representation (a second
   node, or a sibling file) — not a silent overwrite of the 1928 tables.
-- **Concerning the Service of the Church, 1892 and 1928** (Wave 15 finding,
-  ruled to the backlog). Both books print a short American rules text under
-  that title (1892 `Front_Matter_1892.htm`; 1928 `Lectionary_1928.pdf` sheet 1),
-  but `front-matter/concerning-the-service` is `absent:` at 1789 and so absent
-  at 1892/1928 too. That file's history is the 1549 Preface, so decide slot
-  identity first (the same file, or a new American one?), then author. Stated
-  in SOURCES (Front-matter) and README.
-- **The 1928 Palm Sunday "Also: 24, 130, 132"** (Wave 15 VERIFY): the scan's
-  last digit is damaged; the text layer keys 131. Check a clean copy of the
-  1928 printing.
-- **The 1892 Tables and Rules for the Feasts and Fasts is line-fragmented**
-  (Wave 14 cell: the Rules' phrases and the tables' cells one fragment per line
-  — "Forty Days", "after Easter.", "I." / "The Forty Days of Lent."). `v1892 → v1928` on that file therefore shows much
-  re-lining besides real change. A rebuild in 1928's shape would make that diff
-  honest; the text is correct as it stands.
+- **The 1892 Psalter's two keyings** (Wave 16 finding, the biggest open item).
+  `1892Standard/psalter.pdf` looked like a witness for the fourteen 1892
+  Psalter VERIFYs, but it repeats the carrier's own freak slips ("Eqypt",
+  "stretch our her hands"), so the two files are ONE keying; and they differ in
+  about 470 words, mostly *shew*/*show* and *judgement*/*judgment*, with the
+  direction of the edit unknown. Settling this needs a page scan — justus
+  serves `1892Standard/1892standard.pdf` (70 MB, the subscribers' edition) and
+  `1892/BCP1892.pdf` (7 MB); neither has been fetched. It would resolve the 14
+  VERIFYs and decide the Psalter's spelling for `v1892` as a whole.
+- **1789's Ascension-day proper psalms, "24, 47, 103"** (Wave 16 lead, NOT a
+  correction). At 1892 the same row reads 24, 47, 108 on two witnesses. The
+  1789 cell's "103" comes from one OCR'd page and may be the same class of
+  misreading, but nothing attests that; check a 1789 scan before touching it.
 - **The Psalter's recorded gaps** (Wave 13): 1549-1604 (no source; the Psalter
   first appears at v1662 as a graph artefact), 1789 (no usable source — backward
   derivation rejected; note justus's dated change table 1789/Psalter1789&1892.htm
@@ -1255,8 +1287,8 @@ Named items, highest value first:
 - **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
   1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
   recension); 1892's Kalendar (the source HTML has lost the table's row
-  structure); 1892's Selections of Psalms (justus links 1789's page; 1928's,
-  the same false link, was closed in Wave 15); the 1549-1662 Proper Lessons (printed as
+  structure) — 1892's and 1928's Selections of Psalms, the same false link to
+  1789's page, were closed in Waves 16 and 15; the 1549-1662 Proper Lessons (printed as
   ~30 small per-occasion tables with varying column heights); the 1789 "Proper
   Psalms on Certain Days" table inside the Psalter rubric; and the Scottish
   line's tables.

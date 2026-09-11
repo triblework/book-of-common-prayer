@@ -281,8 +281,9 @@ def witness():
     n = {"calendar": len(W.CALENDAR), "feasts": len(W.FEASTS),
          "psalms": len(W.PSALMS), "rubrics": len(W.RUBRICS),
          "lessons": len(W.LESSONS)}
-    expect("witness corrections (calendar 13, feasts 10, psalms 14, "
-           "rubrics 2, lessons 190)", sum(n.values()), 229)
+    # Wave 16 withdrew one psalms entry (Palm Sunday "132"; see w15_witness).
+    expect("witness corrections (calendar 13, feasts 10, psalms 13, "
+           "rubrics 2, lessons 190)", sum(n.values()), 228)
 
 
 def main():

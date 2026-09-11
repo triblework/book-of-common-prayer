@@ -105,9 +105,19 @@ def main():
     # 1789 prints for the same day, as corroboration -- never as a correction.
     ref1789 = {re.sub(r"[^a-z]", "", d.lower()): (m, e) for d, m, e in
                proper_table(J + "1789/FrontMatter_1789.htm", "Psalms on Certain Days")}
+    # Wave 16: the carrier's misreadings are corrected from the 1892 Standard
+    # Book, each confirmed by justus's separately keyed front-matter copy of
+    # the table (w16_witness.PROPER_1892). That resolves both impossible
+    # numbers, so the VERIFY branch below no longer fires.
+    sys.path.insert(0, HERE)
+    import w16_witness as W16
+    carried = "\n".join("%s | Morning: %s | Evening: %s" % r for r in
+                        proper_table(J + "1892/Psalms_1892.htm", "PROPER PSALMS"))
+    carried = W16.apply(carried, W16.PROPER_1892, "1892 proper-psalms")
     rows = []
-    for d, m, e in proper_table(J + "1892/Psalms_1892.htm", "PROPER PSALMS"):
-        rows.append("%s | Morning: %s | Evening: %s" % (d, m, e))
+    for row in carried.split("\n"):
+        d, m, e = [re.sub(r"^\w+: ", "", f) for f in row.split(" | ")]
+        rows.append(row)
         if re.search(r"\b1(9\d|[5-9]\d\d)\b", m + " " + e) or any(
                 int(x) > 150 for x in re.findall(r"\d+", m + " " + e)):
             bad = [x for x in re.findall(r"\d+", m + " " + e) if int(x) > 150]

@@ -103,13 +103,13 @@ PSALMS = [
     {"table": "proper", "text_layer": "Psalms: 97, 110; 22. 23",
      "scan": "Morning: 97, 110 | Evening: 22, 23",
      "why": "keyed period for comma (as above)", "page": 4, "book": "vii"},
-    {"table": "proper", "text_layer": "Also: 24, 130, 131", "scan": "Also: 24, 130, 132",
-     "why": "the text layer keys 131",
-     "verify": "the scan's final digit is damaged; it has the form of this "
-               "face's old-style 2, not its serifed 1, but the text layer keys "
-               "131. Carried as the scan reads; confirm against a clean copy "
-               "of the 1928 printing",
-     "page": 4, "book": "vii"},
+    # WITHDRAWN in Wave 16. Wave 15 read Palm Sunday's damaged last figure as
+    # "132" (VERIFY) and overrode the text layer's "131". Re-examined at pixel
+    # level, the figure has a serifed top with its stem centred beneath it --
+    # this face's old-style 1; the old-style 2 of "24" on the same line hooks
+    # to the right. The 1936 printing (1928/BCP1936.pdf scan p. 6, book p. x;
+    # a new setting in lining figures) prints "Also 24, 130, 131" cleanly. So
+    # the text layer's 131 stands and no correction is recorded here.
     {"table": "proper", "text_layer": "Morning: 22:1-19,", "scan": "Morning: 22:1-9,",
      "why": "the original printing reads 22: 1-9. The transcription was keyed "
             "from a later printing, so 1-19 may be a later reading rather than "

@@ -11,11 +11,11 @@ lectionary, and Wave 9 did not claim them. Presence, established from each
 book's own table of contents rather than assumed:
 
   1549 1552 1559 1789  print both as standalone sections.
-  1892 1928            MERGED them into "Concerning the Service of the Church"
-                       ("...with the Order how the Psalter and the rest of the
-                       Holy Scripture is appointed to be read"), so both go in
-                       `absent:` -- a real structural revision, and one that
-                       inheritance-by-omission would have silently hidden.
+  1892 1928            print both, titled, after "Concerning the Service of the
+                       Church". (Wave 14 read the table of contents -- "...with
+                       the Order how the Psalter and the rest of the Holy
+                       Scripture is appointed to be read" -- as a merger and put
+                       both in `absent:`; Wave 15 corrected that from the pages.)
   1662                 the Church of England serves only the post-1922
                        recension of these rubrics, so 1662 is left unauthored
                        with a recorded gap (GUIDE ruling D).

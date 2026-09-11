@@ -11734,7 +11734,8 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "As 1789, from 1892's own page. The printed heading carries an OCR slip (\"for tbe Movable Feasts\")."
+    note: "As 1789, from 1892's own page. The printed heading carries an OCR slip (\"for tbe Movable Feasts\"). Wave 16: REBUILT in the 1928 cell's line shape (ingest/w16_build.py) from the same page, words unchanged. Wave 14 emitted it one HTML fragment per line, so a wrapped entry (\"The Circumcision of our Lord\" / \"JESUS CHRIST.\") and each column of the two brace tables read as separate lines and v1892 -> v1928 was mostly re-lining. The brace tables are read across (\"Septuagesima Sunday is Nine Weeks before Easter.\"), repeating the words the brace prints once for four rows, as 1928 sets these rules. One keying-noise space restored (\"above,the\"). The OCR slips \"tbe\", \"EASTER.DAY\" and \"Authorlty\" stay: no 1892 witness prints this section."
+    verify_items: []
   - edition: 1892
     service: tables/proper-lessons
     source_url: "http://justus.anglican.org/resources/bcp/1892/Lectionary_1892.htm"
@@ -12183,14 +12184,8 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1892 Table of Proper Psalms on Certain Days, sixteen days, read left column then right (liturgical order)."
-    verify_items:
-      - anchor: "proper-psalms"
-        source_reading: "180"
-        note: "the 1892 table prints Psalm 180, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 6, 32, 38, Evening 102, 130, 143, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
-      - anchor: "proper-psalms"
-        source_reading: "190"
-        note: "the 1892 table prints Psalm 190, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 8, 15, 21, Evening 24, 47, 103, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
+    note: "The 1892 Table of Proper Psalms on Certain Days, sixteen days, read left column then right (liturgical order). Wave 16: 7 corrections from the 1892 Standard Book as keyed by justus (http://justus.anglican.org/resources/bcp/1892Standard/front_matter.pdf, p. 8), at each of which justus's separately keyed front-matter copy of the table (http://justus.anglican.org/resources/bcp/1892/Front_Matter_1892.htm) reads the same. They resolve both Wave-13 VERIFYs -- Ash Wednesday evening \"102, 180, 148\" is 102, 130, 143 and Ascension evening \"24, 47, 190\" is 24, 47, 108 -- and correct a number those VERIFYs could not see (Transfiguration evening 132 -> 133), plus five day names whose line-break hyphens the carrier keyed inline (Christ-Mas-day, Whit-sunday, Transfig-uration) or whose hyphen it dropped (Easter Day, Trinity Sunday). The carrier is an OCR-grade page; its 180 for 130 shows the error pattern. Corrections in ingest/w16_witness.py."
+    verify_items: []
   - edition: 1789
     service: psalter/psalms-1-50
     source_url: "(no allow-listed source for this edition)"
@@ -12217,15 +12212,6 @@ records:
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
     note: "RECORDED GAP. The 1789 book printed its own Psalter, but no allow-listed source gives it: justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR of a long-s original. Deriving it backwards from 1928 or 1892 was REJECTED by the maintainer (an apparatus is only as complete as its editor, so silence is not evidence of no change). 1789 inherits 1662; this is not a claim that 1789 reprinted 1662 unchanged."
-    verify_items: []
-  - edition: 1892
-    service: psalter/selections
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-11
-    status: inherited-unreviewed
-    depth: table
-    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "RECORDED GAP. The book prints Selections of Psalms, but justus links this edition's Selections to the 1789 page (the \"looks shared\" trap), so this edition's own list is not sourced. It inherits the 1789 list."
     verify_items: []
   # --- end Wave 13 ---
 
@@ -12309,9 +12295,39 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
-    note: "Proper Psalms for Seasons and Days (22, with its two NOTEs), A Table of Psalms for the Sundays of the Church Year (57) and Psalms for Special Occasions (10), book pp. vii-ix. The Morning/Evening split follows the book's own NOTE (\"those for the Morning separated by the semi-colon from those for the Evening\"); rows printed without that shape are carried whole. 12 corrections from the scan, including Good Friday \"22:1-9\" (the transcription prints 1-19) and the Sunday table's Easter Day evening \"113, 114, 118\" (it prints 113, 116, 117). WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
-    verify_items:
-      - anchor: "proper-psalms"
-        source_reading: "132"
-        note: "the scan's final digit is damaged; it has the form of this face's old-style 2, not its serifed 1, but the text layer keys 131. Carried as the scan reads; confirm against a clean copy of the 1928 printing"
+    note: "Proper Psalms for Seasons and Days (22, with its two NOTEs), A Table of Psalms for the Sundays of the Church Year (57) and Psalms for Special Occasions (10), book pp. vii-ix. The Morning/Evening split follows the book's own NOTE (\"those for the Morning separated by the semi-colon from those for the Evening\"); rows printed without that shape are carried whole. 11 corrections from the scan, including Good Friday \"22:1-9\" (the transcription prints 1-19) and the Sunday table's Easter Day evening \"113, 114, 118\" (it prints 113, 116, 117). WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. Wave 16: Palm Sunday's \"Also: 24, 130, 131\" restored -- the text layer's reading. Wave 15 read the scan's damaged last figure as 2 and carried \"132\" under a VERIFY; at pixel level the figure has a serifed top with a centred stem (this face's old-style 1, unlike the hooked 2 of \"24\" on the same line), and the 1936 printing (http://justus.anglican.org/resources/bcp/1928/BCP1936.pdf, scan p. 6, a new setting in lining figures) prints 131 cleanly. The VERIFY is resolved."
+    verify_items: []
   # --- end Wave 15 ---
+
+  # --- Wave 16: the backlog pass ---
+  - edition: 1892
+    service: front-matter/concerning-the-service
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Front_Matter_1892.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; every value checked against a named witness)"
+    note: "SLOT: this file holds what each book prints under the title \"Concerning the Service of the Church\" -- on the English line the 1549 Preface, renamed in 1662; on the American line a rules text that 1892 introduced, 1928 rewrote and 1979 replaced. 1979 was put here in Wave 9 on that basis; 1892 and 1928 follow it. 1789 prints nothing under the title and stays absent, so v1789 deletes the file and v1892 re-creates it. The four paragraphs under the heading, stopping before \"The Order how the Psalter is appointed to be read\" (its own cell). WITNESS: the 1892 Standard Book as keyed by justus (http://justus.anglican.org/resources/bcp/1892Standard/front_matter.pdf), which agrees word for word but for two places: \"think lit\" (carrier; l keyed for f), where the Standard Book's \"fit\" is carried; and \"the President\" / \"The President\", which no witness settles (VERIFY). Corrections in ingest/w16_witness.py."
+    verify_items:
+      - anchor: "concerning-the-service"
+        source_reading: "the President"
+        note: "Front_Matter_1892.htm prints \"Prayer for the President of the United States\"; the Standard Book's keying (1892Standard/front_matter.pdf) capitalizes \"The President\". Carried as the carrier prints it; confirm against a scan of the 1892 book"
+  - edition: 1892
+    service: psalter/selections
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Front_Matter_1892.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; every value checked against a named witness)"
+    note: "CLOSES A RECORDED GAP. justus's 1892 index links the Selections to the 1789 page, so Wave 13 recorded a gap and let 1892 inherit 1789's ten; but the 1892 front-matter page itself prints the book's own \"TABLE OF SELECTIONS OF PSALMS\" -- twenty selections, untitled (1928 later gave each a title). Rows First to Twentieth in numerical order (the book sets them in two columns, First-Tenth and Eleventh-Twentieth). Checked value for value against the 1892 Standard Book as keyed by justus (http://justus.anglican.org/resources/bcp/1892Standard/front_matter.pdf): all twenty agree. Typographic normalization only: \"v.7\" spaced \"v. 7\"."
+    verify_items: []
+  - edition: 1928
+    service: front-matter/concerning-the-service
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; every value checked against a named witness)"
+    note: "SLOT: this file holds what each book prints under the title \"Concerning the Service of the Church\" -- on the English line the 1549 Preface, renamed in 1662; on the American line a rules text that 1892 introduced, 1928 rewrote and 1979 replaced. 1979 was put here in Wave 9 on that basis; 1892 and 1928 follow it. 1789 prints nothing under the title and stays absent, so v1789 deletes the file and v1892 re-creates it. Printed on book p. vii, before \"The Use of the Psalter\" (its own cell): a rewrite of 1892's rules -- it names the Holy Communion first among \"the regular Services\", drops 1892's rule on using the Litany in place of the Prayers, lets the Minister use other devotions (and, in Mission Churches or where authorized, in place of Morning or Evening Prayer), and adds a NOTE on words denoting vocal utterance. Carrier: the text layer (keyed from a later printing); WITNESS: the scan of the original printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf, scan p. 4), which corrects 3 keyed periods to commas. Corrections in ingest/w16_witness.py."
+    verify_items: []
+  # --- end Wave 16 ---

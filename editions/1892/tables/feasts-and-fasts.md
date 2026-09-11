@@ -14,45 +14,21 @@ But Note, That the Full Moon, for the purposes of these Rules and Tables, is the
 
 Advent-Sunday is always the nearest Sunday to the Feast of St. Andrew, whether before or after.
 
-> Septuagesima
+Septuagesima Sunday is Nine Weeks before Easter.
 
-> Sexagesima
+Sexagesima Sunday is Eight Weeks before Easter.
 
-> Quinquagesima
+Quinquagesima Sunday is Seven Weeks before Easter.
 
-> Quadragesima
+Quadragesima Sunday is Six Weeks before Easter.
 
-Sunday is
+Rogation-Sunday is Five Weeks after Easter.
 
-Nine
+Ascension-day is Forty Days after Easter.
 
-Eight
+Whitsunday is Seven Weeks after Easter.
 
-Seven
-
-Six
-
-Weeks before Easter.
-
-> Rogation-Sunday
-
-> Ascension-day
-
-> Whitsunday
-
-> Trinity-Sunday
-
-is
-
-Five Weeks
-
-Forty Days
-
-Seven Weeks
-
-Eight Weeks
-
-after Easter.
+Trinity-Sunday is Eight Weeks after Easter.
 
 A TABLE OF FEASTS,
 
@@ -60,33 +36,23 @@ TO BE OBSERVED IN THIS CHURCH THROUGHOUT THE YEAR.
 
 All Sundays in the Year.
 
-The Circumcision of our Lord
-
-JESUS CHRIST.
+The Circumcision of our Lord JESUS CHRIST.
 
 The Epiphany.
 
 The Conversion of St. Paul.
 
-The Purification of the Blessed
-
-Virgin.
+The Purification of the Blessed Virgin.
 
 St. Matthias the Apostle.
 
-The Annunciation of the
-
-Blessed Virgin.
+The Annunciation of the Blessed Virgin.
 
 St. Mark the Evangelist.
 
-St. Philip and St. James the
+St. Philip and St. James the Apostles.
 
-Apostles.
-
-The Ascension of our Lord
-
-JESUS CHRIST.
+The Ascension of our Lord JESUS CHRIST.
 
 St. Barnabas the Apostle.
 
@@ -94,9 +60,9 @@ The Nativity of St. John Baptist.
 
 St. Peter the Apostle.
 
-St. James the Apostle. The Transfiguration of our Lord
+St. James the Apostle.
 
-JESUS CHRIST.
+The Transfiguration of our Lord JESUS CHRIST.
 
 St. Bartholomew the Apostle.
 
@@ -106,9 +72,7 @@ St. Michael and all Angels.
 
 St. Luke the Evangelist.
 
-St. Simon & St. Jude
-
-the Apostles.
+St. Simon & St. Jude the Apostles.
 
 All Saints.
 
@@ -116,9 +80,7 @@ St. Andrew the Apostle.
 
 St. Thomas the Apostle.
 
-The Nativity of our Lord
-
-JESUS CHRIST.
+The Nativity of our Lord JESUS CHRIST.
 
 St. Stephen the Martyr.
 
@@ -126,36 +88,26 @@ St. John the Evangelist.
 
 The Holy Innocents.
 
-Monday and Tuesday In Easter
+Monday and Tuesday In Easter week.
 
-week.
-
-Monday and Tuesday in
-
-Whitsun week.
+Monday and Tuesday in Whitsun week.
 
 A TABLE OF FASTS.
 
-Ash-Wednesday. Good Friday.
+Ash-Wednesday.
+
+Good Friday.
 
 OTHER DAYS OF FASTING,
 
 ON WHICH THE CHURCH REQUIRES SUCH A MEASURE OF ABSTINENCE AS IS MORE ESPECIALLY SUITED TO EXTRAORDINARY ACTS AND EXERCISES OF DEVOTION.
 
-I.
+I. The Forty Days of Lent.
 
-The Forty Days of Lent.
+II. The Ember-days at the Four Seasons, being the Wednesday, Friday, and Saturday after The First Sunday in Lent, The Feast of Pentecost, September 14, and December 18.
 
-II.
+III. The three Rogation-days, being the Monday, Tuesday and Wednesday before Holy Thursday, or the Ascension of our Lord.
 
-The Ember-days at the Four Seasons, being the Wednesday, Friday, and Saturday after The First Sunday in Lent, The Feast of Pentecost, September 14, and December 18.
+IV. All the Fridays in the Year, except Christmas-day.
 
-III.
-
-The three Rogation-days, being the Monday, Tuesday and Wednesday before Holy Thursday, or the Ascension of our Lord.
-
-IV.
-
-All the Fridays in the Year, except Christmas-day.
-
-In addition to the above,the first Thursday in November (or, if any other day be appointed by the Civil Authorlty, then such day) shall be observed as a Day of Thanksgiving to Almighty God for the Fruits of the Earth, and all other Blessings of his merciful Providence.
+In addition to the above, the first Thursday in November (or, if any other day be appointed by the Civil Authorlty, then such day) shall be observed as a Day of Thanksgiving to Almighty God for the Fruits of the Earth, and all other Blessings of his merciful Providence.

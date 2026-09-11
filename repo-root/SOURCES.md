@@ -33,7 +33,7 @@ ten service families, across every edition that has them:
 - **`prayers-and-thanksgivings/`** — the occasional prayers, state prayers and
   thanksgivings, 135 prayers
 - **`psalter/`** — the Psalter, one verse per line (1662, 1892, 1928, 1979),
-  with the Selections of Psalms (1789's ten, 1928's twenty)
+  with the Selections of Psalms (1789's ten; 1892's and 1928's twenty each)
 - **`tables/`** — the Kalendar, the Tables of Proper Lessons and Proper Psalms,
   the Tables and Rules for the Feasts and Fasts, the original 1928 lectionary
   (A Table of Lessons for the Christian Year), and the 1979 three-year
@@ -80,7 +80,6 @@ explicitly rather than filled with invented text.
 |---|---|---|
 | 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). |
 | 1789 | the Psalter | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. |
-| 1892 | Selections of Psalms | justus links it to the 1789 page (a page that only looks shared); it inherits the 1789 list. (1928's, the same false link, is now transcribed from the 1928 lectionary PDF — Wave 15.) |
 | 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
 | 1662 | Kalendar, Proper Lessons, both rubrics | The Church of England serves only the **post-1922 recension** of these (verse-level citations, "or" alternatives, and PDFs that are explicitly the Revised Tables of Lessons Measure 1922). Its *Tables and Rules* and *Vigils and Fasts* PDFs **do** print the 1662 text, and those are transcribed. |
 | 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
@@ -110,9 +109,9 @@ So the text layer is the **carrier** and a page scan is the **witness**:
 `1928/BCP1929.pdf`, which justus describes as the original 1928 printing, read
 as page images. Every row of every table was compared with the scan. Where
 they disagree the scan's reading is carried, and the correction is recorded
-with its book page in `ingest/w15_witness.py` — 229 in all (Calendar 13, Feasts
-and Fasts 10, Proper Psalms and Selections 14, rubrics 2, Tables of Lessons
-190). No value was computed: the Calendar's seven-day letter cycle *found* its
+with its book page in `ingest/w15_witness.py` — 228 in all (Calendar 13, Feasts
+and Fasts 10, Proper Psalms and Selections 13, rubrics 2, Tables of Lessons
+190; Wave 16 withdrew one, below). No value was computed: the Calendar's seven-day letter cycle *found* its
 defects, and the scan supplied every missing value.
 
 This is the original lectionary (1928–1944), not the 1945 revision — see the
@@ -135,6 +134,32 @@ contents, which folds them into *Concerning the Service of the Church*. They are
 now transcribed. 1789's two rubric cells lose a stray fragment each from the
 next heading, and the 1979 Kalendar regains 29 February (the e-text prints a
 bare "29" that the parser had read as a continuation of 28 February).
+
+### The backlog pass (Wave 16)
+
+Wave 16 works through the items the earlier waves recorded. It uses witnesses
+that justus also serves: a keyed text of the **1892 Standard Book**
+(`1892Standard/front_matter.pdf`, laid out page for page after the original)
+and a scan of a **1936 printing** of the 1928 book (`1928/BCP1936.pdf`). The
+corrections are recorded in `ingest/w16_witness.py`.
+
+| Cell | What changed | Evidence |
+|---|---|---|
+| 1892 `psalter/selections` | **Transcribed; the recorded gap is closed.** The table has twenty selections without titles, where 1789 printed ten | justus's index links the Selections to the 1789 page, but `1892/Front_Matter_1892.htm` prints the book's own table. All twenty rows agree with the Standard Book |
+| 1892 `tables/proper-psalms` | Ash Wednesday evening 102, 130, 143; Ascension evening 24, 47, 108; Transfiguration evening 84, 99, 133. Five day names lose keying artefacts | The carrier (`1892/Psalms_1892.htm`) is an OCR-grade page; its "180" and "190" do not exist. The Standard Book reads the new values, and so does justus's separately keyed copy of the table in `Front_Matter_1892.htm`. Both Wave-13 VERIFYs are resolved |
+| 1892 `tables/feasts-and-fasts` | Rebuilt in the 1928 cell's line shape, with the words unchanged | Wave 14 put one HTML fragment per line, so `v1892 → v1928` was mostly re-lining. The brace tables of the Rules are now read across ("Septuagesima Sunday is Nine Weeks before Easter."), which repeats words the brace prints once |
+| 1892 and 1928 `front-matter/concerning-the-service` | **Transcribed** | See the Front-matter section below |
+| 1928 `tables/proper-psalms` | Palm Sunday "Also: 24, 130, **131**" | Wave 15 read the original printing's damaged last figure as 2. At pixel level it has the centred stem of this typeface's old-style 1. The 1936 printing, reset in lining figures, prints 131 cleanly, and so does the text layer |
+
+Two findings stay open. First, the 1936 printing already reads Good Friday
+"22:1-19", the reading of the later printing that the 1928 text layer was keyed
+from. That confirms the original's "22:1-9" was changed in a later printing.
+Second, `1892Standard/psalter.pdf` is **not** an independent witness for the
+1892 Psalter. It repeats the carrier's own slips ("Eqypt", "stretch our her
+hands"), so the two files are one keying. They differ in about 470 words, mostly
+*shew*/*show* and *judgement*/*judgment*, and it is not known which file was
+edited. The fourteen 1892 Psalter VERIFYs therefore stand until a page scan
+settles them.
 
 ---
 
@@ -461,8 +486,8 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 The Preface | `member of our Church. and every sincere Christian` | 'member of our Church. and every sincere Christian' — the justus 1789 text prints a full stop before a lower-case "and"; likely a comma in the original; left as-sourced pending a 1789 scan |
 | 1637 Concerning the Service of the Church | `to fall to thin ground` | 'to fall to thin ground' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan |
 | 1979 Concerning the Service of the Church | `fulfull` | 'fulfull' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check |
+| 1892 Concerning the Service of the Church | `the President` | Front_Matter_1892.htm prints "Prayer for the President of the United States"; the Standard Book's keying (1892Standard/front_matter.pdf) capitalizes "The President". Carried as the carrier prints it; confirm against a scan of the 1892 book |
 | 1637 Of Ceremonies | `OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man` | 'OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man' — justus notes two leaves are missing from its 1637 original around this section, so the Of Ceremonies text may be supplied from a parallel copy; confirm against a 1637 scan |
-| 1928 Proper Psalms (Palm Sunday, Also) | `132` | the scan's final digit is damaged; it has the form of this face's old-style 2, not its serifed 1, but the text layer keys 131. Carried as the scan reads; confirm against a clean copy of the 1928 printing |
 <!-- wave10-10a rows: begin -->
 | 1549 advent-3 | `The thirde sonday [in` | the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. |
 | 1549 advent-4 | `The fourth sonday [in` | the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. |
@@ -700,8 +725,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1892 (American) Psalm 83 | `Midianites` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
 | 1892 (American) Psalm 102 | `liked` | the 1892 PDF's letters spell 'withered liked grass' where 1662 and 1928 read 'withered like grass'; carried as the source prints it, not corrected toward another edition. Confirm against a scan |
 | 1892 (American) Psalm 115 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
-| 1892 (American) Proper Psalms | `180` | the 1892 table prints Psalm 180, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 6, 32, 38, Evening 102, 130, 143, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too |
-| 1892 (American) Proper Psalms | `190` | the 1892 table prints Psalm 190, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 8, 15, 21, Evening 24, 47, 103, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too |
 | 1928 (American) Psalm 18 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan |
 | 1928 (American) Psalm 109 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
 | 1928 (American) Psalm 119 | `no mediant` | the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
@@ -878,8 +901,12 @@ the point of the wave:
 - **Concerning the Service of the Church** is the 1549 original Preface ("There was
   never any thing by the wit of man..."), titled simply *The Preface* through 1604 and
   **renamed** *Concerning the Service of the Church* in 1662. English 1549-1662 and
-  Scottish 1637 (a wholly distinct Scottish preface); the American line **drops** it at
-  1789 and **re-adds** a new modern one at 1979.
+  Scottish 1637 (a wholly distinct Scottish preface). The 1789 book prints nothing
+  under the title, so the file is deleted at `v1789`. The American books later put a
+  **rules text** under the same title: 1892 introduces it, 1928 rewrites it, and 1979
+  replaces it with a new modern one. The file is identified by that printed title (the
+  Wave-9 basis for 1979), so `v1892` re-creates it and `v1892 → v1928 → v1979` compares
+  the American texts (Wave 16).
 - **The Preface** ("It hath been the wisdom of the Church of England...") is a **1662
   addition** (absent 1549-1604); the American line has its **own** Preface ("It is a
   most invaluable part of that blessed liberty...", 1789+), inherited 1892/1928/1979.
@@ -903,17 +930,16 @@ Religion etc.) is back-matter, likewise out of scope.
 | 1662 | CoE website (`preface`, `concerning-service-church`, `concerning-ceremonies-why-some-be`) | new Preface added; 1549 Preface renamed *Concerning the Service of the Church* |
 | 1637 | justus `Scotland/front_matter_1637.htm` | distinct Scottish Preface (names James & Charles); Of Ceremonies (two source leaves missing — flagged) |
 | 1789 | justus `1789/FrontMatter_1789.htm` | American Preface + Ratification; drops Concerning-the-Service and Of Ceremonies |
-| 1892 | inherited from 1789 (`1892/BCP_1892.htm` cross-check) | Preface + Ratification unchanged |
-| 1928 | inherited from 1789 (`1928/Front_Matter_1928.pdf` cross-check) | Preface + Ratification unchanged (1928 front-matter PDF has a garbled font layer; relied on cross-source stability) |
-| 1979 | `bcpoffce.txt` via transform | re-adds a modern *Concerning the Service of the Church*; Preface + Ratification are the 1789 documents reprinted (inherited) |
+| 1892 | inherited from 1789 (`1892/BCP_1892.htm` cross-check); `1892/Front_Matter_1892.htm` | Preface + Ratification unchanged; *Concerning the Service of the Church* introduced (Wave 16; witness: the Standard Book keying, `1892Standard/front_matter.pdf`) |
+| 1928 | inherited from 1789 (`1928/Front_Matter_1928.pdf` cross-check); `1928/Lectionary_1928.pdf` | Preface + Ratification unchanged (1928 front-matter PDF has a garbled font layer; relied on cross-source stability); *Concerning the Service of the Church* rewritten (Wave 16; witness: the scan of the original printing) |
+| 1979 | `bcpoffce.txt` via transform | a new modern *Concerning the Service of the Church*; Preface + Ratification are the 1789 documents reprinted (inherited) |
 
-**A known presence error (Wave 15, not yet fixed).** The 1892 and 1928 books
-print a short *Concerning the Service of the Church*, an American rules text
-under that title (1892 `Front_Matter_1892.htm`; 1928 `Lectionary_1928.pdf`,
-sheet 1), so the statement above that the American line
-drops it at 1789 is wrong for those two books, and `front-matter/concerning-the-service`
-is currently in the `absent:` of 1789 and not present at 1892 or 1928. It is
-not a simple presence fix: this file's history is the 1549 Preface, and whether
-the American rules text belongs in the same slot is an open question. It is
-recorded in the backlog.
+**The presence error recorded in Wave 15 is fixed (Wave 16).** Wave 15 found
+that the 1892 and 1928 books print a *Concerning the Service of the Church* while
+`front-matter/concerning-the-service` sat in 1789's `absent:` and was not declared
+at 1892 or 1928, so those two books wrongly lacked it. The question left open was
+whether the American rules text belongs in the file whose history is the 1549
+Preface. The 1979 precedent answers it: the file holds what the book prints under
+that title. The rules text is transcribed for both editions, each stopping before
+the two "Order how…" rubrics that follow it (their own cells).
 

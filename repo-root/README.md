@@ -183,10 +183,11 @@ the book — moving to the *front* in 1552. The **Scottish 1637** book opens wit
 its own distinct Preface (naming King James and Charles). The **American** line
 rewrites the front-matter entirely: it drops *Concerning the Service* and *Of
 Ceremonies*, writes its own **Preface** ("It is a most invaluable part of that
-blessed liberty…") and adds **The Ratification** of 1789; the 1979 book then
-re-adds a modern *Concerning the Service of the Church*. (One known error: the
-1892 and 1928 books also print a short American text under that title, which the
-history does not yet carry for them — see `SOURCES.md`.)
+blessed liberty…") and adds **The Ratification** of 1789. *Concerning the Service
+of the Church* then returns as an American piece under the old title: a short rules
+text in 1892, rewritten in 1928, and replaced by a modern one in 1979. The file is
+identified by the title a book prints, so the three American texts compare against
+each other.
 
 The **lectionary and calendar tables** are transcribed under `tables/` as
 normalized long-form — the Kalendar, the Tables of Proper Lessons and Proper
@@ -194,7 +195,9 @@ Psalms, the Tables and Rules for the Feasts and Fasts, the original 1928
 lectionary (*A Table of Lessons for the Christian Year*, 1928–1944; the 1945
 revision is deliberately not carried), and the 1979 three-year eucharistic and
 two-year Daily Office lectionaries. The 1928 tables were checked row by row
-against a scan of the original 1928 printing. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
+against a scan of the original 1928 printing, and the 1892 tables against a keyed
+text of the 1892 Standard Book — the copy every other printing was to be compared
+with. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
 1892, 1928 and 1979, each from its own source. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
@@ -269,6 +272,11 @@ git diff v1604 v1662 -- texts/normalized/front-matter/preface.md
 # The 1549 Preface is renamed "Concerning the Service of the Church" in 1662
 # (the heading changes; the body is modernised and gains three closing directives):
 git diff v1604 v1662 -- texts/normalized/front-matter/concerning-the-service.md
+
+# Under the same title, the American books print a different thing entirely — rules
+# for the services. 1928 rewrites 1892's: the Holy Communion is named first among
+# "the regular Services", and a NOTE on vocal utterance is added:
+git diff v1892 v1928 -- texts/normalized/front-matter/concerning-the-service.md
 
 # PRAYERS AND THANKSGIVINGS — the block that grows edition by edition.
 # 1549 has none of it at all; 1552 is the first book to print the occasional prayers:
