@@ -179,7 +179,8 @@ re-adds a modern *Concerning the Service of the Church*.
 The **lectionary and calendar tables** are transcribed under `tables/` as
 normalized long-form — the Kalendar, the Tables of Proper Lessons, the Tables and
 Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and two-year
-Daily Office lectionaries. **Coming soon**: the Psalter. All twelve tags carry sourced text (the earlier
+Daily Office lectionaries. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
+1892, 1928 and 1979, each from its own source. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 
@@ -197,6 +198,10 @@ git diff v1549 v1552 -- texts/normalized/daily-office/morning-prayer.md
 # The Holy Communion restructuring of 1552 — the Gloria in Excelsis moves from an
 # early position to near the end, and the memorial words of administration change:
 git diff v1549 v1552 -- texts/normalized/holy-communion/holy-communion.md
+
+# The 1928 Psalter removes the Romans-3 interpolation from Psalm 14 (verses 5-7
+# of the Coverdale text) and re-translates the opening of Psalm 45:
+git diff v1892 v1928 -- texts/normalized/psalter/psalms-1-50.md
 
 # The Kalendar loses its lesson columns between 1789 and 1979: the American 1979
 # book keeps a civil-date calendar but moves the readings into a two-year cycle

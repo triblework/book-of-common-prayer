@@ -11,6 +11,73 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 13 (the Psalter) DONE, AWAITING PUBLISH
+
+Built and verified 2026-09-11; **not yet published** (force-push needs the
+maintainer's go-ahead). With this wave every family the spec names is in the
+repository; what remains is recorded gaps and the open VERIFY backlog.
+
+CONTENT: `psalter/psalms-{1-50,51-100,101-150}.md` for **1662, 1892, 1928,
+1979** (150 psalms each; 2,508 verses for the three Coverdale books, 2,507 for
+1979) · `psalter/selections.md` (1789, ten Selections) · `tables/proper-psalms.md`
+(1789 six days, 1892 sixteen — closes a Wave-14 gap). Gates: `w13_fidelity.py`
+0 unattested tokens across all twelve psalter cells; `w13_audit.py` 0 anomalies
+(eight documented 1928 revisions exempted, each with evidence). Authoring
+`verify_index` reconciles 355 inline VERIFY / 463 provenance items. All three
+built tips pass the three invariants; no tag carries a replacement character.
+
+**RULINGS (maintainer):** three files of fifty; mediant normalized to ` : `;
+the Selections and Proper Psalms extras in scope; and — after the maintainer
+challenged it — **NO BACKWARD DERIVATION**. The first proposal derived 1892 and
+1789 from the 1928 page's sidebar apparatus. Withdrawn: an apparatus is only as
+complete as its editor, so a note's absence is not evidence nothing changed,
+and a derived text would pass the fidelity gate while being wrong. Every
+edition comes from its own source; 1789 is a recorded gap.
+
+**THE GENERAL LESSON:** when a source shows a newer text with older readings in
+an apparatus, look hard for each older edition's OWN source before deriving.
+Here that search found `1892/Psalms.pdf`, which the first survey had missed.
+
+**PARSER LESSONS (all caught by a gate, most by the CROSS-EDITION VERSE COUNT,
+which the per-psalm verse-run check could not see):**
+1. **The verse-run check is blind to swallowed verses.** If one number is
+   missed, "must equal previous+1" turns every later verse into a continuation
+   and the run stays a perfect 1..N. The first 1928 parse had 2,032 of 2,508
+   verses with the run gate GREEN. Compare verse counts across editions.
+2. A table CELL BOUNDARY is a LINE BOUNDARY (1928: joining cells with a newline
+   buried Psalm 10's verses 15-20 inside verse 14).
+3. Centred blocks hold several paragraphs (Psalm 18's heading shared a <div>
+   with "Evening Prayer." and was skipped; Psalm 100's <div> closed late).
+4. One CoE paragraph can hold several verses (Psalm 17:14-16); pages must be
+   ordered by the range their URL encodes (Psalm 119's five pages).
+5. Psalm 119 portions open at verse 8k+1 in every edition — use the acrostic
+   structure, not letter case.
+6. **Two e-text files each carry their own FTP header**; stripping only the
+   first glued the second onto a verse (a 2,566-character "verse").
+7. **The 1892 PDF.** pypdf plain mode keeps letters in order but kerning splits
+   words; layout mode spaces well but displaces drop capitals AND reads across
+   the two printed columns. Letters from plain; spaces where both modes agree
+   (layout re-ordered at the gutter, offset 84-91); the rest by counted rules.
+   **Never let an unresolvable case JOIN** — the first fallback collapsed whole
+   pages. **Decide line-break hyphens by the document's own usage** before any
+   reference vocabulary, or the reference leaks in ("lovingkindness" is 1928's
+   form, not 1892's).
+8. An independent witness is worth more than another internal check: justus's
+   dated change table confirmed 51/55 readings and, by passing 32 of the 35
+   changes it dates to 1892, established that the PDF IS the 1892 text.
+
+`tools/sentence_split.py` gains a **verse mode** for `psalter/` (a verse is the
+unit; splitting would have broken 205 verses). Non-psalter files unchanged.
+
+METHOD ASSETS: `WAVE13_SCOPING.md` (incl. §4, the revision), `WAVE13_GUIDE.md`,
+`w13_1662.py`, `w13_1928.py`, `w13_1979.py`, `w13_1892_repair.py`,
+`w13_1892.py`, `w13_render.py`, `w13_build.py`, `w13_build_1892.py`,
+`w13_build_1979.py`, `w13_build_extras.py`, `w13_changelog.py`,
+`w13_editions.py`, `gen_wave13_provenance.py`, `append_wave13_docs.py`,
+`w13_fidelity.py`, `w13_audit.py`.
+
+<!-- Superseded: the Wave-14 block is kept below -->
+
 ## CURRENT — WAVE 14 (lectionary & calendar tables) DONE + PUBLISHED (2026-09-02)
 
 **PUBLISHED 2026-09-02 (force-pushed with maintainer go-ahead). Published tips:
@@ -1078,6 +1145,13 @@ Named items, highest value first:
   revision is DELIBERATELY OMITTED. If the repo ever wants it, it needs its own
   representation (a second node, or a sibling file) — not a silent overwrite of
   the 1928 tables. Recorded here so it survives the wave.
+- **The Psalter's recorded gaps** (Wave 13): 1549-1604 (no source; the Psalter
+  first appears at v1662 as a graph artefact), 1789 (no usable source — backward
+  derivation rejected; note justus's dated change table 1789/Psalter1789&1892.htm
+  exists and could inform a future attempt, but the maintainer ruled it out),
+  and the Scottish line. 31 new VERIFYs, notably four places where the 1892 PDF
+  and the dated change table disagree, and misprinted psalm numbers 180/190 in
+  the 1892 Proper Psalms table.
 - **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
   1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
   recension); 1892's Kalendar (the source HTML has lost the table's row

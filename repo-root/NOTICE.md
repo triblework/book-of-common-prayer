@@ -407,3 +407,29 @@ editorial judgment; passages whose reading is uncertain are marked inline with
   call S. Matthew"). Additive entries can only prevent a split, and the change
   was measured against the previous tool: those two cells are the only
   pre-existing text affected.
+- **2026-09-11** — Wave 13: the **Psalter**, under a new `psalter/` family:
+  one verse per line, printed verse numbering kept (including the Coverdale
+  books' unnumbered verse 1), in three files of fifty, for **1662, 1892, 1928 and
+  1979 — each from its own source, with no edition derived from another**. The
+  1928 page's sidebar of earlier readings is deliberately not applied, and 1892
+  is taken from its own PDF. **The Psalter first appears at `v1662`, and that is
+  an artefact**: the Coverdale psalter was in the book from 1549, but no
+  allow-listed source reaches earlier, so the history cannot hold it there.
+  1789's own Psalter is likewise unsourced and 1789 inherits 1662's. **The
+  mediant is normalized to ` : `** in every edition (pointing is typography):
+  1928 and 1979 print an asterisk, 1892 a musical colon, 1662 a colon, and 1789
+  printed no breath-mark at all. Flagship diffs: `git diff v1892 v1928 --
+  texts/normalized/psalter/psalms-1-50.md` shows 1928 remove the Romans-3
+  interpolation from Psalm 14 and re-translate the opening of Psalm 45;
+  `git diff v1928 v1979` replaces Coverdale with the 1979 translation. Also added:
+  the 1789 **Selections of Psalms** and the **Tables of Proper Psalms on Certain
+  Days** (1789, 1892), the latter closing a gap Wave 14 recorded. The 1892 text
+  was tested against an independent witness, justus's dated table of pre-1928
+  U.S. psalter changes, and agrees with 51 of its 55 applicable entries,
+  including 32 of the 35 it dates to 1892 itself; the four disagreements are
+  flagged inline.
+- **2026-09-11** — `tools/sentence_split.py` gains a **verse mode** for files under
+  `psalter/`. The Psalter's unit is the verse, and sentence splitting would have
+  broken 25 Coverdale verses and 180 of 1979's across two lines, one of them
+  without its number. Verse files still get whitespace and blank-line
+  normalization. Every file outside `psalter/` behaves exactly as before.

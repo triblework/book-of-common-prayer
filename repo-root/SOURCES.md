@@ -14,7 +14,7 @@ on its allow-list. All retrievals below were made **2026-08-10**.
 
 This repository models the whole genealogy (all branches and tags) and
 demonstrates the diff mechanism end-to-end. The **transcribed text** now covers
-nine service families, across every edition that has them:
+ten service families, across every edition that has them:
 
 - **`daily-office/`** — Morning and Evening Prayer
 - **`the-litany/`** — the Litany
@@ -32,6 +32,8 @@ nine service families, across every edition that has them:
   church year (collects in full; Epistle and Gospel as their appointed citation)
 - **`prayers-and-thanksgivings/`** — the occasional prayers, state prayers and
   thanksgivings, 135 prayers
+- **`psalter/`** — the Psalter, one verse per line (1662, 1892, 1928, 1979),
+  with the 1789 Selections of Psalms
 - **`tables/`** — the Kalendar, the Tables of Proper Lessons, the Tables and
   Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and
   two-year Daily Office lectionaries, all as normalized long-form (one entry per
@@ -52,8 +54,15 @@ ten full-book editions, while the Scottish 1764 "Wee Bookie" and 1929 are
 Communion-only; the Commination is English/Scottish only (the American line drops
 it); the propers and the Prayers and Thanksgivings are absent from 1764/1929.
 
-**Not yet transcribed**, tracked as a later wave: the **Psalter**. Several tables
-are also carried for some editions but not others; where an edition's own table
+The **Psalter** is transcribed under `psalter/`, one verse per line in three
+files of fifty psalms, for 1662, 1892, 1928 and 1979, each from its own source.
+**It first appears in the history at `v1662`, and that is an artefact of
+sourcing, not of history**: the Coverdale psalter was in the book from 1549, but
+no allow-listed source gives the 1549-1604 text, so nothing earlier can hold the
+file. The 1789 book's own Psalter is likewise unsourced, and 1789 inherits
+1662's. Neither is a claim about those books.
+
+Several tables are also carried for some editions but not others; where an edition's own table
 could not be sourced it INHERITS its parent's and is marked
 `inherited-unreviewed` in `provenance.yaml`. **That is a transcription gap, not a
 claim that the edition reprinted its parent unchanged.** The gaps are listed
@@ -64,6 +73,10 @@ explicitly rather than filled with invented text.
 
 | Edition | Table | Why |
 |---|---|---|
+| 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). |
+| 1789 | the Psalter | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. |
+| 1892, 1928 | Selections of Psalms | justus links them to the 1789 page (a page that only looks shared); each inherits the 1789 list. |
+| 1928 | Table of Proper Psalms | PDF-only; inherits 1892's. |
 | 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
 | 1662 | Kalendar, Proper Lessons, both rubrics | The Church of England serves only the **post-1922 recension** of these (verse-level citations, "or" alternatives, and PDFs that are explicitly the Revised Tables of Lessons Measure 1922). Its *Tables and Rules* and *Vigils and Fasts* PDFs **do** print the 1662 text, and those are transcribed. |
 | 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
@@ -615,6 +628,37 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 (American) Eucharistic Lectionary | `Luke 19:29-40` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914) |
 | 1979 (American) Eucharistic Lectionary | `The Great Vigil: See pages 288-291` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915) |
 | 1979 (American) Eucharistic Lectionary | `Luke 12:13-21` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919) |
+| 1662 Psalm 2 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan |
+| 1662 Psalm 68 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan |
+| 1662 Psalm 89 | `Praised be the Lord for evermore` | the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan |
+| 1892 (American) Psalm 10 | `semicolon at the mediant` | the 1892 PDF prints a semicolon where 1662 and 1928 print the mediant, so the verse carries no ' : '. Carried as printed |
+| 1892 (American) Psalm 14 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
+| 1892 (American) Psalm 17 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
+| 1892 (American) Psalm 18 | `cherubins` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'Cherubims' in 1790 and 'Cherubim' in 1793; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
+| 1892 (American) Psalm 35 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
+| 1892 (American) Psalm 42 | `the water-pipes` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'thy water-pipes' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
+| 1892 (American) Psalm 45 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
+| 1892 (American) Psalm 50 | `has cast` | the 1892 PDF's letters spell 'has cast' where 1662 reads 'hast cast'; carried as the source prints it. Confirm against a scan |
+| 1892 (American) Psalm 68 | `Zebulon` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Zabulon' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
+| 1892 (American) Psalm 68 | `Eqypt` | the 1892 PDF's text layer reads 'Eqypt' (a q for the g); almost certainly a keying slip for 'Egypt', but carried exactly as the source prints it. Confirm against a scan |
+| 1892 (American) Psalm 77 | `two colons` | the 1892 PDF prints a colon where 1662 has a semicolon, so this verse carries two. Carried as printed |
+| 1892 (American) Psalm 83 | `Midianites` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
+| 1892 (American) Psalm 102 | `liked` | the 1892 PDF's letters spell 'withered liked grass' where 1662 and 1928 read 'withered like grass'; carried as the source prints it, not corrected toward another edition. Confirm against a scan |
+| 1892 (American) Psalm 115 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
+| 1892 (American) Proper Psalms | `180` | the 1892 table prints Psalm 180, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 6, 32, 38, Evening 102, 130, 143, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too |
+| 1892 (American) Proper Psalms | `190` | the 1892 table prints Psalm 190, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 8, 15, 21, Evening 24, 47, 103, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too |
+| 1928 (American) Psalm 18 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan |
+| 1928 (American) Psalm 109 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
+| 1928 (American) Psalm 119 | `no mediant` | the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
+| 1979 (American) Psalm 34 | `Benedicam Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 77 | `Voce mea ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 94 | `Deus ultio` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 117 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 120 | `Ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 142 | `Voce mea ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 147 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 148 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
+| 1979 (American) Psalm 150 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has
 them. Public/Private Baptism and Confirmation run across the ten daily-office
