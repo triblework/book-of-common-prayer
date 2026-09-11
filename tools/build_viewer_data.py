@@ -95,6 +95,11 @@ SERVICE_LABELS = {
     "ordinal/ordering-deacons": "The Ordering of Deacons",
     "ordinal/ordering-priests": "The Ordering of Priests",
     "ordinal/consecration-bishops": "The Consecration of Bishops",
+    "front-matter/order-how-psalter-appointed": "The Order How the Psalter Is Appointed",
+    "front-matter/order-how-rest-of-scripture": "The Order How the Rest of Scripture Is Appointed",
+    "psalter/psalms-1-50": "Psalms 1–50",
+    "psalter/psalms-51-100": "Psalms 51–100",
+    "psalter/psalms-101-150": "Psalms 101–150",
 }
 # Book order within a group, when known. Unknown services sort after, by label.
 SERVICE_ORDER = {
@@ -118,6 +123,12 @@ SERVICE_ORDER = {
     "ordinal/ordering-deacons": 1,
     "ordinal/ordering-priests": 2,
     "ordinal/consecration-bishops": 3,
+    "front-matter/order-how-psalter-appointed": 4,
+    "front-matter/order-how-rest-of-scripture": 5,
+    "psalter/psalms-1-50": 0,
+    "psalter/psalms-51-100": 1,
+    "psalter/psalms-101-150": 2,
+    "psalter/selections": 3,
 }
 
 
@@ -428,23 +439,34 @@ def parse_retrieved(sources_text: str):
 
 
 def parse_wave_note(notice_text: str):
-    """Latest rebuild-log bullet from NOTICE.md, cleaned to one line."""
+    """Latest top-level rebuild-log entry from NOTICE.md, cleaned to one line.
+
+    Only unindented bullets are entries; nested bullets are detail within one.
+    The latest entry naming a wave is preferred over a trailing tool-correction
+    entry, which makes a poor colophon caption.
+    """
     lines = notice_text.splitlines()
     try:
         start = next(i for i, l in enumerate(lines) if "Rebuild log" in l)
     except StopIteration:
         return None
-    last = None
+    entries = []
+    in_entry = False  # continuation lines append only to the top-level bullet
     for l in lines[start + 1:]:
         st = l.strip()
-        if st.startswith("- "):
-            last = st[2:]
+        if l.startswith("- "):
+            entries.append(st[2:])
+            in_entry = True
         elif st.startswith("#"):
             break
-        elif last is not None and st and not st.startswith("-"):
-            last += " " + st  # continuation line of the same bullet
-    if not last:
+        elif st.startswith("- "):
+            in_entry = False  # a nested bullet ends the entry's own text
+        elif in_entry and st:
+            entries[-1] += " " + st
+    if not entries:
         return None
+    waves = [e for e in entries if re.match(r"(?:\*\*)?[\d-]+(?:\*\*)?\s*—\s*Wave \d", e)]
+    last = (waves or entries)[-1]
     note = re.sub(r"\*\*", "", last)
     note = re.sub(r"\s+", " ", note).strip()
     if len(note) > 200:  # it's a colophon caption, not the whole rebuild-log entry
@@ -540,8 +562,11 @@ def build(repo: str, authoring: str | None = None):
         }
 
     # ---- Provenance (edition-level; published layer only) ----
-    notice_text = g.show_file("main", "NOTICE.md") if g.file_exists("main", "NOTICE.md") else ""
-    sources_text = g.show_file("main", "SOURCES.md") if g.file_exists("main", "SOURCES.md") else ""
+    # Read from the resolved tip, not the literal ref "main": CI checks out only
+    # `authoring`, so `main` exists there solely as `origin/main`.
+    main_tip = tips["main"]
+    notice_text = g.show_file(main_tip, "NOTICE.md") if g.file_exists(main_tip, "NOTICE.md") else ""
+    sources_text = g.show_file(main_tip, "SOURCES.md") if g.file_exists(main_tip, "SOURCES.md") else ""
     copyright_by_year = parse_notice_copyright(notice_text)
     url_by_year = parse_sources_urls(sources_text)
     retrieved = parse_retrieved(sources_text)

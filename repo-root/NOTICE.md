@@ -367,13 +367,6 @@ The published branches and tags are build artifacts, regenerated from the
     columns; each edition's cell is built from its own column, and the texts
     genuinely differ.
 
-## A note on transcription
-
-These transcriptions follow public-domain source transcriptions (principally
-Charles Wohlers' collection at the Society of Archbishop Justus) cross-checked,
-where practical, against public-domain page scans. Transcription involves
-editorial judgment; passages whose reading is uncertain are marked inline with
-`<!-- VERIFY: ... -->` comments and listed in `SOURCES.md`.
 - **2026-09-02** — Wave 14: the **lectionary and calendar tables**, under a new
   `tables/` family, represented as normalized long-form (one entry per line,
   stable column order) so a changed cell is a one-line diff. This wave pays a
@@ -433,3 +426,11 @@ editorial judgment; passages whose reading is uncertain are marked inline with
   broken 25 Coverdale verses and 180 of 1979's across two lines, one of them
   without its number. Verse files still get whitespace and blank-line
   normalization. Every file outside `psalter/` behaves exactly as before.
+
+## A note on transcription
+
+These transcriptions follow public-domain source transcriptions (principally
+Charles Wohlers' collection at the Society of Archbishop Justus) cross-checked,
+where practical, against public-domain page scans. Transcription involves
+editorial judgment; passages whose reading is uncertain are marked inline with
+`<!-- VERIFY: ... -->` comments and listed in `SOURCES.md`.

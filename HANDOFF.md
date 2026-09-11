@@ -1214,5 +1214,18 @@ it drifting.**
 - zsh: associative arrays and `${!x}` differ from bash; use plain loops.
 - Annotated tags: `git rev-parse vYYYY` returns the tag object — use
   `vYYYY^{commit}` to get the commit for comparisons.
+- **Rebuild-log entries go INSIDE the log.** `repo-root/NOTICE.md`'s rebuild log
+  ends at `## A note on transcription`; new entries go before that heading, never
+  appended to the end of the file. The viewer's colophon (`parse_wave_note` in
+  `tools/build_viewer_data.py`) reads only the log section, so an entry placed
+  after the heading is invisible to it. Waves 14 and 13 made this mistake; it was
+  corrected on `authoring` on 2026-09-11 and reaches `main` with the next publish.
+- **The viewer is its own deploy.** `.github/workflows/viewer.yml` rebuilds the
+  Pages site on every `authoring` push and every `v*` tag push, from the published
+  refs. CI checks out only `authoring`, so the builder must never read a literal
+  `main:` ref (it exists there only as `origin/main`); until 2026-09-11 it did, and
+  the live colophon/provenance fields were silently null. To check the live site,
+  build locally with `tools/build_viewer_data.py --out <scratch>` and `cmp` against
+  `https://triblework.github.io/book-of-common-prayer/viewer/data/<file>`.
 
 Good luck. Source, verify, flag — never invent.
