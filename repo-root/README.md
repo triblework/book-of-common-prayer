@@ -99,7 +99,9 @@ see `NOTICE.md`.)*
 > ever invented — see `SOURCES.md`).
 
 The **structure is complete**: all three branches and all twelve tags exist, and
-the diff mechanism works end-to-end. The **transcribed text so far** covers the
+the diff mechanism works end-to-end. The **transcribed text** covers every
+service family the project set out to carry (below); what remains is recorded
+gaps and uncertain readings, listed in `SOURCES.md`. It begins with the
 **Daily Office — Morning Prayer and Evening Prayer — the Litany, Holy
 Communion, and the initiation offices (Baptism and Confirmation)** at full Tier-1
 depth across every edition that has them — the richest
@@ -161,6 +163,14 @@ ordination** with the explicit order-naming ("Receive the Holy Ghost *for the
 office and work of a Priest/Bishop*…") and adds the episcopal-succession clause to
 the Preface; and the **American 1789 book drops the oath entirely**, replacing it
 with a Promise of Conformity to the Protestant Episcopal Church.
+
+The **propers** — collects in full, with the Epistle and Gospel as their
+appointed citations — are transcribed for 106 occasions across the church year
+under `collects-epistles-gospels/`, and the **Prayers and Thanksgivings** (the
+occasional prayers, state prayers and thanksgivings, 135 prayers) under
+`prayers-and-thanksgivings/`. So are the smaller sections: the Forms of Prayer
+to be used at Sea, the American Penitential Office, Family Prayer, and the 1789
+Prayer and Thanksgiving to Almighty God.
 
 The **front-matter** — the prefatory prose printed before the services — is
 transcribed under `front-matter/`, and its presence is itself the history. The
