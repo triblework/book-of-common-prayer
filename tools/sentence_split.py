@@ -130,7 +130,20 @@ def split_sentences(body: str) -> list[str]:
     return pieces or [body]
 
 
-def process_text(text: str) -> str:
+# Files whose UNIT IS THE VERSE, not the sentence. Spec §10 requires the
+# Psalter to be "one verse per line"; splitting a verse at an internal
+# sentence boundary ("Hallelujah! How good it is ...") would break a verse
+# across two lines, one of them without its number. Such files still get
+# whitespace, blank-line and trailing-newline normalization -- only the
+# sentence splitting is skipped -- so --check keeps them honest.
+VERSE_DIRS = {"psalter"}
+
+
+def is_verse_file(path: Path) -> bool:
+    return any(part in VERSE_DIRS for part in path.parts)
+
+
+def process_text(text: str, verse_mode: bool = False) -> str:
     out_lines: list[str] = []
     blank_run = 0
     for raw in text.splitlines():
@@ -150,6 +163,10 @@ def process_text(text: str) -> str:
         # HTML comments (editorial VERIFY/SCOPE notes) are metadata: keep the
         # whole comment on one line rather than splitting it into sentences.
         if line.lstrip().startswith("<!--"):
+            out_lines.append(line)
+            continue
+
+        if verse_mode:
             out_lines.append(line)
             continue
 
@@ -190,7 +207,7 @@ def main(argv: list[str]) -> int:
     changed: list[Path] = []
     for path in _iter_files(args):
         original = path.read_text(encoding="utf-8")
-        result = process_text(original)
+        result = process_text(original, verse_mode=is_verse_file(path))
         if result != original:
             changed.append(path)
             if not check:

@@ -35,10 +35,20 @@ def mediant(text, mark):
     return re.sub(r"\s+", " ", t).strip()
 
 
+def _verify(key, note):
+    # On its OWN line, the doubtful reading as the FIRST single-quoted string
+    # (the convention verify_index.py keys on).
+    return "<!-- VERIFY: '%s'; %s -->" % (key, note)
+
+
 def render(edition, psalms, mark, title="The Psalter", number_first=False):
     """Write the three cells. `number_first`: the book prints verse 1's number
-    (1979 does; the Coverdale books leave it unnumbered)."""
+    (1979 does; the Coverdale books leave it unnumbered).
+
+    A psalm may carry `verifies`: [(where, key, note)], where `where` is
+    "incipit" or a verse number. Returns (anomalies, manifest)."""
     anomalies = []
+    manifest = []
     out_dir = os.path.join(WT, "editions", edition, "psalter")
     os.makedirs(out_dir, exist_ok=True)
     for name, lo, hi in FILES:
@@ -48,11 +58,21 @@ def render(edition, psalms, mark, title="The Psalter", number_first=False):
             if p is None:
                 continue
             lines += ["## Psalm %d" % n, ""]
+            vs = p.get("verifies") or []
             if p.get("incipit"):
                 lines += ["> " + p["incipit"], ""]
+            for where, key, note in vs:
+                if where == "incipit":
+                    lines += [_verify(key, note), ""]
+                    manifest.append({"edition": edition, "file": name,
+                                     "anchor": "Psalm %d" % n,
+                                     "source_reading": key, "note": note})
             for num, text, sub in p["verses"]:
-                if sub:
-                    lines += ["> " + sub, ""]
+                # `sub` is a heading printed INSIDE the psalm before this verse
+                # -- a Psalm-119 portion, or one of 1979's Parts -- as one line
+                # or several (label, then Latin incipit).
+                for h in ([sub] if isinstance(sub, str) else (sub or [])):
+                    lines += ["> " + h, ""]
                 t = mediant(text, mark)
                 k = t.count(" : ")
                 if k != 1:
@@ -61,8 +81,14 @@ def render(edition, psalms, mark, title="The Psalter", number_first=False):
                     lines.append(t)
                 else:
                     lines.append("%d %s" % (num, t))
+                for where, key, note in vs:
+                    if where == num:
+                        lines.append(_verify(key, note))
+                        manifest.append({"edition": edition, "file": name,
+                                         "anchor": "Psalm %d" % n,
+                                         "source_reading": key, "note": note})
                 lines.append("")
         text = re.sub(r"\n{3,}", "\n\n", "\n".join(lines).rstrip("\n")) + "\n"
         with open(os.path.join(out_dir, name + ".md"), "w", encoding="utf-8") as fh:
             fh.write(text)
-    return anomalies
+    return anomalies, manifest

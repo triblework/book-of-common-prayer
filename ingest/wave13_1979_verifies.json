@@ -1,0 +1,65 @@
+[
+ {
+  "edition": "1979",
+  "file": "psalms-1-50",
+  "anchor": "Psalm 34",
+  "source_reading": "Benedicam Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-51-100",
+  "anchor": "Psalm 77",
+  "source_reading": "Voce mea ad Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-51-100",
+  "anchor": "Psalm 94",
+  "source_reading": "Deus ultio",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 117",
+  "source_reading": "Laudate Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 120",
+  "source_reading": "Ad Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 142",
+  "source_reading": "Voce mea ad Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 147",
+  "source_reading": "Laudate Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 148",
+  "source_reading": "Laudate Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ },
+ {
+  "edition": "1979",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 150",
+  "source_reading": "Laudate Domi",
+  "note": "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+ }
+]
