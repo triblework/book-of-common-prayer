@@ -11,10 +11,18 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 15 (the 1928 tables) DONE, NOT YET PUBLISHED (2026-09-11)
+## CURRENT — WAVE 15 (the 1928 tables) DONE + PUBLISHED (2026-09-11)
 
-**Built and gated on `authoring`; awaiting the maintainer's go-ahead on the
-force-push.** `v1928` now carries its own `tables/calendar` (366 days),
+**PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
+`main 315708c · scottish fce28a4 · american beeef63`; all 12 tags recreated;
+local==remote verified for 3 branches + 12 tags (15 refs, peeled tags checked,
+0 mismatched); no tag carries U+FFFD; flagship diffs render on the published
+tags. Against the previous tags, `texts/` changed ONLY where intended: v1789 and
+v1892 the two rubrics, v1928 its seven cells, v1979 the Calendar; the English
+and Scottish tags are byte-identical in `texts/`. Pre-publish refs:
+`scratchpad/pre-publish-refs-w15.txt`. Authoring CI's rebuild check was red
+between the first Wave-15 authoring push and this publish, by design (the live
+tags were still Wave 14).** `v1928` now carries its own `tables/calendar` (366 days),
 `tables/feasts-and-fasts`, `tables/proper-psalms` (22 + 57 + 10),
 `psalter/selections` (I–XX), `tables/proper-lessons` (Christian Year 409, Fixed
 Holy Days 19, Special Occasions 17) and both rubrics. 1892 gains both rubrics.
