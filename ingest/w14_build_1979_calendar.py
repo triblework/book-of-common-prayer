@@ -61,6 +61,18 @@ def parse():
             continue
         if PAGE.match(l.strip()):
             continue
+        # 29 February is printed as a bare "29" with no Sunday letter. DAY
+        # requires a letter, so until Wave 15 this line fell through to the
+        # continuation branch and published "February 28 | ... | Kalendar
+        # Note: 29". Accept a bare number ONLY when it is exactly the next day
+        # of the current month, so nothing else can be read as a date.
+        b = re.match(r"^\s*(\d{1,2})\s*$", l)
+        if b and cur is not None and cur["month"] == month \
+                and int(b.group(1)) == cur["day"] + 1:
+            cur = {"month": month, "day": int(b.group(1)), "letter": "",
+                   "entry": ""}
+            out.append(cur)
+            continue
         d = DAY.match(l)
         if d:
             cur = {"month": month, "day": int(d.group(2)),
@@ -96,7 +108,7 @@ def main():
         entry = r["entry"].replace("*", "").strip()
         lines.append(" | ".join([
             "%s %d" % (month, r["day"]),
-            "Sunday Letter: %s" % r["letter"],
+            "Sunday Letter: %s" % (r["letter"] or EMPTY),
             "Kalendar Note: %s" % (entry or EMPTY),
         ]))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

@@ -62,7 +62,8 @@ February 24 | Sunday Letter: f | Kalendar Note: Saint Matthias the Apostle
 February 25 | Sunday Letter: g | Kalendar Note: —
 February 26 | Sunday Letter: A | Kalendar Note: —
 February 27 | Sunday Letter: b | Kalendar Note: George Herbert, Priest, 1633
-February 28 | Sunday Letter: c | Kalendar Note: 29
+February 28 | Sunday Letter: c | Kalendar Note: —
+February 29 | Sunday Letter: — | Kalendar Note: —
 ## March
 
 March 1 | Sunday Letter: d | Kalendar Note: David, Bishop of Menevia, Wales, c. 544
