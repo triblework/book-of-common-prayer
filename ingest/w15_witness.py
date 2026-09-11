@@ -147,3 +147,46 @@ PSALMS = [
      "scan": "117, 126, 132, 138", "why": "keyed period for comma",
      "page": 5, "book": "ix"},
 ]
+
+# The two rubrics (book p. vii, scan 4; the Scripture rubric, scan 6).
+RUBRICS = [
+    {"cell": "psalter", "text_layer": "That on other days. instead",
+     "scan": "That on other days, instead", "why": "keyed period for comma",
+     "page": 4, "book": "vii"},
+    # A READING OF THE ORIGINAL PRINTING, not a keying slip. The transcription
+    # (keyed from a later printing) has these two sentences rewritten to fit
+    # the church-year Table of Lessons ("any day of the week"; "Upon any
+    # weekday, other than a Holy Day, the Lessons appointed for any day").
+    # The original 1928 printing still prints the older wording, pointing to
+    # "that day of the month" and "the Calendar" -- and as two paragraphs.
+    {"cell": "scripture",
+     "text_layer": "appointed for any day of the week, in place of the Second "
+                   "Lesson for the Sunday. Upon any weekday, other than a Holy "
+                   "Day, the Lessons appointed for any day",
+     "scan": "appointed for that day of the month, in place of the Second "
+             "Lesson for the Sunday.\n\nUpon any day for which no Proper Lessons "
+             "are provided, the Lessons appointed in the Calendar for any day",
+     "why": "the original printing's wording (a later printing revised it)",
+     "page": 6, "book": "x"},
+]
+
+# The three tables of lessons (book pp. x-xxviii; scan pages 6-15). Keyed by
+# section ("cy" Christian Year, "fh" Fixed Holy Days, "so" Special
+# Occasions), the Sunday that opens the row's week (cy only), the row label and
+# the column; `field: "label"` corrects the row label itself.
+# The entries themselves live in w15_lessons_witness.json, written by
+# w15_addw.py from the parse (so each text-layer reading is copied, not typed).
+import json as _json
+import os as _os
+_P = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)),
+                   "w15_lessons_witness.json")
+LESSONS = _json.load(open(_P, encoding="utf-8")) if _os.path.exists(_P) else []
+
+# The footnotes under the Christian-Year table, as the original prints them
+# (the text layer keys the Ember note twice, in two forms). Each printed once:
+# p. xi (Ember Days; Christmas Eve), p. xv (Ember Days), p. xviii (Ascension).
+LESSON_NOTES = [
+    "* Optional Lessons for the Ember Days.",
+    "† These Lessons may be used on Christmas Eve.",
+    "* Optional Lessons for the Eve of Ascension Day.",
+]

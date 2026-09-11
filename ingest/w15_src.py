@@ -169,6 +169,58 @@ def smallcaps_title(s):
     return " ".join(out)
 
 
+# The book abbreviations the 1928 tables print (read off the scan). Used ONLY to
+# decide whether kerned fragments ("M att.", "I K gs .") rejoin -- a join whose
+# result is not in this list is left alone for the witness pass to judge.
+BOOK_ABBR = {
+    "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Joshua", "Judges", "Ruth",
+    "Sam", "Kgs", "Chron", "Ezra", "Neh", "Esther", "Job", "Prov", "Eccles",
+    "Ecclus", "Isa", "Jer", "Lam", "Ezek", "Dan", "Hosea", "Joel", "Amos",
+    "Obad", "Jonah", "Micah", "Nahum", "Hab", "Zeph", "Hag", "Zech", "Mal",
+    "Wisdom", "Tobit", "Baruch", "Esd", "Macc", "Matt", "Mark", "Luke", "John",
+    "Acts", "Rom", "Cor", "Gal", "Ephes", "Phil", "Col", "Thess", "Tim",
+    "Titus", "Philem", "Philemon", "Heb", "James", "Peter", "Pet", "Jude",
+    "Rev", "Song",
+}
+
+
+def citation(s):
+    """Typographic normalization of one printed citation. It removes kerning
+    spaces (inside a number, inside a book abbreviation that then matches
+    BOOK_ABBR, inside "end"), sets every dash to "-" with no space round it,
+    closes the space after a chapter colon, writes "v. 13", and drops a
+    trailing period (the trailing-period trap). It never changes a digit or a
+    letter; readings are corrected only from the scan (w15_witness)."""
+    s = norm_ws(s.replace("–", "-").replace("—", "-"))
+    # The book prints ROMAN ordinals only ("I Cor.", "II Kgs.", read off the
+    # scan); the OCR keys the first as "1" or "l". Same reading, restored form.
+    s = re.sub(r"^[1l]\s+(?=[A-Z])", "I ", s)
+    s = re.sub(r"\be\s+nd\b", "end", s)
+    s = re.sub(r"\ba\s+nd\b", "and", s)
+    # kerned book abbreviations: "M att.", "Lu ke", "I K gs .", "Rom . 1"
+    def book(m):
+        joined = m.group(1).replace(" ", "")
+        return (joined + ".") if joined in BOOK_ABBR else m.group(0)
+    s = re.sub(r"\b([A-Z][a-z]*(?: [a-z]+)*)\s*\.(?=\s|\d|$)", book, s)
+    # kerned book names with no period ("W isdom 5", "I Pet er 5", "M icah")
+    def bare(m):
+        joined = m.group(1).replace(" ", "")
+        return joined if joined in BOOK_ABBR else m.group(1)
+    s = re.sub(r"\b([A-Z](?: ?[a-z])+)(?=\s*\d|\s*$)", bare, s)
+    s = re.sub(r"\b(Luke|John|Mark|Acts)(?=\d)", r"\1 ", s)
+    s = re.sub(r"\bv\s+\.", "v.", s)
+    # a space inside a number ("4 2:5-12", "1 3:7-end") -- never after a comma
+    s = re.sub(r"(?<=\d) (?=\d)", "", s)
+    s = re.sub(r"(?<=\d) (?=\d)", "", s)
+    s = re.sub(r"\s*-\s*", "-", s)
+    s = re.sub(r"(\d)\s*:\s*", r"\1:", s)
+    s = re.sub(r"\bv\.\s*(?=\d)", "v. ", s)
+    s = re.sub(r"(\b[A-Z][a-z]+\.)(?=\d)", r"\1 ", s)   # "Gen.44" -> "Gen. 44"
+    s = re.sub(r"\s+,", ",", s)
+    s = re.sub(r",(?=\d)", ", ", s)      # "1-3,12-29" -> "1-3, 12-29" (as set)
+    return s.rstrip(" .")
+
+
 def psalm_list(s):
     """Typographic normalization of a printed psalm list, counted by callers:
     one space after each comma or semicolon ("1,15,146" -> "1, 15, 146"),

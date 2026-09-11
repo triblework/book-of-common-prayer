@@ -1,0 +1,1915 @@
+[
+ {
+  "sec": "cy",
+  "week": "First Sunday in Advent",
+  "row": "Tuesday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 2 .4-14",
+  "scan": "Gen. 2:4-14",
+  "book": "x",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Advent",
+  "row": "Saturday",
+  "field": "Evening 1",
+  "text_layer": "I Kgs 13:1-10",
+  "scan": "I Kgs. 13:1-10",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Advent",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "Rev. 6:v. 13",
+  "scan": "Rev. 9:v. 13",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Advent",
+  "row": "Tuesday",
+  "field": "Evening 1",
+  "text_layer": "I E s.. 15:v. 21",
+  "scan": "I Kgs. 15:v. 25",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Advent",
+  "row": "Thursday",
+  "field": "Evening 1",
+  "text_layer": "I Kgs. 16:11-33",
+  "scan": "I Kgs. 16:15-33",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Advent",
+  "row": "Friday",
+  "field": "Evening 2",
+  "text_layer": "Rev. 12:v. 1",
+  "scan": "Rev. 12:v. 7",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Advent",
+  "row": "Saturday",
+  "field": "Evening 1",
+  "text_layer": "I Kgs. 18:1-I s",
+  "scan": "I Kgs. 18:1-20",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Third Sunday in Advent",
+  "field": "Morning 1",
+  "text_layer": "Isa. 401-11",
+  "scan": "Isa. 40:1-11",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Wednesday Ember Day",
+  "field": "Morning 1",
+  "text_layer": "Ecclus. 43:v. II / Mal. 1:6-2:7*",
+  "scan": "Ecclus. 43:v. 11 / Mal. 1:6-2:7*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Wednesday Ember Day",
+  "field": "Evening 1",
+  "text_layer": "I K g. . 20:1-21 / Deut. 18:v. 13*",
+  "scan": "I Kgs. 20:1-21 / Deut. 18:v. 13*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Friday Ember Day",
+  "field": "Evening 1",
+  "text_layer": "I Kgs. 20:v. 35 / I Sam. 3",
+  "scan": "I Kgs. 20:v. 35 / I Sam. 3*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Friday Ember Day",
+  "field": "Evening 2",
+  "text_layer": "Rev. 19 / II Tim. 2:v. 5*",
+  "scan": "Rev. 19 / II Tim. 2:v. 8*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Saturday Ember Day",
+  "field": "Morning 1",
+  "text_layer": "Ecclus. 51:1-12 / Mal. 3:13-4:end",
+  "scan": "Ecclus. 51:1-12 / Mal. 3:13-4:end*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Saturday Ember Day",
+  "field": "Morning 2",
+  "text_layer": "Mark 10:v. 32 / Lak e 6:12-23 *",
+  "scan": "Mark 10:v. 32 / Luke 6:12-23*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Saturday Ember Day",
+  "field": "Evening 1",
+  "text_layer": "I Kgs. 21:1-20. 27-end / Jer. 1*",
+  "scan": "I Kgs. 21:1-20, 27-end / Jer. 1*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Advent",
+  "row": "Saturday Ember Day",
+  "field": "Evening 2",
+  "text_layer": "Rev: 20 / II Tim. 3:14-4:8*",
+  "scan": "Rev. 20 / II Tim. 3:14-4:8*",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday in Advent",
+  "row": "Tuesday",
+  "field": "Evening 1",
+  "text_layer": "Micah 3. 5-4:7",
+  "scan": "Micah 3:5-4:7",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday in Advent",
+  "row": "Wednesday",
+  "field": "Morning 2",
+  "text_layer": "Mark 12.-v. 13",
+  "scan": "Mark 12:v. 13",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday in Advent",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Isa. 9:8.-10:4",
+  "scan": "Isa. 9:8-10:4",
+  "book": "xi",
+  "page": 6
+ },
+ {
+  "sec": "cy",
+  "week": "St. John Evangelist",
+  "row": "St. John Evangelist",
+  "field": "Morning 2",
+  "text_layer": "Jo ke 13:10-35",
+  "scan": "John 13:20-35",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Christmas",
+  "row": "First Sunday after Christmas",
+  "field": "Morning 2",
+  "text_layer": "Lak e 2:22-40",
+  "scan": "Luke 2:22-40",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Christmas",
+  "row": "First Sunday after Christmas",
+  "field": "Evening 2",
+  "text_layer": "Lak e 2:1-19",
+  "scan": "Luke 2:1-19",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday After Christmas",
+  "row": "Second Sunday After Christmas",
+  "field": "label",
+  "text_layer": "Second Sunday After Christmas",
+  "scan": "Second Sunday after Christmas",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday After Christmas",
+  "row": "Second Sunday After Christmas",
+  "field": "Evening 2",
+  "text_layer": "Luke 2:13-32",
+  "scan": "Luke 2:15-32",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "January  2",
+  "row": "January  2",
+  "field": "Morning 1",
+  "text_layer": "Isa. . 28:9-22",
+  "scan": "Isa. 28:9-22",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "January  4",
+  "row": "January  4",
+  "field": "Evening 1",
+  "text_layer": "Jer. 30:13-22",
+  "scan": "Jer. 30:15-22",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "January  5",
+  "row": "January  5",
+  "field": "Evening 1",
+  "text_layer": "Num. 24:13-24",
+  "scan": "Num. 24:15-24",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Epiphany",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "John 2:v. l2",
+  "scan": "John 2:v. 12",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Epiphany",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Isa. 66:1-2, 10-14",
+  "scan": "Isa. 66:1-2, 10-14, 18-23",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Epiphany",
+  "row": "First Sunday after Epiphany",
+  "field": "Morning 2",
+  "text_layer": "Matt 2:1-11",
+  "scan": "Matt. 2:1-11",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Epiphany",
+  "row": "First Sunday after Epiphany",
+  "field": "Evening 1",
+  "text_layer": "I Sam. 2:1-l 1, 26",
+  "scan": "I Sam. 2:1-11, 26",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Epiphany",
+  "row": "First Sunday after Epiphany",
+  "field": "Evening 2",
+  "text_layer": "Matt. 18:1-3, 10-14",
+  "scan": "Matt. 18:1-5, 10-14",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Epiphany",
+  "row": "Wednesday",
+  "field": "Evening 2",
+  "text_layer": "I John 6:1-21",
+  "scan": "John 6:1-21",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Epiphany",
+  "row": "Wednesday",
+  "field": "Morning 2",
+  "text_layer": "Rom. 5:1-12",
+  "scan": "Rom. 5:1-11",
+  "book": "xiii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Epiphany",
+  "row": "Third Sunday after Epiphany",
+  "field": "Evening 2",
+  "text_layer": "Acts. 10:1-35, 44-end",
+  "scan": "Acts 10:1-35, 44-end",
+  "book": "xiii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Epiphany",
+  "row": "Friday",
+  "field": "Evening 1",
+  "text_layer": "Amos 1:1-2. 3",
+  "scan": "Amos 1:1-2:3",
+  "book": "xiii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Epiphany",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 25:7-11, 19-21, 27.-end",
+  "scan": "Gen. 25:7-11, 19-21, 27-end",
+  "book": "xiii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Epiphany",
+  "row": "Fourth Sunday after Epiphany",
+  "field": "Evening 2",
+  "text_layer": "Matt 23:16-26",
+  "scan": "Matt. 23:16-26",
+  "book": "xiii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday after Epiphany",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 35:I-15, 27-end",
+  "scan": "Gen. 35:1-15, 27-end",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday after Epiphany",
+  "row": "Saturday",
+  "field": "Evening 1",
+  "text_layer": "II Kgs. 15:8-13",
+  "scan": "II Kgs. 15:8-15",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday after Epiphany",
+  "row": "Sixth Sunday after Epiphany",
+  "field": "Morning 2",
+  "text_layer": "Mark 10. v. 46",
+  "scan": "Mark 10:v. 46",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday after Epiphany",
+  "row": "Thursday",
+  "field": "Evening 1",
+  "text_layer": "Nahum",
+  "scan": "Nahum 1",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday after Epiphany",
+  "row": "Thursday",
+  "field": "Evening 2",
+  "text_layer": "I John 20:1-18",
+  "scan": "John 20:1-18",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Monday",
+  "field": "Morning 2",
+  "text_layer": "Phil. 1:1-l1",
+  "scan": "Phil. 1:1-11",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "Matt. 3:1-20",
+  "scan": "Matt. 5:1-20",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Wednesday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 39:1-6, 20-end and 20:30-end",
+  "scan": "Gen. 39:1-6, 20-end",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Wednesday",
+  "field": "Evening 1",
+  "text_layer": "II Chron. 19:4-end",
+  "scan": "II Chron. 19:4-end and 20:30-end",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 41:13-37",
+  "scan": "Gen. 41:15-37",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Septuagesima",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Matt. 13:4-52",
+  "scan": "Matt. 13:24-52",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sexagesima",
+  "row": "Sexagesima",
+  "field": "Morning 2",
+  "text_layer": "Matt. l0:32-39",
+  "scan": "Matt. 10:32-39",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sexagesima",
+  "row": "Tuesday",
+  "field": "Morning 2",
+  "text_layer": "James 1:v. 16 Il",
+  "scan": "James 1:v. 16",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sexagesima",
+  "row": "Tuesday",
+  "field": "Evening 1",
+  "text_layer": "Chron. 25",
+  "scan": "II Chron. 25",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sexagesima",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 43v. 15",
+  "scan": "Gen. 43:v. 15",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Sexagesima",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Matt 2. 5.1-13",
+  "scan": "Matt. 25:1-13",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Quinquagesima",
+  "row": "Quinquagesima",
+  "field": "Evening 1",
+  "text_layer": "Isa. 63:7-9, 14-l6",
+  "scan": "Isa. 63:7-9, 14-16",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Quinquagesima",
+  "row": "Monday",
+  "field": "Evening 1",
+  "text_layer": "II K g. . 20",
+  "scan": "II Kgs. 20",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Quinquagesima",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "Matt. 23:14-30",
+  "scan": "Matt. 25:14-30",
+  "book": "xiv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Ash Wednesday",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 45v. 16",
+  "scan": "Gen. 45:v. 16",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Ash Wednesday",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Gen. 46:1-7. 26-end",
+  "scan": "Gen. 46:1-7, 26-end",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Ash Wednesday",
+  "row": "Saturday",
+  "field": "Evening 1",
+  "text_layer": "II Kgs. . 23:21-35",
+  "scan": "II Kgs. 23:21-35",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "First Sunday in Lent",
+  "field": "Morning 1",
+  "text_layer": "II Sam. 11:2-4a, and 12:1-7, 9-10, 12-13 a",
+  "scan": "II Sam. 11:2-4a, and 12:1-7, 9-10, 12-13a",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "First Sunday in Lent",
+  "field": "Morning 2",
+  "text_layer": "Luke 11:10-14",
+  "scan": "Luke 18:10-14",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "Luke 3:v. 17",
+  "scan": "Luke 5:v. 17",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Wednesday Ember Day",
+  "field": "Morning 1",
+  "text_layer": "Gen. 49 / I Sam. 2:27-35 *",
+  "scan": "Gen. 49 / I Sam. 2:27-35*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Wednesday Ember Day",
+  "field": "Evening 2",
+  "text_layer": "Luke 6:1-11 / II Cor. 5*",
+  "scan": "Luke 6:1-11 / II Cor. 3*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Saturday Ember Day",
+  "field": "Morning 1",
+  "text_layer": "Wisdom 9:17-10:14 / Ezek. 44:4-16, 23-24* v. 4 and 7)*",
+  "scan": "Wisdom 9:17-10:14 / Ezek. 44:4-16, 23-24*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Saturday Ember Day",
+  "field": "Morning 2",
+  "text_layer": "I Cor. 8 / M att.. 10:v. 24*",
+  "scan": "I Cor. 8 / Matt. 10:v. 24*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Saturday Ember Day",
+  "field": "Evening 1",
+  "text_layer": "Jer. 22 / Neh. 8:1-12 (om it",
+  "scan": "Jer. 22 / Neh. 8:1-12 (omit v. 4 and 7)*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday in Lent",
+  "row": "Saturday Ember Day",
+  "field": "Evening 2",
+  "text_layer": "Luke 7:v. 24 / II C ur. 5:5-6:10*",
+  "scan": "Luke 7:v. 24 / II Cor. 5:5-6:10*",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday in Lent",
+  "row": "Wednesday",
+  "field": "Morning 2",
+  "text_layer": "I Cor. l0:v. 15",
+  "scan": "I Cor. 10:v. 15",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Lent",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "Luke 10. v. 25",
+  "scan": "Luke 10:v. 25",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday in Lent",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "I Cor. 15:20-36",
+  "scan": "I Cor. 15:20-34",
+  "book": "xv",
+  "page": 8
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday in Lent",
+  "row": "Fourth Sunday in Lent",
+  "field": "Morning 1",
+  "text_layer": "II Sam 18:v. 5",
+  "scan": "II Sam. 18:v. 5",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday in Lent",
+  "row": "Fifth Sunday in Lent",
+  "field": "Morning 1",
+  "text_layer": "Gen. 221-13",
+  "scan": "Gen. 22:1-13",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday in Lent",
+  "row": "Thursday",
+  "field": "Evening 2",
+  "text_layer": "Luke 18:1-47",
+  "scan": "Luke 18:1-17",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday in Lent",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Wisdom 10:18-11:4",
+  "scan": "Wisdom 10:15-11:4",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Good Friday",
+  "row": "Good Friday",
+  "field": "Evening 2",
+  "text_layer": "Lu kc23:13-47",
+  "scan": "Luke 23:13-47",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Easter",
+  "row": "Easter",
+  "field": "Morning 1",
+  "text_layer": "Isa. 51. 9-16",
+  "scan": "Isa. 51:9-16",
+  "book": "xvi",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Easter Tuesday",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Exod. 19:18-20:24",
+  "scan": "Exod. 19:16-20:24",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Easter Tuesday",
+  "row": "Saturday",
+  "field": "Morning 2",
+  "text_layer": "Mark 14:17. 22-28",
+  "scan": "Mark 14:17, 22-28",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Easter",
+  "row": "First Sunday after Easter",
+  "field": "Evening 1",
+  "text_layer": "Job 19:1. l3-27a",
+  "scan": "Job 19:1, 13-27a",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Easter",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "Exod. 32. 1-24",
+  "scan": "Exod. 32:1-24",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Easter",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Exod. 32. 30-33:end",
+  "scan": "Exod. 32:30-33:end",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Easter",
+  "row": "Friday",
+  "field": "Evening 2",
+  "text_layer": "John 6:21-58",
+  "scan": "John 6:25-58",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Easter",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Mark 13:18-27",
+  "scan": "Mark 12:18-27",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "Act. 3:v. 12",
+  "scan": "Acts 3:v. 12",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "Act. 10:34-43",
+  "scan": "Acts 10:34-43",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Wednesday",
+  "field": "Morning 2",
+  "text_layer": "Col. 2:4-3. 3",
+  "scan": "Col. 2:6-3:3",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Wednesday",
+  "field": "Evening 2",
+  "text_layer": "Acts 13:16-39",
+  "scan": "Acts 13:14-39",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Thursday",
+  "field": "Evening 2",
+  "text_layer": "Acts 17:22-33",
+  "scan": "Acts 17:22-31",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Friday",
+  "field": "Evening 1",
+  "text_layer": "Isa. 49:16-23",
+  "scan": "Isa. 49:14-23",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Easter",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Act. 9:v. 32",
+  "scan": "Acts 9:v. 32",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Easter",
+  "row": "Third Sunday after Easter",
+  "field": "Evening 1",
+  "text_layer": "Exod. l4:v. 5",
+  "scan": "Exod. 14:v. 5",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Easter",
+  "row": "Monday",
+  "field": "Morning 2",
+  "text_layer": "Ephes. 1:1-23",
+  "scan": "Ephes. 1:1-2:3",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Easter",
+  "row": "Tuesday",
+  "field": "Morning 1",
+  "text_layer": "Num. 13:1-3. 17-35",
+  "scan": "Num. 13:1-3, 17-25",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Easter",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "Num. 14:11-35",
+  "scan": "Num. 14:11-25",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Epiphany",
+  "row": "Wednesday",
+  "field": "Evening 1",
+  "text_layer": "I Kgs. 22:51-I / Kgs. 1:end",
+  "scan": "I Kgs. 22:51-II Kgs. 1:end",
+  "book": "xii",
+  "page": 7
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Fourth Sunday after Easter",
+  "field": "Morning 2",
+  "text_layer": "John 11:17-39 a. 41-4415-16, 9:8-16",
+  "scan": "John 11:17-39a, 41-44",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Fourth Sunday after Easter",
+  "field": "Evening 1",
+  "text_layer": "Gen. 8:6-12,",
+  "scan": "Gen. 8:6-12, 15-16, and 9:8-16",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Fourth Sunday after Easter",
+  "field": "Evening 2",
+  "text_layer": "Mark 12:18-27 a",
+  "scan": "Mark 12:18-27a",
+  "book": "xvii",
+  "page": 9
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "II Cor. 1:1-l0",
+  "scan": "II Cor. 1:1-10",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Wednesday",
+  "field": "Morning 1",
+  "text_layer": "Num. 20:1-13",
+  "scan": "Num. 10:1-13",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Thursday",
+  "field": "Evening 1",
+  "text_layer": "Isa. 38",
+  "scan": "Isa. 58",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Easter",
+  "row": "Thursday",
+  "field": "Evening 2",
+  "text_layer": "Rom. 1:1-17",
+  "scan": "Rom. 8:1-17",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday After Easter",
+  "row": "Fifth Sunday After Easter",
+  "field": "label",
+  "text_layer": "Fifth Sunday After Easter",
+  "scan": "Fifth Sunday after Easter",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday After Easter",
+  "row": "Fifth Sunday After Easter",
+  "field": "Morning 1",
+  "text_layer": "Ezek. 371-14",
+  "scan": "Ezek. 37:1-14",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Ascension Day",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Num. 22:1-23",
+  "scan": "Num. 22:1-35",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Ascension Day",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "Num. 22:36-22 .26",
+  "scan": "Num. 22:36-23:26",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday after Ascension",
+  "row": "Sunday after Ascension",
+  "field": "Morning 2",
+  "text_layer": "Act. 1:1-14",
+  "scan": "Acts 1:1-14",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday after Ascension",
+  "row": "Wednesday",
+  "field": "Evening 2",
+  "text_layer": "John 13:1-16",
+  "scan": "John 15:1-16",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday after Ascension",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "Num. 32:1-23",
+  "scan": "Num. 32:1-33",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday after Ascension",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "Heb. 10:33-11:22",
+  "scan": "Heb. 10:35-11:22",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday after Ascension",
+  "row": "Friday",
+  "field": "Evening 1",
+  "text_layer": "Isa. 63:v. 17",
+  "scan": "Isa. 65:v. 17",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whitsunday",
+  "row": "Whitsunday",
+  "field": "Evening 2",
+  "text_layer": "Acts 2:16-24, 36-39",
+  "scan": "Acts 2:14-24, 36-39",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "WhitMonday",
+  "row": "WhitMonday",
+  "field": "label",
+  "text_layer": "WhitMonday",
+  "scan": "Whit Monday",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whit Tuesday",
+  "row": "Whit Tuesday",
+  "field": "Morning 1",
+  "text_layer": "Isa. 10.33-11:10",
+  "scan": "Isa. 10:33-11:10",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whit Tuesday",
+  "row": "Whit Tuesday",
+  "field": "Evening 1",
+  "text_layer": "Ezek. 47:8-12",
+  "scan": "Ezek. 47:1-12",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whit Tuesday",
+  "row": "Wednesday Ember Day",
+  "field": "Evening 1",
+  "text_layer": "Isa. 32:1-19",
+  "scan": "Isa. 52:1-10",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whit Tuesday",
+  "row": "Wednesday Ember Day",
+  "field": "Evening 2",
+  "text_layer": "Acts 4:3-31",
+  "scan": "Acts 4:5-31",
+  "book": "xviii",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Whit Tuesday",
+  "row": "Saturday Ember Day",
+  "field": "Morning 2",
+  "text_layer": "Matt. 28. v. 16",
+  "scan": "Matt. 28:v. 16",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Trinity Sunday",
+  "row": "Trinity Sunday",
+  "field": "Evening 2",
+  "text_layer": "Rev. 19:3-16",
+  "scan": "Rev. 19:5-16",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Trinity Sunday",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "Acts 7:34-8:12",
+  "scan": "Acts 7:54-8:12",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Trinity",
+  "row": "Wednesday",
+  "field": "Evening 2",
+  "text_layer": "Acts 12:23-13:12",
+  "scan": "Acts 12:25-13:12",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Morning 2",
+  "text_layer": "Matt. 8:16-27",
+  "scan": "Matt. 8:14-27",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "First Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Acts 13:1-28",
+  "scan": "Acts 15:1-35",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Second Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Joshua 25",
+  "scan": "Joshua 23",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Third Sunday after Trinity",
+  "row": "Third Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "Gem 4:2b-10",
+  "scan": "Gen. 4:2b-10",
+  "book": "xix",
+  "page": 10
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Trinity",
+  "row": "Monday",
+  "field": "Morning 2",
+  "text_layer": "M ail. 13:v. 44",
+  "scan": "Matt. 13:v. 44",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Trinity",
+  "row": "Monday",
+  "field": "Evening 1",
+  "text_layer": "Ezra 7:1.-6:end",
+  "scan": "Ezra 7:1, 6-end",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Trinity",
+  "row": "Tuesday",
+  "field": "Morning 1",
+  "text_layer": "Judges 6:v. 28",
+  "scan": "Judges 6:v. 25",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Fourth Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Evening 2",
+  "text_layer": "Acts 28v. 16",
+  "scan": "Acts 28:v. 16",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday after Trinity",
+  "row": "Fifth Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "Gen. 41:1-49, 34-end",
+  "scan": "Gen. 41:1-49, 54-end",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Fifth Sunday after Trinity",
+  "row": "Fifth Sunday after Trinity",
+  "field": "Morning 2",
+  "text_layer": "Matt. 28:16-50",
+  "scan": "Matt. 25:14-30",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday After Trinity",
+  "row": "Sixth Sunday After Trinity",
+  "field": "label",
+  "text_layer": "Sixth Sunday After Trinity",
+  "scan": "Sixth Sunday after Trinity",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday After Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Judges l 7:6-18:11",
+  "scan": "Judges 17:6-18:11",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Sixth Sunday After Trinity",
+  "row": "Friday",
+  "field": "Evening 1",
+  "text_layer": "Esther l3:v. 8",
+  "scan": "Esther 13:v. 8",
+  "book": "xx",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Seventh Sunday after Trinity",
+  "row": "Friday",
+  "field": "Evening 2",
+  "text_layer": "Gal. 15:v. 16",
+  "scan": "Gal. 5:v. 16",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Eighth Sunday after Trinity",
+  "row": "Eighth Sunday after Trinity",
+  "field": "Morning 2",
+  "text_layer": "Matt. 7:8-12",
+  "scan": "Matt. 7:1-12",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Eighth Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "I Sam. 6:1-7:3",
+  "scan": "I Sam. 6:1-7:2",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Ninth Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "I Sam. 14:1-23, 40-48",
+  "scan": "I Sam. 14:1-23, 46-48",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Tenth Sunday after Trinity",
+  "row": "Tenth Sunday after Trinity",
+  "field": "Morning 2",
+  "text_layer": "Rom. l2:v. 9",
+  "scan": "Rom. 12:v. 9",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Tenth Sunday after Trinity",
+  "row": "Tenth Sunday after Trinity",
+  "field": "Evening 2",
+  "text_layer": "Luke 9. v. 46",
+  "scan": "Luke 9:v. 46",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "Tenth Sunday after Trinity",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "I Cor. .12:27-13:end",
+  "scan": "I Cor. 12:27-13:end",
+  "book": "xxi",
+  "page": 11
+ },
+ {
+  "sec": "cy",
+  "week": "11th Sunday after Trinity",
+  "row": "11th Sunday after Trinity",
+  "field": "Evening 1",
+  "text_layer": "Gen. 24:1-38. 50-54, 61-end",
+  "scan": "Gen. 24:1-38, 50-54, 61-end",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "11th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "Luke 7:10-35",
+  "scan": "Luke 7:16-35",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "12th Sunday after Trinity",
+  "row": "Tuesday",
+  "field": "Evening 2",
+  "text_layer": "II Cor. 6:23-9:end",
+  "scan": "II Cor. 8:23-9:end",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "12th Sunday after Trinity",
+  "row": "Wednesday",
+  "field": "Morning 1",
+  "text_layer": "I Sam. 25:25-33, 35-42",
+  "scan": "I Sam. 25:23-33, 35-42",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "12th Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "I Sam. 28.v. 3",
+  "scan": "I Sam. 28:v. 3",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "13th Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Evening 1",
+  "text_layer": "Deus.. 7:1-11",
+  "scan": "Deut. 7:1-11",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "14th Sunday after Trinity",
+  "row": "14th Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "II Sam. 23:5-17",
+  "scan": "II Sam. 23:8-17",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "14th Sunday after Trinity",
+  "row": "14th Sunday after Trinity",
+  "field": "Evening 1",
+  "text_layer": "II Kgs. 22:10-18, 29-37",
+  "scan": "I Kgs. 22:10-18, 29-37",
+  "book": "xxii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "15th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "Luke 15:v. 61",
+  "scan": "Luke 15:v. 11",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "15th Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "II Sam. 12:1-25",
+  "scan": "II Sam. 12:1-23",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "16th Sunday after Trinity",
+  "row": "16th Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "Dan. 5:1-9, 13-20",
+  "scan": "Dan. 5:1-9, 13-30",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "17th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "Luke 23:1-19",
+  "scan": "Luke 20:1-19",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "17th Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "II Sam 19:1-15",
+  "scan": "II Sam. 19:1-15",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "17th Sunday after Trinity",
+  "row": "Friday",
+  "field": "Evening 1",
+  "text_layer": "Lev, 19:1-18, 32-end",
+  "scan": "Lev. 19:1-18, 32-end",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "17th Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "II Sam. 19:10-30",
+  "scan": "II Sam. 19:16-30",
+  "book": "xxiii",
+  "page": 12
+ },
+ {
+  "sec": "cy",
+  "week": "18th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "II Sam. 23. 1-7",
+  "scan": "II Sam. 23:1-7",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "19th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "I Kgs. 1:25-37",
+  "scan": "I Kgs. 1:22-37",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "19th Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 2",
+  "text_layer": "Luke 24:13-25",
+  "scan": "Luke 24:13-35",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "19th Sunday after Trinity",
+  "row": "Saturday",
+  "field": "Morning 1",
+  "text_layer": "I Chron. 23:1-6, 34-end",
+  "scan": "I Chron. 23:1-6, 24-end",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "20th Sunday After Trinity",
+  "row": "20th Sunday After Trinity",
+  "field": "label",
+  "text_layer": "20th Sunday After Trinity",
+  "scan": "20th Sunday after Trinity",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "20th Sunday After Trinity",
+  "row": "Wednesday",
+  "field": "Evening 2",
+  "text_layer": "II Tim. I",
+  "scan": "II Tim. 1",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "21st Sunday after Trinity",
+  "row": "21st Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "Wisdom 31-9",
+  "scan": "Wisdom 3:1-9",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "21st Sunday after Trinity",
+  "row": "Monday",
+  "field": "Morning 2",
+  "text_layer": "John 3:v 22",
+  "scan": "John 3:v. 22",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "21st Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 2",
+  "text_layer": "John 4v. 43",
+  "scan": "John 4:v. 43",
+  "book": "xxiv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "22nd Sunday after Trinity",
+  "row": "Monday",
+  "field": "Evening 2",
+  "text_layer": "I Peter 1:1-28",
+  "scan": "I Peter 1:1-21",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "22nd Sunday after Trinity",
+  "row": "Wednesday",
+  "field": "Morning 2",
+  "text_layer": "John 6:v 51",
+  "scan": "John 6:v. 51",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "23rd Sunday after Trinity",
+  "row": "Tuesday",
+  "field": "Morning 2",
+  "text_layer": "John 8v. 31",
+  "scan": "John 8:v. 31",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "23rd Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 1",
+  "text_layer": "Prov. 3:15-26",
+  "scan": "Prov. 3:13-26",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "24th Sunday after Trinity",
+  "row": "24th Sunday after Trinity",
+  "field": "Morning 1",
+  "text_layer": "Isa. 51-7",
+  "scan": "Isa. 5:1-7",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "25th Sunday after Trinity",
+  "row": "Thursday",
+  "field": "Morning 1",
+  "text_layer": "Prov. 24:15-22",
+  "scan": "Prov. 24:13-22",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "25th Sunday after Trinity",
+  "row": "Friday",
+  "field": "Morning 2",
+  "text_layer": "John 16v. 12",
+  "scan": "John 16:v. 12",
+  "book": "xxv",
+  "page": 13
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday before Advent",
+  "row": "Sunday before Advent",
+  "field": "Evening 1",
+  "text_layer": "Micah 6:5-8",
+  "scan": "Micah 6:1-8",
+  "book": "xxvi",
+  "page": 14
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday before Advent",
+  "row": "Sunday before Advent",
+  "field": "Evening 2",
+  "text_layer": "James 1v. 12",
+  "scan": "James 1:v. 12",
+  "book": "xxvi",
+  "page": 14
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday before Advent",
+  "row": "Tuesday",
+  "field": "Morning 1",
+  "text_layer": "Ecclus 44:16-45:5",
+  "scan": "Ecclus. 44:16-45:5",
+  "book": "xxvi",
+  "page": 14
+ },
+ {
+  "sec": "cy",
+  "week": "Sunday before Advent",
+  "row": "Tuesday",
+  "field": "label",
+  "text_layer": "Tuesday",
+  "scan": "Thursday",
+  "book": "xxvi",
+  "page": 14,
+  "dup": 1
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Thomas",
+  "dup": 0,
+  "field": "Evening 1",
+  "text_layer": "Heb. 1:1-2:4",
+  "scan": "Hab. 1:1-2:4",
+  "book": "xxvi",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Matthias",
+  "dup": 0,
+  "field": "Eve 1",
+  "text_layer": "I Kgs. 2:26-31",
+  "scan": "I Kgs. 2:26-35",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Mark",
+  "dup": 0,
+  "field": "Evening 1",
+  "text_layer": "Ezek. 1:2-14",
+  "scan": "Ezek. 1:1-14",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Philip and St. James",
+  "dup": 0,
+  "field": "Morning 2",
+  "text_layer": "John 1:v. 45",
+  "scan": "John 1:v. 43",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. James",
+  "dup": 0,
+  "field": "Morning 1",
+  "text_layer": "Jer. 26:1-11",
+  "scan": "Jer. 26:1-15",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Michael and All Angels",
+  "dup": 0,
+  "field": "label",
+  "text_layer": "St. Michael and All Angels",
+  "scan": "St. Michael and all Angels",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Michael and All Angels",
+  "dup": 0,
+  "field": "Morning 1",
+  "text_layer": "Con. 32:24-30",
+  "scan": "Gen. 32:24-30",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Michael and All Angels",
+  "dup": 0,
+  "field": "Evening 1",
+  "text_layer": "Dan. 13",
+  "scan": "Dan. 12",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Simon and St. Jude",
+  "dup": 0,
+  "field": "Eve 2",
+  "text_layer": "M urk 6:1-13",
+  "scan": "Mark 6:1-13",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Simon and St. Jude",
+  "dup": 0,
+  "field": "Morning 1",
+  "text_layer": "Isa. 21:9-16",
+  "scan": "Isa. 28:9-16",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "fh",
+  "week": null,
+  "row": "St. Simon and St. Jude",
+  "dup": 0,
+  "field": "Evening 2",
+  "text_layer": "John 14v. 15",
+  "scan": "John 14:v. 15",
+  "book": "xxvii",
+  "page": 14
+ },
+ {
+  "sec": "so",
+  "week": null,
+  "row": "At the Laying of a Corner-stone",
+  "dup": 0,
+  "field": "label",
+  "text_layer": "At the Laying of a Corner-stone",
+  "scan": "At the Laying of a Cornerstone",
+  "book": "xxviii",
+  "page": 15
+ }
+]

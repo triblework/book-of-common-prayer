@@ -58,9 +58,19 @@ SLICES = {
                  r"PSALTER IS APPOYNTED TO BE READDE", r'name="Psalms"'),
         "1559": (K + "1559/Kalendar_1559.htm",
                  r"PSALTER IS APPOYNTED TO BE READDE", r'name="Order of Psalter"'),
+        # Wave 15: the end marker must take the WHOLE following heading. The
+        # Wave-14 pattern matched its second half, so the cell ended with the
+        # stray fragment "> Proper" (published in v1789 until Wave 15).
         "1789": (K + "1789/FrontMatter_1789.htm",
                  r'name="How the Psalter"',
-                 r"Psalms on Certain Days"),
+                 r"<em>Proper\s+Psalms on Certain Days"),
+        # Wave 15: 1892 prints this rubric under its own title. Wave 14 put it
+        # in `absent:` on the strength of the book's table of contents, which
+        # groups it under "Concerning the Service of the Church"; the page
+        # itself prints the section, titled.
+        "1892": (K + "1892/Front_Matter_1892.htm",
+                 r"HOW THE PSALTER IS APPOINTED TO BE READ\.",
+                 r"TABLE OF PROPER PSALMS ON CERTAIN DAYS"),
     },
     "order-how-rest-of-scripture": {
         "1549": (K + "1549/Kalendar_1549.htm",
@@ -69,9 +79,14 @@ SLICES = {
                  r'name="Rest of Scripture"', r'name="Proper Psalms&amp;Lessons"'),
         "1559": (K + "1559/Kalendar_1559.htm",
                  r'name="Order of Scripture"', r'name="Lessons"'),
+        # Wave 15: end BEFORE the pilcrow that opens the next heading; the
+        # Wave-14 marker matched inside the <a> tag and published "¶ <a".
         "1789": (K + "1789/FrontMatter_1789.htm",
                  r'name="How the rest of the Holy Scripture"',
-                 r'name="TABLES of LESSONS"'),
+                 r'&para;\s*<a\s+name="TABLES of LESSONS"'),
+        "1892": (K + "1892/Front_Matter_1892.htm",
+                 r"REST OF THE HOLY SCRIPTURE IS APPOINTED TO BE READ\.",
+                 r"HYMNS\s+AND ANTHEMS"),
     },
 }
 
@@ -122,8 +137,15 @@ def _is_title(line, title):
     return len(a & b) >= max(3, len(b) - 2)
 
 
+# Obvious keying noise in a source, cleaned narrowly (HANDOFF §4 allows it;
+# never a change of reading). Wave 15: the 1892 page runs two words together.
+SOURCE_NOISE = [("at EveningPrayer;", "at Evening Prayer;")]
+
+
 def paragraphs(seg):
     md = scrape.html_to_markdown(seg)
+    for bad, good in SOURCE_NOISE:
+        md = md.replace(bad, good)
     out = []
     for l in md.split("\n"):
         l = re.sub(r"\s+", " ", l).strip()

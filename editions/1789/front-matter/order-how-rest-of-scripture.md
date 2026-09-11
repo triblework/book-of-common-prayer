@@ -13,5 +13,3 @@ And the same discretion of choice is allowed on occasions of Ecclesiastical Conv
 And Note, That whensoever Proper Psalms or Lessons are appointed, then the Psalms and Lessons of ordinary course appointed in the Psalter and Calendar, if they be different, shall be omitted for that time.
 
 Note also, That the Collect, Epistle, and Gospel, appointed for the Sunday, shall serve for the Week after, where it is not in this Book otherwise ordered.
-
-¶ <a

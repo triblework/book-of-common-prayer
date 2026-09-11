@@ -9,5 +9,3 @@ And whereas the 119th Psalm is divided into twenty-two Portions, and is over lon
 The Minister shall, instead of reading from the Psalter as divided for Daily Morning and Evening Prayer, may read one of the Selections set out by this Church.
 
 And, on Days of Fasting and Thanksgiving, appointed either by the Civil or by the Ecclesiastical Authority, the Minister may appoint such Psalms as he shall think fit in his discretion, unless any shall have been appointed by the Ecclesiastical Authority, in a Service set out for the Occasion; which, in that case, shall be used and no other.
-
-> Proper
