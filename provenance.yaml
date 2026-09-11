@@ -11690,7 +11690,7 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "The slice stops at the \"Proper Psalms on Certain Days\" table the 1789 book prints within this section; that table is not transcribed (recorded gap)."
+    note: "The slice stops at the \"Proper Psalms on Certain Days\" table the 1789 book prints within this section; that table is not transcribed (recorded gap). Wave 15: the slice's end marker now takes the whole following heading; the Wave-14 cell ended with the stray fragment \"> Proper\", now removed."
   - edition: 1789
     service: front-matter/order-how-rest-of-scripture
     source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
@@ -11698,7 +11698,7 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "As 1559, in the American recension."
+    note: "As 1559, in the American recension. Wave 15: the slice now ends before the pilcrow that opens the next heading; the Wave-14 cell ended with the stray fragment \"¶ <a\", now removed."
   - edition: 1789
     service: tables/calendar
     source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
@@ -11762,7 +11762,7 @@ records:
     status: transcribed
     depth: table
     verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "1979 did NOT abolish the civil-date Kalendar: \"The Calendar of the Church Year\" prints a full twelve-month day-by-day table. What 1979 drops is the four lesson columns, which move into the two-year Daily Office Lectionary. The golden number printed in the left margin is excluded as apparatus."
+    note: "1979 did NOT abolish the civil-date Kalendar: \"The Calendar of the Church Year\" prints a full twelve-month day-by-day table. What 1979 drops is the four lesson columns, which move into the two-year Daily Office Lectionary. The golden number printed in the left margin is excluded as apparatus. Wave 15: 29 February restored. The e-text prints a bare \"29\" with no Sunday letter; the Wave-14 parser read it as a continuation, publishing \"February 28 | ... | Kalendar Note: 29\"."
   - edition: 1979
     service: tables/daily-office-lectionary
     source_url: "http://justus.anglican.org/resources/bcp/bcplectn.txt"
@@ -11959,33 +11959,6 @@ records:
     depth: table
     verifier: "claude-opus-5 (scripted ingest + column-count gates)"
     note: "RECORDED GAP. The justus HTML for the 1892 Kalendar has LOST the table's row structure: several days are packed into one line-break slot (\"5 6 7\"), the packing differs column by column, and continuation lines interleave. No structural discriminator recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. 1892 inherits 1789."
-    verify_items: []
-  - edition: 1928
-    service: tables/calendar
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
-    depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. 1928's Kalendar is PDF-only and, unlike its predecessors, prints no lesson columns (1928 moved the lessons into a separate table). Not transcribed this wave; 1928 inherits 1892."
-    verify_items: []
-  - edition: 1928
-    service: tables/feasts-and-fasts
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
-    depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. PDF-only; not transcribed this wave. 1928 inherits 1892."
-    verify_items: []
-  - edition: 1928
-    service: tables/proper-lessons
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
-    depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. 1928 revised its lectionary twice -- the original (in use 1928-1944) and the 1945 revision. Only PDF sources exist and one edition node cannot carry both, so 1928 inherits 1892 and the fork is recorded in NOTICE.md."
     verify_items: []
   # --- end Wave 14 ---
 
@@ -12254,22 +12227,91 @@ records:
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
     note: "RECORDED GAP. The book prints Selections of Psalms, but justus links this edition's Selections to the 1789 page (the \"looks shared\" trap), so this edition's own list is not sourced. It inherits the 1789 list."
     verify_items: []
+  # --- end Wave 13 ---
+
+  # --- Wave 15: the 1928 tables ---
+  - edition: 1892
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Front_Matter_1892.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest)"
+    note: "CORRECTS WAVE 14, which put this section in 1892's `absent:` on the strength of the book's TABLE OF CONTENTS (\"Concerning the Service of the Church, with the Order how the Psalter and the rest of the Holy Scripture is appointed to be read\"). The page itself prints it, titled."
+    verify_items: []
+  - edition: 1892
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Front_Matter_1892.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest)"
+    note: "As the Psalter-order rubric: printed and titled on the page; Wave 14's `absent:` is corrected. The source runs \"EveningPrayer\" together; the space is restored (obvious keying noise)."
+    verify_items: []
+  - edition: 1928
+    service: front-matter/order-how-psalter-appointed
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "Printed as \"THE USE OF THE PSALTER\" (book p. vii), in the same place and doing the same job as the historic rubric; carried under its printed title, so v1892 -> v1928 shows the rename as a heading change. WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items: []
+  - edition: 1928
+    service: front-matter/order-how-rest-of-scripture
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "Printed under the historic title (book p. x). The original printing differs from the transcription (a later printing) in two sentences, and the original is carried: the Gospel lesson \"appointed for that day of the month\", and \"Upon any day for which no Proper Lessons are provided, the Lessons appointed in the Calendar...\" -- older wording, pointing to a Calendar that no longer carries lessons, which the later printing rewrote. WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items: []
   - edition: 1928
     service: psalter/selections
-    source_url: "(no allow-listed source for this edition)"
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
     retrieved: 2026-09-11
-    status: inherited-unreviewed
+    status: transcribed
     depth: table
-    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "RECORDED GAP. The book prints Selections of Psalms, but justus links this edition's Selections to the 1789 page (the \"looks shared\" trap), so this edition's own list is not sourced. It inherits the 1789 list."
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "Selections of Psalms I-XX (book p. viii). Closes the recorded gap: justus links 1928's Selections to the 1789 page, so 1928 had inherited 1789's ten; the 1928 book prints twenty of its own. 2 corrections from the scan. WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items: []
+  - edition: 1928
+    service: tables/calendar
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Calendar&Tables_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "The Calendar (book pp. xxix-xxx): day, Sunday letter and holy day, and NO lesson columns -- the 1928 book moves the daily lessons into a table keyed to the church year (tables/proper-lessons). Rows carry the same three fields as 1979's, so v1928 -> v1979 is a per-day diff. Parsed from text-run coordinates (a month is an x-range, a day a y-row); golden numbers are excluded as apparatus. The text layer LOSES six days (15 April/May/June, 11 July/August/September), keys five Sunday letters wrongly and puts All Saints against 1 October: the seven-day letter cycle found each defect and the scan supplied each value -- 13 corrections, none computed. WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items: []
+  - edition: 1928
+    service: tables/feasts-and-fasts
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Calendar&Tables_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "Tables and Rules for the Movable and Immovable Feasts (book pp. xxxi-xxxii): the Rules, the Table of Feasts, the Table of Fasts, Other Days of Fasting, Days of Solemn Supplication, the Tables of Precedence, and the table of occasions with a proper Collect not in the Calendar. The Tables for finding Holy Days (Easter and golden-number grids) are excluded apparatus, as for 1892. 10 corrections from the scan, among them the heading \"COLLECT, EPISTLE, GOSPEL\" (the transcription reads \"EPISTLE, AND GOSPEL\"). WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items: []
+  - edition: 1928
+    service: tables/proper-lessons
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "The ORIGINAL 1928 lectionary (in use 1928-1944), book pp. x-xxviii: A Table of Lessons for the Christian Year (409 rows: every Sunday and weekday, with the Ember and Eve-of-Ascension optional lessons stacked as \" / \" alternatives, and the Autumnal Ember Days' optional lessons), A Table of Lessons for the Fixed Holy Days (19; Eve, Morning, Evening) and A Table of Lessons for Special Occasions (17). The 1945 revision (Psalms and Lessons for the Christian Year, used 1945-1978) is deliberately NOT carried. Parsed from text runs; every row compared with the scan page by page: 190 cells and labels corrected -- OCR misreadings (\"Lak e\" for Luke, \"Heb.\" for Hab.), old-style figures confused (3 read as 5 and back, 25 cells), dropped tails and stacked lessons. The witness records each correction without guessing whether it is a keying slip or a reading of the later printing. WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
     verify_items: []
   - edition: 1928
     service: tables/proper-psalms
-    source_url: "(no allow-listed source for this edition)"
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Lectionary_1928.pdf"
     retrieved: 2026-09-11
-    status: inherited-unreviewed
+    status: transcribed
     depth: table
-    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "RECORDED GAP. 1928's tables are PDF-only and were not transcribed; it inherits the 1892 table."
-    verify_items: []
-  # --- end Wave 13 ---
+    verifier: "claude-opus-5 (scripted ingest from the text layer; every row compared with the scan of the original 1928 printing)"
+    note: "Proper Psalms for Seasons and Days (22, with its two NOTEs), A Table of Psalms for the Sundays of the Church Year (57) and Psalms for Special Occasions (10), book pp. vii-ix. The Morning/Evening split follows the book's own NOTE (\"those for the Morning separated by the semi-colon from those for the Evening\"); rows printed without that shape are carried whole. 12 corrections from the scan, including Good Friday \"22:1-9\" (the transcription prints 1-19) and the Sunday table's Easter Day evening \"113, 114, 118\" (it prints 113, 116, 117). WITNESS: the scan of the original 1928 printing (http://justus.anglican.org/resources/bcp/1928/BCP1929.pdf), read as page images; the text layer was keyed from a LATER printing (its page numbers are not the original's) and is unproofread. Where the two disagree the scan's reading is carried and the correction is recorded, with its book page, in ingest/w15_witness.py. "
+    verify_items:
+      - anchor: "proper-psalms"
+        source_reading: "132"
+        note: "the scan's final digit is damaged; it has the form of this face's old-style 2, not its serifed 1, but the text layer keys 131. Carried as the scan reads; confirm against a clean copy of the 1928 printing"
+  # --- end Wave 15 ---

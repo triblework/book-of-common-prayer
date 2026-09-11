@@ -11,7 +11,9 @@ asserted that 1892 DROPPED it. The same trap is everywhere in this wave, because
 several editions carry a table we cannot transcribe:
 
   * `absent:` means THE BOOK DOES NOT HAVE IT. Only 1764 (the Communion-only
-    "Wee Bookie") and the genuinely-dropped rubrics at 1892 use it.
+    "Wee Bookie") uses it -- and, since Wave 15, 1979 for the Psalter-order
+    rubric. (Wave 14 also put both rubrics in 1892's `absent:`; that was
+    wrong, and Wave 15 corrected it.)
   * PRESENT-BUT-UNAUTHORED means the book has it and we inherit the parent's
     text because no allow-listed source gives us this edition's own. That is a
     TRANSCRIPTION GAP, recorded in provenance as `inherited-unreviewed` and
@@ -44,10 +46,18 @@ PRESENT = {
     'tables/feasts-and-fasts': ['1662', '1789', '1892', '1928', '1979'],
     'tables/eucharistic-lectionary': ['1979'],
     'tables/daily-office-lectionary': ['1979'],
+    # Wave 15 CORRECTION: 1892 and 1928 print both rubrics, titled (1892
+    # Front Matter; 1928 Lectionary pp. vii and x -- 1928 retitles the first
+    # "The Use of the Psalter"). Wave 14 had them `absent:` at 1892 from the
+    # books' TABLE OF CONTENTS, which groups them under "Concerning the
+    # Service of the Church". 1979 still has no Psalter-order section, so it
+    # now takes the `absent:` itself instead of inheriting one.
     'front-matter/order-how-psalter-appointed':
-        ['1549', '1552', '1559', '1604', '1662', '1637', '1789'],
+        ['1549', '1552', '1559', '1604', '1662', '1637', '1789', '1892',
+         '1928'],
     'front-matter/order-how-rest-of-scripture':
-        ['1549', '1552', '1559', '1604', '1662', '1637', '1789', '1979'],
+        ['1549', '1552', '1559', '1604', '1662', '1637', '1789', '1892',
+         '1928', '1979'],
 }
 SERVICES = sorted(PRESENT)
 
