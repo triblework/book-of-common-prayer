@@ -1,0 +1,16 @@
+[
+ {
+  "edition": "1892",
+  "service": "tables/proper-psalms",
+  "anchor": "Ash-Wednesday",
+  "source_reading": "180",
+  "note": "the 1892 table prints Psalm 180, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 6, 32, 38, Evening 102, 130, 143, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
+ },
+ {
+  "edition": "1892",
+  "service": "tables/proper-psalms",
+  "anchor": "Ascension-day",
+  "source_reading": "190",
+  "note": "the 1892 table prints Psalm 190, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 8, 15, 21, Evening 24, 47, 103, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
+ }
+]
