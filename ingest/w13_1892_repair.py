@@ -263,12 +263,48 @@ def post_pass(text, vocab):
     return re.sub(r"(?<![A-Za-z])([A-Z])\s+([A-Z]{1,}(?:[a-z]*)?)(?![A-Za-z])", cap, text)
 
 
+INTERNAL = {"hyphen": {}, "joined": {}}
+HYPHEN_BY_USAGE = []
+
+
+def learn_usage(pages):
+    """Count how 1892 ITSELF writes each compound in the middle of a line --
+    "loving-kindness" or "lovingkindness". A line-break hyphen is then decided
+    by the document's own usage BEFORE the reference vocabulary is consulted.
+    Consulting the vocabulary first pulled 1892 toward 1928: it joined
+    "loving-" / "kindness" into "lovingkindness", a form that is in the word
+    list only because 1928 prints it, while 1892 prints "loving-kindness"."""
+    body = SOFT.join(pages)
+    for m in re.finditer(r"(?<![A-Za-z%s])([A-Za-z]+)-([A-Za-z]+)(?![A-Za-z])" % SOFT, body):
+        k = (m.group(1).lower() + m.group(2).lower())
+        INTERNAL["hyphen"][k] = INTERNAL["hyphen"].get(k, 0) + 1
+    for w in re.findall(r"[A-Za-z]+", re.sub(SOFT + r"[A-Za-z]*|[A-Za-z]*" + SOFT, " ", body)):
+        k = w.lower()
+        INTERNAL["joined"][k] = INTERNAL["joined"].get(k, 0) + 1
+
+
+def usage(a, b):
+    """-> '-' if 1892 writes a-b mid-line, '' if it writes ab, None if never."""
+    k = (a + b).lower()
+    h, j = INTERNAL["hyphen"].get(k, 0), INTERNAL["joined"].get(k, 0)
+    if h > j:
+        return "-"
+    if j > h:
+        return ""
+    return None
+
+
 def resolve_soft(text, vocab):
     """Settle each marked line-end hyphen: drop it when the joined word is known
     ("com" + "manded" -> "commanded"), keep it as a hyphen when both halves are
     words ("loving" + "kindness"), otherwise leave "-" and report."""
     def one(m):
         a, b = m.group(1), m.group(2)
+        u = usage(a, b)
+        if u is not None:
+            HYPHEN_BY_USAGE.append(a + u + b)
+            FIXES["line_hyphen_joined" if u == "" else "line_hyphen_kept"] += 1
+            return a + u + b
         if _key(a + b) in vocab:
             FIXES["line_hyphen_joined"] += 1
             return a + b
@@ -332,6 +368,7 @@ def repaired_pages():
     import pypdf
     vocab = vocabulary()
     r = pypdf.PdfReader(PDF)
+    learn_usage([soften(pg.extract_text() or "") for pg in r.pages[1:]])
     pages = []
     for pg in r.pages:
         plain = soften(pg.extract_text() or "")
@@ -356,6 +393,11 @@ def full_text(pages=None):
 
     def page_hyphen(m):
         a, b = m.group(1), m.group(2)
+        u = usage(a, b)
+        if u is not None:
+            HYPHEN_BY_USAGE.append(a + u + b)
+            PAGE_HYPHENS.append(a + u + b)
+            return a + u + b
         if _key(a + b) in vocab:
             PAGE_HYPHENS.append(a + b)
             return a + b

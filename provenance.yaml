@@ -11988,3 +11988,288 @@ records:
     note: "RECORDED GAP. 1928 revised its lectionary twice -- the original (in use 1928-1944) and the 1945 revision. Only PDF sources exist and one edition node cannot carry both, so 1928 inherits 1892 and the fork is recorded in NOTICE.md."
     verify_items: []
   # --- end Wave 14 ---
+
+  # --- Wave 13: the Psalter ---
+  - edition: 1662
+    service: psalter/psalms-1-50
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/psalter/psalms-1-5"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The Coverdale psalter as the Church of England serves it, from 60 sub-pages parsed on the page's own classes (vlitemheading / vllatinsub / vlpsalm / vlversenumber). Pages are ordered by the psalm and verse range their URL encodes; Psalm 17's verses 14-16 share one paragraph and are split at their number spans. The mediant is printed \" : \" as the book prints it."
+    verify_items:
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan"
+  - edition: 1662
+    service: psalter/psalms-51-100
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/psalter/psalms-1-5"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The Coverdale psalter as the Church of England serves it, from 60 sub-pages parsed on the page's own classes (vlitemheading / vllatinsub / vlpsalm / vlversenumber). Pages are ordered by the psalm and verse range their URL encodes; Psalm 17's verses 14-16 share one paragraph and are split at their number spans. The mediant is printed \" : \" as the book prints it."
+    verify_items:
+      - anchor: "psalms-51-100"
+        source_reading: "no mediant"
+        note: "the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan"
+      - anchor: "psalms-51-100"
+        source_reading: "Praised be the Lord for evermore"
+        note: "the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan"
+  - edition: 1662
+    service: psalter/psalms-101-150
+    source_url: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/psalter/psalms-1-5"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The Coverdale psalter as the Church of England serves it, from 60 sub-pages parsed on the page's own classes (vlitemheading / vllatinsub / vlpsalm / vlversenumber). Pages are ordered by the psalm and verse range their URL encodes; Psalm 17's verses 14-16 share one paragraph and are split at their number spans. The mediant is printed \" : \" as the book prints it."
+    verify_items: []
+  - edition: 1892
+    service: psalter/psalms-1-50
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-1-50"
+        source_reading: "semicolon at the mediant"
+        note: "the 1892 PDF prints a semicolon where 1662 and 1928 print the mediant, so the verse carries no ' : '. Carried as printed"
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+      - anchor: "psalms-1-50"
+        source_reading: "cherubins"
+        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'Cherubims' in 1790 and 'Cherubim' in 1793; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+      - anchor: "psalms-1-50"
+        source_reading: "the water-pipes"
+        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'thy water-pipes' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+      - anchor: "psalms-1-50"
+        source_reading: "has cast"
+        note: "the 1892 PDF's letters spell 'has cast' where 1662 reads 'hast cast'; carried as the source prints it. Confirm against a scan"
+  - edition: 1892
+    service: psalter/psalms-51-100
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-51-100"
+        source_reading: "Zebulon"
+        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Zabulon' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
+      - anchor: "psalms-51-100"
+        source_reading: "Eqypt"
+        note: "the 1892 PDF's text layer reads 'Eqypt' (a q for the g); almost certainly a keying slip for 'Egypt', but carried exactly as the source prints it. Confirm against a scan"
+      - anchor: "psalms-51-100"
+        source_reading: "two colons"
+        note: "the 1892 PDF prints a colon where 1662 has a semicolon, so this verse carries two. Carried as printed"
+      - anchor: "psalms-51-100"
+        source_reading: "Midianites"
+        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
+  - edition: 1892
+    service: psalter/psalms-101-150
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms.pdf"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-101-150"
+        source_reading: "liked"
+        note: "the 1892 PDF's letters spell 'withered liked grass' where 1662 and 1928 read 'withered like grass'; carried as the source prints it, not corrected toward another edition. Confirm against a scan"
+      - anchor: "psalms-101-150"
+        source_reading: "no mediant"
+        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+  - edition: 1928
+    service: psalter/psalms-1-50
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Psalms1.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The width-400 text column of justus 1928/Psalms{1,2,3}.htm. The width-200 sidebar of earlier readings is NOT applied (no backward derivation), and the 164 superscript marks pointing into it are removed as apparatus. The asterisk mediant is normalized to \" : \". Eight psalms genuinely differ from 1662 in verse count, each with evidence: 14 (Romans-3 interpolation removed), 19 (last two verses merged), 45 (opening re-translated), 58, 71, 73, 104 (a long verse split in two), and 89 (see the 1662 VERIFY)."
+    verify_items:
+      - anchor: "psalms-1-50"
+        source_reading: "no mediant"
+        note: "the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan"
+  - edition: 1928
+    service: psalter/psalms-51-100
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Psalms1.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The width-400 text column of justus 1928/Psalms{1,2,3}.htm. The width-200 sidebar of earlier readings is NOT applied (no backward derivation), and the 164 superscript marks pointing into it are removed as apparatus. The asterisk mediant is normalized to \" : \". Eight psalms genuinely differ from 1662 in verse count, each with evidence: 14 (Romans-3 interpolation removed), 19 (last two verses merged), 45 (opening re-translated), 58, 71, 73, 104 (a long verse split in two), and 89 (see the 1662 VERIFY)."
+    verify_items: []
+  - edition: 1928
+    service: psalter/psalms-101-150
+    source_url: "http://justus.anglican.org/resources/bcp/1928/Psalms1.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The width-400 text column of justus 1928/Psalms{1,2,3}.htm. The width-200 sidebar of earlier readings is NOT applied (no backward derivation), and the 164 superscript marks pointing into it are removed as apparatus. The asterisk mediant is normalized to \" : \". Eight psalms genuinely differ from 1662 in verse count, each with evidence: 14 (Romans-3 interpolation removed), 19 (last two verses merged), 45 (opening re-translated), 58, 71, 73, 104 (a long verse split in two), and 89 (see the 1662 VERIFY)."
+    verify_items:
+      - anchor: "psalms-101-150"
+        source_reading: "no mediant"
+        note: "the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan"
+      - anchor: "psalms-101-150"
+        source_reading: "no mediant"
+        note: "the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan"
+  - edition: 1979
+    service: psalter/psalms-1-50
+    source_url: "http://justus.anglican.org/resources/bcp/bcpsalt1.txt"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-1-50"
+        source_reading: "Benedicam Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+  - edition: 1979
+    service: psalter/psalms-51-100
+    source_url: "http://justus.anglican.org/resources/bcp/bcpsalt1.txt"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-51-100"
+        source_reading: "Voce mea ad Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-51-100"
+        source_reading: "Deus ultio"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+  - edition: 1979
+    service: psalter/psalms-101-150
+    source_url: "http://justus.anglican.org/resources/bcp/bcpsalt1.txt"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
+    verify_items:
+      - anchor: "psalms-101-150"
+        source_reading: "Laudate Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-101-150"
+        source_reading: "Ad Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-101-150"
+        source_reading: "Voce mea ad Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-101-150"
+        source_reading: "Laudate Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-101-150"
+        source_reading: "Laudate Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+      - anchor: "psalms-101-150"
+        source_reading: "Laudate Domi"
+        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+  - edition: 1789
+    service: psalter/selections
+    source_url: "http://justus.anglican.org/resources/bcp/1789/Psalter_1789.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The ten Selections of Psalms, \"to be used instead of the Psalms for the Day\", as citations."
+    verify_items: []
+  - edition: 1789
+    service: tables/proper-psalms
+    source_url: "http://justus.anglican.org/resources/bcp/1789/FrontMatter_1789.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The Proper Psalms on Certain Days table printed within the 1789 Psalter rubric; closes the Wave-14 recorded gap."
+    verify_items: []
+  - edition: 1892
+    service: tables/proper-psalms
+    source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms_1892.htm"
+    retrieved: 2026-09-11
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "The 1892 Table of Proper Psalms on Certain Days, sixteen days, read left column then right (liturgical order)."
+    verify_items:
+      - anchor: "proper-psalms"
+        source_reading: "180"
+        note: "the 1892 table prints Psalm 180, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 6, 32, 38, Evening 102, 130, 143, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
+      - anchor: "proper-psalms"
+        source_reading: "190"
+        note: "the 1892 table prints Psalm 190, which does not exist (the Psalter has 150). A misprint; the intended number cannot be known from this source, so it is carried as printed; for the same day 1789 prints Morning 8, 15, 21, Evening 24, 47, 103, which suggests a 3-for-8 misreading -- and if so, a valid-looking number beside it may be misread too"
+  - edition: 1789
+    service: psalter/psalms-1-50
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. The 1789 book printed its own Psalter, but no allow-listed source gives it: justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR of a long-s original. Deriving it backwards from 1928 or 1892 was REJECTED by the maintainer (an apparatus is only as complete as its editor, so silence is not evidence of no change). 1789 inherits 1662; this is not a claim that 1789 reprinted 1662 unchanged."
+    verify_items: []
+  - edition: 1789
+    service: psalter/psalms-51-100
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. The 1789 book printed its own Psalter, but no allow-listed source gives it: justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR of a long-s original. Deriving it backwards from 1928 or 1892 was REJECTED by the maintainer (an apparatus is only as complete as its editor, so silence is not evidence of no change). 1789 inherits 1662; this is not a claim that 1789 reprinted 1662 unchanged."
+    verify_items: []
+  - edition: 1789
+    service: psalter/psalms-101-150
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: tier-1
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. The 1789 book printed its own Psalter, but no allow-listed source gives it: justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR of a long-s original. Deriving it backwards from 1928 or 1892 was REJECTED by the maintainer (an apparatus is only as complete as its editor, so silence is not evidence of no change). 1789 inherits 1662; this is not a claim that 1789 reprinted 1662 unchanged."
+    verify_items: []
+  - edition: 1892
+    service: psalter/selections
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. The book prints Selections of Psalms, but justus links this edition's Selections to the 1789 page (the \"looks shared\" trap), so this edition's own list is not sourced. It inherits the 1789 list."
+    verify_items: []
+  - edition: 1928
+    service: psalter/selections
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. The book prints Selections of Psalms, but justus links this edition's Selections to the 1789 page (the \"looks shared\" trap), so this edition's own list is not sourced. It inherits the 1789 list."
+    verify_items: []
+  - edition: 1928
+    service: tables/proper-psalms
+    source_url: "(no allow-listed source for this edition)"
+    retrieved: 2026-09-11
+    status: inherited-unreviewed
+    depth: table
+    verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
+    note: "RECORDED GAP. 1928's tables are PDF-only and were not transcribed; it inherits the 1892 table."
+    verify_items: []
+  # --- end Wave 13 ---
