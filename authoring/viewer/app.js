@@ -258,29 +258,64 @@ function buildSectionGrid(anchor) {
     rows.push({ cells });
   }
 
-  // Modified-pair merge -> word-level 'mod' cell (spec §6.2).
+  // Modified-pair merge -> word-level 'mod' cell (spec §6.2). The LCS emits a
+  // run of changed lines as all its removals, then all its additions, so pair a
+  // whole run of removals against the run of additions that follows it (in
+  // order, each pair above the similarity threshold) rather than only the
+  // removal adjacent to the first addition. A run is every consecutive line of
+  // a psalm between two Psalters, or a reworded paragraph of prose.
   if (state.wordDiff) {
-    for (let i = 0; i < rows.length - 1; i++) {
-      for (const c of cols) {
-        if (c.tag === state.base) continue;
-        const cell = rows[i].cells[c.tag];
-        if (!cell || cell.type !== "delgap") continue;
-        for (let k = i + 1; k < Math.min(rows.length, i + 4); k++) {
-          const nxt = rows[k].cells[c.tag];
-          if (nxt && nxt.type === "add" && nxt.unit) {
-            const baseTxt = cell.removed, colTxt = nxt.unit.text;
-            if (simil(baseTxt, colTxt) > 0.4) {
-              rows[i].cells[c.tag] = { type: "mod", unit: nxt.unit, html: wordDiffHTML(baseTxt, colTxt) };
-              rows[k].cells[c.tag] = { type: "blank" };
-            }
-            break;
-          }
-          if (nxt && nxt.type !== "blank") break;
+    for (const c of cols) {
+      if (c.tag === state.base) continue;
+      const typeAt = (k) => (rows[k].cells[c.tag] || { type: "blank" }).type;
+      let i = 0;
+      while (i < rows.length) {
+        if (typeAt(i) !== "delgap") { i++; continue; }
+        const dels = [], adds = [];
+        let k = i;
+        for (; k < rows.length && (typeAt(k) === "delgap" || typeAt(k) === "blank"); k++)
+          if (typeAt(k) === "delgap") dels.push(k);
+        for (; k < rows.length && (typeAt(k) === "add" || typeAt(k) === "blank"); k++)
+          if (typeAt(k) === "add" && rows[k].cells[c.tag].unit) adds.push(k);
+        for (const [d, a] of pairRuns(dels, adds, rows, c.tag)) {
+          const baseTxt = rows[d].cells[c.tag].removed, nxt = rows[a].cells[c.tag];
+          rows[d].cells[c.tag] = { type: "mod", unit: nxt.unit, html: wordDiffHTML(baseTxt, nxt.unit.text) };
+          rows[a].cells[c.tag] = { type: "blank" };
         }
+        i = Math.max(k, i + 1);
       }
     }
   }
-  return rows;
+  // A row whose every cell was paired away carries nothing.
+  return rows.filter((r) => cols.some((c) => (r.cells[c.tag] || { type: "blank" }).type !== "blank"));
+}
+
+// Order-preserving pairing of a removal run with an addition run: the most
+// pairs whose similarity clears the threshold, ties broken by total similarity.
+// Punctuation is ignored when judging similarity, so a short line that changed
+// only its stop ("Dixit insipiens" / "Dixit insipiens.") still pairs. Very long
+// runs (a wholesale replacement) are left unpaired.
+const unpunct = (s) => s.replace(/\p{P}+/gu, " ").trim();
+function pairRuns(dels, adds, rows, tag) {
+  const n = dels.length, m = adds.length;
+  if (!n || !m || n * m > 40000) return [];
+  const sim = dels.map((d) => adds.map((a) => simil(unpunct(rows[d].cells[tag].removed), unpunct(rows[a].cells[tag].unit.text))));
+  const best = Array.from({ length: n + 1 }, () => new Float64Array(m + 1));
+  for (let x = n - 1; x >= 0; x--)
+    for (let y = m - 1; y >= 0; y--) {
+      const s = sim[x][y];
+      const take = s > 0.4 ? best[x + 1][y + 1] + 1 + s * 1e-3 : -1;
+      best[x][y] = Math.max(take, best[x + 1][y], best[x][y + 1]);
+    }
+  const pairs = [];
+  let x = 0, y = 0;
+  while (x < n && y < m) {
+    const s = sim[x][y];
+    if (s > 0.4 && best[x][y] === best[x + 1][y + 1] + 1 + s * 1e-3) { pairs.push([dels[x], adds[y]]); x++; y++; }
+    else if (best[x][y] === best[x + 1][y]) x++;
+    else y++;
+  }
+  return pairs;
 }
 
 /* ============================================================ render ========= */
