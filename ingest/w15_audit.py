@@ -195,7 +195,6 @@ WEEKDAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 # A "week" here is what follows a row that is not a plain weekday. Where the
 # book's weeks are not Sunday + six weekdays, the reason (scan pp. x-xxvi):
 WEEK_EXEMPT = {
-    "Fourth Sunday in Advent": "Christmas Day follows the Saturday",
     "Christmas": "the fixed days of Christmastide follow, not weekdays",
     "St. Stephen": "Christmastide fixed day", "St. John Evangelist":
     "Christmastide fixed day", "Holy Innocents": "Christmastide fixed day",
@@ -205,7 +204,6 @@ WEEK_EXEMPT = {
     "Second Sunday after Christmas": "followed by January 2-5",
     "January 2": "a dated day", "January 3": "a dated day",
     "January 4": "a dated day", "January 5": "a dated day",
-    "Epiphany": "6 January; the weekdays of its week follow",
     "Quinquagesima": "the week runs Monday, Tuesday, then Ash Wednesday",
     "Ash Wednesday": "Thursday-Saturday complete Quinquagesima's week",
     "Sixth Sunday in Lent": "Holy Week: 'Monday before Easter' ... Easter Even",

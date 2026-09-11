@@ -174,12 +174,17 @@ its own distinct Preface (naming King James and Charles). The **American** line
 rewrites the front-matter entirely: it drops *Concerning the Service* and *Of
 Ceremonies*, writes its own **Preface** ("It is a most invaluable part of that
 blessed liberty…") and adds **The Ratification** of 1789; the 1979 book then
-re-adds a modern *Concerning the Service of the Church*.
+re-adds a modern *Concerning the Service of the Church*. (One known error: the
+1892 and 1928 books also print a short American text under that title, which the
+history does not yet carry for them — see `SOURCES.md`.)
 
 The **lectionary and calendar tables** are transcribed under `tables/` as
-normalized long-form — the Kalendar, the Tables of Proper Lessons, the Tables and
-Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and two-year
-Daily Office lectionaries. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
+normalized long-form — the Kalendar, the Tables of Proper Lessons and Proper
+Psalms, the Tables and Rules for the Feasts and Fasts, the original 1928
+lectionary (*A Table of Lessons for the Christian Year*, 1928–1944; the 1945
+revision is deliberately not carried), and the 1979 three-year eucharistic and
+two-year Daily Office lectionaries. The 1928 tables were checked row by row
+against a scan of the original 1928 printing. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
 1892, 1928 and 1979, each from its own source. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
@@ -203,10 +208,16 @@ git diff v1549 v1552 -- texts/normalized/holy-communion/holy-communion.md
 # of the Coverdale text) and re-translates the opening of Psalm 45:
 git diff v1892 v1928 -- texts/normalized/psalter/psalms-1-50.md
 
-# The Kalendar loses its lesson columns between 1789 and 1979: the American 1979
-# book keeps a civil-date calendar but moves the readings into a two-year cycle
-# keyed to the church's own weeks, so the four lesson columns simply vanish:
-git diff v1789 v1979 -- texts/normalized/tables/calendar.md
+# The Kalendar loses its four lesson columns in 1928, when the daily readings
+# move out of the civil-date calendar into a table keyed to the church's own weeks:
+git diff v1789 v1928 -- texts/normalized/tables/calendar.md
+
+# ...and that table: 1892's proper lessons for Sundays, holy days and Lent give
+# way to lessons for every day of the Christian year:
+git diff v1892 v1928 -- texts/normalized/tables/proper-lessons.md
+
+# Two calendars without lessons, compared day by day:
+git diff v1928 v1979 -- texts/normalized/tables/calendar.md
 
 # The Black Rubric (Declaration on Kneeling) appears in 1552, vanishes in 1559,
 # and returns in 1662 — visible across three Communion diffs:

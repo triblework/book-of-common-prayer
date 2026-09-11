@@ -33,11 +33,13 @@ ten service families, across every edition that has them:
 - **`prayers-and-thanksgivings/`** — the occasional prayers, state prayers and
   thanksgivings, 135 prayers
 - **`psalter/`** — the Psalter, one verse per line (1662, 1892, 1928, 1979),
-  with the 1789 Selections of Psalms
-- **`tables/`** — the Kalendar, the Tables of Proper Lessons, the Tables and
-  Rules for the Feasts and Fasts, and the 1979 three-year eucharistic and
-  two-year Daily Office lectionaries, all as normalized long-form (one entry per
-  line, stable column order) so a changed cell is a one-line diff
+  with the Selections of Psalms (1789's ten, 1928's twenty)
+- **`tables/`** — the Kalendar, the Tables of Proper Lessons and Proper Psalms,
+  the Tables and Rules for the Feasts and Fasts, the original 1928 lectionary
+  (A Table of Lessons for the Christian Year), and the 1979 three-year
+  eucharistic and two-year Daily Office lectionaries, all as normalized
+  long-form (one entry per line, stable column order) so a changed cell is a
+  one-line diff
 
 This is where the tradition's most famous changes live — the 1552 penitential
 introduction; the Holy Communion 1549→1552 restructuring, the moving Gloria in
@@ -46,8 +48,11 @@ appearing/vanishing/returning across 1552/1559/1662; the 1552 baptismal
 simplification; the Reformation stripping of the Burial office in 1552; the 1604
 Catechism sacraments section; the growth of the occasional prayers from nothing
 in 1549 to eighty-one texts in 1979; and, in the tables, the disappearance of the
-Kalendar's four lesson columns between 1789 and 1979 as the readings move into a
-two-year cycle keyed to the church's own weeks rather than to the civil date.
+Kalendar's four lesson columns at 1928, when the daily readings move out of the
+civil-date Kalendar into a table keyed to the church's own weeks (the 1979 book
+keeps that principle in a two-year cycle). The 1892 Kalendar is a recorded gap,
+so the Kalendar at `v1892` is 1789's: `v1892 → v1928` on that one file is really
+1789 → 1928.
 
 Presence varies by edition and is itself the signal: most families run across the
 ten full-book editions, while the Scottish 1764 "Wee Bookie" and 1929 are
@@ -75,14 +80,61 @@ explicitly rather than filled with invented text.
 |---|---|---|
 | 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). |
 | 1789 | the Psalter | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. |
-| 1892, 1928 | Selections of Psalms | justus links them to the 1789 page (a page that only looks shared); each inherits the 1789 list. |
-| 1928 | Table of Proper Psalms | PDF-only; inherits 1892's. |
+| 1892 | Selections of Psalms | justus links it to the 1789 page (a page that only looks shared); it inherits the 1789 list. (1928's, the same false link, is now transcribed from the 1928 lectionary PDF — Wave 15.) |
 | 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
 | 1662 | Kalendar, Proper Lessons, both rubrics | The Church of England serves only the **post-1922 recension** of these (verse-level citations, "or" alternatives, and PDFs that are explicitly the Revised Tables of Lessons Measure 1922). Its *Tables and Rules* and *Vigils and Fasts* PDFs **do** print the 1662 text, and those are transcribed. |
 | 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
 | 1892 | Kalendar | The source HTML has lost the table's row structure — several days are packed into one line-break slot, the packing differs column by column, and continuation lines interleave. No structural rule recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. |
-| 1928 | Kalendar, Proper Lessons, Feasts and Fasts | PDF-only. 1928 also revised its lectionary twice — the original (1928–1944) and the 1945 revision — and one edition node cannot carry both. |
+| 1928 | the 1945 revision of the lectionary | The 1928 book's lectionary exists in two forms: the original (1928–1944), which `v1928` carries, and the 1945 revision (*Psalms and Lessons for the Christian Year*, in use 1945–1978). One edition node cannot carry both; the revision is deliberately omitted. It is not a gap in `v1928`, which is complete as printed in 1928. |
 | 1549–1662 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. |
+
+### The 1928 tables (Wave 15)
+
+justus serves the 1928 tables only as PDFs: `1928/Calendar&Tables_1928.pdf`
+(the Calendar and the Tables and Rules for the Feasts and Fasts) and
+`1928/Lectionary_1928.pdf` (the rubrics, the tables of Proper Psalms, the
+Selections, and the three Tables of Lessons). Their text layer is Charles
+Wohlers's keying, and it has two properties that decide the method:
+
+- **It is unproofread.** Numbers are mis-keyed (an old-style 3 read as 5, a 1
+  as 7, `l0` for 10), book names split or misread (`Lak e`, `Heb.` for Hab.),
+  and six days of the Calendar are simply missing.
+- **It was keyed from a LATER printing.** Its index gives the Calendar at
+  p. xlvi; the original printing has it at p. xxix. Its wording differs from
+  the original in places: the heading "COLLECT, EPISTLE, AND GOSPEL" (the
+  original has no *and*), Good Friday's proper psalm "22:1-19" (the original
+  prints 1-9), and two sentences of the Scripture rubric that a later printing
+  reworded.
+
+So the text layer is the **carrier** and a page scan is the **witness**:
+`1928/BCP1929.pdf`, which justus describes as the original 1928 printing, read
+as page images. Every row of every table was compared with the scan. Where
+they disagree the scan's reading is carried, and the correction is recorded
+with its book page in `ingest/w15_witness.py` — 229 in all (Calendar 13, Feasts
+and Fasts 10, Proper Psalms and Selections 14, rubrics 2, Tables of Lessons
+190). No value was computed: the Calendar's seven-day letter cycle *found* its
+defects, and the scan supplied every missing value.
+
+This is the original lectionary (1928–1944), not the 1945 revision — see the
+recorded gaps above.
+
+| Cell | Source | Book pages | Rows |
+|---|---|---|---|
+| `tables/calendar` | `Calendar&Tables_1928.pdf` | xxix–xxx | 366 days; day, Sunday letter, holy day — no lesson columns |
+| `tables/feasts-and-fasts` | `Calendar&Tables_1928.pdf` | xxxi–xxxii | the Rules and Tables; the finding-tables (Easter and golden-number grids) are excluded apparatus, as for 1892 |
+| `front-matter/order-how-psalter-appointed` | `Lectionary_1928.pdf` | vii | printed as *The Use of the Psalter*; carried under that title |
+| `tables/proper-psalms` | `Lectionary_1928.pdf` | vii–ix | Seasons and Days 22; Sundays of the Church Year 57; Special Occasions 10 |
+| `psalter/selections` | `Lectionary_1928.pdf` | viii | Selections I–XX |
+| `front-matter/order-how-rest-of-scripture` | `Lectionary_1928.pdf` | x | the original printing's wording |
+| `tables/proper-lessons` | `Lectionary_1928.pdf` | x–xxviii | Christian Year 409; Fixed Holy Days 19; Special Occasions 17 |
+
+**Wave 15 also corrects three earlier cells.** The 1892 book prints both "Order
+how…" rubrics under their own titles (`1892/Front_Matter_1892.htm`); Wave 14
+had put them in 1892's `absent:` on the evidence of the book's table of
+contents, which folds them into *Concerning the Service of the Church*. They are
+now transcribed. 1789's two rubric cells lose a stray fragment each from the
+next heading, and the 1979 Kalendar regains 29 February (the e-text prints a
+bare "29" that the parser had read as a continuation of 28 February).
 
 ---
 
@@ -128,8 +180,10 @@ Crown-copyright acknowledgment: **BCP 1662** (see `NOTICE.md`).
 
 ## Omissions
 
-- The Psalter and full lectionary/calendar tables are **stretch scope** (brief
-  §13); their files are absent rather than stubbed.
+- The Psalter and the tables were stretch scope in the original brief (§13);
+  they are now transcribed wherever a source allows (see *Current transcription
+  scope* and the recorded gaps above). Where one does not, the file inherits
+  and the gap is recorded — it is never stubbed.
 - The proposed English 1928 "Deposited Book" is omitted (no confirmed clean PD
   source; brief §1).
 - Services absent from an edition are represented by the **absence** of the file
@@ -408,6 +462,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1637 Concerning the Service of the Church | `to fall to thin ground` | 'to fall to thin ground' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan |
 | 1979 Concerning the Service of the Church | `fulfull` | 'fulfull' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check |
 | 1637 Of Ceremonies | `OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man` | 'OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man' — justus notes two leaves are missing from its 1637 original around this section, so the Of Ceremonies text may be supplied from a parallel copy; confirm against a 1637 scan |
+| 1928 Proper Psalms (Palm Sunday, Also) | `132` | the scan's final digit is damaged; it has the form of this face's old-style 2, not its serifed 1, but the text layer keys 131. Carried as the scan reads; confirm against a clean copy of the 1928 printing |
 <!-- wave10-10a rows: begin -->
 | 1549 advent-3 | `The thirde sonday [in` | the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. |
 | 1549 advent-4 | `The fourth sonday [in` | the source brackets this title expansion and footnotes it only as "added in late 1500's", without naming a book; represented here as entering at 1559. |
@@ -851,4 +906,14 @@ Religion etc.) is back-matter, likewise out of scope.
 | 1892 | inherited from 1789 (`1892/BCP_1892.htm` cross-check) | Preface + Ratification unchanged |
 | 1928 | inherited from 1789 (`1928/Front_Matter_1928.pdf` cross-check) | Preface + Ratification unchanged (1928 front-matter PDF has a garbled font layer; relied on cross-source stability) |
 | 1979 | `bcpoffce.txt` via transform | re-adds a modern *Concerning the Service of the Church*; Preface + Ratification are the 1789 documents reprinted (inherited) |
+
+**A known presence error (Wave 15, not yet fixed).** The 1892 and 1928 books
+print a short *Concerning the Service of the Church*, an American rules text
+under that title (1892 `Front_Matter_1892.htm`; 1928 `Lectionary_1928.pdf`,
+sheet 1), so the statement above that the American line
+drops it at 1789 is wrong for those two books, and `front-matter/concerning-the-service`
+is currently in the `absent:` of 1789 and not present at 1892 or 1928. It is
+not a simple presence fix: this file's history is the 1549 Preface, and whether
+the American rules text belongs in the same slot is an open question. It is
+recorded in the backlog.
 

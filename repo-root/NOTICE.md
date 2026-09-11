@@ -432,6 +432,46 @@ The published branches and tags are build artifacts, regenerated from the
   reads this file and `SOURCES.md` from the resolved branch tip, so the viewer's
   per-edition source details are no longer blank). No text under `texts/`
   changed: every tag's `texts/` tree is byte-identical to the previous build.
+- **2026-09-11** — Wave 15: the **1928 tables**, which until now `v1928`
+  inherited from 1892 and 1789 as recorded gaps. Transcribed for `v1928`: the
+  **Calendar**, the **Tables and Rules for the Feasts and Fasts**, the **Proper
+  Psalms** (for Seasons and Days, for the Sundays of the Church Year, and for
+  Special Occasions), the twenty **Selections of Psalms**, both rubrics, and the
+  **original 1928 lectionary**: *A Table of Lessons for the Christian Year*
+  (409 rows, every Sunday and weekday), with the tables for the Fixed Holy Days
+  and for Special Occasions. **This is the lectionary in use 1928–1944. The 1945
+  revision (*Psalms and Lessons for the Christian Year*, in use 1945–1978) is
+  deliberately not carried**: one edition node cannot hold both, and `v1928` is
+  the book as printed in 1928. That omission is recorded in `SOURCES.md`; it
+  had not been stated in this file before. The only source is justus's PDFs,
+  whose text layer proved to be keyed, unproofread, from a **later printing**.
+  Every row was therefore compared with a scan of the **original 1928
+  printing**, and where the two disagree the scan's reading is carried: 229
+  corrections, each recorded with its book page. One reading, a damaged digit,
+  is flagged inline. Flagship diffs: `git diff v1892 v1928 --
+  texts/normalized/tables/proper-lessons.md`, where 1892's proper lessons for
+  Sundays, holy days and Lent give way to a table of lessons for every day of
+  the Christian year (the daily readings having left the Kalendar), and `git diff v1928
+  v1979 -- texts/normalized/tables/calendar.md`, a per-day comparison of two
+  calendars that carry no lessons. (The 1892 Kalendar remains a recorded gap, so
+  `v1892 → v1928` on the Kalendar is really 1789 → 1928.)
+- **2026-09-11** — Corrections shipped with Wave 15:
+  - **The 1892 rubrics are present, not absent.** The Wave 14 entry above says
+    1892 and 1928 merged both "Order how…" rubrics into *Concerning the Service
+    of the Church*. That was wrong: the evidence was the books' table of
+    contents, and the pages print both rubrics under their own titles. Both are
+    now transcribed for 1892 and 1928, and 1892 no longer declares them absent.
+    The 1928 book prints the Psalter rubric as *The Use of the Psalter*, and
+    the file carries that title. 1979 now declares the Psalter rubric absent in
+    its own right; before, it inherited that absence from 1892.
+  - **1789's two rubric cells** each ended with a stray fragment of the heading
+    that follows them ("> Proper", "¶ <a"). Both fragments are removed.
+  - **The 1979 Kalendar regains 29 February.** The e-text prints a bare "29"
+    with no Sunday letter, and the Wave 14 parser had read it as a note on 28
+    February.
+  - Still wrong, and recorded rather than fixed: 1892 and 1928 also print a
+    short American *Concerning the Service of the Church*, which the history
+    does not carry for them (see `SOURCES.md`, Front-matter).
 
 ## A note on transcription
 

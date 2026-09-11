@@ -11,6 +11,64 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 15 (the 1928 tables) DONE, NOT YET PUBLISHED (2026-09-11)
+
+**Built and gated on `authoring`; awaiting the maintainer's go-ahead on the
+force-push.** `v1928` now carries its own `tables/calendar` (366 days),
+`tables/feasts-and-fasts`, `tables/proper-psalms` (22 + 57 + 10),
+`psalter/selections` (I–XX), `tables/proper-lessons` (Christian Year 409, Fixed
+Holy Days 19, Special Occasions 17) and both rubrics. 1892 gains both rubrics.
+Gates: `w15_fidelity.py` 0 unattested values, sensitivity 18/18; `w15_audit.py`
+0 anomalies; w14 and w13 gates 0; `verify_index` reconciles 356 inline VERIFY
+with 464 provenance items. See `ingest/WAVE15_GUIDE.md`.
+
+**RULINGS (maintainer):** "Take all five recommendations; download BCP1929.pdf"
+— full scope in one publish; the scan as witness; fix the rubric `absent:` now;
+Concerning the Service to the backlog; the Christian-Year lessons in
+`tables/proper-lessons.md`.
+
+**THE FINDING THAT SHAPED THE METHOD: the justus text layer was keyed from a
+LATER printing.** Its index gives the Calendar at p. xlvi; the original's is
+p. xxix. So the text layer is the carrier and the scan of the original printing
+(`BCP1929.pdf`) is the witness. Every row was compared with the scan, and 229
+disagreements are recorded with book pages (calendar 13, feasts 10, psalms 14,
+rubrics 2, lessons 190). Some are keying errors: six Calendar days are missing,
+3 and 5 are confused 25 times, "Lak e" for Luke. Others are the later printing's
+own readings: the AND in "COLLECT, EPISTLE, AND GOSPEL", Good Friday 22:1-19,
+and the reworded Scripture rubric.
+
+**CORRECTIONS SHIPPING WITH THIS WAVE:** the 1892 rubrics (a false `absent:`
+from a table of contents, logged in NOTICE); 1789's two rubric cells each lose
+a stray heading fragment; the 1979 Kalendar regains 29 February (a bare "29" had
+been read as a continuation). 1979 now declares the Psalter rubric absent in its
+own right. NOTICE records the 1945 omission, which it had never stated.
+
+**LESSONS:**
+1. **Check which printing a transcription was keyed from.** An index page number
+   that disagrees with the scan is the cheapest test there is.
+2. **pypdf layout mode cannot read a dense lectionary.** Its cells were 1–2
+   spaces apart and rows scrambled; text runs with coordinates were reliable.
+3. **A witness correction must be keyed to the reading it replaces**, and must
+   fail when that reading changes (the stale check). Key on the ORIGINAL label:
+   a label correction otherwise orphans every correction on its row.
+4. **A cover test needs a window.** An unwindowed 3-piece cover passed the
+   fabricated "Isa. 99:1-5". Test exact first, then a local cover, and prove
+   sensitivity with readings the source prints NOWHERE. A reading printed
+   elsewhere ("Hab. 1:1-2:4" for a Lent Monday) cannot test a cell.
+5. **Reverse witness corrections per line, never as bare substrings.** "113"
+   is everywhere in a psalm table.
+6. A gate exemption must be NEEDED: two week exemptions (Advent 4, Epiphany)
+   were found to be unnecessary and removed. Test each exemption's necessity,
+   not only its reason.
+
+METHOD ASSETS: `WAVE15_SCOPING.md`, `WAVE15_GUIDE.md`, `w15_src.py`,
+`w15_witness.py`, `w15_lessons_witness.json`, `w15_calendar.py`,
+`w15_feasts.py`, `w15_psalms.py`, `w15_rubrics.py`, `w15_lessons.py`,
+`w15_show.py`, `w15_addw.py`, `w15_build.py`, `w15_fidelity.py`,
+`w15_audit.py`, `gen_wave15_provenance.py`.
+
+<!-- Superseded: the records-only block is kept below -->
+
 ## CURRENT — records-only republish (2026-09-11), after Wave 13
 
 **Published tips: `main edcc551 · scottish 1823d24 · american f08b8ac`; all 12 tags
@@ -1158,13 +1216,27 @@ candidate for a focused resolution pass rather than being folded into one.
 
 Named items, highest value first:
 
-- **The 1928 lectionary fork** (Wave 14, maintainer-ruled). justus publishes the
-  1928 lectionary TWICE: the original (in use 1928-1944) and the 1945 revision
-  (*Psalms and Lessons for the Christian Year*, used 1945-1978). One edition node
-  cannot carry both, so `v1928` denotes the book as published and the 1945
-  revision is DELIBERATELY OMITTED. If the repo ever wants it, it needs its own
-  representation (a second node, or a sibling file) — not a silent overwrite of
-  the 1928 tables. Recorded here so it survives the wave.
+- **The 1928 lectionary fork** (Wave 14, maintainer-ruled; Wave 15 carried the
+  original). justus publishes the 1928 lectionary TWICE: the original (in use
+  1928-1944), which `v1928` now carries, and the 1945 revision (*Psalms and
+  Lessons for the Christian Year*, used 1945-1978), which is DELIBERATELY
+  OMITTED. If the repo ever wants it, it needs its own representation (a second
+  node, or a sibling file) — not a silent overwrite of the 1928 tables.
+- **Concerning the Service of the Church, 1892 and 1928** (Wave 15 finding,
+  ruled to the backlog). Both books print a short American rules text under
+  that title (1892 `Front_Matter_1892.htm`; 1928 `Lectionary_1928.pdf` sheet 1),
+  but `front-matter/concerning-the-service` is `absent:` at 1789 and so absent
+  at 1892/1928 too. That file's history is the 1549 Preface, so decide slot
+  identity first (the same file, or a new American one?), then author. Stated
+  in SOURCES (Front-matter) and README.
+- **The 1928 Palm Sunday "Also: 24, 130, 132"** (Wave 15 VERIFY): the scan's
+  last digit is damaged; the text layer keys 131. Check a clean copy of the
+  1928 printing.
+- **The 1892 Tables and Rules for the Feasts and Fasts is line-fragmented**
+  (Wave 14 cell: the Rules' phrases and the tables' cells one fragment per line
+  — "Forty Days", "after Easter.", "I." / "The Forty Days of Lent."). `v1892 → v1928` on that file therefore shows much
+  re-lining besides real change. A rebuild in 1928's shape would make that diff
+  honest; the text is correct as it stands.
 - **The Psalter's recorded gaps** (Wave 13): 1549-1604 (no source; the Psalter
   first appears at v1662 as a graph artefact), 1789 (no usable source — backward
   derivation rejected; note justus's dated change table 1789/Psalter1789&1892.htm
@@ -1175,7 +1247,8 @@ Named items, highest value first:
 - **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
   1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
   recension); 1892's Kalendar (the source HTML has lost the table's row
-  structure); 1928's tables (PDF-only); the 1549-1662 Proper Lessons (printed as
+  structure); 1892's Selections of Psalms (justus links 1789's page; 1928's,
+  the same false link, was closed in Wave 15); the 1549-1662 Proper Lessons (printed as
   ~30 small per-occasion tables with varying column heights); the 1789 "Proper
   Psalms on Certain Days" table inside the Psalter rubric; and the Scottish
   line's tables.
@@ -1244,5 +1317,12 @@ it drifting.**
   the live colophon/provenance fields were silently null. To check the live site,
   build locally with `tools/build_viewer_data.py --out <scratch>` and `cmp` against
   `https://triblework.github.io/book-of-common-prayer/viewer/data/<file>`.
+
+- **A page scan as witness (Wave 15).** `sips` (macOS) converts justus's
+  JPEG2000 scan pages and crops them: `sips -s format png` then `--cropOffset`
+  and `-c`; `w15_src.scan_crop` wraps it. Two book pages per scan page.
+- **`sentence_split` and roman ordinals.** "I. The Forty Days of Lent." splits
+  after "I." — same as the 1892 cell, so accepted. Do NOT add "i" to the
+  abbreviation list: it would stop genuine splits ("…am I. Send me").
 
 Good luck. Source, verify, flag — never invent.
