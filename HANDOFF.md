@@ -11,6 +11,23 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — records-only republish (2026-09-11), after Wave 13
+
+**Published tips: `main edcc551 · scottish 1823d24 · american f08b8ac`; all 12 tags
+recreated; local==remote verified for 3 branches + 12 tags (27 refs with peeled tags).**
+Only `NOTICE.md` (Wave 14/13 log entries moved inside the rebuild log, plus this
+rebuild's entry) and `tools/build_viewer_data.py` changed; every tag's `texts/` is
+byte-identical to the Wave 13 build. Same session: the viewer's word-diff pairing
+fixed (`authoring/viewer/app.js`), and Authoring CI green for the first time (it had
+failed all 121 runs on the `requirements.txt` path). Pre-publish refs:
+`scratchpad/pre-publish-refs-records.txt`.
+
+**A full publish does not trigger the viewer's tag rebuild.** GitHub creates no
+push events when more than three tags are pushed at once, so `viewer.yml`'s
+`tags: ["v*"]` trigger never fires on a publish. The viewer rebuilds on the next
+`authoring` push (the post-publish HANDOFF record is one), or run
+`gh workflow run viewer.yml --ref authoring`. Check the live site after (§9).
+
 ## CURRENT — WAVE 13 (the Psalter) DONE + PUBLISHED (2026-09-11)
 
 **PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
