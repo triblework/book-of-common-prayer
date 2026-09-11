@@ -7,7 +7,7 @@ The 1928 book moved the daily lessons OUT of the Kalendar into a table keyed
 to the church year, so its lessons live in three printed tables:
 
   ## A TABLE OF LESSONS FOR THE CHRISTIAN YEAR.
-     every Sunday AND weekday, Advent 1 -> the Sunday next before Advent,
+     every Sunday AND weekday, Advent 1 -> the Sunday before Advent,
      with the Ember-day optional lessons and the fixed days of Christmastide.
      It succeeds 1892's Sundays table AND its weekday tables (Lent, Rogation,
      Ember), which is why it shares their file (ruling 5).
@@ -18,7 +18,7 @@ to the church year, so its lessons live in three printed tables:
 ROWS (Wave 14 schema; the 1892 labels "Morning 1" ... "Evening 2"):
   First Sunday in Advent | Morning 1: Isa. 55 | Morning 2: Luke 1:v. 57 | ...
   St. Andrew | Eve 1: ... | Eve 2: ... | Morning 1: ... | ... | Evening 2: ...
-  WHEN A CONFIRMATION IS TO FOLLOW | First Lesson: A / B | Second Lesson: C / D
+  When a Confirmation is to follow | First Lesson: A / B | Second Lesson: C / D
 Weekday rows carry the printed label ("Monday"); the Sunday row above them is
 what places them, exactly as on the page. Citations are carried as printed,
 with typographic normalization only (w15_src.citation). Alternatives stacked
@@ -26,23 +26,29 @@ in one Special-Occasions cell are joined with " / " -- supplied punctuation,
 since the book stacks them and does not pair them (Missions prints three
 first lessons against four second).
 
-STRUCTURE. Layout-mode text; each sheet is split at its gutter (the widest
-empty character column band), each book page parsed on its own. Cells are
-separated by 3+ spaces -- kerning inside a citation never reaches 3 -- and a
-piece is assigned to the column whose start (the median start of that column
-in the page's full rows) is nearest. A line whose DAYS field opens a new label
-starts a row; label continuations ("AFTER TRINITY", "IN ADVENT") and wrapped
-citation tails ("18-end") continue the row above, in their own column.
+STRUCTURE -- RUNS, NOT LAYOUT MODE. Each printed row is its label run(s) plus
+ONE run holding all four cells in printed order; a wrapped tail ("18-end") is
+its own run at its own x. Layout mode re-placed several of these runs (it put
+the Rogation Monday row's last cell on the next row's label), so the parser
+works from runs (w15_src.runs):
+  * cells are split where a CITATION STARTS -- a book abbreviation, kerning-
+    tolerant ("M att.", "I K gs"), including the text layer's misreadings
+    ("Lake", "Mail") so they open a cell and can be corrected in place;
+  * the label is the text before the first citation, its small capitals set
+    to the printed case by RUN SIZE (6 pt capitals, 4.98 pt small capitals);
+  * a label-less citation line fills the row's empty cells, or else stacks
+    alternatives (the Ember and Eve-of-Ascension lessons) by x;
+  * a tail joins the cell that awaits it (ends ",", "-", ":" or "and") when
+    the counts agree, otherwise the cell of its column (COLS).
 
-GATES: every Christian-Year row has exactly four cells; every Fixed-Holy-Day
-row six; the Christian-Year table has seven rows (Sunday + Monday-Saturday) in
-every Sunday's week unless the week is exempted with a reason; row counts are
-asserted. The text layer is then corrected against the scan (w15_witness.LESSONS).
+GATES: the row counts (EXPECT) abort the build; every correction in
+w15_witness.LESSONS must still match the text-layer reading it replaces.
+Every row was compared with the scan of the original printing: 190 cells and
+labels are corrected there, each with its book page (w15_lessons_witness.json).
 """
 from __future__ import annotations
 import os
 import re
-import statistics
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -54,7 +60,6 @@ import w15_witness as W
 
 OUT = os.path.join(WT, "editions", "1928", "tables", "proper-lessons.md")
 TITLE = "Tables of Proper Lessons"          # the slug title (1789, 1892)
-PIECE = re.compile(r"\S(?:.*?\S)?(?=\s{3,}|\s*$)")
 WEEKDAY = re.compile(r"^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)$")
 LABEL_CONT = re.compile(r"^(IN|AFTER|BEFORE|NEXT|EVANGELIST|EVANGE|LIST|OF)\b"
                         r"|^[a-z]")
@@ -62,80 +67,6 @@ FOOTNOTE = re.compile(r"^[*†]")
 RUNNING = re.compile(r"Lessons for the (Christian Year|fixed Holy Days)|"
                      r"Lessons for Special Occasions|^DAYS\b|First Les|"
                      r"Concerning the|Service of the Church|^Occasions\b")
-
-
-def gutter(lines):
-    W_ = max(len(l) for l in lines)
-    occ = [sum(1 for l in lines if i < len(l) and l[i] != " ")
-           for i in range(W_)]
-    best, s = (0, 0), None
-    for i, o in enumerate(occ + [1]):
-        if o == 0 and s is None:
-            s = i
-        if o != 0 and s is not None:
-            if i - s > best[1] - best[0] and 60 < s < W_ - 60:
-                best = (s, i)
-            s = None
-    return (best[0] + best[1]) // 2
-
-
-# Layout-mode placement errors, repaired from the RUN COORDINATES (a layout
-# artefact, never a reading). Sheet 6, line 5: the Fourth Sunday after Easter
-# row's citations are one run at x=108-129 -- the left page -- but layout mode
-# sets them ~100 columns right, across the gutter, which breaks the page split.
-# (sheet, line) -> (text the misplaced span starts with, correct column)
-LAYOUT_SHIFT = {(6, 5): ("II  Esd.", 20)}
-
-
-def _repair(sheet, lines):
-    for (sh, i), (start, col) in LAYOUT_SHIFT.items():
-        if sh != sheet:
-            continue
-        l = lines[i]
-        k = l.find(start)
-        if k < 0:
-            raise SystemExit("layout repair: %r not on sheet %d line %d"
-                             % (start, sheet, i))
-        head = l[:k].rstrip()
-        lines[i] = head + " " * max(3, col - len(head)) + l[k:]
-    return lines
-
-
-def halves():
-    """-> list of book pages (lists of lines) in reading order."""
-    out = []
-    for sheet in range(3, 10):
-        lines = _repair(sheet, S.layout("LEC", sheet).split("\n"))
-        g = gutter(lines)
-        left = [l[:g].rstrip() for l in lines]
-        right = [l[g:].rstrip() for l in lines]
-        # dedent each page to its own left margin
-        for page in (left, right):
-            body = [l for l in page if l.strip()]
-            m = min(len(l) - len(l.lstrip()) for l in body) if body else 0
-            out.append((sheet, [l[m:] for l in page]))
-    return out
-
-
-def pieces(line):
-    return [(m.start(), S.norm_ws(m.group(0))) for m in PIECE.finditer(line)]
-
-
-def colstarts(page, ncols, min_x):
-    """Median start of each lesson column over the page's FULL rows (a label
-    plus exactly ncols citations)."""
-    rows = []
-    for l in page:
-        ps = pieces(l)
-        if len(ps) == ncols + 1 and ps[0][0] < min_x:
-            rows.append([x for x, _t in ps[1:]])
-    if len(rows) < 3:
-        return None
-    return [statistics.median(r[k] for r in rows) for k in range(ncols)]
-
-
-def nearest(starts, x):
-    return min(range(len(starts)), key=lambda k: abs(starts[k] - x))
 
 
 # ---------------------------------------------------------------- the table
@@ -238,7 +169,7 @@ def split_cells(text, raw=False):
 SEP = " \u00a6 "      # run boundary marker inside a joined line
 
 
-def christian_year(pages_unused=None):
+def christian_year():
     rows, notes = [], []
     started = False
     suffix = None
@@ -372,14 +303,16 @@ def _attach_tails(row, tails, base):
         return
     waiting = [k for k in range(4) if row["cells"][k]
                and INCOMPLETE.search(row["cells"][k][-1])]
+    # a tail stays its own FRAGMENT (emit joins fragments with a space), so
+    # the fidelity gate can find each piece verbatim in the text layer
     if len(waiting) == len(tails):
         for k, (_x, t) in zip(waiting, tails):
-            row["cells"][k][-1] += " " + t
+            row["cells"][k].append(t)
         return
     for x, t in tails:
         k = col_of(x, base)
         if row["cells"][k]:
-            row["cells"][k][-1] += " " + t
+            row["cells"][k].append(t)
         else:
             row.setdefault("unplaced", []).append(t)
 
@@ -392,7 +325,7 @@ def _line(runs):
         joined[end:].replace(SEP, " "), raw=True) if m else [])
 
 
-def fixed_holy_days(pages_unused=None):
+def fixed_holy_days():
     """Sheet 9, left page (book pp. xxvi-xxvii): a holy day's name, then a
     First-Lesson line and a Second-Lesson line, each ONE run holding the Eve,
     Morning and Evening cells in printed order."""
@@ -424,7 +357,7 @@ def fixed_holy_days(pages_unused=None):
 SO_FIRST, SO_SECOND = 603.0, 661.4      # the two lesson columns (sheet 9)
 
 
-def special_occasions(pages_unused=None):
+def special_occasions():
     """Sheet 9, right page (book p. xxviii). A label ends with ':' when it is
     complete; one that does not ("AT THE DEDICATION OR CONSECRATION OF A")
     continues on the next line. A label-less line holds stacked alternatives
@@ -508,7 +441,7 @@ def _tails(row, tails, runs):
                and INCOMPLETE_SO.search(row["cells"][k][-1])]
     if len(waiting) == len(tails):
         for k, t in zip(waiting, tails):
-            row["cells"][k][-1] += " " + t
+            row["cells"][k].append(t)
     else:
         row.setdefault("unplaced", []).extend(tails)
 
@@ -543,7 +476,7 @@ def label_text(parts, row):
         last[-1] = last[-1][:suf.start()]
         s = "%s%s %s" % (m.group(1), suf.group(1), m.group(2))
     if re.match(r"^(December|January)\s*\d", s):
-        return re.sub(r"(\D)(\d)", r"\1 \2", s)
+        return re.sub(r"^(December|January)\s*(\d+)$", r"\1 \2", s)
     return s
 
 
@@ -605,19 +538,11 @@ def emit_rows(cy, fh, so):
     return out, fhr, sor
 
 
-def _alts(parts):
-    """Stacked alternatives vs wrapped tails: a piece that starts with a book
-    name opens a new alternative; anything else continues the one above."""
-    out = []
-    for p in parts:
-        if re.match(r"^(I{1,3}\s+)?[A-Z][a-z]+\.?\s*\d", p) or not out:
-            out.append(p)
-        else:
-            out[-1] += " " + p
-    return out
-
-
-EXPECT = {"christian": None, "fixed": 20, "special": 17}
+# Row counts, read off the scan of the original printing (pp. x-xxviii): the
+# Christian-Year table's 407 printed day rows + the two "Use Lessons omitted"
+# Sundays; nineteen fixed Holy Days (St. Andrew ... All Saints); seventeen
+# Special Occasions (the Ordination entry prints two).
+EXPECT = {"cy": 409, "fh": 19, "so": 17}
 
 
 def structured(rows, fhr, sor):
@@ -737,6 +662,8 @@ def main(write_file=True, witness=True):
         write(recs, notes)
     n = {k: sum(1 for r in recs if r["sec"] == k and "label" in r)
          for k in ("cy", "fh", "so")}
+    if n != EXPECT:
+        raise SystemExit("proper-lessons: row counts %s, want %s" % (n, EXPECT))
     print("1928  proper-lessons: christian-year=%d fixed=%d special=%d "
           "notes=%d witness corrections=%d" % (n["cy"], n["fh"], n["so"],
                                                len(notes), len(log)))

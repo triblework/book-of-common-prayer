@@ -41,7 +41,10 @@ EXPECT_ROWS = {
     ('1552', 'tables/calendar'): 365,
     ('1559', 'tables/calendar'): 365,
     ('1789', 'tables/calendar'): 366,   # 1789 prints 29 February
-    ('1979', 'tables/calendar'): 365,
+    ('1979', 'tables/calendar'): 366,   # Wave 15: 29 February restored
+    ('1928', 'tables/calendar'): 366,   # Wave 15 (29 Feb printed, no letter)
+    ('1928', 'tables/proper-lessons'): 445,  # Wave 15: 409 + 19 + 17
+    ('1928', 'tables/proper-psalms'): 89,    # Wave 15: 22 + 57 + 10
     ('1789', 'tables/proper-lessons'): 117,
     ('1892', 'tables/proper-lessons'): 191,
     ('1979', 'tables/eucharistic-lectionary'): 280,
@@ -51,6 +54,23 @@ EXPECT_ROWS = {
 # (edition, service, anchor) -> reason. AUDIT_METHOD's KNOWN_GOOD tier: an
 # exemption without a source-checked reason is a silenced bug.
 KNOWN_GOOD = {
+    # Wave 15 -- each read off the scan of the original 1928 printing
+    ('1928', 'tables/proper-lessons', '25th Sunday after Trinity'):
+        'the book prints no lessons but the direction "Use Lessons omitted '
+        'from the Sundays after Epiphany" (p. xxv).',
+    ('1928', 'tables/proper-lessons', '26th Sunday after Trinity'):
+        'the same direction (p. xxvi).',
+    ('1928', 'tables/proper-psalms', 'Holy Week'):
+        'printed as one list "...; or any of the Psalms for Ash Wednesday or '
+        'Good Friday" -- no Morning;Evening pair (p. viii).',
+    ('1928', 'tables/proper-psalms', 'Rogation Days'):
+        'printed as a single list (p. viii).',
+    ('1928', 'tables/proper-psalms', 'Thanksgiving Day and Harvest Festival'):
+        'printed as a single list (p. viii).',
+    ('1928', 'tables/proper-psalms', 'Ember Days and Ordination'):
+        'printed as a single list (p. viii).',
+    ('1928', 'tables/proper-psalms', "Saints’ Days"):
+        'printed as a single list plus "Also" (p. viii).',
     ('1979', 'tables/calendar', 'lesson columns'):
         '1979 keeps the civil-date Kalendar but moves the readings into the '
         'two-year Daily Office Lectionary, so its rows carry no lesson columns.',

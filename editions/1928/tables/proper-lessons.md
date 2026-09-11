@@ -35,15 +35,15 @@ St. Stephen | Morning 1: II Chron. 24:15-25 | Morning 2: Acts 6 | Evening 1: Wis
 St. John Evangelist | Morning 1: Exod. 33:v. 7 | Morning 2: John 13:20-35 | Evening 1: Isa. 6:1-8 | Evening 2: Rev. 4
 Holy Innocents | Morning 1: Jer. 31:1-17 | Morning 2: Matt. 18:1-14 | Evening 1: II Chron. 22:v. 8 | Evening 2: Mark 10:13-27
 First Sunday after Christmas | Morning 1: I Sam. 1:v. 20 | Morning 2: Luke 2:22-40 | Evening 1: Isa. 9:2-7 | Evening 2: Luke 2:1-19
-December  29 | Morning 1: Isa. 10:33-11:9 | Morning 2: I John 1:1-2:6 | Evening 1: Ezek. 34:1-16 | Evening 2: Luke 2:21-40
-December  30 | Morning 1: Isa. 11:10-12:end | Morning 2: I John 2:7-17 | Evening 1: Ezek. 34:v. 17 | Evening 2: Matt. 2:1-12
-December  31 | Morning 1: Isa. 25:1-9 | Morning 2: I John 2:v. 18 | Evening 1: Deut. 10:12-11:1 | Evening 2: Matt. 2:v. 13
+December 29 | Morning 1: Isa. 10:33-11:9 | Morning 2: I John 1:1-2:6 | Evening 1: Ezek. 34:1-16 | Evening 2: Luke 2:21-40
+December 30 | Morning 1: Isa. 11:10-12:end | Morning 2: I John 2:7-17 | Evening 1: Ezek. 34:v. 17 | Evening 2: Matt. 2:1-12
+December 31 | Morning 1: Isa. 25:1-9 | Morning 2: I John 2:v. 18 | Evening 1: Deut. 10:12-11:1 | Evening 2: Matt. 2:v. 13
 Circumcision | Morning 1: Exod. 6:2-8 | Morning 2: Matt. 1:v. 18 | Evening 1: Gen. 32:22-30 | Evening 2: Rev. 19:11-16
 Second Sunday after Christmas | Morning 1: Exod. 2:1-10 | Morning 2: Matt. 2:v. 13 | Evening 1: Prov. 31:10-29 | Evening 2: Luke 2:15-32
-January  2 | Morning 1: Isa. 28:9-22 | Morning 2: I John 3:1-18 | Evening 1: Jer. 23:1-6 | Evening 2: Luke 2:v. 41
-January  3 | Morning 1: Isa. 29:9-19 | Morning 2: I John 3:18-4:6 | Evening 1: Jer. 30:1-11 | Evening 2: John 1:1-28
-January  4 | Morning 1: Isa. 32:1-8, 16-18 | Morning 2: I John 4:v. 7 | Evening 1: Jer. 30:15-22 | Evening 2: John 1:v. 29
-January  5 | Morning 1: Isa. 35 | Morning 2: I John 5 | Evening 1: Num. 24:15-24 | Evening 2: Matt. 28:v. 16
+January 2 | Morning 1: Isa. 28:9-22 | Morning 2: I John 3:1-18 | Evening 1: Jer. 23:1-6 | Evening 2: Luke 2:v. 41
+January 3 | Morning 1: Isa. 29:9-19 | Morning 2: I John 3:18-4:6 | Evening 1: Jer. 30:1-11 | Evening 2: John 1:1-28
+January 4 | Morning 1: Isa. 32:1-8, 16-18 | Morning 2: I John 4:v. 7 | Evening 1: Jer. 30:15-22 | Evening 2: John 1:v. 29
+January 5 | Morning 1: Isa. 35 | Morning 2: I John 5 | Evening 1: Num. 24:15-24 | Evening 2: Matt. 28:v. 16
 Epiphany | Morning 1: Isa. 60 | Morning 2: Matt. 3:v. 13 | Evening 1: Isa. 49:1-13 | Evening 2: John 2:1-11
 Monday | Morning 1: Isa. 42:5-12 | Morning 2: Gal. 1 | Evening 1: Jer. 31:1-9 | Evening 2: John 2:v. 12
 Tuesday | Morning 1: Isa. 45:11-23 | Morning 2: Gal. 2 | Evening 1: Jer. 31:27-37 | Evening 2: John 3:1-21

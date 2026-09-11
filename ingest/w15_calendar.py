@@ -23,8 +23,10 @@ GATES (abort, never guess):
   1. every month a consecutive run 1..N of the right length (Feb 29 printed);
   2. the Sunday letters follow the rigid seven-day cycle;
   3. the holy-day names equal the Table of Feasts' fixed days (+ exemptions).
-The text layer FAILS gates 1 and 2 in nine places; each is resolved from the
-scan of the original printing via w15_witness.CALENDAR, never by arithmetic.
+The text layer FAILS gates 1 and 2 in eleven places (six days missing, five
+letters wrong) and keys All Saints against 1 October. Every one is resolved
+from the scan of the original printing (w15_witness.CALENDAR, 13 entries),
+never by arithmetic: the cycle FINDS a defect, the scan SUPPLIES the value.
 """
 from __future__ import annotations
 import datetime
