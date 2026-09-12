@@ -157,9 +157,55 @@ from. That confirms the original's "22:1-9" was changed in a later printing.
 Second, `1892Standard/psalter.pdf` is **not** an independent witness for the
 1892 Psalter. It repeats the carrier's own slips ("Eqypt", "stretch our her
 hands"), so the two files are one keying. They differ in about 470 words, mostly
-*shew*/*show* and *judgement*/*judgment*, and it is not known which file was
-edited. The fourteen 1892 Psalter VERIFYs therefore stand until a page scan
-settles them.
+*shew*/*show* and *judgement*/*judgment*, and it was not known which file was
+edited. **Wave 17 settled that from the page images** — see below.
+
+### The 1892 Psalter against the Standard Book scan (Wave 17)
+
+Wave 13 transcribed the 1892 Psalter from justus's `1892/Psalms.pdf` and
+flagged fourteen readings it could not settle, saying of four of them that
+"only a page scan can say which". Wave 17 fetched the scan: justus serves the
+**1892 Standard Book, subscribers' edition** as `1892Standard/1892standard.pdf`
+— 596 bitonal page images with no text layer, the Psalter at scan pages
+357–536. The pages were rendered and read with the operating system's own OCR,
+and every reading below was then checked line by line.
+
+The scan says the source PDF is **not the 1892 text in its spelling**:
+
+| The PDF | The book | Instances |
+|---|---|---|
+| *shew, Shew, shewed, sheweth, shewing* | *show, Show, showed, showeth, showing* | 56 |
+| *judgement, judgements* | *judgment, judgments* | 47 |
+| hyphenated: *hail-stones, first-born, eye-lids, eye-sight, needle-work, house-top(s), law-giver, over-past, spear-men* | closed: *hailstones, firstborn, eyelids, eyesight, needlework, housetop(s), lawgiver, overpast, spearmen* | 17 |
+| hyphenated: *night-season, night-watches, evil-doers, north-side, new-moon, wrong-doer* | two words | 17 |
+| *south-west wind* | *southwest-wind* | 1 |
+
+Neither "shew" nor "judgement" occurs anywhere on the 180 scanned pages. The
+book is not uniform about hyphens — it closes *hailstones* and *lawgiver* while
+keeping *wash-pot* and *blood-thirsty* — so each word was checked on its own.
+
+Seven single readings and seven verses of pointing were also corrected:
+18:10 *Cherubim*, 42:9 *thy water-pipes*, 50:17 *hast cast*, 68:27 *Zabulon*,
+68:31 *Egypt*, 83:9 *Madianites*, 102:4 *withered like grass*; and the mediant
+restored at 10:4, 14:7, 17:3, 35:20, 45:11 and 115:8, with 77:18's second colon
+corrected to the semicolon the book prints. **151 corrections in all.**
+
+Two independent checks come out right. The justus dated table of pre-1928
+psalter changes — compiled independently of both the PDF and the scan — agreed
+with the transcription 51 times in 55 before this wave and **55 times in 55
+after it**: the scan vindicated the change log at every point where the two had
+disagreed. And the corrections are contained: the published cell, with exactly
+these corrections applied, reproduces the new cell character for character.
+
+One reading is still open. At Psalm 1:3 the scan breaks *water-*/*side* across
+a line, so the page cannot say whether the word is hyphenated; it is carried as
+the PDF prints it and flagged.
+
+**What this does not claim.** The scan settles the readings listed here, and
+the spelling classes, which were counted across the whole Psalter. It is not a
+character-by-character collation of all 2,508 verses: page-image OCR is not
+reliable enough on punctuation for that, and the pointing was checked where
+Wave 13's mediant gate reported an anomaly.
 
 ---
 
@@ -317,6 +363,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 / 1892 (American) Litany | `in the day of judgment` | The justus 1789 page prints `in the day our judgment`; `our` is an OCR slip for `of` (cf. 1662 `in the day of judgement`). |
 | 1789 / 1892 (American) Litany | `whensoever they oppress us; and graciously hear us` | The justus page prints `oppress us . and graciously` (damaged semicolon); read against the 1662 parallel. |
 | 1789 / 1892 (American) Litany | `Fulfill` | The justus page prints `Fulfill`; the same-edition 1789 Evening Prayer prints `Fulfil`; internal commas restored from the parallel. |
+| 1892 (American) Psalm 1 | `water-side` | the 1892 Standard Book scan breaks this word across a line ("water-" / "side"), so the page cannot say whether the word is hyphenated; the Standard Book's keyed text prints "waterside". Carried as the 1892 PDF prints it |
 | 1892 (American) Litany | `That it may please thee to send forth laborers into thy harvest` | The justus 1789 page marks this petition `added in the 1892 BCP`; the only indicated 1892 difference. |
 | 1549 Communion | `The Epistle written in the Chapiter of to the` | 1549 prints a fill-in formula with blank slots for the proper Epistle's book/chapter/verse; the blanks did not survive the HTML capture. |
 | 1552 Communion | `God of goddes` | Nicene Creed; several printings read `God of God`. |
@@ -711,20 +758,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1662 Psalm 2 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan |
 | 1662 Psalm 68 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan |
 | 1662 Psalm 89 | `Praised be the Lord for evermore` | the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan |
-| 1892 (American) Psalm 10 | `semicolon at the mediant` | the 1892 PDF prints a semicolon where 1662 and 1928 print the mediant, so the verse carries no ' : '. Carried as printed |
-| 1892 (American) Psalm 14 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
-| 1892 (American) Psalm 17 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
-| 1892 (American) Psalm 18 | `cherubins` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'Cherubims' in 1790 and 'Cherubim' in 1793; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
-| 1892 (American) Psalm 35 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
-| 1892 (American) Psalm 42 | `the water-pipes` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'thy water-pipes' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
-| 1892 (American) Psalm 45 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
-| 1892 (American) Psalm 50 | `has cast` | the 1892 PDF's letters spell 'has cast' where 1662 reads 'hast cast'; carried as the source prints it. Confirm against a scan |
-| 1892 (American) Psalm 68 | `Zebulon` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Zabulon' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
-| 1892 (American) Psalm 68 | `Eqypt` | the 1892 PDF's text layer reads 'Eqypt' (a q for the g); almost certainly a keying slip for 'Egypt', but carried exactly as the source prints it. Confirm against a scan |
-| 1892 (American) Psalm 77 | `two colons` | the 1892 PDF prints a colon where 1662 has a semicolon, so this verse carries two. Carried as printed |
-| 1892 (American) Psalm 83 | `Midianites` | the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it |
-| 1892 (American) Psalm 102 | `liked` | the 1892 PDF's letters spell 'withered liked grass' where 1662 and 1928 read 'withered like grass'; carried as the source prints it, not corrected toward another edition. Confirm against a scan |
-| 1892 (American) Psalm 115 | `no mediant` | the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan |
 | 1928 (American) Psalm 18 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan |
 | 1928 (American) Psalm 109 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
 | 1928 (American) Psalm 119 | `no mediant` | the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |

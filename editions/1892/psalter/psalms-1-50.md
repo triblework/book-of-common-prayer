@@ -9,12 +9,13 @@ BLESSED is the man that hath not walked in the counsel of the ungodly, nor stood
 2 But his delight is in the law of the LORD : and in his law will he exercise himself day and night.
 
 3 And he shall be like a tree planted by the water-side : that will bring forth his fruit in due season.
+<!-- VERIFY: 'water-side'; the 1892 Standard Book scan breaks this word across a line ("water-" / "side"), so the page cannot say whether the word is hyphenated; the Standard Book's keyed text prints "waterside". Carried as the carrier prints it -->
 
 4 His leaf also shall not wither : and look, whatsoever he doeth, it shall prosper.
 
 5 As for the ungodly, it is not so with them : but they are like the chaff, which the wind scattereth away from the face of the earth.
 
-6 Therefore the ungodly shall not be able to stand in the judgement : neither the sinners in the congregation of the righteous.
+6 Therefore the ungodly shall not be able to stand in the judgment : neither the sinners in the congregation of the righteous.
 
 7 But the LORD knoweth the way of the righteous : and the way of the ungodly shall perish.
 
@@ -80,7 +81,7 @@ HEAR me when I call, O God of my righteousness : thou hast set me at liberty whe
 
 5 Offer the sacrifice of righteousness : and put your trust in the LORD.
 
-6 There be many that say : Who will shew us any good?
+6 There be many that say : Who will show us any good?
 
 7 LORD, lift thou up : the light of thy countenance upon us.
 
@@ -156,7 +157,7 @@ O LORD my God, in thee have I put my trust : save me from all them that persecut
 
 5 Then let mine enemy persecute my soul, and take me : yea, let him tread my life down upon the earth, and lay mine honour in the dust.
 
-6 Stand up, O LORD, in thy wrath, and lift up thyself, because of the indignation of mine enemies : arise up for me in the judgement that thou hast commanded.
+6 Stand up, O LORD, in thy wrath, and lift up thyself, because of the indignation of mine enemies : arise up for me in the judgment that thou hast commanded.
 
 7 And so shall the congregation of the people come about thee : for their sakes therefore lift up thyself again.
 
@@ -220,25 +221,25 @@ I WILL give thanks unto thee, O LORD, with my whole heart : I will speak of all 
 
 6 O thou enemy, destructions are come to a perpetual end : even as the cities which thou hast destroyed, their memorial is perished with them.
 
-7 But the LORD shall endure for ever : he hath also prepared his seat for judgement.
+7 But the LORD shall endure for ever : he hath also prepared his seat for judgment.
 
-8 For he shall judge the world in righteousness : and minister true judgement unto the people .
+8 For he shall judge the world in righteousness : and minister true judgment unto the people .
 
 9 The LORD also will be a defence for the oppressed : even a refuge in due time of trouble.
 
 10 And they that know thy Name will put their trust in thee : for thou, LORD, hast never failed them that seek thee.
 
-11 O praise the LORD which dwelleth in Sion : shew the people of his doings.
+11 O praise the LORD which dwelleth in Sion : show the people of his doings.
 
 12 For when he maketh inquisition for blood, he remembereth them : and forgetteth not the complaint of the poor.
 
 13 Have mercy upon me, O LORD; consider the trouble which I suffer of them that hate me : thou that liftest me up from the gates of death.
 
-14 That I may shew all thy praises within the ports of the daughter of Sion : I will rejoice in thy salvation.
+14 That I may show all thy praises within the ports of the daughter of Sion : I will rejoice in thy salvation.
 
 15 The heathen are sunk down in the pit that they made : in the same net which they hid privily, is their foot taken.
 
-16 The LORD is known to execute judgement : the ungodly is trapped in the work of his own hands.
+16 The LORD is known to execute judgment : the ungodly is trapped in the work of his own hands.
 
 17 The wicked shall be turned into hell : and all the people that forget God.
 
@@ -258,10 +259,9 @@ WHY standest thou so far off, O LORD : and hidest thy face in the needful time o
 
 3 For the ungodly hath made boast of his own heart's desire : and speaketh good of the covetous, whom God abhorreth.
 
-4 The ungodly is so proud, that he careth not for God ; neither is God in all his thoughts.
-<!-- VERIFY: 'semicolon at the mediant'; the 1892 PDF prints a semicolon where 1662 and 1928 print the mediant, so the verse carries no ' : '. Carried as printed -->
+4 The ungodly is so proud, that he careth not for God : neither is God in all his thoughts.
 
-5 His ways are alway grievous : thy judgements are far above out of his sight, and therefore defieth he all his enemies.
+5 His ways are alway grievous : thy judgments are far above out of his sight, and therefore defieth he all his enemies.
 
 6 For he hath said in his heart, Tush, I shall never be cast down : there shall no harm happen unto me.
 
@@ -305,7 +305,7 @@ IN THE LORD put I my trust : how say ye then to my soul, that she should flee as
 
 4 The LORD is in his holy temple : the LORD'S seat is in heaven.
 
-5 His eyes consider the poor : and his eye-lids try the children of men.
+5 His eyes consider the poor : and his eyelids try the children of men.
 
 6 The LORD alloweth the righteous : but the ungodly, and him that delighteth in wickedness, doth his soul abhor.
 
@@ -367,8 +367,7 @@ THE fool hath said in his heart : There is no God.
 
 6 Their mouth is full of cursing and bitterness : their feet are swift to shed blood.
 
-7 Destruction and unhappiness is in their ways, and the way of peace have they not known ; there is no fear of God before their eyes.
-<!-- VERIFY: 'no mediant'; the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan -->
+7 Destruction and unhappiness is in their ways, and the way of peace have they not known : there is no fear of God before their eyes.
 
 8 Have they no knowledge, that they are all such workers of mischief : eating up my people as it were bread, and call not upon the LORD?
 
@@ -414,7 +413,7 @@ PRESERVE me, O God : for in thee have I put my trust.
 
 7 The lot is fallen unto me in a fair ground : yea, I have a goodly heritage.
 
-8 I will thank the LORD for giving me warning : my reins also chasten me in the night-season.
+8 I will thank the LORD for giving me warning : my reins also chasten me in the night season.
 
 9 I have set God alway before me : for he is on my right hand, therefore I shall not fall.
 
@@ -422,7 +421,7 @@ PRESERVE me, O God : for in thee have I put my trust.
 
 11 For why? thou shalt not leave my soul in hell : neither shalt thou suffer thy Holy One to see corruption.
 
-12 Thou shalt shew me the path of life; in thy presence is the fulness of joy : and at thy right hand there is pleasure for evermore.
+12 Thou shalt show me the path of life; in thy presence is the fulness of joy : and at thy right hand there is pleasure for evermore.
 
 ## Psalm 17
 
@@ -432,8 +431,7 @@ HEAR the right, O LORD, consider my complaint : and hearken unto my prayer, that
 
 2 Let my sentence come forth from thy presence : and let thine eyes look upon the thing that is equal.
 
-3 Thou hast proved and visited mine heart in the night-season; thou hast tried me, and shalt find no wickedness in me; for I am utterly purposed that my mouth shall not offend.
-<!-- VERIFY: 'no mediant'; the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan -->
+3 Thou hast proved and visited mine heart in the night season; thou hast tried me, and shalt find no wickedness in me : for I am utterly purposed that my mouth shall not offend.
 
 4 Because of men's works, that are done against the words of thy lips : I have kept me from the ways of the destroyer.
 
@@ -441,7 +439,7 @@ HEAR the right, O LORD, consider my complaint : and hearken unto my prayer, that
 
 6 I have called upon thee, O God, for thou shalt hear me : incline thine ear to me, and hearken unto my words.
 
-7 Shew thy marvellous loving-kindness, thou that art the Saviour of them which put their trust in thee : from such as resist thy right hand.
+7 Show thy marvellous loving-kindness, thou that art the Saviour of them which put their trust in thee : from such as resist thy right hand.
 
 8 Keep me as the apple of an eye : hide me under the shadow of thy wings.
 
@@ -483,14 +481,13 @@ I WILL love thee, O LORD, my strength ; the LORD is my stony rock, and my defenc
 
 9 He bowed the heavens also, and came down : and it was dark under his feet.
 
-10 He rode upon the cherubins, and did fly : he came flying upon the wings of the wind.
-<!-- VERIFY: 'cherubins'; the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'Cherubims' in 1790 and 'Cherubim' in 1793; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it -->
+10 He rode upon the Cherubim, and did fly : he came flying upon the wings of the wind.
 
 11 He made darkness his secret place : his pavilion round about him, with dark water and thick clouds to cover him.
 
-12 At the brightness of his presence his clouds removed : hail-stones, and coals of fire.
+12 At the brightness of his presence his clouds removed : hailstones, and coals of fire.
 
-13 The LORD also thundered out of heaven, and the Highest gave his thunder : hail-stones, and coals of fire.
+13 The LORD also thundered out of heaven, and the Highest gave his thunder : hailstones, and coals of fire.
 
 14 He sent out his arrows, and scattered them : he cast forth lightnings, and destroyed them.
 
@@ -512,7 +509,7 @@ I WILL love thee, O LORD, my strength ; the LORD is my stony rock, and my defenc
 
 23 I was also uncorrupt before him : and eschewed mine own wickedness.
 
-24 Therefore shall the LORD reward me after my righteous dealing : and according unto the cleanness of my hands in his eye-sight.
+24 Therefore shall the LORD reward me after my righteous dealing : and according unto the cleanness of my hands in his eyesight.
 
 25 With the holy thou shalt be holy : and with a perfect man thou shalt be perfect.
 
@@ -566,13 +563,13 @@ I WILL love thee, O LORD, my strength ; the LORD is my stony rock, and my defenc
 
 50 For this cause will I give thanks unto thee, O LORD, among the Gentiles : and sing praises unto thy Name.
 
-51 Great prosperity giveth he unto his King : and sheweth loving-kindness unto David his Anointed, and unto his seed for evermore.
+51 Great prosperity giveth he unto his King : and showeth loving-kindness unto David his Anointed, and unto his seed for evermore.
 
 ## Psalm 19
 
 > Cœli enarrant.
 
-THE heavens declare the glory of God : and the firmament sheweth his handywork.
+THE heavens declare the glory of God : and the firmament showeth his handywork.
 
 2 One day telleth another : and one night certifieth another.
 
@@ -588,7 +585,7 @@ THE heavens declare the glory of God : and the firmament sheweth his handywork.
 
 8 The statutes of the LORD are right, and rejoice the heart : the commandment of the LORD is pure, and giveth light unto the eyes.
 
-9 The fear of the LORD is clean, and endureth for ever : the judgements of the LORD are true, and righteous altogether.
+9 The fear of the LORD is clean, and endureth for ever : the judgments of the LORD are true, and righteous altogether.
 
 10 More to be desired are they than gold, yea, than much fine gold : sweeter also than honey, and the honey-comb.
 
@@ -660,7 +657,7 @@ THE King shall rejoice in thy strength, O LORD : exceeding glad shall he be of t
 
 MY GOD, my God, look upon me; why hast thou forsaken me : and art so far from my health, and from the words of my complaint?
 
-2 O my God, I cry in the day-time, but thou hearest not : and in the night-season also I take no rest.
+2 O my God, I cry in the day-time, but thou hearest not : and in the night season also I take no rest.
 
 3 And thou continuest holy : O thou worship of Israel.
 
@@ -770,7 +767,7 @@ UNTO thee, O LORD, will I lift up my soul; my God, I have put my trust in thee :
 
 2 For all they that hope in thee shall not be ashamed : but such as transgress without a cause shall be put to confusion.
 
-3 Shew me thy ways, O LORD : and teach me thy paths.
+3 Show me thy ways, O LORD : and teach me thy paths.
 
 4 Lead me forth in thy truth, and learn me : for thou art the God of my salvation; in thee hath been my hope all the day long.
 
@@ -780,7 +777,7 @@ UNTO thee, O LORD, will I lift up my soul; my God, I have put my trust in thee :
 
 7 Gracious and righteous is the LORD : therefore will he teach sinners in the way.
 
-8 Them that are meek shall he guide in judgement : and such as are gentle, them shall he learn his way.
+8 Them that are meek shall he guide in judgment : and such as are gentle, them shall he learn his way.
 
 9 All the paths of the LORD are mercy and truth : unto such as keep his covenant and his testimonies.
 
@@ -790,7 +787,7 @@ UNTO thee, O LORD, will I lift up my soul; my God, I have put my trust in thee :
 
 12 His soul shall dwell at ease : and his seed shall inherit the land.
 
-13 The secret of the LORD is among them that fear him : and he will shew them his covenant.
+13 The secret of the LORD is among them that fear him : and he will show them his covenant.
 
 14 Mine eyes are ever looking unto the LORD : for he shall pluck my feet out of the net.
 
@@ -824,7 +821,7 @@ BE THOU my judge, O LORD, for I have walked innocently : my trust hath been also
 
 6 I will wash my hands in innocency, O LORD : and so will I go to thine altar.
 
-7 That I may shew the voice of thanksgiving : and tell of all thy wondrous works.
+7 That I may show the voice of thanksgiving : and tell of all thy wondrous works.
 
 8 LORD, I have loved the habitation of thy house : and the place where thine honour dwelleth.
 
@@ -988,7 +985,7 @@ IN THEE, O LORD, have I put my trust : let me never be put to confusion, deliver
 
 17 My time is in thy hand; deliver me from the hand of mine enemies : and from them that persecute me.
 
-18 Shew thy servant the light of thy countenance : and save me for thy mercy's sake.
+18 Show thy servant the light of thy countenance : and save me for thy mercy's sake.
 
 19 Let me not be confounded, O LORD, for I have called upon thee : let the ungodly be put to confusion, and be put to silence in the grave.
 
@@ -998,7 +995,7 @@ IN THEE, O LORD, have I put my trust : let me never be put to confusion, deliver
 
 22 Thou shalt hide them privily by thine own presence from the provoking of all men : thou shalt keep them secretly in thy tabernacle from the strife of tongues.
 
-23 Thanks be to the LORD : for he hath shewed me marvellous great kindness in a strong city.
+23 Thanks be to the LORD : for he hath showed me marvellous great kindness in a strong city.
 
 24 And when I made haste, I said : I am cast out of the sight of thine eyes.
 
@@ -1048,7 +1045,7 @@ REJOICE in the LORD, O ye righteous : for it becometh well the just to be thankf
 
 4 For the word of the LORD is true : and all his works are faithful.
 
-5 He loveth righteousness and judgement : the earth is full of the goodness of the LORD.
+5 He loveth righteousness and judgment : the earth is full of the goodness of the LORD.
 
 6 By the word of the LORD were the heavens made : and all the hosts of them by the breath of his mouth.
 
@@ -1172,8 +1169,7 @@ PLEAD thou my cause, O LORD, with them that strive with me : and fight thou agai
 
 19 O let not them that are mine enemies triumph over me ungodly : neither let them wink with their eyes that hate me without a cause.
 
-20 And why? their communing is not for peace; but they imagine deceitful words against them that are quiet in the land.
-<!-- VERIFY: 'no mediant'; the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan -->
+20 And why? their communing is not for peace : but they imagine deceitful words against them that are quiet in the land.
 
 21 They gaped upon me with their mouths, and said : Fie on thee, fie on thee, we saw it with our eyes.
 
@@ -1195,7 +1191,7 @@ PLEAD thou my cause, O LORD, with them that strive with me : and fight thou agai
 
 > Dixit injustus.
 
-MY HEART sheweth me the wickedness of the ungodly : that there is no fear of God before his eyes.
+MY HEART showeth me the wickedness of the ungodly : that there is no fear of God before his eyes.
 
 2 For he flattereth himself in his own sight : until his abominable sin be found out.
 
@@ -1205,7 +1201,7 @@ MY HEART sheweth me the wickedness of the ungodly : that there is no fear of God
 
 5 Thy mercy, O LORD, reacheth unto the heavens : and thy faithfulness unto the clouds.
 
-6 Thy righteousness standeth like the strong mountains : thy judgements are like the great deep.
+6 Thy righteousness standeth like the strong mountains : thy judgments are like the great deep.
 
 7 Thou, LORD, shalt save both man and beast; How excellent is thy mercy, O God : and the children of men shall put their trust under the shadow of thy wings.
 
@@ -1223,7 +1219,7 @@ MY HEART sheweth me the wickedness of the ungodly : that there is no fear of God
 
 > Noli aemulari.
 
-FRET not thyself because of the ungodly : neither be thou envious against the evil-doers.
+FRET not thyself because of the ungodly : neither be thou envious against the evil doers.
 
 2 For they shall soon be cut down like the grass : and be withered even as the green herb.
 
@@ -1283,7 +1279,7 @@ FRET not thyself because of the ungodly : neither be thou envious against the ev
 
 30 The righteous shall inherit the land : and dwell therein for ever.
 
-31 The mouth of the righteous is exercised in wisdom : and his tongue will be talking of judgement.
+31 The mouth of the righteous is exercised in wisdom : and his tongue will be talking of judgment.
 
 32 The law of his God is in his heart : and his goings shall not slide.
 
@@ -1483,10 +1479,9 @@ LIKE as the hart desireth the water-brooks : so longeth my soul after thee, O Go
 
 8 My God, my soul is vexed within me : therefore will I remember thee concerning the land of Jordan, and the little hill of Hermon.
 
-9 One deep calleth another, because of the noise of the water-pipes : all thy waves and storms are gone over me.
-<!-- VERIFY: 'the water-pipes'; the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'thy water-pipes' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it -->
+9 One deep calleth another, because of the noise of thy water-pipes : all thy waves and storms are gone over me.
 
-10 The LORD hath granted his loving-kindness in the day-time : and in the night-season did I sing of him, and made my prayer unto the God of my life.
+10 The LORD hath granted his loving-kindness in the day-time : and in the night season did I sing of him, and made my prayer unto the God of my life.
 
 11 I will say unto the God of my strength, Why hast thou forgotten me : why go I thus heavily, while the enemy oppresseth me?
 
@@ -1594,8 +1589,7 @@ MY HEART is inditing of a good matter : I speak of the things which I have made 
 
 10 Kings’ daughters were among thy honourable women : upon thy right hand did stand the queen in a vesture of gold, wrought about with divers colours.
 
-11 Hearken, O daughter, and consider, incline thine ear ; forget also thine own people, and thy father's house.
-<!-- VERIFY: 'no mediant'; the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan -->
+11 Hearken, O daughter, and consider, incline thine ear : forget also thine own people, and thy father's house.
 
 12 So shall the King have pleasure in thy beauty : for he is thy Lord God, and worship thou him.
 
@@ -1603,7 +1597,7 @@ MY HEART is inditing of a good matter : I speak of the things which I have made 
 
 14 The King's daughter is all glorious within : her clothing is of wrought gold.
 
-15 She shall be brought unto the King in raiment of needle-work : the virgins that be her fellows shall bear her company, and shall be brought unto thee.
+15 She shall be brought unto the King in raiment of needlework : the virgins that be her fellows shall bear her company, and shall be brought unto thee.
 
 16 With joy and gladness shall they be brought : and shall enter into the King's palace.
 
@@ -1625,7 +1619,7 @@ GOD is our hope and strength : a very present help in trouble.
 
 5 God is in the midst of her, therefore shall she not be removed : God shall help her, and that right early.
 
-6 The heathen make much ado, and the kingdoms are moved : but God hath shewed his voice, and the earth shall melt away.
+6 The heathen make much ado, and the kingdoms are moved : but God hath showed his voice, and the earth shall melt away.
 
 7 The LORD of hosts is with us : the God of Jacob is our refuge.
 
@@ -1665,7 +1659,7 @@ O CLAP your hands together, all ye people : O sing unto God with the voice of me
 
 GREAT is the LORD, and highly to be praised : in the city of our God, even upon his holy hill.
 
-2 The hill of Sion is a fair place, and the joy of the whole earth : upon the north-side lieth the city of the great King; God is well known in her palaces as a sure refuge.
+2 The hill of Sion is a fair place, and the joy of the whole earth : upon the north side lieth the city of the great King; God is well known in her palaces as a sure refuge.
 
 3 For lo, the kings of the earth : are gathered, and gone by together.
 
@@ -1681,7 +1675,7 @@ GREAT is the LORD, and highly to be praised : in the city of our God, even upon 
 
 9 O God, according to thy Name, so is thy praise unto the world's end : thy right hand is full of righteousness.
 
-10 Let the mount Sion rejoice, and the daughters of Judah be glad : because of thy judgements.
+10 Let the mount Sion rejoice, and the daughters of Judah be glad : because of thy judgments.
 
 11 Walk about Sion, and go round about her : and tell the towers thereof.
 
@@ -1699,7 +1693,7 @@ O HEAR ye this, all ye people : ponder it with your ears, all ye that dwell in t
 
 3 My mouth shall speak of wisdom : and my heart shall muse of understanding.
 
-4 I will incline mine ear to the parable : and shew my dark speech upon the harp.
+4 I will incline mine ear to the parable : and show my dark speech upon the harp.
 
 5 Wherefore should I fear in the days of wickedness : and when the wickedness of my heels compasseth me round about?
 
@@ -1769,8 +1763,7 @@ THE LORD, even the most mighty God, hath spoken : and called the world, from the
 
 16 But unto the ungodly said God : Why dost thou preach my laws, and takest my covenant in thy mouth;
 
-17 Whereas thou hatest to be reformed : and has cast my words behind thee?
-<!-- VERIFY: 'has cast'; the 1892 PDF's letters spell 'has cast' where 1662 reads 'hast cast'; carried as the source prints it. Confirm against a scan -->
+17 Whereas thou hatest to be reformed : and hast cast my words behind thee?
 
 18 When thou sawest a thief, thou consentedst unto him : and hast been partaker with the adulterers.
 
@@ -1782,4 +1775,4 @@ THE LORD, even the most mighty God, hath spoken : and called the world, from the
 
 22 O consider this, ye that forget God : lest I pluck you away, and there be none to deliver you.
 
-23 Whoso offereth me thanks and praise, he honoureth me : and to him that ordereth his conversation right will I shew the salvation of God.
+23 Whoso offereth me thanks and praise, he honoureth me : and to him that ordereth his conversation right will I show the salvation of God.

@@ -11,6 +11,29 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 17 (the 1892 Psalter vs the Standard Book scan) BUILT, NOT YET PUBLISHED
+
+Guide: `ingest/WAVE17_GUIDE.md`. Scripts: `w17_witness.py`, `w17_gates.py`,
+`gen_wave17_provenance.py`, the scan tooling (`w17_render.py`, `w17_ocr.swift`,
+`w17_ocrbox.swift`), and the evidence (`w17_evidence.json`, `w17_scan_ocr.json`);
+`w13_build_1892.py`, `w13_changelog.py` and `w13_fidelity.py` are patched.
+
+**The 1892 Psalter carrier was wrong about spelling, hyphenation, seven
+readings and the pointing of seven verses.** 151 corrections from a scan of the
+1892 Standard Book (`1892Standard/1892standard.pdf`, 596 page images, no text
+layer). All fourteen Wave-13 VERIFYs resolved; one new one (Psalm 1:3
+"water-side", broken across a line in the scan). The independent change log now
+agrees 55/55 (was 51/55).
+
+Gates: `w17_gates` 0 anomalies (including a containment proof: published cell +
+these corrections == new cell, character for character), `w13_fidelity` 0
+unattested, `w13_audit` 0, `w16_gates` 0, `w15_fidelity`/`w15_audit` 0,
+`w14_fidelity`/`w14_audit` 0, `verify_index --check` OK.
+
+**To publish** — the six steps in the Wave-15 block below, unchanged.
+
+---
+
 ## CURRENT — WAVE 16 (the backlog pass) DONE + PUBLISHED (2026-09-11)
 
 **PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
@@ -1274,15 +1297,17 @@ Named items, highest value first:
   Lessons for the Christian Year*, used 1945-1978), which is DELIBERATELY
   OMITTED. If the repo ever wants it, it needs its own representation (a second
   node, or a sibling file) — not a silent overwrite of the 1928 tables.
-- **The 1892 Psalter's two keyings** (Wave 16 finding, the biggest open item).
-  `1892Standard/psalter.pdf` looked like a witness for the fourteen 1892
-  Psalter VERIFYs, but it repeats the carrier's own freak slips ("Eqypt",
-  "stretch our her hands"), so the two files are ONE keying; and they differ in
-  about 470 words, mostly *shew*/*show* and *judgement*/*judgment*, with the
-  direction of the edit unknown. Settling this needs a page scan — justus
-  serves `1892Standard/1892standard.pdf` (70 MB, the subscribers' edition) and
-  `1892/BCP1892.pdf` (7 MB); neither has been fetched. It would resolve the 14
-  VERIFYs and decide the Psalter's spelling for `v1892` as a whole.
+- **DONE in Wave 17** (was the biggest open item): the 1892 Psalter is read
+  against `1892Standard/1892standard.pdf`. What remains of it is one flagged
+  reading (Psalm 1:3 "water-side", which the scan breaks across a line) and a
+  limit worth stating: the pointing was only checked where Wave 13's mediant
+  gate flagged an anomaly, because page-OCR cannot tell ':' from ';'. A full
+  collation of the 1892 pointing would need the same eye-level pass over 2,508
+  verses.
+- **The other editions' psalters have never been read against a scan.** 1662
+  comes from the CoE site, 1928 and 1979 from justus e-texts; each carries its
+  own VERIFYs (1928 two mediants, 1979 nine readings). The Wave-17 tooling
+  (`w17_render.py` + Vision OCR) makes that tractable if a scan exists.
 - **1789's Ascension-day proper psalms, "24, 47, 103"** (Wave 16 lead, NOT a
   correction). At 1892 the same row reads 24, 47, 108 on two witnesses. The
   1789 cell's "103" comes from one OCR'd page and may be the same class of

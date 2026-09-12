@@ -69,6 +69,12 @@ def main():
                        encoding="utf-8").read()
             toks = tokens_of(txt) - SUPPLIED
             if ed == "1892":
+                # Wave 17: the carrier PDF is no longer the only source for
+                # 1892. Words the SCAN of the Standard Book supplies are
+                # attested by it instead, and w17_gates.py checks every one of
+                # them against the scan's own reading of that line.
+                import w17_witness
+                toks = toks - w17_witness.introduced()
                 missing = sorted(w for w in toks if w not in stream)
             else:
                 missing = sorted(toks - sources[ed])

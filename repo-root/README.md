@@ -198,7 +198,11 @@ two-year Daily Office lectionaries. The 1928 tables were checked row by row
 against a scan of the original 1928 printing, and the 1892 tables against a keyed
 text of the 1892 Standard Book — the copy every other printing was to be compared
 with. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1662,
-1892, 1928 and 1979, each from its own source. All twelve tags carry sourced text (the earlier
+1892, 1928 and 1979, each from its own source. The 1892 Psalter has been read
+against a scan of the 1892 Standard Book, which corrected its spelling
+(*show* and *judgment*, not *shew* and *judgement*), seven readings, and the
+pointing of seven verses — the musical colon that divides a verse for
+chanting. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 

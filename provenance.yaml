@@ -12007,32 +12007,11 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \". Wave 17: CORRECTED against a SCAN of the 1892 Standard Book, subscribers' edition (http://justus.anglican.org/resources/bcp/1892Standard/1892standard.pdf, 596 bitonal page images, no text layer; the Psalter is scan pp. 357-536). The PDF this file was transcribed from is NOT the 1892 text in its spelling: it prints \"shew\" and \"judgement\" where the book prints \"show\" and \"judgment\" -- neither older form occurs on any of the 180 scanned pages. 47 corrections in this file: 28 spelling, 11 hyphenation (the book is not uniform: it closes \"hailstones\" and \"lawgiver\", keeps \"wash-pot\", spaces \"night season\"), 3 single readings and 5 verses whose mediant the PDF had lost or altered. All fourteen of Wave 13's VERIFYs are resolved, and the independent change log now agrees with this text 55 of 55 (it was 51 of 55; the scan showed the log right about all four). Every correction is evidenced in ingest/w17_evidence.json -- the scan page plus either a second OCR of that line cropped from a 4400px render or the reading taken by eye; the scan's own page OCR is kept in ingest/w17_scan_ocr.json and the corrections in ingest/w17_witness.py."
     verify_items:
       - anchor: "psalms-1-50"
-        source_reading: "semicolon at the mediant"
-        note: "the 1892 PDF prints a semicolon where 1662 and 1928 print the mediant, so the verse carries no ' : '. Carried as printed"
-      - anchor: "psalms-1-50"
-        source_reading: "no mediant"
-        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
-      - anchor: "psalms-1-50"
-        source_reading: "no mediant"
-        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
-      - anchor: "psalms-1-50"
-        source_reading: "cherubins"
-        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'Cherubims' in 1790 and 'Cherubim' in 1793; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
-      - anchor: "psalms-1-50"
-        source_reading: "no mediant"
-        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
-      - anchor: "psalms-1-50"
-        source_reading: "the water-pipes"
-        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was changed to 'thy water-pipes' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
-      - anchor: "psalms-1-50"
-        source_reading: "no mediant"
-        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
-      - anchor: "psalms-1-50"
-        source_reading: "has cast"
-        note: "the 1892 PDF's letters spell 'has cast' where 1662 reads 'hast cast'; carried as the source prints it. Confirm against a scan"
+        source_reading: "water-side"
+        note: "the 1892 Standard Book scan breaks this word across a line (\"water-\" / \"side\"), so the page cannot say whether the word is hyphenated; the Standard Book's keyed text (1892Standard/psalter.pdf) prints \"waterside\". Carried as the 1892 PDF prints it"
   - edition: 1892
     service: psalter/psalms-51-100
     source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms.pdf"
@@ -12040,20 +12019,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
-    verify_items:
-      - anchor: "psalms-51-100"
-        source_reading: "Zebulon"
-        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Zabulon' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
-      - anchor: "psalms-51-100"
-        source_reading: "Eqypt"
-        note: "the 1892 PDF's text layer reads 'Eqypt' (a q for the g); almost certainly a keying slip for 'Egypt', but carried exactly as the source prints it. Confirm against a scan"
-      - anchor: "psalms-51-100"
-        source_reading: "two colons"
-        note: "the 1892 PDF prints a colon where 1662 has a semicolon, so this verse carries two. Carried as printed"
-      - anchor: "psalms-51-100"
-        source_reading: "Midianites"
-        note: "the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it"
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \". Wave 17: CORRECTED against a SCAN of the 1892 Standard Book, subscribers' edition (http://justus.anglican.org/resources/bcp/1892Standard/1892standard.pdf, 596 bitonal page images, no text layer; the Psalter is scan pp. 357-536). The PDF this file was transcribed from is NOT the 1892 text in its spelling: it prints \"shew\" and \"judgement\" where the book prints \"show\" and \"judgment\" -- neither older form occurs on any of the 180 scanned pages. 54 corrections in this file: 39 spelling, 11 hyphenation (the book is not uniform: it closes \"hailstones\" and \"lawgiver\", keeps \"wash-pot\", spaces \"night season\"), 3 single readings and 1 verses whose mediant the PDF had lost or altered. All fourteen of Wave 13's VERIFYs are resolved, and the independent change log now agrees with this text 55 of 55 (it was 51 of 55; the scan showed the log right about all four). Every correction is evidenced in ingest/w17_evidence.json -- the scan page plus either a second OCR of that line cropped from a 4400px render or the reading taken by eye; the scan's own page OCR is kept in ingest/w17_scan_ocr.json and the corrections in ingest/w17_witness.py."
+    verify_items: []
   - edition: 1892
     service: psalter/psalms-101-150
     source_url: "http://justus.anglican.org/resources/bcp/1892/Psalms.pdf"
@@ -12061,14 +12028,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \"."
-    verify_items:
-      - anchor: "psalms-101-150"
-        source_reading: "liked"
-        note: "the 1892 PDF's letters spell 'withered liked grass' where 1662 and 1928 read 'withered like grass'; carried as the source prints it, not corrected toward another edition. Confirm against a scan"
-      - anchor: "psalms-101-150"
-        source_reading: "no mediant"
-        note: "the 1892 PDF prints this verse with NO mediant -- no colon anywhere in its text layer -- where 1662 and 1928 both point it. Carried as the source prints it; the pointing is not imported from another edition. Confirm against a scan"
+    note: "The 1892 PDF's own letters, after a whitespace repair: pypdf's plain mode keeps letters in reading order but kerning splits words; layout mode spaces well but displaces drop capitals and reads straight across the two printed columns. A space is kept where both modes agree (layout re-ordered column by column), and the rest are settled by counted rules that never change a letter. Tested against an INDEPENDENT witness, the justus dated table of pre-1928 U.S. psalter changes: 51 of 55 applicable entries agree, including 32 of the 35 changes it dates to 1892 itself. The mediant is the musical colon, normalized to \" : \". Wave 17: CORRECTED against a SCAN of the 1892 Standard Book, subscribers' edition (http://justus.anglican.org/resources/bcp/1892Standard/1892standard.pdf, 596 bitonal page images, no text layer; the Psalter is scan pp. 357-536). The PDF this file was transcribed from is NOT the 1892 text in its spelling: it prints \"shew\" and \"judgement\" where the book prints \"show\" and \"judgment\" -- neither older form occurs on any of the 180 scanned pages. 50 corrections in this file: 36 spelling, 12 hyphenation (the book is not uniform: it closes \"hailstones\" and \"lawgiver\", keeps \"wash-pot\", spaces \"night season\"), 1 single readings and 1 verses whose mediant the PDF had lost or altered. All fourteen of Wave 13's VERIFYs are resolved, and the independent change log now agrees with this text 55 of 55 (it was 51 of 55; the scan showed the log right about all four). Every correction is evidenced in ingest/w17_evidence.json -- the scan page plus either a second OCR of that line cropped from a 4400px render or the reading taken by eye; the scan's own page OCR is kept in ingest/w17_scan_ocr.json and the corrections in ingest/w17_witness.py."
+    verify_items: []
   - edition: 1928
     service: psalter/psalms-1-50
     source_url: "http://justus.anglican.org/resources/bcp/1928/Psalms1.htm"

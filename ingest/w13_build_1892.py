@@ -5,7 +5,13 @@ The text is the 1892 PDF's own letters after the whitespace repair; it was
 tested against an INDEPENDENT witness (the justus dated change log): 51 of 55
 applicable entries agree, including 32 of the 35 changes the log dates to 1892
 itself -- which is what establishes that this PDF genuinely is the 1892 text.
-The disagreements are carried as the PDF prints them, each with a VERIFY.
+
+WAVE 17 corrects it against a SCAN of the 1892 Standard Book (see
+ingest/w17_witness.py). The PDF turns out not to be the 1892 text in its
+spelling (it prints shew/judgement where the book prints show/judgment), in
+sixteen hyphenated words, in the four readings the change log had flagged, in
+three other flagged readings, and in the pointing of seven verses. All
+fourteen of Wave 13's VERIFYs are resolved; one new one takes their place.
 """
 import json
 import os
@@ -16,39 +22,17 @@ sys.path.insert(0, HERE)
 import w13_1892
 import w13_1662
 import w13_render
+import w17_witness
 
 LOG = ("the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&"
        "1892.htm) says this reading was %s; the 1892 PDF prints the other. One "
        "of the two sources is wrong here and only a page scan can say which. "
        "Carried as the 1892 PDF prints it")
-V1892 = {
-    (18, 10): ("cherubins", LOG % "changed to 'Cherubims' in 1790 and 'Cherubim' in 1793"),
-    (42, 9): ("the water-pipes", LOG % "changed to 'thy water-pipes' in 1892"),
-    (68, 27): ("Zebulon", LOG % "restored to 'Zabulon' in 1892"),
-    (83, 9): ("Midianites", LOG % "restored to 'Madianites' in 1892"),
-    (68, 31): ("Eqypt", "the 1892 PDF's text layer reads 'Eqypt' (a q for the g); "
-                        "almost certainly a keying slip for 'Egypt', but carried "
-                        "exactly as the source prints it. Confirm against a scan"),
-    (102, 4): ("liked", "the 1892 PDF's letters spell 'withered liked grass' where "
-                        "1662 and 1928 read 'withered like grass'; carried as the "
-                        "source prints it, not corrected toward another edition. "
-                        "Confirm against a scan"),
-    (50, 17): ("has cast", "the 1892 PDF's letters spell 'has cast' where 1662 "
-                           "reads 'hast cast'; carried as the source prints it. "
-                           "Confirm against a scan"),
-}
-MISSING = ("the 1892 PDF prints this verse with NO mediant -- no colon anywhere "
-           "in its text layer -- where 1662 and 1928 both point it. Carried as "
-           "the source prints it; the pointing is not imported from another "
-           "edition. Confirm against a scan")
-for _k in ((14, 7), (17, 3), (35, 20), (45, 11), (115, 8)):
-    V1892[_k] = ("no mediant", MISSING)
-V1892[(10, 4)] = ("semicolon at the mediant",
-                  "the 1892 PDF prints a semicolon where 1662 and 1928 print the "
-                  "mediant, so the verse carries no ' : '. Carried as printed")
-V1892[(77, 18)] = ("two colons",
-                   "the 1892 PDF prints a colon where 1662 has a semicolon, so "
-                   "this verse carries two. Carried as printed")
+# Wave 17: every entry that stood here is resolved from the scan of the 1892
+# Standard Book, and the corrections live in ingest/w17_witness.py. What
+# remains is the one reading the scan cannot settle, because the page breaks
+# the word across a line.
+V1892 = dict(w17_witness.VERIFY)
 
 
 def main():
@@ -56,14 +40,18 @@ def main():
     bad = w13_1662.gate(ps, "1892")
     if bad or w13_1892.DROPPED:
         raise SystemExit("1892 gate: %s / dropped %s" % (bad, w13_1892.DROPPED))
+    log = w17_witness.apply(ps)
     for (n, v), (key, note) in V1892.items():
         ps[n].setdefault("verifies", []).append((v, key, note))
     an, man = w13_render.render("1892", ps, ":")
     json.dump(man, open(os.path.join(HERE, "wave13_1892_verifies.json"), "w"),
               indent=1)
-    print("1892: %d psalms, %d verses; mediant anomalies %d %s; VERIFY %d"
+    import collections
+    kinds = collections.Counter(k for k, *_ in log)
+    print("1892: %d psalms, %d verses; mediant anomalies %d %s; VERIFY %d; "
+          "witness corrections %d %s"
           % (len(ps), sum(len(p["verses"]) for p in ps.values()), len(an),
-             an[:12], len(man)))
+             an[:12], len(man), sum(kinds.values()), dict(kinds)))
 
 
 if __name__ == "__main__":

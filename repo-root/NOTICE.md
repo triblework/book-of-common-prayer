@@ -513,6 +513,36 @@ The published branches and tags are build artifacts, regenerated from the
     carrier's own slips, so the two are one keying; they differ in about 470
     words and it is not known which was edited. That needs a page scan.
 
+- **2026-09-11** — Wave 17: the **1892 Psalter**, corrected against a scan of
+  the 1892 Standard Book. Wave 13 transcribed this Psalter from justus's
+  `1892/Psalms.pdf` and flagged fourteen readings it could not settle, saying of
+  four of them that only a page scan could say which source was right. justus
+  serves such a scan — the subscribers' edition of the Standard Book, 596 page
+  images with no text layer — and it settles all fourteen, every one against the
+  PDF.
+  - **The PDF is not the 1892 text in its spelling.** The book prints *show*
+    and *judgment*; the PDF prints *shew* and *judgement*, neither of which
+    occurs on any of the 180 scanned pages. 103 instances corrected, and 34
+    hyphenated words besides (the book closes *hailstones* and *lawgiver*,
+    spaces *night season*, and keeps *wash-pot*, so each word was checked on
+    its own).
+  - **Seven readings** the earlier waves had flagged: 18:10 *Cherubim*,
+    42:9 *thy water-pipes*, 50:17 *hast cast*, 68:27 *Zabulon*, 68:31 *Egypt*,
+    83:9 *Madianites*, 102:4 *withered like grass*.
+  - **Seven verses of pointing.** The PDF had lost the mediant — the musical
+    colon that divides a verse for chanting — in six verses, and printed a
+    colon for a semicolon in a seventh. The pointing is now the book's.
+  - 151 corrections in all, each evidenced with its scan page. The independent
+    dated change log of pre-1928 psalter changes, which agreed with this text
+    51 times in 55 before the wave, agrees **55 times in 55** after it; at
+    every point where the change log and the PDF had disagreed, the scan
+    vindicated the change log. One reading stays flagged: at Psalm 1:3 the
+    scan breaks *water-*/*side* across a line, so the page cannot say whether
+    the word is hyphenated.
+  - This changes `texts/original` throughout the 1892 Psalter and
+    `texts/normalized` wherever the difference survives normalization (the
+    spelling rules already mapped *shew* to *show*, but not *judgement*).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

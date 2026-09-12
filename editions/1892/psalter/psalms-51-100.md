@@ -32,7 +32,7 @@ HAVE mercy upon me, O God, after thy great goodness : according to the multitude
 
 14 Deliver me from blood-guiltiness, O God, thou that art the God of my health : and my tongue shall sing of thy righteousness.
 
-15 Thou shalt open my lips, O Lord : and my mouth shall shew thy praise.
+15 Thou shalt open my lips, O Lord : and my mouth shall show thy praise.
 
 16 For thou desirest no sacrifice, else would I give it thee : but thou delightest not in burnt-offerings.
 
@@ -192,7 +192,7 @@ BE MERCIFUL unto me, O God, for man goeth about to devour me : he is daily fight
 
 > Miserere mei, Deus.
 
-BE MERCIFUL unto me, O God, be merciful unto me, for my soul trusteth in thee : and under the shadow of thy wings shall be my refuge, until this tyranny be over-past.
+BE MERCIFUL unto me, O God, be merciful unto me, for my soul trusteth in thee : and under the shadow of thy wings shall be my refuge, until this tyranny be overpast.
 
 2 I will call unto the most high God : even unto the God that shall perform the cause which I have in hand.
 
@@ -262,7 +262,7 @@ DELIVER me from mine enemies, O God : defend me from them that rise up against m
 
 9 My strength will I ascribe unto thee : for thou art the God of my refuge.
 
-10 God sheweth me his goodness plenteously : and God shall let me see my desire upon mine enemies.
+10 God showeth me his goodness plenteously : and God shall let me see my desire upon mine enemies.
 
 11 Slay them not, lest my people forget it : but scatter them abroad among the people, and put them down, O Lord, our defence.
 
@@ -286,7 +286,7 @@ O God, thou hast cast us out, and scattered us abroad : thou hast also been disp
 
 2 Thou hast moved the land, and divided it : heal the sores thereof, for it shaketh.
 
-3 Thou hast shewed thy people heavy things : thou hast given us a drink of deadly wine.
+3 Thou hast showed thy people heavy things : thou hast given us a drink of deadly wine.
 
 4 Thou hast given a token for such as fear thee : that they may triumph because of the truth.
 
@@ -418,7 +418,7 @@ THOU, O God, art praised in Sion : and unto thee shall the vow be performed in J
 
 4 Blessed is the man whom thou choosest, and receivest unto thee : he shall dwell in thy court, and shall be satisfied with the pleasures of thy house, even of thy holy temple.
 
-5 Thou shalt shew us wonderful things in thy righteousness, O God of our salvation : thou that art the hope of all the ends of the earth, and of them that remain in the broad sea.
+5 Thou shalt show us wonderful things in thy righteousness, O God of our salvation : thou that art the hope of all the ends of the earth, and of them that remain in the broad sea.
 
 6 Who in his strength setteth fast the mountains : and is girded about with power.
 
@@ -482,7 +482,7 @@ O BE joyful in God, all ye lands : sing praises unto the honour of his Name, mak
 
 > Deus misereatur.
 
-GOD be merciful unto us, and bless us : and shew us the light of his countenance, and be merciful unto us:
+GOD be merciful unto us, and bless us : and show us the light of his countenance, and be merciful unto us:
 
 2 That thy way may be known upon earth : thy saving health among all nations.
 
@@ -552,17 +552,15 @@ LET God arise, and let his enemies be scattered : let them also that hate him fl
 
 26 Give thanks, O Israel, unto God the Lord in the congregations : from the ground of the heart.
 
-27 There is little Benjamin their ruler, and the princes of Judah their council : the princes of Zebulon, and the princes of Nephthali.
-<!-- VERIFY: 'Zebulon'; the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Zabulon' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it -->
+27 There is little Benjamin their ruler, and the princes of Judah their council : the princes of Zabulon, and the princes of Nephthali.
 
 28 Thy God hath sent forth strength for thee : stablish the thing, O God, that thou hast wrought in us,
 
 29 For thy temple's sake at Jerusalem : so shall kings bring presents unto thee.
 
-30 When the company of the spear-men, and multitude of the mighty are scattered abroad among the beasts of the people, so that they humbly bring pieces of silver : and when he hath scattered the people that delight in war;
+30 When the company of the spearmen, and multitude of the mighty are scattered abroad among the beasts of the people, so that they humbly bring pieces of silver : and when he hath scattered the people that delight in war;
 
-31 Then shall the princes come out of Eqypt : the Morians’ land shall soon stretch our her hands unto God.
-<!-- VERIFY: 'Eqypt'; the 1892 PDF's text layer reads 'Eqypt' (a q for the g); almost certainly a keying slip for 'Egypt', but carried exactly as the source prints it. Confirm against a scan -->
+31 Then shall the princes come out of Egypt : the Morians’ land shall soon stretch our her hands unto God.
 
 32 Sing unto God, O ye kingdoms of the earth : O sing praises unto the Lord;
 
@@ -700,11 +698,11 @@ IN THEE ,O LORD, have I put my trust, let me never be put to confusion : but rid
 
 15 Thou, O God, hast taught me from my youth up until now : therefore will I tell of thy wondrous works.
 
-16 Forsake me not, O God, in mine old age, when I am gray-headed : until I have shewed thy strength unto this generation, and thy power to all them that are yet for to come.
+16 Forsake me not, O God, in mine old age, when I am gray-headed : until I have showed thy strength unto this generation, and thy power to all them that are yet for to come.
 
 17 Thy righteousness, O God, is very high : and great things are they that thou hast done; O God, who is like unto thee?
 
-18 O what great troubles and adversities hast thou shewed me, and yet didst thou turn and refresh me : yea, and broughtest me from the deep of the earth again.
+18 O what great troubles and adversities hast thou showed me, and yet didst thou turn and refresh me : yea, and broughtest me from the deep of the earth again.
 
 19 Thou hast brought me to great honour : and comforted me on every side.
 
@@ -718,13 +716,13 @@ IN THEE ,O LORD, have I put my trust, let me never be put to confusion : but rid
 
 > Deus, judicium.
 
-GIVE the King thy judgements, O God : and thy righteousness unto the King's son.
+GIVE the King thy judgments, O God : and thy righteousness unto the King's son.
 
 2 Then shall he judge thy people according unto right : and defend the poor.
 
 3 The mountains also shall bring peace : and the little hills righteousness unto the people.
 
-4 He shall keep the simple folk by their right : defend the children of the poor, and punish the wrong-doer.
+4 He shall keep the simple folk by their right : defend the children of the poor, and punish the wrong doer.
 
 5 They shall fear thee, as long as the sun and moon endureth : from one generation to another.
 
@@ -912,9 +910,9 @@ IN JEWRY is God known : his Name is great in Israel.
 
 7 Thou, even thou art to be feared : and who may stand in thy sight when thou art angry?
 
-8 Thou didst cause thy judgement to be heard from heaven : the earth trembled, and was still;
+8 Thou didst cause thy judgment to be heard from heaven : the earth trembled, and was still;
 
-9 When God arose to judgement : and to help all the meek upon earth.
+9 When God arose to judgment : and to help all the meek upon earth.
 
 10 The fierceness of man shall turn to thy praise : and the fierceness of them shalt thou refrain.
 
@@ -928,7 +926,7 @@ IN JEWRY is God known : his Name is great in Israel.
 
 I WILL cry unto God with my voice : even unto God will I cry with my voice, and he shall hearken unto me.
 
-2 In the time of my trouble I sought the Lord : my sore ran and ceased not in the night-season ; my soul refused comfort.
+2 In the time of my trouble I sought the Lord : my sore ran and ceased not in the night season ; my soul refused comfort.
 
 3 When I am in heaviness, I will think upon God : when my heart is vexed, I will complain.
 
@@ -960,8 +958,7 @@ I WILL cry unto God with my voice : even unto God will I cry with my voice, and 
 
 17 The clouds poured out water, the air thundered : and thine arrows went abroad.
 
-18 The voice of thy thunder was heard round about : the lightnings shone upon the ground : the earth was moved, and shook withal.
-<!-- VERIFY: 'two colons'; the 1892 PDF prints a colon where 1662 has a semicolon, so this verse carries two. Carried as printed -->
+18 The voice of thy thunder was heard round about : the lightnings shone upon the ground ; the earth was moved, and shook withal.
 
 19 Thy way is in the sea, and thy paths in the great waters : and thy footsteps are not known.
 
@@ -977,13 +974,13 @@ HEAR my law, O my people : incline your ears unto the words of my mouth.
 
 3 Which we have heard and known : and such as our fathers have told us;
 
-4 That we should not hide them from the children of the generations to come : but to shew the honour of the LORD, his mighty and wonderful works that he hath done.
+4 That we should not hide them from the children of the generations to come : but to show the honour of the LORD, his mighty and wonderful works that he hath done.
 
 5 He made a covenant with Jacob, and gave Israel a law : which he commanded our forefathers to teach their children;
 
 6 That their posterity might know it : and the children which were yet unborn;
 
-7 To the intent that when they came up : they might shew their children the same;
+7 To the intent that when they came up : they might show their children the same;
 
 8 That they might put their trust in God : and not to forget the works of God, but to keep his commandments;
 
@@ -993,7 +990,7 @@ HEAR my law, O my people : incline your ears unto the words of my mouth.
 
 11 They kept not the covenant of God : and would not walk in his law;
 
-12 But forgat what he had done : and the wonderful works that he had shewed for them.
+12 But forgat what he had done : and the wonderful works that he had showed for them.
 
 13 Marvellous things did he in the sight of our forefathers, in the land of Egypt : even in the field of Zoan.
 
@@ -1065,15 +1062,15 @@ HEAR my law, O my people : incline your ears unto the words of my mouth.
 
 47 He gave their fruit unto the caterpillar : and their labour unto the grasshopper.
 
-48 He destroyed their vines with hail-stones : and their mulberry-trees with the frost.
+48 He destroyed their vines with hailstones : and their mulberry-trees with the frost.
 
-49 He smote their cattle also with hail-stones : and their flocks with hot thunderbolts.
+49 He smote their cattle also with hailstones : and their flocks with hot thunderbolts.
 
 50 He cast upon them the furiousness of his wrath, anger, displeasure and trouble : and sent evil angels among them.
 
 51 He made a way to his indignation, and spared not their soul from death : but gave their life over to the pestilence;
 
-52 And smote all the first-born in Egypt : the most principal and mightiest in the dwellings of Ham.
+52 And smote all the firstborn in Egypt : the most principal and mightiest in the dwellings of Ham.
 
 53 But as for his own people, he led them forth like sheep : and carried them in the wilderness like a flock.
 
@@ -1141,13 +1138,13 @@ O God, the heathen are come into thine inheritance : thy holy temple have they d
 
 10 Wherefore do the heathen say : Where is now their God?
 
-11 O let the vengeance of thy servants' blood that is shed : be openly shewed upon the heathen in our sight.
+11 O let the vengeance of thy servants' blood that is shed : be openly showed upon the heathen in our sight.
 
 12 O let the sorrowful sighing of the prisoners come before thee : according to the greatness of thy power, preserve thou those that are appointed to die.
 
 13 And for the blasphemy wherewith our neighbours have blasphemed thee : reward thou them, O Lord, seven-fold into their bosom.
 
-14 So we, that are thy people, and sheep of thy pasture, shall give thee thanks for ever : and will alway be shewing forth thy praise from generation to generation.
+14 So we, that are thy people, and sheep of thy pasture, shall give thee thanks for ever : and will alway be showing forth thy praise from generation to generation.
 
 ## Psalm 80
 
@@ -1157,7 +1154,7 @@ HEAR, O thou Shepherd of Israel, thou that leadest Joseph like a sheep : show th
 
 2 Before Ephraim, Benjamin, and Manasses : stir up thy strength, and come, and help us.
 
-3 Turn us again, O God : shew the light of thy countenance, and we shall be whole.
+3 Turn us again, O God : show the light of thy countenance, and we shall be whole.
 
 4 O LORD God of hosts : how long wilt thou be angry with thy people that prayeth?
 
@@ -1165,7 +1162,7 @@ HEAR, O thou Shepherd of Israel, thou that leadest Joseph like a sheep : show th
 
 6 Thou hast made us a very strife unto our neighbours : and our enemies laugh us to scorn.
 
-7 Turn us again, thou God of hosts : shew the light of thy countenance, and we shall be whole.
+7 Turn us again, thou God of hosts : show the light of thy countenance, and we shall be whole.
 
 8 Thou hast brought a vine out of Egypt : thou hast cast out the heathen, and planted it.
 
@@ -1189,7 +1186,7 @@ HEAR, O thou Shepherd of Israel, thou that leadest Joseph like a sheep : show th
 
 18 And so will not we go back from thee : O let us live, and we shall call upon thy Name.
 
-19 Turn us again, O LORD God of hosts : shew the light of thy countenance, and we shall be whole.
+19 Turn us again, O LORD God of hosts : show the light of thy countenance, and we shall be whole.
 
 ## Psalm 81
 
@@ -1199,7 +1196,7 @@ SING we merrily unto God our strength : make a cheerful noise unto the God of Ja
 
 2 Take the psalm, bring hither the tabret : the merry harp with the lute.
 
-3 Blow up the trumpet in the new-moon : even in the time appointed, and upon our solemn feast-day.
+3 Blow up the trumpet in the new moon : even in the time appointed, and upon our solemn feast-day.
 
 4 For this was made a statute for Israel : and a law of the God of Jacob.
 
@@ -1235,7 +1232,7 @@ SING we merrily unto God our strength : make a cheerful noise unto the God of Ja
 
 GOD standeth in the congregation of princes : he is a Judge among gods.
 
-2 How long will ye give wrong judgement : and accept the persons of the ungodly?
+2 How long will ye give wrong judgment : and accept the persons of the ungodly?
 
 3 Defend the poor and fatherless : see that such as are in need and necessity have right.
 
@@ -1269,8 +1266,7 @@ HOLD not thy tongue, O God, keep not still silence : refrain not thyself, O God.
 
 8 Assur also is joined with them : and have holpen the children of Lot.
 
-9 But do thou to them as unto the Midianites : unto Sisera, and unto Jabin at the brook of Kison;
-<!-- VERIFY: 'Midianites'; the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&1892.htm) says this reading was restored to 'Madianites' in 1892; the 1892 PDF prints the other. One of the two sources is wrong here and only a page scan can say which. Carried as the 1892 PDF prints it -->
+9 But do thou to them as unto the Madianites : unto Sisera, and unto Jabin at the brook of Kison;
 
 10 Who perished at Endor : and became as the dung of the earth.
 
@@ -1336,7 +1332,7 @@ LORD, thou art become gracious unto thy land : thou hast turned away the captivi
 
 6 Wilt thou not turn again, and quicken us : that thy people may rejoice in thee?
 
-7 Shew us thy mercy, O LORD : and grant us thy salvation.
+7 Show us thy mercy, O LORD : and grant us thy salvation.
 
 8 I will hearken what the LORD God will say concerning me : for he shall speak peace unto his people, and to his saints, that they turn not again.
 
@@ -1346,7 +1342,7 @@ LORD, thou art become gracious unto thy land : thou hast turned away the captivi
 
 11 Truth shall flourish out of the earth : and righteousness hath looked down from heaven.
 
-12 Yea, the LORD shall shew loving-kindness : and our land shall give her increase.
+12 Yea, the LORD shall show loving-kindness : and our land shall give her increase.
 
 13 Righteousness shall go before him : and he shall direct his going in the way.
 
@@ -1386,7 +1382,7 @@ BOW down thine ear, O LORD, and hear me : for I am poor, and in misery.
 
 16 O turn thee then unto me, and have mercy upon me : give thy strength unto thy servant, and help the son of thine handmaid.
 
-17 Shew some token upon me for good, that they who hate me may see it and be ashamed : because thou, LORD, hast holpen me and comforted me.
+17 Show some token upon me for good, that they who hate me may see it and be ashamed : because thou, LORD, hast holpen me and comforted me.
 
 ## Psalm 87
 
@@ -1428,9 +1424,9 @@ O LORD God of my salvation, I have cried day and night before thee : O let my pr
 
 9 My sight faileth for very trouble : LORD, I have called daily upon thee, I have stretched forth my hands unto thee.
 
-10 Dost thou shew wonders among the dead : or shall the dead rise up again, and praise thee?
+10 Dost thou show wonders among the dead : or shall the dead rise up again, and praise thee?
 
-11 Shall thy loving-kindness be shewed in the grave : or thy faithfulness in destruction?
+11 Shall thy loving-kindness be showed in the grave : or thy faithfulness in destruction?
 
 12 Shall thy wondrous works be known in the dark : and thy righteousness in the land where all things are forgotten?
 
@@ -1450,7 +1446,7 @@ O LORD God of my salvation, I have cried day and night before thee : O let my pr
 
 > Misericordias Domini.
 
-MY SONG shall be alway of the loving-kindness of the LORD : with my mouth will I ever be shewing thy truth from one generation to another.
+MY SONG shall be alway of the loving-kindness of the LORD : with my mouth will I ever be showing thy truth from one generation to another.
 
 2 For I have said, Mercy shall be set up for ever : thy truth shalt thou stablish in the heavens.
 
@@ -1504,13 +1500,13 @@ MY SONG shall be alway of the loving-kindness of the LORD : with my mouth will I
 
 27 He shall call me, Thou art my Father : my God, and my strong salvation.
 
-28 And I will make him my first-born : higher than the kings of the earth.
+28 And I will make him my firstborn : higher than the kings of the earth.
 
 29 My mercy will I keep for him for evermore : and my covenant shall stand fast with him.
 
 30 His seed also will I make to endure for ever : and his throne as the days of heaven.
 
-31 But if his children forsake my law : and walk not in my judgements;
+31 But if his children forsake my law : and walk not in my judgments;
 
 32 If they break my statutes, and keep not my commandments : I will visit their offences with the rod, and their sin with scourges.
 
@@ -1584,7 +1580,7 @@ Lord, thou hast been our refuge : from one generation to another.
 
 15 Comfort us again now after the time that thou hast plagued us : and for the years wherein we have suffered adversity.
 
-16 Shew thy servants thy work : and their children thy glory.
+16 Show thy servants thy work : and their children thy glory.
 
 17 And the glorious majesty of the LORD our God be upon us : prosper thou the work of our hands upon us, O prosper thou our handywork.
 
@@ -1622,7 +1618,7 @@ WHOSO dwelleth under the defence of the most High : shall abide under the shadow
 
 15 He shall call upon me, and I will hear him : yea, I am with him in trouble; I will deliver him, and bring him to honour.
 
-16 With long life will I satisfy him : and shew him my salvation.
+16 With long life will I satisfy him : and show him my salvation.
 
 ## Psalm 92
 
@@ -1630,7 +1626,7 @@ WHOSO dwelleth under the defence of the most High : shall abide under the shadow
 
 IT IS a good thing to give thanks unto the LORD : and to sing praises unto thy Name, O most Highest;
 
-2 To tell of thy loving-kindness early in the morning : and of thy truth in the night-season;
+2 To tell of thy loving-kindness early in the morning : and of thy truth in the night season;
 
 3 Upon an instrument of ten strings, and upon the lute : upon a loud instrument, and upon the harp.
 
@@ -1654,7 +1650,7 @@ IT IS a good thing to give thanks unto the LORD : and to sing praises unto thy N
 
 13 They also shall bring forth more fruit in their age : and shall be fat and well-liking.
 
-14 That they may shew how true the LORD my strength is : and that there is no unrighteousness in him.
+14 That they may show how true the LORD my strength is : and that there is no unrighteousness in him.
 
 ## Psalm 93
 
@@ -1676,7 +1672,7 @@ THE LORD is King, and hath put on glorious apparel : the LORD hath put on his ap
 
 > Deus ultionum.
 
-O LORD God, to whom vengeance belongeth : thou God, to whom vengeance belongeth, shew thyself.
+O LORD God, to whom vengeance belongeth : thou God, to whom vengeance belongeth, show thyself.
 
 2 Arise, thou Judge of the world : and reward the proud after their deserving.
 
@@ -1704,9 +1700,9 @@ O LORD God, to whom vengeance belongeth : thou God, to whom vengeance belongeth,
 
 14 For the LORD will not fail his people : neither will he forsake his inheritance;
 
-15 Until righteousness turn again unto judgement : all such as are true in heart shall follow it.
+15 Until righteousness turn again unto judgment : all such as are true in heart shall follow it.
 
-16 Who will rise up with me against the wicked : or who will take my part against the evil-doers?
+16 Who will rise up with me against the wicked : or who will take my part against the evil doers?
 
 17 If the LORD had not helped me : it had not failed but my soul had been put to silence.
 
@@ -1728,7 +1724,7 @@ O LORD God, to whom vengeance belongeth : thou God, to whom vengeance belongeth,
 
 O COME, let us sing unto the LORD : let us heartily rejoice in the strength of our salvation.
 
-2 Let us come before his presence with thanksgiving : and shew ourselves glad in him with psalms.
+2 Let us come before his presence with thanksgiving : and show ourselves glad in him with psalms.
 
 3 For the LORD is a great God : and a great King above all gods.
 
@@ -1784,7 +1780,7 @@ O SING unto the LORD a new song : sing unto the LORD, all the whole earth.
 
 THE LORD is King, the earth may be glad thereof : yea, the multitude of the isles may be glad thereof.
 
-2 Clouds and darkness are round about him : righteousness and judgement are the habitation of his seat.
+2 Clouds and darkness are round about him : righteousness and judgment are the habitation of his seat.
 
 3 There shall go a fire before him : and burn up his enemies on every side.
 
@@ -1796,7 +1792,7 @@ THE LORD is King, the earth may be glad thereof : yea, the multitude of the isle
 
 7 Confounded be all they that worship carved images, and that delight in vain gods : worship him, all ye gods.
 
-8 Sion heard of it, and rejoiced : and the daughters of Judah were glad, because of thy judgements, O LORD.
+8 Sion heard of it, and rejoiced : and the daughters of Judah were glad, because of thy judgments, O LORD.
 
 9 For thou, LORD, art higher than all that are in the earth : thou art exalted far above all gods.
 
@@ -1814,15 +1810,15 @@ O SING unto the LORD a new song : for he hath done marvellous things.
 
 2 With his own right hand, and with his holy arm : hath he gotten himself the victory.
 
-3 The LORD declared his salvation : his righteousness hath he openly shewed in the sight of the heathen.
+3 The LORD declared his salvation : his righteousness hath he openly showed in the sight of the heathen.
 
 4 He hath remembered his mercy and truth toward the house of Israel : and all the ends of the world have seen the salvation of our God.
 
-5 Shew yourselves joyful unto the LORD, all ye lands : sing, rejoice, and give thanks.
+5 Show yourselves joyful unto the LORD, all ye lands : sing, rejoice, and give thanks.
 
 6 Praise the LORD upon the harp : sing to the harp with a psalm of thanksgiving.
 
-7 With trumpets also and shawms : O shew yourselves joyful before the LORD the King.
+7 With trumpets also and shawms : O show yourselves joyful before the LORD the King.
 
 8 Let the sea make a noise, and all that therein is : the round world, and they that dwell therein.
 
@@ -1840,7 +1836,7 @@ THE LORD is King, be the people never so unpatient : he sitteth between the Cher
 
 3 They shall give thanks unto thy Name : which is great, wonderful, and holy.
 
-4 The King’s power loveth judgement; thou hast prepared equity : thou hast executed judgement and righteousness in Jacob.
+4 The King’s power loveth judgment; thou hast prepared equity : thou hast executed judgment and righteousness in Jacob.
 
 5 O magnify the LORD our God : and fall down before his footstool, for he is holy.
 

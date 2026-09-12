@@ -63,7 +63,13 @@ def norm(s):
 
 def main():
     import w13_1892
+    import w17_witness
     ps = w13_1892.parse()
+    # Wave 17: test what the wave PUBLISHES -- the carrier as corrected from
+    # the scan of the 1892 Standard Book. Against the raw carrier this gate
+    # failed four entries, and the scan showed the change log was right about
+    # all four.
+    w17_witness.apply(ps)
     passed, failed, skipped = [], [], []
     for ref, changes, dates in entries():
         # pair each change with its date; choose the last dated <= 1892
