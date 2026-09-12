@@ -1,6 +1,8 @@
-"""The 1892 Psalter cells as {psalm: {verse: text}} (authoring source)."""
+"""The Psalter cells as {psalm: {verse: text}} -- the authoring source, read
+back for the Wave-17 gates."""
 import glob, re
-WT = '/private/tmp/claude-501/-Users-wtrible-Developer-bcp/e55e8dd7-a1da-410d-8a38-66e4b8f7ded5/scratchpad/wt/'
+import os
+WT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/'
 
 def cells(ed='1892'):
     out = {}
