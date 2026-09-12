@@ -11,7 +11,17 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 16 (the backlog pass) BUILT, NOT YET PUBLISHED
+## CURRENT — WAVE 16 (the backlog pass) DONE + PUBLISHED (2026-09-11)
+
+**PUBLISHED 2026-09-11 (force-pushed with maintainer go-ahead). Published tips:
+`main 3a1834dd · scottish b2b97ef4 · american 41465f0b`; all 12 tags recreated;
+local==remote verified for 3 branches + 12 tags (peeled commits checked, 0
+mismatched); no tag carries U+FFFD. Against the previous tags `texts/` changed
+ONLY in v1892 (concerning-the-service, selections, feasts-and-fasts,
+proper-psalms) and v1928 (concerning-the-service, proper-psalms); the other ten
+tags are byte-identical. Pre-publish refs saved at
+`scratchpad/pre-publish-refs-w16.txt`.**
+
 
 **Scope: items HANDOFF §8 recorded, not a new family.** Guide:
 `ingest/WAVE16_GUIDE.md`. Scripts: `w16_build.py`, `w16_witness.py`,
