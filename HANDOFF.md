@@ -11,7 +11,29 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
-## CURRENT — WAVE 17 (the 1892 Psalter vs the Standard Book scan) BUILT, NOT YET PUBLISHED
+## CURRENT — WAVE 17 (the 1892 Psalter vs the Standard Book scan) DONE + PUBLISHED (2026-09-18)
+
+**PUBLISHED 2026-09-18 (force-pushed with maintainer go-ahead). Published tips:
+`main d9e41bf0 · scottish ca076dac · american 03fb3a4a`; all 12 tags recreated;
+local==remote verified for 3 branches + 12 tags (peeled commits checked, 0
+mismatched); no tag carries U+FFFD. Against the previous tags `texts/` changed
+ONLY in v1892 (6 files: the three psalter cells in `original/` and
+`normalized/`, +251 -277); the other eleven tags are byte-identical.
+Pre-publish refs saved at `scratchpad/pre-publish-refs-w17.txt`.**
+
+**A publishing near-miss worth remembering.** This session resumed a week after
+the wave was built, and the scratchpad worktree had been cleaned up in the
+meantime. A `cd $WT && ...` whose `cd` failed left the rest of the command
+running in the PRIMARY repo on `main`, where `git add -A && git commit` swept in
+the untracked `viewer/` and `.claude/` directories. Nothing reached the remote
+(the follow-on `git push origin authoring` pushed the unchanged authoring ref).
+Recovery: `git update-ref refs/heads/main <published tip>` then `git restore
+--staged viewer .claude` -- NOT `git reset --hard`, which would have deleted
+both directories. **Check the worktree exists before a session's first `cd`,
+and write `cd X && cmd1 && cmd2` so a failed `cd` stops everything.**
+
+---
+
 
 Guide: `ingest/WAVE17_GUIDE.md`. Scripts: `w17_witness.py`, `w17_gates.py`,
 `gen_wave17_provenance.py`, the scan tooling (`w17_render.py`, `w17_ocr.swift`,
