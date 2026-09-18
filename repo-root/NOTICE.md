@@ -543,10 +543,44 @@ The published branches and tags are build artifacts, regenerated from the
     `texts/normalized` wherever the difference survives normalization (the
     spelling rules already mapped *shew* to *show*, but not *judgement*).
 
+- **2026-09-18** — Wave 18: the **1662 text against the Annexed Book**. The
+  1662 node is transcribed from the Church of England's currently authorized
+  text; this wave read it against a 1662 authority — the manuscript annexed to
+  the Act of Uniformity, which the Convocations subscribed on 20 December 1661,
+  in the type reproduction Her Majesty's Printing Office made from it in 1892
+  after a word-by-word comparison with photographs of the manuscript (Wikimedia
+  Commons, public domain in the US, 577 page images).
+  - **The witness is unfit to settle spelling, and says so.** Its preface
+    records that the printed Sealed Books "differ considerably from that
+    original standard in various details of orthography and punctuation", and
+    that the manuscript was "not to be a standard of orthography". Only
+    substance and structure were collated; no spelling was imported.
+  - **Two corrections, both in the Psalter.** All 2,508 verses were aligned
+    against the scan. Only two carried no mediant — the musical colon that
+    divides a verse for chanting — and the book points both: Psalm 2:12 and
+    Psalm 68:1. Every verse of the 1662 Psalter now carries exactly one.
+  - **Eight flags closed.** Psalm 89:50 is confirmed as printed (the doxology
+    that closes Book III stands inside verse 50, with no verse 51). The book
+    prays for **King Charles** in Morning and Evening Prayer, the Litany, the
+    Ordinal's litany and the prayer for the Church Militant, so the name the
+    source prints is period-correct. At sea, the book labels the single psalm
+    it uses and leaves the composite hymns unlabelled, as the file has it.
+  - **Two lines of website chrome deleted** from the Forms of Prayer to be used
+    at Sea, where they had been published as text; a gate now refuses scraped
+    site furniture anywhere in the corpus.
+  - Recorded, not changed: the Annexed Book names the King and leaves **every
+    other royal name blank**, where the source prints the living Royal Family;
+    the communion admission rubric the source prints is no part of the 1662
+    text; and the Sea rubric's "her Majesty's Navy" reads "his Majesties Navy"
+    in the book. Each is flagged with what the page shows.
+  - This changes `texts/original` and `texts/normalized` in two verses of the
+    1662 Psalter and removes two non-liturgical lines from one 1662 file.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally
-Charles Wohlers' collection at the Society of Archbishop Justus) cross-checked,
-where practical, against public-domain page scans. Transcription involves
+Charles Wohlers' collection at the Society of Archbishop Justus, with page
+scans from Wikimedia Commons) cross-checked, where practical, against
+public-domain page scans. Transcription involves
 editorial judgment; passages whose reading is uncertain are marked inline with
 `<!-- VERIFY: ... -->` comments and listed in `SOURCES.md`.

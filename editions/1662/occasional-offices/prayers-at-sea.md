@@ -1,10 +1,6 @@
 # Forms of Prayer to be used at Sea
 
-<!-- VERIFY: 'psalm-cento' — a run of psalm verses here carries no single printed psalm label (the composite hymns), so no citation is supplied; the text is deferred to the Psalter wave -->
-
-To experience the best that the Church of England website has to offer, you need to enable JavaScript in your browser's settings. Turnon.js provides guidance on how to activate JavaScript for your particular browser.
-
-Popular search items
+<!-- VERIFY: 'her Majesty's Navy'; the Church of England source has not updated this rubric to the present reign, and the same file prays for "King CHARLES". The manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 reads "These two following Prayers are to be also vsed in his Majesties Navy every day" (scan page 508; ingest/w18_evidence.json, 'sea-navy'). Carried as the source prints it; the reign-dependent readings in this edition are a maintainer's ruling, taken together -->
 
 ## Prayers to be used at Sea
 

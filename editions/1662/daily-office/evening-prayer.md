@@ -214,15 +214,13 @@ Amen.
 
 ## A Prayer for the King's Majesty
 
-<!-- VERIFY names: the source (Church of England, the current authorized text) prints the reigning monarch — 'King CHARLES' (Charles III). The 1662 book as first printed named the then-sovereign (Charles II); the named monarch is edition/reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->
-
 O Lord, our heavenly Father, high and mighty, King of kings, Lord of lords, the only Ruler of princes, who dost from thy throne behold all the dwellers upon earth: Most heartily we beseech thee with thy favour to behold our most gracious Sovereign Lord, King CHARLES; and so replenish him with the grace of thy Holy Spirit, that he may alway incline to thy will, and walk in thy way.
 Endue him plenteously with heavenly gifts; grant him in health and wealth long to live; strengthen him that he may vanquish and overcome all his enemies; and finally after this life he may attain everlasting joy and felicity; through Jesus Christ our Lord.
 Amen.
 
 ## A Prayer for the Royal Family
 
-<!-- VERIFY names: the source prints the current Royal Family ('Queen Camilla, William Prince of Wales, the Princess of Wales'). The 1662 book named the then-Royal Family; the names are reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank, and breaks the title off at "A Prayer for" (scan page 80; ingest/w18_evidence.json, 'royal-ep'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
 
 Almighty God, the fountain of all goodness, we humbly beseech thee to bless Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family: Endue them with thy Holy Spirit; enrich them with thy heavenly grace; prosper them with all happiness; and bring them to thine everlasting kingdom; through Jesus Christ our Lord.
 Amen.

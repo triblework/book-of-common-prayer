@@ -44,8 +44,7 @@ Why do the heathen so furiously rage together : and why do the people imagine a 
 
 11 Serve the Lord in fear : and rejoice unto him with reverence.
 
-12 Kiss the Son, lest he be angry, and so ye perish from the right way, if his wrath be kindled, (yea but a little) blessed are all they that put their trust in him.
-<!-- VERIFY: 'no mediant'; the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan -->
+12 Kiss the Son, lest he be angry, and so ye perish from the right way : if his wrath be kindled, (yea but a little) blessed are all they that put their trust in him.
 
 ## Psalm 3
 

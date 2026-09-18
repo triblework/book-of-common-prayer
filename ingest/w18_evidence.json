@@ -1,0 +1,167 @@
+[
+ {
+  "id": "ps-2-12",
+  "kind": "read",
+  "page": 346,
+  "expect": "way :",
+  "first": "11. Serve the Lord in fear : and rejoyce [vnto 12 Kiss the son, lest he be angry, and so ye perish from the [right] way : if his wrath be kindled (yea -",
+  "second": "11. Serve the Lord in fear : and rejoyce [vnto him] with reverence. 12 Kiss the son, lest he be angry, and so ye perish from the [right] way : if his wrath be kindled (yea",
+  "crop": "ingest/pages-1662/p0346_4400_c1259_391_352_1798.png",
+  "eye": "the colon after \"way\" is clear at 4400px",
+  "says": "Psalm 2:12 is pointed: \"from the [right] way : if his wrath be kindled\". The carrier prints no mediant here."
+ },
+ {
+  "id": "ps-68-1",
+  "kind": "read",
+  "page": 413,
+  "expect": "scattered :",
+  "first": "Morning 1 Let God arise, and let his enemies be scattered : Prayer.",
+  "second": "Morning Let God arise, and let his enemies be scattered : Prayer. let them also that hate him flee before him.",
+  "crop": "ingest/pages-1662/p0413_4400_c1940_652_195_1934.png",
+  "eye": "read on the crop: \"scattered : let them also that hate him\"",
+  "says": "Psalm 68:1 is pointed: \"let his enemies be scattered : let them also that hate him flee before him\". The carrier prints no mediant here."
+ },
+ {
+  "id": "ps-89-50",
+  "kind": "read",
+  "page": 443,
+  "expect": "anointed : praised be the Lord for evermore",
+  "first": "50 Wherewith thine enemies have blasphemed thee, and slandered the footsteps of thine anointed : praised be the Lord for evermore. Amen, and Amen. The xc. Psalm. Domine, refugium.",
+  "second": "50 Wherewith thine enemies have blasphemed thee, and slanderedthe footsteps of thine anointed : praised be the Lord for evermore. Amen, and Amen. The xc. Psalm. Domine, refugium.",
+  "crop": "ingest/pages-1662/p0443_4400_c2693_883_535_1676.png",
+  "eye": "read on the crop: verse 50 runs on into \"praised be the Lord for evermore. Amen, and Amen.\" and \"The xc. Psalm.\" follows",
+  "says": "The doxology that closes Book III stands INSIDE verse 50, after a single mediant, and Psalm 90 follows at once: there is no verse 51. The carrier is right and Wave 13's doubt is closed."
+ },
+ {
+  "id": "king-mp",
+  "kind": "read",
+  "page": 70,
+  "expect": "King Charles",
+  "first": "(page OCR merged this block)",
+  "second": "O Lord our heavenly father, high and mighty, King of Kings, Lord of Lords, the only ruler of Princes, who dost from thy throne behold all the dwellers vpon earth: most heartily we beseech thee with thy favour to behold our most gracious soveraign Lord King Charles, and so replenish him with the grace of thy holy Spirit, that he may alway incline to thy will, and walk in thy way. Indue him plenteously",
+  "crop": "ingest/pages-1662/p0070_4400_c890_380_620_1720.png",
+  "eye": "read on the page: \"our most gracious soveraign Lord King Charles\"",
+  "says": "Morning Prayer prays for \"our most gracious soveraign Lord King Charles\": the first name the carrier prints is period-correct."
+ },
+ {
+  "id": "king-litany",
+  "kind": "read",
+  "page": 86,
+  "expect": "thy servant Charles",
+  "first": "That it may please thee to keep and strengthen in the true worshipping of thee, in righteousnes and holines of life, thy servant Charles our most gra- That it may please thee to be his defender, and",
+  "second": "\u201e\u043e \u201e \u0432 \u043d \u043d \u043d \u0432 \u0432\u043d That it may please thee to keep and strengthen in the true worshipping of thee, in righteousnes and holines of life, thy servant Charles our most gra- cious King and Governour, We beseech thee lo hear os good Lord. That it may please thee to rule his heart in thy faith, fear, and love, and that he may evermore have Affance in thee, and ever seek thy honor and glory, We beseech thee to hear os good Lord. That it may please thee to be his defender, and laonoa vivina lim tha vintomi aude ,ll bic Enamiso",
+  "crop": "ingest/pages-1662/p0086_4400_c2685_353_760_1651.png",
+  "eye": "",
+  "says": "The Litany prays for \"thy servant Charles our most gracious King and Governour\"."
+ },
+ {
+  "id": "king-communion",
+  "kind": "read",
+  "page": 254,
+  "expect": "thy servant Charles our King",
+  "first": "unsaia cially thy servant Charles our King, that vnder him we may be Godly and quietly governed: and grant",
+  "second": "christian Kings, Princes and Governors, and spe- cially thy servant Charles our King, that vnder him we may be Godly and quietly governed: and grant . \u0443\u00bb. unsaid.",
+  "crop": "ingest/pages-1662/p0254_4400_c2193_385_262_1862.png",
+  "eye": "",
+  "says": "The prayer for the Church Militant prays for \"thy servant Charles our King\"."
+ },
+ {
+  "id": "king-ordinal",
+  "kind": "read",
+  "page": 526,
+  "expect": "Charles",
+  "first": "(page OCR merged this block)",
+  "second": "we oeseech inee to neat os good Loora. That it may please thee to keep and strengthen in the true worshipping of thee in righteousnes, and holiness of life, thy servant Charles our most gratious King and Governour.",
+  "crop": "ingest/pages-1662/p0526_4400_c2830_380_330_1700.png",
+  "eye": "",
+  "says": "The Ordinal's litany prays for \"thy servant Charles our most gratious King and Governour\"."
+ },
+ {
+  "id": "royal-mp",
+  "kind": "blank",
+  "page": 70,
+  "expect": "Royal",
+  "first": "I A Prayer for Almighty God, the fountain of all goodnes, we numbly beseech thee to bless thy holy spirit, enrich them with thy heavenly grace,",
+  "second": "T A Prayer for Almighty God, the fountain of all goodnes, we humbly beseech \u2022 thee to bless Indue them with thy holy spirit, enrich them with thy heavenly grace, monanar dbsmn dh bncee on| bono m",
+  "crop": "ingest/pages-1662/p0070_4400_c1876_404_534_1638.png",
+  "eye": "read on the page: \"A Prayer for\" with nothing after it, and two blank lines between \"to bless\" and \"Indue them\"",
+  "says": "Morning Prayer: the title reads \"A Prayer for\" and stops, and the prayer reads \"we humbly beseech thee to bless\" and stops. Two blank lines follow before \"Indue them with thy holy spirit\". No royal person but the King is named."
+ },
+ {
+  "id": "royal-ep",
+  "kind": "blank",
+  "page": 80,
+  "expect": "Royal",
+  "first": "Il A Prayer for mighty God the fountaine of all goodness, w umbly beseech thee to bles them with thy holy spirit, enrich them with thy neae",
+  "second": "1l A Prayer for Almighty God the fountaine of all goodness, we humbly beseech thee to bless Indue them with thy holy spirit, enrich them with thy hea-",
+  "crop": "ingest/pages-1662/p0080_4400_c2809_417_554_1651.png",
+  "eye": "read on the page: the same unfinished title and the same blank",
+  "says": "Evening Prayer prints the same unfinished title and the same blank after \"to bless\"."
+ },
+ {
+  "id": "royal-litany",
+  "kind": "blank",
+  "page": 87,
+  "expect": "Queen",
+  "first": "75 That it may please thee to blesse and preserve We beseech thee do hear os good Lord",
+  "second": "75 The Litanie That it may please thee to blesse and preserve We beseech thee to hear us good Lord. That it may please thee to illuminate all Bisho Priests and Deacons, with , true knowledge a vnderstanding of thy word, and that both by th preaching and living they may set it forth and sh it accordingly, We beseech thee to hear os good Lord. That it may please thee to indue the Lords of Council, and all the Nobility with grace, wisedo and vnderstanding, We beseech thee to near os good Lora.",
+  "crop": "ingest/pages-1662/p0087_4400_c607_698_1129_1766.png",
+  "eye": "read on the page: the petition breaks off after \"preserve\" and the response follows a blank line",
+  "says": "The Litany petition reads \"That it may please thee to blesse and preserve\" and stops; the response follows after a blank."
+ },
+ {
+  "id": "royal-ordinal",
+  "kind": "blank",
+  "page": 527,
+  "expect": "Queen",
+  "first": "We beseech thee to hear us good Lord. That it may please thee to bless and preserve We beseech thee to hear os good Lord.",
+  "second": "Lidaao We beseech thee to hear os good Lord. That it may please thee to bless and preserve We beseech thee to hear os good Lord.",
+  "crop": "ingest/pages-1662/p0527_4400_c1003_966_378_1446.png",
+  "eye": "read on the page: the petition breaks off after \"preserve\"",
+  "says": "The Ordinal's litany prints the same petition and the same blank."
+ },
+ {
+  "id": "communion-rubric",
+  "kind": "read",
+  "page": 246,
+  "expect": "notorious evil",
+  "first": "Or holy Communion And if any of bhose be an open and notorious eorllzver, or haule don any wrong to his eig hbours by word or Deed, so that the congregation be thereby",
+  "second": "Or holy Communion , So many as intend to be partakers of the holy Com- munion, shall signife their Names bo the Curate at Least somelime the day before. And if any of those be an open and notorious evilliver, or haue don any wrong fo his Neighbours by word or Deed, so that the congregation be thereby",
+  "crop": "ingest/pages-1662/p0246_4400_c1131_749_633_1428.png",
+  "eye": "",
+  "says": "The 1662 admission rubric is the \"open and notorious evil liver\" rubric of 1549-1604. The rubric the carrier prints -- an account to the Ordinary, an opportunity for interview, seven days -- is not in the Annexed Book at all; it is a later amendment."
+ },
+ {
+  "id": "baptism-forasmuch",
+  "kind": "read",
+  "page": 277,
+  "expect": "Forasmuch as this",
+  "first": "following. Forasmuch as this childe hath promised by you his sureties, to renounce the devil and all his works,",
+  "second": "following. Forasmuch as this childe hath promised by you his sureties, to renounce the devil and all his works,",
+  "crop": "ingest/pages-1662/p0277_4400_c1540_966_327_1651.png",
+  "eye": "",
+  "says": "The exhortation to the Godfathers reads \"Forasmuch as this childe hath promised\"; the private form on page 283 reads \"Forasmuch as this child\", and the opening exhortation on page 271 \"Dearly beloved, forasmuch as all men are conceived\". The carrier's \"Foreasmuch\" is an orthographic difference of exactly the kind the witness's own preface disclaims -- the MS \"is not to be a standard of orthography\" and the printed books differ from it -- so it is left as the Church of England prints it, and the flag now records what was checked instead of asking for a scan."
+ },
+ {
+  "id": "sea-psalm-107",
+  "kind": "read",
+  "page": 513,
+  "expect": "thanks",
+  "first": "and his mercy endureth for ever. Let them give thanks whom the Lord hath redeem- Psal. 107.",
+  "second": "v\u043e1\u043e\u043e ni Domino. P'sal. 107. and his mercy endureth for ever. Let them give thanks whom the Lord hath redeem-",
+  "crop": "ingest/pages-1662/p0513_4400_c2333_640_204_1971.png",
+  "eye": "",
+  "says": "At Sea, where one psalm is used the book labels it in the margin -- \"Confitemini Domino. Psal. 107.\" -- and where the office uses a cento (\"A Hymn of praise and thanksgiving after a dangerous tempest\", page 517) it prints no psalm label at all. The carrier's missing citation is the book's own silence."
+ },
+ {
+  "id": "sea-navy",
+  "kind": "read",
+  "page": 508,
+  "expect": "Majesties Navy",
+  "first": "(page OCR merged this block)",
+  "second": "These two following Prayers are to be also vsed in his Majesties Navy every day.",
+  "crop": "ingest/pages-1662/p0508_4400_c1270_540_320_1540.png",
+  "eye": "read on the crop: \"also vsed in his Majesties Navy every day\"",
+  "says": "The rubric reads \"in his Majesties Navy\". The carrier prints \"her Majesty's Navy\" -- a reign-dependency the Church of England source has not updated, in the same file that prays for \"King CHARLES\"."
+ }
+]

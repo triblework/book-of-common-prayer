@@ -1,0 +1,1994 @@
+[
+{
+"psalm": 2,
+"verse": 1,
+"page": 345,
+"kind": "unread"
+},
+{
+"psalm": 2,
+"verse": 7,
+"page": 345,
+"kind": "unread"
+},
+{
+"psalm": 2,
+"verse": 12,
+"page": 346,
+"kind": "absent"
+},
+{
+"psalm": 4,
+"verse": 1,
+"page": 346,
+"kind": "unread"
+},
+{
+"psalm": 4,
+"verse": 9,
+"page": 347,
+"kind": "unread"
+},
+{
+"psalm": 5,
+"verse": 12,
+"page": 348,
+"kind": "unread"
+},
+{
+"psalm": 6,
+"verse": 9,
+"page": 349,
+"kind": "unread"
+},
+{
+"psalm": 7,
+"verse": 5,
+"page": 349,
+"kind": "unread"
+},
+{
+"psalm": 7,
+"verse": 7,
+"page": 349,
+"kind": "unread"
+},
+{
+"psalm": 7,
+"verse": 10,
+"page": 349,
+"kind": "unread"
+},
+{
+"psalm": 7,
+"verse": 12,
+"page": 349,
+"kind": "unread"
+},
+{
+"psalm": 8,
+"verse": 2,
+"page": 350,
+"kind": "unread"
+},
+{
+"psalm": 8,
+"verse": 5,
+"page": 350,
+"kind": "unread"
+},
+{
+"psalm": 8,
+"verse": 8,
+"page": 350,
+"kind": "unread"
+},
+{
+"psalm": 9,
+"verse": 15,
+"page": 352,
+"kind": "unread"
+},
+{
+"psalm": 9,
+"verse": 17,
+"page": 352,
+"kind": "unread"
+},
+{
+"psalm": 9,
+"verse": 19,
+"page": 352,
+"kind": "unread"
+},
+{
+"psalm": 10,
+"verse": 3,
+"page": 352,
+"kind": "unread"
+},
+{
+"psalm": 10,
+"verse": 6,
+"page": 352,
+"kind": "unread"
+},
+{
+"psalm": 10,
+"verse": 16,
+"page": 353,
+"kind": "unread"
+},
+{
+"psalm": 11,
+"verse": 2,
+"page": 353,
+"kind": "unread"
+},
+{
+"psalm": 11,
+"verse": 8,
+"page": 354,
+"kind": "unread"
+},
+{
+"psalm": 12,
+"verse": 7,
+"page": 354,
+"kind": "unread"
+},
+{
+"psalm": 13,
+"verse": 1,
+"page": 355,
+"kind": "unread"
+},
+{
+"psalm": 13,
+"verse": 2,
+"page": 355,
+"kind": "unread"
+},
+{
+"psalm": 13,
+"verse": 3,
+"page": 355,
+"kind": "unread"
+},
+{
+"psalm": 14,
+"verse": 7,
+"page": 356,
+"kind": "unread"
+},
+{
+"psalm": 14,
+"verse": 8,
+"page": 356,
+"kind": "unread"
+},
+{
+"psalm": 15,
+"verse": 1,
+"page": 356,
+"kind": "unread"
+},
+{
+"psalm": 17,
+"verse": 7,
+"page": 358,
+"kind": "unread"
+},
+{
+"psalm": 17,
+"verse": 14,
+"page": 358,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 2,
+"page": 359,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 7,
+"page": 359,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 19,
+"page": 360,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 20,
+"page": 360,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 21,
+"page": 360,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 39,
+"page": 361,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 43,
+"page": 361,
+"kind": "unread"
+},
+{
+"psalm": 18,
+"verse": 45,
+"page": 361,
+"kind": "unread"
+},
+{
+"psalm": 20,
+"verse": 7,
+"page": 363,
+"kind": "unread"
+},
+{
+"psalm": 20,
+"verse": 9,
+"page": 363,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 8,
+"page": 365,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 10,
+"page": 365,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 22,
+"page": 366,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 23,
+"page": 366,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 25,
+"page": 366,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 26,
+"page": 366,
+"kind": "unread"
+},
+{
+"psalm": 22,
+"verse": 27,
+"page": 366,
+"kind": "unread"
+},
+{
+"psalm": 23,
+"verse": 6,
+"page": 367,
+"kind": "unread"
+},
+{
+"psalm": 24,
+"verse": 1,
+"page": 367,
+"kind": "unread"
+},
+{
+"psalm": 24,
+"verse": 8,
+"page": 367,
+"kind": "unread"
+},
+{
+"psalm": 24,
+"verse": 10,
+"page": 367,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 4,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 5,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 8,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 10,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 11,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 12,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 13,
+"page": 368,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 17,
+"page": 369,
+"kind": "unread"
+},
+{
+"psalm": 25,
+"verse": 18,
+"page": 369,
+"kind": "unread"
+},
+{
+"psalm": 26,
+"verse": 1,
+"page": 369,
+"kind": "unread"
+},
+{
+"psalm": 26,
+"verse": 3,
+"page": 369,
+"kind": "unread"
+},
+{
+"psalm": 27,
+"verse": 9,
+"page": 370,
+"kind": "unread"
+},
+{
+"psalm": 28,
+"verse": 6,
+"page": 371,
+"kind": "unread"
+},
+{
+"psalm": 29,
+"verse": 1,
+"page": 372,
+"kind": "unread"
+},
+{
+"psalm": 30,
+"verse": 1,
+"page": 372,
+"kind": "unread"
+},
+{
+"psalm": 30,
+"verse": 2,
+"page": 372,
+"kind": "unread"
+},
+{
+"psalm": 30,
+"verse": 4,
+"page": 372,
+"kind": "unread"
+},
+{
+"psalm": 30,
+"verse": 10,
+"page": 373,
+"kind": "unread"
+},
+{
+"psalm": 31,
+"verse": 3,
+"page": 373,
+"kind": "unread"
+},
+{
+"psalm": 31,
+"verse": 25,
+"page": 375,
+"kind": "unread"
+},
+{
+"psalm": 31,
+"verse": 26,
+"page": 375,
+"kind": "unread"
+},
+{
+"psalm": 32,
+"verse": 9,
+"page": 376,
+"kind": "unread"
+},
+{
+"psalm": 32,
+"verse": 11,
+"page": 376,
+"kind": "unread"
+},
+{
+"psalm": 32,
+"verse": 12,
+"page": 376,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 6,
+"page": 376,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 10,
+"page": 376,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 11,
+"page": 377,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 12,
+"page": 377,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 15,
+"page": 377,
+"kind": "unread"
+},
+{
+"psalm": 33,
+"verse": 16,
+"page": 377,
+"kind": "unread"
+},
+{
+"psalm": 34,
+"verse": 2,
+"page": 377,
+"kind": "unread"
+},
+{
+"psalm": 34,
+"verse": 22,
+"page": 379,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 10,
+"page": 379,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 13,
+"page": 379,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 15,
+"page": 380,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 17,
+"page": 380,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 21,
+"page": 380,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 26,
+"page": 380,
+"kind": "unread"
+},
+{
+"psalm": 35,
+"verse": 27,
+"page": 380,
+"kind": "unread"
+},
+{
+"psalm": 36,
+"verse": 7,
+"page": 381,
+"kind": "unread"
+},
+{
+"psalm": 37,
+"verse": 5,
+"page": 382,
+"kind": "unread"
+},
+{
+"psalm": 37,
+"verse": 12,
+"page": 382,
+"kind": "unread"
+},
+{
+"psalm": 37,
+"verse": 34,
+"page": 384,
+"kind": "unread"
+},
+{
+"psalm": 37,
+"verse": 39,
+"page": 384,
+"kind": "unread"
+},
+{
+"psalm": 38,
+"verse": 1,
+"page": 384,
+"kind": "unread"
+},
+{
+"psalm": 38,
+"verse": 3,
+"page": 384,
+"kind": "unread"
+},
+{
+"psalm": 38,
+"verse": 9,
+"page": 385,
+"kind": "unread"
+},
+{
+"psalm": 38,
+"verse": 13,
+"page": 385,
+"kind": "unread"
+},
+{
+"psalm": 39,
+"verse": 1,
+"page": 386,
+"kind": "unread"
+},
+{
+"psalm": 39,
+"verse": 5,
+"page": 386,
+"kind": "unread"
+},
+{
+"psalm": 39,
+"verse": 8,
+"page": 386,
+"kind": "unread"
+},
+{
+"psalm": 40,
+"verse": 14,
+"page": 387,
+"kind": "unread"
+},
+{
+"psalm": 40,
+"verse": 15,
+"page": 387,
+"kind": "unread"
+},
+{
+"psalm": 41,
+"verse": 6,
+"page": 388,
+"kind": "unread"
+},
+{
+"psalm": 41,
+"verse": 8,
+"page": 389,
+"kind": "unread"
+},
+{
+"psalm": 42,
+"verse": 4,
+"page": 389,
+"kind": "unread"
+},
+{
+"psalm": 42,
+"verse": 6,
+"page": 389,
+"kind": "unread"
+},
+{
+"psalm": 42,
+"verse": 8,
+"page": 389,
+"kind": "unread"
+},
+{
+"psalm": 42,
+"verse": 11,
+"page": 390,
+"kind": "unread"
+},
+{
+"psalm": 43,
+"verse": 2,
+"page": 390,
+"kind": "unread"
+},
+{
+"psalm": 43,
+"verse": 3,
+"page": 390,
+"kind": "unread"
+},
+{
+"psalm": 44,
+"verse": 8,
+"page": 391,
+"kind": "unread"
+},
+{
+"psalm": 44,
+"verse": 23,
+"page": 392,
+"kind": "unread"
+},
+{
+"psalm": 44,
+"verse": 25,
+"page": 392,
+"kind": "unread"
+},
+{
+"psalm": 45,
+"verse": 13,
+"page": 393,
+"kind": "unread"
+},
+{
+"psalm": 45,
+"verse": 18,
+"page": 393,
+"kind": "unread"
+},
+{
+"psalm": 46,
+"verse": 2,
+"page": 393,
+"kind": "unread"
+},
+{
+"psalm": 48,
+"verse": 3,
+"page": 395,
+"kind": "unread"
+},
+{
+"psalm": 49,
+"verse": 6,
+"page": 396,
+"kind": "unread"
+},
+{
+"psalm": 49,
+"verse": 10,
+"page": 396,
+"kind": "unread"
+},
+{
+"psalm": 49,
+"verse": 11,
+"page": 396,
+"kind": "unread"
+},
+{
+"psalm": 51,
+"verse": 6,
+"page": 399,
+"kind": "unread"
+},
+{
+"psalm": 52,
+"verse": 6,
+"page": 400,
+"kind": "unread"
+},
+{
+"psalm": 52,
+"verse": 7,
+"page": 400,
+"kind": "unread"
+},
+{
+"psalm": 55,
+"verse": 4,
+"page": 402,
+"kind": "unread"
+},
+{
+"psalm": 55,
+"verse": 5,
+"page": 402,
+"kind": "unread"
+},
+{
+"psalm": 55,
+"verse": 9,
+"page": 402,
+"kind": "unread"
+},
+{
+"psalm": 55,
+"verse": 19,
+"page": 402,
+"kind": "unread"
+},
+{
+"psalm": 55,
+"verse": 25,
+"page": 403,
+"kind": "unread"
+},
+{
+"psalm": 57,
+"verse": 3,
+"page": 404,
+"kind": "unread"
+},
+{
+"psalm": 57,
+"verse": 5,
+"page": 404,
+"kind": "unread"
+},
+{
+"psalm": 57,
+"verse": 7,
+"page": 404,
+"kind": "unread"
+},
+{
+"psalm": 57,
+"verse": 9,
+"page": 404,
+"kind": "unread"
+},
+{
+"psalm": 58,
+"verse": 5,
+"page": 405,
+"kind": "unread"
+},
+{
+"psalm": 58,
+"verse": 10,
+"page": 405,
+"kind": "unread"
+},
+{
+"psalm": 59,
+"verse": 16,
+"page": 406,
+"kind": "unread"
+},
+{
+"psalm": 61,
+"verse": 3,
+"page": 408,
+"kind": "unread"
+},
+{
+"psalm": 62,
+"verse": 9,
+"page": 408,
+"kind": "unread"
+},
+{
+"psalm": 62,
+"verse": 11,
+"page": 409,
+"kind": "unread"
+},
+{
+"psalm": 63,
+"verse": 10,
+"page": 409,
+"kind": "unread"
+},
+{
+"psalm": 64,
+"verse": 4,
+"page": 410,
+"kind": "unread"
+},
+{
+"psalm": 64,
+"verse": 10,
+"page": 410,
+"kind": "unread"
+},
+{
+"psalm": 65,
+"verse": 4,
+"page": 410,
+"kind": "unread"
+},
+{
+"psalm": 65,
+"verse": 5,
+"page": 411,
+"kind": "unread"
+},
+{
+"psalm": 66,
+"verse": 2,
+"page": 411,
+"kind": "unread"
+},
+{
+"psalm": 66,
+"verse": 4,
+"page": 411,
+"kind": "unread"
+},
+{
+"psalm": 66,
+"verse": 6,
+"page": 412,
+"kind": "unread"
+},
+{
+"psalm": 66,
+"verse": 15,
+"page": 412,
+"kind": "unread"
+},
+{
+"psalm": 68,
+"verse": 1,
+"page": 413,
+"kind": "absent"
+},
+{
+"psalm": 68,
+"verse": 9,
+"page": 414,
+"kind": "unread"
+},
+{
+"psalm": 68,
+"verse": 11,
+"page": 414,
+"kind": "unread"
+},
+{
+"psalm": 68,
+"verse": 12,
+"page": 414,
+"kind": "unread"
+},
+{
+"psalm": 68,
+"verse": 23,
+"page": 414,
+"kind": "unread"
+},
+{
+"psalm": 68,
+"verse": 35,
+"page": 415,
+"kind": "unread"
+},
+{
+"psalm": 69,
+"verse": 10,
+"page": 416,
+"kind": "unread"
+},
+{
+"psalm": 69,
+"verse": 16,
+"page": 416,
+"kind": "unread"
+},
+{
+"psalm": 69,
+"verse": 17,
+"page": 416,
+"kind": "unread"
+},
+{
+"psalm": 69,
+"verse": 18,
+"page": 417,
+"kind": "unread"
+},
+{
+"psalm": 69,
+"verse": 22,
+"page": 417,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 3,
+"page": 418,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 4,
+"page": 418,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 6,
+"page": 419,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 9,
+"page": 419,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 11,
+"page": 419,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 20,
+"page": 420,
+"kind": "unread"
+},
+{
+"psalm": 71,
+"verse": 22,
+"page": 420,
+"kind": "unread"
+},
+{
+"psalm": 72,
+"verse": 11,
+"page": 420,
+"kind": "unread"
+},
+{
+"psalm": 72,
+"verse": 19,
+"page": 421,
+"kind": "unread"
+},
+{
+"psalm": 73,
+"verse": 19,
+"page": 422,
+"kind": "unread"
+},
+{
+"psalm": 73,
+"verse": 27,
+"page": 422,
+"kind": "unread"
+},
+{
+"psalm": 74,
+"verse": 7,
+"page": 423,
+"kind": "unread"
+},
+{
+"psalm": 74,
+"verse": 12,
+"page": 423,
+"kind": "unread"
+},
+{
+"psalm": 74,
+"verse": 14,
+"page": 423,
+"kind": "unread"
+},
+{
+"psalm": 74,
+"verse": 15,
+"page": 423,
+"kind": "unread"
+},
+{
+"psalm": 75,
+"verse": 8,
+"page": 425,
+"kind": "unread"
+},
+{
+"psalm": 75,
+"verse": 9,
+"page": 425,
+"kind": "unread"
+},
+{
+"psalm": 76,
+"verse": 10,
+"page": 425,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 4,
+"page": 427,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 18,
+"page": 428,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 55,
+"page": 430,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 57,
+"page": 430,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 58,
+"page": 430,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 60,
+"page": 430,
+"kind": "unread"
+},
+{
+"psalm": 78,
+"verse": 61,
+"page": 431,
+"kind": "unread"
+},
+{
+"psalm": 79,
+"verse": 4,
+"page": 432,
+"kind": "unread"
+},
+{
+"psalm": 79,
+"verse": 6,
+"page": 432,
+"kind": "unread"
+},
+{
+"psalm": 79,
+"verse": 10,
+"page": 432,
+"kind": "unread"
+},
+{
+"psalm": 80,
+"verse": 15,
+"page": 433,
+"kind": "unread"
+},
+{
+"psalm": 81,
+"verse": 9,
+"page": 434,
+"kind": "unread"
+},
+{
+"psalm": 81,
+"verse": 11,
+"page": 434,
+"kind": "unread"
+},
+{
+"psalm": 82,
+"verse": 1,
+"page": 435,
+"kind": "unread"
+},
+{
+"psalm": 82,
+"verse": 3,
+"page": 435,
+"kind": "unread"
+},
+{
+"psalm": 82,
+"verse": 5,
+"page": 435,
+"kind": "unread"
+},
+{
+"psalm": 83,
+"verse": 8,
+"page": 435,
+"kind": "unread"
+},
+{
+"psalm": 83,
+"verse": 11,
+"page": 436,
+"kind": "unread"
+},
+{
+"psalm": 83,
+"verse": 12,
+"page": 436,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 1,
+"page": 440,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 9,
+"page": 441,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 11,
+"page": 441,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 15,
+"page": 441,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 20,
+"page": 442,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 32,
+"page": 442,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 34,
+"page": 442,
+"kind": "unread"
+},
+{
+"psalm": 89,
+"verse": 35,
+"page": 442,
+"kind": "unread"
+},
+{
+"psalm": 90,
+"verse": 2,
+"page": 443,
+"kind": "unread"
+},
+{
+"psalm": 90,
+"verse": 11,
+"page": 444,
+"kind": "unread"
+},
+{
+"psalm": 90,
+"verse": 12,
+"page": 444,
+"kind": "unread"
+},
+{
+"psalm": 91,
+"verse": 4,
+"page": 445,
+"kind": "unread"
+},
+{
+"psalm": 91,
+"verse": 5,
+"page": 445,
+"kind": "unread"
+},
+{
+"psalm": 91,
+"verse": 15,
+"page": 445,
+"kind": "unread"
+},
+{
+"psalm": 92,
+"verse": 4,
+"page": 446,
+"kind": "unread"
+},
+{
+"psalm": 92,
+"verse": 5,
+"page": 446,
+"kind": "unread"
+},
+{
+"psalm": 92,
+"verse": 7,
+"page": 446,
+"kind": "unread"
+},
+{
+"psalm": 92,
+"verse": 10,
+"page": 446,
+"kind": "unread"
+},
+{
+"psalm": 94,
+"verse": 15,
+"page": 448,
+"kind": "unread"
+},
+{
+"psalm": 94,
+"verse": 18,
+"page": 448,
+"kind": "unread"
+},
+{
+"psalm": 94,
+"verse": 19,
+"page": 448,
+"kind": "unread"
+},
+{
+"psalm": 95,
+"verse": 3,
+"page": 448,
+"kind": "unread"
+},
+{
+"psalm": 95,
+"verse": 8,
+"page": 449,
+"kind": "unread"
+},
+{
+"psalm": 97,
+"verse": 5,
+"page": 450,
+"kind": "unread"
+},
+{
+"psalm": 97,
+"verse": 8,
+"page": 450,
+"kind": "unread"
+},
+{
+"psalm": 97,
+"verse": 10,
+"page": 450,
+"kind": "unread"
+},
+{
+"psalm": 99,
+"verse": 4,
+"page": 452,
+"kind": "unread"
+},
+{
+"psalm": 100,
+"verse": 2,
+"page": 452,
+"kind": "unread"
+},
+{
+"psalm": 101,
+"verse": 7,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 101,
+"verse": 8,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 3,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 4,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 7,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 8,
+"page": 453,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 9,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 10,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 11,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 13,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 15,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 24,
+"page": 454,
+"kind": "unread"
+},
+{
+"psalm": 102,
+"verse": 27,
+"page": 455,
+"kind": "unread"
+},
+{
+"psalm": 103,
+"verse": 11,
+"page": 455,
+"kind": "unread"
+},
+{
+"psalm": 103,
+"verse": 16,
+"page": 456,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 5,
+"page": 456,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 7,
+"page": 457,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 8,
+"page": 457,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 11,
+"page": 457,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 14,
+"page": 457,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 22,
+"page": 457,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 29,
+"page": 458,
+"kind": "unread"
+},
+{
+"psalm": 104,
+"verse": 34,
+"page": 458,
+"kind": "unread"
+},
+{
+"psalm": 105,
+"verse": 8,
+"page": 459,
+"kind": "unread"
+},
+{
+"psalm": 105,
+"verse": 11,
+"page": 459,
+"kind": "unread"
+},
+{
+"psalm": 105,
+"verse": 22,
+"page": 459,
+"kind": "unread"
+},
+{
+"psalm": 105,
+"verse": 31,
+"page": 460,
+"kind": "unread"
+},
+{
+"psalm": 105,
+"verse": 39,
+"page": 460,
+"kind": "unread"
+},
+{
+"psalm": 106,
+"verse": 9,
+"page": 461,
+"kind": "unread"
+},
+{
+"psalm": 106,
+"verse": 10,
+"page": 461,
+"kind": "unread"
+},
+{
+"psalm": 106,
+"verse": 20,
+"page": 462,
+"kind": "unread"
+},
+{
+"psalm": 106,
+"verse": 29,
+"page": 462,
+"kind": "unread"
+},
+{
+"psalm": 106,
+"verse": 42,
+"page": 463,
+"kind": "unread"
+},
+{
+"psalm": 107,
+"verse": 17,
+"page": 465,
+"kind": "unread"
+},
+{
+"psalm": 107,
+"verse": 35,
+"page": 466,
+"kind": "unread"
+},
+{
+"psalm": 108,
+"verse": 9,
+"page": 467,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 2,
+"page": 467,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 6,
+"page": 467,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 26,
+"page": 468,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 27,
+"page": 468,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 28,
+"page": 469,
+"kind": "unread"
+},
+{
+"psalm": 109,
+"verse": 30,
+"page": 469,
+"kind": "unread"
+},
+{
+"psalm": 111,
+"verse": 10,
+"page": 470,
+"kind": "unread"
+},
+{
+"psalm": 112,
+"verse": 8,
+"page": 470,
+"kind": "unread"
+},
+{
+"psalm": 114,
+"verse": 8,
+"page": 472,
+"kind": "unread"
+},
+{
+"psalm": 116,
+"verse": 4,
+"page": 473,
+"kind": "unread"
+},
+{
+"psalm": 116,
+"verse": 13,
+"page": 473,
+"kind": "unread"
+},
+{
+"psalm": 118,
+"verse": 25,
+"page": 475,
+"kind": "unread"
+},
+{
+"psalm": 118,
+"verse": 27,
+"page": 476,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 9,
+"page": 476,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 54,
+"page": 479,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 79,
+"page": 480,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 88,
+"page": 481,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 99,
+"page": 481,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 103,
+"page": 482,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 106,
+"page": 482,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 125,
+"page": 483,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 142,
+"page": 484,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 143,
+"page": 484,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 150,
+"page": 484,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 152,
+"page": 484,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 165,
+"page": 485,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 166,
+"page": 485,
+"kind": "unread"
+},
+{
+"psalm": 119,
+"verse": 169,
+"page": 485,
+"kind": "unread"
+},
+{
+"psalm": 120,
+"verse": 3,
+"page": 486,
+"kind": "unread"
+},
+{
+"psalm": 120,
+"verse": 4,
+"page": 486,
+"kind": "unread"
+},
+{
+"psalm": 124,
+"verse": 2,
+"page": 488,
+"kind": "unread"
+},
+{
+"psalm": 124,
+"verse": 6,
+"page": 488,
+"kind": "unread"
+},
+{
+"psalm": 125,
+"verse": 5,
+"page": 489,
+"kind": "unread"
+},
+{
+"psalm": 126,
+"verse": 1,
+"page": 489,
+"kind": "unread"
+},
+{
+"psalm": 126,
+"verse": 2,
+"page": 489,
+"kind": "unread"
+},
+{
+"psalm": 128,
+"verse": 4,
+"page": 490,
+"kind": "unread"
+},
+{
+"psalm": 128,
+"verse": 6,
+"page": 490,
+"kind": "unread"
+},
+{
+"psalm": 129,
+"verse": 2,
+"page": 490,
+"kind": "unread"
+},
+{
+"psalm": 130,
+"verse": 1,
+"page": 491,
+"kind": "unread"
+},
+{
+"psalm": 132,
+"verse": 4,
+"page": 491,
+"kind": "unread"
+},
+{
+"psalm": 132,
+"verse": 6,
+"page": 492,
+"kind": "unread"
+},
+{
+"psalm": 133,
+"verse": 3,
+"page": 493,
+"kind": "unread"
+},
+{
+"psalm": 134,
+"verse": 4,
+"page": 493,
+"kind": "unread"
+},
+{
+"psalm": 135,
+"verse": 1,
+"page": 493,
+"kind": "unread"
+},
+{
+"psalm": 135,
+"verse": 3,
+"page": 493,
+"kind": "unread"
+},
+{
+"psalm": 135,
+"verse": 4,
+"page": 493,
+"kind": "unread"
+},
+{
+"psalm": 135,
+"verse": 9,
+"page": 494,
+"kind": "unread"
+},
+{
+"psalm": 135,
+"verse": 16,
+"page": 494,
+"kind": "unread"
+},
+{
+"psalm": 136,
+"verse": 12,
+"page": 495,
+"kind": "unread"
+},
+{
+"psalm": 136,
+"verse": 21,
+"page": 495,
+"kind": "unread"
+},
+{
+"psalm": 138,
+"verse": 7,
+"page": 497,
+"kind": "unread"
+},
+{
+"psalm": 139,
+"verse": 5,
+"page": 497,
+"kind": "unread"
+},
+{
+"psalm": 139,
+"verse": 15,
+"page": 498,
+"kind": "unread"
+},
+{
+"psalm": 139,
+"verse": 18,
+"page": 498,
+"kind": "unread"
+},
+{
+"psalm": 139,
+"verse": 19,
+"page": 498,
+"kind": "unread"
+},
+{
+"psalm": 139,
+"verse": 24,
+"page": 498,
+"kind": "unread"
+},
+{
+"psalm": 140,
+"verse": 8,
+"page": 499,
+"kind": "unread"
+},
+{
+"psalm": 141,
+"verse": 4,
+"page": 500,
+"kind": "unread"
+},
+{
+"psalm": 142,
+"verse": 3,
+"page": 500,
+"kind": "unread"
+},
+{
+"psalm": 143,
+"verse": 1,
+"page": 501,
+"kind": "unread"
+},
+{
+"psalm": 143,
+"verse": 7,
+"page": 501,
+"kind": "unread"
+},
+{
+"psalm": 144,
+"verse": 12,
+"page": 502,
+"kind": "unread"
+},
+{
+"psalm": 144,
+"verse": 15,
+"page": 503,
+"kind": "unread"
+},
+{
+"psalm": 145,
+"verse": 4,
+"page": 503,
+"kind": "unread"
+},
+{
+"psalm": 145,
+"verse": 15,
+"page": 504,
+"kind": "unread"
+},
+{
+"psalm": 145,
+"verse": 17,
+"page": 504,
+"kind": "unread"
+},
+{
+"psalm": 145,
+"verse": 18,
+"page": 504,
+"kind": "unread"
+},
+{
+"psalm": 148,
+"verse": 11,
+"page": 506,
+"kind": "unread"
+},
+{
+"psalm": 148,
+"verse": 12,
+"page": 506,
+"kind": "unread"
+},
+{
+"psalm": 148,
+"verse": 13,
+"page": 507,
+"kind": "unread"
+}
+]

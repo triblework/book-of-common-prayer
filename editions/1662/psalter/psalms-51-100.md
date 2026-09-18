@@ -500,8 +500,7 @@ God be merciful unto us, and bless us : and shew us the light of his countenance
 
 > Exurgat Deus
 
-Let God arise, and let his enemies be scattered let them also that hate him flee before him.
-<!-- VERIFY: 'no mediant'; the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan -->
+Let God arise, and let his enemies be scattered : let them also that hate him flee before him.
 
 2 Like as the smoke vanisheth, so shalt thou drive them away : and like as wax melteth at the fire, so let the ungodly perish at the presence of God.
 
@@ -1546,7 +1545,6 @@ My song shall be alway of the loving-kindness of the Lord : with my mouth will I
 49 Remember, Lord, the rebuke that thy servants have : and how I do bear in my bosom the rebukes of many people;
 
 50 Wherewith thine enemies have blasphemed thee, and slandered the footsteps of thine Anointed : Praised be the Lord for evermore. Amen, and Amen.
-<!-- VERIFY: 'Praised be the Lord for evermore'; the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan -->
 
 ## Psalm 90
 

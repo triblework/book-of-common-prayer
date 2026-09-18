@@ -207,6 +207,79 @@ character-by-character collation of all 2,508 verses: page-image OCR is not
 reliable enough on punctuation for that, and the pointing was checked where
 Wave 13's mediant gate reported an anomaly.
 
+### The 1662 text against the Annexed Book (Wave 18)
+
+The 1662 node is transcribed from the Church of England's currently authorized
+text (see the 1662 sourcing note below). Wave 18 read it against a **1662
+authority**: *The Book of Common Prayer ... from the original manuscript
+attached to the Act of Uniformity of 1662* (Her Majesty's Printing Office,
+September 1892) — the **Annexed Book**, the manuscript the Convocations
+subscribed on 20 December 1661, set in type "verbatim et literatim" and
+compared word by word and stop by stop with the photographs from which the 1891
+House of Lords facsimile was made. The scan is Wikimedia Commons's
+`File:The_Book_of_Common_Prayer.pdf` (PD-US, 577 page images), read with the
+Wave-17 pipeline.
+
+**What the witness may be used for.** Its own preface records that the earliest
+printed copies — the Sealed Books — "differ considerably from that original
+standard in various details of orthography and punctuation", and that the
+manuscript was "not to be a standard of orthography". So this pass collates
+substance and structure only. The witness reads *vngodly*, *ioy*, *shew*,
+*soveraign*, and opens Psalm 90:1 "O Lord thou hast been our refuge" where the
+carrier has "Lord, thou hast been our refuge": differences between printings,
+not errors, and none of them was imported.
+
+**Two corrections, both in the Psalter.** The whole Psalter was aligned verse
+by verse against scan pages 345–507. Only two of the 2,508 verses carried no
+mediant in the carrier, and the book points both:
+
+| Verse | The Church of England text | The Annexed Book |
+|---|---|---|
+| Psalm 2:12 | …from the right way, if his wrath… | …from the [right] way **:** if his wrath… (p. 346) |
+| Psalm 68:1 | …be scattered let them also… | …be scattered **:** let them also… (p. 413) |
+
+Every one of the 2,508 verses now carries exactly one mediant. Elsewhere the
+page OCR corroborated the carrier's mediant at its own pivot word in 1,561 of
+the 1,893 verses whose alignment is sound; the rest are OCR damage, not
+absence — thirty of them re-read line by line at 4400px showed the mediant
+legible, and in the same place, in twenty-five.
+
+**Eight flags closed.** Psalm 89:50 is confirmed as printed: the doxology that
+closes Book III stands inside verse 50 after a single mediant, with no verse 51
+(p. 443). The five reign-dependent flags on the monarch's name are answered —
+the book prays for **King Charles** in Morning Prayer (p. 70), Evening Prayer
+(p. 80), the Litany (p. 86), the Ordinal's litany (p. 526) and the prayer for
+the Church Militant (p. 254) — so the name the source prints is period-correct.
+And the psalm-cento flag in the Forms of Prayer to be used at Sea is answered:
+the book labels the one psalm it uses ("Confitemini Domino. Psal. 107.",
+p. 513) and prints no psalm label over the composite hymns (p. 517), which is
+what the file reflects.
+
+**Two lines of website chrome removed.** `occasional-offices/prayers-at-sea.md`
+had published two lines of Church of England site furniture as text ("To
+experience the best that the Church of England website has to offer, you need
+to enable JavaScript…" and "Popular search items"). They are deleted, and a
+gate now refuses that furniture anywhere in the corpus.
+
+**What is recorded and NOT changed.** The Annexed Book names the King and
+leaves **every other royal name blank** — in Morning and Evening Prayer the
+title itself breaks off at "A Prayer for" and the prayer at "we humbly beseech
+thee to bless"; in the Litany and the Ordinal the petition breaks off after
+"bless and preserve". The carrier fills those blanks with the living Royal
+Family. The blank is a reading, but it does not say what a 1662 file should
+print, and a blank is not what the source prints either; the flags now record
+the finding and the decision is left open. On the same footing: the communion
+**admission rubric** the carrier prints (an account to the Ordinary, seven
+days, an opportunity for interview) is no part of the 1662 text — the Annexed
+Book prints the "open and notorious evil liver" rubric of 1549–1604 (p. 246) —
+and the Sea rubric's "her Majesty's Navy", where the book reads "his Majesties
+Navy" (p. 508), is newly flagged. Replacing any of these would mean importing
+the manuscript's orthography into a modernized text.
+
+**What this does not claim.** Nothing here is a collation of the 1662 spelling
+or of its ordinary punctuation, which this witness is explicitly unfit to
+settle. The 1928 and 1979 Psalters remain unread against any scan.
+
 ---
 
 ## English line (`main`)
@@ -229,6 +302,9 @@ allow-list for this purpose) and **cross-checked** against the Baskerville PDF.
 The CoE web page interleaves a modern rubric ("If no priest be present…") that
 is **not** part of the 1662 book; it was excluded. Reproduced with the required
 Crown-copyright acknowledgment: **BCP 1662** (see `NOTICE.md`).
+Wave 18 read this text against a 1662 authority — the Annexed Book, in
+HMSO's 1892 type-reproduction (Wikimedia Commons, PD-US) — for substance
+and structure; see *The 1662 text against the Annexed Book* above.
 
 ## Scottish line (`scottish`) — forks from `v1604`
 
@@ -342,8 +418,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1764 (Scottish) Communion | `Matth. vi. 9. 20` | Passage is Matthew 6:19-20; `9` likely for `19`. |
 | 1929 (Scottish) Communion | `Acts 20. 85` | Verse is Acts 20:35; `85` likely a scan error. |
 | 1789 (American) Morning Prayer | several roman-numeral citations | The justus 1789 page had OCR damage in citations (e.g. `Psalm ii 17` for Psalm 51:17); read against the parallel 1662 sentences. |
-| 1662 Morning Prayer (Prayer for the King's Majesty) | `King CHARLES` | The CoE source serves the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan. |
-| 1662 Morning Prayer (Prayer for the Royal Family) | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the current Royal Family; the 1662 book named the then-Royal Family. Reign-dependent; reconcile against a dated 1662 scan. |
+| 1662 Morning / Evening Prayer, Litany, Ordinal (Prayer for the Royal Family) | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) names no one here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The blank is the reading; what a 1662 file should print instead is left open. |
 | 1552 Evening Prayer | `Lord, make haste to helpe us` | 1552 Morning Prayer has `O Lord`; the missing `O` may be a transcription slip. |
 | 1552 Evening Prayer | `all that them is ... they that dwel therm` | Cantate Domino; justus prints `them is`/`therm`, both probable OCR for `therein`; normalized to `therein`. |
 | 1552 Evening Prayer | `Deus misereatur. Ps. lxvii.` | The justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on that page. |
@@ -356,7 +431,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1928 (American) Evening Prayer | `St. Mark xiii. 35, 36.` | Source prints `St. Mark xiii, 35, 36.` with a comma after `xiii`; normalized to a period for citation consistency. |
 | 1928 (American) Evening Prayer | `Thy will be done, On earth as it is in heaven.` | The 1928 EP page reads thus, diverging from the same-edition 1928 Morning Prayer (`Thy will be done on earth, As it is in heaven.`); transcribed as the EP source prints it. |
 | 1604 Litany | `thy servaunt JAMES our most gracious king and governour` | Derived from the justus 1559 apparatus (which documents the JAMES name and the added Royal-Family petition); the her->his pronouns follow from the male sovereign. |
-| 1662 Litany (King) | `CHARLES, our most gracious King and Governor` | The CoE source names the reigning monarch (Charles III); the 1662 book named the then-sovereign (Charles II). Reign-dependent; reconcile against a dated 1662 scan. |
 | 1637 (Scottish) Litany | `The Litany` | The source page body prints no standalone heading (it opens at the rubric 'Here followeth the Letany...'); the title was taken from the page's HTML title/index label. Confirm the printed heading against a 1637 scan. |
 | 1637 (Scottish) Litany | `honor` | The source prints `honor` (no `u`) in one petition though `honour` elsewhere; possible justus slip for 1637 `honour`. |
 | 1637 (Scottish) Litany | `Favorably` | The source prints `Favorably` (no `u`); the 1549/1552 parallel reads `Favourably`; possible justus slip. |
@@ -371,8 +445,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1559 Communion | `as sane as he conveniently may` | Opening admission rubric; `sane` likely a printer error for `soone`. |
 | 1559 Communion | `Psal. lxi.` | Citation for `Blessed be the man…`; printed on the wrong line, likely a transposition of `Psal. xli.` (Psalm 41). |
 | 1604 Communion | `JAMES our King and governoure` | Derived from the justus 1559 apparatus (Jacobean monarch change Elizabeth→JAMES); no separate 1604 Communion page survives. |
-| 1662 Communion (Collect for the King) | `CHARLES our King` | The CoE source serves the reigning monarch (Charles III); the 1662 book named Charles II. Reign-dependent. |
-| 1662 Communion (admission rubric) | `give an account to the Ordinary within seven days an opportunity for interview` | The CoE admission rubric adds administrative wording that reads like a modern statutory amendment; the 1662 book carried the `open and notorious evil liver` rubric. |
+| 1662 Communion (admission rubric) | `give an account to the Ordinary within seven days an opportunity for interview` | CONFIRMED to be no part of the 1662 text: the Annexed Book prints the `open and notorious evil liver` rubric of 1549-1604 in this place (p. 246). A later statutory amendment, retained as the CoE prints it. |
 | 1637 (Scottish) Communion | `Matth. 11. 28` | The Comfortable Words marginal citations are set in a side column and were interleaved out of order by the HTML capture; realigned to their sentences. |
 | 1764 (Scottish) Communion | `holy Father` | The words `(holy Father)` are omitted on Trinity Sunday per a source footnote; retained in brackets. |
 | 1764 (Scottish) Communion | `1 John ii. 12` | Last Comfortable Word; `12` likely for `1` (1 John 2:1). |
@@ -405,7 +478,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1604 Private Baptism (The Vows) | `wet doune` | source prints 'wet doune'; likely 'went doune'; kept as printed; confirm against a page scan |
 | 1637 Public Baptism (The Flood Prayer) | `Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.` | source prints 'Sanctifie this fountain of baptisme, thou which art the Sanctifier of all things.' as a bracketed clause marked with an asterisk keyed to the following font-water rubric; the enclosing brackets are source (not editorial) and were kept, the asterisk dropped; confirm against a page scan |
 | 1549 Private Baptism (The Blessing of the Font) | `all those that shall he baptized` | the justus 1549 text reads 'shall he baptized'; an OCR/print slip for 'shall be baptized'; left as-sourced pending a 1549 scan |
-| 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan |
+| 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | CHECKED: the Annexed Book reads `Forasmuch as this childe hath promised` (p. 277), and `Forasmuch` in the private form (p. 283). Kept as the CoE prints it — that witness disclaims its own orthography, so it can settle a word but not a spelling. |
 | 1789 Baptism of Riper Years (The Flood Prayer) | `his family m the ark` | source prints 'his family m the ark'; likely 'in the ark'; kept as printed; confirm against a page scan |
 | 1789 Baptism of Riper Years (The Rubrics) | `he may he admitted` | source prints 'he may he admitted'; likely 'he may be admitted'; kept as printed; confirm against a page scan |
 | 1789 Baptism of Riper Years (The Rubrics) | `shall he assembled` | source prints 'shall he assembled'; likely 'shall be assembled'; kept as printed; confirm against a page scan |
@@ -517,8 +590,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1559 Ordering of Deacons | `Elizabeth` | 'Elizabeth'; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note 'changed appropriately for Queen Elizabeth, King James & King Charles'; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan |
 | 1604 Ordering of Deacons | `James` | 'James'; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note 'changed appropriately for … King James'; confirm against a 1604 page scan |
 | 1604 Ordering of Deacons | `Kings` | 'Kings'; the 1604 King's-Sovereignty oath is derived from the 1559 Queen's oath per the justus note 'Kings supremacie in 1604' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan |
-| 1662 Ordering of Deacons | `CHARLES` | 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan |
-| 1662 Ordering of Deacons | `Queen Camilla, William Prince of Wales, the Princess of Wales` | 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan |
+| 1662 Ordering of Deacons | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) names no one here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The blank is the reading; what a 1662 file should print instead is left open. (Annexed Book p. 527.) |
 | 1549 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
 | 1552 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
 | 1789 Ordering of Priests | `for that and ability` | 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan |
@@ -725,7 +797,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | `prayers-and-thanksgivings/for-the-clergy-and-people.md` (1559, 1604) | `untitled` | The source prints this prayer with no title of its own — it follows the preceding prayer directly, opening with a drop capital. The bracketed heading is editorial; confirm against a page scan. |
 | `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
 | `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
-| `occasional-offices/prayers-at-sea.md` (1662) | `psalm-cento` | Two runs of psalm verses in the Sea forms (the composite "Hymn of Praise and Thanksgiving" after a tempest, and the one after victory) carry no single printed psalm label, so no citation is supplied for them. The verses are deferred to the Psalter wave along with the labelled psalms. Confirm against a page scan whether the book names a source for either hymn. |
+| `occasional-offices/prayers-at-sea.md` (1662) | `her Majesty's Navy` | The CoE source has not revised this rubric to the present reign, in the same file that prays for `King CHARLES`; the Annexed Book reads "These two following Prayers are to be also vsed in his Majesties Navy every day" (p. 508). Carried as the source prints it. (The psalm-cento flag this row replaces is resolved: the book labels the one psalm it uses, `Confitemini Domino. Psal. 107.` (p. 513), and prints no label over the composite hymns (p. 517).) |
 | 1789 (American) Kalendar | `November Morning 1, Evening 1` | the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month |
 | 1892 (American) Proper Lessons | `A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2` | the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess |
 | 1979 (American) Daily Office Lectionary | `Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)` | the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed |
@@ -755,9 +827,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 (American) Eucharistic Lectionary | `Luke 19:29-40` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914) |
 | 1979 (American) Eucharistic Lectionary | `The Great Vigil: See pages 288-291` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915) |
 | 1979 (American) Eucharistic Lectionary | `Luke 12:13-21` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919) |
-| 1662 Psalm 2 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan |
-| 1662 Psalm 68 | `no mediant` | the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan |
-| 1662 Psalm 89 | `Praised be the Lord for evermore` | the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan |
 | 1928 (American) Psalm 18 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan |
 | 1928 (American) Psalm 109 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
 | 1928 (American) Psalm 119 | `no mediant` | the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |

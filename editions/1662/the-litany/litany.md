@@ -34,14 +34,13 @@ Good Lord, deliver us.
 We sinners do beseech thee to hear us, O Lord God: and that it may please thee to rule and govern thy holy Church universal in the right way,
 We beseech thee to hear us, good Lord.
 That it may please thee to keep and strengthen in the true worshipping of thee, in righteousness and holiness of life, thy Servant CHARLES, our most gracious King and Governor,
-<!-- VERIFY names: the source (Church of England, the current authorized text) prints the reigning monarch — 'CHARLES, our most gracious King and Governor' (Charles III). The 1662 book as first printed named the then-sovereign (Charles II); the named monarch is reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->
 We beseech thee to hear us, good Lord.
 That it may please thee to rule his heart in thy faith, fear, and love, and that he may evermore have affiance in thee, and ever seek thy honour and glory,
 We beseech thee to hear us, good Lord.
 That it may please thee to be his defender and keeper, giving him the victory over all his enemies,
 We beseech thee to hear us, good Lord.
 That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
-<!-- VERIFY names: the source prints the current Royal Family ('Queen Camilla, William Prince of Wales, the Princess of Wales'). The 1662 book named the then-Royal Family; the names are reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank after "That it may please thee to blesse and preserve" (scan page 87; ingest/w18_evidence.json, 'royal-litany'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
 We beseech thee to hear us, good Lord.
 That it may please thee to illuminate all Bishops, Priests, and Deacons, with true knowledge and understanding of thy Word; and that both by their preaching and living they may set it forth and shew it accordingly,
 We beseech thee to hear us, good Lord.

@@ -11,6 +11,62 @@ into published commits). Everything you need is in the repo + the spec.
 
 ---
 
+## CURRENT — WAVE 18 (the 1662 text vs the Annexed Book) DONE, NOT YET PUBLISHED
+
+Guide: `ingest/WAVE18_GUIDE.md`. Scripts: `w18_witness.py` (the two corrections
+and the fifteen readings), `w18_cells.py` (the seven structured cells),
+`w18_docs.py`, `w18_gates.py`, `gen_wave18_provenance.py`; the scan tooling is
+`w18_render.py` / `w18_scan.py` / `w18_read.py` (the Vision binaries are built
+from Wave 17's `w17_ocr.swift` / `w17_ocrbox.swift` into `ingest/bin/`, which is
+gitignored); the alignment is `w18_psalter.py` + `w18_mediant.py`; the evidence
+is `w18_evidence.json`, the page record `w18_scan_ocr.json` (575 pages at
+2400px) and `w18_psalter_ocr.json` (163 pages at 4400px). `w13_build.py` is
+patched.
+
+**The witness is the ANNEXED BOOK** — the manuscript annexed to the Act of
+Uniformity 1662, in HMSO's 1892 type-reproduction, from Wikimedia Commons
+(`File:The_Book_of_Common_Prayer.pdf`, PD-US, 577 page images; cached under
+`scrape-cache/upload.wikimedia.org_..._The_Book_of_Common_Prayer.pdf.*.pdf`).
+**Read its preface before using it**: it reproduces the MS "verbatim et
+literatim" but records that the printed Sealed Books "differ considerably from
+that original standard in various details of orthography and punctuation" and
+that the MS was "not to be a standard of orthography". So it settles WORDS and
+STRUCTURE and cannot settle a spelling. Three texts are in play, not two: the
+CoE's modern authorized text (the carrier), this manuscript, and the printed
+1662 books (no scan of one is in hand).
+
+What it did: **two corrections**, the mediant restored at Psalm 2:12 and 68:1,
+after which all 2,508 verses of the 1662 Psalter carry exactly one mediant;
+**eight flags closed** (Psalm 89:50 confirmed as printed; the five monarch
+flags — the book prays for "King Charles" in MP, EP, the Litany, the Ordinal's
+litany and the prayer for the Church Militant; the psalm-cento flag at sea);
+**two lines of CoE website chrome deleted** from `prayers-at-sea.md`, where
+they had been published as text since Wave 6, with a gate that now refuses site
+furniture corpus-wide. 1662 flags 15 -> 7.
+
+**Recorded, NOT changed — this is the open decision for the maintainer.** The
+Annexed Book names the King and leaves EVERY OTHER ROYAL NAME BLANK (in MP and
+EP even the title breaks off at "A Prayer for"); the carrier prints Queen
+Camilla, William Prince of Wales, the Princess of Wales. Likewise the communion
+admission rubric the carrier prints is no part of 1662 (the book has the "open
+and notorious evil liver" rubric), and the Sea rubric's "her Majesty's Navy"
+reads "his Majesties Navy" in the book. Each is flagged with what the page
+shows. Changing any of them means either printing a blank the source does not
+print, or importing the manuscript's orthography into a modernized text.
+
+Gates: `w18_gates` 0 anomalies (evidence for all 15 readings; containment in
+two halves — published psalter + these two corrections == new cells, and the
+published structured cells minus the chrome have exactly the new cells' words),
+`w13_fidelity` 0 unattested, `w13_audit` 0, `verify_index --check` OK (339
+inline / 441 provenance), and a full `build_history.py` build whose only
+`texts/` changes are v1662 (18 files) and v1789 (4 files — 1789 inherits the
+1662 Psalter); v1892 and v1928 are byte-identical. The published-context
+`verify_index --check` passes for all twelve built tags.
+
+**To publish** — the six steps in the Wave-15 block below, unchanged.
+
+---
+
 ## CURRENT — WAVE 17 (the 1892 Psalter vs the Standard Book scan) DONE + PUBLISHED (2026-09-18)
 
 **PUBLISHED 2026-09-18 (force-pushed with maintainer go-ahead). Published tips:
@@ -1303,9 +1359,10 @@ write a fresh HANDOFF section rather than rushing.
 
 ## 8. Open verify items to resolve (carry forward; don't lose these)
 
-**462 verify_items are open** (2026-09-11, after Wave 16), and they are
-concentrated: propers 184, occasional-offices 131, tables 29, psalter 29,
-daily-office 26, holy-communion 24, ordinal 16, litany 13,
+**441 verify_items are open** (2026-09-18, after Wave 18; 462 after Wave 16,
+less 14 the 1892 scan resolved and 8 the 1662 witness closed), and they are
+concentrated: propers 184, occasional-offices 131, tables 29,
+daily-office 24, holy-communion 23, ordinal 15, psalter 13, litany 12,
 prayers-and-thanksgivings 5, front-matter 5. Most need a **page scan**, not more
 transcription — so this is a distinct kind of work from a content wave, and a good
 candidate for a focused resolution pass rather than being folded into one. Wave 16
@@ -1326,10 +1383,22 @@ Named items, highest value first:
   gate flagged an anomaly, because page-OCR cannot tell ':' from ';'. A full
   collation of the 1892 pointing would need the same eye-level pass over 2,508
   verses.
-- **The other editions' psalters have never been read against a scan.** 1662
-  comes from the CoE site, 1928 and 1979 from justus e-texts; each carries its
-  own VERIFYs (1928 two mediants, 1979 nine readings). The Wave-17 tooling
-  (`w17_render.py` + Vision OCR) makes that tractable if a scan exists.
+- **1928 and 1979 psalters still unread against a scan** (1662 was done in
+  Wave 18). Each carries its own VERIFYs (1928 three mediants, 1979 nine
+  readings). Witnesses are identified for both:
+  - 1928: justus's own page-graphics scan of the **1952 facsimile** of the
+    Standard Book, `1928Standard/1952std.pdf` (~67MB), linked from
+    `1928Standard/Standard.htm` as "the complete 1952 facsimile edition". NOT
+    `bcp1928std.pdf`, which is Wohlers' re-setting in Kis BT and is a keying,
+    not a witness (the Wave-16/17 lesson). **justus.anglican.org was
+    unreachable for the whole of Wave 18** (DNS resolves, TCP refused from this
+    network), which is why the 1928 pass did not happen; retry before planning
+    it.
+  - 1979: Wikimedia Commons has `File:Book of common prayer (TEC, 1979).pdf`
+    (unexamined). The 1979 e-text also has known typos (`acknoledge`,
+    `therfore`) and three truncated collects, so a scan would pay twice.
+  The scan pipeline is Wave 18's (`w18_render.py`, `w18_scan.py`,
+  `w18_read.py`, `w18_psalter.py`), parameterized by PDF and page range.
 - **1789's Ascension-day proper psalms, "24, 47, 103"** (Wave 16 lead, NOT a
   correction). At 1892 the same row reads 24, 47, 108 on two witnesses. The
   1789 cell's "103" comes from one OCR'd page and may be the same class of
@@ -1343,18 +1412,27 @@ Named items, highest value first:
   the 1892 Proper Psalms table.
 - **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
   1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
-  recension); 1892's Kalendar (the source HTML has lost the table's row
+  recension -- but the Wave-18 witness CONTAINS them: the Annexed Book prints
+  the Kalendar at scan pages ~42-56 and the Table of proper Lessons before it,
+  so this gap now has a source and needs a transcription pass, not a search); 1892's Kalendar (the source HTML has lost the table's row
   structure) — 1892's and 1928's Selections of Psalms, the same false link to
   1789's page, were closed in Waves 16 and 15; the 1549-1662 Proper Lessons (printed as
   ~30 small per-occasion tables with varying column heights); the 1789 "Proper
   Psalms on Certain Days" table inside the Psalter rubric; and the Scottish
   line's tables.
 
-- **1662 Prayer for the Royal Family** — the CoE source serves current names
-  (Camilla/William); the 1662 original named Catherine/Mary/James. ("King CHARLES"
-  is already period-correct — Charles II ≡ Charles III first name.) Source the
-  period names from a PD 1662 facsimile (allow-list en.wikisource.org or use a
-  Commons/LoC scan), then resolve the VERIFY. Flagged in provenance/SOURCES.
+- **1662 Prayer for the Royal Family — now a DECISION, not a search.** Wave 18
+  settled what the 1662 authority says: the Annexed Book names the King
+  ("King Charles" — so that flag is closed) and leaves every other royal name
+  BLANK, in MP, EP, the Litany and the Ordinal, with the daily offices' title
+  itself broken off at "A Prayer for". The earlier guess in this file that the
+  original named Catherine/Mary/James is NOT attested by any source in hand;
+  the printed Sealed Books may have named them, but no scan of one has been
+  found on an allow-listed host (Commons has the Annexed Book and many 19th-c.
+  editions, no 1662 printing). So the choice is the maintainer's: keep the
+  living names the CoE prints (current state, flagged), print the book's blank,
+  or hold out for a printed-1662 scan. The same ruling governs the communion
+  admission rubric and "her Majesty's Navy" at sea.
 - **1604 prayer for the sovereign** (Wave 11) — a RECORDED GAP, not a reading.
   The 1559 apparatus attests that a prayer for the King replaced the Queen's and
   gives the style "Sovereign Lord King James", but not the pronouns or spellings
@@ -1385,6 +1463,19 @@ validates it — re-read it at the end of every wave, because no gate will catch
 it drifting.**
 
 ## 9. Gotchas / lessons
+
+- **Read a witness's own preface before collating against it.** The Annexed
+  Book (Wave 18) is the legal standard of the 1662 text and is still unfit to
+  settle a single spelling -- it says so itself, and the printed Sealed Books
+  differ from it. A source can be authoritative about words and worthless about
+  accidentals.
+- **Silence can be a reading.** A blank where names should stand is evidence
+  about the book; it is not an instruction about what to print.
+- **A rule that lives only in a guide is not enforced.** Two lines of CoE
+  website chrome sat inside a published 1662 file from Wave 6 to Wave 18,
+  although the Wave-8 structuring guide said to drop site furniture. It took a
+  gate (`w18_gates.py`, corpus-wide) to catch it. When a wave states a rule,
+  ask what would fail if it were broken.
 
 - `--check` compares the rebuild to LIVE tags (byte-identity) — only for the
   migration / tools-only rebuilds. For a **content** wave, texts change on purpose:

@@ -1,26 +1,5 @@
 [
  {
-  "edition": "1662",
-  "file": "psalms-1-50",
-  "anchor": "Psalm 2",
-  "source_reading": "no mediant",
-  "note": "the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it -- the 1662 pointing is not imported from another edition. Confirm against a 1662 scan"
- },
- {
-  "edition": "1662",
-  "file": "psalms-51-100",
-  "anchor": "Psalm 68",
-  "source_reading": "no mediant",
-  "note": "the CoE text prints this verse without a mediant; the 1928 page prints one. Carried as the CoE prints it. Confirm against a 1662 scan"
- },
- {
-  "edition": "1662",
-  "file": "psalms-51-100",
-  "anchor": "Psalm 89",
-  "source_reading": "Praised be the Lord for evermore",
-  "note": "the CoE prints the doxology that closes Book III INSIDE verse 50, with a single mediant placed before it, where the 1928 book prints it as a separate verse 51. It reads like two verses run together; carried as printed. Confirm against a 1662 scan"
- },
- {
   "edition": "1928",
   "file": "psalms-1-50",
   "anchor": "Psalm 18",

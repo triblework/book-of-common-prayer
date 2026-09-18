@@ -75,7 +75,6 @@ We sinners do beseech thee to hear us, O Lord God: and that it may please thee t
 We beseech thee to hear us, good Lord.
 
 That it may please thee to keep and strengthen in the true worshipping of thee, in righteousness and holiness of life, thy Servant CHARLES, our most gracious King and Governor,
-<!-- VERIFY: 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan -->
 
 We beseech thee to hear us, good Lord.
 
@@ -88,7 +87,7 @@ That it may please thee to be his defender and keeper, giving him the victory ov
 We beseech thee to hear us, good Lord.
 
 That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
-<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan -->
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank after "That it may please thee to bless and preserve" (scan page 527; ingest/w18_evidence.json, 'royal-ordinal'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
 
 We beseech thee to hear us, good Lord.
 

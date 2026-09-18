@@ -13,24 +13,18 @@ sys.path.insert(0, HERE)
 import w13_1662
 import w13_1928
 import w13_render
+import w18_witness
 
-# 1662 readings held for VERIFY, each settled by a second witness. The CoE text
-# is carried AS PRINTED; nothing is imported from another edition.
-V1662 = {
-    (2, 12): ("no mediant",
-              "the CoE text prints this verse without a mediant; the 1928 page "
-              "prints one. Carried as the CoE prints it -- the 1662 pointing is "
-              "not imported from another edition. Confirm against a 1662 scan"),
-    (68, 1): ("no mediant",
-              "the CoE text prints this verse without a mediant; the 1928 page "
-              "prints one. Carried as the CoE prints it. Confirm against a 1662 "
-              "scan"),
-    (89, 50): ("Praised be the Lord for evermore",
-               "the CoE prints the doxology that closes Book III INSIDE verse "
-               "50, with a single mediant placed before it, where the 1928 book "
-               "prints it as a separate verse 51. It reads like two verses run "
-               "together; carried as printed. Confirm against a 1662 scan"),
-}
+# 1662 readings held for VERIFY. Wave 18 read all three against the Annexed
+# Book -- the manuscript annexed to the Act of Uniformity 1662, reproduced in
+# type by HMSO in 1892 (ingest/w18_witness.py) -- and all three are settled:
+#   2:12, 68:1  the 1662 text prints a mediant the CoE text has lost. Restored
+#               by w18_witness.POINTING, which is applied below.
+#   89:50       the doxology really does stand inside verse 50, after a single
+#               mediant, with no verse 51 following. The carrier was right.
+# Nothing here is imported from another edition; the readings come off the
+# page (ingest/w18_evidence.json).
+V1662 = {}
 
 
 V1928 = {
@@ -54,6 +48,9 @@ def main():
     bad = w13_1662.gate(ps, "1662")
     if bad:
         raise SystemExit("1662 gate: %s" % bad)
+    fixed = w18_witness.apply(ps)          # Wave 18: two mediants off the page
+    print("1662: %d mediants restored from the Annexed Book %s"
+          % (len(fixed), [(n, v) for _k, n, v, _t in fixed]))
     for (n, v), (key, note) in V1662.items():
         ps[n].setdefault("verifies", []).append((v, key, note))
     an, man = w13_render.render("1662", ps, ":")

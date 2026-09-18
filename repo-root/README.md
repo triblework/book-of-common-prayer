@@ -202,7 +202,10 @@ with. The **Psalter** is transcribed under `psalter/`, one verse per line, for 1
 against a scan of the 1892 Standard Book, which corrected its spelling
 (*show* and *judgment*, not *shew* and *judgement*), seven readings, and the
 pointing of seven verses — the musical colon that divides a verse for
-chanting. All twelve tags carry sourced text (the earlier
+chanting. The 1662 Psalter has been read against the Annexed Book — the
+manuscript annexed to the Act of Uniformity 1662, in HMSO's 1892
+type-reproduction — which restored the mediant in two verses and confirmed a
+third reading; all 2,508 of its verses now carry exactly one mediant. All twelve tags carry sourced text (the earlier
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 
