@@ -18,7 +18,26 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 18 (the 1662 text vs the Annexed Book) DONE, NOT YET PUBLISHED
+## CURRENT — WAVE 18 (the 1662 text vs the Annexed Book) DONE + PUBLISHED (2026-09-18)
+
+**PUBLISHED 2026-09-18 (force-pushed with maintainer go-ahead). Published tips:
+`main bebf7058 · scottish 77e162b5 · american 9ec238b8`; all 12 tags recreated;
+local==remote verified for 4 branches + 12 tags (object AND peeled commit, 0
+mismatched); no tag carries U+FFFD. Against the previous tags `texts/` changed
+ONLY in v1662 (18 files: the nine changed cells in `original/` and
+`normalized/`, +26 -62) and v1789 (4 files -- it inherits the 1662 Psalter);
+the other ten tags are byte-identical. Pre- and post-publish refs are saved at
+`scratchpad/pre-publish-refs-w18.txt` and `post-publish-refs-w18.txt`.**
+
+**Publishing gotcha, new this wave:** `git push --force origin --tags` pushes
+EVERY local tag, including scratch ones. The `built-v*` tags I had created in
+the worktree to diff the build against the live tags went to origin with the
+real ones; they were deleted immediately (`git push origin :refs/tags/built-v*`
+one by one, then `git tag -d`), and origin is back to 29 refs. They matched no
+workflow trigger (`viewer.yml` fires on `v*`, not `built-v*`), so nothing ran.
+**Name scratch tags something that cannot be swept up by `--tags`, or delete
+them before publishing.**
+
 
 Guide: `ingest/WAVE18_GUIDE.md`. Scripts: `w18_witness.py` (the two corrections
 and the fifteen readings), `w18_cells.py` (the seven structured cells),
