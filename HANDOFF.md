@@ -1400,6 +1400,46 @@ write a fresh HANDOFF section rather than rushing.
 
 ## 8. Open verify items to resolve (carry forward; don't lose these)
 
+### THE QUEUE, in priority order (surveyed 2026-09-18, after Wave 18)
+
+Every claim here was checked that day; re-check the reachability ones before
+planning around them.
+
+1. **The 1979 text against Church Publishing's own PDF — IN PROGRESS as Wave
+   19.** Wikimedia Commons, `File:Book of common prayer (TEC, 1979).pdf`:
+   1001 pages, 4,911,934 bytes, `Acrobat PDFWriter 3.0f1r8 for Power
+   Macintosh`, author "Church Publishing Incorporated", sourced from
+   episcopalchurch.org. At ~5KB a page it is a TEXT pdf, not page images — no
+   OCR needed, and it is an independent witness of a different CLASS from
+   justus's 1993 volunteer keying, so R6 is satisfied. Licence is answered on
+   the file page: the US BCP has never been under copyright, confirmed by the
+   publisher (and NOTICE.md already records 1979 as PD). Target: **v1979's 122
+   open flags** — the most of any tag — plus the known e-text damage
+   (`acknoledge`, `therfore`, three collects truncated in the keying, dropped
+   headings).
+2. **The 1662 Kalendar and Table of Proper Lessons.** Wave 18 turned this from
+   "no allow-listed source" into "source in hand, not yet transcribed": the
+   Annexed Book prints both, at scan pages ~42-56, and the PDF is already in
+   `scrape-cache/`. Fiddlier than prose — it is table transcription off OCR,
+   the same structure that defeated the 1892 Kalendar — but it closes a
+   recorded gap standing since Wave 14.
+3. **The 1928 Psalter against the 1952 facsimile — BLOCKED.** The witness is
+   justus's `1928Standard/1952std.pdf` (~67MB of page graphics, linked from
+   `1928Standard/Standard.htm`), NOT `bcp1928std.pdf`, which is Wohlers'
+   re-setting and would be a second keying (R6). **justus.anglican.org was
+   unreachable all through 2026-09-18** — DNS resolves to 199.5.253.14, TCP
+   refused on both 80 and 443, from two different points in the session. Retry
+   at the start of any session; the pipeline is warm and this closes the last
+   unread American psalter (3 mediant flags).
+4. **Offline and self-contained, any time:** the full 1892 pointing collation
+   (Wave 17's stated limit; the 596-page scan is cached); the 1789 Ascension
+   "24, 47, 103" lead; the 1637 missing-page span; the 1892 Kalendar's lost row
+   structure; the 1604 propers (still no allow-listed source).
+5. **Open rulings** live in `RULINGS.md`: the 1662 communion admission rubric
+   (flagged, maintainer left it as printed on 2026-09-18), the 1945 lectionary
+   fork, and the 1789 Psalter gap under R2.
+
+
 **441 verify_items are open** (2026-09-18, after Wave 18; 462 after Wave 16,
 less 14 the 1892 scan resolved and 8 the 1662 witness closed), and they are
 concentrated: propers 184, occasional-offices 131, tables 29,

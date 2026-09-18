@@ -139,6 +139,10 @@ that check.
 
 ---
 
+The work queue that these rulings govern is kept in `HANDOFF.md` §8, under
+"THE QUEUE, in priority order", with the reachability of each source as it was
+last checked.
+
 ## Open questions awaiting a ruling
 
 - **The 1662 communion admission rubric.** What the carrier prints (an account
