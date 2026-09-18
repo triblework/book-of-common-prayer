@@ -513,7 +513,7 @@ The published branches and tags are build artifacts, regenerated from the
     carrier's own slips, so the two are one keying; they differ in about 470
     words and it is not known which was edited. That needs a page scan.
 
-- **2026-09-11** — Wave 17: the **1892 Psalter**, corrected against a scan of
+- **2026-09-18** — Wave 17: the **1892 Psalter**, corrected against a scan of
   the 1892 Standard Book. Wave 13 transcribed this Psalter from justus's
   `1892/Psalms.pdf` and flagged fourteen readings it could not settle, saying of
   four of them that only a page scan could say which source was right. justus
