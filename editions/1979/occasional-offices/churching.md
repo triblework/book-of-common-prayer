@@ -22,14 +22,31 @@ Dear Friends:  The birth of a child is a joyous and solemn occasion in the life 
 
 > The Celebrant addresses the congregation in these or similar words
 
-Dear Friends:  It has pleased God our heavenly Father to answer the earnest prayers of N. [and N.], member(s) of this Christian family, for the gift of a child.  I bid you join with them [and with N. (and N. N..), who now has a new brother (sister)] in offering heartfelt thanks for the joyful and solemn responsibility which is theirs by the coming of N. to be a member of their family.  But first, our friends wish us, here asbrant, holding or taking the child by the hand, gives the child to the mother or father, saying
-<!-- VERIFY: 'asbrant' the 1979 PD e-text is garbled/merged here — the rubric 'The Celebrant, holding or taking the child by the hand, gives the child to the mother or father, saying' is run into the preceding address and 'the Celebrant' appears corrupted to 'asbrant'; kept as printed in the e-text; confirm against a page scan -->
+Dear Friends:  It has pleased God our heavenly Father to answer the earnest prayers of N. [and N.], member(s) of this Christian family, for the gift of a child.  I bid you join with them [and with N. (and N. N..), who now has a new brother (sister)] in offering heartfelt thanks for the joyful and solemn responsibility which is theirs by the coming of N. to be a member of their family.  But first, our friends wish us, here assembled, to witness the inauguration of this new relationship.
+
+> The Celebrant asks the parent or parents
+
+N. [and N.], do you take this child for your own?
+
+**Parent(s).** I do.
+
+> Then if the child is old enough to answer, the Celebrant asks
+
+N., do you take this woman as your mother?
+
+**Child.** I do.
+
+**Celebrant.** Do you take this man as your father?
+
+**Child.** I do.
+
+> Then the Celebrant, holding or taking the child by the hand, gives the child to the mother or father, saying
 
 As God has made us his children by adoption and grace, may you receive N. as your own son (daughter).
 
 > Then one or both parents say these or similar words
 
-May God, the Father of all, bless our child N., and us who have given to him our family name, that wwe may live together in love and affection; through Jesus Christ our Lord.  Amen.
+May God, the Father of all, bless our child N., and us who have given to him our family name, that we may live together in love and affection; through Jesus Christ our Lord.  Amen.
 
 ## Act of Thanksgiving
 

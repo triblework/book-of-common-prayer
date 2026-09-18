@@ -206,7 +206,7 @@
 
 9 The birds of the air, the fish of the sea, : and whatsoever walks in the paths of the sea.
 
-10 O LORD our Governor, : how exalted is you Name in all the world!
+10 O LORD our Governor, : how exalted is your Name in all the world!
 
 ## Psalm 9
 
@@ -222,9 +222,9 @@
 
 5 You have rebuked the ungodly and destroyed the wicked; : you have blotted out their name for ever and ever.
 
-6 As for the enemy, they are finished, in perpetual ruin, : their cities plowed under, the memory of them perished;
+6 As for the enemy, they are finished, in perpetual ruin, : their cities ploughed under, the memory of them perished;
 
-7 But the LORD is enthroned for ever; : he has set up this throne for judgment.
+7 But the LORD is enthroned for ever; : he has set up his throne for judgment.
 
 8 It is he who rules the world with righteousness; : he judges the peoples with equity.
 
@@ -244,7 +244,7 @@
 
 16 The LORD is known by his acts of justice; : the wicked are trapped in the works of their own hands.
 
-17 The wicked shall be given over to the grave, : and also all the people that forget God.
+17 The wicked shall be given over to the grave, : and also all the peoples that forget God.
 
 18 For the needy shall not always be forgotten, : and the hope of the poor shall not perish for ever.
 
@@ -560,7 +560,7 @@
 
 ## Psalm 19
 
-> Caeli enarrant
+> Cæli enarrant
 
 1 The heavens declare the glory of God, : and the firmament shows his handiwork.
 
@@ -698,7 +698,7 @@
 
 25 The poor shall eat and be satisfied, and those who seek the LORD shall praise him: : "May your heart live for ever!"
 
-26 All the ends of the earth shall remember and turn to the LORD, : and all the families of the nations bow before him.
+26 All the ends of the earth shall remember and turn to the LORD, : and all the families of the nations shall bow before him.
 
 27 For kingship belongs to the LORD; : he rules over the nations.
 
@@ -1074,9 +1074,7 @@
 
 ## Psalm 34
 
-> Benedicam Domi
-
-<!-- VERIFY: 'Benedicam Domi'; the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed -->
+> Benedicam Dominum
 
 1 I will bless the LORD at all times; : his praise shall ever be in my mouth.
 
@@ -1214,7 +1212,7 @@
 
 > Part I
 
-> Noli aemulari
+> Noli æmulari
 
 1 Do not fret yourself because of evildoers; : do not be jealous of those who do wrong.
 
@@ -1332,7 +1330,7 @@
 
 12 Those who seek after my life lay snares for me; : those who strive to hurt me speak of my ruin and plot treachery all the day long.
 
-13 But I am like the deaf who do not hear, : like those who are mute and who do not open their mouth.
+13 But I am like the deaf who do not hear, : like those who are mute and do not open their mouth.
 
 14 I have become like one who does not hear : and from whose mouth comes no defense.
 
@@ -1688,7 +1686,7 @@
 
 ## Psalm 49
 
-> Audite haec, omnes
+> Audite hæc, omnes
 
 1 Hear this, all you peoples; hearken, all you who dwell in the world, : you of high degree and low, rich and poor together.
 

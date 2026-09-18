@@ -289,6 +289,80 @@ what the page shows.
 or of its ordinary punctuation, which this witness is explicitly unfit to
 settle. The 1928 and 1979 Psalters remain unread against any scan.
 
+### The 1979 text against the publisher's own file (Wave 19)
+
+Every 1979 cell in this repository is transcribed from justus's 1993 ASCII
+e-text. Wave 19 read it against **Church Publishing Incorporated's own PDF of
+the 1979 book**, from the Episcopal Church — Wikimedia Commons's
+`File:Book of common prayer (TEC, 1979).pdf`, 1001 pages with an exact text
+layer. The US Book of Common Prayer has never been under copyright, which the
+publisher states and the Commons file page records. That is a witness of a
+different *class* from a volunteer keying, so where the two disagree the
+publisher's file is the book.
+
+**What the witness cannot say.** Its text layer renders the book's small-capital
+LORD as "Lord", so no letter-case is taken from it; and it drops the pointing
+asterisk in about ten verses where every neighbour keeps it, so **no pointing is
+changed on this witness**. Four more verses carry a stray mark that is plainly
+an extraction artifact. Those fifteen verses are listed in
+`ingest/w19_gates.py` and are the *only* places where the corrected Psalter
+still differs from the file.
+
+**The Psalter, collated verse by verse.** All 2,507 verses were parsed out of
+the book and compared word for word — the first exact collation in this
+repository, since both sides are text. It found **24 verses** whose words
+differ, and the e-text is wrong in every one: *you Name* for *your Name*
+(8:10), *this throne* for *his throne* (9:7), *the people* for *the peoples*
+(9:17), *plowed* for *ploughed* (9:6), a dropped *shall* (22:26) and an extra
+*who* (38:13), *to the grave* for *into the grave* (55:16), *to Edom* for
+*into Edom* (60:9), *from of the clutches* (71:4), *winge!d* for *wingèd*
+(78:27), *The grieved him … they provoked* for *They grieved him … and
+provoked* (78:58), *and son of man* for *the son of man* (80:16), *Zee%b* for
+*Zeëb* (83:11), *All the nations* for *All nations* (86:9), *in vision* for
+*in a vision* (89:19), *the lion and the adder* for *the lion and adder*
+(91:13), *Issac* for *Isaac* (105:9), *firstfruits* for *first fruits*
+(105:36), *from everlasting to everlasting* for *from everlasting and to
+everlasting* (106:48), *Hosanna* for *Hosannah* twice (118:25), *confort* for
+*comfort* (119:52), *the kingdoms of Bashan … the kings of Canaan* for *the
+king of Bashan … the kingdoms of Canaan* (135:11), and *winge!d* again
+(148:10). At the end of Psalm 150 the keying's own end-of-file marker —
+`(end of BCPSALTER.TXT)` — had been published as part of the last verse; it is
+gone.
+
+**Seventeen Latin incipits and three of Psalm 119's portion headings.** Nine
+incipits had been truncated in the keying, each losing the same syllable
+(*Laudate Domi*, *Voce mea ad Domi*, *Ad Domi*, *Benedicam Domi*, *Deus
+ultio*); those were the nine VERIFYs Wave 13 raised, and all nine are closed.
+The rest are the ligature the ASCII e-text could not carry (*Cæli enarrant*,
+*Noli æmulari*, *Audite hæc*, *Notus in Judæa*, *Lætatus sum*, *Sæpe
+expugnaverunt*, *Adhæsit pavimento*, *Manus tuæ fecerunt me*, *In æternum,
+Domine*), one letter (*Misericordiam **et** judicium*) and one lost question
+mark (*Deus, quis similis?*).
+
+**Seven dropouts and typos elsewhere**, four of them flagged and three found by
+reading the cells against the book: *fulfull* → *fulfill*; *Almighty god* →
+*Almighty God*, *payer* → *prayer* and *Pleides* → *Pleiades* in Evening
+Prayer; the Fifth Sunday of Easter's contemporary collect, which broke off at
+"to be the way, t Amen.", restored in full, and its traditional collect's lost
+opening *O*, *god* and *leads* for *leadeth*; both Annunciation collects' lost
+stop before *Amen* and *to the glory* for *unto the glory*; the banns of
+marriage, which had lost the clause "If any of you know just cause why they may
+not be joined together in Holy Matrimony" and printed em dashes where the book
+prints blanks to be filled in; the marriage Prayers, where "to which the People
+respond, saying, **Amen.**" had collapsed into "saying, Am the ordering of
+their common life", swallowing a rubric, the bidding and the first prayer; and
+the adoption form, where "here assembled" had become "asbrant", swallowing a
+sentence, a rubric, a question and two answers.
+
+**What remains.** A survey of every other 1979 cell against the same file
+(`ingest/w19_survey.py`) finds 94% of paragraphs verbatim outside the
+lectionary tables — 89% in the propers, 93% in the daily office and holy
+communion, 96–98% in the ordinal, the occasional offices and the prayers. The
+~110 paragraphs that do not match are the next pass's candidates; some are
+re-wrappings rather than defects. The lectionary tables match at 1.5% because
+the repository renders them as long-form rows and the book prints them as
+tables: comparing those needs a different method, not a closer reading.
+
 ---
 
 ## English line (`main`)
@@ -521,8 +595,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1892 Matrimony | `not by any to he entered into` | source prints 'not by any to he entered into'; likely "to be entered into"; kept as printed; confirm against a page scan |
 | 1892 Matrimony | `to have andhold` | source prints 'to have andhold' (Man's vow reads "and to hold"); corrected joined word to "and hold"; a "to" may be dropped; confirm against a page scan |
 | 1892 Matrimony | `who art m heaven` | source prints 'who art m heaven'; corrected obvious OCR to "in heaven"; confirm against a page scan |
-| 1979 Matrimony | `Am the ordering of their common life` | 'Am the ordering of their common life' the 1979 PD e-text is garbled here — the rubric 'to which the People respond, saying, Amen.' and the first petition's opening ('Give them wisdom and devotion in the ordering…') are run together and words appear dropped; kept as printed in the e-text; confirm against a page scan |
-| 1979 Matrimony | `you are bidden to declare it` | 'you are bidden to declare it' the 1979 PD e-text banns form reads 'between N. N. of — and N. N. of — in Holy Matrimony, you are bidden to declare it', apparently dropping the clause 'If any of you know reason why these two persons should not be joined together'; kept as printed in the e-text; confirm against a page scan |
 | 1549 Visitation of the Sick | `yougth` | source prints 'yougth'; likely 'youth'; kept as printed; confirm against a page scan |
 | 1549 Visitation of the Sick | `its` | source prints 'its'; likely 'in'; kept as printed; confirm against a page scan |
 | 1549 Visitation of the Sick | `us` | source prints 'us'; likely 'in'; kept as printed; confirm against a page scan |
@@ -568,7 +640,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 Churching | `Minster` | source prints 'Minster'; likely 'Minister'; kept as printed; confirm against a page scan |
 | 1892 Churching | `sf` | 'sf' source (1892 PDF) prints 'sf this be used'; obvious OCR for 'if'; corrected; confirm against a page scan |
 | 1892 Churching | `he applied` | 'he applied' source (1892 PDF) prints 'which shall he applied by the Minister'; obvious OCR for 'be applied'; corrected; confirm against a page scan |
-| 1979 Churching | `asbrant` | 'asbrant' the 1979 PD e-text is garbled/merged here — the rubric 'The Celebrant, holding or taking the child by the hand, gives the child to the mother or father, saying' is run into the preceding address and 'the Celebrant' appears corrupted to 'asbrant'; kept as printed in the e-text; confirm against a page scan |
 | 1604 Churching | `as the case that require` | source prints 'as the case that require'; likely 'as the case shal require'; kept as printed; confirm against a page scan |
 | 1604 Churching | `gine her thanckes` | source prints 'gine her thanckes'; likely 'geve/give her thankes'; kept as printed; confirm against a page scan |
 | 1549 Commination | `Date` | source prints 'Date' (Firste Date of Lente); likely 'Daye' (the first day of Lent); kept as printed; confirm against a page scan |
@@ -613,7 +684,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1892 Consecration of Bishops | `Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.` | 'Or else the longer paraphrase of the same Hymn, as in the Ordering of Priests.'; the justus 1789 apparatus notes only that in 1892 the printed hymn is replaced by this cross-reference; confirm the exact 1892 rubric wording against a 1892 page scan |
 | 1789 The Preface | `member of our Church. and every sincere Christian` | 'member of our Church. and every sincere Christian' — the justus 1789 text prints a full stop before a lower-case "and"; likely a comma in the original; left as-sourced pending a 1789 scan |
 | 1637 Concerning the Service of the Church | `to fall to thin ground` | 'to fall to thin ground' — probably an OCR rendering of "to fall to the ground"; left as-sourced from justus pending a 1637 scan |
-| 1979 Concerning the Service of the Church | `fulfull` | 'fulfull' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check |
 | 1892 Concerning the Service of the Church | `the President` | Front_Matter_1892.htm prints "Prayer for the President of the United States"; the Standard Book's keying (1892Standard/front_matter.pdf) capitalizes "The President". Carried as the carrier prints it; confirm against a scan of the 1892 book |
 | 1637 Of Ceremonies | `OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man` | 'OF such Ceremonies as be used in the Church, and have had their Beginning by the Institution of Man' — justus notes two leaves are missing from its 1637 original around this section, so the Of Ceremonies text may be supplied from a parallel copy; confirm against a 1637 scan |
 <!-- wave10-10a rows: begin -->
@@ -705,8 +775,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 advent-4 | `Fourth Sunday of Advent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 all-saints | `All Saint` | s Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 annunciation | `The Annunciation` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 annunciation | `The Annunciation` | the collect under `The Collect` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed. |
-| 1979 annunciation | `The Annunciation` | the collect under `The Collect (Contemporary)` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed. |
 | 1979 ascension-1 | `Seventh Sunday of Easter: The Sunday after Ascension Day` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 ascension-day | `Ascension Day` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 ash-wednesday | `Ash Wednesday` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -719,7 +787,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 easter-2 | `Third Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-3 | `Fourth Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-4 | `Fifth Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 easter-4 | `Fifth Sunday of Easter` | the collect under `The Collect (Contemporary)` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed. |
 | 1979 easter-5 | `Sixth Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-day | `Easter Day` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-even | `Holy Saturday` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
@@ -839,15 +906,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1928 (American) Psalm 18 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan |
 | 1928 (American) Psalm 109 | `no mediant` | the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
 | 1928 (American) Psalm 119 | `no mediant` | the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan |
-| 1979 (American) Psalm 34 | `Benedicam Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 77 | `Voce mea ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 94 | `Deus ultio` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 117 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 120 | `Ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 142 | `Voce mea ad Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 147 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 148 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
-| 1979 (American) Psalm 150 | `Laudate Domi` | the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed |
 
 Four services under `occasional-offices/`, at Tier-1 across every edition that has
 them. Public/Private Baptism and Confirmation run across the ten daily-office

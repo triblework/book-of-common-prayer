@@ -585,6 +585,34 @@ The published branches and tags are build artifacts, regenerated from the
     1662 Psalter, in four prayers for the Royal Family and in one rubric, and
     removes two non-liturgical lines from one 1662 file.
 
+- **2026-09-18** — Wave 19: the **1979 text against the publisher's own
+  file**. Every 1979 cell here comes from justus's 1993 ASCII e-text; this
+  wave read it against Church Publishing Incorporated's own PDF of the book,
+  from the Episcopal Church (Wikimedia Commons, 1001 pages with an exact text
+  layer; the US Book of Common Prayer has never been under copyright, which
+  the publisher states). A publisher's file and a volunteer keying are
+  witnesses of different classes, so where they disagree the publisher's file
+  is the book.
+  - **The Psalter was collated verse by verse** — all 2,507 verses, the first
+    exact collation in this repository, both sides being text. Twenty-four
+    verses differ, and the keying is wrong in every one (*Issac* for *Isaac*,
+    *confort* for *comfort*, *the people* for *the peoples*, a dropped
+    *shall*, *winge!d* for *wingèd*, and so on). Seventeen Latin incipits and
+    three of Psalm 119's portion headings are corrected too; the nine that had
+    been truncated in the keying were Wave 13's nine open flags, and all nine
+    are closed.
+  - **The keying's own end-of-file marker** had been published as part of the
+    last verse of Psalm 150. It is gone.
+  - **Seven dropouts and typos elsewhere**, including a collect that broke off
+    mid-word, the banns of marriage (which had lost a whole clause), the
+    marriage Prayers and the adoption form (each of which had swallowed a
+    rubric and more).
+  - What the witness cannot settle is recorded: its text layer renders the
+    book's small-capital LORD as "Lord" and drops the pointing asterisk in
+    about ten verses, so no letter-case and no pointing is taken from it.
+  - This changes `texts/original` and `texts/normalized` throughout the 1979
+    Psalter and in six other 1979 files.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

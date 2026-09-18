@@ -121,6 +121,18 @@ what the witness can settle (R7).
 *Reopened by:* a scan of a printed 1662 book, which would supply the names
 that belong in the blank.
 
+## R11 — A publisher's own file outranks a volunteer keying of the same book
+*Wave 19, 2026-09-18.*
+
+Church Publishing's PDF of the 1979 book and justus's 1993 ASCII e-text are
+witnesses of different CLASSES, so R6 is satisfied and the publisher's file
+settles a disagreement. Two limits came with it and generalize to any
+born-digital witness: its text layer renders the book's small-capital LORD as
+"Lord", and it drops the pointing asterisk in about ten verses. **Neither
+letter-case nor pointing may be taken from such a file** -- exactly as page
+OCR cannot settle `:` against `;` (R7's habit of asking what a witness cannot
+say).
+
 ## R9 — Normalization is spelling only
 *Standing (`tools/normalization_rules.yaml`).*
 

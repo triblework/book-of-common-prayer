@@ -209,6 +209,8 @@ third reading; all 2,508 of its verses now carry exactly one mediant. All twelve
 1928/1979 sourcing gaps were closed with clean public-domain sources — see
 `SOURCES.md`).
 
+The 1979 text has been read against Church Publishing's own PDF of the book: the Psalter was collated verse by verse (24 verses and 20 Latin headings corrected) and seven dropouts and typos elsewhere were repaired, including two collects and two passages the 1993 keying had swallowed.
+
 Progress and per-edition provenance are tracked in `SOURCES.md`. Uncertain
 readings are flagged inline with `<!-- VERIFY -->` comments and listed there.
 

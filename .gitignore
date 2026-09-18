@@ -16,3 +16,5 @@ ingest/pages/
 ingest/pages-1662/
 ingest/bin/
 ingest/w18_align.json
+ingest/w19_pages.json
+ingest/w19_psalter_diff.json

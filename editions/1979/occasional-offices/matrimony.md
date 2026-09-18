@@ -149,8 +149,15 @@ Our Father in heaven, hallowed be your Name, your kingdom come, your will be don
 
 > If Communion is to follow, the Lord's Prayer may be omitted here.
 
-The Deacon or other person appointed reads the following prayers, to which the People respond, saying, Am the ordering of their common life, that each may be to the other a strength in need, a counselor in perplexity, a comfort in sorrow, and a companion in joy.  Amen.
-<!-- VERIFY: 'Am the ordering of their common life' the 1979 PD e-text is garbled here — the rubric 'to which the People respond, saying, Amen.' and the first petition's opening ('Give them wisdom and devotion in the ordering…') are run together and words appear dropped; kept as printed in the e-text; confirm against a page scan -->
+> The Deacon or other person appointed reads the following prayers, to which the People respond, saying, Amen.
+
+> If there is not to be a Communion, one or more of the prayers may be omitted.
+
+Let us pray.
+
+Eternal God, creator and preserver of all life, author of salvation, and giver of all grace: Look with favor upon the world you have made, and for which your Son gave his life, and especially upon this man and this woman whom you make one flesh in Holy Matrimony. Amen.
+
+Give them wisdom and devotion in the ordering of their common life, that each may be to the other a strength in need, a counselor in perplexity, a comfort in sorrow, and a companion in joy. Amen.
 
 Grant that their wills may be so knit together in your will, and their spirits in your Spirit, that they may grow in love and peace with you and one another all the days of their life. Amen.
 
@@ -283,9 +290,7 @@ I, N., take thee, N., to my wedded (wife) (husband), to have and to hold from th
 
 > If Banns are to be published, the following form is used
 
-I publish the Banns of Marriage between N. N.. of — and N. N.. of — in Holy Matrimony, you are bidden to declare it.  This is the first (or second, or third) time of asking.
-<!-- VERIFY: 'you are bidden to declare it' the 1979 PD e-text banns form reads 'between N. N. of — and N. N. of — in Holy Matrimony, you are bidden to declare it', apparently dropping the clause 'If any of you know reason why these two persons should not be joined together'; kept as printed in the e-text; confirm against a page scan -->
-
+I publish the Banns of Marriage between N.N. of ____________ and N. N. of ___________ . If any of you know just cause why they may not be joined together in Holy Matrimony, you are bidden to declare it. This is the first (or second, or third) time of asking.
 > The Celebration and Blessing of a Marriage may be used with any authorized liturgy for the Holy Eucharist.  This service then replaces the Ministry of the Word, and the Eucharist begins with the Offertory.
 
 > After the Declaration of Consent, if there is to be a giving in marriage, or presentation, the Celebrant asks

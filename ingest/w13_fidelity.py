@@ -76,6 +76,13 @@ def main():
                 import w17_witness
                 toks = toks - w17_witness.introduced()
                 missing = sorted(w for w in toks if w not in stream)
+            elif ed == "1979":
+                # Wave 19: the 1979 e-text is no longer the only source.
+                # Words Church Publishing's own PDF supplies are attested by
+                # it instead, and w19_gates.py checks every one of them
+                # against the book's own page.
+                import w19_witness
+                missing = sorted(toks - sources[ed] - w19_witness.introduced())
             else:
                 missing = sorted(toks - sources[ed])
             bad += len(missing)

@@ -9,6 +9,7 @@ sys.path.insert(0, HERE)
 import w13_1979
 import w13_1662
 import w13_render
+import w19_witness
 
 
 def main():
@@ -16,15 +17,15 @@ def main():
     bad = w13_1662.gate(ps, "1979")
     if bad:
         raise SystemExit("1979 gate failed: %s" % bad[:5])
-    for n, p in ps.items():
-        if p.get("incipit_truncated"):
-            p.setdefault("verifies", []).append((
-                "incipit", p["incipit"],
-                "the 1979 e-text truncates this Latin incipit and loses its "
-                "closing mark; all nine such headings have lost the same "
-                "syllable (the incipits break off at 'Domi' or 'ultio', as if "
-                "'num' was dropped in keying). Carried exactly as printed and "
-                "not completed"))
+    # Wave 19: corrected against Church Publishing's own PDF of the 1979 book
+    # (ingest/w19_witness.py). That closes the nine truncated-incipit VERIFYs
+    # this builder used to raise, so the branch that raised them is gone.
+    fixed = w19_witness.apply(ps)
+    kinds = {}
+    for kind, _n, _v, _t in fixed:
+        kinds[kind] = kinds.get(kind, 0) + 1
+    print("1979: %d corrections from the publisher's file %s"
+          % (len(fixed), kinds))
     an, man = w13_render.render("1979", ps, "*", number_first=True)
     json.dump(man, open(os.path.join(HERE, "wave13_1979_verifies.json"), "w"),
               indent=1)

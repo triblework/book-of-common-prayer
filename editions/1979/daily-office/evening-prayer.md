@@ -8,7 +8,7 @@
 
 *or with the versicle "O God, make speed to save us" on page 63.
 
-Let my payer be set forth in thy sight as the incense, and let the lifting up of my hands be an evening sacrifice. Psalm 141:2
+Let my prayer be set forth in thy sight as the incense, and let the lifting up of my hands be an evening sacrifice. Psalm 141:2
 
 Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.  Philippians 1:2
 
@@ -18,7 +18,7 @@ Thine is the day, O God, thine also the night; thou hast established the moon an
 
 I will bless the Lord, who giveth me counsel; my heart teacheth me, night after night.  I have set the Lord always before me; because he is at my right hand, I shall not fall. Psalm 16:7,8
 
-Seek him that made the Pleides and Orion, that turneth deep darkness into the morning, and darkeneth the day into night; that calleth for the waters of the sea, and poureth them out upon the face of the earth:  The Lord is his Name.  Amos 5:8
+Seek him that made the Pleiades and Orion, that turneth deep darkness into the morning, and darkeneth the day into night; that calleth for the waters of the sea, and poureth them out upon the face of the earth:  The Lord is his Name.  Amos 5:8
 
 If I say, "Surely the darkness will cover me, and the light around me turn to night," darkness is not dark to thee, O Lord; the night is as bright as the day; darkness and light to thee are both alike.  Psalm 139:10,11
 
@@ -316,7 +316,7 @@ Jesus said, "I am the light of the world; whoever follows me will not walk in da
 
 > The Officiant says to the people
 
-Dearly beloved, we have come together in the presence of Almighty god our heavenly Father, to set forth his praise, to hear his holy Word, and to ask, for ourselves and on behalf of others, those things that are necessary for our life and our salvation.  And so that we may prepare ourselves in heart and mind to worship him, let us kneel in silence, and with penitent and obedient hearts confess our sins, that we may obtain forgiveness by his infinite goodness and mercy.
+Dearly beloved, we have come together in the presence of Almighty God our heavenly Father, to set forth his praise, to hear his holy Word, and to ask, for ourselves and on behalf of others, those things that are necessary for our life and our salvation.  And so that we may prepare ourselves in heart and mind to worship him, let us kneel in silence, and with penitent and obedient hearts confess our sins, that we may obtain forgiveness by his infinite goodness and mercy.
 
 > or this
 

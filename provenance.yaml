@@ -327,7 +327,7 @@ records:
     status: transcribed
     depth: tier-1
     verifier: bcp-authoring
-    note: "GAP CLOSED (spec §4.2): 1979 (explicitly PUBLIC DOMAIN) Daily Evening Prayer from the justus PD ASCII e-text bcpoffce.txt, ingested and reflowed mechanically by ingest/transform_1979_ep.py (source->script->file, never re-typed). Rite I is the office body; Rite II follows as a separate ## Rite Two section (Phos hilaron, modern-language canticles). Two obvious e-text HEADING typos were corrected in the transform so cross-edition anchors align: '<The Song of Solomon>' (labelled '=Nunc dimittis=', i.e. the Song of Simeon; Rite Two prints 'Song of Simeon' correctly) -> 'The Song of Simeon', and '<The Apostle's Creed>' -> 'The Apostles' Creed'. MECHANICAL REFLOW pending cross-check against a page scan in the verify pass; the e-text carries occasional body typos (e.g. 'payer', 'boundries', 'Pleides') and a shared transform rendering quirk on speaker labels ('**Officiant* :'), identical to the published 1979 Morning Prayer, to reconcile then."
+    note: "GAP CLOSED (spec §4.2): 1979 (explicitly PUBLIC DOMAIN) Daily Evening Prayer from the justus PD ASCII e-text bcpoffce.txt, ingested and reflowed mechanically by ingest/transform_1979_ep.py (source->script->file, never re-typed). Rite I is the office body; Rite II follows as a separate ## Rite Two section (Phos hilaron, modern-language canticles). Two obvious e-text HEADING typos were corrected in the transform so cross-edition anchors align: '<The Song of Solomon>' (labelled '=Nunc dimittis=', i.e. the Song of Simeon; Rite Two prints 'Song of Simeon' correctly) -> 'The Song of Simeon', and '<The Apostle's Creed>' -> 'The Apostles' Creed'. MECHANICAL REFLOW pending cross-check against a page scan in the verify pass; the e-text carries occasional body typos (e.g. 'payer', 'boundries', 'Pleides') and a shared transform rendering quirk on speaker labels ('**Officiant* :'), identical to the published 1979 Morning Prayer, to reconcile then. Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Three keying defects corrected against the book: \"Almighty god\" -> \"Almighty God\" (page 79), \"Let my payer be set forth\" -> \"prayer\" (page 61), and \"the Pleides and Orion\" -> \"the Pleiades\" (page 62)."
     verify_items: []
 
   - edition: 1892
@@ -1325,14 +1325,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: bcp-authoring
-    note: "1979: The Celebration and Blessing of a Marriage (+ An Order for Marriage, Additional Directions), from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_matrimony.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
-    verify_items:
-      - anchor: The Prayers
-        source_reading: Am the ordering of their common life
-        note: '''Am the ordering of their common life'' the 1979 PD e-text is garbled here — the rubric ''to which the People respond, saying, Amen.'' and the first petition''s opening (''Give them wisdom and devotion in the ordering…'') are run together and words appear dropped; kept as printed in the e-text; confirm against a page scan'
-      - anchor: Additional Directions
-        source_reading: you are bidden to declare it
-        note: '''you are bidden to declare it'' the 1979 PD e-text banns form reads ''between N. N. of — and N. N. of — in Holy Matrimony, you are bidden to declare it'', apparently dropping the clause ''If any of you know reason why these two persons should not be joined together''; kept as printed in the e-text; confirm against a page scan'
+    note: "1979: The Celebration and Blessing of a Marriage (+ An Order for Marriage, Additional Directions), from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_matrimony.py (source -> script -> file). Mechanically reflowed; verify against a page scan. Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Two dropouts repaired. The banns lost the clause \"If any of you know just cause why they may not be joined together in Holy Matrimony\", and printed em dashes where the book prints blanks to be filled in (page 437). In The Prayers the e-text collapsed \"to which the People respond, saying, Amen.\" into \"saying, Am the ordering of their common life\", swallowing a rubric, the bidding \"Let us pray\" and the first prayer; all are restored from page 429."
+    verify_items: []
 
   - edition: 1604
     service: occasional-offices/matrimony
@@ -1780,11 +1774,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: bcp-authoring
-    note: "1979: A Thanksgiving for the Birth or Adoption of a Child, from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_churching.py (source -> script -> file). Mechanically reflowed; verify against a page scan."
-    verify_items:
-      - anchor: For an Adoption
-        source_reading: asbrant
-        note: '''asbrant'' the 1979 PD e-text is garbled/merged here — the rubric ''The Celebrant, holding or taking the child by the hand, gives the child to the mother or father, saying'' is run into the preceding address and ''the Celebrant'' appears corrupted to ''asbrant''; kept as printed in the e-text; confirm against a page scan'
+    note: "1979: A Thanksgiving for the Birth or Adoption of a Child, from the public-domain ASCII e-text bcpastrl.txt via ingest/transform_1979_churching.py (source -> script -> file). Mechanically reflowed; verify against a page scan. Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. The adoption form lost a sentence, a rubric, a question and two answers, collapsing \"here assembled\" into \"asbrant\"; the passage is restored from pages 440-441. \"wwe\" is corrected to \"we\"."
+    verify_items: []
 
   - edition: 1604
     service: occasional-offices/churching
@@ -2631,11 +2622,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: bcp-authoring
-    note: 1979 American — a modern 'Concerning the Service of the Church' (directions on the regular services, orders of ministry, hymns and anthems), RE-ADDED after the American line dropped the piece at 1789. From the public-domain ASCII e-text bcpoffce.txt via ingest/w9_american.py (source -> script -> file). Mechanically reflowed; carries an e-text typo (flagged).
-    verify_items:
-      - anchor: Concerning the Service of the Church
-        source_reading: fulfull
-        note: '''fulfull'' — the justus 1979 public-domain e-text reads "fulfull"; the printed 1979 Book reads "fulfil"; treated as an e-text typo and left as-sourced pending a page-scan check'
+    note: "1979 American — a modern 'Concerning the Service of the Church' (directions on the regular services, orders of ministry, hymns and anthems), RE-ADDED after the American line dropped the piece at 1789. From the public-domain ASCII e-text bcpoffce.txt via ingest/w9_american.py (source -> script -> file). Mechanically reflowed; carries an e-text typo (flagged). Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. The e-text's \"fulfull\" is corrected to \"fulfill\", which is what the book prints (page 13); the VERIFY that guessed \"fulfil\" is closed."
+    verify_items: []
 
   - edition: 1549
     service: front-matter/of-ceremonies
@@ -8735,14 +8723,11 @@ records:
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
-    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12). Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Both collects lost the stop before \"Amen\", and the traditional one read \"to the glory\" where the book has \"unto the glory\" (pages 188 and 240). The two VERIFYs that reported them as breaking off mid-sentence are closed."
     verify_items:
       - anchor: "annunciation"
-        note: ": 'The Annunciation' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
-      - anchor: "annunciation"
-        note: ": 'The Annunciation' — the collect under `The Collect` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed."
-      - anchor: "annunciation"
-        note: ": 'The Annunciation' — the collect under `The Collect (Contemporary)` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed."
+        source_reading: "The Annunciation"
+        note: "— 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   - edition: 1979
     service: collects-epistles-gospels/ascension-1
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
@@ -8859,12 +8844,11 @@ records:
     retrieved: 2026-08-31
     status: transcribed
     verifier: "claude-opus-5 (scripted ingest + fidelity gate)"
-    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12)."
+    note: "From the public-domain 1979 e-text (Traditional and Contemporary sets). Mapped per ingest/WAVE10_1979_CROSSWALK.md. Carries collects only: 1979 appoints three reading sets per day under the three-year lectionary, which the single-citation slot cannot represent (deferred to Wave 12). Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. The contemporary collect broke off mid-sentence in the e-text (\"to be the way, t Amen.\"); the rest is restored from the book (page 225). The traditional collect also lost its opening \"O\", read \"god\" for \"God\", and \"leads\" for \"leadeth\" (page 173)."
     verify_items:
       - anchor: "easter-4"
-        note: ": 'Fifth Sunday of Easter' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
-      - anchor: "easter-4"
-        note: ": 'Fifth Sunday of Easter' — the collect under `The Collect (Contemporary)` breaks off mid-sentence in the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); carried as the source has it and NOT reconstructed."
+        source_reading: "Fifth Sunday of Easter"
+        note: "— 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave."
   - edition: 1979
     service: collects-epistles-gospels/easter-5
     source_url: http://justus.anglican.org/resources/bcp/bcpcolct.txt
@@ -12046,11 +12030,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
-    verify_items:
-      - anchor: "psalms-1-50"
-        source_reading: "Benedicam Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \". Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Collated verse by verse: 2,507 verses parsed from the book and compared word for word. In this file the e-text misread \"you Name\" for \"your Name\" (8:10), \"this throne\" for \"his throne\" (9:7), \"the people\" for \"the peoples\" (9:17), \"plowed\" for \"ploughed\" (9:6), dropped \"shall\" (22:26) and an extra \"who\" (38:13), and truncated the Latin incipits of Psalms 34 and 19/37/49 (the ligature). All of Wave 13's truncated-incipit VERIFYs are resolved."
+    verify_items: []
   - edition: 1979
     service: psalter/psalms-51-100
     source_url: "http://justus.anglican.org/resources/bcp/bcpsalt1.txt"
@@ -12058,14 +12039,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
-    verify_items:
-      - anchor: "psalms-51-100"
-        source_reading: "Voce mea ad Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-51-100"
-        source_reading: "Deus ultio"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \". Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Collated verse by verse. Corrections here: \"to the grave\" -> \"into the grave\" (55:16), \"to Edom\" -> \"into Edom\" (60:9), \"from of the clutches\" -> \"from the clutches\" (71:4), \"winge!d\" -> \"wingèd\" (78:27), \"The grieved him ... they provoked\" -> \"They grieved him ... and provoked\" (78:58), \"and son of man\" -> \"the son of man\" (80:16), \"Zee%b\" -> \"Zeëb\" (83:11), \"All the nations\" -> \"All nations\" (86:9), \"in vision\" -> \"in a vision\" (89:19), \"the lion and the adder\" -> \"the lion and adder\" (91:13), and the incipits of Psalms 76, 77 and 94."
+    verify_items: []
   - edition: 1979
     service: psalter/psalms-101-150
     source_url: "http://justus.anglican.org/resources/bcp/bcpsalt1.txt"
@@ -12073,26 +12048,8 @@ records:
     status: transcribed
     depth: tier-1
     verifier: "claude-opus-5 (scripted ingest; verse-run, cross-edition and change-log gates)"
-    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \"."
-    verify_items:
-      - anchor: "psalms-101-150"
-        source_reading: "Laudate Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-101-150"
-        source_reading: "Ad Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-101-150"
-        source_reading: "Voce mea ad Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-101-150"
-        source_reading: "Laudate Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-101-150"
-        source_reading: "Laudate Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
-      - anchor: "psalms-101-150"
-        source_reading: "Laudate Domi"
-        note: "the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed"
+    note: "The 1979 translation from bcpsalt1.txt and bcpsalt2.txt, each file's FTP header stripped independently. 1979 prints verse 1's number and divides seven long psalms into Parts, both carried. The asterisk mediant is normalized to \" : \". Wave 19: READ AGAINST THE PUBLISHER'S OWN FILE -- Church Publishing Incorporated's PDF of the 1979 book, from the Episcopal Church (https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_(TEC,_1979).pdf: 1001 pages with an exact text layer, no OCR; the US Book of Common Prayer has never been under copyright, which the publisher states). That is a witness of a different CLASS from justus's 1993 ASCII e-text, which is this file's carrier, so where the two disagree the publisher's file is the book. Two things it cannot testify about: the small-capital LORD, which its text layer renders \"Lord\", and the pointing asterisk, which it drops in about ten verses -- no case and no pointing is taken from it. The corrections are in ingest/w19_witness.py and ingest/w19_cells.py, each evidenced with its page in ingest/w19_evidence.json. Collated verse by verse. Corrections here: \"Issac\" -> \"Isaac\" (105:9), \"firstfruits\" -> \"first fruits\" (105:36), \"from everlasting to everlasting\" -> \"from everlasting and to everlasting\" (106:48), \"Hosanna\" -> \"Hosannah\" twice (118:25), \"confort\" -> \"comfort\" (119:52), \"the kingdoms of Bashan ... the kings of Canaan\" -> \"the king of Bashan ... the kingdoms of Canaan\" (135:11), \"winge!d\" -> \"winged\" (148:10), nine incipits, three of Psalm 119's portion headings -- and, at the end of Psalm 150, the 1993 keying's own end-of-file marker (\"(end of BCPSALTER.TXT)\"), which had been published as part of the last verse."
+    verify_items: []
   - edition: 1789
     service: psalter/selections
     source_url: "http://justus.anglican.org/resources/bcp/1789/Psalter_1789.htm"

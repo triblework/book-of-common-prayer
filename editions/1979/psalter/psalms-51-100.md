@@ -134,7 +134,7 @@
 
 15 We took sweet counsel together, : and walked with the throng in the house of God.
 
-16 Let death come upon them suddenly; let them go down alive to the grave; : for wickedness is in their dwellings, in their very midst.
+16 Let death come upon them suddenly; let them go down alive into the grave; : for wickedness is in their dwellings, in their very midst.
 
 17 But I will call upon God, : and the LORD will deliver me.
 
@@ -300,7 +300,7 @@
 
 8 Moab is my wash-basin, on Edom I throw down my sandal to claim it, : and over Philistia will I shout in triumph."
 
-9 Who will lead me into the strong city? : who will bring me to Edom?
+9 Who will lead me into the strong city? : who will bring me into Edom?
 
 10 Have you not cast us off, O God? : you no longer go out, O God, with our armies.
 
@@ -682,7 +682,7 @@
 
 3 Be my strong rock, a castle to keep me safe; : you are my crag and my stronghold.
 
-4 Deliver me, my God, from the hand of the wicked, : from of the clutches of the evildoer and the oppressor.
+4 Deliver me, my God, from the hand of the wicked, : from the clutches of the evildoer and the oppressor.
 
 5 For you are my hope, O LORD God, : my confidence since I was young.
 
@@ -902,7 +902,7 @@
 
 ## Psalm 76
 
-> Notus in Judaea
+> Notus in Judæa
 
 1 In Judah is God known; : his Name is great in Israel.
 
@@ -930,9 +930,7 @@
 
 ## Psalm 77
 
-> Voce mea ad Domi
-
-<!-- VERIFY: 'Voce mea ad Domi'; the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed -->
+> Voce mea ad Dominum
 
 1 I will cry aloud to God; : I will cry aloud, and he will hear me.
 
@@ -1032,7 +1030,7 @@
 
 26 He caused the east wind to blow in the heavens : and led out the south wind by his might.
 
-27 He rained down flesh upon them like dust : and winge!d birds like the sand of the sea.
+27 He rained down flesh upon them like dust : and wingèd birds like the sand of the sea.
 
 28 He let it fall in the midst of their camp : and round about their dwellings.
 
@@ -1098,7 +1096,7 @@
 
 57 They turned away and were disloyal like their fathers; : they were undependable like a warped bow.
 
-58 The grieved him with their hill-altars : they provoked his displeasure with their idols.
+58 They grieved him with their hill-altars : and provoked his displeasure with their idols.
 
 59 When God heard this, he was angry : and utterly rejected Israel.
 
@@ -1192,7 +1190,7 @@
 
 15 They burn it with fire like rubbish; : at the rebuke of your countenance let them perish.
 
-16 Let your hand be upon the man of your right hand, : and son of man you have made so strong for yourself.
+16 Let your hand be upon the man of your right hand, : the son of man you have made so strong for yourself.
 
 17 And so will we never turn away from you; : give us life, that we may call upon your Name.
 
@@ -1256,7 +1254,7 @@
 
 ## Psalm 83
 
-> Deus, quis similis
+> Deus, quis similis?
 
 1 O God, do not be silent; : do not keep still nor hold your peace, O God;
 
@@ -1278,7 +1276,7 @@
 
 10 They were destroyed at Endor; : they became like dung upon the ground.
 
-11 Make their leaders like Oreb and Zee%b, : and all their commanders like Zebah and Zalmunna,
+11 Make their leaders like Oreb and Zeëb, : and all their commanders like Zebah and Zalmunna,
 
 12 Who said, "Let us take for ourselves : the fields of God as our possession."
 
@@ -1372,7 +1370,7 @@
 
 8 Among the gods there is none like you, O LORD, : nor anything like your works.
 
-9 All the nations you have made will come and worship you, O LORD, : and glorify your Name.
+9 All nations you have made will come and worship you, O LORD, : and glorify your Name.
 
 10 For you are great; you do wondrous things; : and you alone are God.
 
@@ -1494,7 +1492,7 @@
 
 > Tunc locutus es
 
-19 You spoke once in vision and said to your faithful people: : "I have set the crown upon a warrior and have exalted one chosen out of the people.
+19 You spoke once in a vision and said to your faithful people: : "I have set the crown upon a warrior and have exalted one chosen out of the people.
 
 20 I have found David my servant; : with my holy oil have I anointed him.
 
@@ -1628,7 +1626,7 @@
 
 12 They shall bear you in their hands, : lest you dash your foot against a stone.
 
-13 You shall tread upon the lion and the adder; : you shall trample the young lion and the serpent under your feet.
+13 You shall tread upon the lion and adder; : you shall trample the young lion and the serpent under your feet.
 
 14 Because he is bound to me in love, therefore will I deliver him; : I will protect him, because he knows my Name.
 
@@ -1686,9 +1684,7 @@
 
 ## Psalm 94
 
-> Deus ultio
-
-<!-- VERIFY: 'Deus ultio'; the 1979 e-text truncates this Latin incipit and loses its closing mark; all nine such headings have lost the same syllable (the incipits break off at 'Domi' or 'ultio', as if 'num' was dropped in keying). Carried exactly as printed and not completed -->
+> Deus ultionum
 
 1 O LORD God of vengeance, : O God of vengeance, show yourself.
 

@@ -18,6 +18,44 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 19 (the 1979 text vs the publisher's file) DONE, NOT YET PUBLISHED
+
+Guide: `ingest/WAVE19_GUIDE.md`. Scripts: `w19_witness.py` (44 psalter
+corrections), `w19_cells.py` (six structured cells), `w19_witness_text.py`
+(pypdf extraction + `find()`), `w19_psalter.py` (parses the book's Psalter and
+collates it), `w19_evidence.py` / `w19_evidence.json` (53 readings, each with
+its page), `w19_gates.py`, `w19_survey.py`, `gen_wave19_provenance.py`,
+`w19_docs.py`. `w13_build_1979.py` and `w13_fidelity.py` are patched.
+
+**The witness is CHURCH PUBLISHING'S OWN PDF** of the 1979 book
+(`File:Book of common prayer (TEC, 1979).pdf` on Wikimedia Commons, 1001
+pages, cached in `scrape-cache/`). It is TEXT, not page images, so this is the
+first exact collation here: the whole Psalter, 2,507 verses, compared word for
+word. See R11 in `RULINGS.md` for why it outranks the 1993 e-text and for the
+two things it cannot say (small-capital LORD, and the pointing asterisk, which
+its extractor drops in ten verses).
+
+What it did: **24 verse corrections** (the keying wrong in every one), **17
+Latin incipits** and **3 of Psalm 119's portion headings**, the removal of the
+keying's own end-of-file marker from the last verse of Psalm 150, and **7
+dropouts and typos** in six other cells -- including a collect that broke off
+mid-word, the banns of marriage (a whole clause missing), and two passages the
+keying had swallowed whole (the marriage Prayers, the adoption form). 1979
+flags 143 -> 127, none left in the Psalter.
+
+Gates: `w19_gates` 0 anomalies -- evidence for every correction, a containment
+proof per cell, and the collation residue pinned to exactly the fifteen verses
+where the PDF's text layer is known to drop a mark; `w13_fidelity` 0
+unattested (book-supplied words subtracted, as Wave 17 did for 1892);
+`w13_audit` 0; `w18_gates`/`w16_gates` 0; `verify_index --check` OK (328
+inline / 424 provenance). A full `build_history.py` build changes `texts/`
+only in v1979 (18 files, +182 -180); the other eleven tags are byte-identical,
+and the published-context check passes on the built v1979 (111 flags).
+
+**To publish** — the six steps in the Wave-15 block below, unchanged.
+
+---
+
 ## CURRENT — WAVE 18 (the 1662 text vs the Annexed Book) DONE + PUBLISHED (2026-09-18)
 
 **PUBLISHED 2026-09-18 (force-pushed with maintainer go-ahead). Published tips:
@@ -1405,8 +1443,14 @@ write a fresh HANDOFF section rather than rushing.
 Every claim here was checked that day; re-check the reachability ones before
 planning around them.
 
-1. **The 1979 text against Church Publishing's own PDF — IN PROGRESS as Wave
-   19.** Wikimedia Commons, `File:Book of common prayer (TEC, 1979).pdf`:
+1. **The 1979 text against Church Publishing's own PDF — DONE (Wave 19), one
+   pass remains.** The Psalter is collated and the named dropouts repaired;
+   what is left is the ~110 non-table paragraphs `w19_survey.py` reports as
+   not matching the book (propers 89%, daily office 93%, holy communion 94%,
+   occasional offices 96%, ordinal 97%, prayers 98% verbatim), plus the
+   lectionary tables, which match at 1.5% only because this repo renders them
+   as long-form rows and the book prints tables — that needs a different
+   comparison, not a closer reading. The witness: Wikimedia Commons, `File:Book of common prayer (TEC, 1979).pdf`:
    1001 pages, 4,911,934 bytes, `Acrobat PDFWriter 3.0f1r8 for Power
    Macintosh`, author "Church Publishing Incorporated", sourced from
    episcopalchurch.org. At ~5KB a page it is a TEXT pdf, not page images — no
