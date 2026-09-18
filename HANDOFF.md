@@ -9,6 +9,13 @@ transcribe from memory. Prefer correctness over speed.**
 This file lives on the `authoring` branch (it is authoring-only; it is NOT stamped
 into published commits). Everything you need is in the repo + the spec.
 
+**Read `RULINGS.md` next.** It is the standing register of editorial decisions —
+what was ruled, when, why, what it governs and what would reopen it — including
+the maintainer's rulings on backward derivation (R2), `absent:` (R3),
+publishing (R4), and how to handle a name the original book leaves blank (R8).
+When a wave makes or receives a ruling, add it there; do not leave it only in a
+wave guide.
+
 ---
 
 ## CURRENT — WAVE 18 (the 1662 text vs the Annexed Book) DONE, NOT YET PUBLISHED
@@ -37,30 +44,45 @@ CoE's modern authorized text (the carrier), this manuscript, and the printed
 
 What it did: **two corrections**, the mediant restored at Psalm 2:12 and 68:1,
 after which all 2,508 verses of the 1662 Psalter carry exactly one mediant;
-**eight flags closed** (Psalm 89:50 confirmed as printed; the five monarch
+**nine flags closed** (Psalm 89:50 confirmed as printed; the five monarch
 flags — the book prays for "King Charles" in MP, EP, the Litany, the Ordinal's
-litany and the prayer for the Church Militant; the psalm-cento flag at sea);
-**two lines of CoE website chrome deleted** from `prayers-at-sea.md`, where
-they had been published as text since Wave 6, with a gate that now refuses site
-furniture corpus-wide. 1662 flags 15 -> 7.
+litany and the prayer for the Church Militant; the psalm-cento flag at sea;
+the Navy rubric, corrected); **two lines of CoE website chrome deleted** from
+`prayers-at-sea.md`, where they had been published as text since Wave 6, with a
+gate that now refuses site furniture corpus-wide. 1662 flags 15 -> 6.
 
-**Recorded, NOT changed — this is the open decision for the maintainer.** The
-Annexed Book names the King and leaves EVERY OTHER ROYAL NAME BLANK (in MP and
-EP even the title breaks off at "A Prayer for"); the carrier prints Queen
-Camilla, William Prince of Wales, the Princess of Wales. Likewise the communion
-admission rubric the carrier prints is no part of 1662 (the book has the "open
-and notorious evil liver" rubric), and the Sea rubric's "her Majesty's Navy"
-reads "his Majesties Navy" in the book. Each is flagged with what the page
-shows. Changing any of them means either printing a blank the source does not
-print, or importing the manuscript's orthography into a modernized text.
+**THE MAINTAINER'S RULING (2026-09-18), and it generalizes: print what the
+original copies print, and where the original leaves a space for a name, SHOW
+the space** — the way a modern book prints "N. ________" — rather than carrying
+a living person's name or reconstructing one. So the four Royal-Family passages
+(MP, EP, the Litany, the Ordinal's litany) lose "Queen Camilla, William Prince
+of Wales, the Princess of Wales, and all the Royal Family" and print
+`________`, with the flag recording that what the printed Sealed Books named
+there is unknown (no scan of one is on an allow-listed host). The King is NOT
+blanked: "King Charles" is attested. Under the same ruling the Sea rubric now
+reads "his Majesty's Navy" (the book: "also vsed in his Majesties Navy every
+day") — a word, not a spelling.
+
+The section HEADING "A Prayer for the Royal Family" was deliberately left
+alone, although the book's title breaks off at "A Prayer for": headings are the
+anchors this service diffs on across nine editions, so changing one would
+manufacture a structural diff. Recorded in the flag instead.
+
+**Still recorded, NOT changed:** the communion admission rubric. What the
+carrier prints (account to the Ordinary, seven days, interview) is no part of
+1662 — the book has the "open and notorious evil liver" rubric — but
+substituting it means setting a paragraph of the MS's own orthography inside a
+modernized cell, which is a different question from showing a blank.
 
 Gates: `w18_gates` 0 anomalies (evidence for all 15 readings; containment in
 two halves — published psalter + these two corrections == new cells, and the
-published structured cells minus the chrome have exactly the new cells' words),
-`w13_fidelity` 0 unattested, `w13_audit` 0, `verify_index --check` OK (339
-inline / 441 provenance), and a full `build_history.py` build whose only
-`texts/` changes are v1662 (18 files) and v1789 (4 files — 1789 inherits the
-1662 Psalter); v1892 and v1928 are byte-identical. The published-context
+published structured cells with the same short substitution list applied
+— chrome deleted, royal names -> the blank, her -> his — have exactly the new
+cells' words; plus a check that no living royal name survives anywhere in the
+1662 text), `w13_fidelity` 0 unattested, `w13_audit` 0, `verify_index --check`
+OK (338 inline / 440 provenance), and a full `build_history.py` build whose
+only `texts/` changes are v1662 and v1789 (1789 inherits the 1662 Psalter);
+v1892 and v1928 are byte-identical. The published-context
 `verify_index --check` passes for all twelve built tags.
 
 **To publish** — the six steps in the Wave-15 block below, unchanged.

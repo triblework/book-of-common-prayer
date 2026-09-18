@@ -9,8 +9,13 @@
   2 corrections   both mediants are evidenced, and both are in the new cells.
   3 containment   the PUBLISHED 1662 psalter cells, with exactly these two
                   corrections applied, equal the new cells; and the published
-                  structured cells, minus the website chrome, have exactly the
-                  new cells' words. Nothing else moved.
+                  structured cells, with the same short list of substitutions
+                  applied (the chrome deleted, the royal names replaced by the
+                  blank, "her Majesty's Navy" -> "his"), have exactly the new
+                  cells' words. Nothing else moved.
+  3b blanks       no living royal name is left anywhere in the 1662 text, all
+                  four passages carry the blank, and the Navy rubric reads
+                  "his".
   4 chrome        no cell in the corpus carries scraped site furniture.
   5 mediants      all 2,508 verses of the 1662 Psalter carry exactly one.
   6 flags         the 1662 VERIFY count fell from 15 to 7 -- three psalter
@@ -39,6 +44,12 @@ STRUCTURED = ('daily-office/morning-prayer.md', 'daily-office/evening-prayer.md'
               'occasional-offices/prayers-at-sea.md')
 CHROME = ('enable JavaScript', 'Turnon.js', 'Popular search items',
           'Copy to clipboard', 'Skip to main content', 'Accept all cookies')
+BLANK = '________'
+NAMES = ('Queen Camilla, William Prince of Wales, the Princess of Wales, '
+         'and all the Royal Family')
+LIVING = ('Camilla', 'William Prince of Wales', 'Princess of Wales')
+BLANKED = ('daily-office/morning-prayer.md', 'daily-office/evening-prayer.md',
+           'the-litany/litany.md', 'ordinal/ordering-deacons.md')
 findings = []
 
 
@@ -127,10 +138,15 @@ def main():
         if not old:
             check('containment %s: published cell available' % rel, False)
             continue
-        kept = [l for l in strip(old).split('\n')
-                if not any(c in l for c in CHROME)]
-        check('containment %s: same words as published, less the chrome' % rel,
-              words('\n'.join(kept)) == words(strip(new)))
+        kept = '\n'.join(l for l in strip(old).split('\n')
+                          if not any(c in l for c in CHROME))
+        kept = (kept.replace('to bless ' + NAMES + ':', 'to bless ' + BLANK + ':')
+                    .replace('bless and preserve ' + NAMES + ',',
+                             'bless and preserve ' + BLANK + ',')
+                    .replace("used in her Majesty's Navy every day",
+                             "used in his Majesty's Navy every day"))
+        check('containment %s: same words as published, less the chrome and '
+              'the named royals' % rel, words(kept) == words(strip(new)))
 
     # 4. no site chrome anywhere in the corpus
     hits = []
@@ -143,6 +159,20 @@ def main():
             if any(c in t for c in CHROME):
                 hits.append(os.path.relpath(p, WT))
     check('no scraped site chrome in any cell', not hits, hits[:3])
+
+    # 4b. the ruling: the blank is printed, and no living name survives
+    for rel in BLANKED:
+        t = open(os.path.join(WT, 'editions/1662/%s' % rel),
+                 encoding='utf-8').read()
+        body = re.sub(r'<!-- VERIFY.*?-->', '', t, flags=re.S)
+        check('%s: the blank is set' % rel, BLANK in body)
+        check('%s: no living royal name in the text' % rel,
+              not any(n in body for n in LIVING),
+              [n for n in LIVING if n in body])
+    sea = open(os.path.join(WT, 'editions/1662/occasional-offices/'
+                            'prayers-at-sea.md'), encoding='utf-8').read()
+    check('at sea: the rubric reads "his Majesty\'s Navy"',
+          "his Majesty's Navy" in sea and "her Majesty's Navy" not in sea)
 
     # 5. the pointing is complete
     bad = [(n, v) for n in cells for v, t in cells[n].items()
@@ -159,8 +189,10 @@ def main():
                                 encoding='utf-8').read().count('<!-- VERIFY')
     # 15 before this wave: 3 in the Psalter, 5 on the monarch's name, 4 on the
     # Royal Family, and one each on the communion rubric, "Foreasmuch" and the
-    # psalm-cento at sea. Eight are closed; the other seven are rewritten.
-    check('1662 open flags 15 -> 7', n_flags == 7, n_flags)
+    # psalm-cento at sea. Nine are closed (the psalm-cento flag went with the
+    # Navy correction); the six that remain are rewritten to say what the page
+    # shows.
+    check('1662 open flags 15 -> 6', n_flags == 6, n_flags)
     kings = sum(1 for rel in STRUCTURED
                 if 'reign-dependent; reconcile' in
                 open(os.path.join(WT, 'editions/1662/%s' % rel),

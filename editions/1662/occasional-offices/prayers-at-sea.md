@@ -1,12 +1,10 @@
 # Forms of Prayer to be used at Sea
 
-<!-- VERIFY: 'her Majesty's Navy'; the Church of England source has not updated this rubric to the present reign, and the same file prays for "King CHARLES". The manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 reads "These two following Prayers are to be also vsed in his Majesties Navy every day" (scan page 508; ingest/w18_evidence.json, 'sea-navy'). Carried as the source prints it; the reign-dependent readings in this edition are a maintainer's ruling, taken together -->
-
 ## Prayers to be used at Sea
 
 > The Morning and Evening Service to be used daily at Sea shall be the same which is appointed in the Book of Common Prayer.
 
-> These two following Prayers are to be also used in her Majesty's Navy every day.
+> These two following Prayers are to be also used in his Majesty's Navy every day.
 
 O Eternal Lord God, who alone spreadest out the heavens, and rulest the raging of the sea; who hast compassed the waters with bounds until day and night come to an end: Be pleased to receive into thy Almighty and most gracious protection the persons of us thy servants, and the Fleet in which we serve. Preserve us from the dangers of the sea, and from the violence of the enemy; that we may be a safeguard unto our most gracious Sovereign Lord, King CHARLES, and his Dominions, and a security for such as pass on the seas upon their lawful occasions; that the inhabitants of our Island may in peace and quietness serve thee our God; and that we may return in safety to enjoy the blessings of the land, with the fruits of our labours; and with a thankful remembrance of thy mercies to praise and glorify thy holy Name; through Jesus Christ our Lord. Amen.
 

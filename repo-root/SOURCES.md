@@ -255,26 +255,35 @@ the book labels the one psalm it uses ("Confitemini Domino. Psal. 107.",
 p. 513) and prints no psalm label over the composite hymns (p. 517), which is
 what the file reflects.
 
+**The royal names are gone, and the book's blank is shown.** The Annexed Book
+names the King and leaves **every other royal name a blank** — in Morning and
+Evening Prayer the title itself breaks off at "A Prayer for" and the prayer at
+"we humbly beseech thee to bless"; in the Litany and the Ordinal the petition
+breaks off after "bless and preserve". The Church of England source fills those
+blanks with the living Royal Family (Queen Camilla, William Prince of Wales,
+the Princess of Wales). Those names are not the 1662 reading, so they are
+removed and the space the book leaves is set visibly as `________`, the way a
+modern book prints "N. ________" for a name to be supplied. **Nothing is
+reconstructed into it.** What the printed Sealed Books named there is unknown —
+no scan of one is available on an allow-listed host — and that remains flagged.
+On the same ruling, the Sea rubric now reads "his Majesty's Navy", which the
+book has ("also vsed in his Majesties Navy every day", p. 508) and which the
+source had left unrevised in the same file that prays for "King CHARLES": that
+is a word, not a spelling, so the witness settles it.
+
 **Two lines of website chrome removed.** `occasional-offices/prayers-at-sea.md`
 had published two lines of Church of England site furniture as text ("To
 experience the best that the Church of England website has to offer, you need
 to enable JavaScript…" and "Popular search items"). They are deleted, and a
 gate now refuses that furniture anywhere in the corpus.
 
-**What is recorded and NOT changed.** The Annexed Book names the King and
-leaves **every other royal name blank** — in Morning and Evening Prayer the
-title itself breaks off at "A Prayer for" and the prayer at "we humbly beseech
-thee to bless"; in the Litany and the Ordinal the petition breaks off after
-"bless and preserve". The carrier fills those blanks with the living Royal
-Family. The blank is a reading, but it does not say what a 1662 file should
-print, and a blank is not what the source prints either; the flags now record
-the finding and the decision is left open. On the same footing: the communion
-**admission rubric** the carrier prints (an account to the Ordinary, seven
-days, an opportunity for interview) is no part of the 1662 text — the Annexed
-Book prints the "open and notorious evil liver" rubric of 1549–1604 (p. 246) —
-and the Sea rubric's "her Majesty's Navy", where the book reads "his Majesties
-Navy" (p. 508), is newly flagged. Replacing any of these would mean importing
-the manuscript's orthography into a modernized text.
+**What is recorded and NOT changed.** The communion **admission rubric** the
+carrier prints (an account to the Ordinary, seven days, an opportunity for
+interview) is no part of the 1662 text — the Annexed Book prints the "open and
+notorious evil liver" rubric of 1549–1604 (p. 246). Substituting it would mean
+setting a paragraph of the manuscript's own orthography inside a modernized
+cell, which is a different decision from showing a blank; it is flagged with
+what the page shows.
 
 **What this does not claim.** Nothing here is a collation of the 1662 spelling
 or of its ordinary punctuation, which this witness is explicitly unfit to
@@ -418,7 +427,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1764 (Scottish) Communion | `Matth. vi. 9. 20` | Passage is Matthew 6:19-20; `9` likely for `19`. |
 | 1929 (Scottish) Communion | `Acts 20. 85` | Verse is Acts 20:35; `85` likely a scan error. |
 | 1789 (American) Morning Prayer | several roman-numeral citations | The justus 1789 page had OCR damage in citations (e.g. `Psalm ii 17` for Psalm 51:17); read against the parallel 1662 sentences. |
-| 1662 Morning / Evening Prayer, Litany, Ordinal (Prayer for the Royal Family) | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) names no one here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The blank is the reading; what a 1662 file should print instead is left open. |
+| 1662 Morning / Evening Prayer, Litany, Ordinal (Prayer for the Royal Family) | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) prints no name here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The living names are therefore removed and the blank is set as `________`. What the printed 1662 books named in that space is unknown — no scan of a Sealed Book is available on an allow-listed host — so nothing is reconstructed into it. |
 | 1552 Evening Prayer | `Lord, make haste to helpe us` | 1552 Morning Prayer has `O Lord`; the missing `O` may be a transcription slip. |
 | 1552 Evening Prayer | `all that them is ... they that dwel therm` | Cantate Domino; justus prints `them is`/`therm`, both probable OCR for `therein`; normalized to `therein`. |
 | 1552 Evening Prayer | `Deus misereatur. Ps. lxvii.` | The justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on that page. |
@@ -590,7 +599,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1559 Ordering of Deacons | `Elizabeth` | 'Elizabeth'; the justus synoptic gives the 1559-added petition text with EDWARD retained and a note 'changed appropriately for Queen Elizabeth, King James & King Charles'; the sovereign name and her/she pronouns are the apparatus-directed Elizabethan substitution; confirm against a 1559 page scan |
 | 1604 Ordering of Deacons | `James` | 'James'; there is no 1604 justus Ordinal page; the 1604 sovereign name and his/he pronouns are derived from the 1559 petition per the synoptic note 'changed appropriately for … King James'; confirm against a 1604 page scan |
 | 1604 Ordering of Deacons | `Kings` | 'Kings'; the 1604 King's-Sovereignty oath is derived from the 1559 Queen's oath per the justus note 'Kings supremacie in 1604' and its bracketed [Kings]/[his] readings; confirm against a 1604 page scan |
-| 1662 Ordering of Deacons | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) names no one here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The blank is the reading; what a 1662 file should print instead is left open. (Annexed Book p. 527.) |
+| 1662 Ordering of Deacons | `Queen Camilla, William Prince of Wales, the Princess of Wales` | The CoE source serves the LIVING Royal Family. The Annexed Book (HMSO 1892) prints no name here: it leaves the passage blank, and in the daily offices breaks the title off at `A Prayer for`. The living names are therefore removed and the blank is set as `________`. What the printed 1662 books named in that space is unknown — no scan of a Sealed Book is available on an allow-listed host — so nothing is reconstructed into it. (Annexed Book p. 527.) |
 | 1549 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
 | 1552 Ordering of Priests | `where thou shalt be so appointed` | 'where thou shalt be so appointed'; the justus synoptic brackets this tail with a note "Replaced by 'al' in 1552"; the exact 1552/1559 tail is left as the 1550 reading pending a page scan |
 | 1789 Ordering of Priests | `for that and ability` | 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan |
@@ -797,7 +806,7 @@ Each is flagged inline in the text and should be checked against a page scan.
 | `prayers-and-thanksgivings/for-the-clergy-and-people.md` (1559, 1604) | `untitled` | The source prints this prayer with no title of its own — it follows the preceding prayer directly, opening with a drop capital. The bracketed heading is editorial; confirm against a page scan. |
 | `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
 | `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
-| `occasional-offices/prayers-at-sea.md` (1662) | `her Majesty's Navy` | The CoE source has not revised this rubric to the present reign, in the same file that prays for `King CHARLES`; the Annexed Book reads "These two following Prayers are to be also vsed in his Majesties Navy every day" (p. 508). Carried as the source prints it. (The psalm-cento flag this row replaces is resolved: the book labels the one psalm it uses, `Confitemini Domino. Psal. 107.` (p. 513), and prints no label over the composite hymns (p. 517).) |
+
 | 1789 (American) Kalendar | `November Morning 1, Evening 1` | the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month |
 | 1892 (American) Proper Lessons | `A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2` | the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess |
 | 1979 (American) Daily Office Lectionary | `Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)` | the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed |

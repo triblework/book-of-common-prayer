@@ -86,8 +86,8 @@ That it may please thee to be his defender and keeper, giving him the victory ov
 
 We beseech thee to hear us, good Lord.
 
-That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
-<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank after "That it may please thee to bless and preserve" (scan page 527; ingest/w18_evidence.json, 'royal-ordinal'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
+That it may please thee to bless and preserve ________,
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family here. The 1662 authority prints NO NAME: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the passage blank after "That it may please thee to bless and preserve" (scan page 527; ingest/w18_evidence.json, 'royal-ordinal'), and the blank is set here as "________". What the PRINTED 1662 books named in that space is unknown -- no scan of a Sealed Book is available on an allow-listed host -- so nothing is reconstructed into it -->
 
 We beseech thee to hear us, good Lord.
 

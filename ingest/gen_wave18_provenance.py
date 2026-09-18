@@ -61,26 +61,30 @@ PER = {
     'daily-office/morning-prayer':
         ' The Prayer for the King\'s Majesty is attested: the book prays for '
         '"our most gracious soveraign Lord King Charles" (scan page 70), so the '
-        'name the source prints is period-correct and that flag is closed. The '
-        'Prayer for the Royal Family is a different matter -- the MS leaves the '
-        'names BLANK, and breaks the title off at "A Prayer for". The living '
-        'names the source prints are carried as printed and the flag now '
-        'records the blank.',
+        'name the source prints is period-correct and that flag is closed. In '
+        'the Prayer for the Royal Family the book prints NO NAME -- it leaves '
+        'the passage blank and breaks the title off at "A Prayer for" -- so on '
+        'the maintainer\'s ruling (print what the original copies print, and '
+        'show the space where they leave one, as a modern book prints "N. '
+        '________") the living names the Church of England source supplies are '
+        'removed and the blank is set as "________". Nothing is reconstructed '
+        'into it: what the printed Sealed Books named there is unknown.',
     'daily-office/evening-prayer':
-        ' Attested as in Morning Prayer: "King Charles" is printed, and the '
-        'Prayer for the Royal Family is left blank in the MS, title and all '
-        '(scan page 80).',
+        ' The same two readings as Morning Prayer: "King Charles" is printed, '
+        'and the Prayer for the Royal Family is blank in the book, title and '
+        'all (scan page 80). The living names are replaced by the blank.',
     'the-litany/litany':
         ' The Litany\'s monarch is attested -- "thy servant Charles our most '
         'gracious King and Governour" (scan page 86) -- and that flag is '
         'closed. The petition for the rest of the Royal Family breaks off after '
         '"That it may please thee to blesse and preserve" and the response '
-        'follows a blank (scan page 87).',
+        'follows a blank (scan page 87); the living names are replaced by the '
+        'blank.',
     'ordinal/ordering-deacons':
         ' The Ordinal\'s litany prints the same two readings: "thy servant '
         'Charles our most gratious King and Governour" (scan page 526), and a '
         'blank after "That it may please thee to bless and preserve" (scan page '
-        '527).',
+        '527); the living names are replaced by the blank.',
     'holy-communion/holy-communion':
         ' Two findings. The monarch is attested -- "thy servant Charles our '
         'King" in the prayer for the Church Militant (scan page 254) -- so that '
@@ -104,9 +108,12 @@ PER = {
         'labels the one psalm it uses in the margin ("Confitemini Domino. Psal. '
         '107.", scan page 513) and prints no psalm label at all over the '
         'composite hymns (scan page 517), which is exactly what the cell '
-        'reflects. A new flag records that the source has left "her Majesty\'s '
-        'Navy" unrevised where the book reads "his Majesties Navy" (scan page '
-        '508), in the same file that prays for "King CHARLES".',
+        'reflects. And the rubric now reads "his Majesty\'s Navy": the book '
+        'has "These two following Prayers are to be also vsed in his Majesties '
+        'Navy every day" (scan page 508), where the Church of England source '
+        'had left "her Majesty\'s Navy" unrevised in the same file that prays '
+        'for "King CHARLES". That is a word, not a spelling, so the witness '
+        'settles it.',
 }
 
 ANCHOR = {

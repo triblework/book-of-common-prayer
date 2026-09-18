@@ -57,26 +57,35 @@ the book labels the one psalm it uses ("Confitemini Domino. Psal. 107.",
 p. 513) and prints no psalm label over the composite hymns (p. 517), which is
 what the file reflects.
 
+**The royal names are gone, and the book's blank is shown.** The Annexed Book
+names the King and leaves **every other royal name a blank** — in Morning and
+Evening Prayer the title itself breaks off at "A Prayer for" and the prayer at
+"we humbly beseech thee to bless"; in the Litany and the Ordinal the petition
+breaks off after "bless and preserve". The Church of England source fills those
+blanks with the living Royal Family (Queen Camilla, William Prince of Wales,
+the Princess of Wales). Those names are not the 1662 reading, so they are
+removed and the space the book leaves is set visibly as `________`, the way a
+modern book prints "N. ________" for a name to be supplied. **Nothing is
+reconstructed into it.** What the printed Sealed Books named there is unknown —
+no scan of one is available on an allow-listed host — and that remains flagged.
+On the same ruling, the Sea rubric now reads "his Majesty's Navy", which the
+book has ("also vsed in his Majesties Navy every day", p. 508) and which the
+source had left unrevised in the same file that prays for "King CHARLES": that
+is a word, not a spelling, so the witness settles it.
+
 **Two lines of website chrome removed.** `occasional-offices/prayers-at-sea.md`
 had published two lines of Church of England site furniture as text ("To
 experience the best that the Church of England website has to offer, you need
 to enable JavaScript…" and "Popular search items"). They are deleted, and a
 gate now refuses that furniture anywhere in the corpus.
 
-**What is recorded and NOT changed.** The Annexed Book names the King and
-leaves **every other royal name blank** — in Morning and Evening Prayer the
-title itself breaks off at "A Prayer for" and the prayer at "we humbly beseech
-thee to bless"; in the Litany and the Ordinal the petition breaks off after
-"bless and preserve". The carrier fills those blanks with the living Royal
-Family. The blank is a reading, but it does not say what a 1662 file should
-print, and a blank is not what the source prints either; the flags now record
-the finding and the decision is left open. On the same footing: the communion
-**admission rubric** the carrier prints (an account to the Ordinary, seven
-days, an opportunity for interview) is no part of the 1662 text — the Annexed
-Book prints the "open and notorious evil liver" rubric of 1549–1604 (p. 246) —
-and the Sea rubric's "her Majesty's Navy", where the book reads "his Majesties
-Navy" (p. 508), is newly flagged. Replacing any of these would mean importing
-the manuscript's orthography into a modernized text.
+**What is recorded and NOT changed.** The communion **admission rubric** the
+carrier prints (an account to the Ordinary, seven days, an opportunity for
+interview) is no part of the 1662 text — the Annexed Book prints the "open and
+notorious evil liver" rubric of 1549–1604 (p. 246). Substituting it would mean
+setting a paragraph of the manuscript's own orthography inside a modernized
+cell, which is a different decision from showing a blank; it is flagged with
+what the page shows.
 
 **What this does not claim.** Nothing here is a collation of the 1662 spelling
 or of its ordinary punctuation, which this witness is explicitly unfit to
@@ -87,10 +96,12 @@ settle. The 1928 and 1979 Psalters remain unread against any scan.
 """
 
 ROYAL_NOTE = ("The CoE source serves the LIVING Royal Family. The Annexed Book "
-              "(HMSO 1892) names no one here: it leaves the passage blank, and "
-              "in the daily offices breaks the title off at `A Prayer for`. "
-              "The blank is the reading; what a 1662 file should print instead "
-              "is left open.")
+              "(HMSO 1892) prints no name here: it leaves the passage blank, "
+              "and in the daily offices breaks the title off at `A Prayer "
+              "for`. The living names are therefore removed and the blank is "
+              "set as `________`. What the printed 1662 books named in that "
+              "space is unknown — no scan of a Sealed Book is available on an "
+              "allow-listed host — so nothing is reconstructed into it.")
 
 EDITS = {
     'repo-root/SOURCES.md': [
@@ -120,7 +131,7 @@ EDITS = {
         ("| 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | source prints 'Foreasmuch'; the Private and Riper-Years 1662 forms print 'Forasmuch'; kept as printed; confirm against a page scan |",
          "| 1662 Public Baptism (The Final Exhortation) | `Foreasmuch` | CHECKED: the Annexed Book reads `Forasmuch as this childe hath promised` (p. 277), and `Forasmuch` in the private form (p. 283). Kept as the CoE prints it — that witness disclaims its own orthography, so it can settle a word but not a spelling. |"),
         ("| `occasional-offices/prayers-at-sea.md` (1662) | `psalm-cento` | Two runs of psalm verses in the Sea forms (the composite \"Hymn of Praise and Thanksgiving\" after a tempest, and the one after victory) carry no single printed psalm label, so no citation is supplied for them. The verses are deferred to the Psalter wave along with the labelled psalms. Confirm against a page scan whether the book names a source for either hymn. |",
-         "| `occasional-offices/prayers-at-sea.md` (1662) | `her Majesty's Navy` | The CoE source has not revised this rubric to the present reign, in the same file that prays for `King CHARLES`; the Annexed Book reads \"These two following Prayers are to be also vsed in his Majesties Navy every day\" (p. 508). Carried as the source prints it. (The psalm-cento flag this row replaces is resolved: the book labels the one psalm it uses, `Confitemini Domino. Psal. 107.` (p. 513), and prints no label over the composite hymns (p. 517).) |"),
+         ""),
     ],
     'repo-root/README.md': [
         ("pointing of seven verses — the musical colon that divides a verse for\nchanting.",
@@ -153,13 +164,22 @@ EDITS = {
   - **Two lines of website chrome deleted** from the Forms of Prayer to be used
     at Sea, where they had been published as text; a gate now refuses scraped
     site furniture anywhere in the corpus.
-  - Recorded, not changed: the Annexed Book names the King and leaves **every
-    other royal name blank**, where the source prints the living Royal Family;
-    the communion admission rubric the source prints is no part of the 1662
-    text; and the Sea rubric's "her Majesty's Navy" reads "his Majesties Navy"
-    in the book. Each is flagged with what the page shows.
+  - **The royal names now follow the book.** The Annexed Book names the King
+    and leaves every other royal name a blank; the Church of England source
+    fills those blanks with the living Royal Family. On the maintainer's
+    ruling — print what the original copies print, and show the space where
+    they leave one — the living names are removed from Morning and Evening
+    Prayer, the Litany and the Ordinal, and the blank is set visibly as
+    `________`. Nothing is reconstructed into it: what the printed Sealed
+    Books named there is unknown, and stays flagged. On the same ruling the
+    Sea rubric now reads "his Majesty's Navy", as the book does.
+  - Recorded, not changed: the communion admission rubric the source prints is
+    no part of the 1662 text (the book has the "open and notorious evil liver"
+    rubric); replacing it would mean setting the manuscript's own orthography
+    inside a modernized text. Flagged with what the page shows.
   - This changes `texts/original` and `texts/normalized` in two verses of the
-    1662 Psalter and removes two non-liturgical lines from one 1662 file.
+    1662 Psalter, in four prayers for the Royal Family and in one rubric, and
+    removes two non-liturgical lines from one 1662 file.
 
 ## A note on transcription
 

@@ -39,8 +39,8 @@ That it may please thee to rule his heart in thy faith, fear, and love, and that
 We beseech thee to hear us, good Lord.
 That it may please thee to be his defender and keeper, giving him the victory over all his enemies,
 We beseech thee to hear us, good Lord.
-That it may please thee to bless and preserve Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family,
-<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank after "That it may please thee to blesse and preserve" (scan page 87; ingest/w18_evidence.json, 'royal-litany'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
+That it may please thee to bless and preserve ________,
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family here. The 1662 authority prints NO NAME: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the passage blank after "That it may please thee to blesse and preserve" (scan page 87; ingest/w18_evidence.json, 'royal-litany'), and the blank is set here as "________". What the PRINTED 1662 books named in that space is unknown -- no scan of a Sealed Book is available on an allow-listed host -- so nothing is reconstructed into it -->
 We beseech thee to hear us, good Lord.
 That it may please thee to illuminate all Bishops, Priests, and Deacons, with true knowledge and understanding of thy Word; and that both by their preaching and living they may set it forth and shew it accordingly,
 We beseech thee to hear us, good Lord.

@@ -10,9 +10,15 @@ What changes:
     in Morning and Evening Prayer, in the Litany, in the Ordinal's litany and
     in the prayer for the Church Militant, so the name the Church of England
     source prints is period-correct and the flags have nothing left to ask.
-  * four Royal-Family VERIFYs are SHARPENED, not closed: the 1662 authority
-    leaves those names blank, which is an answer, but not one that tells us
-    what to print. Nothing is reconstructed.
+  * the four Royal-Family passages lose the LIVING names the Church of England
+    source prints and gain the BLANK the 1662 authority leaves, set visibly as
+    "________" -- the maintainer's ruling: print what the original copies
+    print, and where they leave a space, show the space, as a modern book does
+    when it prints "N. ________". Nothing is reconstructed into it: what the
+    printed Sealed Books named there is unknown and stays flagged.
+  * "her Majesty's Navy" becomes "his Majesty's Navy" at sea. That is a WORD,
+    not a spelling, and the book has it ("also vsed in his Majesties Navy every
+    day"); the carrier's "her" is an unrevised reign-dependency.
   * the communion admission rubric and the baptismal "Foreasmuch" flags now
     record what the witness shows instead of asking for a scan.
   * Prayers at Sea loses two lines of Church of England WEBSITE CHROME that
@@ -31,12 +37,21 @@ WT = os.path.dirname(HERE)
 W = ('the manuscript annexed to the Act of Uniformity 1662, in the type '
      'reproduction made from it by Her Majesty\'s Printing Office in 1892')
 
+BLANK = '________'
+
 ROYAL = ("<!-- VERIFY: %s; the Church of England source prints the LIVING "
-         "Royal Family. The 1662 authority names no one here: %s leaves the "
-         "whole passage blank%s (scan page %d; ingest/w18_evidence.json, "
-         "'%s'). The blank is the reading; nothing is reconstructed from it, "
-         "and whether a 1662 cell should carry the source's living names or "
-         "the book's silence is a maintainer's ruling, not a transcriber's -->")
+         "Royal Family here. The 1662 authority prints NO NAME: %s leaves the "
+         "passage blank%s (scan page %d; ingest/w18_evidence.json, '%s'), and "
+         "the blank is set here as \"%s\". What the PRINTED 1662 books named "
+         "in that space is unknown -- no scan of a Sealed Book is available on "
+         "an allow-listed host -- so nothing is reconstructed into it -->")
+
+# The living names the source prints, and the blank that replaces them. The
+# heading "A Prayer for the Royal Family" is NOT touched: it is the anchor this
+# service diffs on across nine editions, and the witness's unfinished title
+# ("A Prayer for") is recorded in the flag instead of being set as a heading.
+NAMES = 'Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family'
+
 
 EDITS = {
     'editions/1662/daily-office/morning-prayer.md': [
@@ -44,14 +59,18 @@ EDITS = {
          ""),
         ("<!-- VERIFY names: the source prints the current Royal Family ('Queen Camilla, William Prince of Wales, the Princess of Wales'). The 1662 book named the then-Royal Family; the names are reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->",
          ROYAL % ("'Queen Camilla, William Prince of Wales, the Princess of Wales'",
-                  W, ", and breaks the title off at \"A Prayer for\"", 70, 'royal-mp')),
+                  W, ", and breaks the title off at \"A Prayer for\"", 70,
+                  'royal-mp', BLANK)),
+        ('to bless ' + NAMES + ':', 'to bless ' + BLANK + ':'),
     ],
     'editions/1662/daily-office/evening-prayer.md': [
         ("<!-- VERIFY names: the source (Church of England, the current authorized text) prints the reigning monarch — 'King CHARLES' (Charles III). The 1662 book as first printed named the then-sovereign (Charles II); the named monarch is edition/reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->\n\n",
          ""),
         ("<!-- VERIFY names: the source prints the current Royal Family ('Queen Camilla, William Prince of Wales, the Princess of Wales'). The 1662 book named the then-Royal Family; the names are reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->",
          ROYAL % ("'Queen Camilla, William Prince of Wales, the Princess of Wales'",
-                  W, ", and breaks the title off at \"A Prayer for\"", 80, 'royal-ep')),
+                  W, ", and breaks the title off at \"A Prayer for\"", 80,
+                  'royal-ep', BLANK)),
+        ('to bless ' + NAMES + ':', 'to bless ' + BLANK + ':'),
     ],
     'editions/1662/the-litany/litany.md': [
         ("<!-- VERIFY names: the source (Church of England, the current authorized text) prints the reigning monarch — 'CHARLES, our most gracious King and Governor' (Charles III). The 1662 book as first printed named the then-sovereign (Charles II); the named monarch is reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->\n",
@@ -59,7 +78,8 @@ EDITS = {
         ("<!-- VERIFY names: the source prints the current Royal Family ('Queen Camilla, William Prince of Wales, the Princess of Wales'). The 1662 book named the then-Royal Family; the names are reign-dependent. Reconcile against a dated 1662 page scan before sign-off. -->",
          ROYAL % ("'Queen Camilla, William Prince of Wales, the Princess of Wales'",
                   W, " after \"That it may please thee to blesse and preserve\"",
-                  87, 'royal-litany')),
+                  87, 'royal-litany', BLANK)),
+        ('bless and preserve ' + NAMES + ',', 'bless and preserve ' + BLANK + ','),
     ],
     'editions/1662/ordinal/ordering-deacons.md': [
         ("<!-- VERIFY: 'CHARLES'; the CoE source prints the reigning monarch (Charles III); the 1662 book as first printed named the then-sovereign (Charles II); reign-dependent; reconcile against a dated 1662 page scan -->\n",
@@ -67,7 +87,8 @@ EDITS = {
         ("<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the CoE source prints the current Royal Family; the 1662 book named the then-Royal Family; reign-dependent; reconcile against a dated 1662 page scan -->",
          ROYAL % ("'Queen Camilla, William Prince of Wales, the Princess of Wales'",
                   W, " after \"That it may please thee to bless and preserve\"",
-                  527, 'royal-ordinal')),
+                  527, 'royal-ordinal', BLANK)),
+        ('bless and preserve ' + NAMES + ',', 'bless and preserve ' + BLANK + ','),
     ],
     'editions/1662/holy-communion/holy-communion.md': [
         ("<!-- VERIFY: the named monarch is reign-dependent. The Church of England source serves the current sovereign ('CHARLES our King'); the 1662 book as first printed named the then-reigning Charles II, so the first name \"Charles\" is period-correct. Reconcile against a dated 1662 page scan before sign-off. (One flag covers every occurrence of CHARLES below.) -->\n\n",
@@ -94,14 +115,10 @@ EDITS = {
          "so it cannot settle a spelling, only a word -->" % W),
     ],
     'editions/1662/occasional-offices/prayers-at-sea.md': [
-        ("<!-- VERIFY: 'psalm-cento' — a run of psalm verses here carries no single printed psalm label (the composite hymns), so no citation is supplied; the text is deferred to the Psalter wave -->",
-         "<!-- VERIFY: 'her Majesty's Navy'; the Church of England source has not "
-         "updated this rubric to the present reign, and the same file prays for "
-         "\"King CHARLES\". %s reads \"These two following Prayers are to be also "
-         "vsed in his Majesties Navy every day\" (scan page 508; "
-         "ingest/w18_evidence.json, 'sea-navy'). Carried as the source prints "
-         "it; the reign-dependent readings in this edition are a maintainer's "
-         "ruling, taken together -->" % (W[0].upper() + W[1:])),
+        ("<!-- VERIFY: 'psalm-cento' — a run of psalm verses here carries no single printed psalm label (the composite hymns), so no citation is supplied; the text is deferred to the Psalter wave -->\n\n",
+         ""),
+        ('used in her Majesty\'s Navy every day',
+         'used in his Majesty\'s Navy every day'),
         ("\nTo experience the best that the Church of England website has to offer, you need to enable JavaScript in your browser's settings. Turnon.js provides guidance on how to activate JavaScript for your particular browser.\n\nPopular search items\n",
          ""),
     ],

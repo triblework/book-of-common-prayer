@@ -568,13 +568,22 @@ The published branches and tags are build artifacts, regenerated from the
   - **Two lines of website chrome deleted** from the Forms of Prayer to be used
     at Sea, where they had been published as text; a gate now refuses scraped
     site furniture anywhere in the corpus.
-  - Recorded, not changed: the Annexed Book names the King and leaves **every
-    other royal name blank**, where the source prints the living Royal Family;
-    the communion admission rubric the source prints is no part of the 1662
-    text; and the Sea rubric's "her Majesty's Navy" reads "his Majesties Navy"
-    in the book. Each is flagged with what the page shows.
+  - **The royal names now follow the book.** The Annexed Book names the King
+    and leaves every other royal name a blank; the Church of England source
+    fills those blanks with the living Royal Family. On the maintainer's
+    ruling — print what the original copies print, and show the space where
+    they leave one — the living names are removed from Morning and Evening
+    Prayer, the Litany and the Ordinal, and the blank is set visibly as
+    `________`. Nothing is reconstructed into it: what the printed Sealed
+    Books named there is unknown, and stays flagged. On the same ruling the
+    Sea rubric now reads "his Majesty's Navy", as the book does.
+  - Recorded, not changed: the communion admission rubric the source prints is
+    no part of the 1662 text (the book has the "open and notorious evil liver"
+    rubric); replacing it would mean setting the manuscript's own orthography
+    inside a modernized text. Flagged with what the page shows.
   - This changes `texts/original` and `texts/normalized` in two verses of the
-    1662 Psalter and removes two non-liturgical lines from one 1662 file.
+    1662 Psalter, in four prayers for the Royal Family and in one rubric, and
+    removes two non-liturgical lines from one 1662 file.
 
 ## A note on transcription
 

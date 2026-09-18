@@ -28,13 +28,27 @@ both settled: the carrier drops a mediant the 1662 text prints. The mediant is
 a structural mark of the pointed Psalter, printed " : " in both books, so
 restoring it imports no orthography.
 
-WHAT IS RECORDED BUT NOT CHANGED. Everything reign-dependent. The Annexed Book
-names the King ("our most gracious soveraign Lord King Charles") and leaves
-EVERY OTHER royal name a blank -- in Morning Prayer, in Evening Prayer, in the
-Litany and in the Ordinal's litany, the title itself unfinished ("A Prayer
-for"). The carrier fills those blanks with the living Royal Family. Which text
-a 1662 node should carry there is a maintainer's ruling, not a transcriber's,
-so the readings are recorded and the flags sharpened; not a word is changed.
+WHAT THE RULING WAS. The Annexed Book names the King ("our most gracious
+soveraign Lord King Charles") and leaves EVERY OTHER royal name a blank -- in
+Morning Prayer, in Evening Prayer, in the Litany and in the Ordinal's litany,
+with the title itself unfinished ("A Prayer for"). The carrier fills those
+blanks with the living Royal Family. The maintainer ruled: print what the
+original copies print, and where the original leaves a space, SHOW the space,
+as a modern book does when it prints "N. ________". So the living names are
+gone and the blank is set as "________" (w18_cells.py); nothing is
+reconstructed into it, because what the printed Sealed Books named there is
+unknown -- no scan of one is available on an allow-listed host. Under the same
+ruling the Sea rubric's "her Majesty's Navy" becomes "his Majesty's Navy": the
+book reads "also vsed in his Majesties Navy every day", and that is a word,
+not a spelling.
+
+WHAT IS STILL RECORDED AND NOT CHANGED. The communion admission rubric. What
+the carrier prints there (an account to the Ordinary, seven days, an
+opportunity for interview) is no part of the 1662 text -- the book prints the
+"open and notorious evil liver" rubric of 1549-1604 -- but substituting it
+would mean setting a paragraph of the manuscript's own orthography inside a
+modernized cell, which is a different decision from showing a blank. Flagged
+with what the page shows.
 """
 import re
 

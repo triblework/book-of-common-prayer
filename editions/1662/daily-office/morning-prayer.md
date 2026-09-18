@@ -292,9 +292,9 @@ Amen.
 
 ## A Prayer for the Royal Family
 
-<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family. The 1662 authority names no one here: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the whole passage blank, and breaks the title off at "A Prayer for" (scan page 70; ingest/w18_evidence.json, 'royal-mp'). The blank is the reading; nothing is reconstructed from it, and whether a 1662 cell should carry the source's living names or the book's silence is a maintainer's ruling, not a transcriber's -->
+<!-- VERIFY: 'Queen Camilla, William Prince of Wales, the Princess of Wales'; the Church of England source prints the LIVING Royal Family here. The 1662 authority prints NO NAME: the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892 leaves the passage blank, and breaks the title off at "A Prayer for" (scan page 70; ingest/w18_evidence.json, 'royal-mp'), and the blank is set here as "________". What the PRINTED 1662 books named in that space is unknown -- no scan of a Sealed Book is available on an allow-listed host -- so nothing is reconstructed into it -->
 
-Almighty God, the fountain of all goodness, we humbly beseech thee to bless Queen Camilla, William Prince of Wales, the Princess of Wales, and all the Royal Family: Endue them with thy Holy Spirit; enrich them with thy heavenly grace; prosper them with all happiness; and bring them to thine everlasting kingdom; through Jesus Christ our Lord.
+Almighty God, the fountain of all goodness, we humbly beseech thee to bless ________: Endue them with thy Holy Spirit; enrich them with thy heavenly grace; prosper them with all happiness; and bring them to thine everlasting kingdom; through Jesus Christ our Lord.
 Amen.
 
 ## A Prayer for the Clergy and People
