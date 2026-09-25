@@ -18,7 +18,29 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 19 (the 1979 text vs the publisher's file) DONE, NOT YET PUBLISHED
+## CURRENT — WAVE 19 (the 1979 text vs the publisher's file) DONE + PUBLISHED (2026-09-25)
+
+**PUBLISHED 2026-09-25 (force-pushed with maintainer go-ahead). Published tips:
+`main 36f2920b · scottish 1bd44d89 · american 962fc08c`; all 12 tags recreated
+and pushed BY NAME (not `--tags`; twelve local-only scratch `w19-v*` tags were
+deleted first); local==remote verified for 3 branches + 12 tags (27 refs,
+object AND peeled commit, 0 mismatched, no stray refs); no tag carries U+FFFD.
+Against the previous tags `texts/` changed ONLY in v1979 (18 files, +182
+-180); every tag also carries the updated NOTICE/README/SOURCES. Pre- and
+post-publish refs: `scratchpad/pre-publish-refs-w19.txt`,
+`post-publish-refs-w19.txt`.**
+
+**Authentication, new this session:** this Mac's GitHub CLI holds TWO
+accounts -- `will-deadrise` (the maintainer's business account, the ACTIVE
+default, read-only on this repo) and `triblework` (the owner). The primary
+repo's `.git/config` pins this repo to triblework: `origin` is
+`https://triblework@github.com/triblework/book-of-common-prayer.git`, and a
+repo-local credential helper resets the chain and answers with
+`gh auth token --user triblework`. (`gh auth git-credential` only serves the
+ACTIVE account, so it cannot do this.) Worktrees share that config. Never run
+`gh auth switch` or `gh auth setup-git` for this repo -- they change the
+maintainer's other work. For `gh` calls that need write access, prefix
+`GH_TOKEN=$(gh auth token --user triblework)`.
 
 Guide: `ingest/WAVE19_GUIDE.md`. Scripts: `w19_witness.py` (44 psalter
 corrections), `w19_cells.py` (six structured cells), `w19_witness_text.py`
@@ -51,8 +73,6 @@ unattested (book-supplied words subtracted, as Wave 17 did for 1892);
 inline / 424 provenance). A full `build_history.py` build changes `texts/`
 only in v1979 (18 files, +182 -180); the other eleven tags are byte-identical,
 and the published-context check passes on the built v1979 (111 flags).
-
-**To publish** — the six steps in the Wave-15 block below, unchanged.
 
 ---
 
