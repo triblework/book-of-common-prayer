@@ -1,0 +1,400 @@
+# w20_kal_eye.txt -- Wave 20 EYE READ of the 1662 Kalendar (Annexed Book,
+# PDF pp. 44-55), cell by cell off the deskewed 4400px crops (June off
+# Wikimedia's render, R14). As PRINTED: roman numerals, the MS's own
+# abbreviations and spellings (R12); superscripts inline (R16).
+# Row:   day | letter | Kalendar note | Morning 1 | Morning 2 | Evening 1 | Evening 2
+# Empty cell = nothing printed. Golden Number and Roman date are not read (R13).
+# 'note:' lines are the month's footnote as printed.
+
+## January 44
+1 | A. | Circumc. of our Ld. | | | |
+2 | B. | | Gen. 1. | Matth. 1. | Gen. 2. | Rom. 1.
+3 | C. | | iii | ii | iv | ii
+4 | D. | | v | iii | vi | iii
+5 | E. | | vii | iv | viii | iv
+6 | F. | Epiphanie of our Ld. | | | |
+7 | G. | | ix | v | xii | v
+8 | A. | Lucian Pr. & Mart. | xiii | vi | xiv | vi
+9 | B. | | xv | vii | xvi | vii
+10 | C. | | xvii | viii | xviii | viii
+11 | D. | | xix | ix | xx | ix
+12 | E. | | xxi | x | xxii | x
+13 | F. | Hilarie B. &, Conf. | xxiii | xi | xxiv | xi
+14 | G. | | xxv | xii | xxvi | xii
+15 | A. | | xxvii | xiii | xxviii | xiii
+16 | B. | | xxix | xiv | xxx | xiv
+17 | C. | | xxxi | xv | xxxii | xv
+18 | D. | Prisca Rom. Virg. & Mart. | xxxiii | xvi | xxxiv | xvi
+19 | E. | | xxxv | xvii | xxxvii | i. Cor. i.
+20 | F. | Fabian B. of Rome & Mart. | xxxviii | xviii | xxxix | ii
+21 | G. | Agnes Rom. Virg. & Mart. | xl. | xix | xli | iii
+22 | A. | Vincent Span. Deac. & M. | xlii | xx | xliii | iv
+23 | B. | | xliv | xxi | xlv | v
+24 | C. | | xlvi | xxii | xlvii | vi
+25 | D. | Convers: of S. Paul. | | | |
+26 | E. | | xlviii | xxiii | xlix | vii
+27 | F. | | l. | xxiv. | Exod. i. | viii
+28 | G. | | Exod. 2. | xxv | iii | ix
+29 | A. | | iiii | xxvi | v | x
+30 | B. | K. Charles Mart. | vi * | xxvii | vii | xi
+31 | C. | | viii | xxviii | ix | xii
+note: Note, that * Exodus 6. is to be read only to vr. 14.
+
+## February 45
+1 | D | Fast | Exod. 10. | Mark. 1. | Exod. 11. | i. Cor. 13
+2 | E | Purif. of Marie ye B. Virg. | | ii | | xiv
+3 | F | Blasius an Armen. B. & M. | xii | iii | xiii | xv
+4 | G | | xiv | iv | xv | xvi
+5 | A | Agatha, a Sicilian V. & M. | xvi | v | xvii | 2. Cor. 1.
+6 | B | | xviii | vi | xix | ii
+7 | C | | xx | vii | xxi | iii
+8 | D | | xxii | viii | xxiii | iv
+9 | E | | xxiv | ix | xxxii | v
+10 | F | | xxxiii | x | xxxiv | vi
+11 | G | | Levit. 18. | xi | Levit 19. | vii
+12 | A | | xx | xii | xxvi | viii
+13 | B | | Num. 11. | xiii | Num. 12. | ix
+14 | C | Valentine Bish. & M. | xiii | xiv | xiv | x
+15 | D | | xvi | xv | xvii | xi
+16 | E | | xx | xvi | xxi | xii
+17 | F | | xxii | Luke 1. to 39. | xxiii | xiii
+18 | G | | xxiv | 1. 39 | xxv | Gal. 1.
+19 | A | | xxvii | ii | xxx | ii
+20 | B | | xxxi | iii | xxxii | iii
+21 | C | | xxxv | iv | xxxvi | iv
+22 | D | | Deut. 1. | v | Deut. 2. | v
+23 | E | Fast | iii | vi | iv | vi
+24 | F | Matthias Apost. & M. | | vii | | Eph. 1.
+25 | G | | v | viii | vi | ii
+26 | A | | vii | ix | viii | iii
+27 | B | | ix | x | x | iv
+28 | C | | xi | xi | xii | v
+29 | | | xiii | Matt. 7. | xiiii | Rom. 12.
+
+## March 46
+1 | D | David Arch-B. of Menevia | Deut. 15. | Luke. 12. | Deut. 16. | Eph. 6.
+2 | E | Cedde, or Chad B. of Litchf. | xvii | xiii | xviii | Phil. 1.
+3 | F | | xix | xiv | xx | ii
+4 | G | | xxi | xv | xxii | iii
+5 | A | | xxiv | xvi | xxv | iv
+6 | B | | xxvi | xvii | xxvii | Col. 1.
+7 | C | Perpetua Mauritan. M. | xxviii | xviii | xxix | ii
+8 | D | | xxx | xix | xxxi. | iii
+9 | E | | xxxii | xx | xxxiii | iv
+10 | F | | xxxiv | xxi | Josh. 1. | 1. Thes. 1.
+11 | G | | Josh. 2. | xxii | iii | ii
+12 | A | Gregoriꝰ M. B. of Rome, & C | iv | xxiii | v | iii
+13 | B | | vi | xxiv | vii | iv
+14 | C | | viii | John. 1. | ix | v
+15 | D | | x | ii | xxiii | 2. Thes. 1.
+16 | E | | xxiv | iii | Judg. 1. | ii
+17 | F | | Iudg. 2. | iv | iii. | iii
+18 | G | Edward K. of ye West Saxons | iv | v | v | 1. Tim. 1
+19 | A | | vi | vi | vii | ii, iii.
+20 | B | | viii | vii | ix | iv
+21 | C | Benedict Abbot | x | viii | xi | v
+22 | D | | xii | ix | xiii | vi
+23 | E | | xiv | x | xv | 2. Tim. 1.
+24 | F | Fast | xvi | xi | xvii | ii
+25 | G | Annunc. of Mary | | xii | | iii
+26 | A | | xviii | xiii | xix | iv
+27 | B | | xx | xiv | xxi | Titus. 1.
+28 | C | | Ruth. 1. | xv | Ruth 2. | ii, iii
+29 | D | | iii | xvi | iv | Philem.
+30 | E | | 1. Sam. 1. | xvii | 1. Sam. 2. | Hebr. 1.
+31 | F | | iii | xviii | iv | ii
+
+## April 47
+1 | G | | 1. Sam. 5. | Joh. 19. | 1. Sam. 6. | Hebr. 3.
+2 | A | | vii | xx | viii | iv
+3 | B | Richard B. of Chichester | ix | xxi | x | v
+4 | C | Ambrose B. of Millan. | xi | Acts. 1 | xii | vi
+5 | D | | xiii | ii | xiiii | vii
+6 | E | | xv | iii | xvi | viii
+7 | F | | xvii | iv | xviii | ix
+8 | G | | xix | v | xx | x
+9 | A | | xxi | vi | xxii | xi
+10 | B | | xxiii | vii | xxiv | xii
+11 | C | | xxv | viii | xxvi | xiii
+12 | D | | xxvii | ix | xxviii | Jam. 1.
+13 | E | | xxix | x | xxx | ii.
+14 | F | | xxxi | xi | 2. Sam. 1. | iii
+15 | G | | 2. Sam. 2. | xii | iii | iv
+16 | A | | iv | xiii | v | v
+17 | B | | vi | xiv | vii | 1. Pet. 1.
+18 | C | | viii | xv | ix | ii
+19 | D | Alphege Arch-B. of Cant. | x | xvi | xi | iii
+20 | E | | xii | xvii | xiii | iv
+21 | F | | xiv | xviii | xv | v
+22 | G | | xvi | xix | xvii | 2. Pet. 1.
+23 | A | S. George M. | xviii | xx | xix | ii
+24 | B | | xx | xxi | xxi | iii
+25 | C | S. Mark Evang. & Mart. | | xxii | | 1. Joh. 1.
+26 | D | | xxii | xxiii | xxiii | ii
+27 | E | | xxiv | xxiv | 1. Kings. 1. | iii
+28 | F | | 1. Kings. 2. | xxv | iii | iv
+29 | G | | iv | xxvi | v | v
+30 | A | | vi | xxvii | vii | 2, 3. John
+
+## May 48
+1 | B | S. Phil & S. Jac Ap. & M. | | | | Iude
+2 | C | | 1. Kings. 8. | Acts 28. | 1. Kings. 9. | Rom. 1.
+3 | D | Invention of the Cross. | x | Mat. 1. | xi | ii
+4 | E | | xii | ii | xiii | iii
+5 | F | | xiv | iii | xv | iv
+6 | G | S. John Evang. ante port. latin. | xvi | iv | xvii | v
+7 | A | | xviii | v | xix | vi
+8 | B | | xx | vi | xxi | vii
+9 | C | | xxii | vii | 2. Kings. 1 | viii
+10 | D | | 2. Kings. 2. | viii | iii | ix
+11 | E | | iv | ix | v | x
+12 | F | | vi | x | vii | xi
+13 | G | | viii | xi | ix | xii
+14 | A | | x | xii | xi | xiii
+15 | B | | xii | xiii | xiii | xiv
+16 | C | | xiiii | xiv | xv | xv
+17 | D | | xvi | xv | xvii | xvi
+18 | E | | xviii | xvi | xix | 1. Cor. 1.
+19 | F | Dunstan Arch. B. of Cant. | xx | xvii | xxi | ii
+20 | G | | xxii | xviii | xxiii | iii
+21 | A | | xxiv | xix | xxv | iv
+22 | B | | Esra. 1. | xx | Esra 3. | v
+23 | C | | iv | xxi | v | vi
+24 | D | | vi | xxii | vii | vii
+25 | E | | ix | xxiii | Neh. 1. | viii
+26 | F | Aug: ye first Arch B. of Cant. | Neh. 2. | xxiv | iv | ix
+27 | G | Ven. Bede pr. | v | xxv | vi | x
+28 | A | | viii | xxvi | ix | xi
+29 | B | CH. II. Nat. et Ret. | x | xxvii | xiii | xii
+30 | C | | Ester. 1. | xxviii | Ester 2. | xiii
+31 | D | | iii | Mark. 1. | iv | xiv
+
+## June 49
+# read off Wikimedia's 1920px render (R14); '??' marks a cell the render cannot settle
+1 | E | Nicomede Rom. Pr. & M. | Ester. 5. | Mark. 2. | Ester 6. | 1. Cor. 15.
+2 | F | | vii | iii | viii | xvi
+3 | G | | ix | iv | Iob. 1. | 2. Cor. 1.
+4 | A | | Iob. 2. | v | iii | ii
+5 | B | Boniface B. of Mentz & M. | iv | vi | v | iii.
+6 | C | | vi | vii | vii | iv
+7 | D | | viii | viii | ix | v
+8 | E | | x | ix | xi | vi
+9 | F | | xii | x | xiii | vii
+10 | G | | xiv | xi | xv | viii
+11 | A | S. Barnab, Apost. & M. ?? the stop after Barnab: a comma at 1920px; a full stop cannot be ruled out | | | |
+12 | B | | xvi | xii | xvii. xviii. | ix
+13 | C | | xix | xiii | xx | x
+14 | D | | xxi | xiv | xxii | xi
+15 | E | | xxiii | xv | xxiv. xxv. | xii
+16 | F | | xxvi xxvii. ?? no stop visible between the two chapters at 1920px | xvi | xxviii | xiii
+17 | G | S. Alban M. | xxix | Luke. 1. | xxx | Galat. 1.
+18 | A | | xxxi | ii | xxxii | ii
+19 | B | | xxxiii | iii | xxxiv | iii
+20 | C | Transl: of Edwd K. of ye W. Sax. | xxxv | iv | xxxvi | iv
+21 | D | | xxxvii | v | xxxviii | v
+22 | E | | xxxix | vi | xl | vi
+23 | F | Fast | xli | vii | xlii | Eph. 1.
+24 | G | Nativ. of S. John Bapt: | | | |
+25 | A | | Prov. 1 | viii | Prov. 2. | ii
+26 | B | | iii | ix | iv | iii
+27 | C | | v | x | vi | iv
+28 | D | Fast | vii | xi | viii | v
+29 | E | S. Pet. Apost. & M. | | | |
+30 | F | | ix | xii | x | vi
+
+## July 50
+1 | G | | Prov: 11. | Luke: 13. | Prov: 12. | Phil. 1.
+2 | A | Visit: of ye Bl. Virg. Marie. | xiii | xiv | xiv | ii
+3 | B | | xv | xv | xvi | iii
+4 | C | Transl: of S. Martin B. & C. | xvii | xvi | xviii | iv
+5 | D | | xix | xvii | xx | Col. 1.
+6 | E | | xxi | xviii | xxii | ii
+7 | F | | xxiii | xix | xxiv | iii
+8 | G | | xxv | xx | xxvi | iv
+9 | A | | xxvii | xxi | xxviii | i. Thes. 1.
+10 | B | | xxix | xxii | xxxi | ii
+11 | C | | Eccles. 1. | xxiii | Eccles. 2. | iii
+12 | D | | iii | xxiv | iv | iv
+13 | E | | v | Ioh. 1. | vi | v
+14 | F | | vii | ii | viii | 2. Thes. 1.
+15 | G | Swithun B. of Winch. Transl. | ix | iii | x | ii
+16 | A | | xi | iv | xii | iii
+17 | B | | Ierem. 1. | v | Ierem. 2. | 1. Tim. 1.
+18 | C | | iii | vi | iv | ii. iii.
+19 | D | | v | vii | vi | iv
+20 | E | Margaret V. & M. at Antioch. | vii | viii | viii | v
+21 | F | S. Marie Magdalen. | ix | ix | x | vi
+22 | G | | xi | x | xii | 2. Tim. 1.
+23 | A | | xiii | xi | xiv | ii
+24 | B | Fast | xv | xii | xvi | iii.
+25 | C | S. Iames Apost. & M. | | xiii | | iv
+26 | D | S. Anne, mother to ye Bl. V. M. ?? the letters after 'Bl.' are broken in the print (both renders): an upright stroke, a stop, part of an M, a stop; 'V. M.' is what the fragments allow, not what they show | xvii | xiv | xviii | Titus 1.
+27 | E | | xix | xv | xx | ii. iii.
+28 | F | | xxi | xvi | xxii | Philem.
+29 | G | | xxiii | xvii | xxiv | Hebr. 1.
+30 | A | | xxv | xviii | xxvi | ii
+31 | B | | xxvii | xix | xxviii | iii
+
+## August 51
+1 | C | Lammas day. | Ierem. 29. | Ioh. 20. | Ierem. 30 | Hebr. 4.
+2 | D | | xxxi | xxi | xxxii | v
+3 | E | | xxxiii | Acts. 1. | xxxiv | vi
+4 | F | | xxxv | ii | xxxvi | vii
+5 | G | | xxxvii | iii | xxxviii | viii
+6 | A | Transfigur. of our Lord. | xxxix | iv | xl | ix
+7 | B | Name of Iesus. | xli | v | xlii | x
+8 | C | | xliii | vi | xliv | xi
+9 | D | | xlv. xlvi. | vii | xlvii | xii
+10 | E | S. Laur. Arch D. of Rom. & M. | xlviii | viii | xlix | xiii
+11 | F | | L | ix | Li | Jam. 1.
+12 | G | | Lii | x | Lam: 1. | ii
+13 | A | | Lam: 2 | xi | iii | iii
+14 | B | | iv | xii | v | iv
+15 | C | | Ezek. 2. | xiii | Ezek. 3. | v
+16 | D | | vi | xiv | vii | 1. Pet. 1.
+17 | E | | xiii | xv | xiv | ii
+18 | F | | xviii | xvi | xxxiii | iii
+19 | G | | xxxiv | xvii | Dan. 1. | iv
+20 | A | | Dan. 2. | xviii | iii | v
+21 | B | | iv | xix | v | 2. Pet. 1.
+22 | C | | vi | xx | vii | ii
+23 | D | Fast. | viii | xxi | ix | iii
+24 | E | S. Barth. Apost. & M. | | xxii | | 1. John. 1
+25 | F | | x | xxiii | xi | ii
+26 | G | | xii | xxiv | Hos. 1. | iii
+27 | A | | Hos. 2. 3. | xxv | iv | iv
+28 | B | S. Aug. B. of Hippo. C. D. | v. vi. | xxvi | vii | v
+29 | C | Behead: of S. Iohn Bapt. | viii | xxvii | ix | 2. 3. Iohn.
+30 | D | | x | xxviii | xi | Jude.
+31 | E | | xii | Matt. 1. | xiii | Rom. 1.
+
+## September 52
+1 | F | Giles Abbot & Conf. | Hos. 14. | Mat. 2. | Ioel. 1. | Rom. 2
+2 | G | | Joel. 2. | iii. | iii | iii
+3 | A | | Amos. 1. | iv | Amos 2. | iv
+4 | B | | iii | v | iv | v
+5 | C | | v | vi | vi | vi
+6 | D | | vii | vii | viii | vii
+7 | E | Enurchus B. of Orleans | ix | viii | Obadiah | viii
+8 | F | Nativ. of ye Bl. Virg. Mary | Ionah. 1. | ix | Ionah. 2 3. | ix
+9 | G | | iv | x | Mich. 1. | x
+10 | A | | Micha. 2. | xi | iii | xi
+11 | B | | iv | xii | v | xii
+12 | C | | vi | xiii | vii | xiii
+13 | D | | Nahum. 1. | xiv | Nahum. 2. | xiv
+14 | E | Holy crosse day | iii | xv | Habak. 1. | xv
+15 | F | | Habak. 2 | xvi | iii | xvi
+16 | G | | Zeph. 1. | xvii | Zeph. 2. | 1. Cor. 1.
+17 | A | Lambert B. & M. | iii. | xviii | Hagg. 1. | ii
+18 | B | | Hagg. 2. | xix | Zech. 1. | iii
+19 | C | | Zech. 2. 3. | xx | iv. v. | iv
+20 | D | Fast | vi | xxi | vii | v
+21 | E | S. Mat. Ap. Evang. & M. | | xxii | | vi
+22 | F | | viii | xxiii | ix | vii
+23 | G | | x | xxiv | xi | viii
+24 | A | | xii | xxv | xiii | ix
+25 | B | | xiv | xxvi | Mal. 1. | x
+26 | C | S. Cypr: Ar. B. of Carth & M. | Mal. 2 | xxvii | iii | xi
+27 | D | | iv | xxviii | Tob. 1 | xii
+28 | E | | Tob. 2 | Mark. 1. | iii | xiii
+29 | F | S. Mich. & all Angels | | ii | | xiv
+30 | G | S. Hierome Pr. Conf. & Doct. | iv | iii | vi | xv
+
+## October 53
+1 | A | Remigius B. of Rhemes | Tob. 7. | Mark. 4. | Tob. 8. | 1. Cor. 16.
+2 | B | | ix | v | x | 2. Cor. 1.
+3 | C | | xi | vi | xii | ii
+4 | D | | xiii | vii | xiv | iii
+5 | E | | Judeth. 1. | viii | Iudeth 2. | iv
+6 | F | Faith Virg. & M. | iii | ix | iv | v
+7 | G | | v | x | vi | vi
+8 | A | | vii | xi | viii | vii
+9 | B | S. Denys Areop. B. & M. | ix | xii | x | viii
+10 | C | | xi | xiii | xii | ix
+11 | D | | xiii | xiv | xiv | x
+12 | E | | xv | xv | xvi | xi
+13 | F | Transl. of K. Edward Conf. | Wisd. 1. | xvi | Wisd. 2. | xii
+14 | G | | iii | Luke 1. to 39. | iv | xiii
+15 | A | | v | i. 39. | vi | Gal. 1.
+16 | B | | vii | ii | viii | ii.
+17 | C | Ethelrede Virg. | ix | iii | x | iii
+18 | D | S. Luke Evang. | | iv | | iv
+19 | E | | xi | v | xii | v
+20 | F | | xiii | vi | xiv | vi
+21 | G | | xv | vii | xvi | Ephes. 1.
+22 | A | | xvii | viii | xviii | ii
+23 | B | | xix | ix | Ecclus. i. | iii
+24 | C | | Ecclus. 2. | x | iii | iv
+25 | D | Crispine Mart. | iv | xi | v | v
+26 | E | | vi | xii | vii | vi
+27 | F | Fast | viii | xiii | ix | Phil. 1.
+28 | G | S. Sim. & S. Jud. Ap. & M. | | xiv | | ii
+29 | A | | x | xv | xi | iii
+30 | B | | xii | xvi | xiii | iv
+31 | C | Fast | xiv | xvii | xv | Col. 1.
+
+## November 54
+1 | D | All Saints day. | | | |
+2 | E | | Ecclus. 16. | Luke. 18. | Eclus. 17. | Coloss. 2.
+3 | F | | xviii | xix | xix | iii
+4 | G | | xx | xx | xxi | iv
+5 | A | Papists Conspiracy | xxii | xxi | xxiii | 1. Thes. 1.
+6 | B | Leonard Confess. | xxiv | xxii | xxv a) | ii
+7 | C | | xxvii | xxiii | xxviii | iii
+8 | D | | xxix | xxiv | xxx b) | iv
+9 | E | | xxxi | John. 1 | xxxii | v
+10 | F | | xxxiii | ii | xxxiv | 2 Thes. 1.
+11 | G | S. Martin B. & Conf: | xxxv | iii | xxxvi | ii.
+12 | A | | xxxvii | iv | xxxviii | iii
+13 | B | Britius Bishop | xxxix | v | xl | 1. Tim. i.
+14 | C | | xli | vi | xlii | ii. iii.
+15 | D | Machutus B. | xliii | vii | xliv | iv
+16 | E | | xlv | viii | xlvi c) | v
+17 | F | Hugh B. of Lincoln. | xlvii | ix | xlviii | vi
+18 | G | | xlix | x | L | 2. Tim. i
+19 | A | | Li. | xi | Baruch. 1. | ii
+20 | B | Edmund K. & M. | Baruch. 2. | xii | iii | iii
+21 | C | | iv | xiii | v | iv
+22 | D | Cecilia Virg. & M. | vi | xiv | Hist. of Susan. | Titus i
+23 | E | S. Clemt. 1. B. of Rom. & M. | Bel & ye Drag. | xv | Isai. 1. | ii. iii
+24 | F | | Jsai. 2 | xvi | iii | Philemon
+25 | G | Catherine Virg. & M. | iv | xvii | v | Hebr. 1.
+26 | A | | vi | xviii | vii | ii
+27 | B | | viii | xix | ix | iii
+28 | C | | x | xx | xi | iv
+29 | D | Fast | xii | xxi | xiii | v
+30 | E. | S. Andr. Apost. & M. | | Acts. 1. | | vi
+note: Note that a) Ecclus 25.—. is to be read onely to vr. 13. & b) Ecclus 30.—onely to vr. 18. & c) Ecclus 46.—onely to vr. 20.
+
+## December 55
+1 | F | | Isai. 14. | Acts. 2. | Isai 15. | Hebr. 7.
+2 | G | | xvi | iii | xvii | viii
+3 | A | | xviii | iv | xix | ix
+4 | B | | xx. xxi. | v | xxii | x
+5 | C | | xxiii | vi | xxiv | xi
+6 | D | Nicholas B. of Myra in Lycia | xxv | 7. to vr. 30. | xxvi | xii
+7 | E | | xxvii | 7. 30. | xxviii | xiii
+8 | F | Concep: of ye Bl. V. Mary. | xxix | viii | xxx | Jam. 1.
+9 | G | | xxxi | ix | xxxii | ii
+10 | A | | xxxiii | x | xxxiv | iii
+11 | B | | xxxv | xi | xxxvi | iv
+12 | C | | xxxvii | xii | xxxviii | v
+13 | D | Lucie Virg. & M. | xxxix | xiii | xl | 1. Pet. 1.
+14 | E | | xli | xiv | xlii | ii
+15 | F | | xliii | xv | xliv | iii
+16 | G | O Sapientia. | xlv | xvi | xlvi | iv
+17 | A | | xlvii | xvii | xlviii | v
+18 | B | | xlix | xviii | L | 2. Pet. 1.
+19 | C | | Li | xix | Lii | ii
+20 | D | Fast | Liii | xx | Liv | iii
+21 | E | S Thomos Apost. & M. | | xxi | | 1. John 1.
+22 | F | | Lv | xxii | Lvi | ii
+23 | G | | Lvii | xxiii | Lviii | iii
+24 | A | Fast | Lix | xxiv | Lx | iv
+25 | B | Christmas day. | | | |
+26 | C | S. Steph. ye first Mart. | | | |
+27 | D | S. John Apost. & Evang. | | | |
+28 | E | Jnnocents day. | | xxv | | v
+29 | F | | Lxi | xxvi | Lxii | 2. Iohn
+30 | G | | Lxiii | xxvii | Lxiv | 3. Iohn.
+31 | A | Silvester B. of Rome. | Lxv | xxviii | Lxvi. | Iude.

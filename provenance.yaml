@@ -11893,30 +11893,57 @@ records:
     verify_items: []
   - edition: 1662
     service: front-matter/order-how-psalter-appointed
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf"
+    retrieved: 2026-09-25
+    status: transcribed
     depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. The Church of England text of this rubric is the post-1922 recension (it refers to alternative Second Lessons appointed in the Table). 1662 inherits 1559; the 1662 book did print its own."
+    verifier: "claude-opus-5.5 (Wave 20: two machine reads + eye read of every cell off 4400px crops)"
+    note: "Wave 20: TRANSCRIBED FROM THE ANNEXED BOOK -- the manuscript annexed to the Act of Uniformity 1662, in Her Majesty's Printing Office's 1892 type-reproduction (https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf, PD-US). It is the ONLY allow-listed source for this section, so every word is taken from it, in the manuscript's own spelling (RULINGS R12): its preface disclaims the MS as a standard of orthography, so these spellings are the manuscript's, not those of the printed Sealed Books of 1662. Superscript letters are set inline (Ld, ye), a sign standing for missing letters is set (Gregorius as Gregori + U+A770; Annunciation's n-tilde; Immoveable's m-macron), a mark that only flags an abbreviation is not (R16). Pages were rendered with pypdf + Quick Look, deskewed, and read with macOS Vision (language correction off); see ingest/WAVE20_GUIDE.md. The Order how the Psalter is appointed to be read, PDF p. 34, read twice by machine (A and B) and by eye; every word is attested by at least one machine read except where both dropped a line, which the eye read settles (none dropped). Line-end hyphens are rejoined and the 1892 compositor's space before ; and : is closed up, except the Gloria's pointing colon (R16). The build's sentence splitter breaks a line after a numeral's stop (\"K.\" / \"H.\" / \"viii.\"), exactly as it does in the published 1549 rubric."
     verify_items: []
   - edition: 1662
     service: front-matter/order-how-rest-of-scripture
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf"
+    retrieved: 2026-09-25
+    status: transcribed
     depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. Post-1922 recension on the CoE site; 1662 inherits 1559."
+    verifier: "claude-opus-5.5 (Wave 20: two machine reads + eye read of every cell off 4400px crops)"
+    note: "Wave 20: TRANSCRIBED FROM THE ANNEXED BOOK -- the manuscript annexed to the Act of Uniformity 1662, in Her Majesty's Printing Office's 1892 type-reproduction (https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf, PD-US). It is the ONLY allow-listed source for this section, so every word is taken from it, in the manuscript's own spelling (RULINGS R12): its preface disclaims the MS as a standard of orthography, so these spellings are the manuscript's, not those of the printed Sealed Books of 1662. Superscript letters are set inline (Ld, ye), a sign standing for missing letters is set (Gregorius as Gregori + U+A770; Annunciation's n-tilde; Immoveable's m-macron), a mark that only flags an abbreviation is not (R16). Pages were rendered with pypdf + Quick Look, deskewed, and read with macOS Vision (language correction off); see ingest/WAVE20_GUIDE.md. The Order how the rest of Holy Scripture is appointed to be read, PDF p. 35, read twice by machine (A and B) and by eye; every word is attested by at least one machine read except where both dropped a line, which the eye read settles (the last line, \"time.\"). Line-end hyphens are rejoined and the 1892 compositor's space before ; and : is closed up, except the Gloria's pointing colon (R16). The build's sentence splitter breaks a line after a numeral's stop (none in this rubric), exactly as it does in the published 1549 rubric. The accent over the n of \"Lessons\" is not carried (R16)."
     verify_items: []
   - edition: 1662
     service: tables/calendar
-    source_url: "(no allow-listed source for this edition)"
-    retrieved: 2026-09-02
-    status: inherited-unreviewed
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf"
+    retrieved: 2026-09-25
+    status: transcribed
     depth: table
-    verifier: "claude-opus-5 (scripted ingest + column-count gates)"
-    note: "RECORDED GAP. The Church of England serves only the POST-1922 recension of the Kalendar (verse-level citations, \"or\" alternatives, and three PDFs that are explicitly the Revised Tables of Lessons Measure 1922). No allow-listed source gives 1662's own Kalendar, so 1662 inherits 1559. THE 1662 BOOK DID PRINT ITS OWN KALENDAR: this is a transcription gap, not a claim that 1662 reprinted 1559."
+    verifier: "claude-opus-5.5 (Wave 20: two machine reads + eye read of every cell off 4400px crops)"
+    note: "Wave 20: TRANSCRIBED FROM THE ANNEXED BOOK -- the manuscript annexed to the Act of Uniformity 1662, in Her Majesty's Printing Office's 1892 type-reproduction (https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf, PD-US). It is the ONLY allow-listed source for this section, so every word is taken from it, in the manuscript's own spelling (RULINGS R12): its preface disclaims the MS as a standard of orthography, so these spellings are the manuscript's, not those of the printed Sealed Books of 1662. Superscript letters are set inline (Ld, ye), a sign standing for missing letters is set (Gregorius as Gregori + U+A770; Annunciation's n-tilde; Immoveable's m-macron), a mark that only flags an abbreviation is not (R16). Pages were rendered with pypdf + Quick Look, deskewed, and read with macOS Vision (language correction off); see ingest/WAVE20_GUIDE.md. The Kalendar, PDF pp. 44-55, one month a page. Rows are recovered from PIXEL POSITION (the Roman-date column prints one entry per day and gives each row its y), never from text order. Every kept cell was read three ways: OCR of the cell cut out of the local render (A), OCR of the same cell in Wikimedia's own render of the file (B), and an eye read of 4400px crops, which is what is printed here (ingest/w20_kal_eye.txt; the audit is ingest/w20_kal_check.json). Structural checks, all clean: every month has its printed rows (February prints a 29th); the Sunday letters run A-G unbroken through all 365 days; every row with four blank lesson cells is a holy day; the second lessons run on chapter by chapter with no gap; the Old Testament course has 23 skips, each re-read at pixel level and each the book's own omission. Where A and B agreed against the eye read (39 cells), every one was re-read; the eye read stood in all 39 (Vision drops an i or reads xv as \"AX\"). JUNE (p. 49): the local JBIG2 decoder draws the page blank (\"Too many symbols in JBIG2 symbol dictionary\"), so June is read from Wikimedia's server-side render of the same file (page49-1920px thumbnail, fetched by ingest/w20_fetch.py) -- the same witness through another decoder, never counted as corroboration (R14). SCHEMA (R13): chapter numerals are converted to arabic with the printed extent kept (Luke 1. to 39); the cell-final stop is dropped; the Golden Number, the Roman date and the lunar line are excluded as computational apparatus, as they were at 1549-1559; 1662 prints no Psalter-day column, so the rows carry none. The two month footnotes are Footnote rows. SIC, read clearly and kept: the 29th of February prints Matt. 7 and Rom. 12, which break both second-lesson sequences; 21 December prints \"S Thomos\"; 30 September reads Tob. 4 / Tob. 6. Typeface (bold holy days, italic commemorations) is not encoded (R16)."
+    verify_items:
+      - anchor: "calendar"
+        source_reading: "S. Barnab, Apost. & M."
+        note: "June 11, Kalendar Note: the stop after Barnab: a comma at 1920px; a full stop cannot be ruled out (Annexed Book, PDF p. 49)"
+      - anchor: "calendar"
+        source_reading: "26 27"
+        note: "June 16, Morning 1: no stop visible between the two chapters at 1920px (Annexed Book, PDF p. 49)"
+      - anchor: "calendar"
+        source_reading: "S. Anne, mother to ye Bl. V. M."
+        note: "July 26, Kalendar Note: the letters after 'Bl.' are broken in the print (both renders): an upright stroke, a stop, part of an M, a stop; 'V. M.' is what the fragments allow, not what they show (Annexed Book, PDF p. 50)"
+  - edition: 1662
+    service: tables/proper-lessons
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf"
+    retrieved: 2026-09-25
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5.5 (Wave 20: two machine reads + eye read of every cell off 4400px crops)"
+    note: "Wave 20: TRANSCRIBED FROM THE ANNEXED BOOK -- the manuscript annexed to the Act of Uniformity 1662, in Her Majesty's Printing Office's 1892 type-reproduction (https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf, PD-US). It is the ONLY allow-listed source for this section, so every word is taken from it, in the manuscript's own spelling (RULINGS R12): its preface disclaims the MS as a standard of orthography, so these spellings are the manuscript's, not those of the printed Sealed Books of 1662. Superscript letters are set inline (Ld, ye), a sign standing for missing letters is set (Gregorius as Gregori + U+A770; Annunciation's n-tilde; Immoveable's m-macron), a mark that only flags an abbreviation is not (R16). Pages were rendered with pypdf + Quick Look, deskewed, and read with macOS Vision (language correction off); see ingest/WAVE20_GUIDE.md. The Proper Lessons, PDF pp. 36-38: ONE table in two sections (Sundays; Holy-days), each row an occasion with Mattens and Evensong readings -- not the ~30 per-occasion tables SOURCES.md recorded for 1549-1662, so the 1789 row model fits and is used (R15). A Sunday row carries the first lessons it prints; an occasion's \"1. Lesson\" / \"2. Lesson\" sub-rows are folded into its one row. The occasion column is set as printed, ordinals and all (ii, xiv), since those are labels, not chapters (R13). Every occasion was read by eye off 4400px crops (ingest/w20_pl_eye.txt). Machine check (ingest/w20_pl_check.json): each column was OCR'd as a strip on both renders and every eye token looked for in its own column within a 15%% window of its place; 457 of 693 tokens were found, and the rest are dominated by the italic \"vr\" and \"to\" that Vision garbles; the test's sensitivity was proved by injecting readings the table prints nowhere (all three caught). The Sunday first lessons run on in book order with no backward step in 56 rows. The mark the type sets over \"Ecclus\" (a tilde on p. 26, a cross-like flourish on p. 27, a struck l in the Kalendar) is taken as the abbreviation flag it sits in place of, and not carried (R16); \"S. Simon\" has four minims before \"on\", the dot of the i lost."
+    verify_items: []
+  - edition: 1662
+    service: tables/proper-psalms
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf"
+    retrieved: 2026-09-25
+    status: transcribed
+    depth: table
+    verifier: "claude-opus-5.5 (Wave 20: two machine reads + eye read of every cell off 4400px crops)"
+    note: "Wave 20: TRANSCRIBED FROM THE ANNEXED BOOK -- the manuscript annexed to the Act of Uniformity 1662, in Her Majesty's Printing Office's 1892 type-reproduction (https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf, PD-US). It is the ONLY allow-listed source for this section, so every word is taken from it, in the manuscript's own spelling (RULINGS R12): its preface disclaims the MS as a standard of orthography, so these spellings are the manuscript's, not those of the printed Sealed Books of 1662. Superscript letters are set inline (Ld, ye), a sign standing for missing letters is set (Gregorius as Gregori + U+A770; Annunciation's n-tilde; Immoveable's m-macron), a mark that only flags an abbreviation is not (R16). Pages were rendered with pypdf + Quick Look, deskewed, and read with macOS Vision (language correction off); see ingest/WAVE20_GUIDE.md. Proper Psalms on certein Daies, PDF p. 38, printed below the Holy-day lessons. v1662 carried no Proper Psalms file before this wave, and no gap was recorded for it -- a silent absence, now closed (R15). Six occasions; the stacked psalm numbers are joined with \", \" and the pilcrows and the \"Psalm.\" column head are not carried, as in 1789's rows (R16). Ascension evening reads cviii (108)."
     verify_items: []
   - edition: 1892
     service: tables/calendar

@@ -18,6 +18,46 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 20 (the 1662 Kalendar and its tables) BUILT + COMMITTED, NOT PUBLISHED (2026-09-25)
+
+**Committed on `authoring`; NOT published (R4 — needs the maintainer's
+go-ahead).** A full `build_history.py` build changes `texts/` ONLY at `v1662`
+(10 files: five cells in `original/` and `normalized/`); the other eleven tags
+are byte-identical in `texts/` and differ only in NOTICE/README/SOURCES and
+`tools/sentence_split.py`. Every built tag passes `sentence_split --check`,
+`normalize --check` and published-context `verify_index`; no U+FFFD.
+**To publish** — the six steps in the Wave-15 block, unchanged. Remember the
+Wave-18 gotcha: delete or never create scratch tags before `--tags` (this
+wave's scratch build fetched the live tags as `refs/live/*` in the scratch repo
+only).
+
+Guide: `ingest/WAVE20_GUIDE.md`. Rulings **R12–R17** in `RULINGS.md` (four
+from the maintainer at the start of the wave; the rest recorded as each call
+was made, at the maintainer's instruction to record every decision point).
+
+What it did: transcribed from the Annexed Book (Wave 18's witness) the 1662
+**Kalendar** (366 rows), **Table of Proper Lessons** (one table: 56 Sunday +
+33 Holy-day rows), **Proper Psalms** (six; `v1662` had none, silently), and
+**both reading rubrics** — in the MS's own spelling (R12). The `SOURCES.md` gap
+row "1662 | Kalendar, Proper Lessons, both rubrics" is gone; "1549–1662 |
+Proper Lessons" is narrowed to 1549–1604 (1662 prints ONE table, R15).
+**June (PDF p. 49) is blank in every local renderer** (a JBIG2 mask Apple's
+decoder rejects); it is read from Wikimedia's own render of the file (R14).
+3 new flags (June 11, June 16, July 26). `sentence_split.py` now keeps a
+` | ` row whole (R17), proved not to change any pre-existing file's output.
+
+Scripts: `w20_fetch.py`, `w20_kal_read.py`, `w20_kal.py`, `w20_pl.py`,
+`w20_cite.py`, `w20_norm.py`, `w20_cellcrop.py`, `w20_bands.py`,
+`w20_gates.py`, `w20_docs.py`, `gen_wave20_provenance.py`; Swift tools
+`w20_grid` (deskew + rules), `w20_cells` (per-rect OCR), `w20_strip` (stack
+crops); the eye reads `w20_kal_eye.txt`, `w20_pl_eye.txt`; the record
+`w20_kal_reads.json`, `w20_kal_check.json`, `w20_pl_check.json`,
+`w20_evidence.json`. Amended: `w14_audit.py` (KNOWN_GOOD for 1662's
+per-occasion lesson counts), `w15_audit.py` (1662's capital Sunday letters),
+`w18_gates.py` (its flag count now covers only the cells Wave 18 read).
+
+---
+
 ## CURRENT — WAVE 19 (the 1979 text vs the publisher's file) DONE + PUBLISHED (2026-09-25)
 
 **PUBLISHED 2026-09-25 (force-pushed with maintainer go-ahead). Published tips:
@@ -1481,7 +1521,10 @@ planning around them.
    open flags** — the most of any tag — plus the known e-text damage
    (`acknoledge`, `therfore`, three collects truncated in the keying, dropped
    headings).
-2. **The 1662 Kalendar and Table of Proper Lessons.** Wave 18 turned this from
+2. **DONE (Wave 20, 2026-09-25): the 1662 Kalendar, Proper Lessons, Proper
+   Psalms and both rubrics**, from the Annexed Book; see the Wave 20 block.
+   The original entry, kept for the record: **The 1662 Kalendar and Table of
+   Proper Lessons.** Wave 18 turned this from
    "no allow-listed source" into "source in hand, not yet transcribed": the
    Annexed Book prints both, at scan pages ~42-56, and the PDF is already in
    `scrape-cache/`. Fiddlier than prose — it is table transcription off OCR,
@@ -1570,7 +1613,8 @@ Named items, highest value first:
   The scan pipeline is Wave 18's (`w18_render.py`, `w18_scan.py`,
   `w18_read.py`, `w18_psalter.py`), parameterized by PDF and page range.
 - **1789's Ascension-day proper psalms, "24, 47, 103"** (Wave 16 lead, NOT a
-  correction). At 1892 the same row reads 24, 47, 108 on two witnesses. The
+  correction). Context from Wave 20, NOT evidence for 1789 (R2): the 1662
+  Annexed Book prints Ascension evening as xxiv, xlvii, cviii (108). At 1892 the same row reads 24, 47, 108 on two witnesses. The
   1789 cell's "103" comes from one OCR'd page and may be the same class of
   misreading, but nothing attests that; check a 1789 scan before touching it.
 - **The Psalter's recorded gaps** (Wave 13): 1549-1604 (no source; the Psalter
@@ -1581,13 +1625,12 @@ Named items, highest value first:
   and the dated change table disagree, and misprinted psalm numbers 180/190 in
   the 1892 Proper Psalms table.
 - **The tables not yet transcribed** (Wave 14 recorded gaps, all in SOURCES.md):
-  1662's own Kalendar and Proper Lessons (the CoE serves only the post-1922
-  recension -- but the Wave-18 witness CONTAINS them: the Annexed Book prints
-  the Kalendar at scan pages ~42-56 and the Table of proper Lessons before it,
-  so this gap now has a source and needs a transcription pass, not a search); 1892's Kalendar (the source HTML has lost the table's row
+  1662's own Kalendar and Proper Lessons -- CLOSED in Wave 20 from the
+  Annexed Book (PDF pp. 34-38, 44-55); 1892's Kalendar (the source HTML has lost the table's row
   structure) — 1892's and 1928's Selections of Psalms, the same false link to
-  1789's page, were closed in Waves 16 and 15; the 1549-1662 Proper Lessons (printed as
-  ~30 small per-occasion tables with varying column heights); the 1789 "Proper
+  1789's page, were closed in Waves 16 and 15; the 1549-1604 Proper Lessons (printed as
+  ~30 small per-occasion tables with varying column heights; Wave 20 found the
+  1662 book does NOT do this -- it prints one table); the 1789 "Proper
   Psalms on Certain Days" table inside the Psalter rubric; and the Scottish
   line's tables.
 
@@ -1634,6 +1677,12 @@ it drifting.**
 
 ## 9. Gotchas / lessons
 
+- **Look at every page you think you have (Wave 20).** The Annexed Book PDF's
+  p. 49 (June) renders BLANK on this Mac -- its JBIG2 text mask trips Apple's
+  decoder -- and Wave 18's whole-book OCR logged 0 lines there unremarked.
+  Wikimedia's server-side thumbnail of the same page is legible
+  (`ingest/w20_fetch.py`). Check any page with 0 OCR lines before calling it
+  blank.
 - **Read a witness's own preface before collating against it.** The Annexed
   Book (Wave 18) is the legal standard of the 1662 text and is still unfit to
   settle a single spelling -- it says so itself, and the printed Sealed Books

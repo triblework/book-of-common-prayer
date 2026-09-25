@@ -81,11 +81,10 @@ explicitly rather than filled with invented text.
 | 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). |
 | 1789 | the Psalter | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. |
 | 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
-| 1662 | Kalendar, Proper Lessons, both rubrics | The Church of England serves only the **post-1922 recension** of these (verse-level citations, "or" alternatives, and PDFs that are explicitly the Revised Tables of Lessons Measure 1922). Its *Tables and Rules* and *Vigils and Fasts* PDFs **do** print the 1662 text, and those are transcribed. |
 | 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
 | 1892 | Kalendar | The source HTML has lost the table's row structure — several days are packed into one line-break slot, the packing differs column by column, and continuation lines interleave. No structural rule recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. |
 | 1928 | the 1945 revision of the lectionary | The 1928 book's lectionary exists in two forms: the original (1928–1944), which `v1928` carries, and the 1945 revision (*Psalms and Lessons for the Christian Year*, in use 1945–1978). One edition node cannot carry both; the revision is deliberately omitted. It is not a gap in `v1928`, which is complete as printed in 1928. |
-| 1549–1662 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. |
+| 1549–1604 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion (as recorded from their own sources in Wave 14; not re-checked since). The 1662 book does NOT: it prints one table that the row model fits, transcribed in Wave 20. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. |
 
 ### The 1928 tables (Wave 15)
 
@@ -362,6 +361,54 @@ communion, 96–98% in the ordinal, the occasional offices and the prayers. The
 re-wrappings rather than defects. The lectionary tables match at 1.5% because
 the repository renders them as long-form rows and the book prints them as
 tables: comparing those needs a different method, not a closer reading.
+
+### The 1662 tables from the Annexed Book (Wave 20)
+
+Until this wave `v1662` carried no Kalendar, Proper Lessons or reading rubrics
+of its own: the Church of England serves only the post-1922 recension of
+those, so 1662 inherited 1559's Kalendar and rubrics, and had no Proper
+Lessons or Proper Psalms at all. Wave 18's witness — the **Annexed Book**, the
+manuscript annexed to the Act of Uniformity 1662, in HMSO's 1892
+type-reproduction (Wikimedia Commons, `File:The_Book_of_Common_Prayer.pdf`) —
+prints all of them, and they are now transcribed from it: the Kalendar (twelve
+month pages), the Proper Lessons (one table in two sections, Sundays and
+Holy-days), the Proper Psalms on certain days, and the Order how the Psalter,
+and how the rest of Holy Scripture, is appointed to be read.
+
+**This witness is the only source for these files**, so they are in the
+**manuscript's own spelling** — *Epiphanie of our Ld.*, *Hilarie B. &, Conf.*,
+*Matth.*, *onely*, *vpon* — and not in the modernized spelling of the rest of
+the 1662 node. The manuscript's own preface disclaims it as a standard of
+orthography; these are its spellings, not those of the printed Sealed Books of
+1662, which no allow-listed host has. `texts/normalized` smooths them as usual.
+So a `v1559 → v1662` diff of these files shows two printings' spelling as well
+as the real changes — for which the book's own lesson columns are the thing to
+read.
+
+How the tables are set: chapter numbers, which the book prints in roman, are
+arabic (as in every other Kalendar here), with the printed extent kept
+(`Luke 1. to 39`); the Golden Number, the Roman date (Kalends, Nones, Ides)
+and the lunar line are left out as calendrical apparatus, as they were for
+1549–1559; the book prints no Psalter-day column, so the rows have none; the
+Sunday letters are capitals because the book's are; typeface (bold holy days,
+italic commemorations) is not marked. The repository's standing decisions on
+all of this are in `RULINGS.md` on the `authoring` branch (R12–R17).
+
+How it was read: each page was rendered, deskewed and cut up by its printed
+rules; every Kalendar cell was read twice by machine (on two independent
+renderings of the file) and once by eye at high resolution, and every
+disagreement was looked at again. The structure checks are clean — twelve
+months, 366 rows (the book prints a 29th of February), the Sunday letters
+unbroken through the year, every holy day's lessons blank, the second lessons
+running on chapter by chapter. **The June page** is drawn blank by some PDF
+viewers — its image uses a compression that not every decoder can read — and
+was read from Wikimedia's own rendering of the same file.
+
+Kept as the book prints them, though they look like slips: *S Thomos Apost.*
+(21 December); the 29th of February's lessons *Matt. 7* and *Rom. 12*, which
+break both second-lesson courses; *Tob. 4* then *Tob. 6* on 30 September. Three
+readings are flagged below: a stop the June rendering cannot settle, a missing
+stop between two chapters in June, and a broken entry for St Anne (26 July).
 
 ---
 
@@ -874,6 +921,9 @@ Each is flagged inline in the text and should be checked against a page scan.
 | `prayers-and-thanksgivings/prayer-after-the-former.md` (1604, 1637) | `untitled` | Printed without a title in these editions (1662 heads it "A Prayer that may be said after any of the former"). The bracketed heading is editorial. The 1559 page's note "This prayer added in 1604" sits immediately after this text, but the spine has lost the page's visual association of note to referent — confirm the attribution. |
 | `prayers-and-thanksgivings/for-the-sovereign.md` (1604) | `Quene Elizabeth` | RECORDED GAP, not a reading. The 1559 page's apparatus says this prayer was "Replaced by a prayer for the King in 1604" and gives the style "Sovereign Lord King James", but attests neither the pronouns nor the spellings the 1604 book printed. The attested 1559 wording is retained rather than reconstructing a text no allow-listed source supports; resolve from a 1604 facsimile. |
 
+| 1662 Kalendar (June 11) | `S. Barnab, Apost. & M.` (normalized: `S. Barnab, Apost. and M.`) | The stop after *Barnab* looks like a comma in Wikimedia's 1920px rendering of the June page (the only legible one); a full stop cannot be ruled out. |
+| 1662 Kalendar (June 16) | `26 27` | Morning 1 prints two chapters of Job; no stop is visible between them at 1920px. |
+| 1662 Kalendar (July 26) | `S. Anne, mother to ye Bl. V. M.` | The letters after *Bl.* are broken in the print (both renderings): an upright stroke, a stop, part of an M, a stop. *V. M.* is what the fragments allow, not what they show. |
 | 1789 (American) Kalendar | `November Morning 1, Evening 1` | the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month |
 | 1892 (American) Proper Lessons | `A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2` | the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess |
 | 1979 (American) Daily Office Lectionary | `Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)` | the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed |

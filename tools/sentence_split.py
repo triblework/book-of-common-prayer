@@ -170,6 +170,14 @@ def process_text(text: str, verse_mode: bool = False) -> str:
             out_lines.append(line)
             continue
 
+        # A table ROW (cells separated by " | ", spec §10 long-form) is one
+        # unit, as a verse is in the Psalter: its cells print their own stops
+        # ("Luke 1. to 39", "Hilarie B. &, Conf.", "1. Sam. 2") and splitting
+        # there would break the row in two. Wave 20; RULINGS R17.
+        if " | " in line:
+            out_lines.append(line)
+            continue
+
         marker, body = _leading_marker(line)
         for sentence in split_sentences(body):
             out_lines.append(f"{marker}{sentence}".rstrip())

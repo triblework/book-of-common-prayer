@@ -1,0 +1,120 @@
+# w20_pl_eye.txt -- Wave 20 EYE READ of the 1662 Proper Lessons and Proper
+# Psalms (Annexed Book, PDF pp. 36-38), off the deskewed 4400px crops. As
+# PRINTED (R12, R16); numerals converted later (R13).
+# "@ PAGE HALF" marks where the following rows are printed (L/R page-half).
+# Row: occasion (the occasion column's text for that row, lines joined) |
+#      Mattens 1. Lesson | Mattens 2. Lesson | Evensong 1. Lesson | Evensong 2. Lesson
+# A Sunday row prints first lessons only; '1. Lesson' / '2. Lesson' sub-rows
+# are folded into their occasion's one row.
+title: Proper Lessons to be read at Morning and Evening Prayer on the Sundayes, & other Holy-daies throughout the year.
+
+## Lessons proper for Sundaies 36
+@ 36 L
+Sundaies of Advent The first | Isai. i. | | Isai. ii. |
+ii | v. | | xxiv |
+iii | xxv. | | xxvi |
+iv | xxx. | | xxxii. |
+Sundaies after Christmas The first | xxxvii | | xxxviii |
+ii | xli | | xliii |
+sundaies after the Epiphanie The First | xliv | | xlvi |
+ii | li | | liii |
+iii | lv | | lvi |
+iv | lvii | | lviii |
+v | lix | | lxiv |
+vi | lxv | | lxvi |
+Septuagesima | Gen. i. | | Gen. ii |
+Sexagesima | iii | | vi |
+Quinquag | ix to vr. xx | | xii |
+Lent. First Sunday | xix to vr. 30 | | xxii |
+ii | xxvii | | xxxiv |
+iii | xxxix | | xlii |
+iv | xliii | | xlv |
+v | Exod. iii | | Exod. v |
+vi | ix | Matth. xxvi | x | Hebr. 5. to vr. xi.
+@ 36 R
+Easter, day | Exod. xii. | Rom. vi | Exod. xiv | Acts. 2. vr. 22.
+Sundaies after Easter The first | Num. xvi | | Num. xxii. |
+ii | xxiii. xxiv. | | xxv. |
+iii | Deut. iv. | | Deut. v. |
+iv | vi | | vii. |
+v | viii | | ix. |
+Sunday after Ascension day. | xii | | xiii |
+Whitsunday | Deut. 16. to vr. 18. | Acts. 10. vr. 34 | Isai. xi. | Acts. 19. to vr. 21.
+Trinitie Sunday. | Gen. i. | Matth. iii | Gen. xviii. | 1. Ioh. v
+Sundaies after Trinitie The first | Jos. x | | Jos. xxiii |
+ii | Judg. iv. | | Judg. v. |
+iii | 1. Sam. ii | | 1. Sam. iii. |
+iv | xii | | xiii |
+v | xv | | xvii |
+vi | 2. Sam. xii | | 2. Sam. xix |
+vii | xxi | | xxiv |
+viii | 1. King. xiii | | 1. King. xvii |
+ix | xviii | | xix |
+x | xxi | | xxii |
+xi | 2. King. v | | 2 King. ix. |
+xii | x | | xviii |
+xiii | xix | | xxiii |
+@ 37 L
+Sundaies after Trinitie. xiv. | Ierem. v. | | Jerem. xxii. |
+xv | xxxv | | xxxvi. |
+xvi | Ezek. ii | | Ezek. xiii |
+xvii | xiv | | xviii |
+xviii | xx | | xxiv. |
+xix | Dan. iii | | Dan. vi. |
+xx | Joel. ii | | Mic. vi |
+xxi | Habak. ii | | Prov. i. |
+xxii | Prov. ii | | iii. |
+xxiii | xi | | xii |
+xxiv | xiii | | xiv |
+xxv | xv | | xvi. |
+xxvi | xvii | | xix |
+
+## Lessons proper for Holydaies 37
+S. Andrew. | Prov. xx | | Prov. xxi |
+S. Thomas the Apostle | xxiii | | xxiv |
+Nativitie of Christ. | Isai. 9. to vr. 8. | Luke. 2. to vr. 15 | Isai. 7. vr. 10. to vr. 17. | Titus. 3. vr. 4. to vr. 9.
+S. Stephen | Prov. xxviii | Acts. 6. vr. 8. & c. 7. to vr. 30. | Eccles. iv. | Acts. 7. vr. 30. to vr. 55.
+S. John. | Eccles. v. | Apoc. i. | Eccles. vi. | Apoc. xxii.
+Jnnocents day. | Jer. xxxi. to vr. 18. | | Wisd. i. |
+Circumcision | Gen. xvii. | Rom. ii. | Deut. x. vr. 12. | Coloss. ii
+Epiphanie. | Isai. lx. | Luke. 3. to vr. 23 | Isai. xlix. | Ioh. 2. to vr. 12.
+@ 37 R
+Conversion of S. Paul. | Wisd. v. | Acts. 22. to vr. 22. | Wisd. vi. | Acts. xxvi.
+Purification of the Virg. Mary | Wisd. ix | | Wisd. xii. |
+S. Matthias. | xix | | Ecclus. 1. |
+Añunciation of our Ladie | Ecclus. ii | | iii |
+Wedensday before Easter. | Hos. xiii. | Ioh. xi. vr. 45. | Hos. xiv |
+Thursday before Easter | Dan. ix | Joh xiii | Jerem. xxxi. |
+Good-Friday | Gen. 22. to vr. 20 | Joh. xviii. | Isai. liii. | 1. Pet. ii.
+Easter Even | Zech. ix | Luke. 23. vr. 50 | Exod. xiii | Hebr. iv
+Munday in Easter week | Exod. xvi. | Matth. xxviii | Exod. xvii. | Acts. iii.
+Tuesday in Easter week | Exod. xx. | Luke. 24. to vr. 13 | Exod. xxxii. | 1. Cor. xv.
+S. Mark. | Ecclus. iv | | Ecclus. v |
+S. Philip. and S. Iacob. | vii | Ioh. 1. vr. 43 | ix |
+Assension day | Deut. x. | Luke. 24. vr. 44. | 2. King. ii. | Eph: 4. to vr. 17.
+Munday in Whitsun Week | Gen. xi. to vr. 10. | 1. Cor. xii | Num. xi. vr. 16. to vr. 30. | 1. Cor. 14. to vr. 26
+
+## Lessons proper for Holydaies (continued) 38
+@ 38 L
+Tuesday in Whitsun Week | 1. Sam. 19. vr. 18. | 1. Thess. v. vr. 12. to vr. 24 | Deut. xxx. | 1. Joh. iv. to vr. 14.
+S. Barnabas | Ecclus. x. | Acts: xiv | Ecclus. xii. | Acts. 15. to vr. 36.
+S. Iohn Baptist | Malach. iii | Matth. iii | Malach. iv | Matth. 14. to vr. 13
+S. Peter. | Ecclus. xv | Acts. iii | Ecclus xix | Acts. iv
+S. James | Ecclus. xxi | | Ecclus. xxii |
+S. Bartholmew | xxiv | | xxix |
+@ 38 R
+S. Matthew | Ecclus. xxxv | | Ecclus. xxxviii |
+S. Michael | Gen. xxxii | Acts. 12. to vr. 20 | Dan. x. vr. 5. | Jude. vr. 6. to vr. 16.
+S. Luke. | Ecclus. li. | | Job: i. |
+S. Simon and S. Jude | Job. xxiv. xxv. | | xlii |
+All saints | Wisd. iii. to vr. 10. | Hebr. xi. vr. 33 & c. 12. to vr. 7. | Wisd. v. to vr. 17. | Apoc. xix. to vr. 17.
+
+## PSALMS 38
+title: Proper Psalms on certein Daies.
+# occasion | Mattens (stacked entries, top to bottom) | Evensong
+Christmas day. | xix / xlv / lxxxv | lxxxix / cx. / cxxxii
+Ash-Wedensday | vi / xxxii. / xxxviii | cii. / cxxx / cxliii.
+Good Friday | xxii / xl / liv. | lxix / lxxxviii.
+Easter day | ii / lvii / cxi | cxiii / cxiv / cxviii
+Ascension day | viii / xv / xxi | xxiv / xlvii / cviii
+Whitsunday | xlviii / lxviii | civ / cxlv.

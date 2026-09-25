@@ -1,0 +1,138 @@
+{
+ "witness": "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer.pdf",
+ "june_render": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_Book_of_Common_Prayer.pdf/page49-1920px-The_Book_of_Common_Prayer.pdf.jpg",
+ "contra_relooked": {
+  "count": 39,
+  "result": "the eye read stood in all 39; the four where the machine reading was itself a plausible numeral were re-read at pixel level: April 12 E1 xxviii (Vision xxvii), July 20 M2 viii (vii), August 12 M1 Lii (Li), November 16 M2 viii (vii) -- the dots of every i are visible"
+ },
+ "course_skips_relooked": {
+  "count": 23,
+  "pages": "44-55",
+  "result": "every landing cell reads as transcribed; each skip is the book's own omission (genealogies, the tabernacle chapters, lists)"
+ },
+ "zoomed": [
+  {
+   "cell": "May 29 note",
+   "page": 48,
+   "reads": "CH. II. Nat. et Ret.",
+   "why": "raised t set inline (R16)"
+  },
+  {
+   "cell": "May 26 note",
+   "page": 48,
+   "reads": "Aug: ye first Arch B. of Cant."
+  },
+  {
+   "cell": "May 1 note",
+   "page": 48,
+   "reads": "S. Phil & S. Jac Ap. & M."
+  },
+  {
+   "cell": "July 26 note",
+   "page": 50,
+   "reads": "S. Anne, mother to ye Bl. V. M.",
+   "why": "broken in both renders -- VERIFY"
+  },
+  {
+   "cell": "June 11 note",
+   "page": 49,
+   "reads": "S. Barnab, Apost. & M.",
+   "why": "comma vs stop at 1920px -- VERIFY"
+  },
+  {
+   "cell": "June 16 M1",
+   "page": 49,
+   "reads": "xxvi xxvii.",
+   "why": "no stop visible between the chapters at 1920px -- VERIFY"
+  },
+  {
+   "cell": "September 8 E1",
+   "page": 52,
+   "reads": "Ionah. 2 3."
+  },
+  {
+   "cell": "September 19 M1",
+   "page": 52,
+   "reads": "Zech. 2. 3."
+  },
+  {
+   "cell": "August 27 M1",
+   "page": 51,
+   "reads": "Hos. 2. 3."
+  },
+  {
+   "cell": "September 30 E1",
+   "page": 52,
+   "reads": "vi",
+   "why": "Tob. 4 then Tob. 6; the i is filled with ink but present"
+  },
+  {
+   "cell": "December 21 note",
+   "page": 55,
+   "reads": "S Thomos Apost. & M.",
+   "why": "sic"
+  },
+  {
+   "cell": "December 28 note",
+   "page": 55,
+   "reads": "Jnnocents day.",
+   "why": "J-form capital (R16)"
+  },
+  {
+   "cell": "February 29",
+   "page": 45,
+   "reads": "no letter; xiii | Matt. 7. | xiiii | Rom. 12.",
+   "why": "sic: breaks both second-lesson sequences"
+  },
+  {
+   "cell": "Proper Lessons, S. Simon",
+   "page": 38,
+   "reads": "S. Simon",
+   "why": "four minims before 'on'; dot lost"
+  },
+  {
+   "cell": "Ecclus marks",
+   "pages": "37-38, 53-54",
+   "reads": "Ecclus",
+   "why": "abbreviation flag not carried (R16)"
+  },
+  {
+   "cell": "Scripture rubric",
+   "page": 35,
+   "reads": "Jm̄oveable",
+   "why": "bar over m stands for the second m (R16)"
+  },
+  {
+   "cell": "Scripture rubric",
+   "page": 35,
+   "reads": "Lessons",
+   "why": "accent over n not carried (R16)"
+  }
+ ],
+ "rubric_eye_only": [
+  {
+   "page": 34,
+   "word": "viii",
+   "machine": "A 'vill', B 'vili'",
+   "eye": "K. H. viii."
+  },
+  {
+   "page": 35,
+   "word": "time",
+   "machine": "both reads drop the last line",
+   "eye": "shall be omitted for that time."
+  },
+  {
+   "page": 35,
+   "word": "otherwise",
+   "machine": "A 'ererwise', B 'otberwise'",
+   "eye": "otherwise ordered."
+  },
+  {
+   "page": 35,
+   "word": "Jm̄oveable",
+   "machine": "A 'Jihoveable', B 'Jifoveable'",
+   "eye": "J, m with a bar, oveable"
+  }
+ ]
+}

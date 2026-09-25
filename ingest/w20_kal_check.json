@@ -1,0 +1,114 @@
+{
+ "rows": [],
+ "letter": [],
+ "blank": [],
+ "course": [
+  "OT Jan 7 E1: 12 after 9 (Gen)",
+  "OT Jan 19 E1: 37 after 35 (Gen)",
+  "OT Feb 9 E1: 32 after 24 (Exod)",
+  "OT Feb 12 E1: 26 after 20 (Levit)",
+  "OT Feb 15 M1: 16 after 14 (Num)",
+  "OT Feb 16 M1: 20 after 17 (Num)",
+  "OT Feb 19 M1: 27 after 25 (Num)",
+  "OT Feb 19 E1: 30 after 27 (Num)",
+  "OT Feb 21 M1: 35 after 32 (Num)",
+  "OT Mar 5 M1: 24 after 22 (Deut)",
+  "OT Mar 15 E1: 23 after 10 (Josh)",
+  "OT May 22 E1: 3 after 1 (Esra)",
+  "OT May 25 M1: 9 after 7 (Esra)",
+  "OT May 26 E1: 4 after 2 (Neh)",
+  "OT May 28 M1: 8 after 6 (Neh)",
+  "OT May 29 E1: 13 after 10 (Neh)",
+  "OT Jul 10 E1: 31 after 29 (Prov)",
+  "OT Aug 16 M1: 6 after 3 (Ezek)",
+  "OT Aug 17 M1: 13 after 7 (Ezek)",
+  "OT Aug 18 M1: 18 after 14 (Ezek)",
+  "OT Aug 18 E1: 33 after 18 (Ezek)",
+  "OT Sep 30 E1: 6 after 4 (Tob)",
+  "OT Nov 7 M1: 27 after 25 (Eclus)",
+  "M2 Feb 18: 1 after 1 (Luke)",
+  "M2 Oct 15: 1 after 1 (Luke)",
+  "M2 Dec 7: 7 after 7 (Acts)"
+ ],
+ "machine": {
+  "tally": {
+   "letter": {
+    "both": 58,
+    "one": 164,
+    "none": 143,
+    "empty": 1
+   },
+   "note": {
+    "both": 13,
+    "one": 24,
+    "none": 70,
+    "empty": 259
+   },
+   "m1": {
+    "both": 66,
+    "one": 127,
+    "none": 149,
+    "empty": 24
+   },
+   "m2": {
+    "both": 68,
+    "one": 147,
+    "none": 140,
+    "empty": 11
+   },
+   "e1": {
+    "both": 84,
+    "one": 123,
+    "none": 135,
+    "empty": 24
+   },
+   "e2": {
+    "both": 31,
+    "one": 89,
+    "none": 236,
+    "empty": 10
+   }
+  },
+  "contra": [
+   "January 14 m1: eye 'xxv', A=B 'AXX'",
+   "January 23 e1: eye 'xlv', A=B 'x/v'",
+   "January 31 m1: eye 'viii', A=B 'vill'",
+   "February 1 e2: eye 'i. Cor. 13', A=B 'і. Соr.із'",
+   "February 14 e1: eye 'xiv', A=B 'xiY'",
+   "February 15 m2: eye 'xv', A=B 'AX'",
+   "February 18 e1: eye 'xxv', A=B 'AXX'",
+   "March 3 m2: eye 'xiv', A=B 'XiY'",
+   "March 18 note: eye 'Edward K. of ye West Saxons', A=B 'EdwardK.ofy. WestSaxons'",
+   "March 20 m1: eye 'viii', A=B 'vili'",
+   "March 28 m2: eye 'xv', A=B 'AX'",
+   "March 30 m1: eye '1. Sam. 1.', A=B 'I.Sam.i.'",
+   "March 31 e1: eye 'iv', A=B '1V'",
+   "April 12 e1: eye 'xxviii', A=B 'xxvii'",
+   "April 14 m1: eye 'xxxi', A=B 'IXXX'",
+   "April 21 e1: eye 'xv', A=B 'AX'",
+   "May 5 e1: eye 'xv', A=B 'AX'",
+   "May 6 e1: eye 'xvii', A=B 'Ivii'",
+   "May 21 e1: eye 'xxv', A=B 'AXX'",
+   "May 26 m1: eye 'Neh. 2.', A=B 'Neh. a.'",
+   "July 3 m1: eye 'xv', A=B 'AX'",
+   "July 3 m2: eye 'xv', A=B 'AX'",
+   "July 4 e2: eye 'iv', A=B 'A!'",
+   "July 11 e1: eye 'Eccles. 2.', A=B 'Eccles.z.'",
+   "July 12 m2: eye 'xxiv', A=B 'xxis'",
+   "July 20 m2: eye 'viii', A=B 'vii'",
+   "July 24 m1: eye 'xv', A=B 'AX'",
+   "July 27 m2: eye 'xv', A=B 'Ax'",
+   "August 12 m1: eye 'Lii', A=B 'Li'",
+   "August 17 m2: eye 'xv', A=B 'AX'",
+   "August 19 m1: eye 'xxxiv', A=B 'AIXXX'",
+   "August 26 e1: eye 'Hos. 1.', A=B 'Hos. I.'",
+   "August 28 m1: eye 'v. vi.', A=B 'т. vi.'",
+   "September 1 m2: eye 'Mat. 2.', A=B 'Mat. a.'",
+   "September 7 m2: eye 'viii', A=B 'nii'",
+   "September 15 m1: eye 'Habak. 2', A=B 'Habak. a'",
+   "October 13 e1: eye 'Wisd. 2.', A=B 'Wisd.a.'",
+   "November 12 e2: eye 'iii', A=B '!!!'",
+   "November 16 m2: eye 'viii', A=B 'vii'"
+  ]
+ }
+}

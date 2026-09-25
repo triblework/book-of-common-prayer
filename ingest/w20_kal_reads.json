@@ -1,0 +1,10395 @@
+{
+ "44": {
+  "month": "January",
+  "page": 44,
+  "A": {
+   "rules": [
+    423,
+    571,
+    669,
+    767,
+    1032,
+    1611,
+    1803,
+    1999,
+    2193,
+    2397
+   ],
+   "filled": [],
+   "angle": -0.025,
+   "top": 1453,
+   "bot": 3465,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1513,
+     "cells": {
+      "golden": "-:",
+      "day": "",
+      "letter": "A.",
+      "roman": "Kalend.",
+      "note": "Clroumo. of our Id",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1576,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "B.",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "Ger.I.",
+      "m2": "Matth.I.",
+      "e1": "Ges.z.",
+      "e2": "Rom. I."
+     }
+    },
+    {
+     "y": 1640,
+     "cells": {
+      "golden": "",
+      "day": "3.",
+      "letter": "C.",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "iїi",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1703,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D.",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "",
+      "m2": "iїi",
+      "e1": "vi",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 1760,
+     "cells": {
+      "golden": "xix",
+      "day": "5.",
+      "letter": "E.",
+      "roman": "Nono",
+      "note": "",
+      "m1": "vi",
+      "m2": "iv",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1825,
+     "cells": {
+      "golden": "",
+      "day": "6.",
+      "letter": "F.",
+      "roman": "8. Id.",
+      "note": "Epiphanio of our Id",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1890,
+     "cells": {
+      "golden": "",
+      "day": "7.",
+      "letter": "G.",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "ix",
+      "m2": "",
+      "e1": "xil",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1951,
+     "cells": {
+      "golden": "",
+      "day": "8.",
+      "letter": "A.",
+      "roman": "6. Id.",
+      "note": "Lnciar Pr. 8o Mart.",
+      "m1": "xіїi",
+      "m2": "vi",
+      "e1": "XiV",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2015,
+     "cells": {
+      "golden": "",
+      "day": "9.",
+      "letter": "B.",
+      "roman": "s. ld.",
+      "note": "",
+      "m1": "AX",
+      "m2": "Vii",
+      "e1": "xvi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2078,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C.",
+      "roman": "4. 1d.",
+      "note": "",
+      "m1": "XVII",
+      "m2": "viii",
+      "e1": "xvili",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 2141,
+     "cells": {
+      "golden": "xili",
+      "day": "II.",
+      "letter": "D.",
+      "roman": "3. Іd.",
+      "note": "",
+      "m1": "xix",
+      "m2": "ix",
+      "e1": "XX",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2204,
+     "cells": {
+      "golden": "E:",
+      "day": "12.",
+      "letter": "E.",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "xxI",
+      "m2": "",
+      "e1": "xxii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2264,
+     "cells": {
+      "golden": "",
+      "day": "13.",
+      "letter": "F.",
+      "roman": "ldus",
+      "note": "Hilarie B.G, Conf.",
+      "m1": "XXIII",
+      "m2": "xi",
+      "e1": "XXiV",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2331,
+     "cells": {
+      "golden": "",
+      "day": "If.",
+      "letter": "G.",
+      "roman": "19.K1.Febr.",
+      "note": "",
+      "m1": "AXX",
+      "m2": "xii",
+      "e1": "XXVI",
+      "e2": "xii"
+     }
+    },
+    {
+     "y": 2394,
+     "cells": {
+      "golden": "",
+      "day": "I5.",
+      "letter": "A.",
+      "roman": "i8. Kl.",
+      "note": "",
+      "m1": "xxVii",
+      "m2": "xili",
+      "e1": "xxviii",
+      "e2": "xili"
+     }
+    },
+    {
+     "y": 2456,
+     "cells": {
+      "golden": "rvili",
+      "day": "Iб.",
+      "letter": "B.",
+      "roman": "17. Кв.",
+      "note": "",
+      "m1": "xxiX",
+      "m2": "xiv",
+      "e1": "XXX",
+      "e2": "XiV"
+     }
+    },
+    {
+     "y": 2520,
+     "cells": {
+      "golden": "vi",
+      "day": "17.",
+      "letter": "C.",
+      "roman": "I6.Kl.",
+      "note": "",
+      "m1": "XXXI",
+      "m2": "AX",
+      "e1": "хXXII",
+      "e2": "AX"
+     }
+    },
+    {
+     "y": 2587,
+     "cells": {
+      "golden": "",
+      "day": "18.",
+      "letter": "D.",
+      "roman": "15.Kl.",
+      "note": "Prisca Rom. Virg. & Mart.",
+      "m1": "хххіїї",
+      "m2": "XVI",
+      "e1": "xXXIY",
+      "e2": "xvi"
+     }
+    },
+    {
+     "y": 2648,
+     "cells": {
+      "golden": "AX",
+      "day": "Iд.",
+      "letter": "E.",
+      "roman": "14.KZ.",
+      "note": "",
+      "m1": "AXXX",
+      "m2": "XVII",
+      "e1": "xxxvii.",
+      "e2": "i.Cor.i."
+     }
+    },
+    {
+     "y": 2712,
+     "cells": {
+      "golden": "",
+      "day": "г0.",
+      "letter": "F.",
+      "roman": "13.Kl.",
+      "note": "Fabian B.of Rome& Mart.",
+      "m1": "xxXVili",
+      "m2": "XVIII",
+      "e1": "xxxix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2773,
+     "cells": {
+      "golden": "",
+      "day": "2%.",
+      "letter": "G.",
+      "roman": "т2. Kl.",
+      "note": "Agnes Rom. Virg. & Mart.",
+      "m1": "x..",
+      "m2": "xix",
+      "e1": "xli",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2836,
+     "cells": {
+      "golden": "хії",
+      "day": "22.",
+      "letter": "A.",
+      "roman": "1x.kZ.",
+      "note": "Vincent Span. Deac. & M.",
+      "m1": "xlii",
+      "m2": "XX",
+      "e1": "xliii",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2899,
+     "cells": {
+      "golden": "",
+      "day": "23.",
+      "letter": "B.",
+      "roman": "10.Kl.",
+      "note": "",
+      "m1": "xliv",
+      "m2": "xXi",
+      "e1": "x/v",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2963,
+     "cells": {
+      "golden": "",
+      "day": "24.",
+      "letter": "",
+      "roman": "9. Кl.",
+      "note": "",
+      "m1": "xlvi",
+      "m2": "хxi",
+      "e1": "xlvi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3026,
+     "cells": {
+      "golden": "ix",
+      "day": "25.",
+      "letter": "D.",
+      "roman": "8.KL.",
+      "note": "Convera: of 8. Paul.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3088,
+     "cells": {
+      "golden": "",
+      "day": "аб.",
+      "letter": "E.",
+      "roman": "7.KL.",
+      "note": "",
+      "m1": "xÍviii",
+      "m2": "XXIII",
+      "e1": "xlix",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 3150,
+     "cells": {
+      "golden": "mni",
+      "day": "27.",
+      "letter": "F.",
+      "roman": "6.KL.",
+      "note": "",
+      "m1": "L.",
+      "m2": "xxiv.",
+      "e1": "Exod.i.",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 3214,
+     "cells": {
+      "golden": "vi",
+      "day": "28.",
+      "letter": "G.",
+      "roman": "5. Kl.",
+      "note": "",
+      "m1": "Exod.z.",
+      "m2": "xXV",
+      "e1": "iii",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 3277,
+     "cells": {
+      "golden": "",
+      "day": "29.",
+      "letter": "A.",
+      "roman": "4. Kz.",
+      "note": "",
+      "m1": "!!!!",
+      "m2": "xxvi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3340,
+     "cells": {
+      "golden": "xii",
+      "day": "за",
+      "letter": "B.",
+      "roman": "3.KL.",
+      "note": "K. Charies Mart.",
+      "m1": "vi *",
+      "m2": "xxvi",
+      "e1": "vii",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 3402,
+     "cells": {
+      "golden": "iii",
+      "day": "31.",
+      "letter": "C.",
+      "roman": "prid. Kl.",
+      "note": "",
+      "m1": "vill",
+      "m2": "xXVIII",
+      "e1": "ix",
+      "e2": "xü"
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    423,
+    571,
+    669,
+    765,
+    1032,
+    1611,
+    1803,
+    1998,
+    2193,
+    2397
+   ],
+   "filled": [
+    669
+   ],
+   "angle": 0,
+   "top": 1456,
+   "bot": 3462,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1515,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "A.",
+      "roman": "Ralend.",
+      "note": "Chroura. of our Id",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1576,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "8.",
+      "roman": ". No.",
+      "note": "",
+      "m1": "Gew, x.",
+      "m2": "Matti.t.",
+      "e1": "Gew. z.",
+      "e2": "Ront. I."
+     }
+    },
+    {
+     "y": 1639,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C.",
+      "roman": "3.No.",
+      "note": "",
+      "m1": "iii",
+      "m2": "її",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1702,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D.",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1760,
+     "cells": {
+      "golden": "xіх",
+      "day": "5",
+      "letter": "",
+      "roman": "Nona",
+      "note": "",
+      "m1": "rii",
+      "m2": "",
+      "e1": "тiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1827,
+     "cells": {
+      "golden": "nii",
+      "day": "6.",
+      "letter": "",
+      "roman": "a. Id",
+      "note": "Epiphante of our Ld",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1889,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G.",
+      "roman": "7.1d.",
+      "note": "",
+      "m1": "ix",
+      "m2": "",
+      "e1": "xії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1952,
+     "cells": {
+      "golden": "Tvi",
+      "day": "8.",
+      "letter": "A.",
+      "roman": "6. ld.",
+      "note": "Lecias Pr. de Marr.",
+      "m1": "xіїї",
+      "m2": "vi",
+      "e1": "xiy",
+      "e2": "LA"
+     }
+    },
+    {
+     "y": 2016,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "5. ld.",
+      "note": "",
+      "m1": "XY",
+      "m2": "TLA",
+      "e1": "svi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2080,
+     "cells": {
+      "golden": "",
+      "day": "10",
+      "letter": "C.",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "xvil",
+      "m2": "viii",
+      "e1": "xviii",
+      "e2": "vili"
+     }
+    },
+    {
+     "y": 2142,
+     "cells": {
+      "golden": "xisi",
+      "day": "II.",
+      "letter": "D.",
+      "roman": "3.Id.",
+      "note": "",
+      "m1": "XTX",
+      "m2": "ix",
+      "e1": "XI",
+      "e2": "XT"
+     }
+    },
+    {
+     "y": 2205,
+     "cells": {
+      "golden": "",
+      "day": "12.",
+      "letter": "E.",
+      "roman": "pr.1n",
+      "note": "",
+      "m1": "pxx",
+      "m2": "",
+      "e1": "xxii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2265,
+     "cells": {
+      "golden": "",
+      "day": "I3•",
+      "letter": "F.",
+      "roman": "ldus",
+      "note": "Hãaris B.&, Conf.",
+      "m1": "xxLIi",
+      "m2": "xi",
+      "e1": "xxiv",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2332,
+     "cells": {
+      "golden": "",
+      "day": "14-",
+      "letter": "G.",
+      "roman": "1g,K2.Febr.",
+      "note": "",
+      "m1": "AXX",
+      "m2": "xil",
+      "e1": "xxvi",
+      "e2": "xii"
+     }
+    },
+    {
+     "y": 2395,
+     "cells": {
+      "golden": "",
+      "day": "15.",
+      "letter": "",
+      "roman": "18. KZ.",
+      "note": "",
+      "m1": "xxvi",
+      "m2": "11X",
+      "e1": "exrüi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2458,
+     "cells": {
+      "golden": "IHAX",
+      "day": "1ố.",
+      "letter": "B.",
+      "roman": "17.KL.",
+      "note": "",
+      "m1": "xxix",
+      "m2": "A1X",
+      "e1": "XXX",
+      "e2": "AIX"
+     }
+    },
+    {
+     "y": 2520,
+     "cells": {
+      "golden": "viJ",
+      "day": "17-",
+      "letter": "C.",
+      "roman": "1б. KZ.",
+      "note": "",
+      "m1": "IXXX",
+      "m2": "XY",
+      "e1": "1**X",
+      "e2": "XP"
+     }
+    },
+    {
+     "y": 2588,
+     "cells": {
+      "golden": "",
+      "day": "I8.",
+      "letter": "D.",
+      "roman": "KL. / 15. 1",
+      "note": "Prisca Rom.Virg, & Mari.",
+      "m1": "xxxiii",
+      "m2": "xvi",
+      "e1": "AtxxX",
+      "e2": "xvi"
+     }
+    },
+    {
+     "y": 2649,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "14 KZ.",
+      "note": "",
+      "m1": "xxX",
+      "m2": "LIAX",
+      "e1": "XXXVLL",
+      "e2": "i.Cor.i."
+     }
+    },
+    {
+     "y": 2712,
+     "cells": {
+      "golden": "A1",
+      "day": "20-",
+      "letter": "",
+      "roman": "ту. Kz.",
+      "note": "Fabian B.af Rome&Mart.",
+      "m1": "Ixxviii",
+      "m2": "XVIl",
+      "e1": "xxxix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2772,
+     "cells": {
+      "golden": "",
+      "day": "*T2",
+      "letter": "G.",
+      "roman": "12. KZ.",
+      "note": "Agnes Rom.Virg. & Mart.",
+      "m1": "xl.",
+      "m2": "xix",
+      "e1": "xli",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 2837,
+     "cells": {
+      "golden": "rii",
+      "day": "23.",
+      "letter": "",
+      "roman": "1I, AZ.",
+      "note": "Vincent Spar. Deac. d M.",
+      "m1": "xlil",
+      "m2": "",
+      "e1": "xliii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2899,
+     "cells": {
+      "golden": "",
+      "day": "Ez",
+      "letter": "B.",
+      "roman": "10.KZ.",
+      "note": "",
+      "m1": "zJiv",
+      "m2": "*xi",
+      "e1": "x/v",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2963,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "g. K7.",
+      "note": "",
+      "m1": "xÍvi",
+      "m2": "Ixii",
+      "e1": "xlvü",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3024,
+     "cells": {
+      "golden": "ix",
+      "day": "25.",
+      "letter": "",
+      "roman": "8. KL,",
+      "note": "Convere: of 8.Panl",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3089,
+     "cells": {
+      "golden": "",
+      "day": "эб.",
+      "letter": "",
+      "roman": "7.K7.",
+      "note": "",
+      "m1": "xhiii",
+      "m2": "XXI11",
+      "e1": "xlix",
+      "e2": "vit"
+     }
+    },
+    {
+     "y": 3148,
+     "cells": {
+      "golden": "ELAX",
+      "day": "27.",
+      "letter": "",
+      "roman": "6.KL.",
+      "note": "",
+      "m1": "•1",
+      "m2": "xxiv,",
+      "e1": "Exod.i.",
+      "e2": "IIA"
+     }
+    },
+    {
+     "y": 3214,
+     "cells": {
+      "golden": "",
+      "day": "28.",
+      "letter": "G.",
+      "roman": "5. kZ.",
+      "note": "",
+      "m1": "Exod.a.",
+      "m2": "AXX",
+      "e1": "iti",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 3276,
+     "cells": {
+      "golden": "",
+      "day": "•бе",
+      "letter": "A.",
+      "roman": "4 KZ.",
+      "note": "",
+      "m1": "!!!T",
+      "m2": "LAXX",
+      "e1": "",
+      "e2": "X"
+     }
+    },
+    {
+     "y": 3341,
+     "cells": {
+      "golden": "xii",
+      "day": "30.",
+      "letter": "B.",
+      "roman": "3. AL.",
+      "note": "E Charics Xort.",
+      "m1": "•",
+      "m2": "xxvii",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3405,
+     "cells": {
+      "golden": "",
+      "day": "31,",
+      "letter": "C.",
+      "roman": "prid. KZ.",
+      "note": "",
+      "m1": "VIll",
+      "m2": "xxviii",
+      "e1": "ix",
+      "e2": "xії"
+     }
+    }
+   ]
+  }
+ },
+ "45": {
+  "month": "February",
+  "page": 45,
+  "A": {
+   "rules": [
+    607,
+    754,
+    850,
+    944,
+    1208,
+    1787,
+    1982,
+    2176,
+    2371,
+    2573
+   ],
+   "filled": [],
+   "angle": -1.325,
+   "top": 1456,
+   "bot": 3346,
+   "pitch": 63,
+   "note": "roman strip gave 28 rows for 29; ladder pitch 63.0",
+   "rows": [
+    {
+     "y": 1518,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "Kalend.",
+      "note": "Fast",
+      "m1": "Exod.Io.",
+      "m2": "Mark. i.",
+      "e1": "Exod.II.",
+      "e2": "і. Соr.із"
+     }
+    },
+    {
+     "y": 1581,
+     "cells": {
+      "golden": "xi",
+      "day": "",
+      "letter": "E",
+      "roman": "4.No.",
+      "note": "Puril. of Marlo I. B.TIrg.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "XiV"
+     }
+    },
+    {
+     "y": 1644,
+     "cells": {
+      "golden": "xiX",
+      "day": "",
+      "letter": "F",
+      "roman": "3. No.",
+      "note": "Blasixsan Armen. B. &. M.",
+      "m1": "xії",
+      "m2": "їїi",
+      "e1": "хіїi",
+      "e2": "ax"
+     }
+    },
+    {
+     "y": 1707,
+     "cells": {
+      "golden": "viii",
+      "day": "",
+      "letter": "",
+      "roman": "pr.No.",
+      "note": "",
+      "m1": "XiV",
+      "m2": "iv",
+      "e1": "",
+      "e2": "xVi"
+     }
+    },
+    {
+     "y": 1765,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nonc",
+      "note": "Agatha, a SicilianV.& M.",
+      "m1": "xvi",
+      "m2": "",
+      "e1": "rvii",
+      "e2": "2.Cor.s."
+     }
+    },
+    {
+     "y": 1830,
+     "cells": {
+      "golden": "xvi",
+      "day": "9",
+      "letter": "B",
+      "roman": "8. Ict.",
+      "note": "",
+      "m1": "XVIII",
+      "m2": "vi",
+      "e1": "xix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1894,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "XX",
+      "m2": "vi",
+      "e1": "xxі",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 1956,
+     "cells": {
+      "golden": "-",
+      "day": "8",
+      "letter": "D",
+      "roman": "6. Іd.",
+      "note": "",
+      "m1": "хxiї",
+      "m2": "viii",
+      "e1": "ххії",
+      "e2": "AI"
+     }
+    },
+    {
+     "y": 2020,
+     "cells": {
+      "golden": "xili",
+      "day": "",
+      "letter": "",
+      "roman": "5. Уd.",
+      "note": "",
+      "m1": "XXiY",
+      "m2": "ix",
+      "e1": "xxXii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2081,
+     "cells": {
+      "golden": "ii.",
+      "day": "IO",
+      "letter": "F",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "хххіїi",
+      "m2": "",
+      "e1": "xxxiv",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2145,
+     "cells": {
+      "golden": "",
+      "day": "II",
+      "letter": "G",
+      "roman": "3. Fа.",
+      "note": "",
+      "m1": "Levit.18.",
+      "m2": "xi",
+      "e1": "Levit ig.",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2210,
+     "cells": {
+      "golden": "X",
+      "day": "12",
+      "letter": "",
+      "roman": "pr. Fd.",
+      "note": "",
+      "m1": "XX",
+      "m2": "xii",
+      "e1": "xxVi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2269,
+     "cells": {
+      "golden": "",
+      "day": "I3",
+      "letter": "",
+      "roman": "ldus",
+      "note": "",
+      "m1": "Num.11.",
+      "m2": "хій",
+      "e1": "Num. 12.",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2335,
+     "cells": {
+      "golden": "xvili",
+      "day": "",
+      "letter": "",
+      "roman": "16.Kl.Mart.",
+      "note": "Valentine Bish. & M.",
+      "m1": "xiii",
+      "m2": "XiY",
+      "e1": "xiY",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2403,
+     "cells": {
+      "golden": "vi",
+      "day": "15",
+      "letter": "D",
+      "roman": "15.k%",
+      "note": "",
+      "m1": "xVi",
+      "m2": "AX",
+      "e1": "xvii",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2465,
+     "cells": {
+      "golden": "",
+      "day": "16",
+      "letter": "7",
+      "roman": "14.KZ.",
+      "note": "",
+      "m1": "XX",
+      "m2": "XVI",
+      "e1": "xxi",
+      "e2": "хіi / ---"
+     }
+    },
+    {
+     "y": 2528,
+     "cells": {
+      "golden": "AX",
+      "day": "I7",
+      "letter": "F",
+      "roman": "13. Kl.",
+      "note": "",
+      "m1": "XXII",
+      "m2": "5Е05Т2377",
+      "e1": "хxії",
+      "e2": "xili"
+     }
+    },
+    {
+     "y": 2589,
+     "cells": {
+      "golden": "",
+      "day": "I8",
+      "letter": "G",
+      "roman": "12.K%.",
+      "note": "",
+      "m1": "XXIV",
+      "m2": "1.39",
+      "e1": "AXX",
+      "e2": "Gal. I."
+     }
+    },
+    {
+     "y": 2652,
+     "cells": {
+      "golden": "",
+      "day": "6r",
+      "letter": "",
+      "roman": "I1.Kl.",
+      "note": "",
+      "m1": "xxvil",
+      "m2": "",
+      "e1": "XXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2715,
+     "cells": {
+      "golden": "xii",
+      "day": "20",
+      "letter": "",
+      "roman": "1o. Kl.",
+      "note": "",
+      "m1": "хxxі",
+      "m2": "!!!",
+      "e1": "xxXiI",
+      "e2": "iїi"
+     }
+    },
+    {
+     "y": 2780,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "",
+      "roman": "9. Kl.",
+      "note": "",
+      "m1": "AxXX",
+      "m2": "iv",
+      "e1": "xxxvi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2842,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "D",
+      "roman": "8. KZ.",
+      "note": "",
+      "m1": "Dest.1.",
+      "m2": "",
+      "e1": "Dest.z.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2905,
+     "cells": {
+      "golden": "ix",
+      "day": "23",
+      "letter": "E",
+      "roman": "7.KL.",
+      "note": "Fast",
+      "m1": "",
+      "m2": "vi",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2968,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "F",
+      "roman": "6.KL.",
+      "note": "Matthias Apost, & M.",
+      "m1": "",
+      "m2": "vi",
+      "e1": "",
+      "e2": "Eph.I."
+     }
+    },
+    {
+     "y": 3032,
+     "cells": {
+      "golden": "HAX",
+      "day": "25",
+      "letter": "G",
+      "roman": "5.KL.",
+      "note": "",
+      "m1": "",
+      "m2": "Vil1",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3092,
+     "cells": {
+      "golden": "vi",
+      "day": "26",
+      "letter": "",
+      "roman": "1.Kl.",
+      "note": "",
+      "m1": "vii",
+      "m2": "ix",
+      "e1": "vill",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 3157,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "B",
+      "roman": "3.KL.",
+      "note": "",
+      "m1": "ix",
+      "m2": "X",
+      "e1": "X",
+      "e2": "AI"
+     }
+    },
+    {
+     "y": 3220,
+     "cells": {
+      "golden": "XiV",
+      "day": "28",
+      "letter": "",
+      "roman": "pr.Kl.",
+      "note": "",
+      "m1": "xi",
+      "m2": "IX",
+      "e1": "Xii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3282,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "",
+      "note": "",
+      "m1": "xії",
+      "m2": "Matt. 7.",
+      "e1": "xiїii",
+      "e2": "Rom.iz."
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    607,
+    758,
+    853,
+    944,
+    1207,
+    1787,
+    1981,
+    2176,
+    2370,
+    2573
+   ],
+   "filled": [
+    758,
+    853
+   ],
+   "angle": -1.325,
+   "top": 1455,
+   "bot": 3346,
+   "pitch": 63,
+   "note": "roman strip gave 28 rows for 29; ladder pitch 63.0",
+   "rows": [
+    {
+     "y": 1519,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Kalend.",
+      "note": "Fast",
+      "m1": "Exod,ro,",
+      "m2": "Mark, r.",
+      "e1": "Exod.u.",
+      "e2": "і. Cor.i3"
+     }
+    },
+    {
+     "y": 1582,
+     "cells": {
+      "golden": "x1",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "Purif. of Marte j. B. Virg.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "xiy"
+     }
+    },
+    {
+     "y": 1644,
+     "cells": {
+      "golden": "XIX",
+      "day": "3",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "Blasiws an Ármen.B. S M.",
+      "m1": "хії",
+      "m2": "iil",
+      "e1": "хüi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1705,
+     "cells": {
+      "golden": "viii",
+      "day": "",
+      "letter": "",
+      "roman": "pr.No.",
+      "note": "",
+      "m1": "xÍV",
+      "m2": "iv",
+      "e1": "",
+      "e2": "xvi"
+     }
+    },
+    {
+     "y": 1767,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nora",
+      "note": "Agstha, a SiciliasV.& M.",
+      "m1": "xvi",
+      "m2": "",
+      "e1": "",
+      "e2": "a.Cor.t."
+     }
+    },
+    {
+     "y": 1832,
+     "cells": {
+      "golden": "xvi",
+      "day": "",
+      "letter": "",
+      "roman": "8, lủ.",
+      "note": "",
+      "m1": "BJAX",
+      "m2": "",
+      "e1": "xіx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1895,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "Xx",
+      "m2": "",
+      "e1": "xxi",
+      "e2": "Tii"
+     }
+    },
+    {
+     "y": 1956,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6. la.",
+      "note": "",
+      "m1": "xxii",
+      "m2": "vili",
+      "e1": "xxій",
+      "e2": "AL"
+     }
+    },
+    {
+     "y": 2021,
+     "cells": {
+      "golden": "X1I",
+      "day": "",
+      "letter": "E",
+      "roman": "5. 7d.",
+      "note": "",
+      "m1": "xxiv",
+      "m2": "ix",
+      "e1": "xxxii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2084,
+     "cells": {
+      "golden": "iї.",
+      "day": "01",
+      "letter": "F",
+      "roman": "4. 13.",
+      "note": "",
+      "m1": "xxxiїi",
+      "m2": "",
+      "e1": "xxXİY",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2146,
+     "cells": {
+      "golden": "",
+      "day": "1I",
+      "letter": "",
+      "roman": "3. Fd.",
+      "note": "",
+      "m1": "Levit.18.",
+      "m2": "1x",
+      "e1": "Lewit ig.",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2210,
+     "cells": {
+      "golden": "",
+      "day": "I2",
+      "letter": "",
+      "roman": "pт. Id.",
+      "note": "",
+      "m1": "XX",
+      "m2": "xü",
+      "e1": "xxvi",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 2271,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "8",
+      "roman": "lans",
+      "note": "",
+      "m1": "Nem.1I.",
+      "m2": "xiїi",
+      "e1": "Nит. 12.",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2336,
+     "cells": {
+      "golden": "ХУШ",
+      "day": "14",
+      "letter": "",
+      "roman": "16.KZ.Mart",
+      "note": "Valenfine Bish. & M.",
+      "m1": "",
+      "m2": "xiv",
+      "e1": "xiy",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2398,
+     "cells": {
+      "golden": "vü",
+      "day": "I5",
+      "letter": "",
+      "roman": "15. Kl.",
+      "note": "",
+      "m1": "xvi",
+      "m2": "AX",
+      "e1": "xvii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2465,
+     "cells": {
+      "golden": "",
+      "day": "16",
+      "letter": "",
+      "roman": "14.KL.",
+      "note": "",
+      "m1": "xx",
+      "m2": "",
+      "e1": "xxi",
+      "e2": "хiї"
+     }
+    },
+    {
+     "y": 2528,
+     "cells": {
+      "golden": "XV",
+      "day": "I7",
+      "letter": "",
+      "roman": "13. KL.",
+      "note": "",
+      "m1": "xxIl",
+      "m2": "Luka1toza",
+      "e1": "xxiїi",
+      "e2": "xiii"
+     }
+    },
+    {
+     "y": 2588,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "G",
+      "roman": "12. AZ.",
+      "note": "",
+      "m1": "AIXX",
+      "m2": "1.39",
+      "e1": "AXX",
+      "e2": "Gal, 1."
+     }
+    },
+    {
+     "y": 2652,
+     "cells": {
+      "golden": "",
+      "day": "бу",
+      "letter": "",
+      "roman": "11. KL.",
+      "note": "",
+      "m1": "xxvii",
+      "m2": "",
+      "e1": "XXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2715,
+     "cells": {
+      "golden": "xii",
+      "day": "20",
+      "letter": "",
+      "roman": "хo. KZ.",
+      "note": "",
+      "m1": "xxxi",
+      "m2": "iii",
+      "e1": "xxxii",
+      "e2": "üi"
+     }
+    },
+    {
+     "y": 2784,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "",
+      "roman": "a KZ.",
+      "note": "",
+      "m1": "XXXУ",
+      "m2": "",
+      "e1": "xxxvi",
+      "e2": "jv"
+     }
+    },
+    {
+     "y": 2841,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "",
+      "roman": "в. K7.",
+      "note": "",
+      "m1": "Dewd.z.",
+      "m2": "",
+      "e1": "Dewt.z.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2906,
+     "cells": {
+      "golden": "1x",
+      "day": "23",
+      "letter": "",
+      "roman": "7. KL.",
+      "note": "Fast",
+      "m1": "iii",
+      "m2": "vi",
+      "e1": "iv",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2968,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6. KL.",
+      "note": "Matthise Apost, & X.",
+      "m1": "",
+      "m2": "vii",
+      "e1": "",
+      "e2": "Epà. I."
+     }
+    },
+    {
+     "y": 3032,
+     "cells": {
+      "golden": "111X",
+      "day": "25",
+      "letter": "",
+      "roman": "5. KZ,",
+      "note": "",
+      "m1": "",
+      "m2": "viii",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3093,
+     "cells": {
+      "golden": "vi",
+      "day": "2б",
+      "letter": "",
+      "roman": "4. KZ.",
+      "note": "",
+      "m1": "vii",
+      "m2": "ix",
+      "e1": "PiSi",
+      "e2": "9L1"
+     }
+    },
+    {
+     "y": 3158,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "",
+      "roman": "3. KZ.",
+      "note": "",
+      "m1": "ix",
+      "m2": "",
+      "e1": "",
+      "e2": "1y"
+     }
+    },
+    {
+     "y": 3220,
+     "cells": {
+      "golden": "A1X",
+      "day": "28",
+      "letter": "",
+      "roman": "pr. KZ.",
+      "note": "",
+      "m1": "xi",
+      "m2": "xі",
+      "e1": "xií",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3283,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "",
+      "note": "",
+      "m1": "xiїi",
+      "m2": "Matt. 7.",
+      "e1": "xiїi",
+      "e2": "Row.iz."
+     }
+    }
+   ]
+  }
+ },
+ "46": {
+  "month": "March",
+  "page": 46,
+  "A": {
+   "rules": [
+    427,
+    583,
+    678,
+    773,
+    1036,
+    1616,
+    1809,
+    2006,
+    2190,
+    2406
+   ],
+   "filled": [
+    2190
+   ],
+   "angle": -0.05,
+   "top": 1466,
+   "bot": 3482,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1531,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "Kalend.",
+      "note": "David Arch-B. of Mencvia",
+      "m1": "Dext.15.",
+      "m2": "Lake.12.",
+      "e1": "Deut.16",
+      "e2": "Eph. 6."
+     }
+    },
+    {
+     "y": 1592,
+     "cells": {
+      "golden": "",
+      "day": "2",
+      "letter": "E",
+      "roman": "6. No.",
+      "note": "Cedde, or Chad B.of Litchf.",
+      "m1": "xVii",
+      "m2": "xiii",
+      "e1": "xviii",
+      "e2": "Phil.r."
+     }
+    },
+    {
+     "y": 1654,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "F",
+      "roman": "5.No.",
+      "note": "",
+      "m1": "хix",
+      "m2": "XiY",
+      "e1": "XX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1716,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "4 No.",
+      "note": "",
+      "m1": "xxi",
+      "m2": "AX",
+      "e1": "xx.)",
+      "e2": "iїi"
+     }
+    },
+    {
+     "y": 1779,
+     "cells": {
+      "golden": "Dix",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xxiv",
+      "m2": "Ivi",
+      "e1": "AXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1842,
+     "cells": {
+      "golden": "riii",
+      "day": "6",
+      "letter": "B",
+      "roman": "pp. No.",
+      "note": "",
+      "m1": "xxVi",
+      "m2": "xvii",
+      "e1": "XXVii",
+      "e2": "iCоl.i."
+     }
+    },
+    {
+     "y": 1902,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "",
+      "roman": "Nora",
+      "note": "Perpetua Masrisan. M.",
+      "m1": "XXVIII",
+      "m2": "XViII",
+      "e1": "xxix",
+      "e2": "5:"
+     }
+    },
+    {
+     "y": 1968,
+     "cells": {
+      "golden": "xvi",
+      "day": "8",
+      "letter": "D",
+      "roman": "8. Id.",
+      "note": "",
+      "m1": "xxx",
+      "m2": "xix",
+      "e1": "xxxi.",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 2032,
+     "cells": {
+      "golden": "",
+      "day": "9",
+      "letter": "",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "хxхіi",
+      "m2": "XX",
+      "e1": "XXXIII",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2093,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "6. ld.",
+      "note": "",
+      "m1": "xXXiV",
+      "m2": "xxi",
+      "e1": "josh. r.",
+      "e2": "ș.Thes.r."
+     }
+    },
+    {
+     "y": 2157,
+     "cells": {
+      "golden": "xiii",
+      "day": "II",
+      "letter": "G",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "Fosh.a.",
+      "m2": "XXII",
+      "e1": "їii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2221,
+     "cells": {
+      "golden": "",
+      "day": "I2",
+      "letter": "",
+      "roman": "4. Уа.",
+      "note": "Gregorig M.B.of Rome, &C",
+      "m1": "iv",
+      "m2": "XXIII",
+      "e1": "",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 2283,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "",
+      "roman": "3. Уа.",
+      "note": "",
+      "m1": "vi",
+      "m2": "XxIV",
+      "e1": "vi",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2348,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "viii",
+      "m2": "Fohn.r.",
+      "e1": "iх",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2410,
+     "cells": {
+      "golden": "",
+      "day": "IS",
+      "letter": "D",
+      "roman": "Fdus",
+      "note": "",
+      "m1": "",
+      "m2": "!!",
+      "e1": "XXIII",
+      "e2": ",2.Thes.i."
+     }
+    },
+    {
+     "y": 2477,
+     "cells": {
+      "golden": "Iviii",
+      "day": "Іб",
+      "letter": "",
+      "roman": "17.Кав.Арт.",
+      "note": "",
+      "m1": "xxiY",
+      "m2": "!!!",
+      "e1": "Faodg. I.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2539,
+     "cells": {
+      "golden": "vi",
+      "day": "17",
+      "letter": "F",
+      "roman": "тб.Kl.",
+      "note": "",
+      "m1": "ladg. z.",
+      "m2": "iv",
+      "e1": "її.",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 2602,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "G",
+      "roman": "15.Kl.",
+      "note": "EdwardK.ofy. WestSaxons",
+      "m1": "iv",
+      "m2": "",
+      "e1": "",
+      "e2": "I.Tim. I"
+     }
+    },
+    {
+     "y": 2664,
+     "cells": {
+      "golden": "AX",
+      "day": "",
+      "letter": "",
+      "roman": "14. Кв.",
+      "note": "",
+      "m1": "vi",
+      "m2": "vi",
+      "e1": "vii",
+      "e2": "її, їй."
+     }
+    },
+    {
+     "y": 2727,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "B",
+      "roman": "13. Кl.",
+      "note": "",
+      "m1": "vili",
+      "m2": "vii",
+      "e1": "ix",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2789,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "",
+      "roman": "12. Кl.",
+      "note": "Benedict Abbot",
+      "m1": "",
+      "m2": "viii",
+      "e1": "xi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2851,
+     "cells": {
+      "golden": "xi",
+      "day": "22",
+      "letter": "D",
+      "roman": "11. Кl.",
+      "note": "",
+      "m1": "xii",
+      "m2": "ix",
+      "e1": "xili",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2914,
+     "cells": {
+      "golden": "",
+      "day": "23",
+      "letter": "E",
+      "roman": "Ia Kl.",
+      "note": "",
+      "m1": "xiv",
+      "m2": "",
+      "e1": "AX",
+      "e2": "2. Тiт. I."
+     }
+    },
+    {
+     "y": 2980,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "F",
+      "roman": "9 KZ.",
+      "note": "Fast",
+      "m1": "IAX",
+      "m2": "IX",
+      "e1": "xvii",
+      "e2": "5:"
+     }
+    },
+    {
+     "y": 3045,
+     "cells": {
+      "golden": "ix",
+      "day": "25",
+      "letter": "G",
+      "roman": "8. Kl.",
+      "note": "Annuno. of Mary",
+      "m1": "",
+      "m2": "xii",
+      "e1": "",
+      "e2": "!1!"
+     }
+    },
+    {
+     "y": 3109,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "",
+      "roman": "7.Kl.",
+      "note": "",
+      "m1": "xviii",
+      "m2": "xiїi",
+      "e1": "хix",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 3170,
+     "cells": {
+      "golden": "IVi",
+      "day": "27.",
+      "letter": "",
+      "roman": "6. Кl.",
+      "note": "",
+      "m1": "XX",
+      "m2": "XIV",
+      "e1": "xxi",
+      "e2": "Tilus.I."
+     }
+    },
+    {
+     "y": 3233,
+     "cells": {
+      "golden": "vi",
+      "day": "28",
+      "letter": "",
+      "roman": "5.Kl.",
+      "note": "",
+      "m1": "Ruth. r.",
+      "m2": "AX",
+      "e1": "Ruth 2.",
+      "e2": "її, ій"
+     }
+    },
+    {
+     "y": 3295,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "D",
+      "roman": "4. KL.",
+      "note": "",
+      "m1": "iїi",
+      "m2": "xvi",
+      "e1": "iv",
+      "e2": "|Philem."
+     }
+    },
+    {
+     "y": 3358,
+     "cells": {
+      "golden": "AIX",
+      "day": "30",
+      "letter": "E",
+      "roman": "3. Кl.",
+      "note": "",
+      "m1": "I.Sam.i.",
+      "m2": "xvii",
+      "e1": "I.Sam.a.",
+      "e2": "Hebr. I."
+     }
+    },
+    {
+     "y": 3421,
+     "cells": {
+      "golden": "i11",
+      "day": "3І.",
+      "letter": "",
+      "roman": "pr. Kl.",
+      "note": "",
+      "m1": "!!!",
+      "m2": "xvili",
+      "e1": "1V",
+      "e2": ""
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    422,
+    582,
+    678,
+    774,
+    1037,
+    1614,
+    1810,
+    2004,
+    2185,
+    2406
+   ],
+   "filled": [
+    2185
+   ],
+   "angle": 0,
+   "top": 1466,
+   "bot": 3480,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1530,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Kaleкd.",
+      "note": "David Arch-B. of Meneoia",
+      "m1": "Dest.is.",
+      "m2": "Laie.I%.",
+      "e1": "Drxl.xó",
+      "e2": "| Eph. 6."
+     }
+    },
+    {
+     "y": 1592,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6. No.",
+      "note": "Cedde, orCked B.of Lilchf.",
+      "m1": "zvii",
+      "m2": "",
+      "e1": "ШAX",
+      "e2": "Fkü. 1."
+     }
+    },
+    {
+     "y": 1655,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "5. Ne.",
+      "note": "",
+      "m1": "xіх",
+      "m2": "xiy",
+      "e1": "xX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1718,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "+ No.",
+      "note": "",
+      "m1": "xxі",
+      "m2": "IY",
+      "e1": "IX.i",
+      "e2": "SCI"
+     }
+    },
+    {
+     "y": 1779,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. No.",
+      "note": "",
+      "m1": "ATXX",
+      "m2": "xri",
+      "e1": "XXY",
+      "e2": "• iv"
+     }
+    },
+    {
+     "y": 1842,
+     "cells": {
+      "golden": "viii",
+      "day": "",
+      "letter": "",
+      "roman": "fr. No.",
+      "note": "",
+      "m1": "xxvi",
+      "m2": "xvii",
+      "e1": "XXVIL",
+      "e2": "i Col. 1."
+     }
+    },
+    {
+     "y": 1903,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "None",
+      "note": "Perpetma Manritan. M.",
+      "m1": "xxvil",
+      "m2": "111AX",
+      "e1": "XIXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1968,
+     "cells": {
+      "golden": "rri",
+      "day": "",
+      "letter": "",
+      "roman": "8. Jd.",
+      "note": "",
+      "m1": "KXX",
+      "m2": "xіх",
+      "e1": "хxxі.",
+      "e2": "116"
+     }
+    },
+    {
+     "y": 2032,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7.14.",
+      "note": "",
+      "m1": "xxxü",
+      "m2": "XX",
+      "e1": "111XXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2095,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "6. Id,",
+      "note": "",
+      "m1": "xxxio",
+      "m2": "",
+      "e1": "Josh.t",
+      "e2": "'1.Thes.i."
+     }
+    },
+    {
+     "y": 2159,
+     "cells": {
+      "golden": "",
+      "day": "LI",
+      "letter": "G",
+      "roman": "5. sa.",
+      "note": "",
+      "m1": "Fosk. a.",
+      "m2": "105x",
+      "e1": "",
+      "e2": "1"
+     }
+    },
+    {
+     "y": 2222,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "",
+      "roman": "1. 34.",
+      "note": "Gregorig M.B.efRome, dC",
+      "m1": "iv",
+      "m2": "xxiїi",
+      "e1": "",
+      "e2": "iїf"
+     }
+    },
+    {
+     "y": 2285,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "",
+      "roman": "3. З2.",
+      "note": "",
+      "m1": "",
+      "m2": "Diiv",
+      "e1": "vii",
+      "e2": "A1"
+     }
+    },
+    {
+     "y": 2349,
+     "cells": {
+      "golden": "",
+      "day": "I4",
+      "letter": "C",
+      "roman": "pr. Ja.",
+      "note": "",
+      "m1": "vili",
+      "m2": "Jokя.I.",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2411,
+     "cells": {
+      "golden": "",
+      "day": "IS",
+      "letter": "",
+      "roman": "Taмr",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "яxil",
+      "e2": ",2.Thes.1."
+     }
+    },
+    {
+     "y": 2478,
+     "cells": {
+      "golden": "vill",
+      "day": "",
+      "letter": "",
+      "roman": "1g.A'al.Apr.",
+      "note": "",
+      "m1": "AIXX",
+      "m2": "їїi",
+      "e1": "Jwdg.I",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2539,
+     "cells": {
+      "golden": "vii",
+      "day": "17",
+      "letter": "",
+      "roman": "хб. KZ.",
+      "note": "",
+      "m1": "ludg.2.",
+      "m2": "Al",
+      "e1": "iiL.",
+      "e2": "1"
+     }
+    },
+    {
+     "y": 2602,
+     "cells": {
+      "golden": "",
+      "day": "I8",
+      "letter": "G",
+      "roman": "1g. KZ.",
+      "note": "EdwardK.ofy. WestSaxons",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "I.Tím, z"
+     }
+    },
+    {
+     "y": 2665,
+     "cells": {
+      "golden": "",
+      "day": "19",
+      "letter": "A",
+      "roman": "14. KT.",
+      "note": "",
+      "m1": "",
+      "m2": "vl",
+      "e1": "vii",
+      "e2": "її, iii."
+     }
+    },
+    {
+     "y": 2728,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "",
+      "roman": "Ig. KZ.",
+      "note": "",
+      "m1": "vili",
+      "m2": "vii",
+      "e1": "",
+      "e2": "jv"
+     }
+    },
+    {
+     "y": 2789,
+     "cells": {
+      "golden": "",
+      "day": "31",
+      "letter": "",
+      "roman": "т2. K7.",
+      "note": "Bexedict Abbot",
+      "m1": "",
+      "m2": "viis",
+      "e1": "IX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2852,
+     "cells": {
+      "golden": "",
+      "day": "32",
+      "letter": "",
+      "roman": "I1. KL",
+      "note": "",
+      "m1": "хії",
+      "m2": "ix",
+      "e1": "150*",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2915,
+     "cells": {
+      "golden": "",
+      "day": "23",
+      "letter": "",
+      "roman": "1a A7.",
+      "note": "",
+      "m1": "xiv",
+      "m2": "",
+      "e1": "",
+      "e2": "а. Тіж.t."
+     }
+    },
+    {
+     "y": 2985,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "9 KZ.",
+      "note": "Fart",
+      "m1": "xvi",
+      "m2": "xі",
+      "e1": "avii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3044,
+     "cells": {
+      "golden": "",
+      "day": "5z",
+      "letter": "G",
+      "roman": "& KZ.",
+      "note": "Annuno. of Narr",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 3109,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. KT.",
+      "note": "",
+      "m1": "xVIl",
+      "m2": "",
+      "e1": "хіх",
+      "e2": "AT"
+     }
+    },
+    {
+     "y": 3171,
+     "cells": {
+      "golden": "TLAI",
+      "day": "27-",
+      "letter": "",
+      "roman": "6.K7.",
+      "note": "",
+      "m1": "*X",
+      "m2": "xiV",
+      "e1": "xxi",
+      "e2": "Titas. 1."
+     }
+    },
+    {
+     "y": 3233,
+     "cells": {
+      "golden": "1A",
+      "day": "gE",
+      "letter": "C",
+      "roman": "5 KL",
+      "note": "",
+      "m1": "Rм(A. I.",
+      "m2": "AX",
+      "e1": "Rath a",
+      "e2": "I1, 11L"
+     }
+    },
+    {
+     "y": 3296,
+     "cells": {
+      "golden": "",
+      "day": "бе",
+      "letter": "",
+      "roman": "4 Kr.",
+      "note": "",
+      "m1": "",
+      "m2": "xri",
+      "e1": "A1",
+      "e2": "lhilem."
+     }
+    },
+    {
+     "y": 3359,
+     "cells": {
+      "golden": "xiv",
+      "day": "30",
+      "letter": "",
+      "roman": "3. K7.",
+      "note": "",
+      "m1": "I.Sam.I.",
+      "m2": "xтil",
+      "e1": "t.Sam,a",
+      "e2": "llebr, t."
+     }
+    },
+    {
+     "y": 3422,
+     "cells": {
+      "golden": "jii",
+      "day": "31.",
+      "letter": "",
+      "roman": "рт. K7.",
+      "note": "",
+      "m1": "",
+      "m2": "xviüi",
+      "e1": "1V",
+      "e2": ""
+     }
+    }
+   ]
+  }
+ },
+ "47": {
+  "month": "April",
+  "page": 47,
+  "A": {
+   "rules": [
+    584,
+    734,
+    829,
+    924,
+    1188,
+    1766,
+    1960,
+    2151,
+    2345,
+    2550
+   ],
+   "filled": [],
+   "angle": -0.925,
+   "top": 1458,
+   "bot": 3405,
+   "pitch": 63,
+   "note": "",
+   "rows": [
+    {
+     "y": 1519,
+     "cells": {
+      "golden": "",
+      "day": "I",
+      "letter": "G",
+      "roman": "Kalend",
+      "note": "",
+      "m1": "r.Sam.5.",
+      "m2": "Foh.19.",
+      "e1": "I.Sam.6.",
+      "e2": "Hebr. 3."
+     }
+    },
+    {
+     "y": 1584,
+     "cells": {
+      "golden": "xi",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "vi",
+      "m2": "",
+      "e1": "vii",
+      "e2": "AI"
+     }
+    },
+    {
+     "y": 1646,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "Richard B. of Chichester",
+      "m1": "ix",
+      "m2": "xxi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1708,
+     "cells": {
+      "golden": "xix",
+      "day": "",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "Ambrose B. ef Millan.",
+      "m1": "xi",
+      "m2": "Acts.I",
+      "e1": "хії",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1769,
+     "cells": {
+      "golden": "viii",
+      "day": "",
+      "letter": "D",
+      "roman": "Nono",
+      "note": "",
+      "m1": "xiїi",
+      "m2": "",
+      "e1": "xiїїi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1835,
+     "cells": {
+      "golden": "xvi",
+      "day": "9",
+      "letter": "E",
+      "roman": "8.3а.",
+      "note": "",
+      "m1": "AX",
+      "m2": "!!",
+      "e1": "xVi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1898,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "F",
+      "roman": "7.78.",
+      "note": "",
+      "m1": "xvü",
+      "m2": "iV",
+      "e1": "xvii",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 1960,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "6.Fd.",
+      "note": "",
+      "m1": "xix",
+      "m2": "",
+      "e1": "xx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2022,
+     "cells": {
+      "golden": "XiII",
+      "day": "9.",
+      "letter": "",
+      "roman": "5.Зd.",
+      "note": "",
+      "m1": "xxi",
+      "m2": "vi",
+      "e1": "xxiI",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2085,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "B",
+      "roman": "4.Id.",
+      "note": "",
+      "m1": "ххіїі",
+      "m2": "",
+      "e1": "xxiV",
+      "e2": "xü"
+     }
+    },
+    {
+     "y": 2148,
+     "cells": {
+      "golden": "",
+      "day": "II",
+      "letter": "",
+      "roman": "3. 3d.",
+      "note": "",
+      "m1": "AXX",
+      "m2": "viii",
+      "e1": "xxVi",
+      "e2": "хiїi"
+     }
+    },
+    {
+     "y": 2211,
+     "cells": {
+      "golden": "",
+      "day": "I2",
+      "letter": "D",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "xxVi",
+      "m2": "ix",
+      "e1": "xxvii",
+      "e2": "Faт.r."
+     }
+    },
+    {
+     "y": 2274,
+     "cells": {
+      "golden": "",
+      "day": "I3",
+      "letter": "E",
+      "roman": "Ydus",
+      "note": "",
+      "m1": "xxix",
+      "m2": "",
+      "e1": "xxX",
+      "e2": "1l."
+     }
+    },
+    {
+     "y": 2339,
+     "cells": {
+      "golden": "xViii",
+      "day": "If.",
+      "letter": "F",
+      "roman": "18. Kl.Mażj",
+      "note": "",
+      "m1": "IXXX",
+      "m2": "xi",
+      "e1": "2.Sam.1.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2402,
+     "cells": {
+      "golden": "vii",
+      "day": "I5",
+      "letter": "G",
+      "roman": "17.Kl.",
+      "note": "",
+      "m1": "2.Sam.2.",
+      "m2": "xü",
+      "e1": "їїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2465,
+     "cells": {
+      "golden": "",
+      "day": "Iб",
+      "letter": "",
+      "roman": "I6.Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "xiїi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2528,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "",
+      "roman": "1I5. Kl.",
+      "note": "",
+      "m1": "vi",
+      "m2": "XiV",
+      "e1": "vü",
+      "e2": "I. Pel.т."
+     }
+    },
+    {
+     "y": 2589,
+     "cells": {
+      "golden": "iv",
+      "day": "18",
+      "letter": "",
+      "roman": "14.K7.",
+      "note": "",
+      "m1": "vii",
+      "m2": "",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2651,
+     "cells": {
+      "golden": "",
+      "day": "61",
+      "letter": "D",
+      "roman": "13. Кl.",
+      "note": "Alphege Arch-B.of Cant.",
+      "m1": "",
+      "m2": "rvi",
+      "e1": "xi",
+      "e2": "їii"
+     }
+    },
+    {
+     "y": 2713,
+     "cells": {
+      "golden": "Xii",
+      "day": "20",
+      "letter": "E",
+      "roman": "12.Kl.",
+      "note": "",
+      "m1": "xü",
+      "m2": "xViI",
+      "e1": "xil",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2777,
+     "cells": {
+      "golden": "",
+      "day": "z1",
+      "letter": "F",
+      "roman": "I1. Kl.",
+      "note": "",
+      "m1": "AIX",
+      "m2": "xviii",
+      "e1": "AX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2839,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "G",
+      "roman": "тo. Kl.",
+      "note": "",
+      "m1": "xVi",
+      "m2": "xix",
+      "e1": "xvii",
+      "e2": "2. Pet.s."
+     }
+    },
+    {
+     "y": 2903,
+     "cells": {
+      "golden": "ix",
+      "day": "23",
+      "letter": "",
+      "roman": "9.Kl.",
+      "note": "S. George M.",
+      "m1": "xvii",
+      "m2": "XX",
+      "e1": "xix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2964,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "8. Kl",
+      "note": "",
+      "m1": "XX",
+      "m2": "xxi",
+      "e1": "xxi",
+      "e2": "ili"
+     }
+    },
+    {
+     "y": 3030,
+     "cells": {
+      "golden": "XV11",
+      "day": "25",
+      "letter": "",
+      "roman": "7. Kl.",
+      "note": "8. Mark Evang. & Mart.",
+      "m1": "",
+      "m2": "TLXX",
+      "e1": "",
+      "e2": "1.Joh.I."
+     }
+    },
+    {
+     "y": 3093,
+     "cells": {
+      "golden": "vi",
+      "day": "26",
+      "letter": "D",
+      "roman": "6. KL.",
+      "note": "",
+      "m1": "XXI1",
+      "m2": "ххіїї",
+      "e1": "xxiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3159,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "E",
+      "roman": "5.Kl.",
+      "note": "",
+      "m1": "xxiv",
+      "m2": "XxIV",
+      "e1": "1.Kings.l.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3220,
+     "cells": {
+      "golden": "xiV",
+      "day": "28",
+      "letter": "F",
+      "roman": "4. Kl.",
+      "note": "",
+      "m1": "1.Xings.z.",
+      "m2": "XXV",
+      "e1": "iїi",
+      "e2": "1V"
+     }
+    },
+    {
+     "y": 3283,
+     "cells": {
+      "golden": "111",
+      "day": "29",
+      "letter": "G",
+      "roman": "3. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "xxvi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3346,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "",
+      "roman": "pr.K7.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xxVi",
+      "e1": "",
+      "e2": "2,3.10hн"
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    583,
+    732,
+    829,
+    924,
+    1187,
+    1766,
+    1959,
+    2151,
+    2345,
+    2550
+   ],
+   "filled": [],
+   "angle": -0.925,
+   "top": 1463,
+   "bot": 3404,
+   "pitch": 63,
+   "note": "",
+   "rows": [
+    {
+     "y": 1519,
+     "cells": {
+      "golden": "",
+      "day": "•1",
+      "letter": "G",
+      "roman": "Kalend",
+      "note": "",
+      "m1": "I.Sam.5.",
+      "m2": "§oñ.xg.",
+      "e1": "I.Sn9.6.",
+      "e2": "Hebr- 3."
+     }
+    },
+    {
+     "y": 1584,
+     "cells": {
+      "golden": "px",
+      "day": "",
+      "letter": "",
+      "roman": "+. No.",
+      "note": "",
+      "m1": "vii",
+      "m2": "XX",
+      "e1": "rill",
+      "e2": "AL"
+     }
+    },
+    {
+     "y": 1647,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "Richard B.of Chichestey",
+      "m1": "ix",
+      "m2": "xxі",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1710,
+     "cells": {
+      "golden": "хіx",
+      "day": "",
+      "letter": "C",
+      "roman": "pr. No.",
+      "note": "Amörose B. ef Milan.",
+      "m1": "px",
+      "m2": "Acts.z",
+      "e1": "грх",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1769,
+     "cells": {
+      "golden": "UCA",
+      "day": "5",
+      "letter": "D",
+      "roman": "Nona",
+      "note": "",
+      "m1": "кії",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1834,
+     "cells": {
+      "golden": "xvi",
+      "day": "9",
+      "letter": "E",
+      "roman": "8. уа.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "LAX",
+      "e2": "vil"
+     }
+    },
+    {
+     "y": 1897,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7.Ya.",
+      "note": "",
+      "m1": "rri",
+      "m2": "",
+      "e1": "xvili",
+      "e2": "Lx"
+     }
+    },
+    {
+     "y": 1959,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "G",
+      "roman": "6.74.",
+      "note": "",
+      "m1": "хіх",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2023,
+     "cells": {
+      "golden": "xiї",
+      "day": "9.",
+      "letter": "",
+      "roman": "5- Yd.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xxil",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2085,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "4. Tá.",
+      "note": "",
+      "m1": "ххіїi",
+      "m2": "",
+      "e1": "XXiV",
+      "e2": "кії"
+     }
+    },
+    {
+     "y": 2147,
+     "cells": {
+      "golden": "",
+      "day": "I1",
+      "letter": "",
+      "roman": "3. 7d.",
+      "note": "",
+      "m1": "XXV",
+      "m2": "",
+      "e1": "XXVI",
+      "e2": "xiї"
+     }
+    },
+    {
+     "y": 2210,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "",
+      "roman": "pr.yd.",
+      "note": "",
+      "m1": "xxvii",
+      "m2": "X!",
+      "e1": "xxvii",
+      "e2": "Jam.t."
+     }
+    },
+    {
+     "y": 2273,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "E",
+      "roman": "3usI",
+      "note": "",
+      "m1": "ххіл",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2339,
+     "cells": {
+      "golden": "xviii",
+      "day": "•9r",
+      "letter": "",
+      "roman": "18. KI. Maj",
+      "note": "",
+      "m1": "IXXX",
+      "m2": "xi",
+      "e1": "2.Sam.t.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2403,
+     "cells": {
+      "golden": "",
+      "day": "15",
+      "letter": "",
+      "roman": "17. Kl.",
+      "note": "",
+      "m1": "2.Sam.z.",
+      "m2": "TEX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2465,
+     "cells": {
+      "golden": "",
+      "day": "91",
+      "letter": "",
+      "roman": "1б. Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2525,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "",
+      "roman": "15.KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "xiT",
+      "e1": "vii",
+      "e2": "1. Pet.I."
+     }
+    },
+    {
+     "y": 2589,
+     "cells": {
+      "golden": "iy",
+      "day": "18",
+      "letter": "",
+      "roman": "14.K7.",
+      "note": "",
+      "m1": "vin",
+      "m2": "",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2652,
+     "cells": {
+      "golden": "",
+      "day": "бл",
+      "letter": "",
+      "roman": "13. K7.",
+      "note": "Alphege Arch-B.of Cant.",
+      "m1": "",
+      "m2": "xvi",
+      "e1": "",
+      "e2": "tt*"
+     }
+    },
+    {
+     "y": 2712,
+     "cells": {
+      "golden": "xii",
+      "day": "20",
+      "letter": "3",
+      "roman": "12. Kt.",
+      "note": "",
+      "m1": "xii",
+      "m2": "xvü",
+      "e1": "",
+      "e2": "AL"
+     }
+    },
+    {
+     "y": 2776,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "F",
+      "roman": "tt. Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "max",
+      "e1": "AX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2838,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "10. KL.",
+      "note": "",
+      "m1": "LAx",
+      "m2": "xіл",
+      "e1": "xvi",
+      "e2": "3. Pet. 1."
+     }
+    },
+    {
+     "y": 2902,
+     "cells": {
+      "golden": "ix",
+      "day": "Ес",
+      "letter": "",
+      "roman": "9. K7.",
+      "note": "S. George M.",
+      "m1": "mvii",
+      "m2": "",
+      "e1": "xіx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2964,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "8. KZ",
+      "note": "",
+      "m1": "",
+      "m2": "xxі",
+      "e1": "xxi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3029,
+     "cells": {
+      "golden": "xvii",
+      "day": "25",
+      "letter": "",
+      "roman": "%.KZ.",
+      "note": "g.Mark: Bvang. & Mart,",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "1. 7oh.1."
+     }
+    },
+    {
+     "y": 3092,
+     "cells": {
+      "golden": "vi",
+      "day": "26",
+      "letter": "",
+      "roman": "6. КZ.",
+      "note": "",
+      "m1": "",
+      "m2": "xxiil",
+      "e1": "xxiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3159,
+     "cells": {
+      "golden": "",
+      "day": "Lz",
+      "letter": "",
+      "roman": "5. KL.",
+      "note": "",
+      "m1": "XxiY",
+      "m2": "xoâv",
+      "e1": "1.Kings.z",
+      "e2": "tif"
+     }
+    },
+    {
+     "y": 3221,
+     "cells": {
+      "golden": "XİY",
+      "day": "28",
+      "letter": "",
+      "roman": "4. KZ.",
+      "note": "",
+      "m1": "I.Xingr2,",
+      "m2": "AXX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3283,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "G",
+      "roman": "3. KL.",
+      "note": "",
+      "m1": "A1",
+      "m2": "xxvi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3345,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "",
+      "roman": "pr. K2.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xxvíi",
+      "e1": "",
+      "e2": "23J0km"
+     }
+    }
+   ]
+  }
+ },
+ "48": {
+  "month": "May",
+  "page": 48,
+  "A": {
+   "rules": [
+    458,
+    620,
+    716,
+    810,
+    1075,
+    1655,
+    1849,
+    2041,
+    2234,
+    2440
+   ],
+   "filled": [],
+   "angle": -0.1,
+   "top": 1453,
+   "bot": 3455,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1507,
+     "cells": {
+      "golden": "-:",
+      "day": "",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "8. Phil & B. Jao Ap. &s IC.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "Jude"
+     }
+    },
+    {
+     "y": 1573,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6. No.",
+      "note": "",
+      "m1": "r. Kings.B.",
+      "m2": "Acts 28.",
+      "e1": "I. Kings.g",
+      "e2": "Rom. I."
+     }
+    },
+    {
+     "y": 1636,
+     "cells": {
+      "golden": "xiX",
+      "day": "",
+      "letter": "D",
+      "roman": "5.No.",
+      "note": "Invention of the Cross.",
+      "m1": "",
+      "m2": "Mat. I.",
+      "e1": "xi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1699,
+     "cells": {
+      "golden": "viii",
+      "day": "",
+      "letter": "E",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "",
+      "m2": "..",
+      "e1": "хüi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1760,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xiv",
+      "m2": "!!!",
+      "e1": "AX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1823,
+     "cells": {
+      "golden": "xvi",
+      "day": "",
+      "letter": "G",
+      "roman": "pr. No.",
+      "note": "S.Fohn Evang. anie port, latin.",
+      "m1": "xvi",
+      "m2": "iv",
+      "e1": "Ivii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1884,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "",
+      "roman": "Nora",
+      "note": "",
+      "m1": "xviїi",
+      "m2": "",
+      "e1": "xix",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1949,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "B",
+      "roman": "8. Id.",
+      "note": "",
+      "m1": "XX",
+      "m2": "vi",
+      "e1": "xxi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2012,
+     "cells": {
+      "golden": "xiїi",
+      "day": "",
+      "letter": "",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "xxiї",
+      "m2": "vi",
+      "e1": "2.Kings1",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 2074,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "D",
+      "roman": "6.1d.",
+      "note": "",
+      "m1": "2. Kings,2,",
+      "m2": "vii",
+      "e1": "",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2137,
+     "cells": {
+      "golden": "",
+      "day": "II",
+      "letter": "E",
+      "roman": "5. Jd.",
+      "note": "",
+      "m1": "iv",
+      "m2": "IX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2199,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "F",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "vi",
+      "m2": "",
+      "e1": "vi",
+      "e2": "IX"
+     }
+    },
+    {
+     "y": 2261,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "G",
+      "roman": "3. Іd.",
+      "note": "",
+      "m1": "viii",
+      "m2": "xi",
+      "e1": "ix",
+      "e2": "xü"
+     }
+    },
+    {
+     "y": 2324,
+     "cells": {
+      "golden": "mux",
+      "day": "",
+      "letter": "",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "",
+      "m2": "xü",
+      "e1": "xi",
+      "e2": "хiїi"
+     }
+    },
+    {
+     "y": 2384,
+     "cells": {
+      "golden": "vi",
+      "day": "I5",
+      "letter": "B",
+      "roman": "Idus",
+      "note": "",
+      "m1": "",
+      "m2": "хіi",
+      "e1": "хüїi",
+      "e2": "xiv"
+     }
+    },
+    {
+     "y": 2453,
+     "cells": {
+      "golden": "",
+      "day": "I6",
+      "letter": "",
+      "roman": "17.K%. Iunіj",
+      "note": "",
+      "m1": "xiїй",
+      "m2": "xiv",
+      "e1": "AX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2513,
+     "cells": {
+      "golden": "AX",
+      "day": "LI",
+      "letter": "D",
+      "roman": "16 KL.",
+      "note": "",
+      "m1": "xvi",
+      "m2": "XV",
+      "e1": "Ivi",
+      "e2": "xvi"
+     }
+    },
+    {
+     "y": 2576,
+     "cells": {
+      "golden": "AI",
+      "day": "18",
+      "letter": "",
+      "roman": "15Kl.",
+      "note": "",
+      "m1": "xvii",
+      "m2": "XVI",
+      "e1": "xix",
+      "e2": "r. Соr.I."
+     }
+    },
+    {
+     "y": 2640,
+     "cells": {
+      "golden": "",
+      "day": "19",
+      "letter": "",
+      "roman": "14 KL.",
+      "note": "Dunstan Arch.B.of Cant.",
+      "m1": "XX",
+      "m2": "xvii",
+      "e1": "IXX",
+      "e2": "5:"
+     }
+    },
+    {
+     "y": 2703,
+     "cells": {
+      "golden": "xi",
+      "day": "20",
+      "letter": "G",
+      "roman": "13 Кl.",
+      "note": "",
+      "m1": "хxi",
+      "m2": "xvii",
+      "e1": "xxiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2766,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "",
+      "roman": "12 Kl.",
+      "note": "",
+      "m1": "xxiv",
+      "m2": "xix",
+      "e1": "AXX",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2827,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "B",
+      "roman": "1I Kl.",
+      "note": "",
+      "m1": "Esra.I.",
+      "m2": "XX",
+      "e1": "Esra 3.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2890,
+     "cells": {
+      "golden": "ix",
+      "day": "23",
+      "letter": "",
+      "roman": "Iо KL.",
+      "note": "",
+      "m1": "iv",
+      "m2": "xxi",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2953,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "D",
+      "roman": "9 Kl.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xxii",
+      "e1": "vi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 3015,
+     "cells": {
+      "golden": "плх",
+      "day": "25",
+      "letter": "E",
+      "roman": "8 Kl.",
+      "note": "-",
+      "m1": "ix",
+      "m2": "xxiii",
+      "e1": "Neh.s.",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 3079,
+     "cells": {
+      "golden": "vi",
+      "day": "26",
+      "letter": "F",
+      "roman": "7 Kl.",
+      "note": "Aug:y firstArch B.of Cant.",
+      "m1": "Neh. a.",
+      "m2": "ADXX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3144,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "G",
+      "roman": "6 Kl.",
+      "note": "Ven. Bede pr.",
+      "m1": "",
+      "m2": "AXX",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3207,
+     "cells": {
+      "golden": "ADX",
+      "day": "28",
+      "letter": "",
+      "roman": "5Kl.",
+      "note": "-",
+      "m1": "vii",
+      "m2": "xXVi",
+      "e1": "ix",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 3271,
+     "cells": {
+      "golden": "B:",
+      "day": "29",
+      "letter": "B",
+      "roman": "4 Kl.",
+      "note": "OEL. II. Nat, of Bot.",
+      "m1": "",
+      "m2": "xxvi",
+      "e1": "xій / - -",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3334,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "",
+      "roman": "3 Kl.",
+      "note": "",
+      "m1": "Ester.I.",
+      "m2": "XXVIII",
+      "e1": "Ester 2.",
+      "e2": "xüi"
+     }
+    },
+    {
+     "y": 3397,
+     "cells": {
+      "golden": "xi",
+      "day": "3I",
+      "letter": "D",
+      "roman": "pr Kl.",
+      "note": "",
+      "m1": "üїi",
+      "m2": "Mark. I.",
+      "e1": "AI",
+      "e2": "XiV"
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    457,
+    619,
+    717,
+    810,
+    1075,
+    1655,
+    1848,
+    2041,
+    2234,
+    2439
+   ],
+   "filled": [],
+   "angle": -0.025,
+   "top": 1455,
+   "bot": 3459,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1509,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "B",
+      "roman": "Kairnd",
+      "note": "B, Phi & B. Yeo 4D. & 1.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "lude"
+     }
+    },
+    {
+     "y": 1574,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C",
+      "roman": "6, No.",
+      "note": "",
+      "m1": "",
+      "m2": "Acts a8.",
+      "e1": "1. Д'iяgя-g",
+      "e2": "Rom, 1,"
+     }
+    },
+    {
+     "y": 1637,
+     "cells": {
+      "golden": "лix",
+      "day": "",
+      "letter": "D",
+      "roman": "5. No.",
+      "note": "Insention of the Crost.",
+      "m1": "",
+      "m2": "Mat. 1.",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1700,
+     "cells": {
+      "golden": "BLA",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "хії",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1762,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xiv",
+      "m2": "",
+      "e1": "AX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1824,
+     "cells": {
+      "golden": "xvi",
+      "day": "6",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "5.Jokn Evang- asic pors.iatin.",
+      "m1": "xvi",
+      "m2": "At",
+      "e1": "Ivii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1884,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Nora",
+      "note": "",
+      "m1": "xviїi",
+      "m2": "",
+      "e1": "",
+      "e2": "vì"
+     }
+    },
+    {
+     "y": 1948,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "B. la.",
+      "note": "",
+      "m1": "",
+      "m2": "vi",
+      "e1": "",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2013,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C",
+      "roman": "7. ld.",
+      "note": "",
+      "m1": "",
+      "m2": "vii",
+      "e1": "гтдмІ у'в",
+      "e2": "vili"
+     }
+    },
+    {
+     "y": 2076,
+     "cells": {
+      "golden": "",
+      "day": "1D",
+      "letter": "",
+      "roman": "6.12,",
+      "note": "",
+      "m1": "a.Kingr.z.",
+      "m2": "viil",
+      "e1": "",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2139,
+     "cells": {
+      "golden": "",
+      "day": "1I",
+      "letter": "E",
+      "roman": "5./d.",
+      "note": "",
+      "m1": "iV",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2201,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "",
+      "roman": "4. ld.",
+      "note": "",
+      "m1": "",
+      "m2": "T",
+      "e1": "rü",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2263,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "",
+      "roman": "3. ld.",
+      "note": "",
+      "m1": "viüi",
+      "m2": "",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2327,
+     "cells": {
+      "golden": "IviLi",
+      "day": "F1",
+      "letter": "",
+      "roman": "pr.la.",
+      "note": "",
+      "m1": "",
+      "m2": "xü",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2386,
+     "cells": {
+      "golden": "rii",
+      "day": "15",
+      "letter": "",
+      "roman": "Jdws",
+      "note": "",
+      "m1": "rії",
+      "m2": "хілі",
+      "e1": "xіі",
+      "e2": "xіт"
+     }
+    },
+    {
+     "y": 2455,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C",
+      "roman": "17.KL. Zani)",
+      "note": "",
+      "m1": "",
+      "m2": "XIT",
+      "e1": "",
+      "e2": "AX"
+     }
+    },
+    {
+     "y": 2515,
+     "cells": {
+      "golden": "AX",
+      "day": "17",
+      "letter": "",
+      "roman": "16 KL.",
+      "note": "",
+      "m1": "avi",
+      "m2": "",
+      "e1": "пAX",
+      "e2": "xvi"
+     }
+    },
+    {
+     "y": 2578,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "",
+      "roman": "15 KL.",
+      "note": "",
+      "m1": "Ivili",
+      "m2": "Ivi",
+      "e1": "xіx",
+      "e2": "I.Cor.1."
+     }
+    },
+    {
+     "y": 2642,
+     "cells": {
+      "golden": "",
+      "day": "6х",
+      "letter": "",
+      "roman": "14 KL.",
+      "note": "Denssan Arck.B.ofCant.",
+      "m1": "xx",
+      "m2": "xril",
+      "e1": "TXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2705,
+     "cells": {
+      "golden": "xü",
+      "day": "20",
+      "letter": "",
+      "roman": "13 KL.",
+      "note": "",
+      "m1": "xxîi",
+      "m2": "rylii",
+      "e1": "Ixiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2768,
+     "cells": {
+      "golden": "",
+      "day": "IE",
+      "letter": "",
+      "roman": "12 KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "xіx",
+      "e1": "AXX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2828,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Ix KZ.",
+      "note": "",
+      "m1": "Esra, 1.",
+      "m2": "XX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2889,
+     "cells": {
+      "golden": "ix",
+      "day": "23",
+      "letter": "C",
+      "roman": "хо KL",
+      "note": "",
+      "m1": "",
+      "m2": "xxi",
+      "e1": "",
+      "e2": "LA"
+     }
+    },
+    {
+     "y": 2958,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "9 K7.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xxi",
+      "e1": "PiS",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 3017,
+     "cells": {
+      "golden": "xvii",
+      "day": "25",
+      "letter": "E",
+      "roman": "8A7.",
+      "note": "",
+      "m1": "ix",
+      "m2": "XXiÂ",
+      "e1": "Neh, I.",
+      "e2": "vili"
+     }
+    },
+    {
+     "y": 3082,
+     "cells": {
+      "golden": "",
+      "day": "2б",
+      "letter": "",
+      "roman": "7 KZ.",
+      "note": "Asgiy firstArckB.o/Cant.",
+      "m1": "Neh. a.",
+      "m2": "хxiт",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3144,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "G",
+      "roman": "6 KI.",
+      "note": "Yen. Bede pr.",
+      "m1": "",
+      "m2": "XXY",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3209,
+     "cells": {
+      "golden": "",
+      "day": "2B",
+      "letter": "",
+      "roman": "5 KL.",
+      "note": "",
+      "m1": "viii",
+      "m2": "XxVi",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3275,
+     "cells": {
+      "golden": "",
+      "day": "6c",
+      "letter": "",
+      "roman": "4 Kг.",
+      "note": "OH. IL Nat of Bot,",
+      "m1": "",
+      "m2": "xxvii",
+      "e1": "",
+      "e2": "xü"
+     }
+    },
+    {
+     "y": 3337,
+     "cells": {
+      "golden": "",
+      "day": "o€",
+      "letter": "",
+      "roman": "3 KZ.",
+      "note": "",
+      "m1": "Ester.r.",
+      "m2": "xxvil",
+      "e1": "Ester 3.",
+      "e2": "Xtii"
+     }
+    },
+    {
+     "y": 3398,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "#r KI.",
+      "note": "",
+      "m1": "",
+      "m2": "Mark. 1.",
+      "e1": "At",
+      "e2": "ATX"
+     }
+    }
+   ]
+  }
+ },
+ "49": {
+  "month": "June",
+  "page": 49,
+  "B": {
+   "rules": [
+    562,
+    713,
+    808,
+    904,
+    1165,
+    1743,
+    1935,
+    2127,
+    2320,
+    2527
+   ],
+   "filled": [
+    808
+   ],
+   "angle": 0,
+   "top": 1446,
+   "bot": 3396,
+   "pitch": 63,
+   "note": "",
+   "rows": [
+    {
+     "y": 1507,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "Nicomede Rom. Pr. & M.",
+      "m1": "Esfer. 5.",
+      "m2": "Mark.a.",
+      "e1": "Ester 6.",
+      "e2": "I.Cor. is."
+     }
+    },
+    {
+     "y": 1572,
+     "cells": {
+      "golden": "xix",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "TA",
+      "m2": "",
+      "e1": "vill",
+      "e2": "rvi"
+     }
+    },
+    {
+     "y": 1635,
+     "cells": {
+      "golden": "vüi",
+      "day": "3",
+      "letter": "",
+      "roman": "3- No.",
+      "note": "",
+      "m1": "LX",
+      "m2": "",
+      "e1": "100.1.",
+      "e2": "7. Cor.r."
+     }
+    },
+    {
+     "y": 1698,
+     "cells": {
+      "golden": "xvi",
+      "day": "",
+      "letter": "",
+      "roman": "pr. No",
+      "note": "",
+      "m1": "Гоб.3.",
+      "m2": "",
+      "e1": "",
+      "e2": "H:"
+     }
+    },
+    {
+     "y": 1758,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nora",
+      "note": "Boxiface B.of Menizdo M.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "Lii."
+     }
+    },
+    {
+     "y": 1823,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C",
+      "roman": "8. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "vil",
+      "e1": "vũ",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1887,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. ld.",
+      "note": "",
+      "m1": "",
+      "m2": "vili",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1947,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "б. Уд.",
+      "note": "",
+      "m1": "",
+      "m2": "ix",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2011,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "5. 1d.",
+      "note": "",
+      "m1": "rii",
+      "m2": "",
+      "e1": "хії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2073,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "+. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "AX",
+      "e2": "Piїi"
+     }
+    },
+    {
+     "y": 2136,
+     "cells": {
+      "golden": "",
+      "day": "1I",
+      "letter": "",
+      "roman": "3: 1.",
+      "note": "B. Barzusb, Apost. & M.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2199,
+     "cells": {
+      "golden": "xvüi",
+      "day": "12",
+      "letter": "",
+      "roman": "pr. ld.",
+      "note": "",
+      "m1": "LAX",
+      "m2": "xіi",
+      "e1": "avü, xvil.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2258,
+     "cells": {
+      "golden": "",
+      "day": "E1",
+      "letter": "",
+      "roman": "Idus",
+      "note": "",
+      "m1": "хіх",
+      "m2": "",
+      "e1": "XX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2325,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "18. K7. Iwlij",
+      "note": "",
+      "m1": "хrі",
+      "m2": "AIX",
+      "e1": "xxі",
+      "e2": "tx"
+     }
+    },
+    {
+     "y": 2387,
+     "cells": {
+      "golden": "",
+      "day": "15",
+      "letter": "",
+      "roman": "17. K7.",
+      "note": "",
+      "m1": "IX2L",
+      "m2": "XY",
+      "e1": "xxiv. xXP.",
+      "e2": "IEX"
+     }
+    },
+    {
+     "y": 2449,
+     "cells": {
+      "golden": "A!",
+      "day": "=6",
+      "letter": "",
+      "roman": "16. K7.",
+      "note": "",
+      "m1": "ori svil.",
+      "m2": "LAX",
+      "e1": "xrisi",
+      "e2": "xifi"
+     }
+    },
+    {
+     "y": 2511,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "G",
+      "roman": "15.K2",
+      "note": "S, Alban M.",
+      "m1": "xxix",
+      "m2": "Euke. 1.",
+      "e1": "XXX",
+      "e2": "Gaiat. I."
+     }
+    },
+    {
+     "y": 2575,
+     "cells": {
+      "golden": "siї",
+      "day": "I8",
+      "letter": "",
+      "roman": "14. KL.",
+      "note": "",
+      "m1": "xxxi",
+      "m2": "",
+      "e1": "xxxii",
+      "e2": "11"
+     }
+    },
+    {
+     "y": 2638,
+     "cells": {
+      "golden": "",
+      "day": "61",
+      "letter": "",
+      "roman": "13. A7.",
+      "note": "",
+      "m1": "BухХX",
+      "m2": "ili",
+      "e1": "XXxiY",
+      "e2": "Ei"
+     }
+    },
+    {
+     "y": 2700,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "C",
+      "roman": "12. K7.",
+      "note": "Trasut: of tas K.ofy.W. Sar.",
+      "m1": "AxXX",
+      "m2": "",
+      "e1": "xxxvi",
+      "e2": "AГ"
+     }
+    },
+    {
+     "y": 2763,
+     "cells": {
+      "golden": "jx",
+      "day": "31",
+      "letter": "7)",
+      "roman": "I.KZ.",
+      "note": "",
+      "m1": "XXXVI)",
+      "m2": "",
+      "e1": "xxхvіi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2825,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "",
+      "roman": "то. K7.",
+      "note": "",
+      "m1": "хххід",
+      "m2": "vi",
+      "e1": "",
+      "e2": "LA"
+     }
+    },
+    {
+     "y": 2889,
+     "cells": {
+      "golden": "evii",
+      "day": "23",
+      "letter": "",
+      "roman": "g.Kl.",
+      "note": "Fast",
+      "m1": "xli",
+      "m2": "vi",
+      "e1": "xdüi",
+      "e2": "Eph. I."
+     }
+    },
+    {
+     "y": 2951,
+     "cells": {
+      "golden": "vi",
+      "day": "",
+      "letter": "G",
+      "roman": "8. KZ.",
+      "note": "Natiy. of B. Jonn Bapt:",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3014,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "7. K7.",
+      "note": "",
+      "m1": "Гrou.х",
+      "m2": "vii",
+      "e1": "Pros.z.",
+      "e2": "15"
+     }
+    },
+    {
+     "y": 3077,
+     "cells": {
+      "golden": "xir",
+      "day": "26",
+      "letter": "",
+      "roman": "6. K7.",
+      "note": "",
+      "m1": "",
+      "m2": "ix",
+      "e1": "iv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3141,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "",
+      "roman": "5. K2.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "AT"
+     }
+    },
+    {
+     "y": 3204,
+     "cells": {
+      "golden": "",
+      "day": "28",
+      "letter": "",
+      "roman": "4. KL.",
+      "note": "Fast",
+      "m1": "vũ",
+      "m2": "",
+      "e1": "IXА",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3268,
+     "cells": {
+      "golden": "xi",
+      "day": "",
+      "letter": "E",
+      "roman": "3. Kl.",
+      "note": "8, Pet. Apost. &s 3.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3331,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "",
+      "roman": "pr.Kl.",
+      "note": "",
+      "m1": "ix",
+      "m2": "XUI",
+      "e1": "",
+      "e2": ""
+     }
+    }
+   ]
+  }
+ },
+ "50": {
+  "month": "July",
+  "page": 50,
+  "A": {
+   "rules": [
+    486,
+    646,
+    740,
+    835,
+    1099,
+    1680,
+    1872,
+    2064,
+    2256,
+    2467
+   ],
+   "filled": [],
+   "angle": 0.1,
+   "top": 1421,
+   "bot": 3433,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1480,
+     "cells": {
+      "golden": "xix",
+      "day": "",
+      "letter": "G",
+      "roman": "Kalend",
+      "note": "",
+      "m1": "Prov:II.",
+      "m2": "Luke:13.",
+      "e1": "Prov: 12.",
+      "e2": "Phil.I."
+     }
+    },
+    {
+     "y": 1545,
+     "cells": {
+      "golden": "vüi",
+      "day": "",
+      "letter": "",
+      "roman": "6. No.",
+      "note": "V'isit: of y. Bl.Virg. Marie.",
+      "m1": "xiїi",
+      "m2": "xiy",
+      "e1": "xiv",
+      "e2": "5:"
+     }
+    },
+    {
+     "y": 1608,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "",
+      "roman": "5. No.",
+      "note": "",
+      "m1": "AX",
+      "m2": "AX",
+      "e1": "xVi",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 1670,
+     "cells": {
+      "golden": "xVi",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "Transl:ofS.Martin B.&C.",
+      "m1": "xvi",
+      "m2": "xvi",
+      "e1": "xviii",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 1733,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "D",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xix",
+      "m2": "xVil",
+      "e1": "XX",
+      "e2": "Col.I."
+     }
+    },
+    {
+     "y": 1796,
+     "cells": {
+      "golden": "",
+      "day": "9",
+      "letter": "E",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "xxi",
+      "m2": "хтії",
+      "e1": "хxiї",
+      "e2": "ii"
+     }
+    },
+    {
+     "y": 1858,
+     "cells": {
+      "golden": "xii",
+      "day": "7",
+      "letter": "F",
+      "roman": "Nona",
+      "note": "",
+      "m1": "хxіїі",
+      "m2": "xix",
+      "e1": "xxiV",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 1923,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "G",
+      "roman": "8. Id.",
+      "note": "",
+      "m1": "AXX",
+      "m2": "xX",
+      "e1": "xxvi",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 1987,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. Id.",
+      "note": "",
+      "m1": "xxvi",
+      "m2": "xxi",
+      "e1": "xxViii",
+      "e2": "i.Thes.i."
+     }
+    },
+    {
+     "y": 2049,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "6.ld.",
+      "note": "",
+      "m1": "xxix",
+      "m2": "xxii",
+      "e1": "xxxі",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2113,
+     "cells": {
+      "golden": "",
+      "day": "IX",
+      "letter": "",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "Eccles.1.",
+      "m2": "xxiI",
+      "e1": "Eccles.z.",
+      "e2": "ii"
+     }
+    },
+    {
+     "y": 2176,
+     "cells": {
+      "golden": "rviii",
+      "day": "12",
+      "letter": "D",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "!!!",
+      "m2": "xxis",
+      "e1": "iv",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2240,
+     "cells": {
+      "golden": "vü",
+      "day": "13",
+      "letter": "E",
+      "roman": "3. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "loh.I.",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2301,
+     "cells": {
+      "golden": "",
+      "day": "I4",
+      "letter": "",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "TLA",
+      "m2": "",
+      "e1": "viii",
+      "e2": "2.Thes.r."
+     }
+    },
+    {
+     "y": 2364,
+     "cells": {
+      "golden": "AX",
+      "day": "15",
+      "letter": "G",
+      "roman": "Fdus",
+      "note": "SwithunBo Winck.Transl.",
+      "m1": "",
+      "m2": "їїi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2432,
+     "cells": {
+      "golden": "iv",
+      "day": "хб",
+      "letter": "",
+      "roman": "17. Кв. Анg.",
+      "note": "",
+      "m1": "xi",
+      "m2": "iv",
+      "e1": "xü",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2493,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "B",
+      "roman": "тб. Кl.",
+      "note": "",
+      "m1": "Ierem. I.",
+      "m2": "",
+      "e1": "lereтт. z.",
+      "e2": "І.Тіж.r."
+     }
+    },
+    {
+     "y": 2557,
+     "cells": {
+      "golden": "xü",
+      "day": "18",
+      "letter": "",
+      "roman": "15. Kl.",
+      "note": "",
+      "m1": "їїi",
+      "m2": "",
+      "e1": "",
+      "e2": "11. 1ll."
+     }
+    },
+    {
+     "y": 2619,
+     "cells": {
+      "golden": "",
+      "day": "6I",
+      "letter": "D",
+      "roman": "14. Кl.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "vi",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 2682,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "E",
+      "roman": "13.КL.",
+      "note": "MargaretV.& MalAntioch.",
+      "m1": "vi",
+      "m2": "vii",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2745,
+     "cells": {
+      "golden": "",
+      "day": "21",
+      "letter": "F",
+      "roman": "12. Kl.",
+      "note": "S. Marie Magdalen.",
+      "m1": "ix",
+      "m2": "ix",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2807,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "G",
+      "roman": "I1.Kl.",
+      "note": "",
+      "m1": "xi",
+      "m2": "",
+      "e1": "1TX",
+      "e2": "2.Tim.I"
+     }
+    },
+    {
+     "y": 2869,
+     "cells": {
+      "golden": "xvi",
+      "day": "23",
+      "letter": "",
+      "roman": "10.Kl.",
+      "note": "",
+      "m1": "xıїi",
+      "m2": "xi",
+      "e1": "XiV",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2932,
+     "cells": {
+      "golden": "vi",
+      "day": "24",
+      "letter": "",
+      "roman": "9.1%.",
+      "note": "Fast",
+      "m1": "AX",
+      "m2": "",
+      "e1": "xVi",
+      "e2": "il."
+     }
+    },
+    {
+     "y": 2993,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "8.KL.",
+      "note": "8. Ismos Apost. & II.",
+      "m1": "",
+      "m2": "xiїi",
+      "e1": "",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 3055,
+     "cells": {
+      "golden": "xiїi",
+      "day": "26",
+      "letter": "D",
+      "roman": "7.K",
+      "note": "S.Anne, mothersoy.Bl.T.NV.",
+      "m1": "ПAX",
+      "m2": "xiт",
+      "e1": "xviii",
+      "e2": "Titas I."
+     }
+    },
+    {
+     "y": 3118,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "E",
+      "roman": "6.KL.",
+      "note": "",
+      "m1": "XIX",
+      "m2": "Ax",
+      "e1": "XX",
+      "e2": "il. 111."
+     }
+    },
+    {
+     "y": 3181,
+     "cells": {
+      "golden": "",
+      "day": ":28",
+      "letter": "",
+      "roman": "5. Kв.",
+      "note": "",
+      "m1": "xxi",
+      "m2": "IAx",
+      "e1": "xxü",
+      "e2": "l'kileт."
+     }
+    },
+    {
+     "y": 3245,
+     "cells": {
+      "golden": "xi",
+      "day": "29",
+      "letter": "G",
+      "roman": "4. KL.",
+      "note": "",
+      "m1": "XXIII",
+      "m2": "xVii",
+      "e1": "XXIV",
+      "e2": "Hebr. I."
+     }
+    },
+    {
+     "y": 3307,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "",
+      "roman": "3. КL.",
+      "note": "",
+      "m1": "",
+      "m2": "TILAX",
+      "e1": "xxVi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3371,
+     "cells": {
+      "golden": "xix",
+      "day": "31",
+      "letter": "",
+      "roman": "pr. Kl.",
+      "note": "",
+      "m1": "ПAХХ",
+      "m2": "XIX",
+      "e1": "xxviii",
+      "e2": ""
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    487,
+    645,
+    740,
+    835,
+    1098,
+    1681,
+    1870,
+    2064,
+    2254,
+    2466
+   ],
+   "filled": [],
+   "angle": 0.05,
+   "top": 1423,
+   "bot": 3604,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1479,
+     "cells": {
+      "golden": "xix",
+      "day": "",
+      "letter": "",
+      "roman": "Kalead",
+      "note": "",
+      "m1": "Prou: 1I.",
+      "m2": "Late:13.",
+      "e1": "Prov: 1a",
+      "e2": "Phi. I."
+     }
+    },
+    {
+     "y": 1543,
+     "cells": {
+      "golden": "rãi",
+      "day": "",
+      "letter": "",
+      "roman": "6. No.",
+      "note": "Vinit: o/ S. Bl.Virg. Marie.",
+      "m1": "чii",
+      "m2": "AIK",
+      "e1": "xiv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1605,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "",
+      "roman": "5. No.",
+      "note": "",
+      "m1": "AX",
+      "m2": "AX",
+      "e1": "xvi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1668,
+     "cells": {
+      "golden": "ITi",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "Transt:ofS.Martin B.&C.",
+      "m1": "rvü",
+      "m2": "rvi",
+      "e1": "Ivili",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 1732,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xix",
+      "m2": "zvii",
+      "e1": "",
+      "e2": "Col.1."
+     }
+    },
+    {
+     "y": 1795,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "[XX",
+      "m2": "xтіїї",
+      "e1": "хxії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1857,
+     "cells": {
+      "golden": "xії",
+      "day": "",
+      "letter": "",
+      "roman": "Nonc",
+      "note": "",
+      "m1": "",
+      "m2": "xix",
+      "e1": "zxiy",
+      "e2": "11$"
+     }
+    },
+    {
+     "y": 1920,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "8. Jd.",
+      "note": "",
+      "m1": "XXV",
+      "m2": "XX",
+      "e1": "xrvi",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 1985,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7.Id.",
+      "note": "",
+      "m1": "xxvii",
+      "m2": "хxі",
+      "e1": "xxvili",
+      "e2": "5. Thes.1."
+     }
+    },
+    {
+     "y": 2047,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "6. ld.",
+      "note": "",
+      "m1": "xxix",
+      "m2": "xxii",
+      "e1": "Xxxi",
+      "e2": "C:"
+     }
+    },
+    {
+     "y": 2111,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "5. Jd.",
+      "note": "",
+      "m1": "Eccies.1.",
+      "m2": "xxіїї",
+      "e1": "Eccles. z.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2175,
+     "cells": {
+      "golden": "FLAX",
+      "day": "12",
+      "letter": "",
+      "roman": "4. За.",
+      "note": "",
+      "m1": "iti",
+      "m2": "xxis",
+      "e1": "iv",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2239,
+     "cells": {
+      "golden": "vii",
+      "day": "13",
+      "letter": "",
+      "roman": "3. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "lah.I.",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2301,
+     "cells": {
+      "golden": "",
+      "day": "I4",
+      "letter": "",
+      "roman": "pr. ld.",
+      "note": "",
+      "m1": "VII",
+      "m2": "",
+      "e1": "VTii",
+      "e2": "2.Thes.i."
+     }
+    },
+    {
+     "y": 2364,
+     "cells": {
+      "golden": "AX",
+      "day": "15",
+      "letter": "",
+      "roman": "Yżus",
+      "note": "SwitkunBofWinck Transl.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2432,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "17. KL. Axg.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2491,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "",
+      "roman": "I6. KL.",
+      "note": "",
+      "m1": "lerem, I.",
+      "m2": "",
+      "e1": "Icreтs. 2,",
+      "e2": "r.Tim. I."
+     }
+    },
+    {
+     "y": 2554,
+     "cells": {
+      "golden": "xii",
+      "day": "18",
+      "letter": "C",
+      "roman": "Ig. KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "ц. Щ."
+     }
+    },
+    {
+     "y": 2618,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "14. KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "ELA",
+      "e1": "",
+      "e2": "A1"
+     }
+    },
+    {
+     "y": 2682,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "13. K7.",
+      "note": "MargaretV.&-MatAwtioch,",
+      "m1": "",
+      "m2": "vii",
+      "e1": "viii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2743,
+     "cells": {
+      "golden": "",
+      "day": "Ie",
+      "letter": "",
+      "roman": "та, KL.",
+      "note": "S. Marie Mardales.",
+      "m1": "ix",
+      "m2": "ix",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2806,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "G",
+      "roman": "11, KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "3. Tіm.s"
+     }
+    },
+    {
+     "y": 2869,
+     "cells": {
+      "golden": "ПАX",
+      "day": "23",
+      "letter": "",
+      "roman": "1o. Kl.",
+      "note": "",
+      "m1": "mii",
+      "m2": "",
+      "e1": "A1X",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2932,
+     "cells": {
+      "golden": "vi",
+      "day": "te",
+      "letter": "",
+      "roman": "9 AZ.",
+      "note": "Fast",
+      "m1": "AX",
+      "m2": "",
+      "e1": "1Ax",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2991,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "a.KZ.",
+      "note": "B. Ismee Aport. & M.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": "Al"
+     }
+    },
+    {
+     "y": 3055,
+     "cells": {
+      "golden": "xiїi",
+      "day": "",
+      "letter": "D",
+      "roman": "",
+      "note": "S.Anne,mother fay.BLJ.A/,",
+      "m1": "xvii",
+      "m2": "",
+      "e1": "xvii",
+      "e2": "Tirks t."
+     }
+    },
+    {
+     "y": 3117,
+     "cells": {
+      "golden": "лі",
+      "day": "27",
+      "letter": "",
+      "roman": "6. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "AX",
+      "e1": "",
+      "e2": "Li. 11L."
+     }
+    },
+    {
+     "y": 3180,
+     "cells": {
+      "golden": "",
+      "day": "28",
+      "letter": "",
+      "roman": "5.K7.",
+      "note": "",
+      "m1": "xxі",
+      "m2": "xVi",
+      "e1": "xxiї",
+      "e2": "Padem."
+     }
+    },
+    {
+     "y": 3247,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "4. KL.",
+      "note": "",
+      "m1": "MIXX",
+      "m2": "xvii",
+      "e1": "XKİY",
+      "e2": "Hebr. 1."
+     }
+    },
+    {
+     "y": 3307,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. K.",
+      "note": "",
+      "m1": "AXX",
+      "m2": "DEAX",
+      "e1": "trri",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3370,
+     "cells": {
+      "golden": "xіx",
+      "day": "31",
+      "letter": "",
+      "roman": "pr.K7.",
+      "note": "",
+      "m1": "xxvii",
+      "m2": "XIX",
+      "e1": "хaуii",
+      "e2": ""
+     }
+    }
+   ]
+  }
+ },
+ "51": {
+  "month": "August",
+  "page": 51,
+  "A": {
+   "rules": [
+    554,
+    706,
+    802,
+    897,
+    1159,
+    1737,
+    1929,
+    2122,
+    2316,
+    2520
+   ],
+   "filled": [],
+   "angle": 0.025,
+   "top": 1408,
+   "bot": 3423,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1467,
+     "cells": {
+      "golden": "vüi",
+      "day": "I",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "Lammas day.",
+      "m1": "lerem.zg,",
+      "m2": "loh. ao.",
+      "e1": "lечет. 3а",
+      "e2": "Hebr.4."
+     }
+    },
+    {
+     "y": 1533,
+     "cells": {
+      "golden": "IVi",
+      "day": "2",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "Ixxi",
+      "m2": "xxi",
+      "e1": "xxXII",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1596,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "E",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xxxüїi",
+      "m2": "Acts. I.",
+      "e1": "XXXIV",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1659,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "F",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "AxXX",
+      "m2": "",
+      "e1": "xxxvi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1716,
+     "cells": {
+      "golden": "xüi",
+      "day": "",
+      "letter": "G",
+      "roman": "Nonc",
+      "note": "",
+      "m1": "xxxvii",
+      "m2": "iii",
+      "e1": "xxxvii",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 1784,
+     "cells": {
+      "golden": "",
+      "day": "9",
+      "letter": "",
+      "roman": "8. Уd.",
+      "note": "Transfigar. of our Lord.",
+      "m1": "xxxix",
+      "m2": "",
+      "e1": "xl",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 1847,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "",
+      "roman": "7.Id.",
+      "note": "Name of leszs.",
+      "m1": "xli",
+      "m2": "",
+      "e1": "xlii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1909,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6. Id.",
+      "note": "",
+      "m1": "xliii",
+      "m2": "vi",
+      "e1": "xiv",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 1972,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "s.Jd.",
+      "note": "",
+      "m1": "xiv. xivi.",
+      "m2": "vi",
+      "e1": "xlvii",
+      "e2": "xii"
+     }
+    },
+    {
+     "y": 2033,
+     "cells": {
+      "golden": "xviii",
+      "day": "10",
+      "letter": "E",
+      "roman": "4. Id.",
+      "note": "S.Lasr, Arch Doer Rom, O Ml.",
+      "m1": "xiviii",
+      "m2": "vili",
+      "e1": "xlix",
+      "e2": "xiї"
+     }
+    },
+    {
+     "y": 2097,
+     "cells": {
+      "golden": "vii",
+      "day": "1I",
+      "letter": "F",
+      "roman": "3. Іd.",
+      "note": "",
+      "m1": "L",
+      "m2": "ix",
+      "e1": "Li",
+      "e2": "Fат.s."
+     }
+    },
+    {
+     "y": 2160,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "G",
+      "roman": "pr.Id",
+      "note": "",
+      "m1": "Li",
+      "m2": "",
+      "e1": "Lam: 1.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2218,
+     "cells": {
+      "golden": "AX",
+      "day": "I3",
+      "letter": "",
+      "roman": "ldaes",
+      "note": "",
+      "m1": "Lam: a",
+      "m2": "xi",
+      "e1": "їїi",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2289,
+     "cells": {
+      "golden": "iv",
+      "day": "",
+      "letter": "",
+      "roman": "1g. Kl. Scpt.",
+      "note": "",
+      "m1": "",
+      "m2": "xii",
+      "e1": "",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2351,
+     "cells": {
+      "golden": "",
+      "day": "15",
+      "letter": "",
+      "roman": "18.Kl.",
+      "note": "",
+      "m1": "Exek. z.",
+      "m2": "хій",
+      "e1": "Esek. 3.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2415,
+     "cells": {
+      "golden": "xi",
+      "day": "16",
+      "letter": "D",
+      "roman": "17.K%.",
+      "note": "",
+      "m1": "vi",
+      "m2": "AIX",
+      "e1": "vii",
+      "e2": "r. Рев.1."
+     }
+    },
+    {
+     "y": 2478,
+     "cells": {
+      "golden": "",
+      "day": "I7",
+      "letter": "E",
+      "roman": "Iб.к7.",
+      "note": "",
+      "m1": "",
+      "m2": "AX",
+      "e1": "XiV",
+      "e2": "=:"
+     }
+    },
+    {
+     "y": 2540,
+     "cells": {
+      "golden": "",
+      "day": "I8",
+      "letter": "",
+      "roman": "15.K%.",
+      "note": "",
+      "m1": "xvii",
+      "m2": "xvi",
+      "e1": "хххії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2603,
+     "cells": {
+      "golden": "ix",
+      "day": "19",
+      "letter": "G",
+      "roman": "14.Kl.",
+      "note": "",
+      "m1": "AIXXX",
+      "m2": "Ivi",
+      "e1": "Dan. I.",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 2665,
+     "cells": {
+      "golden": "",
+      "day": "aо",
+      "letter": "",
+      "roman": "13. Кl.",
+      "note": "",
+      "m1": "Dan. 2.",
+      "m2": "rvii",
+      "e1": "i1i",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2727,
+     "cells": {
+      "golden": "xvii",
+      "day": "21",
+      "letter": "",
+      "roman": "12. Кв.",
+      "note": "",
+      "m1": "",
+      "m2": "xix",
+      "e1": "",
+      "e2": "2. Pet.r."
+     }
+    },
+    {
+     "y": 2789,
+     "cells": {
+      "golden": "vi",
+      "day": "",
+      "letter": "",
+      "roman": "11. Kl.",
+      "note": "",
+      "m1": "vi",
+      "m2": "XX",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2852,
+     "cells": {
+      "golden": "",
+      "day": "23",
+      "letter": "D",
+      "roman": "Io.Kl.",
+      "note": "Fast.",
+      "m1": "vüi",
+      "m2": "xxi",
+      "e1": "ix",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2920,
+     "cells": {
+      "golden": "AIX",
+      "day": "24",
+      "letter": "E",
+      "roman": "g. Kl.",
+      "note": "8. Barth, Apost & X.",
+      "m1": "",
+      "m2": "хxü",
+      "e1": "",
+      "e2": "i.John.r"
+     }
+    },
+    {
+     "y": 2982,
+     "cells": {
+      "golden": "їїi",
+      "day": "25",
+      "letter": "F",
+      "roman": "8.Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "XXIII",
+      "e1": "xi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3043,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "G",
+      "roman": "7. Kl",
+      "note": "",
+      "m1": "",
+      "m2": "XXIV",
+      "e1": "Hos. I.",
+      "e2": "iїi"
+     }
+    },
+    {
+     "y": 3109,
+     "cells": {
+      "golden": "xi",
+      "day": "27",
+      "letter": "",
+      "roman": "6.Кl.",
+      "note": "",
+      "m1": "Ноs. a. 3.",
+      "m2": "AXX",
+      "e1": "Al",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 3172,
+     "cells": {
+      "golden": "",
+      "day": "28",
+      "letter": "B",
+      "roman": "5.KL.",
+      "note": "S.Ang. B. of Hippo. C.D.",
+      "m1": "т. vi.",
+      "m2": "xxvi",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3233,
+     "cells": {
+      "golden": "xix",
+      "day": "29",
+      "letter": "",
+      "roman": "4. Кв.",
+      "note": "Behead: of S.John Bapt.",
+      "m1": "vii",
+      "m2": "xxvii",
+      "e1": "ix",
+      "e2": "2.3.10hг."
+     }
+    },
+    {
+     "y": 3295,
+     "cells": {
+      "golden": "viii",
+      "day": "30",
+      "letter": "D",
+      "roman": "3. К/",
+      "note": "",
+      "m1": "",
+      "m2": "xxviii",
+      "e1": "xi",
+      "e2": "Yade."
+     }
+    },
+    {
+     "y": 3359,
+     "cells": {
+      "golden": "",
+      "day": "31",
+      "letter": "E",
+      "roman": "pr.Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "Matt. I.",
+      "e1": "xіii",
+      "e2": "Rom. s."
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    554,
+    707,
+    800,
+    898,
+    1158,
+    1736,
+    1928,
+    2121,
+    2316,
+    2521
+   ],
+   "filled": [],
+   "angle": 0,
+   "top": 1409,
+   "bot": 3424,
+   "pitch": 63,
+   "note": "roman strip gave 30 rows for 31; ladder pitch 63.0",
+   "rows": [
+    {
+     "y": 1468,
+     "cells": {
+      "golden": "vüi",
+      "day": "",
+      "letter": "",
+      "roman": "Kalenó",
+      "note": "Lammes day,",
+      "m1": "Jerere.zg",
+      "m2": "lok, a0.",
+      "e1": "terem, 30",
+      "e2": "Hebr. +"
+     }
+    },
+    {
+     "y": 1533,
+     "cells": {
+      "golden": "IAX",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "1**K",
+      "m2": "хxі",
+      "e1": "1xxx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1596,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "ТXXХ",
+      "m2": "Acts. 1.",
+      "e1": "xxxiv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1660,
+     "cells": {
+      "golden": "",
+      "day": "4",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xxxтi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1721,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "G",
+      "roman": "Nona",
+      "note": "",
+      "m1": "xxхvi",
+      "m2": "111",
+      "e1": "xemii",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 1785,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "8. Уd.",
+      "note": "Tramsfigur.of owr Lord.",
+      "m1": "1xxіx",
+      "m2": "A1",
+      "e1": "xl",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1847,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. Tả.",
+      "note": "Narne of Jesss.",
+      "m1": "ıli",
+      "m2": "",
+      "e1": "xlii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1909,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6. ld.",
+      "note": "",
+      "m1": "",
+      "m2": "vi",
+      "e1": "xliv",
+      "e2": "xỉ"
+     }
+    },
+    {
+     "y": 1972,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "xiv. zivi.",
+      "m2": "vii",
+      "e1": "xivii",
+      "e2": "xiї"
+     }
+    },
+    {
+     "y": 2034,
+     "cells": {
+      "golden": "MAX",
+      "day": "10",
+      "letter": "",
+      "roman": "1. Jd.",
+      "note": "S.Lawr, drck Def Rom. & M.",
+      "m1": "tviil",
+      "m2": "viji",
+      "e1": "xlix",
+      "e2": "ПОс"
+     }
+    },
+    {
+     "y": 2096,
+     "cells": {
+      "golden": "vii",
+      "day": "11",
+      "letter": "",
+      "roman": "3. ld.",
+      "note": "",
+      "m1": "L",
+      "m2": "X1",
+      "e1": "Li",
+      "e2": "Зам.л."
+     }
+    },
+    {
+     "y": 2161,
+     "cells": {
+      "golden": "",
+      "day": "I2",
+      "letter": "G",
+      "roman": "oт. la",
+      "note": "",
+      "m1": "Li",
+      "m2": "",
+      "e1": "Lam: I.",
+      "e2": "H:"
+     }
+    },
+    {
+     "y": 2224,
+     "cells": {
+      "golden": "AX",
+      "day": "13",
+      "letter": "",
+      "roman": "",
+      "note": "",
+      "m1": "Lam: +",
+      "m2": "",
+      "e1": "iif",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2289,
+     "cells": {
+      "golden": "AI",
+      "day": "I4",
+      "letter": "",
+      "roman": "1g. K2. Seps.",
+      "note": "",
+      "m1": "",
+      "m2": "пx",
+      "e1": "",
+      "e2": "jv"
+     }
+    },
+    {
+     "y": 2351,
+     "cells": {
+      "golden": "",
+      "day": "15",
+      "letter": "C",
+      "roman": "18.A7.",
+      "note": "",
+      "m1": "Exekk. a.",
+      "m2": "xiїi",
+      "e1": "Essi. 3.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2415,
+     "cells": {
+      "golden": "xii",
+      "day": "Iố",
+      "letter": "",
+      "roman": "17. A7.",
+      "note": "",
+      "m1": "",
+      "m2": "ATX",
+      "e1": "ПА",
+      "e2": "1. Pet. z."
+     }
+    },
+    {
+     "y": 2478,
+     "cells": {
+      "golden": "",
+      "day": "19",
+      "letter": "",
+      "roman": "тб. А7.",
+      "note": "",
+      "m1": "ліїї",
+      "m2": "AX",
+      "e1": "ATX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2543,
+     "cells": {
+      "golden": "",
+      "day": "I8",
+      "letter": "",
+      "roman": "15.K7.",
+      "note": "",
+      "m1": "xvüi",
+      "m2": "Ivi",
+      "e1": "xxxia",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2602,
+     "cells": {
+      "golden": "ix",
+      "day": "1g",
+      "letter": "",
+      "roman": "14.KZ.",
+      "note": "",
+      "m1": "AIXXX",
+      "m2": "TAХ",
+      "e1": "Dax. 1.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2666,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "13. KZ.",
+      "note": "",
+      "m1": "Dan. 2.",
+      "m2": "wiii",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2728,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "1a. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "xix",
+      "e1": "",
+      "e2": "a. Pet.x."
+     }
+    },
+    {
+     "y": 2790,
+     "cells": {
+      "golden": "vi",
+      "day": "22",
+      "letter": "",
+      "roman": "п1. KZ.",
+      "note": "",
+      "m1": "vi",
+      "m2": "XX",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2852,
+     "cells": {
+      "golden": "",
+      "day": "93",
+      "letter": "",
+      "roman": "хо. KZ.",
+      "note": "Fast.",
+      "m1": "vüi",
+      "m2": "Da",
+      "e1": "ix",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2919,
+     "cells": {
+      "golden": "AIX",
+      "day": "24",
+      "letter": "",
+      "roman": "g. KI.",
+      "note": "6. Barth Apost & M.",
+      "m1": "",
+      "m2": "orii",
+      "e1": "",
+      "e2": "1.Jоhя.:"
+     }
+    },
+    {
+     "y": 2982,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "8. KI.",
+      "note": "",
+      "m1": "",
+      "m2": "riii",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3046,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "G",
+      "roman": "7. K7",
+      "note": "",
+      "m1": "сії",
+      "m2": "XXÂY",
+      "e1": "Hos. I.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3108,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "",
+      "roman": "6.KL.",
+      "note": "",
+      "m1": "820s.2.3.",
+      "m2": "AKX",
+      "e1": "41",
+      "e2": "AF"
+     }
+    },
+    {
+     "y": 3171,
+     "cells": {
+      "golden": "",
+      "day": "Be",
+      "letter": "",
+      "roman": "5. Kl.",
+      "note": "S.Awg. B.of Hippo. C.D.",
+      "m1": "т. vi",
+      "m2": "LAXK",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3235,
+     "cells": {
+      "golden": "хіx",
+      "day": "6e",
+      "letter": "",
+      "roman": "4. KL.",
+      "note": "Behrad: of S. lokn Bapt.",
+      "m1": "viii",
+      "m2": "arvil",
+      "e1": "ix",
+      "e2": "23-/0kr."
+     }
+    },
+    {
+     "y": 3296,
+     "cells": {
+      "golden": "vii",
+      "day": "30",
+      "letter": "",
+      "roman": "3. K7",
+      "note": "",
+      "m1": "",
+      "m2": "xxvi",
+      "e1": "",
+      "e2": "Ymde."
+     }
+    },
+    {
+     "y": 3359,
+     "cells": {
+      "golden": "",
+      "day": "31",
+      "letter": "",
+      "roman": "pт. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "Matt. z.",
+      "e1": "xüł",
+      "e2": "Rom. 1."
+     }
+    }
+   ]
+  }
+ },
+ "52": {
+  "month": "September",
+  "page": 52,
+  "A": {
+   "rules": [
+    458,
+    608,
+    704,
+    800,
+    1063,
+    1643,
+    1836,
+    2030,
+    2224,
+    2428
+   ],
+   "filled": [],
+   "angle": 0.075,
+   "top": 1437,
+   "bot": 3387,
+   "pitch": 63,
+   "note": "",
+   "rows": [
+    {
+     "y": 1498,
+     "cells": {
+      "golden": "xvi",
+      "day": "",
+      "letter": "",
+      "roman": "Kalerd",
+      "note": "Giles Abbot &e Conf.",
+      "m1": "Hos. 14.",
+      "m2": "Mat. a.",
+      "e1": "loel.r.",
+      "e2": "Rome. z"
+     }
+    },
+    {
+     "y": 1564,
+     "cells": {
+      "golden": "",
+      "day": "2",
+      "letter": "G",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "Foel. z.",
+      "m2": "ii.",
+      "e1": "її",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 1628,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "Amos.i.",
+      "m2": "iv",
+      "e1": "Ámos 2.",
+      "e2": "• A!"
+     }
+    },
+    {
+     "y": 1690,
+     "cells": {
+      "golden": "хіїi",
+      "day": "",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "їїi",
+      "m2": "",
+      "e1": "iv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1746,
+     "cells": {
+      "golden": "!!",
+      "day": "5",
+      "letter": "",
+      "roman": "Nona",
+      "note": "",
+      "m1": "A",
+      "m2": "vi",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1814,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "8. Id.",
+      "note": "",
+      "m1": "vii",
+      "m2": "vii",
+      "e1": "vili",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1878,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "E",
+      "roman": "7. Id.",
+      "note": "Enurchas B. of Orleans",
+      "m1": "XI",
+      "m2": "nii",
+      "e1": "Obadiah",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 1940,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6.12.",
+      "note": "Natio. ofý. Bl.Virg. Mary",
+      "m1": "lonah.r.",
+      "m2": "",
+      "e1": "lonrs.h. a g.",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 2004,
+     "cells": {
+      "golden": "sviii",
+      "day": "",
+      "letter": "G",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "iv",
+      "m2": "",
+      "e1": "Mici:. r.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2066,
+     "cells": {
+      "golden": "rü",
+      "day": "IO",
+      "letter": "",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "Micha.a.",
+      "m2": "IX",
+      "e1": "111",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2129,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "B",
+      "roman": "3. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "xii",
+      "e1": "",
+      "e2": "хії"
+     }
+    },
+    {
+     "y": 2194,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "",
+      "roman": "pr. Id.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xili",
+      "e1": "vii",
+      "e2": "хії"
+     }
+    },
+    {
+     "y": 2251,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "D",
+      "roman": "Idas",
+      "note": "",
+      "m1": "N'aham.s.",
+      "m2": "XiV",
+      "e1": "Nahesm. 8.",
+      "e2": "A1X"
+     }
+    },
+    {
+     "y": 2317,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "18.Kl.Octob.",
+      "note": "Holy crosse day",
+      "m1": "",
+      "m2": "",
+      "e1": "Habak.I.",
+      "e2": "AX"
+     }
+    },
+    {
+     "y": 2382,
+     "cells": {
+      "golden": "xü",
+      "day": "15",
+      "letter": "F",
+      "roman": "17.K%",
+      "note": "",
+      "m1": "Habak. a",
+      "m2": "xvi",
+      "e1": "i11",
+      "e2": "L1X"
+     }
+    },
+    {
+     "y": 2444,
+     "cells": {
+      "golden": "",
+      "day": "I6",
+      "letter": "G",
+      "roman": "тб. КL.",
+      "note": "",
+      "m1": "Zeph.r.",
+      "m2": "xvii",
+      "e1": "Zeph. z.",
+      "e2": "r.Соч.s."
+     }
+    },
+    {
+     "y": 2508,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "",
+      "roman": "15.Kl.",
+      "note": "Lambert B. &o M.",
+      "m1": "",
+      "m2": "xvii",
+      "e1": "Ilaps.1.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2571,
+     "cells": {
+      "golden": "ix",
+      "day": "18",
+      "letter": "B",
+      "roman": "I4.KZ.",
+      "note": "",
+      "m1": "Hagg. a.",
+      "m2": "xix",
+      "e1": "iech.r.",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2633,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "13. К7.",
+      "note": "",
+      "m1": "Zech.2.3.",
+      "m2": "XX",
+      "e1": "iv.V.",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2694,
+     "cells": {
+      "golden": "avii",
+      "day": "20",
+      "letter": "D",
+      "roman": "12.K7.",
+      "note": "Fast",
+      "m1": "vi",
+      "m2": "xxi",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2758,
+     "cells": {
+      "golden": "vi",
+      "day": "21",
+      "letter": "",
+      "roman": "11.Кl.",
+      "note": "8. Mat, AD. Jvang. & M.",
+      "m1": "",
+      "m2": "xxii",
+      "e1": "",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2821,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "F",
+      "roman": "1o.Kl.",
+      "note": "",
+      "m1": "vii",
+      "m2": "xxiїi",
+      "e1": "ix",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2885,
+     "cells": {
+      "golden": "XiY",
+      "day": "23",
+      "letter": "G",
+      "roman": "9.KL.",
+      "note": "",
+      "m1": "",
+      "m2": "XXIV",
+      "e1": "xi",
+      "e2": "viii"
+     }
+    },
+    {
+     "y": 2948,
+     "cells": {
+      "golden": "iii",
+      "day": "24",
+      "letter": "",
+      "roman": "8. KZ.",
+      "note": "",
+      "m1": "xii",
+      "m2": "Axx",
+      "e1": "xiїi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3010,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "7. KL.",
+      "note": "",
+      "m1": "XIТ",
+      "m2": "xxVi",
+      "e1": "Mal. r.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3072,
+     "cells": {
+      "golden": "xi",
+      "day": "26",
+      "letter": "",
+      "roman": "6.Kl.",
+      "note": "S.Cypr:Ar.B.ofCarth&M.",
+      "m1": "Маl. z",
+      "m2": "xxvIi",
+      "e1": "11i",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3136,
+     "cells": {
+      "golden": "xix",
+      "day": "27",
+      "letter": "D",
+      "roman": "5. KT.",
+      "note": "",
+      "m1": "iv",
+      "m2": "xxvill",
+      "e1": "Tов.=",
+      "e2": "xii"
+     }
+    },
+    {
+     "y": 3198,
+     "cells": {
+      "golden": "",
+      "day": "88",
+      "letter": "E",
+      "roman": "4.Kl.",
+      "note": "",
+      "m1": "Тов.z",
+      "m2": "Mark. 1.",
+      "e1": "!!!",
+      "e2": "xili"
+     }
+    },
+    {
+     "y": 3261,
+     "cells": {
+      "golden": "vüi",
+      "day": "39",
+      "letter": "F",
+      "roman": "3.K7.",
+      "note": "B. Nlon, de all Angols",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3327,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "G",
+      "roman": "pr.Kz.",
+      "note": "S.HieromePr.Conf.& Doct.",
+      "m1": "iv",
+      "m2": "iїi",
+      "e1": "",
+      "e2": "XV"
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    459,
+    606,
+    702,
+    798,
+    1062,
+    1643,
+    1836,
+    2031,
+    2223,
+    2428
+   ],
+   "filled": [],
+   "angle": 0,
+   "top": 1436,
+   "bot": 3389,
+   "pitch": 63,
+   "note": "",
+   "rows": [
+    {
+     "y": 1498,
+     "cells": {
+      "golden": "LAX",
+      "day": "1",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "Giles Abbet & Conf.",
+      "m1": "Hos.1+.",
+      "m2": "Mat. a.",
+      "e1": "lorl.I.",
+      "e2": "Rom. s"
+     }
+    },
+    {
+     "y": 1561,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": ". No.",
+      "note": "",
+      "m1": "Torі.a.",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1627,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "ÁM0s.1.",
+      "m2": "",
+      "e1": "E rowy",
+      "e2": "iy"
+     }
+    },
+    {
+     "y": 1688,
+     "cells": {
+      "golden": "xiiї",
+      "day": "",
+      "letter": "",
+      "roman": "pт. No.",
+      "note": "",
+      "m1": "lii",
+      "m2": "",
+      "e1": "iv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1747,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nona",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "vi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1813,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "В. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "114",
+      "e1": "viji",
+      "e2": "VLi"
+     }
+    },
+    {
+     "y": 1877,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7. ld.",
+      "note": "EMsrcizs B. of Orleans",
+      "m1": "",
+      "m2": "nii",
+      "e1": "Obadinh",
+      "e2": "viji"
+     }
+    },
+    {
+     "y": 1940,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6. la.",
+      "note": "Natio. ofy. Bl.Virg. Mary",
+      "m1": "lonаh.1.",
+      "m2": "ix",
+      "e1": "lemat.= 3.",
+      "e2": "XT"
+     }
+    },
+    {
+     "y": 2003,
+     "cells": {
+      "golden": "wrüii",
+      "day": "",
+      "letter": "",
+      "roman": "5. id.",
+      "note": "",
+      "m1": "iv",
+      "m2": "",
+      "e1": "Mich. I.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2064,
+     "cells": {
+      "golden": "",
+      "day": "TO",
+      "letter": "",
+      "roman": "4. 38.",
+      "note": "",
+      "m1": "Micka.a.",
+      "m2": "xi",
+      "e1": "117",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2129,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "8",
+      "roman": "3. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "106",
+      "e1": "",
+      "e2": "TEX"
+     }
+    },
+    {
+     "y": 2191,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "",
+      "roman": "pr. fa.",
+      "note": "",
+      "m1": "",
+      "m2": "I1x",
+      "e1": "",
+      "e2": "xiй"
+     }
+    },
+    {
+     "y": 2251,
+     "cells": {
+      "golden": "A!",
+      "day": "13",
+      "letter": "",
+      "roman": "ldss",
+      "note": "",
+      "m1": "Nahwm.z.",
+      "m2": "xjY",
+      "e1": "Na Jurm. s.",
+      "e2": "AIX"
+     }
+    },
+    {
+     "y": 2316,
+     "cells": {
+      "golden": "",
+      "day": "I",
+      "letter": "",
+      "roman": "18.KZ.Ocleb.",
+      "note": "Holy crosse day",
+      "m1": "iSi",
+      "m2": "",
+      "e1": "Habak.ı.",
+      "e2": "XY"
+     }
+    },
+    {
+     "y": 2382,
+     "cells": {
+      "golden": "xü",
+      "day": "15",
+      "letter": "",
+      "roman": "17.K7.",
+      "note": "",
+      "m1": "Habak. a",
+      "m2": "rvi",
+      "e1": "iit",
+      "e2": "LLX"
+     }
+    },
+    {
+     "y": 2444,
+     "cells": {
+      "golden": "",
+      "day": "х6",
+      "letter": "",
+      "roman": "1б. KZ.",
+      "note": "",
+      "m1": "Zeph. t.",
+      "m2": "xvii",
+      "e1": "Z.eph. a.",
+      "e2": "1. Сот.1,"
+     }
+    },
+    {
+     "y": 2508,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "15. KL.",
+      "note": "Lambert B. d M.",
+      "m1": "iїL.",
+      "m2": "MAX",
+      "e1": "1la/s-1,",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2569,
+     "cells": {
+      "golden": "",
+      "day": "I8",
+      "letter": "",
+      "roman": "I4. KZ.",
+      "note": "",
+      "m1": "lagg. z.",
+      "m2": "xix",
+      "e1": "Ltch. I.",
+      "e2": "Lii"
+     }
+    },
+    {
+     "y": 2632,
+     "cells": {
+      "golden": "",
+      "day": "ig",
+      "letter": "",
+      "roman": "13. KT.",
+      "note": "",
+      "m1": "Zrck.2.3.",
+      "m2": "XX",
+      "e1": "iv. v.",
+      "e2": "jv"
+     }
+    },
+    {
+     "y": 2694,
+     "cells": {
+      "golden": "HEAX",
+      "day": "20",
+      "letter": "",
+      "roman": "72 K7.",
+      "note": "Fasr",
+      "m1": "vi",
+      "m2": "xxi",
+      "e1": "vii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2758,
+     "cells": {
+      "golden": "vì",
+      "day": "IC",
+      "letter": "",
+      "roman": "11, AZ.",
+      "note": "8. Mst 4p. Jvang. & X.",
+      "m1": "",
+      "m2": "xxії",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2821,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "то. K1.",
+      "note": "",
+      "m1": "",
+      "m2": "xxil",
+      "e1": "",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2885,
+     "cells": {
+      "golden": "ALX",
+      "day": "23",
+      "letter": "",
+      "roman": "9 KI.",
+      "note": "",
+      "m1": "",
+      "m2": "AbXX",
+      "e1": "xi",
+      "e2": "vill"
+     }
+    },
+    {
+     "y": 2946,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "8.K7.",
+      "note": "",
+      "m1": "xiї",
+      "m2": "IXT",
+      "e1": "xiii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3010,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "7. K7.",
+      "note": "",
+      "m1": "xiч",
+      "m2": "KKVi",
+      "e1": "3fal. 1.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3071,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6.KL.",
+      "note": "S.Cypr.Ar.BofCarth&M.",
+      "m1": "Mal, =",
+      "m2": "„AXX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3135,
+     "cells": {
+      "golden": "xix",
+      "day": "27",
+      "letter": "",
+      "roman": "5. KT.",
+      "note": "",
+      "m1": "",
+      "m2": "111лKx",
+      "e1": "Тоб. :",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3198,
+     "cells": {
+      "golden": "",
+      "day": "88",
+      "letter": "",
+      "roman": "4. Kl.",
+      "note": "",
+      "m1": "Тоб. а",
+      "m2": "Mark, 1.",
+      "e1": "TE",
+      "e2": "xії"
+     }
+    },
+    {
+     "y": 3262,
+     "cells": {
+      "golden": "ILA",
+      "day": "",
+      "letter": "",
+      "roman": "3. Kг.",
+      "note": "B. Mloh, i all Angels",
+      "m1": "",
+      "m2": "19",
+      "e1": "",
+      "e2": "xiY"
+     }
+    },
+    {
+     "y": 3326,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "pr, KZ.",
+      "note": "S,HieromePr.ConfS-Doct.",
+      "m1": "AT",
+      "m2": "tii",
+      "e1": "",
+      "e2": "AX"
+     }
+    }
+   ]
+  }
+ },
+ "53": {
+  "month": "October",
+  "page": 53,
+  "A": {
+   "rules": [
+    560,
+    712,
+    807,
+    903,
+    1164,
+    1741,
+    1935,
+    2130,
+    2323,
+    2526
+   ],
+   "filled": [],
+   "angle": -0.075,
+   "top": 1423,
+   "bot": 3429,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1483,
+     "cells": {
+      "golden": "IVi",
+      "day": "",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "Remigias B. of Rheres",
+      "m1": "Тов.т.",
+      "m2": "Mark.4.",
+      "e1": "Tob. 8.",
+      "e2": "І.Соч.Iб."
+     }
+    },
+    {
+     "y": 1548,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6.No.",
+      "note": "",
+      "m1": "ix",
+      "m2": "",
+      "e1": "",
+      "e2": "2. Сот. J."
+     }
+    },
+    {
+     "y": 1611,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "5. No.",
+      "note": "",
+      "m1": "",
+      "m2": "vi",
+      "e1": "xü",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1672,
+     "cells": {
+      "golden": "11",
+      "day": "",
+      "letter": "D",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "ПLX",
+      "m2": "vii",
+      "e1": "AIX",
+      "e2": "їїi"
+     }
+    },
+    {
+     "y": 1734,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "E",
+      "roman": "3. No",
+      "note": "",
+      "m1": "Frrdelh. I.",
+      "m2": "viil",
+      "e1": "ludetk 2.",
+      "e2": "Al"
+     }
+    },
+    {
+     "y": 1798,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "F",
+      "roman": "pr.No.",
+      "note": "Faitk Virg. &o M.",
+      "m1": ".!!",
+      "m2": "ix",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1857,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "G",
+      "roman": "Noro",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "vi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1922,
+     "cells": {
+      "golden": "Iviil",
+      "day": "8",
+      "letter": "",
+      "roman": "8. Fа.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xi",
+      "e1": "vüi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1985,
+     "cells": {
+      "golden": "ViI",
+      "day": "9",
+      "letter": "",
+      "roman": "7.1а.",
+      "note": "S. Dexys dreop. B. &e M.",
+      "m1": "ix",
+      "m2": "xii",
+      "e1": "",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 2047,
+     "cells": {
+      "golden": "",
+      "day": "I0",
+      "letter": "",
+      "roman": "6. Іd.",
+      "note": "",
+      "m1": "xi",
+      "m2": "xiїi",
+      "e1": "XiI",
+      "e2": "1x"
+     }
+    },
+    {
+     "y": 2110,
+     "cells": {
+      "golden": "AX",
+      "day": "II",
+      "letter": "D",
+      "roman": "5.Id.",
+      "note": "",
+      "m1": "хіїї",
+      "m2": "xiV",
+      "e1": "XiV",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2172,
+     "cells": {
+      "golden": "iV",
+      "day": "12",
+      "letter": "E",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xvi",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2237,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "F",
+      "roman": "3. Іd.",
+      "note": "Iransi.ofK. Edward Conf.",
+      "m1": "Wisd. I.",
+      "m2": "xvi",
+      "e1": "Wisd.a.",
+      "e2": "xi"
+     }
+    },
+    {
+     "y": 2300,
+     "cells": {
+      "golden": "",
+      "day": "Id",
+      "letter": "G",
+      "roman": "pr. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "La6ke1.6039.",
+      "e1": "iv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2361,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "idus.",
+      "note": "",
+      "m1": "",
+      "m2": "i. 39.",
+      "e1": "vi",
+      "e2": "Gal. I."
+     }
+    },
+    {
+     "y": 2426,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "17.Kl.Nou.",
+      "note": "",
+      "m1": "vi",
+      "m2": "!!",
+      "e1": "viii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2489,
+     "cells": {
+      "golden": "ix",
+      "day": "17",
+      "letter": "",
+      "roman": "I6. Kl.",
+      "note": "Ethelrede Virg.",
+      "m1": "ix",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2552,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "D",
+      "roman": "15.K%.",
+      "note": "8. Luke Evang.",
+      "m1": "",
+      "m2": "A!",
+      "e1": "",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 2614,
+     "cells": {
+      "golden": "xVi",
+      "day": "61",
+      "letter": "E",
+      "roman": "14.Kl.",
+      "note": "",
+      "m1": "xi",
+      "m2": "",
+      "e1": "xii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2678,
+     "cells": {
+      "golden": "vi",
+      "day": "20",
+      "letter": "F",
+      "roman": "13. Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "vi",
+      "e1": "AIX",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2739,
+     "cells": {
+      "golden": "",
+      "day": "2I",
+      "letter": "G",
+      "roman": "12.K7.",
+      "note": "",
+      "m1": "AX",
+      "m2": "vi",
+      "e1": "xvi",
+      "e2": "Epkes. I."
+     }
+    },
+    {
+     "y": 2801,
+     "cells": {
+      "golden": "XIV",
+      "day": "22",
+      "letter": "",
+      "roman": "I1.Kl.",
+      "note": "",
+      "m1": "XVII",
+      "m2": "viii",
+      "e1": "XVIII",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2864,
+     "cells": {
+      "golden": "!!!",
+      "day": "23",
+      "letter": "",
+      "roman": "то. Kl.",
+      "note": "",
+      "m1": "xiX",
+      "m2": "ix",
+      "e1": "Eccius.i.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2929,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "9. KT.",
+      "note": "",
+      "m1": "Ecclus.a.",
+      "m2": "",
+      "e1": "iii",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2990,
+     "cells": {
+      "golden": "IX",
+      "day": "25",
+      "letter": "D",
+      "roman": "8.Kl.",
+      "note": "Crispine Mart.",
+      "m1": "",
+      "m2": "xi",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3053,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "E",
+      "roman": "7.KL.",
+      "note": "",
+      "m1": "vi",
+      "m2": "XiI",
+      "e1": "vi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 3116,
+     "cells": {
+      "golden": "xix",
+      "day": "27",
+      "letter": "",
+      "roman": "6.KL.",
+      "note": "Fast",
+      "m1": "viii",
+      "m2": "XiII",
+      "e1": "ix",
+      "e2": "Phil.r."
+     }
+    },
+    {
+     "y": 3178,
+     "cells": {
+      "golden": "ILA",
+      "day": "28",
+      "letter": "G",
+      "roman": "5.KL.",
+      "note": "8. Bim. &s 8. Jad, Ap. & MI.",
+      "m1": "",
+      "m2": "XIV",
+      "e1": "",
+      "e2": ":="
+     }
+    },
+    {
+     "y": 3241,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "4. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xi",
+      "e2": "П!"
+     }
+    },
+    {
+     "y": 3305,
+     "cells": {
+      "golden": "xVi",
+      "day": "30",
+      "letter": "B",
+      "roman": "3. КL.",
+      "note": "",
+      "m1": "xii",
+      "m2": "xvi",
+      "e1": "xüi",
+      "e2": "iV"
+     }
+    },
+    {
+     "y": 3368,
+     "cells": {
+      "golden": "",
+      "day": "3I",
+      "letter": "",
+      "roman": "pr.Kl.",
+      "note": "Fast",
+      "m1": "XIV",
+      "m2": "xvi",
+      "e1": "AX",
+      "e2": "Сов. т."
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    558,
+    712,
+    807,
+    904,
+    1163,
+    1741,
+    1935,
+    2129,
+    2324,
+    2525
+   ],
+   "filled": [],
+   "angle": -0.025,
+   "top": 1429,
+   "bot": 3429,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1483,
+     "cells": {
+      "golden": "rvi",
+      "day": "",
+      "letter": "",
+      "roman": "Kalerd",
+      "note": "Remigins B. of Rhemes",
+      "m1": "Теб. 7.",
+      "m2": "Maтk. 4.",
+      "e1": "Таб. 8.",
+      "e2": "т.Соу,1б."
+     }
+    },
+    {
+     "y": 1550,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "6. No.",
+      "note": "",
+      "m1": "ix",
+      "m2": "",
+      "e1": "",
+      "e2": "a. Cor, z."
+     }
+    },
+    {
+     "y": 1612,
+     "cells": {
+      "golden": "",
+      "day": "3",
+      "letter": "",
+      "roman": "5.Ño.",
+      "note": "",
+      "m1": "EX",
+      "m2": "",
+      "e1": "хії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1674,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "",
+      "m2": "vii",
+      "e1": "xіт",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1735,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No",
+      "note": "",
+      "m1": "Ywdatk. r.",
+      "m2": "vii",
+      "e1": "Tudetã z.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1799,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "pr. No.",
+      "note": "Faik Virg, &- M.",
+      "m1": "",
+      "m2": "ix",
+      "e1": "iv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1857,
+     "cells": {
+      "golden": "",
+      "day": "7",
+      "letter": "",
+      "roman": "Nora",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "vi",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 1923,
+     "cells": {
+      "golden": "MIAX",
+      "day": "",
+      "letter": "",
+      "roman": "8. Ya.",
+      "note": "",
+      "m1": "",
+      "m2": "xi",
+      "e1": "vüi",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1986,
+     "cells": {
+      "golden": "vii",
+      "day": "9",
+      "letter": "",
+      "roman": "7. 14.",
+      "note": "S. Denys Areop. B.& M.",
+      "m1": "ix",
+      "m2": "",
+      "e1": "X",
+      "e2": "vill"
+     }
+    },
+    {
+     "y": 2046,
+     "cells": {
+      "golden": "",
+      "day": "IO",
+      "letter": "",
+      "roman": "6. ld.",
+      "note": "",
+      "m1": "xi",
+      "m2": "ПLX",
+      "e1": "xij",
+      "e2": "LX"
+     }
+    },
+    {
+     "y": 2111,
+     "cells": {
+      "golden": "XV",
+      "day": "",
+      "letter": "",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "xiy",
+      "e1": "xiv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2174,
+     "cells": {
+      "golden": "iv",
+      "day": "12",
+      "letter": "",
+      "roman": "4. ld.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "lAx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2238,
+     "cells": {
+      "golden": "",
+      "day": "т3",
+      "letter": "F",
+      "roman": "3. Jd.",
+      "note": "TranslofK. Edward Corf.",
+      "m1": "Wisd.1.",
+      "m2": "rvi",
+      "e1": "Wisd. a.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2302,
+     "cells": {
+      "golden": "xü",
+      "day": "14",
+      "letter": "",
+      "roman": "pr.3a.",
+      "note": "",
+      "m1": "iti",
+      "m2": "Lxkei.fo39.",
+      "e1": "A1",
+      "e2": "xiii"
+     }
+    },
+    {
+     "y": 2363,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Jdus.",
+      "note": "",
+      "m1": "",
+      "m2": "i. 39.",
+      "e1": "vi",
+      "e2": "Gal.L."
+     }
+    },
+    {
+     "y": 2429,
+     "cells": {
+      "golden": "",
+      "day": "хб",
+      "letter": "",
+      "roman": "sg. KL. Nou,",
+      "note": "",
+      "m1": "ril",
+      "m2": "1",
+      "e1": "",
+      "e2": "11,"
+     }
+    },
+    {
+     "y": 2490,
+     "cells": {
+      "golden": "ix",
+      "day": "I]",
+      "letter": "",
+      "roman": "тб.КZ.",
+      "note": "Etheirede Virg.",
+      "m1": "ix",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2552,
+     "cells": {
+      "golden": "",
+      "day": "tB",
+      "letter": "",
+      "roman": "15. KZ.",
+      "note": "8. Luke Erang.",
+      "m1": "",
+      "m2": "iv",
+      "e1": "",
+      "e2": "Al"
+     }
+    },
+    {
+     "y": 2615,
+     "cells": {
+      "golden": "LAX",
+      "day": "5г",
+      "letter": "3",
+      "roman": "14, KZ.",
+      "note": "",
+      "m1": "xi",
+      "m2": "",
+      "e1": "Tox",
+      "e2": "Y"
+     }
+    },
+    {
+     "y": 2678,
+     "cells": {
+      "golden": "vi",
+      "day": "",
+      "letter": "F",
+      "roman": "13.KL.",
+      "note": "",
+      "m1": "xiii",
+      "m2": "vi",
+      "e1": "A1X",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2739,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "12. X7.",
+      "note": "",
+      "m1": "",
+      "m2": "vù",
+      "e1": "xyi",
+      "e2": "Epkes, I."
+     }
+    },
+    {
+     "y": 2803,
+     "cells": {
+      "golden": "xiV",
+      "day": "22",
+      "letter": "",
+      "roman": "II. KZ.",
+      "note": "",
+      "m1": "XYT",
+      "m2": "viil",
+      "e1": "xviii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2865,
+     "cells": {
+      "golden": "!!!",
+      "day": "33",
+      "letter": "",
+      "roman": "10.k7.",
+      "note": "",
+      "m1": "x1*",
+      "m2": "xT",
+      "e1": "Ecciss.i.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2928,
+     "cells": {
+      "golden": "",
+      "day": "24",
+      "letter": "",
+      "roman": "9. K7.",
+      "note": "",
+      "m1": "Erclus,a.",
+      "m2": "",
+      "e1": "",
+      "e2": "At"
+     }
+    },
+    {
+     "y": 2992,
+     "cells": {
+      "golden": "",
+      "day": "25",
+      "letter": "",
+      "roman": "8. KZ.",
+      "note": "Стіsріме Mart.",
+      "m1": "",
+      "m2": "1X",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3055,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7.KL.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xii",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3117,
+     "cells": {
+      "golden": "*1*",
+      "day": "27",
+      "letter": "",
+      "roman": "6. KL.",
+      "note": "Fast",
+      "m1": "ПLA",
+      "m2": "XISL",
+      "e1": "ix",
+      "e2": "Phữ. I."
+     }
+    },
+    {
+     "y": 3179,
+     "cells": {
+      "golden": "viii",
+      "day": "28",
+      "letter": "G",
+      "roman": "5. KZ.",
+      "note": "B. Bim, & B. Jad. Ap. & BE.",
+      "m1": "",
+      "m2": "AtX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3243,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "4. Kl.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3306,
+     "cells": {
+      "golden": "zvi",
+      "day": "30",
+      "letter": "&",
+      "roman": "3, KZ",
+      "note": "",
+      "m1": "",
+      "m2": "хті",
+      "e1": "xüї",
+      "e2": "A5"
+     }
+    },
+    {
+     "y": 3369,
+     "cells": {
+      "golden": "",
+      "day": "X€",
+      "letter": "C",
+      "roman": "pr.Kl.",
+      "note": "Fast",
+      "m1": "XiV",
+      "m2": "xvii",
+      "e1": "",
+      "e2": "Col. 1."
+     }
+    }
+   ]
+  }
+ },
+ "54": {
+  "month": "November",
+  "page": 54,
+  "A": {
+   "rules": [
+    464,
+    614,
+    708,
+    804,
+    1068,
+    1647,
+    1842,
+    2035,
+    2229,
+    2435
+   ],
+   "filled": [],
+   "angle": -0.05,
+   "top": 1438,
+   "bot": 3620,
+   "pitch": 63,
+   "note": "roman strip gave 32 rows for 30; ladder pitch 63.0",
+   "rows": [
+    {
+     "y": 1493,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "D",
+      "roman": "Kalend",
+      "note": "All gsiate day.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1559,
+     "cells": {
+      "golden": "xiї",
+      "day": "",
+      "letter": "E",
+      "roman": "4. No",
+      "note": "",
+      "m1": "Бсєвиs.16.",
+      "m2": "Lxke.18.",
+      "e1": "Eclus.17.",
+      "e2": "Coloss. 2."
+     }
+    },
+    {
+     "y": 1622,
+     "cells": {
+      "golden": "11",
+      "day": "3",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xvüi",
+      "m2": "xіx",
+      "e1": "xix",
+      "e2": "iїi"
+     }
+    },
+    {
+     "y": 1683,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "pr.No.",
+      "note": "",
+      "m1": "XX",
+      "m2": "XX",
+      "e1": "xxi",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 1744,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nono",
+      "note": "Papiste Conspirzay",
+      "m1": "xxii",
+      "m2": "xxi",
+      "e1": "ХXIII",
+      "e2": "1.Thes.i."
+     }
+    },
+    {
+     "y": 1808,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "B",
+      "roman": "8. Id.",
+      "note": "Leonard Confess.",
+      "m1": "xxiY",
+      "m2": "xxii",
+      "e1": "XXV a)",
+      "e2": "!!"
+     }
+    },
+    {
+     "y": 1872,
+     "cells": {
+      "golden": "Ivüi",
+      "day": "7",
+      "letter": "",
+      "roman": "7.3а.",
+      "note": "",
+      "m1": "xxVil",
+      "m2": "ПIХХ",
+      "e1": "xxvili",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 1934,
+     "cells": {
+      "golden": "vii",
+      "day": "8",
+      "letter": "D",
+      "roman": "6.Fd.",
+      "note": "",
+      "m1": "хxix",
+      "m2": "xxiv",
+      "e1": "xxxд)",
+      "e2": "л!"
+     }
+    },
+    {
+     "y": 1996,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "E",
+      "roman": "5. Id.",
+      "note": "",
+      "m1": "xxXI",
+      "m2": "lohn.=",
+      "e1": "xxxii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2060,
+     "cells": {
+      "golden": "AX",
+      "day": "IO",
+      "letter": "",
+      "roman": "4. Уd.",
+      "note": "",
+      "m1": "xxXiII",
+      "m2": "",
+      "e1": "Ixxiv",
+      "e2": "2 Thes.1."
+     }
+    },
+    {
+     "y": 2123,
+     "cells": {
+      "golden": "Al",
+      "day": "II",
+      "letter": "G",
+      "roman": "3. Уа.",
+      "note": "S. Martin B. &o Corf:",
+      "m1": "XXXV",
+      "m2": "",
+      "e1": "xxXVi",
+      "e2": "iї."
+     }
+    },
+    {
+     "y": 2187,
+     "cells": {
+      "golden": "",
+      "day": "12",
+      "letter": "",
+      "roman": "pr.Id.",
+      "note": "",
+      "m1": "xxxvii",
+      "m2": "iv",
+      "e1": "xxxvill",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 2248,
+     "cells": {
+      "golden": "",
+      "day": "I3",
+      "letter": "B",
+      "roman": "Idus",
+      "note": "Britius Bishop",
+      "m1": "xxхіx",
+      "m2": "",
+      "e1": "xl",
+      "e2": "1. Tine.i."
+     }
+    },
+    {
+     "y": 2311,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "18. Kl. Dec",
+      "note": "",
+      "m1": "xli",
+      "m2": "vi",
+      "e1": "xlii",
+      "e2": "ii. i"
+     }
+    },
+    {
+     "y": 2374,
+     "cells": {
+      "golden": "",
+      "day": "I5",
+      "letter": "D",
+      "roman": "17.к7.",
+      "note": "Mackatas B.",
+      "m1": "xliii",
+      "m2": "vi",
+      "e1": "xliv",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2436,
+     "cells": {
+      "golden": "ix",
+      "day": "",
+      "letter": "E",
+      "roman": "хб.кт.",
+      "note": "",
+      "m1": "",
+      "m2": "vii",
+      "e1": "xivi c)",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2501,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "F",
+      "roman": "I5. Кl.",
+      "note": "Hugh B. of Lincols.",
+      "m1": "xlvii",
+      "m2": "ix",
+      "e1": "xlviii",
+      "e2": "vi"
+     }
+    },
+    {
+     "y": 2564,
+     "cells": {
+      "golden": "xvii",
+      "day": "I8",
+      "letter": "G",
+      "roman": "14. Kl.",
+      "note": "",
+      "m1": "xlix",
+      "m2": "",
+      "e1": "L",
+      "e2": "2. Tim.i"
+     }
+    },
+    {
+     "y": 2626,
+     "cells": {
+      "golden": "vi",
+      "day": "",
+      "letter": "",
+      "roman": "13.Kl.",
+      "note": "",
+      "m1": "Li.",
+      "m2": "xi",
+      "e1": "Baruch.s.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2688,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "B",
+      "roman": "12.Kl.",
+      "note": "Edmand K.& M.",
+      "m1": "Baruch. a.",
+      "m2": "xii",
+      "e1": "!!!",
+      "e2": "ill"
+     }
+    },
+    {
+     "y": 2752,
+     "cells": {
+      "golden": "AIX",
+      "day": "21",
+      "letter": "",
+      "roman": "11.Kl.",
+      "note": "",
+      "m1": "iv",
+      "m2": "xії",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2815,
+     "cells": {
+      "golden": "iii",
+      "day": "22",
+      "letter": "D",
+      "roman": "10.KL.",
+      "note": "Cecilia Virg. &o M.",
+      "m1": "vi / - / -",
+      "m2": "XIV",
+      "e1": "Hist.of / Susan.",
+      "e2": "Titus i"
+     }
+    },
+    {
+     "y": 2880,
+     "cells": {
+      "golden": "",
+      "day": "23",
+      "letter": "E",
+      "roman": "9.Kl.",
+      "note": "S.Clem! I. B. of Rom. & M.",
+      "m1": "Bel G y. / Drag.",
+      "m2": "AX",
+      "e1": "Isai.1.",
+      "e2": "ii. ill"
+     }
+    },
+    {
+     "y": 2941,
+     "cells": {
+      "golden": "IX",
+      "day": "z4",
+      "letter": "F",
+      "roman": "8.KL.",
+      "note": "",
+      "m1": "Isai.z",
+      "m2": "xvi",
+      "e1": "iїi",
+      "e2": "Philcmon"
+     }
+    },
+    {
+     "y": 3004,
+     "cells": {
+      "golden": "xiX",
+      "day": "25",
+      "letter": "G",
+      "roman": "7.Kl",
+      "note": "Catkerine Virg. & M.",
+      "m1": "IV",
+      "m2": "xvi",
+      "e1": "",
+      "e2": "Ilebr. I."
+     }
+    },
+    {
+     "y": 3065,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "",
+      "roman": "6.K7.",
+      "note": "",
+      "m1": "vi",
+      "m2": "xviii",
+      "e1": "vi",
+      "e2": "!!"
+     }
+    },
+    {
+     "y": 3129,
+     "cells": {
+      "golden": "viii",
+      "day": "27",
+      "letter": "B",
+      "roman": "5.Kl.",
+      "note": "",
+      "m1": "vüi",
+      "m2": "xіx",
+      "e1": "ix",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 3192,
+     "cells": {
+      "golden": "",
+      "day": "28",
+      "letter": "",
+      "roman": "4. KL.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3256,
+     "cells": {
+      "golden": "xvi",
+      "day": "",
+      "letter": "",
+      "roman": "3. Кт.",
+      "note": "Fast",
+      "m1": "xii",
+      "m2": "xxi",
+      "e1": "xії",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3318,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "E.",
+      "roman": "pr. Kl.",
+      "note": "8. Andr. Apost. & IL.",
+      "m1": "",
+      "m2": "Acts. I.",
+      "e1": "",
+      "e2": "vi"
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    462,
+    613,
+    708,
+    804,
+    1067,
+    1648,
+    1843,
+    2034,
+    2229,
+    2434
+   ],
+   "filled": [],
+   "angle": 0,
+   "top": 1439,
+   "bot": 3619,
+   "pitch": 63,
+   "note": "roman strip gave 32 rows for 30; ladder pitch 63.0",
+   "rows": [
+    {
+     "y": 1496,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Kaieяd",
+      "note": "All Bainta day.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1563,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "4. No",
+      "note": "",
+      "m1": "Exctur.s6.",
+      "m2": "Lwke.Il.",
+      "e1": "Eclws.17.",
+      "e2": "Coloss.3."
+     }
+    },
+    {
+     "y": 1621,
+     "cells": {
+      "golden": "1L",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xvii",
+      "m2": "xix",
+      "e1": "xіx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1684,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "fr. No.",
+      "note": "",
+      "m1": "",
+      "m2": "XX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1743,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Nore",
+      "note": "Paplsts Oonspizeay",
+      "m1": "xrii",
+      "m2": "EXSC",
+      "e1": "xxiїї",
+      "e2": "I.Tke6.1."
+     }
+    },
+    {
+     "y": 1807,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "8. ld.",
+      "note": "Leonard Cosfess.",
+      "m1": "xxiv",
+      "m2": "tExx",
+      "e1": "XXV a)",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1872,
+     "cells": {
+      "golden": "MAI",
+      "day": "",
+      "letter": "",
+      "roman": "7.7d.",
+      "note": "",
+      "m1": "Xxvii",
+      "m2": "xxjii",
+      "e1": "Ixviїi",
+      "e2": "isi"
+     }
+    },
+    {
+     "y": 1934,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6. 7d.",
+      "note": "",
+      "m1": "XDXI",
+      "m2": "xxiv",
+      "e1": "xxx #)",
+      "e2": "Al"
+     }
+    },
+    {
+     "y": 1997,
+     "cells": {
+      "golden": "",
+      "day": "9",
+      "letter": "E",
+      "roman": "5.Jd.",
+      "note": "",
+      "m1": "DOX",
+      "m2": "Johя, 1",
+      "e1": "1DOx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2063,
+     "cells": {
+      "golden": "",
+      "day": "I0",
+      "letter": "",
+      "roman": "4. Id.",
+      "note": "",
+      "m1": "xxriii",
+      "m2": "",
+      "e1": "XxxİY",
+      "e2": "2 Thes.1."
+     }
+    },
+    {
+     "y": 2125,
+     "cells": {
+      "golden": "iv",
+      "day": "XI",
+      "letter": "",
+      "roman": "3. Уd.",
+      "note": "S. Marten B, &e Cory:",
+      "m1": "XTXY",
+      "m2": "",
+      "e1": "axvi",
+      "e2": "11."
+     }
+    },
+    {
+     "y": 2188,
+     "cells": {
+      "golden": "",
+      "day": "$2",
+      "letter": "",
+      "roman": "pr.id.",
+      "note": "",
+      "m1": "",
+      "m2": "",
+      "e1": "xxxviii",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 2248,
+     "cells": {
+      "golden": "",
+      "day": "33",
+      "letter": "",
+      "roman": "Jaxs",
+      "note": "Britiss Birhop",
+      "m1": "Ixxix",
+      "m2": "",
+      "e1": "",
+      "e2": "z. Tim, i,"
+     }
+    },
+    {
+     "y": 2311,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "18. Kl. Dec",
+      "note": "",
+      "m1": "xii",
+      "m2": "",
+      "e1": "xili",
+      "e2": "ii. Li."
+     }
+    },
+    {
+     "y": 2376,
+     "cells": {
+      "golden": "",
+      "day": "15",
+      "letter": "",
+      "roman": "т7. KL.",
+      "note": "Machatus B.",
+      "m1": "xLiji",
+      "m2": "rii",
+      "e1": "aliv",
+      "e2": "A1"
+     }
+    },
+    {
+     "y": 2436,
+     "cells": {
+      "golden": "ix",
+      "day": "І6",
+      "letter": "",
+      "roman": "хб. K7.",
+      "note": "",
+      "m1": "x}y",
+      "m2": "vii",
+      "e1": "x]vi c)",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2501,
+     "cells": {
+      "golden": "",
+      "day": "17",
+      "letter": "",
+      "roman": "15. Kt.",
+      "note": "HagA R. of Lincoln.",
+      "m1": "x}vii",
+      "m2": "ix",
+      "e1": "xviii",
+      "e2": "LA"
+     }
+    },
+    {
+     "y": 2565,
+     "cells": {
+      "golden": "xvii",
+      "day": "18",
+      "letter": "G",
+      "roman": "14.K7.",
+      "note": "",
+      "m1": "хіїх",
+      "m2": "",
+      "e1": "L",
+      "e2": "2. Tim.i"
+     }
+    },
+    {
+     "y": 2626,
+     "cells": {
+      "golden": "vi",
+      "day": "61",
+      "letter": "",
+      "roman": "I3. XZ.",
+      "note": "",
+      "m1": "Li.",
+      "m2": "xi",
+      "e1": "Baruch.I.",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2688,
+     "cells": {
+      "golden": "",
+      "day": "20",
+      "letter": "",
+      "roman": "32. KL.",
+      "note": "Edmnиd K. & M.",
+      "m1": "Barwck. з.",
+      "m2": "xі",
+      "e1": "11L",
+      "e2": "iii"
+     }
+    },
+    {
+     "y": 2751,
+     "cells": {
+      "golden": "AIX",
+      "day": "21",
+      "letter": "",
+      "roman": "Ix. KZ.",
+      "note": "",
+      "m1": "At",
+      "m2": "хüї",
+      "e1": "",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 2815,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "",
+      "roman": "zo. KZ.",
+      "note": "Cociia Ving- & M.",
+      "m1": "vi",
+      "m2": "A1X",
+      "e1": "Hist.of / SuEun.",
+      "e2": "Titar i"
+     }
+    },
+    {
+     "y": 2883,
+     "cells": {
+      "golden": "",
+      "day": "23",
+      "letter": "",
+      "roman": "9 KL.",
+      "note": "S.Clem! 1. B.of Rom.& M.",
+      "m1": "Bei & j. / Drag,",
+      "m2": "",
+      "e1": "/sai. I.",
+      "e2": "il. iit"
+     }
+    },
+    {
+     "y": 2942,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "8. KT.",
+      "note": "",
+      "m1": "Ysai.z",
+      "m2": "Ivi",
+      "e1": "iii",
+      "e2": "Ганеток"
+     }
+    },
+    {
+     "y": 3009,
+     "cells": {
+      "golden": "xix",
+      "day": "$5",
+      "letter": "",
+      "roman": "7. K1",
+      "note": "Catherine Virg. & M.",
+      "m1": "Af",
+      "m2": "Ivii",
+      "e1": "",
+      "e2": "Ilcor, 1."
+     }
+    },
+    {
+     "y": 3068,
+     "cells": {
+      "golden": "",
+      "day": "26",
+      "letter": "",
+      "roman": "6. K7.",
+      "note": "",
+      "m1": "",
+      "m2": "Iviii",
+      "e1": "vij",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3131,
+     "cells": {
+      "golden": "vili",
+      "day": "27",
+      "letter": "",
+      "roman": "5.KZ.",
+      "note": "",
+      "m1": "vii",
+      "m2": "xix",
+      "e1": "",
+      "e2": "3L!"
+     }
+    },
+    {
+     "y": 3198,
+     "cells": {
+      "golden": "",
+      "day": "28",
+      "letter": "C",
+      "roman": "4 K7.",
+      "note": "",
+      "m1": "",
+      "m2": "LA",
+      "e1": "",
+      "e2": "iv"
+     }
+    },
+    {
+     "y": 3256,
+     "cells": {
+      "golden": "14X",
+      "day": "29",
+      "letter": "",
+      "roman": "3. KL.",
+      "note": "Fast",
+      "m1": "",
+      "m2": "xxi",
+      "e1": "хіїд",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3320,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "E.",
+      "roman": "pr. K7.",
+      "note": "8. Andr, Apost. & 1.",
+      "m1": "",
+      "m2": "Ácts. t.",
+      "e1": "",
+      "e2": "vi"
+     }
+    }
+   ]
+  }
+ },
+ "55": {
+  "month": "December",
+  "page": 55,
+  "A": {
+   "rules": [
+    548,
+    695,
+    789,
+    884,
+    1147,
+    1726,
+    1919,
+    2111,
+    2306,
+    2514
+   ],
+   "filled": [],
+   "angle": -0.15,
+   "top": 1428,
+   "bot": 3424,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1482,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "F",
+      "roman": "Kalend",
+      "note": "",
+      "m1": "Isai. 14.",
+      "m2": "Acts. 2.",
+      "e1": "Isai 15.",
+      "e2": "Hebr.7."
+     }
+    },
+    {
+     "y": 1547,
+     "cells": {
+      "golden": "xiii",
+      "day": "2",
+      "letter": "G",
+      "roman": "4. No.",
+      "note": "",
+      "m1": "xvi",
+      "m2": "їїi",
+      "e1": "xvii",
+      "e2": "vii"
+     }
+    },
+    {
+     "y": 1610,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "3. No.",
+      "note": "",
+      "m1": "xvüi",
+      "m2": "AI",
+      "e1": "xix",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 1673,
+     "cells": {
+      "golden": "X",
+      "day": "",
+      "letter": "B",
+      "roman": "pr. No.",
+      "note": "",
+      "m1": "xx. xXI.",
+      "m2": "",
+      "e1": "xxii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1732,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "",
+      "roman": "Nona",
+      "note": "",
+      "m1": "xxiїi",
+      "m2": "vi",
+      "e1": "xxiv",
+      "e2": "DX"
+     }
+    },
+    {
+     "y": 1797,
+     "cells": {
+      "golden": "xviii",
+      "day": "б",
+      "letter": "D",
+      "roman": "8.Yd",
+      "note": "Nicholas Bof Myra inLycia",
+      "m1": "AXX",
+      "m2": "7.8007.30.",
+      "e1": "XXVI",
+      "e2": "xiї"
+     }
+    },
+    {
+     "y": 1860,
+     "cells": {
+      "golden": "vi",
+      "day": "7",
+      "letter": "E",
+      "roman": "7.1d.",
+      "note": "",
+      "m1": "xxvü",
+      "m2": "7. 30.",
+      "e1": "xxViii",
+      "e2": "хіi"
+     }
+    },
+    {
+     "y": 1922,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "F",
+      "roman": "6.Уа.",
+      "note": "Concep: ofy.BL.V. Mary.",
+      "m1": "xxiх",
+      "m2": "- / vii",
+      "e1": "xxx",
+      "e2": "Fаж.І."
+     }
+    },
+    {
+     "y": 1983,
+     "cells": {
+      "golden": "AX",
+      "day": "",
+      "letter": "G",
+      "roman": "5. jd.",
+      "note": "",
+      "m1": "xxxi",
+      "m2": "ix",
+      "e1": "хxxiї",
+      "e2": "5: '"
+     }
+    },
+    {
+     "y": 2046,
+     "cells": {
+      "golden": "AI",
+      "day": "IO",
+      "letter": "",
+      "roman": "4. 7d.",
+      "note": "",
+      "m1": "хxхіїї",
+      "m2": "",
+      "e1": "xxxiv",
+      "e2": "iїi"
+     }
+    },
+    {
+     "y": 2108,
+     "cells": {
+      "golden": "",
+      "day": "II",
+      "letter": "B",
+      "roman": "3. Уd.",
+      "note": "",
+      "m1": "xXXY",
+      "m2": "",
+      "e1": "xxxVi",
+      "e2": "AT"
+     }
+    },
+    {
+     "y": 2171,
+     "cells": {
+      "golden": "IX",
+      "day": "I2",
+      "letter": "",
+      "roman": "pr. Jd.",
+      "note": "",
+      "m1": "xxxi",
+      "m2": "xi",
+      "e1": "xxxviй",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2232,
+     "cells": {
+      "golden": "",
+      "day": "I3",
+      "letter": "D",
+      "roman": "Ydus",
+      "note": "Lacis Virg. &o M.",
+      "m1": "xxxix",
+      "m2": "xilI",
+      "e1": "xl",
+      "e2": "r. Pet.s."
+     }
+    },
+    {
+     "y": 2296,
+     "cells": {
+      "golden": "",
+      "day": "I4",
+      "letter": "E",
+      "roman": "19.Kl.lax.",
+      "note": "",
+      "m1": "xli",
+      "m2": "хiт",
+      "e1": "xlii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2359,
+     "cells": {
+      "golden": "iX",
+      "day": "15",
+      "letter": "",
+      "roman": "18. Kl",
+      "note": "",
+      "m1": "xhiii",
+      "m2": "",
+      "e1": "xliv",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2422,
+     "cells": {
+      "golden": "",
+      "day": "16",
+      "letter": "G",
+      "roman": "17.KL.",
+      "note": "O Sapientia.",
+      "m1": "",
+      "m2": "xVi",
+      "e1": "xlvi",
+      "e2": "1V"
+     }
+    },
+    {
+     "y": 2485,
+     "cells": {
+      "golden": "xvii",
+      "day": "17",
+      "letter": "",
+      "roman": "1б.кг.",
+      "note": "",
+      "m1": "xlvii",
+      "m2": "xvii",
+      "e1": "xvii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2547,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "B",
+      "roman": "15.Kl.",
+      "note": "",
+      "m1": "xlix",
+      "m2": "xrii",
+      "e1": "L",
+      "e2": "2. Pet.I."
+     }
+    },
+    {
+     "y": 2610,
+     "cells": {
+      "golden": "",
+      "day": "6x",
+      "letter": "",
+      "roman": "I4.KL.",
+      "note": "",
+      "m1": "Li",
+      "m2": "xix",
+      "e1": "Li",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2678,
+     "cells": {
+      "golden": "AIX",
+      "day": "20",
+      "letter": "",
+      "roman": "13. Kl.",
+      "note": "Fast",
+      "m1": "Liii",
+      "m2": "xX",
+      "e1": "Liv",
+      "e2": "111"
+     }
+    },
+    {
+     "y": 2740,
+     "cells": {
+      "golden": "Lii",
+      "day": "21",
+      "letter": "E",
+      "roman": "I2.Kl.",
+      "note": "8 Thomos Apost, & IC.",
+      "m1": "",
+      "m2": "xXI",
+      "e1": "",
+      "e2": "r.JohzI."
+     }
+    },
+    {
+     "y": 2802,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "",
+      "roman": "11. Кl.",
+      "note": "",
+      "m1": "Lv",
+      "m2": "xxIi",
+      "e1": "Lvi",
+      "e2": "5:"
+     }
+    },
+    {
+     "y": 2865,
+     "cells": {
+      "golden": "IX",
+      "day": "23",
+      "letter": "G",
+      "roman": "1o. Kl.",
+      "note": "",
+      "m1": "Lvi",
+      "m2": "XXilI",
+      "e1": "Lviii",
+      "e2": "!!!"
+     }
+    },
+    {
+     "y": 2927,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "9. KL.",
+      "note": "Fast",
+      "m1": "Lix",
+      "m2": "xxiV",
+      "e1": "Lx",
+      "e2": "A!"
+     }
+    },
+    {
+     "y": 2989,
+     "cells": {
+      "golden": "xiX",
+      "day": "25",
+      "letter": "B",
+      "roman": "8.KL.",
+      "note": "Ohristraas day.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3051,
+     "cells": {
+      "golden": "V111",
+      "day": "26",
+      "letter": "C",
+      "roman": "7. KL.",
+      "note": "8. Stoph. J. Arst Mart.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3114,
+     "cells": {
+      "golden": "",
+      "day": "27",
+      "letter": "D",
+      "roman": "6.Кв.",
+      "note": "8. John Apost, & Jvang.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3176,
+     "cells": {
+      "golden": "xVi",
+      "day": "28",
+      "letter": "E",
+      "roman": "5. Kl.",
+      "note": "Innoconte dey.",
+      "m1": "",
+      "m2": "AXX",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3238,
+     "cells": {
+      "golden": "",
+      "day": "29",
+      "letter": "",
+      "roman": "4. Kl.",
+      "note": "",
+      "m1": "Lai",
+      "m2": "xxvi",
+      "e1": "Lxii",
+      "e2": "2.lohr"
+     }
+    },
+    {
+     "y": 3300,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "G",
+      "roman": "3.KL.",
+      "note": "",
+      "m1": "Lxiii",
+      "m2": "xavii",
+      "e1": "Lxiv",
+      "e2": "3. John."
+     }
+    },
+    {
+     "y": 3364,
+     "cells": {
+      "golden": "xiii",
+      "day": "3І",
+      "letter": "",
+      "roman": "pr. Kl.",
+      "note": "Silvester B.of Rome.",
+      "m1": "Lxv",
+      "m2": "xxviii",
+      "e1": "Livz",
+      "e2": "Inde."
+     }
+    }
+   ]
+  },
+  "B": {
+   "rules": [
+    547,
+    695,
+    788,
+    884,
+    1147,
+    1725,
+    1918,
+    2112,
+    2305,
+    2513
+   ],
+   "filled": [],
+   "angle": -0.225,
+   "top": 1426,
+   "bot": 3424,
+   "pitch": 63.0,
+   "note": "",
+   "rows": [
+    {
+     "y": 1481,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "Kalend",
+      "note": "",
+      "m1": "isa2 14",
+      "m2": "Åcts, 2.",
+      "e1": "Isai 15.",
+      "e2": "Небт. 7."
+     }
+    },
+    {
+     "y": 1547,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "4-No.",
+      "note": "",
+      "m1": "xvi",
+      "m2": "ili",
+      "e1": "xvü",
+      "e2": "viit"
+     }
+    },
+    {
+     "y": 1608,
+     "cells": {
+      "golden": "ii",
+      "day": "",
+      "letter": "",
+      "roman": "3. Na.",
+      "note": "",
+      "m1": "xvili",
+      "m2": "AT",
+      "e1": "хіx",
+      "e2": "ix"
+     }
+    },
+    {
+     "y": 1671,
+     "cells": {
+      "golden": "X",
+      "day": "",
+      "letter": "",
+      "roman": "фr. No.",
+      "note": "",
+      "m1": "xx. xxі.",
+      "m2": "",
+      "e1": "xxiї",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1732,
+     "cells": {
+      "golden": "",
+      "day": "5",
+      "letter": "3",
+      "roman": "Nosa",
+      "note": "",
+      "m1": "nxіїi",
+      "m2": "vi",
+      "e1": "Xxiy",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1796,
+     "cells": {
+      "golden": "xтiїi",
+      "day": "",
+      "letter": "D",
+      "roman": "8. Id",
+      "note": "Nichoias Boj Myra in Lycia",
+      "m1": "xXY",
+      "m2": "7.30 07.30.",
+      "e1": "Kxyi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 1858,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "7.1d.",
+      "note": "",
+      "m1": "ПAXI",
+      "m2": "7- 30.",
+      "e1": "Ixriїi",
+      "e2": "лії"
+     }
+    },
+    {
+     "y": 1921,
+     "cells": {
+      "golden": "",
+      "day": "8",
+      "letter": "",
+      "roman": "6.Yd.",
+      "note": "Concep: e/f.BL.V. Mary.",
+      "m1": "xxix",
+      "m2": "viii",
+      "e1": "",
+      "e2": "jam. I."
+     }
+    },
+    {
+     "y": 1984,
+     "cells": {
+      "golden": "",
+      "day": "6",
+      "letter": "G",
+      "roman": "5. Fd",
+      "note": "",
+      "m1": "хxxi",
+      "m2": "ix",
+      "e1": "xxxü",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2046,
+     "cells": {
+      "golden": "Al",
+      "day": "",
+      "letter": "",
+      "roman": "4. уd.",
+      "note": "",
+      "m1": "Rукxа",
+      "m2": "",
+      "e1": "xxxiy",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2108,
+     "cells": {
+      "golden": "",
+      "day": "II",
+      "letter": "",
+      "roman": "3. Id.",
+      "note": "",
+      "m1": "",
+      "m2": "xi",
+      "e1": "IxXVi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2171,
+     "cells": {
+      "golden": "xii",
+      "day": "12",
+      "letter": "",
+      "roman": "pr. Id.",
+      "note": "",
+      "m1": "xxri",
+      "m2": "",
+      "e1": "caxvin",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2233,
+     "cells": {
+      "golden": "",
+      "day": "13",
+      "letter": "G",
+      "roman": "Jdss",
+      "note": "Lacie Virg. & M.",
+      "m1": "xxxіx",
+      "m2": "xii",
+      "e1": "pe",
+      "e2": "I. Pel.s."
+     }
+    },
+    {
+     "y": 2294,
+     "cells": {
+      "golden": "",
+      "day": "14",
+      "letter": "",
+      "roman": "Ig. Kl. Jax.",
+      "note": "",
+      "m1": "xli",
+      "m2": "AIX",
+      "e1": "alii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2357,
+     "cells": {
+      "golden": "ix",
+      "day": "15",
+      "letter": "",
+      "roman": "хв. KL",
+      "note": "",
+      "m1": "xhii",
+      "m2": "ax",
+      "e1": "Arpx",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2422,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "G",
+      "roman": "17.KL.",
+      "note": "O Ssfinntia.",
+      "m1": "",
+      "m2": "xvi",
+      "e1": "xlvi",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2483,
+     "cells": {
+      "golden": "xvii",
+      "day": "",
+      "letter": "",
+      "roman": "Iб. KZ.",
+      "note": "",
+      "m1": "x/vi",
+      "m2": "",
+      "e1": "xiviji",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2547,
+     "cells": {
+      "golden": "",
+      "day": "18",
+      "letter": "",
+      "roman": "15.A2.",
+      "note": "",
+      "m1": "xlix",
+      "m2": "хтіїі",
+      "e1": "L",
+      "e2": "z. Pet. t."
+     }
+    },
+    {
+     "y": 2610,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "C",
+      "roman": "14 K7.",
+      "note": "",
+      "m1": "Li",
+      "m2": "хіx",
+      "e1": "Lii",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2676,
+     "cells": {
+      "golden": "xiT",
+      "day": "20",
+      "letter": "D",
+      "roman": "13. K1.",
+      "note": "Fast",
+      "m1": "Lii",
+      "m2": "XX",
+      "e1": "ATI",
+      "e2": "ili"
+     }
+    },
+    {
+     "y": 2739,
+     "cells": {
+      "golden": "iii",
+      "day": "21",
+      "letter": "E",
+      "roman": "12. KT.",
+      "note": "B Thomoe Apost & I.",
+      "m1": "",
+      "m2": "EXX",
+      "e1": "",
+      "e2": "т.7оля1,"
+     }
+    },
+    {
+     "y": 2800,
+     "cells": {
+      "golden": "",
+      "day": "22",
+      "letter": "",
+      "roman": "11. KZ.",
+      "note": "",
+      "m1": "",
+      "m2": "xadì",
+      "e1": "Lvi",
+      "e2": "Li"
+     }
+    },
+    {
+     "y": 2862,
+     "cells": {
+      "golden": "TX",
+      "day": "23",
+      "letter": "",
+      "roman": "xo. Kl.",
+      "note": "",
+      "m1": "Lyii",
+      "m2": "xxiїi",
+      "e1": "Lyili",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2927,
+     "cells": {
+      "golden": "",
+      "day": "",
+      "letter": "",
+      "roman": "9.KL.",
+      "note": "Fart",
+      "m1": "Lix",
+      "m2": "хxіч",
+      "e1": "LX",
+      "e2": ""
+     }
+    },
+    {
+     "y": 2990,
+     "cells": {
+      "golden": "xіx",
+      "day": "25",
+      "letter": "",
+      "roman": "8. KL.",
+      "note": "Ohristimee day.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3050,
+     "cells": {
+      "golden": "TILA",
+      "day": "аб",
+      "letter": "",
+      "roman": "7. KL.",
+      "note": "B. Bteph. J. trat Mart",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3112,
+     "cells": {
+      "golden": "",
+      "day": "Lt",
+      "letter": "",
+      "roman": "6. Кl.",
+      "note": "8. Joha Apost, & Svang.",
+      "m1": "",
+      "m2": "",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3174,
+     "cells": {
+      "golden": "xvi",
+      "day": "28",
+      "letter": "E",
+      "roman": "5. KZ.",
+      "note": "Junocente day.",
+      "m1": "",
+      "m2": "XXY",
+      "e1": "",
+      "e2": ""
+     }
+    },
+    {
+     "y": 3238,
+     "cells": {
+      "golden": "",
+      "day": "6г",
+      "letter": "",
+      "roman": "4 K7.",
+      "note": "",
+      "m1": "Lmi",
+      "m2": "",
+      "e1": "Lurii",
+      "e2": "2. lokn"
+     }
+    },
+    {
+     "y": 3301,
+     "cells": {
+      "golden": "",
+      "day": "30",
+      "letter": "G",
+      "roman": "3. Kl.",
+      "note": "",
+      "m1": "Laiii",
+      "m2": "1AI*",
+      "e1": "Leiv",
+      "e2": "3. lohк."
+     }
+    },
+    {
+     "y": 3363,
+     "cells": {
+      "golden": "xiїi",
+      "day": "31",
+      "letter": "",
+      "roman": "pr.KL.",
+      "note": "Silvester B.of Rome,",
+      "m1": "Lxy",
+      "m2": "xxvüi",
+      "e1": "LTyz",
+      "e2": "Jwie."
+     }
+    }
+   ]
+  }
+ }
+}

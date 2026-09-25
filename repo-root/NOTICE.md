@@ -613,6 +613,35 @@ The published branches and tags are build artifacts, regenerated from the
   - This changes `texts/original` and `texts/normalized` throughout the 1979
     Psalter and in six other 1979 files.
 
+- **2026-09-25** — Wave 20: the **1662 Kalendar and its tables, from the
+  Annexed Book**. Until now the 1662 node had no Kalendar, Table of Proper
+  Lessons or reading rubrics of its own (the Church of England serves only
+  their 1922 revision), so it inherited 1559's. Wave 18's witness — the
+  manuscript annexed to the Act of Uniformity 1662, in HMSO's 1892
+  type-reproduction (Wikimedia Commons) — prints all of them, and they are now
+  transcribed from it.
+  - **Five files at `v1662`**: the Kalendar (366 rows, with the book's lesson
+    columns and its notes of saints' days, fasts and state days such as *K.
+    Charles Mart.* and *CH. II. Nat. et Ret.*), the Table of Proper Lessons,
+    the Proper Psalms on certain days (which `v1662` had lacked without any
+    note), and the Order how the Psalter, and how the rest of Holy Scripture,
+    is appointed to be read.
+  - **Spelling**: this witness is the only source for these pages, so they
+    are in the manuscript's own spelling, not the modernized spelling of the
+    rest of the 1662 node (`SOURCES.md` explains why and what it means for the
+    diff).
+  - **Method**: every Kalendar cell read twice by machine and once by eye,
+    every disagreement re-read, and the structure checked (days, Sunday
+    letters, holy-day blanks, the lesson courses). Three readings are flagged.
+    The June page, which some decoders draw blank, was read from Wikimedia's
+    own rendering of the same file.
+  - **Recorded gap narrowed**: the 1662 book prints its Proper Lessons as one
+    table, not the thirty small tables the earlier books use; the gap now
+    reads 1549–1604.
+  - The sentence splitter now leaves a table row whole (a row is one unit, as
+    a Psalter verse is); every pre-existing file splits exactly as before.
+  - This changes `texts/original` and `texts/normalized` only at `v1662`.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

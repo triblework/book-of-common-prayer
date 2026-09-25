@@ -9,8 +9,10 @@ and the texts are still being built and audited.)*
 > **The full texts of the Book of Common Prayer are actively being transcribed
 > and added edition by edition — more services are coming soon.** The repository
 > structure, tooling, and diff mechanism are complete; today the transcribed
-> text covers **Morning Prayer, Evening Prayer, the Litany, and Holy Communion**
-> in full across every edition that has them. No
+> text covers **every service family the project set out to carry** — the
+> offices, the Litany, Holy Communion, the occasional offices, the Ordinal, the
+> propers, the Psalter and the tables — across every edition that has them;
+> what remains are recorded gaps and uncertain readings. No
 > text is ever invented — everything is sourced from faithful public-domain
 > transcriptions (see [`SOURCES.md`](SOURCES.md)). See
 > [Transcription status](#transcription-status) for what's here and what's next.

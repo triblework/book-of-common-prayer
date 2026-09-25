@@ -108,6 +108,9 @@ def letter(mi, day):
                       - datetime.date(1927, 1, 1)).days % 7]
 
 
+CAPITALS = {'1662'}
+
+
 def calendars():
     for ed in sorted(os.listdir(E())):
         p = E(ed, "tables", "calendar.md")
@@ -126,7 +129,12 @@ def calendars():
                 bare.append("%s %d" % (mo, d))
             lt = re.search(r"Sunday Letter: (\S+)", r)
             if lt and not (mo == "February" and d == 29):
-                if lt.group(1) != letter(MONTHS.index(mo), d):
+                want = letter(MONTHS.index(mo), d)
+                # The 1662 Annexed Book prints every Sunday letter as a capital
+                # (A-G); the cycle is checked, the case is the book's (Wave 20).
+                if ed in CAPITALS:
+                    want = want.upper()
+                if lt.group(1) != want:
                     off.append("%s %d=%s" % (mo, d, lt.group(1)))
         bad_months = [mo for mi, mo in enumerate(MONTHS)
                       if per[mo] != list(range(1, len(per[mo]) + 1))

@@ -74,6 +74,65 @@ KNOWN_GOOD = {
     ('1979', 'tables/calendar', 'lesson columns'):
         '1979 keeps the civil-date Kalendar but moves the readings into the '
         'two-year Daily Office Lectionary, so its rows carry no lesson columns.',
+    # Wave 20 -- the 1662 Annexed Book (PDF pp. 36-38, 44, 54). Its Proper
+    # Lessons print as many lessons as each occasion has, so no one shape fits.
+    ('1662', 'tables/calendar', 'Footnote'):
+        'January and November print a footnote under the month (Exodus 6 to v. 14; '
+        'Ecclus 25, 30, 46), set as a two-cell Footnote row (RULINGS R13).',
+    ('1662', 'tables/proper-lessons', 'vi'):
+        'a Sunday row that prints second lessons as well (Lent 6 (Palm Sunday): "1. Lesson" / '
+        '"2. Lesson" sub-rows, p. 25).',
+    ('1662', 'tables/proper-lessons', 'Easter, day'):
+        'a Sunday row that prints second lessons as well (Easter Day: "1. Lesson" / '
+        '"2. Lesson" sub-rows, p. 25).',
+    ('1662', 'tables/proper-lessons', 'Whitsunday'):
+        'a Sunday row that prints second lessons as well (Whitsunday: "1. Lesson" / '
+        '"2. Lesson" sub-rows, p. 25).',
+    ('1662', 'tables/proper-lessons', 'Trinitie Sunday.'):
+        'a Sunday row that prints second lessons as well (Trinity Sunday: "1. Lesson" / '
+        '"2. Lesson" sub-rows, p. 25).',
+    ('1662', 'tables/proper-lessons', 'S. Andrew.'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Thomas the Apostle'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'Jnnocents day.'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'Purification of the Virg. Mary'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Matthias.'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'Añunciation of our Ladie'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Mark.'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. James'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Bartholmew'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Matthew'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Luke.'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'S. Simon and S. Jude'):
+        'the book prints first lessons only for this holy day; the second '
+        'lessons are the Kalendar\'s (pp. 26-27).',
+    ('1662', 'tables/proper-lessons', 'Wedensday before Easter.'):
+        'the book prints three lessons here, leaving one column blank (p. 26).',
+    ('1662', 'tables/proper-lessons', 'Thursday before Easter'):
+        'the book prints three lessons here, leaving one column blank (p. 26).',
+    ('1662', 'tables/proper-lessons', 'S. Philip. and S. Iacob.'):
+        'the book prints three lessons here, leaving one column blank (p. 26).',
     ('1789', 'tables/calendar', 'November lesson columns'):
         'the source drops one entry from November\'s two First-Lesson columns; '
         'they are omitted for that month rather than misaligned.',

@@ -157,7 +157,7 @@ text's spelling. It does not forbid transcribing that witness where it is the
 only source there is. The 1662 Kalendar, Proper Lessons, Proper Psalms and
 the two reading rubrics exist on no allow-listed host except the Annexed Book,
 so they are transcribed **as the manuscript prints them** — `Epiphanie of our
-Ld`, `Hilarie B. & Conf.`, `Matth.`, `onely`, `vpon` — and the provenance
+Ld`, `Hilarie B. &, Conf.`, `Matth.`, `onely`, `vpon` — and the provenance
 and `SOURCES.md` say these are the MS's spellings, not the printed Sealed
 Books'. Regularizing would mean inventing forms, or borrowing them from
 another edition (R1, R2). `texts/normalized` smooths spelling as usual (R9).
@@ -189,8 +189,14 @@ citation rule, which until now lived only in `ingest/WAVE14_GUIDE.md` (R10).*
   Psalter-day column, so its rows carry no `Psalter Day:` field (as 1789's
   rows do not). A lesson cell the book leaves blank (a holy day, whose lessons
   are in the proper table) is `—`.
+- The occasion column's ordinals in the Proper Lessons (`ii`, `xiv`) are
+  LABELS, not chapter numbers, and stay roman as printed; so do the Kalendar
+  notes. The month heading (`January hath xxxj. dayes`) is carried by the
+  `## January` anchor, as in every other Kalendar here.
 - What the note column prints goes in `Kalendar Note:`, including `Fast`; a
-  month's footnote is a `Note:` line under that month.
+  month's footnote is a row of its own at the foot of that month,
+  `Footnote | <the note as printed>`, so that R17 keeps it whole (as prose the
+  splitter would break it at `Exodus 6. is`).
 
 *Reopened by:* a decision to carry the apparatus corpus-wide, which would need
 1549–1559 sources that print it (justus's `bcp/` tree is 403 as of
@@ -228,6 +234,77 @@ transcribed at 1662 as `tables/proper-psalms.md`.
 
 *Reopened by:* a 1549–1604 scan showing whether those books' tables fit the
 model too.
+
+## R16 — Setting the Annexed Book's type: typeface, superscripts, signs, letters, spacing
+*Wave 20, 2026-09-25 (my call, following corpus practice; the maintainer may
+overturn it).*
+
+The Annexed Book's Kalendar sets the greater holy days in bold black-letter
+and the lesser commemorations in italic. No table in the corpus encodes
+typeface (1559's `§` is a glyph from its justus source, not a convention of
+this repo), and the distinction is recoverable from what the tables do say:
+a greater holy day has a blank lesson cell and an entry in the Proper Lessons
+table. So typeface is not marked. Superscript letters (`Ld` with raised d,
+`ye` with raised e) are set inline on the line (`Ld`, `ye`), not expanded
+(`Lord`, `the`), since expansion is an editorial reading the book does not
+print. A scribal abbreviation sign is set as its Unicode character, not
+expanded: `Gregoriꝰ` (U+A770, the -us sign), not `Gregorius`.
+The line is drawn by what the sign DOES: a sign that stands in place of
+letters the word otherwise lacks is set (`Gregoriꝰ`; the tilde of
+`Añunciation`, which stands for the second n); a mark that only FLAGS an
+abbreviation over letters that are all printed is not carried, as typeface is
+not — so `Ecclus`, which the type marks with a stroke through the l in the
+Kalendar and a tilde or cross above it in the Proper Lessons, is set plain.
+Letters are set by the glyph the type shows: where the witness's italic or
+black-letter capital is the J-form it is set `J` even where it stands for I
+(`Jnnocents day.`, `Jsai. 2`), and the I-form is set `I` (`Iudeth`, `Iohn`);
+nothing is regularized to either. Readings that look like slips but are
+plainly what the type prints (`S Thomos Apost.`) are kept and marked *sic*
+in the provenance record, so a later pass does not "correct" them.
+
+In the prose rubrics a line-end hyphen is rejoined (`ap-|pointed`), and the
+1892 compositor's space before `;` and `:` is closed up — except the
+pointing colon of the Gloria, which stays ` : ` as the corpus prints the
+Psalter's. Prose is split by the build as usual, so a numeral's stop makes a
+false line break (`in the time of K.` / `H.` / `viii.`) exactly as it already
+does in the published 1549 rubric (`And where the cxix.` / `Psalme is…`);
+allow-listing `vi`/`viii` would change other editions' published lines, so
+it was not done.
+A mark that is neither a letter nor an abbreviation sign (the accent over
+the n of `Lessońs` in the Scripture rubric) is not carried.
+
+The pilcrow the Proper Psalms table sets before each occasion, and its
+`Psalm.` column head, are not carried (the rows use 1789's `Morning:` /
+`Evening:` fields); stacked psalm numbers are joined with `, ` as 1789's are.
+
+*Reopened by:* a decision to mark the red-letter/black-letter distinction
+corpus-wide.
+
+## R17 — A table row is one unit; the sentence splitter leaves it whole
+*Wave 20, 2026-09-25 (my call; a tooling decision the maintainer may revisit).*
+
+`tools/sentence_split.py` breaks a line at `. ` unless the word before is an
+allow-listed abbreviation or the next character is a digit. The 1662
+Kalendar's cells print their own stops — `Hilarie B. &, Conf.`,
+`Luke 1. to 39`, `1. Sam. 2`, `Bl. V. M.` — and splitting there would cut a
+row in two. Two remedies were weighed: grow the abbreviation list (which can
+silently change how OTHER editions' prose splits, since the build splits
+authored text in place), or treat a row as the unit, as the Psalter treats the
+verse. The second was taken: a line containing ` | ` is never split.
+
+Measured before the change: across every `tables/` and `psalter/selections`
+file in the corpus exactly ONE row depended on the build splitting it —
+1789's Proper Psalms, authored with the title fused onto the Christmas row.
+That source line was pre-split, so its published text is unchanged; the
+full-build diff is the proof that nothing else moved (confirmed in Wave 20:
+`texts/` identical to the live tags in every tag but `v1662`). Prose lines (no ` | `)
+split exactly as before.
+
+A consequence for the lesson cells: the Wave-14 "trailing-period trap" no
+longer bites, but the cell-final stop is still dropped (R13) so that cells
+diff against the other editions' on their readings.
+
+*Reopened by:* any table format whose row legitimately spans sentences.
 
 ---
 

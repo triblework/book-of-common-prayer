@@ -36,6 +36,9 @@ import w17_cells
 import w18_witness as W
 
 TAG = 'v1662^{commit}'
+WAVE20_CELLS = {'tables/calendar.md', 'tables/proper-lessons.md',
+                'tables/proper-psalms.md', 'front-matter/order-how-psalter-appointed.md',
+                'front-matter/order-how-rest-of-scripture.md'}
 PSALTER = ('psalms-1-50', 'psalms-51-100', 'psalms-101-150')
 STRUCTURED = ('daily-office/morning-prayer.md', 'daily-office/evening-prayer.md',
               'the-litany/litany.md', 'ordinal/ordering-deacons.md',
@@ -184,6 +187,11 @@ def main():
     n_flags = 0
     for root, _dirs, files in os.walk(os.path.join(WT, 'editions/1662')):
         for fn in files:
+            rel = os.path.relpath(os.path.join(root, fn), os.path.join(WT, 'editions/1662'))
+            # Wave 20 transcribed the 1662 Kalendar and its companions from the
+            # same witness; their flags are that wave's (w20_gates), not these.
+            if rel in WAVE20_CELLS:
+                continue
             if fn.endswith('.md'):
                 n_flags += open(os.path.join(root, fn),
                                 encoding='utf-8').read().count('<!-- VERIFY')
