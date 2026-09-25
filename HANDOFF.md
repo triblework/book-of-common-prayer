@@ -1475,6 +1475,31 @@ planning around them.
    refused on both 80 and 443, from two different points in the session. Retry
    at the start of any session; the pipeline is warm and this closes the last
    unread American psalter (3 mediant flags).
+
+   **Re-checked 2026-09-25: the host is back, but the `bcp/` tree is refused.**
+   `http://justus.anglican.org/` and `/resources/` answer 200, and
+   `/resources/` (unchanged since 2008) still links `bcp/index.html`. Every path
+   under `/resources/bcp/` answers **403 Forbidden** — including paths that do
+   not exist (403, not 404) and the bare `bcp` without a slash (403, not
+   Apache's usual 301). Of the six collections `/resources/` links, exactly two
+   are refused, `bcp/` and `healing/`; `timeline/`, `bio/`, `misc/`,
+   `Lambeth1998/` serve normally. The user agent makes no difference (the
+   project's own and curl's default give identical results). So this is an
+   access rule or file permission on those two directories, set on the server
+   — plausibly left over from the outage of 2026-09-18 — not a block on this
+   client's software. What could not be told from here: whether it is refused
+   for everyone or only for this network (the Wayback Machine, which would
+   settle it, was itself offline). Tests, in order: open
+   `http://justus.anglican.org/resources/bcp/` from a different network (a
+   phone on cellular data); if it is 403 there too, write to the site's listed
+   contact, websexton@justus.anglican.org. **Do not route around the 403**
+   (proxies, mirrors of unknown provenance). HTTPS is no help: port 443 serves
+   a certificate for a different host name, as it always has (use `http://`).
+   **No substitute witness exists on an allow-listed host:** Commons' category
+   for the 1928 American book holds one photograph, its two Episcopal-book PDFs
+   are 1896 printings (the 1892 book — noted for the 1892 pointing collation),
+   and LoC's 1930 record has no digital copy. The 1928 cells already published
+   are unaffected; what is blocked is reading anything further against justus.
 4. **Offline and self-contained, any time:** the full 1892 pointing collation
    (Wave 17's stated limit; the 596-page scan is cached); the 1789 Ascension
    "24, 47, 103" lead; the 1637 missing-page span; the 1892 Kalendar's lost row
