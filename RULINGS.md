@@ -149,6 +149,86 @@ furniture. It took a gate (`ingest/w18_gates.py`, corpus-wide) to catch it.
 **When a wave states a rule, ask what would fail if it were broken**, and write
 that check.
 
+## R12 — Where a witness is the ONLY source, transcribe it in its own spelling
+*(maintainer), Wave 20, 2026-09-25. Refines R7.*
+
+R7 forbids using a witness that disclaims its orthography to OVERRULE another
+text's spelling. It does not forbid transcribing that witness where it is the
+only source there is. The 1662 Kalendar, Proper Lessons, Proper Psalms and
+the two reading rubrics exist on no allow-listed host except the Annexed Book,
+so they are transcribed **as the manuscript prints them** — `Epiphanie of our
+Ld`, `Hilarie B. & Conf.`, `Matth.`, `onely`, `vpon` — and the provenance
+and `SOURCES.md` say these are the MS's spellings, not the printed Sealed
+Books'. Regularizing would mean inventing forms, or borrowing them from
+another edition (R1, R2). `texts/normalized` smooths spelling as usual (R9).
+
+Consequence, accepted: those files are in MS orthography while the rest of the
+1662 node is the Church of England's modernized text, so a 1559 -> 1662 diff
+on them shows two printings' spelling as well as real change.
+
+*Reopened by:* a scan of a printed 1662 book (as for R8). *Not decided by
+this:* the communion admission rubric (open question below), where a
+modernized carrier cell exists and the question is substitution.
+
+## R13 — Lectionary tables: chapter numerals in arabic; the calendrical apparatus is out
+*(maintainer), Wave 20, 2026-09-25, confirming Wave 14's Ruling B and its
+citation rule, which until now lived only in `ingest/WAVE14_GUIDE.md` (R10).*
+
+- **Numerals.** Roman chapter numerals are converted to arabic, and the
+  printed extent is kept verbatim (`ix to vr. xx` -> `9 to vr. 20`, never
+  `9:1-20`). Every Kalendar and Proper Lessons file in the corpus is arabic,
+  so a converted cell diffs on its reading, not its notation. Printed marks
+  inside a cell (`vi *`) are kept.
+- **Apparatus.** The Golden Number, the Roman date (Kalends/Nones/Ides), the
+  lunar line (`The Moon hath xxx.`) and the Easter/moveable-feast grids are
+  EXCLUDED as computational apparatus — excluded at 1549–1559 from books
+  that also print them, so adding them at one edition alone would show them
+  falsely "appearing" there. Each exclusion is stated in that file's
+  provenance record.
+- **Columns the book lacks are omitted, not blanked.** 1662 prints no
+  Psalter-day column, so its rows carry no `Psalter Day:` field (as 1789's
+  rows do not). A lesson cell the book leaves blank (a holy day, whose lessons
+  are in the proper table) is `—`.
+- What the note column prints goes in `Kalendar Note:`, including `Fast`; a
+  month's footnote is a `Note:` line under that month.
+
+*Reopened by:* a decision to carry the apparatus corpus-wide, which would need
+1549–1559 sources that print it (justus's `bcp/` tree is 403 as of
+2026-09-25).
+
+## R14 — A second rendering of one file is not a second witness
+*Wave 20, 2026-09-25.*
+
+The Annexed Book PDF's June Kalendar page (PDF p. 49) stores its text in a
+JBIG2 mask that macOS cannot decode ("Too many symbols in JBIG2 symbol
+dictionary"), so every local render of it is blank. Wikimedia's own
+server-side rendering of the SAME file
+(`…/thumb/4/49/The_Book_of_Common_Prayer.pdf/page49-1920px-…jpg`, fetched
+with the scraper's guardrails by `ingest/w20_fetch.py`) decodes it legibly,
+and June is read from that. It is the same witness through a different
+decoder — usable where the local decoder fails, but never counted as
+corroboration (R6), and its use is stated in provenance.
+
+## R15 — 1662's Proper Lessons fit the row model; Proper Psalms come with them
+*(maintainer), Wave 20, 2026-09-25.*
+
+`SOURCES.md` recorded "1549–1662 Proper Lessons" as some thirty
+per-occasion tables no row model fits. Checked against the scan (PDF pp.
+36–38), that is **not true of 1662**: it prints ONE table in two sections
+(Sundays; Holy-days), each row an occasion with Mattens and Evensong
+readings and, for some occasions, `1. Lesson` / `2. Lesson` sub-rows — the
+1789 model exactly. So 1662 gets `tables/proper-lessons.md` in that shape
+(Sunday rows carry only the lessons the book prints), and the gap row
+narrows to 1549–1604. That narrowed claim rests on those books' own sources
+and was **not** re-checked in Wave 20.
+
+The same page prints *Proper Psalms on certein Daies* (six occasions), which
+`v1662` lacked with no gap recorded anywhere — a silent absence. It is
+transcribed at 1662 as `tables/proper-psalms.md`.
+
+*Reopened by:* a 1549–1604 scan showing whether those books' tables fit the
+model too.
+
 ---
 
 The work queue that these rulings govern is kept in `HANDOFF.md` §8, under
