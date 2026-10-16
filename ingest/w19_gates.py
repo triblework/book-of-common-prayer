@@ -29,7 +29,13 @@ import w19_cells
 import w19_psalter
 import w19_witness as W
 
-TAG = 'v1979^{commit}'
+# The base is the `authoring` commit the wave started from, NOT the live
+# tag: publishing rewrites every tag, so a gate pinned to v1979 would, after
+# its own wave was published, try to re-apply corrections the tag already
+# carries (found 2026-10-16: w17_gates had failed since the Wave 17 publish).
+# Authoring cells equal texts/original apart from VERIFY lines and the
+# build's sentence split, which these comparisons already tolerate.
+TAG = '7e4f14b34ad27c030eb47a0db966ad307e89c3d5'   # 19c6759^ = authoring before Wave 19
 PSALTER = ('psalms-1-50', 'psalms-51-100', 'psalms-101-150')
 # The PDF's text layer drops the pointing asterisk in ten verses, prints a
 # dash for it in one, and carries a stray "I" or quotation mark in four more.
@@ -55,6 +61,7 @@ def strip(t):
 
 
 def published(path):
+    path = path.replace('texts/original/', 'editions/1979/', 1)
     return subprocess.run(['git', 'show', '%s:%s' % (TAG, path)],
                           cwd=WT, capture_output=True, text=True).stdout
 

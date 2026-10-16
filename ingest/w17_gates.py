@@ -36,8 +36,14 @@ SCAN = '\n'.join('\n'.join(v) for v in OCR.values())
 WORD = re.compile(r"[A-Za-z]+")
 findings = []
 
-# the cells as published before this wave (the tag the wave starts from)
-BASE = 'v1892'
+# the cells as they stood before this wave
+# The base is the `authoring` commit the wave started from, NOT the live
+# tag: publishing rewrites every tag, so a gate pinned to v1892 would, after
+# its own wave was published, try to re-apply corrections the tag already
+# carries (found 2026-10-16: w17_gates had failed since the Wave 17 publish).
+# Authoring cells equal texts/original apart from VERIFY lines and the
+# build's sentence split, which these comparisons already tolerate.
+BASE = 'c8fc6e260b7990db0ca5a19011f3b2adcff1c3e6'   # 2772363^ = authoring before Wave 17
 
 
 def check(label, ok, detail=''):
@@ -101,7 +107,7 @@ def main():
     # changed, and nothing this wave changed is unaccounted for.
     strip = lambda t: re.sub(r'\n<!-- VERIFY.*?-->', '', t, flags=re.S)
     for f in ('psalms-1-50', 'psalms-51-100', 'psalms-101-150'):
-        old = subprocess.run(['git', 'show', '%s:texts/original/psalter/%s.md' % (BASE, f)],
+        old = subprocess.run(['git', 'show', '%s:editions/1892/psalter/%s.md' % (BASE, f)],
                              cwd=WT, capture_output=True, text=True).stdout
         new_txt = open(os.path.join(WT, 'editions/1892/psalter/%s.md' % f),
                        encoding='utf-8').read()

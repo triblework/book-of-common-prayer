@@ -35,7 +35,13 @@ import w13_1662
 import w17_cells
 import w18_witness as W
 
-TAG = 'v1662^{commit}'
+# The base is the `authoring` commit the wave started from, NOT the live
+# tag: publishing rewrites every tag, so a gate pinned to v1662 would, after
+# its own wave was published, try to re-apply corrections the tag already
+# carries (found 2026-10-16: w17_gates had failed since the Wave 17 publish).
+# Authoring cells equal texts/original apart from VERIFY lines and the
+# build's sentence split, which these comparisons already tolerate.
+TAG = '6d290b4f5e31f5d3d2d5e85699877f9a36c827b9'   # 4767154^ = authoring before Wave 18
 WAVE20_CELLS = {'tables/calendar.md', 'tables/proper-lessons.md',
                 'tables/proper-psalms.md', 'front-matter/order-how-psalter-appointed.md',
                 'front-matter/order-how-rest-of-scripture.md'}
@@ -68,6 +74,7 @@ def strip(t):
 
 
 def published(path):
+    path = path.replace('texts/original/', 'editions/1662/', 1)
     return subprocess.run(['git', 'show', '%s:%s' % (TAG, path)],
                           cwd=WT, capture_output=True, text=True).stdout
 

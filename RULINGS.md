@@ -306,6 +306,30 @@ diff against the other editions' on their readings.
 
 *Reopened by:* any table format whose row legitimately spans sentences.
 
+## R18 — A containment gate pins the `authoring` commit its wave started from, never a live tag
+*2026-10-16 (my call, at the start of the Wave 21 session; a tooling decision
+the maintainer may revisit).*
+
+Waves 17–19 wrote their containment gates ("the published cells plus exactly
+this wave's corrections equal the new cells") against the live tag the wave
+started from (`v1892`, `v1662^{commit}`, `v1979^{commit}`). Publishing
+rewrites every tag (R4), so once a wave's own corrections were published the
+gate began re-applying them to cells that already carried them:
+`w17_gates` had failed since the Wave 17 publish of 2026-09-18, and the
+Wave 18 and 20 guides list it as not run. A gate that cannot be run after its
+wave ships enforces nothing (R10).
+
+Ruled: the base of such a gate is the **`authoring` commit the wave started
+from**, by full SHA, with the cells read from `editions/<year>/` there.
+Authoring history is never rewritten; and an authoring cell equals its
+published `texts/original` file apart from the inline flags and the build's
+sentence split, which the gates already strip or compare on words. The three
+gates were re-pinned (`c8fc6e2`, `6d290b4`, `7e4f14b`) and all pass again.
+Every later wave's gate does the same from the start.
+
+*Reopened by:* a change to the build that makes `texts/original` differ from
+the authored cell in more than flags and line breaks.
+
 ---
 
 The work queue that these rulings govern is kept in `HANDOFF.md` §8, under

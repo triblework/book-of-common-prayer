@@ -1694,6 +1694,9 @@ it drifting.**
 
 ## 9. Gotchas / lessons
 
+- **A gate pinned to a live tag dies when its wave is published (R18).**
+  `w17_gates` had failed since 2026-09-18 for that reason and nobody ran it.
+  Containment gates pin the `authoring` commit the wave started from, by SHA.
 - **Look at every page you think you have (Wave 20).** The Annexed Book PDF's
   p. 49 (June) renders BLANK on this Mac -- its JBIG2 text mask trips Apple's
   decoder -- and Wave 18's whole-book OCR logged 0 lines there unremarked.
