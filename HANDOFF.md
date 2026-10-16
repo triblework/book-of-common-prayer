@@ -1620,7 +1620,14 @@ Named items, highest value first:
   `w18_read.py`, `w18_psalter.py`), parameterized by PDF and page range.
 - **1789's Ascension-day proper psalms, "24, 47, 103"** (Wave 16 lead, NOT a
   correction). Context from Wave 20, NOT evidence for 1789 (R2): the 1662
-  Annexed Book prints Ascension evening as xxiv, xlvii, cviii (108). At 1892 the same row reads 24, 47, 108 on two witnesses. The
+  Annexed Book prints Ascension evening as xxiv, xlvii, cviii (108).
+  **Second lead of the same shape (found 2026-10-16 in the viewer's 1662/1789
+  Compare):** 1789 Good Friday evening reads "64, 88" where 1662 and 1892 both
+  read 69, 88. So 1789 differs from 1662 AND 1892 in exactly two Proper Psalms
+  cells, 64/69 and 103/108 -- the 4-for-9 and 3-for-8 confusions OCR makes on
+  old type, and justus's 1789 page is OCR'd. But 1928 lists 64 as an "Also"
+  for Good Friday, so a genuine 1789 reading is not ruled out. Not a
+  correction (R2): both cells need a 1789 page scan. At 1892 the same row reads 24, 47, 108 on two witnesses. The
   1789 cell's "103" comes from one OCR'd page and may be the same class of
   misreading, but nothing attests that; check a 1789 scan before touching it.
 - **The Psalter's recorded gaps** (Wave 13): 1549-1604 (no source; the Psalter
