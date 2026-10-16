@@ -4,7 +4,7 @@
 
 > As soon as convenient after the birth of a child, or after receiving a child by adoption, the parents, with other members of the family, should come to the church to be welcomed by the congregation and to give thanks to Almighty God.  It is desirable that this take place at a Sunday service.  In the Eucharist it may follow the Prayers of the People preceding the Offertory.  At Morning or Evening Prayer it may take place before the close of the Office.
 
-> When desired, a briefer form of this service may be used, especially in the hospital or at home; in which case the Celebrant may begin with the Act of Thanksgiving, or with the prayer "O God, you have taught is."  A passage from Scripture may first be read.  Either Luke 2:41-51, or Luke 18:15-17, is appropriate.
+> When desired, a briefer form of this service may be used, especially in the hospital or at home; in which case the Celebrant may begin with the Act of Thanksgiving, or with the prayer "O God, you have taught us." A passage from Scripture may first be read.  Either Luke 2:41-51, or Luke 18:15-17, is appropriate.
 
 > During the prayers, some parents may wish to express thanks in their own words.
 
@@ -14,7 +14,7 @@
 
 > The Celebrant addresses the congregation in these or similar words
 
-Dear Friends:  The birth of a child is a joyous and solemn occasion in the life of a family.  It is also an occasion for rejoicing in the Christian community.  I bid you, therefore, to join N. [and N.] in giving thanks to Almighty God our heavenly Father, the Lord of all life, for the gift of N. to be their son (daughter) [and with N. (and N. N..), for a new brother (sister)].  Let us say together:
+Dear Friends:  The birth of a child is a joyous and solemn occasion in the life of a family.  It is also an occasion for rejoicing in the Christian community.  I bid you, therefore, to join N. [and N.] in giving thanks to Almighty God our heavenly Father, the Lord of all life, for the gift of N. to be their son (daughter) [and with N. (and NN.), for a new brother (sister)].  Let us say together:
 
 > The service continues with the Magnificat or one of the Psalms on pages 441-443.
 
@@ -22,7 +22,7 @@ Dear Friends:  The birth of a child is a joyous and solemn occasion in the life 
 
 > The Celebrant addresses the congregation in these or similar words
 
-Dear Friends:  It has pleased God our heavenly Father to answer the earnest prayers of N. [and N.], member(s) of this Christian family, for the gift of a child.  I bid you join with them [and with N. (and N. N..), who now has a new brother (sister)] in offering heartfelt thanks for the joyful and solemn responsibility which is theirs by the coming of N. to be a member of their family.  But first, our friends wish us, here assembled, to witness the inauguration of this new relationship.
+Dear Friends:  It has pleased God our heavenly Father to answer the earnest prayers of N. [and N.], member(s) of this Christian family, for the gift of a child.  I bid you join with them [and with N. (and NN.), who now has a new brother (sister)] in offering heartfelt thanks for the joyful and solemn responsibility which is theirs by the coming of N. to be a member of their family.  But first, our friends wish us, here assembled, to witness the inauguration of this new relationship.
 
 > The Celebrant asks the parent or parents
 
@@ -58,7 +58,7 @@ Since it has pleased God to bestow upon N. [and N.] the gift of a child, let us 
 
 My soul proclaims the greatness of the Lord,
 
-my spirit rejoices in God by Savior; for he has looked with favor on his lowly servant.
+my spirit rejoices in God my Savior; for he has looked with favor on his lowly servant.
 
 From this day all generations will call me blessed: the Almighty has done great things for me, and holy is his Name.
 
@@ -114,7 +114,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the 
 
 Let us pray.
 
-O God, you have taught us through your blessed Son that whoever receives a little child in the name of Christ receives Christ himself: We give thanks for the blessing you have bestowed upon this family in giving them a child.  Confirm their joy by a lively sense of your presence with them, and give them calm strength and patient wisdom as they seek to bring this child to love all that is true and noble, just and pure, lovable and gracious, excellent and admirable, following the example of our Lord and Savior, Jesus Christ. Amen.
+O God, you have taught us through your blessed Son that whoever receives a little child in the name of Christ receives Christ himself: We give you thanks for the blessing you have bestowed upon this family in giving them a child.  Confirm their joy by a lively sense of your presence with them, and give them calm strength and patient wisdom as they seek to bring this child to love all that is true and noble, just and pure, lovable and gracious, excellent and admirable, following the example of our Lord and Savior, Jesus Christ. Amen.
 
 ## Prayers
 
@@ -122,7 +122,7 @@ O God, you have taught us through your blessed Son that whoever receives a littl
 
 For a safe delivery
 
-O gracious God, we give you humble and hearty thanks that you have preserved through the pain and anxiety of child- birth your servant N., who desires now to offer you her praises and thanksgivings.  Grant, mostChrist our Lord. Amen.
+O gracious God, we give you humble and hearty thanks that you have preserved through the pain and anxiety of child- birth your servant N., who desires now to offer you her praises and thanksgivings.  Grant, most merciful Father, that by your help she may live faithfully according to your will in this life, and finally partake of everlasting glory in the life to come; through Jesus Christ our Lord. Amen.
 
 For the parents
 

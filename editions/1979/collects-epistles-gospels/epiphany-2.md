@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty God, whose Son our Savior Jesus Christ is the light of the world: Grant that thy people, illumined by thy Word and Sacraments, may shine with the radiance of Christ's glory, that he may be known, worshiped, and obeyed to the ends of the earth; through Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, now and for ever. Amen.
+Almighty God, whose Son our Savior Jesus Christ is the light of the world: Grant that thy people, illumined by thy Word and Sacraments, may shine with the radiance of Christ's glory, that he may be known, worshiped, and obeyed to the ends of the earth; through the same Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

@@ -48,7 +48,11 @@ Will you be loyal to the doctrine, discipline, and worship of Christ as this Chu
 
 I am willing and ready to do so; and I solemnly declare that I do believe the Holy Scriptures of the Old and New Testaments to be the Word of God, and to contain all things necessary to salvation; and I do solemnly engage to conform to the doctrine, discipline, and worship of The Episcopal Church.
 
-*The Ordinand then signs the above Declaration in the sown.
+> The Ordinand then signs the above Declaration in the sight of all present.
+
+> All stand. The Bishop says to the people
+
+Dear friends in Christ, you know the importance of this ministry, and the weight of your responsibility in presenting N.N. for ordination to the sacred priesthood. Therefore if any of you know any impediment or crime because of which we should not proceed, come forward now, and make it known.
 
 > If no objection is made, the Bishop continues
 
@@ -78,7 +82,7 @@ The Lord be with you
 
 Let us pray.
 
-O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were being cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
+O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
 
 ## The Ministry of the Word
 
@@ -112,7 +116,7 @@ The Word of the Lord.
 
 > A Psalm, canticle, or hymn follows each Reading.
 
-> Then, all standing, the Deacon, or if no deacon is present, a Priest reads the Gospel, first saying
+> Then, all standing, the Deacon or, if no deacon is present, a Priest reads the Gospel, first saying
 
 The Holy Gospel of our Lord Jesus Christ according to —.
 
@@ -134,7 +138,7 @@ We believe in one God, the Father, the Almighty, maker of heaven and earth, of a
 
 We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
 
-We believe in the Holy Spirit, the Lord, the giver of life, the dead, and the life of the world to come.  Amen.
+We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
 
 ## The Examination
 
@@ -142,7 +146,7 @@ We believe in the Holy Spirit, the Lord, the giver of life, the dead, and the li
 
 > The Bishop addresses the ordinand as follows
 
-My brother, the Church is the family of God, the body of Christ, and the temple of the Holy Spirit.  All baptized people are called to make Christ known as Savior and Lord, and to share in the renewing of his world.  Now you are called to work as pastor, priest, and teacher, together with your bishop and fellow presbyters, and to take your share in the councils of the Church.
+My brother, the Church is the family of God, the body of Christ, and the temple of the Holy Spirit.  All baptized people are called to make Christ known as Savior and Lord, and to share in the renewing of his world.  Now you are called to work as a pastor, priest, and teacher, together with your bishop and fellow presbyters, and to take your share in the councils of the Church.
 
 As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts.  You are to love and serve the people among whom you work, caring alike for young and old, strong and weak, rich and poor. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
 
@@ -172,7 +176,7 @@ My brother, do you believe that you are truly called by God and his Church to th
 
 **Answer.**  I will.
 
-**Bishop.**  Will you do you best to pattern your life [and that of your family, *or* household, *or* community] in accordance with the teachings of Christ, so that you may be a wholesome example to your people?
+**Bishop.**  Will you do your best to pattern your life [and that of your family, *or* household, *or* community] in accordance with the teachings of Christ, so that you may be a wholesome example to your people?
 
 **Answer.**  I will.
 
@@ -196,13 +200,13 @@ My brother, do you believe that you are truly called by God and his Church to th
 
 God and Father of all, we praise you for your infinite love in calling us to be a holy people in the kingdom of your Son Jesus our Lord, who is the image of your eternal and invisible glory, the firstborn among many brethren, and the head of the Church.  We thank you that by his death he has overcome death, and, having ascended into heaven, has poured his gifts abundantly upon your people, making some apostles, some prophets, some evangelists, some pastors and teachers, to equip the saints for the work of ministry and the building up of his body.
 
-> Here the Bishop says hands upon the head of the ordinand, the Priests who are present also laying on their hands.  At the same time the Bishop prays
+> Here the Bishop lays hands upon the head of the ordinand, the Priests who are present also laying on their hands.  At the same time the Bishop prays
 
 Therefore, Father, through Jesus Christ your Son, give your Holy Spirit to N.; fill him with grace and power, and make him a priest in your Church.
 
 > The Bishop then continues
 
-May he exalt you, O Lord, in the midst of your people; offer spiritual sacrifices acceptable to you; boldly proclaim the gospel of salvation; and rightly administer the sacraments of the New Covenant. Make him a faithful pastorn all things he may serve without reproach, so that your people may be strengthened and your Name glorified in all the world. All this we ask through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever.
+May he exalt you, O Lord, in the midst of your people; offer spiritual sacrifices acceptable to you; boldly proclaim the gospel of salvation; and rightly administer the sacraments of the New Covenant. Make him a faithful pastor, a patient teacher, and a wise councilor. Grant that in all things he may serve without reproach, so that your people may be strengthened and your Name glorified in all the world. All this we ask through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever.
 
 *The People in a loud voice respond*    Amen.
 
@@ -242,7 +246,7 @@ Almighty Father, we thank you for feeding us with the holy food of the Body and 
 
 The blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always.  Amen.
 
-> A Deacon, or a Priest if no deacon is present, dismisses the people
+> A Deacon, or a Priest if no deacon is present, dismisses the people.
 
 Let us go forth into the world, rejoicing in the power of the Spirit.
 
@@ -256,7 +260,7 @@ Let us go forth into the world, rejoicing in the power of the Spirit.
 
 > From the beginning of the service until the Offertory, the bishop presides from a chair placed close to the people, and facing them, so that all may see and hear what is done.
 
-> The ordinand is to be vested in surplice or alb, without stole, tippet, or other vesture distinctive of ecclesiastical or academic or order.
+> The ordinand is to be vested in surplice or alb, without stole, tippet, or other vesture distinctive of ecclesiastical or academic rank or order.
 
 > When the ordinand is presented, his full name (designated by the symbol N.N.) is used.  Thereafter, it is appropriate to refer to him only by the Christian name by which he wishes to be known.
 

@@ -16,7 +16,9 @@ An Eve has evening fields only. The e-text's `*or*` is `or`, its `[*]`
 the book's `*`, its `--` the repo's `-`; a footnote is its own row
 (`Footnote | ...`), as R13 set for the 1662 Kalendar.
 """
+import collections
 import glob
+import json
 import os
 import re
 import sys
@@ -149,33 +151,235 @@ def book_citations_not_in_etext(rws):
     return out
 
 
-def main():
+MONTHS = ('January', 'February', 'March', 'April', 'May', 'June', 'July',
+          'August', 'September', 'October', 'November', 'December')
+CELL = 'tables/daily-office-lectionary-holy-days.md'
+
+
+def book_entries():
+    """The book's Holy Days and Special Occasions (pp. 996-1001), from the
+    layout-mode text (the two office columns keep their places): ->
+    [{'sect', 'name', 'date', 'mp': [fields], 'ep': [fields], 'page'}]."""
+    L = B.layout_pages()
+    out, notes, sect = [], [], 'Holy Days'
+    for k in range(996, 1002):
+        lines = B.strip_furniture(L[k]).split('\n')
+        hdr = next((l for l in lines if 'Morning Prayer' in l and
+                    'Evening Prayer' in l), None)
+        mx = hdr.find('Morning Prayer') if hdr else 27
+        ex = hdr.find('Evening Prayer') if hdr else 60
+        cur = None
+        for l in lines + ['']:
+            st = l.strip()
+            if st in ('Holy Days', 'Special Occasions'):
+                sect = st
+                cur = None
+                continue
+            if 'Morning Prayer' in l and 'Evening Prayer' in l:
+                continue
+            if re.match(r'^\*+ ', st):
+                notes.append(st)
+                continue
+            if not st:
+                cur = None
+                continue
+            chunks = [(m.start(), m.group(0)) for m in
+                      re.finditer(r'\S+(?: \S+)*', l)]
+            if cur is None:
+                cur = {'sect': sect, 'name': [], 'mp': [], 'ep': [], 'page': k}
+                out.append(cur)
+            for x, txt in chunks:
+                col = 'name' if x < mx - 3 else 'mp' if x < ex - 3 else 'ep'
+                if col != 'name' and txt.startswith('or ') and cur[col]:
+                    cur[col][-1] += ' ' + txt
+                else:
+                    cur[col].append(txt)
+    for e in out:
+        nm = ' '.join(e['name'])
+        m = re.search(r'\b(%s) \d+$' % '|'.join(MONTHS), nm)
+        e['date'] = m.group(0) if m else None
+        e['name'] = (nm[:m.start()].strip() if m else nm).replace('\u2019', "'")
+    return out, notes
+
+
+def ekey(n):
+    n = n.lower().replace('saint ', 'st. ').replace('ss. ', 'st. ')
+    n = n.replace('&', 'and').replace('tranfiguration', 'transfiguration')
+    return re.sub(r'[^a-z]+', ' ', n).strip()
+
+
+def e_fields(e):
+    """An e-text entry's (mp, ep) field lists."""
+    out = []
+    for l in e['lines'][:2]:
+        parts = [fix(p) for p in l.split(';')]
+        out.append([p for p in parts if p])
+    while len(out) < 2:
+        out.append([])
+    if e['lines'] and not any(fix(p) for p in e['lines'][0].split(';')):
+        out = [[], out[1] if len(e['lines']) > 1 else []]
+    return out
+
+
+def bfix(v):
+    v = v.replace('\u2013\u2013', '-').replace('\u2013', '-').replace('\u2014', '-')
+    v = re.sub(r'-{2,}', '-', v)
+    v = re.sub(r'(?<=\d) (?=\d)', '', v)
+    return re.sub(r'\s+', ' ', v).strip()
+
+
+def row_text(name, date, mp, ep):
+    occ = '%s (%s)' % (name, date) if date else name
+    f = [occ]
+    for lab, vals in (('Morning', mp), ('Evening', ep)):
+        if not vals:
+            continue
+        f.append('%s Psalms: %s' % (lab, vals[0]))
+        for i, v in enumerate(vals[1:3], 1):
+            f.append('%s %d: %s' % (lab, i, v))
+    return ' | '.join(f)
+
+
+def build():
+    """-> (cell text, evidence list, flags list, report counts)"""
+    import wxa_items as I
     entries, notes = etext_entries()
-    rws = rows(entries)
-    out = ['## Holy Days', '']
-    sect = 'Holy Days'
-    for s, occ, row, extra in rws:
-        if s != sect:
-            out += ['## ' + s, '']
-            sect = s
-        out += [row, '']
-    for s, n in notes:
-        out += ['Footnote | ' + fix(n.lstrip('[*]* ').strip()) if False else
-                'Footnote | ' + fix(n), '']
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    open(OUT, 'w', encoding='utf-8').write('\n'.join(out).rstrip() + '\n')
+    book, bnotes = book_entries()
+    by = {}
+    for e in entries:
+        nm = e['name'].split(';')[0].strip()
+        by.setdefault(ekey(nm), e)
+    lines = ['# Holy Days and Special Occasions', '',
+             '<!-- 1979 (public domain). The Daily Office Lectionary\'s tables '
+             'for Holy Days and Special Occasions (book pp. 996-1001). Carrier: '
+             'justus bcplectn.txt; witness: Church Publishing\'s PDF. -->', '']
+    ev, flags, counts = [], [], collections.Counter()
+    sect = None
+    for b in book:
+        if b['sect'] != sect:
+            sect = b['sect']
+            lines += ['## ' + sect, '']
+        bmp = [bfix(x) for x in b['mp']]
+        bep = [bfix(x) for x in b['ep']]
+        e = by.get(ekey(b['name']))
+        src = 'witness'
+        mp, ep = bmp, bep
+        name = b['name']
+        row_flags = []
+        if e is not None:
+            emp, eep = e_fields(e)
+            pairs = list(zip(emp, bmp)) + list(zip(eep, bep))
+            agree = sum(1 for c, w in pairs if T.level(c, w))
+            if pairs and agree >= len(pairs) / 2 and len(emp) == len(bmp) \
+                    and len(eep) == len(bep):
+                src = 'carrier'
+                mp, ep = [], []
+                for ev_l, bk_l, out in ((emp, bmp, mp), (eep, bep, ep)):
+                    for fi, (c, w) in enumerate(zip(ev_l, bk_l)):
+                        lv = T.level(c, w)
+                        if not lv and re.sub(r'[,\s]', '', T.norm(c)) == \
+                                re.sub(r'[,\s]', '', T.norm(w)):
+                            lv = 'punct'          # a comma, as the book sets it
+                        if lv:
+                            out.append(c if lv in ('exact', 'notation', 'marks',
+                                                   'glyph') else w)
+                            if lv == 'punct':
+                                counts['punct-from-witness'] += 1
+                        else:
+                            j = T.judge(c, w, 'mp' if fi == 0 else 'r')
+                            if j == 'cell-evident':
+                                out.append(w)
+                                counts['carrier-evident-fixed'] += 1
+                            elif j == 'witness-evident':
+                                out.append(c)
+                                counts['witness-evident-kept'] += 1
+                            else:
+                                out.append(c)
+                                row_flags.append((c, w))
+                                counts['disputed-flagged'] += 1
+                ename = e['name'].split(';')[0].strip()
+                if ekey(ename) == ekey(name):
+                    name = I.keep_cell_case(ename, name)
+            else:
+                counts['carrier-damaged-row-from-witness'] += 1
+        else:
+            counts['witness-supplied-row'] += 1
+        if src == 'witness':
+            counts['rows-from-witness'] += 1
+        else:
+            counts['rows-from-carrier'] += 1
+        row = row_text(name, b['date'], mp, ep)
+        lines.append(row)
+        for c, w in row_flags:
+            note = ("the witness (Church Publishing's PDF, p. %d) prints '%s'; "
+                    "no second check settles it; carried as the e-text prints "
+                    "it (R11 addendum)" % (b['page'], w))
+            lines.append("<!-- VERIFY: '%s'; %s -->" % (c, note))
+            flags.append((row.split(' | ')[0], c, note))
+        lines.append('')
+        ev.append({'row': row.split(' | ')[0], 'source': src, 'page': b['page'],
+                   'etext_entry': e['name'] if e else None})
+    for n in bnotes:
+        lines += ['Footnote | ' + n, '']
+        ev.append({'row': 'Footnote', 'source': 'witness+carrier',
+                   'page': 1001, 'etext_entry': n})
+    return '\n'.join(lines).rstrip() + '\n', ev, flags, counts, entries, book
+
+
+def main():
+    text, ev, flags, counts, entries, book = build()
+    out = OUT
+    if '--write' in sys.argv:
+        out = os.path.join(os.path.dirname(HERE), 'editions/1979', CELL)
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    open(out, 'w', encoding='utf-8').write(text)
+    json.dump({'cell': CELL, 'rows': ev, 'flags': flags, 'counts': counts},
+              open(os.path.join(HERE, 'wxa_dol_extra_evidence.json'), 'w'),
+              indent=1, ensure_ascii=False)
+    print('book entries %d; e-text entries %d' % (len(book), len(entries)))
+    print('counts: %s' % dict(counts))
+    print('flags: %d' % len(flags))
+    # the field check: every written field against the book's entry for the
+    # same occasion, by column (the layout parse keeps the columns)
+    import wxa_tables as T2
+    bkby = {ekey(b['name']): b for b in book}
+    tot = ok = 0
+    differ = []
+    for l in text.split('\n'):
+        if ' | ' not in l or l.startswith('Footnote'):
+            continue
+        f = l.split(' | ')
+        occ = re.sub(r'\s*\(.*\)$', '', f[0])
+        b = bkby.get(ekey(occ))
+        vals = {x.split(':', 1)[0]: x.split(':', 1)[1].strip() for x in f[1:]}
+        bm = [bfix(x) for x in b['mp']] if b else []
+        be = [bfix(x) for x in b['ep']] if b else []
+        want = {}
+        for lab, vv in (('Morning', bm), ('Evening', be)):
+            if vv:
+                want[lab + ' Psalms'] = vv[0]
+                for i, v in enumerate(vv[1:3], 1):
+                    want['%s %d' % (lab, i)] = v
+        for k2, v in vals.items():
+            tot += 1
+            if k2 in want and (T2.level(v, want[k2]) or re.sub(r'[,\s]', '', T2.norm(v))
+                               == re.sub(r'[,\s]', '', T2.norm(want[k2]))):
+                ok += 1
+            else:
+                differ.append((occ, k2, v, want.get(k2)))
+    print('field check of the written table against the book, column by column: '
+          '%d/%d fields agree' % (ok, tot))
+    for d in differ:
+        print('  DIFFERS  %s / %s: %r (book %r)' % d)
+    # the A3 check, on what is written: every citation near its occasion
+    rws = [(None, l.split(' | ')[0], l, False) for l in text.split('\n')
+           if ' | ' in l and not l.startswith('Footnote')]
     tot, found, missing = verify(rws)
-    print('e-text entries: %d (%d Holy Days, %d Special Occasions); '
-          'footnotes %d' % (len(rws), sum(1 for r in rws if r[0] == 'Holy Days'),
-                            sum(1 for r in rws if r[0] != 'Holy Days'), len(notes)))
-    print('verified against pp. 996-1001: %d/%d citations found in their '
-          'occasion\'s window (%.1f%%)' % (found, tot, 100.0 * found / max(1, tot)))
+    print('A3 check of the written table against pp. 996-1001: %d/%d (%.1f%%)'
+          % (found, tot, 100.0 * found / max(1, tot)))
     for m in missing:
         print('  NOT FOUND  %-40s %s' % m)
-    lost = book_citations_not_in_etext(rws)
-    print('book citations no e-text row carries (%d) -- the entries the keying '
-          'lost: %s' % (len(lost), lost))
-    print('wrote %s' % OUT)
+    print('wrote %s' % out)
 
 
 if __name__ == '__main__':

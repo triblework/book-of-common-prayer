@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty Father, whose dear Son, on the night before he suffered, instituted the Sacrament of his Body and Blood: Mercifully grant that we may receive it thankfully in remembrance of Jesus Christ our Lord, who in these holy mysteries gives us a pledge of eternal life; and who now liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+Almighty Father, whose dear Son, on the night before he suffered, did institute the Sacrament of his Body and Blood: Mercifully grant that we may thankfully receive the same in remembrance of him who in these holy mysteries giveth us a pledge of life eternal, the same thy Son Jesus Christ our Lord; who now liveth and reigneth with thee and the Holy Spirit ever, one God, world without end. Amen.
 
 ## The Collect (Contemporary)
 

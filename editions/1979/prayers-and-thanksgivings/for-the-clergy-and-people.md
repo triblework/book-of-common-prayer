@@ -6,7 +6,7 @@ good and perfect gift:  Send down upon our bishops, and
 
 other clergy, and upon the congregations committed to their
 
-charge, the healthful Spirit of thy grace:  and, that they may
+charge, the healthful Spirit of thy grace; and, that they may
 
 truly please thee, pour upon them the continual dew of thy
 

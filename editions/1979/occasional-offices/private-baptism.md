@@ -12,7 +12,7 @@ If you are not already baptized, &N., I baptize you in the Name of the Father, a
 
 > In case of emergency, any baptized person may administer Baptism according to the following form.
 
-> Using the given name of the one baptized (if known), pour water on him or her, saying
+> Using the given name of the one to be baptized (if known), pour water on him or her, saying
 
 I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.
 
@@ -20,9 +20,9 @@ The Lord's Prayer is then said.*
 
 *Other prayers, such as the following, may be added
 
-Heavenly Father, we thank you that by water and the Holy Spirit you have bestowed on upon this your servant the forgiveness of sin and have raised him to the new life of grace.  Strengthen him, O Lord, with your presence, enfold him in the arms of your mercy, and keep him safe forever.
+Heavenly Father, we thank you that by water and the Holy Spirit you have bestowed upon this your servant the forgiveness of sin and have raised him to the new life of grace.  Strengthen him, O Lord, with your presence, enfold him in the arms of your mercy, and keep him safe for.
 
-> The person who administers emergency Baptism should inform the priest of the appropriate parish, so that the fact can be properly recorded.
+> The person who administers emergency Baptism should inform the priest of the appropriate parish, so that the fact can be properly registered.
 
 > If the baptized person recovers, the Baptism should be recognized at a public celebration of the Sacrament with a bishop or priest presiding, and the person baptized under emergency conditions, together with the sponsors or godparents, taking part in everything except the administration of the water.
 

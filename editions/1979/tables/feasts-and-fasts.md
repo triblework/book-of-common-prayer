@@ -8,7 +8,7 @@ The sequence of all Sundays of the Church Year depends upon the date of Easter D
 
 ## 1. Principal Feasts
 
-The Principle Feasts observed in this Church are the following:
+The Principal Feasts observed in this Church are the following:
 
 Easter Day
 
@@ -18,7 +18,7 @@ The Day of Pentecost
 
 Trinity Sunday
 
-All Saint's Day : November 1
+All Saints' Day : November 1
 
 Christmas Day : December 25
 
@@ -92,7 +92,7 @@ Ash Wednesday
 
 Good Friday
 
-Feasts appointed of fixed days in the Calendar are not observed on the days of Holy Week or of Easter Week. Major Feasts falling in these weeks are transferred to the week following the Second Sunday of Easter, in the order of their occurrence.
+Feasts appointed on fixed days in the Calendar are not observed on the days of Holy Week or of Easter Week. Major Feasts falling in these weeks are transferred to the week following the Second Sunday of Easter, in the order of their occurrence.
 
 Feasts appointed on fixed days in the Calendar do not take precedence of Ash Wednesday.
 
@@ -120,4 +120,4 @@ The Rogation Days, traditionally observed on Monday, Tuesday, and Wednesday befo
 
 Various Occasions
 
-Provided, that there is no celebration of the Eucharist for any such occasion on Ash Wednesday, Maundy Thursday, Good Friday, and Holy Saturday; and provided further, that none of the Propers appointed for Various Occasions is used as a substitute for, or as an addition to, the Proper appointed for the Principal Feasts.
+Provided, that there is no celebration of the Eucharist for any such occasion on Ash Wednesday, Maundy Thursday, Good Friday, and Holy Saturday; and provided further, that none of the Propers appointed for Various Occasions is used as a substitute for, or as an addition to the Proper appointed for the Principal Feasts.

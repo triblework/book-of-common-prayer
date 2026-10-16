@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O God, by the passion of thy blessed Son didst make an instrument of shameful death to be unto us the means of life: Grant us so to glory in the cross of Christ, that we may gladly suffer shame and loss for the sake of thy Son our Savior Jesus Christ; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+O God, who by the passion of thy blessed Son didst make an instrument of shameful death to be unto us the means of life: Grant us so to glory in the cross of Christ, that we may gladly suffer shame and loss for the sake of thy Son our Savior Jesus Christ; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

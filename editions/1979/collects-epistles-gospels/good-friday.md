@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty God, we beseech thee graciously to behold this thy family, for whom our Lord Jesus Christ was contented to be betrayed, and given into the hands of sinners, and to suffer death upon the cross; who now liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+Almighty God, we beseech thee graciously to behold this thy family, for which our Lord Jesus Christ was contented to be betrayed, and given up into the hands of sinners, and to suffer death upon the cross; who now liveth and reigneth with thee and the Holy Ghost ever, one God, world without end. Amen.
 
 ## The Collect (Contemporary)
 

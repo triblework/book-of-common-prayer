@@ -24,7 +24,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 > The Bishop then says
 
-Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid.  Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord.  Amen.
+Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord.  Amen.
 
 ## The Presentation
 
@@ -32,7 +32,7 @@ Almighty God, to you all hearts are open, all desires known, and from you no sec
 
 N., Bishop in the Church of God, the clergy and people of the Diocese of N., trusting in the guidance of the Holy Spirit, have chosen N.N. to be a bishop and chief pastor.  We therefore ask you to lay your hands upon him and in the power of the Holy Spirit to consecrate him a bishop in the one, holy, catholic, and apostolic Church.
 
-> The Presiding Bishop then directs that the testimonials of the election be read.
+> The Presiding Bishop then directs that testimonials of the election be read.
 
 > When the reading of the testimonials is ended, the Presiding Bishop requires the following promise from the Bishop-elect
 
@@ -46,7 +46,7 @@ In the Name of the Father, and of the Son, and of the Holy Spirit, I, N.N., chos
 
 Brothers and sisters in Christ Jesus, you have heard testimony given that N.N. has been duly and lawfully elected to be a bishop of the Church of God to serve in the Diocese of N. You have been assured of his suitability and that the Church has approved him for this sacred responsibility.  Nevertheless, if any of you know any reason why we should not proceed, let it now be made known.
 
-> If no objections are made, the Presiding Bishop continues
+> If no objection is made, the Presiding Bishop continues
 
 Is it your will that we ordain N. a bishop?
 
@@ -74,7 +74,7 @@ The Lord be with you
 
 Let us pray.
 
-O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were being cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
+O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
 
 ## The Ministry of the Word
 
@@ -100,13 +100,21 @@ The Word of the Lord.
 
 **People.**  Thanks be to God.
 
-> or the Reader may say*  Here ends the Reading n or a Priest reads the Gospel, first saying
+> or the Reader may say
+
+Here ends the Reading (Epistle).
+
+> Silence may follow.
+
+> A Psalm, canticle, or hymn follows each Reading.
+
+> Then, all standing, a Deacon or a Priest reads the Gospel, first saying
 
 The Holy Gospel of our Lord Jesus Christ according to —.
 
 **People.**  Glory to you, Lord Christ.
 
-John 20:19-23,  *or* John 17:1-9,18-12,  *or* Luke 24:44-49a
+John 20:19-23,  *or* John 17:1-9,18-21,  *or* Luke 24:44-49a
 
 > After the Gospel, the Reader says
 
@@ -122,7 +130,7 @@ The Gospel of the Lord.
 
 > All now sit, except the bishop-elect, who stands facing the bishops. The Presiding Bishop addresses the bishop-elect
 
-My brother, the people have chosen you and have affirmed their trust in you by acclaiming your election.  A bishop in God's holy Church is called to be one with the apostles in proclaiming Christ's resurrection and interpreting the Gospel, and to testify to Christ's sovereignty as Lord of lords and King of kings.
+My brother, the people have chosen you and have affirmed their trust in you by acclaiming your election.  A bishop in God's holy Church is called to be one with the apostles in proclaiming Christ's resurrection and interpreting the Gospel, and to testify to Christ's sovereignty as Lord of lords and Kings of kings.
 
 You are called to guard the faith, unity, and discipline of the Church; to celebrate and to provide for the administration of the sacraments of the New Covenant; to ordain priests and deacons and to join in ordaining bishops; and to be in all things a faithful pastor and wholesome example for the entire flock of Christ.
 
@@ -150,7 +158,7 @@ Are you persuaded that God has called you to the office of bishop?
 
 **Answer.**  I will, in the name of Christ, the Shepherd and Bishop of our souls.
 
-**Bishop.**  Will you guard the faith, unity, and discipline of the Church of God?
+**Bishop.**  Will you guard the faith, unity, and discipline of the Church?
 
 **Answer.**  I will, for the love of God.
 
@@ -174,7 +182,7 @@ We believe in one God.
 
 We believe in one God, the Father, the Almighty, maker of heaven and earth, of all that is, seen and unseen.
 
-We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand ofds from the Father and the Son. With the Father and the Son he is worshipped and glorified. He has spoken through the Prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
+We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end. We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son. With the Father and the Son he is worshiped and glorified. He has spoken through the Prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
 
 ## The Consecration of the Bishop
 
@@ -222,7 +230,7 @@ The peace of the Lord be always with you.
 
 > The People greet one another.
 
-> The new Bishop also greets members of the clergy, family members, and the congregation.
+> The new Bishop also greets other members of the clergy, family members, and the congregation.
 
 > The new Bishop, if the Bishop of the Diocese, may now be escorted to the episcopal chair.
 
@@ -238,7 +246,17 @@ The peace of the Lord be always with you.
 
 > In place of the usual postcommunion prayer, one of the bishops leads the people in the following
 
-Almighty Father, we thank you for feeding us with the holy food of the Body and Blood of your Son, and for uniting us through him in the fellowship of your Holy Spirit.  We thank you for raising up among us faithful servants for the ministry of your Word and Sacraments.  We pray that N. may be to us an effective example in word and action, in love and patience, and in holiness of life.  Grant that we, with him, may serve you now, and always rejoice in your glory; through Jesus Christ your Son our Lord, m this time forth for evermore.
+Almighty Father, we thank you for feeding us with the holy food of the Body and Blood of your Son, and for uniting us through him in the fellowship of your Holy Spirit.  We thank you for raising up among us faithful servants for the ministry of your Word and Sacraments.  We pray that N. may be to us an effective example in word and action, in love and patience, and in holiness of life.  Grant that we, with him, may serve you now, and always rejoice in your glory; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.
+
+> The new Bishop blesses the people, first saying
+
+Our help is in the Name of the Lord;
+
+**People.**  The maker of heaven and earth.
+
+**New Bishop.**  Blessed be the Name of the Lord;
+
+**People.**  From this time forth for evermore.
 
 *New Bishop*  The blessing, mercy, and grace of God Almighty, the Father, the Son, and the Holy Spirit, be upon you, and remain with you for ever.  Amen.
 
@@ -256,7 +274,7 @@ Let us go forth into the world, rejoicing in the power of the Spirit.
 
 > From the beginning of the service until the Offertory, the bishop presides from a chair placed close to the people, and facing them, so that all may see and hear what is done.
 
-> The ordinand is to be vested in surplice or alb, without stole, tippet, or other vesture distinctive of ecclesiastical or academic or order.
+> The ordinand is to be vested in surplice or alb, without stole, tippet, or other vesture distinctive of ecclesiastical or academic rank or order.
 
 > When the ordinand is presented, his full name (designated by the symbol N.N.) is used.  Thereafter, it is appropriate to refer to him only by the Christian name by which he wishes to be known.
 

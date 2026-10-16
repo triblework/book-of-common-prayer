@@ -14,9 +14,9 @@ Grace be unto you, and peace, from God our Father, and from the Lord Jesus Chris
 
 O worship the Lord in the beauty of holiness; let the whole earth stand in awe of him.  Psalm 96:9
 
-Thine is the day, O God, thine also the night; thou hast established the moon and the sun.  Thou hast fixed all the boundries of the earth; thou hast made summer and winter. Psalm 74:15,16
+Thine is the day, O God, thine also the night; thou hast established the moon and the sun.  Thou hast fixed all the boundaries of the earth; thou hast made summer and winter. Psalm 74:15,16
 
-I will bless the Lord, who giveth me counsel; my heart teacheth me, night after night.  I have set the Lord always before me; because he is at my right hand, I shall not fall. Psalm 16:7,8
+I will bless the Lord who giveth me counsel; my heart teacheth me, night after night.  I have set the Lord always before me; because he is at my right hand, I shall not fall. Psalm 16:7,8
 
 Seek him that made the Pleiades and Orion, that turneth deep darkness into the morning, and darkeneth the day into night; that calleth for the waters of the sea, and poureth them out upon the face of the earth:  The Lord is his Name.  Amos 5:8
 
@@ -72,7 +72,7 @@ O gracious Light, pure brightness of the everliving Father in heaven, O Jesus Ch
 
 Now as we come to the setting of the sun, and our eyes behold the vesper light, we sing thy praises, O God:  Father, Son, and Holy Spirit.
 
-Thou art worthy at all times to be praised by happy voices, O Son of God, O Giver of life, and to be glorified though all the worlds.
+Thou art worthy at all times to be praised by happy voices, O Son of God, O Giver of life, and to be glorified through all the worlds.
 
 > then follows
 
@@ -106,23 +106,23 @@ The Word of the Lord.
 
 > Luke 1:46-55
 
-My soul doth magnify the Lord : and my spirit hath rejoiced in God my Savior.
+My soul doth magnify the Lord, : and my spirit hath rejoiced in God my Savior.
 
 For he hath regarded : the lowliness of his handmaiden.
 
 For behold from henceforth : all generations shall call me blessed.
 
-For he that is mighty hath magnified me : and holy is his Name.
+For he that is mighty hath magnified me, : and holy is his Name.
 
 And his mercy is on them that fear him : throughout all generations.
 
-He hath showed strength with his arm : he hath scattered the proud in the imagination of their hearts.
+He hath showed strength with his arm; : he hath scattered the proud in the imagination of their hearts.
 
-He hath put down the mighty from their seat : and hath exalted the humble and meek.
+He hath put down the mighty from their seat, : and hath exalted the humble and meek.
 
-He hath filled the hungry with good things : and the rich he hath sent empty away.
+He hath filled the hungry with good things, : and the rich he hath sent empty away.
 
-He remembering his mercy hath holpen his servant Israel : as he promised to our forefathers, Abraham and his seed for ever.
+He remembering his mercy hath holpen his servant Israel, : as he promised to our forefathers, Abraham and his seed for ever.
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
@@ -132,11 +132,11 @@ Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the 
 
 > Luke 2:29-32
 
-Lord, now lettest thou thy servant depart in peace : according to thy word;
+Lord, now lettest thou thy servant depart in peace, : according to thy word;
 
-For mine eyes have seen thy salvation : which thou hast prepared before the face of all people,
+For mine eyes have seen thy salvation, : which thou hast prepared before the face of all people,
 
-To be a light to lighten the Gentiles : and to be the glory of thy people Israel.
+To be a light to lighten the Gentiles, : and to be the glory of thy people Israel.
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
@@ -150,7 +150,7 @@ And in Jesus Christ his only Son our Lord; who was conceived by the Holy Ghost, 
 
 I believe in the Holy Ghost, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.  Amen.
 
-> The text of the Creed on page 96 may be used instead.
+> The text of the Creed on page 120 may be used instead.
 
 ## The Prayers
 
@@ -158,15 +158,15 @@ I believe in the Holy Ghost, the holy catholic Church, the communion of saints, 
 
 **Officiant* : The Lord be with you.
 
-**People* : And also with you.
+**People* : And with thy spirit.
 
 **Officiant* : Let us pray.
 
 > Officiant and People
 
-Our Father, who art in heaven, hallowed be they Name, thy kingdom come, thy will be done, on earth as it is in heaven.
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven.
 
-Give us this day our daily bread. And forgive us our tresspasses, as we forgive those who trespass against us.
+Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us.
 
 And lead us not into temptation, but deliver us from evil.
 
@@ -202,7 +202,7 @@ For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen
 
 &V.  Create in us clean hearts, O God;
 
-&R.  And sustain us with your Holy Spirit.
+&R.  And sustain us with thy Holy Spirit.
 
 ## Suffrages B
 
@@ -254,11 +254,11 @@ Lighten our darkness, we beseech thee, O Lord; and by thy great mercy defend us 
 
 > Officiant and People
 
-Almighty God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us and to all men. We bless thee for our creation, preservation, and all the blessings of this life; but above all for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfaignedly thankful; and that we show forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Spirit, be all honor and glory, world without end.  Amen.
+Almighty God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us and to all men. We bless thee for our creation, preservation, and all the blessings of this life; but above all for thine inestimable love in the redemption of the world by our Lord Jesus Christ, for the means of grace, and for the hope of glory. And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful; and that we show forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honor and glory, world without end.  Amen.
 
 > A Prayer of St. Chrysostom
 
-Almighty God, who hast given us grace at this time with one accord to make our common supplication unto thee; and hast promised through thy well-beloved Son that when two or three are gathered together in his Name thou wilt be in the midst of them:  Fulfill now, O Lord, our desires and petitions of thy servants as may be best for us; granting us in this world knowledge of thy truth, and in the world to come life everlasting.  Amen.
+Almighty God, who hast given us grace at this time with one accord to make our common supplication unto thee, and hast promised through thy well-beloved Son that when two or three are gathered together in his Name thou wilt be in the midst of them:  Fulfill now, O Lord, the desires and petitions of thy servants as may be best for us; granting us in this world knowledge of thy truth, and in the world to come life everlasting.  Amen.
 
 > Then may be said
 
@@ -280,7 +280,7 @@ Glory to God whose power, working in us, can do infinitely more than we can ask 
 
 > It is appropriate that other persons be assigned to read the Lessons, and to lead other parts of the service not assigned to the officiant. The bishop, when present, appropriately concludes the Office with a blessing.
 
-> At celebrations of the Holy Eucharist, the Order for Morning or Evening Prayer may be used in place of all that precedes the Offeratory.
+> At celebrations of the Holy Eucharist, the Order for Morning or Evening Prayer may be used in place of all that precedes the Offertory.
 
 > Additional Directions are on page 141.
 
@@ -298,7 +298,7 @@ Let my prayer be set forth in your sight as incense, the lifting up of my hands 
 
 Grace to you and peace from God our Father and from the Lord Jesus Christ.  Philippians 1:2
 
-Worship the Lord in the beauty of his holiness; let the whole earth tremble before him.  Psalm 96:9
+Worship the Lord in the beauty of holiness; let the whole earth tremble before him.  Psalm 96:9
 
 Yours is the day, O God, yours also the night; you established the moon and the sun.  You fixed all the boundaries of the earth; you made both summer and winter.  Psalm 74:15,16
 
@@ -306,7 +306,7 @@ I will bless the Lord who gives me counsel; my heart teaches me, night after nig
 
 Seek him who made the Pleiades and Orion, and turns deep darkness into the morning, and darkens the day into night; who calls for the waters of the sea and pours them out upon the surface of the earth:  The Lord is his name.  Amos 5:8
 
-If I say, "Surely the darkness will cover me, and the light around me turn to night,"  darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike.  Pslam 139:10,11
+If I say, "Surely the darkness will cover me, and the light around me turn to night,"  darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike. Psalm 139:10-11
 
 Jesus said, "I am the light of the world; whoever follows me will not walk in darkness, but will have the light of life." John 8:12
 
@@ -316,7 +316,7 @@ Jesus said, "I am the light of the world; whoever follows me will not walk in da
 
 > The Officiant says to the people
 
-Dearly beloved, we have come together in the presence of Almighty God our heavenly Father, to set forth his praise, to hear his holy Word, and to ask, for ourselves and on behalf of others, those things that are necessary for our life and our salvation.  And so that we may prepare ourselves in heart and mind to worship him, let us kneel in silence, and with penitent and obedient hearts confess our sins, that we may obtain forgiveness by his infinite goodness and mercy.
+Dear friends in Christ, here in the presence of Almighty God, let us kneel in silence, and with penitent and obedient hearts confess our sins, so that we may obtain forgiveness by his infinite goodness and mercy.
 
 > or this
 
@@ -356,7 +356,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: as it was in the be
 
 O gracious light, pure brightness of the everliving Father in heaven, O Jesus Christ, holy and blessed!
 
-Now as we come to the setting of the sun, and our eyes behold the vesper light, we sing your praised, O God:  Father, Son, and Holy Spirit.
+Now as we come to the setting of the sun, and our eyes behold the vesper light, we sing your praises, O God:  Father, Son, and Holy Spirit.
 
 You are worthy at all times to be praised by happy voices, O Son of God, O Giver of Life, and to be glorified through all the worlds.
 
@@ -392,21 +392,21 @@ The Word of the Lord.
 
 > Luke 1:46-55
 
-My soul proclaims the greatness of the Lord, my spirit rejoices in God my Savior : for he has looked with favor on his lowly servant.
+My soul proclaims the greatness of the Lord, my spirit rejoices in God my Savior; : for he has looked with favor on his lowly servant.
 
 From this day all generations will call me blessed: : the Almighty has done great things for me, and holy is his Name.
 
 He has mercy on those who fear him : in every generation.
 
-He has shown the strength of his arm : he has scattered the proud in their conceit.
+He has shown the strength of his arm, : he has scattered the proud in their conceit.
 
-He has cast down the mighty from their thrones : and has lifted up the lowly.
+He has cast down the mighty from their thrones, : and has lifted up the lowly.
 
-He has filled the hungry with good things : and the rich he has sent away empty.
+He has filled the hungry with good things, : and the rich he has sent away empty.
 
-He has come to the help of his servant Israel : for he has remembered his promise of mercy,
+He has come to the help of his servant Israel, : for he has remembered his promise of mercy,
 
-The promise he made to our fathers : to Abraham and his children for ever.
+The promise he made to our fathers, : to Abraham and his children for ever.
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
@@ -418,9 +418,9 @@ Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the 
 
 Lord, you now have set your servant free : to go in peace as you have promised;
 
-For these eyes of mine have seen the Savior : whom you have prepared for all the world to see:
+For these eyes of mine have seen the Savior, : whom you have prepared for all the world to see:
 
-A Light to enlighten the nations : and the glory of your people Israel.
+A Light to enlighten the nations, : and the glory of your people Israel.
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
@@ -446,7 +446,7 @@ I believe in the Holy Spirit, the holy catholic Church, the communion of saints,
 
 > Officiant and People
 
-Our Father, who art in heaven, hallowed be they Name, thy kingdom come, thy will be done, on earth as it is in heaven.
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven.
 
 Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us.
 
@@ -454,7 +454,7 @@ And lead us not into temptation, but deliver us from evil.
 
 For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen.
 
-Our Father in heaven, hallowed be you Name, your kingdom come, your will be done, on earth as in heaven.
+Our Father in heaven, hallowed be your Name, your kingdom come, your will be done, on earth as in heaven.
 
 Give us today our daily bread. Forgive us our sins as we forgive those who sin against us.
 
@@ -492,7 +492,7 @@ For the kingdom, the power, and the glory are yours, now and for ever.  Amen.
 
 &V.  Create in us clean hearts, O God;
 
-&R.  And sustain us by your Holy Spirit.
+&R.  And sustain us with your Holy Spirit.
 
 ### Suffrages B
 
@@ -506,7 +506,7 @@ That there may be peace to your Church and to the whole world, We entreat you, O
 
 That we may depart this life in your faith and fear, and not be condemned before the great judgment seat of Christ, We entreat you, O Lord.
 
-That we may be bound together by your Holy Spirit in the communion of [&3m. and ] all your saints, entrusting one another and all our life to Christ, We entreat you, O Lord.
+That we may be bound together by your Holy Spirit in the communion of [&and ] all your saints, entrusting one another and all our life to Christ, We entreat you, O Lord.
 
 > The Officiant then says one or more of the following Collects
 
@@ -514,25 +514,25 @@ That we may be bound together by your Holy Spirit in the communion of [&3m. and 
 
 > A Collect for Sundays
 
-O God, you make us glad with the weekly remembrance of the glorious resurrection of you Son our Lord:  Give us this day such blessing through our worship of you, that the week to come may be spent in your favor; through Jesus Christ our Lord.  Amen.
+Lord God, whose Son our Savior Jesus Christ triumphed over the powers of death and prepared for us our place in the new Jerusalem: Grant that we, who have this day given thanks for his resurrection, may praise you in that City of which he is the light, and where he lives and reigns for ever and ever. Amen.
 
 > A Collect for Fridays
 
-Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified:  Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ your Son our Lord.  Amen.
+Lord Jesus Christ, by your death you took away the sting of death: Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies' sake. Amen.
 
 > A Collect for Saturdays
 
-Almighty God, who after the creation of the world rested from all you works and sanctified a day of rest for all your creatures:  Grant that we, putting away all earthly anxieties, may be duly prepared for the service of your sanctuary, and that our rest here upon earth may be a preparation for the eternal rest promised to your people in heaven; through Jesus Christ our Lord.  Amen.
+O God, the source of eternal light: Shed forth your unending day upon us who watch for you, that our lips may praise you, our lives may bless you, and our worship on the morrow give you glory; through Jesus Christ our Lord. Amen.
 
 > A Collect for Peace
 
-O God, the author of peace and lover of concord, to know you is eternal life and to serve you is perfect freedom:  Defend us, your humble servants, in all assaults of our enemies; that we, surely trusting in your defense, may not fear the power of any adversaries; through the might of Jesus Christ our Lord, Amen.
+Most holy God, the source of all good desires, all right judgments, and all just works: Give to us, your servants, that peace which the world cannot give, so that our minds may be fixed on the doing of your will, and that we, being delivered from the fear of all enemies, may live in peace and quietness; through the mercies of Christ Jesus our Savior. Amen.
 
 > A Collect for Aid against Perils
 
 Be our light in the darkness, O Lord, and in your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ.  Amen.
 
-> A Collect for Projection
+> A Collect for Protection
 
 O God, the life of all who live, the light of the faithful, the strength of those who labor, and the repose of the dead:  We thank you for the blessings of the day that is past, and humbly ask for your protection through the coming night. Bring us in safety to the morning hours; through him who died and rose again for us, your Son our Savior Jesus Christ. Amen.
 
@@ -540,9 +540,9 @@ O God, the life of all who live, the light of the faithful, the strength of thos
 
 Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  Amen.
 
-> Then, unless the Eucharist or a form of general intercession is to follow, one of these prayer for mission is added
+> Then, unless the Eucharist or a form of general intercession is to follow, one of these prayers for mission is added
 
-O God and Father of all, whom the whole heavens adore: Let the whole earth also worship you, all nations obey you, all tongues confess and bless you, and mean and women everywhere love you and serve you in peace; through Jesus Christ our Lord.  Amen.
+O God and Father of all, whom the whole heavens adore: Let the whole earth also worship you, all nations obey you, all tongues confess and bless you, and men and women everywhere love you and serve you in peace; through Jesus Christ our Lord.  Amen.
 
 > or this
 

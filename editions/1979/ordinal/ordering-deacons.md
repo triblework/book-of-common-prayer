@@ -8,7 +8,17 @@
 
 Blessed be God: Father, Son, and Holy Spirit.
 
-**People.**  And blessed be his kingdom, now op*  Bless the Lord who forgives all our sins.
+**People.**  And blessed be his kingdom, now and for ever. Amen.
+
+> In place of the above, from Easter Day through the Day of Pentecost
+
+**Bishop.**  Alleluia. Christ is risen.
+
+**People.**  The Lord is risen indeed. Alleluia.
+
+> In Lent and on other penitential occasions
+
+**Bishop.**  Bless the Lord who forgives all our sins.
 
 **People.**  His mercy endures for ever.
 
@@ -30,7 +40,7 @@ Has he been selected in accordance with the canons of this Church? And do you be
 
 We certify to you that he has satisfied the requirements of the canons, and we believe him qualified for this order.
 
-> The Bishops say to the ordinand
+> The Bishop says to the ordinand
 
 Will you be loyal to the doctrine, discipline, and worship of Christ as this Church has received them?  And will you, in accordance with the canons of this Church, obey your bishop and other ministers who may have authority over you and your work?
 
@@ -42,7 +52,7 @@ I am willing and ready to do so; and I solemnly declare that I do believe the Ho
 
 > All stand.  The Bishop says to the people
 
-Dear friends in Christ, you know the importance of this ministry, and the weight of your responsibility in presenting N.N. for ordination to the sacred order of deacons.  Therefore if any of you know any impediment or crime because of which we should not proceed, come forward now, and make it known.
+Dear friends in Christ, you know the importance of this ministry, and the weight of your responsibility in presenting N.N. for ordination to the sacred order of deacons.  Therefore if any of you know any impediment or crime because of which we should not proceed, come forward now and make it known.
 
 > If no objection is made, the Bishop continues
 
@@ -72,7 +82,7 @@ The Lord be with you
 
 Let us pray.
 
-O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were being cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
+O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.  Amen.
 
 ## The Ministry of the Word
 
@@ -84,7 +94,19 @@ Old Testament  Jeremiah 1:4-9,  *or* Ecclesiasticus 39:1-8
 
 Psalm  84, *or* 119:33-40
 
-Epistle  2 Corinthians 4:1-6, *or* 1 Tiks be to God.
+Epistle  2 Corinthians 4:1-6, *or* 1 Timothy 3:8-13, *or* Acts 6:2-7
+
+> The Reader first says
+
+A Reading (Lesson) from ___________ .
+
+> A citation giving chapter and verse may be added.
+
+> After each Reading, the Reader may say
+
+The Word of the Lord.
+
+**People.**  Thanks be to God.
 
 *or the Reader may say*  Here ends the Reading (Epistle).
 
@@ -92,7 +114,7 @@ Epistle  2 Corinthians 4:1-6, *or* 1 Tiks be to God.
 
 > A Psalm, canticle, or hymn follows each Reading.
 
-> Then, all standing, the Deacon, or if no deacon is present, a Priest reads the Gospel, first saying
+> Then, all standing, the Deacon or, if no deacon is present, a Priest reads the Gospel, first saying
 
 The Holy Gospel of our Lord Jesus Christ according to —.
 
@@ -114,7 +136,7 @@ We believe in one God, the Father, the Almighty, maker of heaven and earth, of a
 
 We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
 
-We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son. With the Father and the Son he is worshipped and glorified. He has spoken through the Prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
+We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son. With the Father and the Son he is worshiped and glorified. He has spoken through the Prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
 
 ## The Examination
 
@@ -140,11 +162,11 @@ My brother, do you believe that you are truly called by God and his Church to th
 
 **Answer.**  I will.
 
-**Bishop.**  Will you look for Christ in all others, being ready to heal and serve those in need?
+**Bishop.**  Will you look for Christ in all others, being ready to help and serve those in need?
 
 **Answer.**  I will.
 
-**Bishop.**  Will you do you best to pattern your life [and that of your family, *or* household, *or* community] in accordance with the teachings of Christ, so that you may be a wholesome example to all people?
+**Bishop.**  Will you do your best to pattern your life [and that of your family, *or* household, *or* community] in accordance with the teachings of Christ, so that you may be a wholesome example to all people?
 
 **Answer.**  I will.
 
@@ -164,7 +186,7 @@ My brother, do you believe that you are truly called by God and his Church to th
 
 > A period of silent prayer follows, the people still standing.
 
-*The Bishop urch, and for calling this your servant to the order of deacons.
+*The many ministries in your Church, and for calling this your servant to the order of deacons.
 
 > Here the Bishop lays hands upon the head of the ordinand, and prays
 
@@ -178,7 +200,7 @@ Make him, O Lord, modest and humble, strong and constant, to observe the discipl
 
 > The new deacon is now vested according to the order of deacons.
 
-> The Bishop then gives a Bible to the newly ordained, saying
+> The Bishop gives a Bible to the newly ordained, saying
 
 Receive this Bible as the sign of your authority to proclaim God's Word and to assist in the ministration of his holy Sacraments.
 
@@ -190,7 +212,7 @@ The peace of the Lord be always with you.
 
 **People.**  And also with you.
 
-> The Bishop and the Clergy now greet the newly ordained.
+> The Bishop and the Clergy present now greet the newly ordained.
 
 > The new Deacon then exchanges greetings with family members and others, as may be convenient.
 
@@ -238,7 +260,9 @@ For N., our Presiding Bishop, and for all bishops, priests, and deacons, that th
 
 For N., chosen bishop (priest, deacon) in your Church, we pray to you, O Lord. Lord, hear our prayer.
 
-Tho the end, we pray to you, O Lord. Lord, hear our prayer.
+That he may faithfully fulfill the duties of this ministry, build up your Church, and glorify your Name, we pray to you, O Lord. Lord, hear our prayer.
+
+That by the indwelling of the Holy Spirit he may be sustained and encouraged to persevere to the end, we pray to you, O Lord. Lord, hear our prayer.
 
 For his family [the members of his household *or* community], that they may be adorned with all Christian virtues, we pray to you, O Lord. Lord, hear our prayer.
 
@@ -258,7 +282,7 @@ For the poor, the persecuted, the sick, and all who suffer; for refugees, prison
 
 For ourselves; for the forgiveness of our sins, and for the grace of the Holy Spirit to amend our lives, we pray to you, O Lord. Lord, hear our prayer.
 
-For all who have died in the communion of your Church, and those whose faith is known to you alone, that, with all the saints, they may rest in that place where there is no pain or grief, but life eternal, we pray to you, O Lord. Lord, hear our prayer.
+For all who have died in the communion of your Church, and those whose faith is known to you alone, that, with all the saints, they may have rest in that place where there is no pain or grief, but life eternal, we pray to you, O Lord. Lord, hear our prayer.
 
 Rejoicing in the fellowship of [the ever-blessed Virgin Mary, (blessed N.) and] all the saints, let us commend ourselves, and one another, and all our life to Christ our God. To you, O Lord our God.
 
@@ -282,11 +306,11 @@ The Bishop says the appointed Collect.
 
 > The celebration of the Holy Eucharist may be according to Rite One or Rite Two.  In either case, the rubrics of the service of ordination are followed.  The Summary of the Law, the Gloria in excelsis, the Prayers of the People after the Creed, the General Confession, and the usual postcommunion prayer are not used.
 
-> At the Presentation of the Ordinand, the Declaration "I do believe the Holy Scriptures..." is to be provided as a separate document to be signed, as directed by Article VIII of the Constitution of this Church and by the rubrics in each of the ordination rites.  (Where there are more ordinands than one, each is to be presented with a separate copy for signature.)
+> At the Presentation of the Ordinand, the Declaration "I do believe the Holy Scriptures..." is to be provided as a separate document to be signed, as directed by Article VIII of the Constitution of this Church and by the rubrics in each of the ordination rites. (When there are more ordinands than one, each is to be presented with a separate copy for signature.)
 
-> The hymn to the Holy Spirit before the Prayer of Consecration may be sung responsively between a bishop and the congregation, or in same other convenient manner.
+> The hymn to the Holy Spirit before the Prayer of Consecration may be sung responsively between a bishop and the congregation, or in some other convenient manner.
 
-> If vestments or other symbols of office are to be dedicated, such blessing is to take place at some convenient time prior to the service. The following form may be used.
+> If vestments or other symbols of office are to be dedicated, such blessing is to take place at some convenient time prior to the service. The following form may be used
 
 &V.  Our help is in the Name of the Lord;
 
@@ -298,7 +322,7 @@ The Bishop says the appointed Collect.
 
 Let us pray.
 
-Everliving God, whose power is limitless, we place before you, with our praise and thanks, these tokens of your servant's ministry and dignity.  Grant thatriest and good shepherd of us all, Jesus Christ our Lord.  Amen.
+Everliving God, whose power is limitless, we place before you, with our praise and thanks, these tokens of your servant's ministry and dignity.  Grant that N., who has been called to leadership in your Church, and bears these signs, may faithfully serve you and share in the fullness of your life-giving Spirit; through the high priest and good shepherd of us all, Jesus Christ our Lord.  Amen.
 
 > At the Ordination of a Bishop
 
@@ -322,7 +346,7 @@ Everliving God, whose power is limitless, we place before you, with our praise a
 
 > If two or more are ordained together, each is to have his own presenters.  The ordinands may be presented together, or in succession, as the bishop may direct.  Thereafter, references to the ordinand in the singular are changed to the plural where necessary. The ordinands are examined together.
 
-> During the Prayer of Consecration, the bishop and priests lay their hands upon the head of each ordinand.  During the laying on of hands, the bishop alone says over each ordinand "Father, through Jesus Christ your Son, give your Holy Spirit to N.; fill him with grace and power, and make him a priest in your Church."  When they have laid their hands upon all the ordinands, the bishop continues "May the exalt you, O Lord, in the midst..."
+> During the Prayer of Consecration, the bishop and priests lay their hands upon the head of each ordinand.  During the laying on of hands, the bishop alone says over each ordinand "Father, through Jesus Christ your Son, give your Holy Spirit to N.; fill him with grace and power, and make him a priest in your Church."  When they have laid their hands upon all the ordinands, the bishop continues "May they exalt you, O Lord, in the midst..."
 
 > A Bible is to be given to each new priest, and the words "Receive this Bible..." are to be said to each one.
 
@@ -330,14 +354,14 @@ Everliving God, whose power is limitless, we place before you, with our praise a
 
 > At the Ordination of a Deacon
 
-> The stole worn over the left shoulder, or other insignia of the office of deacon, is placed upon the deacon after the entire Prayer of Consecration is completed, and immediately before the Bible is given.
+> The stole worn over the left shoulder, or other insignia of the office of deacon, is placed upon the new deacon after the entire Prayer of Consecration is completed, and immediately before the Bible is given.
 
 > If two or more are ordained together, each is to have his own presenters.  The ordinands may be presented together, or in succession, as the bishop may direct.  Thereafter, references to the ordinand in the singular are changed to the plural where necessary.
 
 > The ordinands are examined together.
 
-> During the Prayer of Consecration, the bishop is to lay hands upon the head of each ordinand, and say over each "Father, through Jesus Christ your Son, give your Holy Spirit to N.; fill him with grace and power, and make him a deacon in your Church."  When they have laid their hands upon all the ordinands, the bishop continues "Make them, O Lord, modest and humble..."
+> During the Prayer of Consecration the bishop is to lay hands upon the head of each ordinand, and say over each one "Father, through Jesus Christ your Son, give your Holy Spirit to N.; fill him with grace and power, and make him a deacon in your Church." After laying hands upon all the ordinands, the bishop continues "Make them, O Lord, modest and humble..."
 
 > A Bible is to be given to each new deacon, and the words "Receive this Bible..." are also to be said to each one.
 
-> After participating in the Peace, the deacons go to the Altar for the Offertory.  If there are many deacons, some assist in the Offertory and others administer Holy Communion.  One, appointed by the bishop, is to say the dismiss are not required for the Communion of the absent, it is appropriate for the deacons to remove the vessels from the Altar, consume the remaining Elements, and cleanse the vessels in some convenient place.
+> After participating in the Peace, the deacons go to the Altar for the Offertory.  If there are many deacons, some assist in the Offertory and others administer Holy Communion.  One, appointed by the bishop, is to say the dismissal. When desired, deacons may be appointed to carry the Sacrament and minister Holy Communion to those communicants who, because of sickness or other grave cause, could not be present at the ordination. If the remaining Elements are not required for the Communion of the absent, it is appropriate for the deacons to remove the vessels from the Altar, consume the remaining Elements, and cleanse the vessels in some convenient place.

@@ -4,7 +4,7 @@
 
 ## Concerning the Catechism
 
-> This catechism is primarily intended for use by parish priests, deacons, and lay catechists, to give an outline for instruction. It is a commentary on the creeds, but is not meant to be a complete statement of belief and practices; rather, it is a point of departure for the teacher, and it is cast in the traditional question and answer form for ease of reference.
+> This catechism is primarily intended for use by parish priests, deacons, and lay catechists, to give an outline for instruction. It is a commentary on the creeds, but is not meant to be a complete statement of belief and practice; rather, it is a point of departure for the teacher, and it is cast in the traditional question and answer form for ease of reference.
 
 > The second use of this catechism is to provide a brief summary of the Church's teaching for an inquiring stranger who picks up a Prayer Book.
 
@@ -34,7 +34,7 @@
 
 **Q.** How did God first help us?
 
-**A.** God first helped us by revealing himself and his will, through nature and history, through many seers and saints, and especially the prophets of Israel.
+**A.** God first helped us by revealing himself and his will, through nature and history, through many seers and saints, and especially through the prophets of Israel.
 
 ## God the Father
 
@@ -90,7 +90,7 @@
 
 **Q.** What are the Ten Commandments?
 
-**A.** The Ten Commandments are the laws give to Moses and the people of Israel.
+**A.** The Ten Commandments are the laws given to Moses and the people of Israel.
 
 **Q.** What do we learn from these commandments?
 
@@ -116,7 +116,7 @@ V To love, honor, and help our parents and family; to honor those in authority, 
 
 VI To show respect for the life God has given us; to work and pray for peace; to bear no malice, prejudice, or hatred in our hearts; and to be kind to all the creatures of God;
 
-VII To use our bodily desires as God intended;
+VII To use all our bodily desires as God intended;
 
 VIII To be honest and fair in our dealings; to seek justice, freedom, and the necessities of life for all people; and to use our talents and possessions as ones who must answer for them to God;
 
@@ -130,7 +130,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** Since we do not fully obey them, are they useful at all?
 
-**A.** Since we do not filly obey them, we see more clearly our sin and our need for redemption.
+**A.** Since we do not fully obey them, we see more clearly our sin and our need for redemption.
 
 ## Sin and Redemption
 
@@ -204,7 +204,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What did the Messiah promise in the New Covenant?
 
-**A.** Christ promised to bring us into the kingdom of God and give life in all its fullness.
+**A.** Christ promised to bring us into the kingdom of God and give us life in all its fullness.
 
 **Q.** What response did Christ require?
 
@@ -216,7 +216,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is the Summary of the Law?
 
-**A.** You shall love the Lord your God with all your heart, with all your soul, and with all your mind. This is the first and great commandment. And the second is like it: You shall love your neighbor as yourself.
+**A.** You shall love the Lord your God with all your heart, with all your soul, and with all your mind. This is the first and the great commandment. And the second is like it: You shall love your neighbor as yourself.
 
 **Q.** What is the New Commandment?
 
@@ -256,7 +256,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 ## The Holy Spirit
 
-**Q.** What is the Holy Spirit?
+**Q.** Who is the Holy Spirit?
 
 **A.** The Holy Spirit is the Third Person of the Trinity, God at work in the world and in the Church even now.
 
@@ -352,11 +352,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is the ministry of the laity?
 
-**A.** The ministry of lay persons is the represent Christ and his Church; to bear witness to him wherever they may be; and, according to the gifts given them, to carry on Christ's work of reconciliation in the world; and to take their place in the life, worship, and governance of the Church.
+**A.** The ministry of lay persons is to represent Christ and his Church; to bear witness to him wherever they may be and, according to the gifts given them, to carry on Christ's work of reconciliation in the world; and to take their place in the life, worship, and governance of the Church.
 
 **Q.** What is the ministry of a bishop?
 
-**A.** The minsitry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ's name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ's ministry.
+**A.** The ministry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ's name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ's ministry.
 
 **Q.** What is the ministry of a priest or presbyter?
 
@@ -378,17 +378,17 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is Christian Prayer?
 
-**A.** Christian prayer is response of God the Father, through Jesus Christ, in the power of the Holy Spirit.
+**A.** Christian prayer is response to God the Father, through Jesus Christ, in the power of the Holy Spirit.
 
 **Q.** What prayer did Christ teach us?
 
-**A.** Our Lord gave us the example of prayer knows as the Lord's Prayer.
+**A.** Our Lord gave us the example of prayer known as the Lord's Prayer.
 
-> See page 364
+> See page 364.
 
-**Q.** What are the principle kinds of prayer?
+**Q.** What are the principal kinds of prayer?
 
-**A.** The principle kinds of prayer are adoration, praise, thanksgiving, penitence, oblation, intercession, and petition.
+**A.** The principal kinds of prayer are adoration, praise, thanksgiving, penitence, oblation, intercession, and petition.
 
 **Q.** What is adoration?
 
@@ -426,7 +426,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is grace?
 
-**A.** Grace is God's favor toward us, unearned and undeserved; by grace God forgives our sins, enlightens our minds, stirs our hearts, and strengthens our wills.
+**A.** Grace is God's favor towards us, unearned and undeserved; by grace God forgives our sins, enlightens our minds, stirs our hearts, and strengthens our wills.
 
 **Q.** What are the two great sacraments of the Gospel?
 
@@ -474,11 +474,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is the outward and visible sign in the Eucharist?
 
-**A.** The outward and visible sign in the Eucharist is bread and wine, give and received according to Christ's command.
+**A.** The outward and visible sign in the Eucharist is bread and wine, given and received according to Christ's command.
 
 **Q.** What is the inward and spiritual grace given in the Eucharist?
 
-**A.** The inward and spiritual grace in the Holy Communion is the Body and Blood of Christ give to his people, and received by faith.
+**A.** The inward and spiritual grace in the Holy Communion is the Body and Blood of Christ given to his people, and received by faith.
 
 **Q.** What are the benefits which we receive in the Lord's Supper?
 

@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Shed upon thy Church, we beseech thee, O Lord, the brightness of thy light, that we, being illumined by the teaching of thine apostle and evangelist John, may so walk in the light of thy truth, that at length we may attain to the fullness of eternal life; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+Shed upon thy Church, we beseech thee, O Lord, the brightness of thy light; that we, being illumined by the teaching of thine apostle and evangelist John, may so walk in the light of thy truth, that we may at length attain to the fullness of life everlasting; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

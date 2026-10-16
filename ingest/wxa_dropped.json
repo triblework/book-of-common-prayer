@@ -2,19 +2,27 @@
  "dropped": [
   {
    "file": "collects-epistles-gospels/christmas-day.md",
-   "line": 27,
-   "class": "d8",
-   "what": "Almighty God, you have given your only-begotten Son to take our nature upon him,",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 213
+   "line": 9,
+   "class": "d3",
+   "what": "this -> the",
+   "reason": "short paragraph: corrected end is not a line end in the book",
+   "page": 160
   },
   {
-   "file": "collects-epistles-gospels/easter-day.md",
-   "line": 23,
-   "class": "d8",
-   "what": "O God, who made this most holy night to shine with the glory of the Lord's resur",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 222
+   "file": "daily-office/evening-prayer.md",
+   "line": 519,
+   "class": "d1",
+   "what": "fridays -> peace",
+   "reason": "short paragraph printed as it stands elsewhere in its pages (look-alike)",
+   "page": 123
+  },
+  {
+   "file": "daily-office/evening-prayer.md",
+   "line": 523,
+   "class": "word",
+   "what": "saturdays -> aid",
+   "reason": "edge: the book runs on past the corrected end (a passage is lost there)",
+   "page": 123
   },
   {
    "file": "daily-office/morning-prayer.md",
@@ -42,14 +50,6 @@
   },
   {
    "file": "holy-communion/holy-communion.md",
-   "line": 129,
-   "class": "d8",
-   "what": "Open, O Lord, the eyes of all people to behold thy gracious hand in all thy work",
-   "reason": "edge (no agreed word on one side)",
-   "page": 330
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
    "line": 169,
    "class": "d7",
    "what": "i -> 1",
@@ -65,84 +65,12 @@
    "page": 332
   },
   {
-   "file": "holy-communion/holy-communion.md",
-   "line": 243,
-   "class": "d8",
-   "what": "And although we are unworthy, through our manifold sins, to off all honor and gl",
-   "reason": "edge (no agreed word on one side)",
-   "page": 336
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 311,
-   "class": "d8",
-   "what": "Almighty and everliving God, we most heartily thank thee for that thou dost feed",
-   "reason": "edge (no agreed word on one side)",
-   "page": 339
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 471,
-   "class": "d8",
-   "what": "Through Jesus Christ our Lord; who for our sins was lifted high upon the cross, ",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 346
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 551,
+   "file": "occasional-offices/burial.md",
+   "line": 136,
    "class": "word",
-   "what": "th -> again",
-   "reason": "placement",
-   "page": 363
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 551,
-   "class": "word",
-   "what": "day of pentecost -> celebrant continues we",
-   "reason": "placement",
-   "page": 363
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 654,
-   "class": "word",
-   "what": "tron page 383 -> trouble the departed",
-   "reason": "placement",
-   "page": 359
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 1002,
-   "class": "d1",
-   "what": "whe -> who",
-   "reason": "unverified",
-   "page": 375
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 1136,
-   "class": "d8",
-   "what": "Through Jesus Cepared for us a dwelling place eternal in the heavens.",
-   "reason": "edge (no agreed word on one side)",
-   "page": 349
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 1230,
-   "class": "d8",
-   "what": "I ask your prayers for all who sembers of the congregation may ask the prayers o",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 386
-  },
-  {
-   "file": "holy-communion/holy-communion.md",
-   "line": 1420,
-   "class": "d8",
-   "what": "The Collec the Church;",
-   "reason": "edge (no agreed word on one side)",
-   "page": 394
+   "what": "redemption -> i",
+   "reason": "edge: the book runs on past the corrected end (a passage is lost there)",
+   "page": 474
   },
   {
    "file": "occasional-offices/burial.md",
@@ -162,147 +90,19 @@
   },
   {
    "file": "occasional-offices/burial.md",
-   "line": 300,
-   "class": "d8",
-   "what": "> The Apostle's creed may be said, all standing",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 480
-  },
-  {
-   "file": "occasional-offices/burial.md",
-   "line": 380,
-   "class": "d8",
-   "what": "The Song of Zechariah, =Benedictour sins art justly displeased?",
-   "reason": "edge (no agreed word on one side)",
-   "page": 484
-  },
-  {
-   "file": "occasional-offices/burial.md",
-   "line": 454,
-   "class": "d8",
-   "what": "O Lord Jesus Christ, Son of the living God, we pray thee to set thy passion, cro",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 489
-  },
-  {
-   "file": "occasional-offices/burial.md",
-   "line": 750,
-   "class": "d8",
-   "what": "The God of peace, who brought again from the ng in his sight; through Jesus Chri",
-   "reason": "edge (no agreed word on one side)",
-   "page": 503
-  },
-  {
-   "file": "occasional-offices/catechism.md",
-   "line": 303,
-   "class": "d8",
-   "what": "**A.** We understand the meaning of the Bible by the help of [ Page 854> the Hol",
-   "reason": "markup inside the damaged stretch",
-   "page": 854
-  },
-  {
-   "file": "occasional-offices/catechism.md",
-   "line": 485,
-   "class": "d8",
-   "what": "**A.** The benefits we receive are the forgiveness of our sins, [ Page 860> the ",
-   "reason": "markup inside the damaged stretch",
-   "page": 860
-  },
-  {
-   "file": "occasional-offices/churching.md",
-   "line": 125,
-   "class": "d8",
-   "what": "O gracious God, we give you humble and hearty thanks that you have preserved thr",
-   "reason": "edge (no agreed word on one side)",
-   "page": 444
-  },
-  {
-   "file": "occasional-offices/confirmation.md",
-   "line": 45,
-   "class": "d8",
-   "what": "**Bishop.**  One Lord, one Faith, ose of the Day.  At the discretion of the bish",
-   "reason": "markup inside the damaged stretch",
-   "page": 414
-  },
-  {
-   "file": "occasional-offices/confirmation.md",
-   "line": 185,
-   "class": "d8",
-   "what": "Almighty God, we thank you that by the death and resurrection of your Son Jesus ",
-   "reason": "edge (no agreed word on one side)",
-   "page": 418
-  },
-  {
-   "file": "occasional-offices/matrimony.md",
-   "line": 219,
-   "class": "d8",
-   "what": "> The Rite begins as prescribed fo service.",
-   "reason": "edge (no agreed word on one side)",
-   "page": 433
-  },
-  {
-   "file": "occasional-offices/public-baptism.md",
-   "line": 19,
-   "class": "d8",
-   "what": "> It is fitting that parents be included among the godparents of their own child",
-   "reason": "edge (no agreed word on one side)",
-   "page": 298
-  },
-  {
-   "file": "occasional-offices/public-baptism.md",
-   "line": 167,
-   "class": "d8",
-   "what": "*Presenters*  I p who desire to reaffirm their= baptismal vows.",
-   "reason": "edge (no agreed word on one side)",
-   "page": 303
-  },
-  {
-   "file": "occasional-offices/public-baptism.md",
-   "line": 345,
-   "class": "d8",
-   "what": "*The Bishodaily increase in your Holy Spirit more and more, until he comes to yo",
-   "reason": "edge (no agreed word on one side)",
-   "page": 309
-  },
-  {
-   "file": "occasional-offices/visitation-sick.md",
-   "line": 123,
-   "class": "d8",
-   "what": "O Father of mercierve him from the temptations of the enemy; and give him patien",
-   "reason": "edge (no agreed word on one side)",
-   "page": 458
-  },
-  {
-   "file": "ordinal/consecration-bishops.md",
-   "line": 103,
-   "class": "d8",
-   "what": "> or the Reader may say*  Here ends the Reading n or a Priest reads the Gospel, ",
-   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
-   "page": 516
+   "line": 354,
+   "class": "word",
+   "what": " -> burial i 483",
+   "reason": "page furniture (a running head or folio) inside the book's words",
+   "page": 483
   },
   {
    "file": "ordinal/ordering-deacons.md",
-   "line": 11,
-   "class": "d8",
-   "what": "**People.**  And blessed be his kingdom, now op*  Bless the Lord who forgives al",
-   "reason": "markup inside the damaged stretch",
-   "page": 512
-  },
-  {
-   "file": "ordinal/ordering-deacons.md",
-   "line": 87,
-   "class": "d8",
-   "what": "Epistle  2 Corinthians 4:1-6, *or* 1 Tiks be to God.",
-   "reason": "edge (no agreed word on one side)",
-   "page": 540
-  },
-  {
-   "file": "ordinal/preface.md",
-   "line": 9,
-   "class": "d8",
-   "what": "It is also recognized and affirmed that the threefold ministry is not the exclus",
-   "reason": "edge (no agreed word on one side)",
-   "page": 510
+   "line": 173,
+   "class": "d4",
+   "what": " -> then",
+   "reason": "short paragraph printed as it stands elsewhere in its pages (look-alike)",
+   "page": 545
   },
   {
    "file": "prayers-and-thanksgivings/thanksgiving-for-the-harvest.md",
@@ -369,6 +169,57 @@
    "page": null
   }
  ],
+ "edge_notes": [
+  {
+   "file": "daily-office/morning-prayer.md",
+   "line": 418,
+   "edge": "start",
+   "what": "solomon -> simeon",
+   "page": 51
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 40,
+   "edge": "start",
+   "what": "ihe -> the",
+   "page": 470
+  },
+  {
+   "file": "occasional-offices/visitation-sick.md",
+   "line": 65,
+   "edge": "end",
+   "what": "stren -> strengthen",
+   "page": 455
+  },
+  {
+   "file": "ordinal/ordering-deacons.md",
+   "line": 241,
+   "edge": "start",
+   "what": "tho -> to",
+   "page": 549
+  },
+  {
+   "file": "prayers-and-thanksgivings/thanksgiving-for-the-harvest.md",
+   "line": 7,
+   "edge": "end",
+   "what": "seed -> seedtime",
+   "page": 840
+  },
+  {
+   "file": "prayers-and-thanksgivings/thanksgiving-for-the-harvest.md",
+   "line": 9,
+   "edge": "start",
+   "what": "time -> seedtime",
+   "page": 840
+  },
+  {
+   "file": "tables/feasts-and-fasts.md",
+   "line": 21,
+   "edge": "start",
+   "what": "saint s -> saints",
+   "page": 15
+  }
+ ],
  "dol_disputes": [
   {
    "line": 7,
@@ -419,38 +270,20 @@
    "supports": "none"
   },
   {
-   "line": 205,
-   "occasion": "one / Week of 6 Epiphany / Friday",
-   "column": "r2",
-   "cell": "1 John 3:4-10",
-   "book": "Mark 12:28-34",
-   "checks": {
-    "elsewhere": {
-     "cell_reading_in_book": 1,
-     "book_reading_in_book": 1,
-     "cell_reading_in_cell": 0
-    },
-    "continuity": [
-     "book"
-    ]
-   },
-   "supports": "book"
-  },
-  {
-   "line": 205,
-   "occasion": "one / Week of 6 Epiphany / Friday",
+   "line": 217,
+   "occasion": "one / Week of 6 Epiphany / Saturday",
    "column": "r3",
-   "cell": "John 10:7-16",
-   "book": "1 Tim 5:17-22(23-25)",
+   "cell": "Matt. 6:1-16",
+   "book": "Matt. 6:1-6",
    "checks": {
     "elsewhere": {
-     "cell_reading_in_book": 1,
+     "cell_reading_in_book": 0,
      "book_reading_in_book": 0,
      "cell_reading_in_cell": 0
     },
     "continuity": "none"
    },
-   "supports": "cell"
+   "supports": "none"
   },
   {
    "line": 347,
@@ -566,9 +399,10 @@
     "continuity": [
      "book",
      "cell"
-    ]
+    ],
+    "witness_artifact": true
    },
-   "supports": "split"
+   "supports": "cell"
   },
   {
    "line": 807,
@@ -688,9 +522,26 @@
     "continuity": [
      "book",
      "cell"
-    ]
+    ],
+    "witness_artifact": true
    },
-   "supports": "split"
+   "supports": "cell"
+  },
+  {
+   "line": 989,
+   "occasion": "two / Christmas Day and Following / Jan. 4",
+   "column": "r1",
+   "cell": "Joshua 3:14-4:7",
+   "book": "Joshua 3:14 4:7",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 1,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 1
+    },
+    "continuity": "none"
+   },
+   "supports": "cell"
   },
   {
    "line": 1042,
@@ -704,9 +555,10 @@
      "book_reading_in_book": 0,
      "cell_reading_in_cell": 0
     },
-    "continuity": "none"
+    "continuity": "none",
+    "witness_artifact": true
    },
-   "supports": "none"
+   "supports": "cell"
   },
   {
    "line": 1171,
@@ -744,38 +596,18 @@
    "supports": "split"
   },
   {
-   "line": 1344,
-   "occasion": "two / Week of 7 Easter / Tuesday",
+   "line": 1549,
+   "occasion": "two / Proper 12 (Week of the Sunday closest to July 27) / Friday",
    "column": "r3",
-   "cell": "Matt. 9:1-8",
-   "book": "Matt. 8:18-27",
+   "cell": "John 2:2-12",
+   "book": "John 2:1-12",
    "checks": {
     "elsewhere": {
-     "cell_reading_in_book": 2,
-     "book_reading_in_book": 1,
-     "cell_reading_in_cell": 1
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 2,
+     "cell_reading_in_cell": 0
     },
-    "continuity": [
-     "book"
-    ]
-   },
-   "supports": "book"
-  },
-  {
-   "line": 1438,
-   "occasion": "two / Proper 6 (Week of the Sunday closest to June 15) / Monday",
-   "column": "r3",
-   "cell": "Matt. 18:1-9",
-   "book": "Matt. 17:14-21",
-   "checks": {
-    "elsewhere": {
-     "cell_reading_in_book": 2,
-     "book_reading_in_book": 1,
-     "cell_reading_in_cell": 1
-    },
-    "continuity": [
-     "book"
-    ]
+    "continuity": "none"
    },
    "supports": "book"
   },

@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O God, the King of glory, you have exalted thine only Son Jesus Christ with great triumph to thy kingdom in heaven: We beseech thee, leave us not comfortless, but send us thine Holy Ghost to comfort us, and exalt us to the same place where our Savior Christ is gone before; who liveth and reigneth with thee and the same Holy Ghost, one God, world without end. Amen.
+O God, the King of glory, who hast exalted thine only Son Jesus Christ with great triumph unto thy kingdom in heaven: We beseech thee, leave us not comfortless, but send to us thine Holy Ghost to comfort us, and exalt us unto the same place whither our Savior Christ is gone before; who liveth and reigneth with thee and the same Holy Ghost, one God, world without end. Amen.
 
 ## The Collect (Contemporary)
 

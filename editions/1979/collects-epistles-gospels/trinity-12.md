@@ -6,7 +6,7 @@
 
 ## The Collect
 
-Almighty and everlasting God, who art always more ready to hear than we to pray, and to give more than either desire or deserve: Pour upon us the abundance of thy mercy, forgiving us those things whereof our conscience is afraid, and giving us those good things which we are not worthy to ask, but through the merits and mediation of Jesus Christ thy Son our Lord; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+Almighty and everlasting God, who art always more ready to hear than we to pray, and art wont to give more than either we desire or deserve: Pour down upon us the abundance of thy mercy, forgiving us those things whereof our conscience is afraid, and giving us those good things which we are not worthy to ask, but through the merits and mediation of Jesus Christ thy Son our Lord; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O God, you have taken to thyself the blessed Virgin Mary, mother of thy incarnate Son: Grant that we, who have been redeemed by his blood, may share with her the glory of thine eternal kingdom; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
+O God, who hast taken to thyself the blessed Virgin Mary, mother of thy incarnate Son: Grant that we, who have been redeemed by his blood, may share with her the glory of thine eternal kingdom; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

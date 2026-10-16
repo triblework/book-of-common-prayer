@@ -4,7 +4,7 @@
 
 ## The Collect
 
-We thank you, heavenly Father, for the witness of thine apostle and evangelist Matthew to the Gospel of thy Son our Savior; and we pray that, after his example, we may with ready wills and hearts obey the calling of our Lord to follow him; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever. Amen.
+We thank thee, heavenly Father, for the witness of thine apostle and evangelist Matthew to the Gospel of thy Son our Savior; and we pray that, after his example, we may with ready wills and hearts obey the calling of our Lord to follow him; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

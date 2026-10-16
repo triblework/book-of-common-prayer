@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O God, whose blessed Son did manifest himself to his discipin all his redeeming work; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
+O God, whose blessed Son did manifest himself to his disciples in the breaking of bread: Open, we pray thee, the eyes of our faith, that we may behold him in all his redeeming work; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O Lord God, whose blessed Son our Savior gave his back to the smiters and hid not his face from shame: Give us grace to take joyfully the sufferings of the present time, in full assurance of the glory that shall be revealed; through the same Jesus Christ thy Son our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+O Lord God, whose blessed Son our Savior gave his back to the smiters and hid not his face from shame: Grant us grace to take joyfully the sufferings of the present time, in full assurance of the glory that shall be revealed; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

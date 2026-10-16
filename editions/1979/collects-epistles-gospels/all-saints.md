@@ -1,10 +1,10 @@
-# All Saint's Day
+# All Saints' Day
 
 <!-- VERIFY: 'All Saint's Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 
 ## The Collect
 
-Almighty God, who hast knit together thine elect in one communion and fellowship in the mystical body of thy Son Christ our Lord: Give us grace so to follow thy blessed saints in all virtuous and godly living, that we may come to those ineffable joys that thou hast prepared for those who unfeignedly love thee; through the same Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, in glory everlasting. Amen.
+Almighty God, who hast knit together thine elect in one communion and fellowship in the mystical body of thy Son Christ our Lord: Grant us grace so to follow thy blessed saints in all virtuous and godly living, that we may come to those ineffable joys which thou hast prepared for those who unfeignedly love thee; through the same Jesus Christ our Lord, who with thee and the Holy Spirit liveth and reigneth, one God, in glory everlasting. Amen.
 
 ## The Collect (Contemporary)
 

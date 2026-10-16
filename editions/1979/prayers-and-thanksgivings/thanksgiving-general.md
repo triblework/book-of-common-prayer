@@ -32,7 +32,7 @@ through which he overcame death; and for his rising to life
 
 again, in which we are raised to the life of your kingdom.
 
-Grant us the gift of your Spirit, that we may know him and
+Grant us the gift of your Spirit, that we may know Christ and
 
 make him known; and through him, at all times and in all
 

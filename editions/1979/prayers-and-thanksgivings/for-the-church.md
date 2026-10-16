@@ -1,6 +1,6 @@
 # For the Church
 
-Gracious Father, we pray for they holy Catholic Church.  Fill it
+Gracious Father, we pray for thy holy Catholic Church.  Fill it
 
 with all truth, in all truth with all peace.  Where it is corrupt,
 

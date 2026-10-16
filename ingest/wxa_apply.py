@@ -8,6 +8,8 @@
           # write the result to the scratch render dir (NOT editions/) and
           # re-run the word-for-word survey on it
     python3 ingest/wxa_apply.py --groups ... --write # writes editions/1979
+    python3 ingest/wxa_apply.py --stage N --write    # the cells at stage N
+                                                     # (1, 2, 3; see wxa_witness)
 
 It always starts from the BRANCH-BASE text of each cell (git 710f635b...),
 so a re-run is idempotent and the result is exactly base + these groups --
@@ -113,8 +115,52 @@ def resurvey(results):
                                    sum(total.values())))
 
 
+def write_stage(stage):
+    """Write every cell as it must stand at `stage` (base + the groups of
+    commits 1..stage; the new Holy Days cell from stage 1; the prayers
+    re-flowed at stage 3). Refuses if any item is stale."""
+    import glob
+    import wxa_book
+    bw = wxa_book.Book().joined if stage >= 3 else None
+    root = os.path.join(WT, 'editions/1979')
+    rels = sorted(os.path.relpath(f, root) for f in
+                  glob.glob(os.path.join(root, '**/*.md'), recursive=True))
+    rels += [r for r in W.NEW_CELLS if r not in rels]
+    stale = []
+    for rel in rels:
+        if rel.startswith('psalter/'):
+            continue
+        if rel not in W.NEW_CELLS:
+            _t, _a, st = W.apply(rel, base_text(rel), W.enabled(stage),
+                                 strict=False)
+            stale += [(rel,) + x for x in st]
+    if stale:
+        raise SystemExit('stale items, nothing written: %s' % stale[:3])
+    n = 0
+    for rel in rels:
+        if rel.startswith('psalter/'):
+            continue
+        base = None if rel in W.NEW_CELLS else base_text(rel)
+        want = W.expected(rel, base, stage, bw)
+        p = os.path.join(root, rel)
+        if want is None:
+            continue
+        cur = open(p, encoding='utf-8').read() if os.path.exists(p) else None
+        if cur != want:
+            os.makedirs(os.path.dirname(p), exist_ok=True)
+            open(p, 'w', encoding='utf-8').write(want)
+            n += 1
+    print('stage %d written: %d files changed' % (stage, n))
+
+
 def main():
     args = sys.argv[1:]
+    if '--stage' in args:
+        stage = int(args[args.index('--stage') + 1])
+        if '--write' not in args:
+            raise SystemExit('--stage N needs --write (use --groups for a dry run)')
+        write_stage(stage)
+        return
     groups = list(W.ENABLED)
     if '--groups' in args:
         v = args[args.index('--groups') + 1]

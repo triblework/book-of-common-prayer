@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty and everlasting God, who hast given unto us thy servants grace, by the confession of a true faith, to acknowledge the glory of the eternal Trinity, and in the power of thy Divine Majesty to worship the Unity: We beseech thee that thou wouldst keep us steadfast in this faith and worship, and bring us at last to see thee in thy one and eternal glory, O Father; who with the Son and the Holy Spirit livest and reignest, one God, for ever and ever. Amen.
+Almighty and everlasting God, who hast given unto us thy servants grace, by the confession of a true faith, to acknowledge the glory of the eternal Trinity, and in the power of the Divine Majesty to worship the Unity: We beseech thee that thou wouldest keep us steadfast in this faith and worship, and bring us at last to see thee in thy one and eternal glory, O Father; who with the Son and the Holy Spirit livest and reignest, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

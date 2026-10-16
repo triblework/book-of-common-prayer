@@ -2,7 +2,7 @@
 
 O God of peace, =who hast= taught us that in returning and
 
-rest we shall be saved, in quietness and confidence shall be
+rest we shall be saved, in quietness and in confidence shall be
 
 our strength:  By the might of =thy= Spirit lift us, we pray =thee=,
 

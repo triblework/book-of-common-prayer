@@ -6,7 +6,7 @@
 
 ## The Collect
 
-O God, forasmuch as without you we are not able to please thee, mercifully grant that thy Holy Spirit may in all things direct and rule our hearts; through Jesus Christ our Lord, who liveth and reigneth with thee and the same Spirit, one God, now and for ever. Amen.
+O God, forasmuch as without thee we are not able to please thee, mercifully grant that thy Holy Spirit may in all things direct and rule our hearts; through Jesus Christ our Lord, who with thee and the same Spirit liveth and reigneth, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

@@ -8,7 +8,7 @@ I am the resurrection and the life, saith the Lord; he that believeth in me, tho
 
 I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth; and though this body be destroyed, yet shall I see God; whom I shall see for myself and mine eyes shall behold, and not as a stranger.
 
-For none of us liveth to himself, and no man dieth to himself. For if we live, we live unto the Lord. and if we die, we die unto the Lord. Whether we live, therefore, or die, we are the Lord's.
+For none of us liveth to himself, and no man dieth to himself. For if we live, we live unto the Lord; and if we die, we die unto the Lord. Whether we live, therefore, or die, we are the Lord's.
 
 Blessed are the dead who die in the Lord; even so saith the Spirit, for they rest from their labors.
 
@@ -23,13 +23,13 @@ And with thy spirit.
 
 At the Burial of an Adult
 
-O God, whose mercies cannot be numbered:  Accept our prayers on behalf of thy servant N., and grant him an entrance into the land of light and joy, in the fellowship of thy saints; through Jesus Crhist thy Son our Lord, who liveth and reigneth with thee and the Holy Spirit, on God, now and for ever.  Amen.
+O God, whose mercies cannot be numbered:  Accept our prayers on behalf of thy servant N., and grant him an entrance into the land of light and joy, in the fellowship of thy saints; through Jesus Christ thy Son our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever.  Amen.
 
 At the Burial of a Child
 
 O God, whose beloved Son did take little children into his arms and bless them:  Give us grace, we beseech thee, to entrust this child N. to thy never-failing care and love, and bring us all to thy heavenly kingdom; through the same thy Son Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever.  Amen.
 
-> The people sit
+> The people sit.
 
 > One or more of the following passages from Holy Scripture is read.  If there is to be a Communion, a passage from the Gospel always concludes the Readings.
 
@@ -37,7 +37,7 @@ O God, whose beloved Son did take little children into his arms and bless them: 
 
 Isaiah 25:6-9 (He will swallow up death in victory)
 
-Ihe Old Testament Lesson, a suitable canticle or one of the following Psalms may be sung or said.
+the Old Testament Lesson, a suitable canticle or one of the following Psalms may be sung or said.
 
 ## Psalm 42
 
@@ -75,11 +75,11 @@ The LORD of hosts is with us; : the God of Jacob is our refuge.
 
 ## Psalm 90
 
-Domino, refugium
+Domine, refugium
 
 LORD, thou hast been our refuge, : from one generation to another.
 
-Before the mountains were brought forth, or ever the earth and the world were made, : thou art God from everlasting, and the world without end.
+Before the mountains were brought forth, or ever the earth and the world were made, : thou art God from everlasting, and world without end.
 
 Thou turnest man to destruction; : again thou sayest, Come again, ye children of men.
 
@@ -93,9 +93,9 @@ For we consume away in thy displeasure, : and are afraid at thy wrathful indigna
 
 Thou hast set our misdeeds before thee, : and our secret sins in the light of thy countenance.
 
-For when thou are angry all our days are gone; : we bring our years to an end, as it were a tale that is told.
+For when thou art angry all our days are gone; : we bring our years to an end, as it were a tale that is told.
 
-The days of our age are threescore years and ten; and though men be so strong that thy come to fourscore years, : yet is their strength then but labor and sorrow, so soon passeth it away, and we are gone.
+The days of our age are threescore years and ten; and though men be so strong that they come to fourscore years, : yet is their strength then but labor and sorrow, so soon passeth it away, and we are gone.
 
 So teach us to number our days, : that we may apply our hearts unto wisdom.
 
@@ -113,7 +113,7 @@ Behold, he that keepeth Israel : shall neither slumber nor sleep.
 
 The LORD himself is thy keeper; : the LORD is thy defence upon thy right hand;
 
-So that the sun shall not burn by day, : neither the moon by night.
+So that the sun shall not burn thee by day, : neither the moon by night.
 
 The LORD shall preserve thee from all evil; : yea, it is even he that shall keep thy soul.
 
@@ -129,11 +129,12 @@ O let thine ears consider well : the voice of my complaint.
 
 If thou, LORD, wilt be extreme to mark what is done amiss, : O Lord, who may abide it?
 
-Fore there is mercy with thee, : therefore shalt thou be feared.
+For there is mercy with thee, : therefore shalt thou be feared.
 
 I look for the LORD; my soul doth wait for him; : in his word is my trust.
 
 My soul fleeth unto the Lord before the morning watch;redemption.
+<!-- VERIFY: 'morning watch;redemption.'; the 1993 keying fuses two verses of Psalm 130 ('watch;redemption'); the witness (Church Publishing's PDF, p. 474) prints the half-verse 'I say, before the morning watch' and the verse that follows, but restoring them would take a mediant from the file (R11, R22), so the verse is carried as the e-text prints it -->
 
 And he shall redeem Israel : from all his sins.
 
@@ -186,6 +187,7 @@ Dominus regit me
 The LORD is my shepherd; : therefore can I lack nothing.
 
 He shall feed me in a green pasture, : and lead me forth in the paths of righteousness for his Name's sake.
+<!-- VERIFY: 'and lead me forth in the paths'; the 1993 keying fuses two verses of Psalm 23; the witness (Church Publishing's PDF, p. 476) prints the half-verse 'beside the waters of comfort' and the verse 'He shall convert my soul', but restoring them would take a mediant from the file (R11, R22), so the verse is carried as the e-text prints it -->
 
 Yea, though I walk through the valley of the shadow of death, I will fear no evil; : for thou art with me; thy rod and thy staff comfort me.
 
@@ -203,9 +205,9 @@ He maketh me to lie down in green pastures; : he leadeth me beside the still wat
 
 He restoreth my soul; : he leadeth me in the paths of righteousness for his Name's sake.
 
-Yea, though I walk through the valley of the shadow of death, I will fear no evil; : for thou are with me; thy rod and thy staff, they comfort me.
+Yea, though I walk through the valley of the shadow of death, I will fear no evil; : for thou art with me; thy rod and thy staff, they comfort me.
 
-Thou preparest a table before me in the presence of mine enemies; : thou annointest my head with oil; my cup runneth over.
+Thou preparest a table before me in the presence of mine enemies; : thou anointest my head with oil; my cup runneth over.
 
 Surely goodness and mercy shall follow me all the days of my life, : and I will dwell in the house of the LORD for ever.
 
@@ -228,6 +230,7 @@ Hearken unto my voice, O LORD, when I cry unto thee; : have mercy upon me, and h
 My heart hath talked of thee, Seek ye my face. : Thy face, LORD, will I seek.
 
 O hide not thou thy face froRD in the land of the living.
+<!-- VERIFY: 'face froRD in the land of the living'; the 1993 keying fuses two verses of Psalm 27 ('froRD'); the witness (Church Publishing's PDF, p. 478) prints 'from me' and the next verse, but restoring them would take a mediant and the small-capital Name from the file (R11, R22), so the verse is carried as the e-text prints it -->
 
 O tarry thou the LORD's leisure; : be strong, and he shall comfort thine heart; and put thou thy trust in the LORD.
 
@@ -297,7 +300,7 @@ Praise be to thee, O Christ.
 
 > A homily may be preached, the people being seated.
 
-> The Apostle's creed may be said, all standing
+> The Apostles' creed may be said, all standing.
 
 > If there is not to be a Communion, the Lord's Prayer is said here, and the service continues with the following prayer of intercession, or with one or more suitable prayers (see pages 487-489).
 
@@ -327,7 +330,7 @@ Grant that, increasing in knowledge and love of thee, he may go from strength to
 
 Grant us, with all who have died in the hope of the resurrection, to have our consummation and bliss in thy eternal and everlasting glory, and, with [blessed N. and] all thy saints, to receive the crown of life which thou dost promise to all who share in the victory of thy Son Jesus Christ; who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever.  Amen.
 
-> When there is no Communion, the service continues with the Commendation, or with the Commital.
+> When there is no Communion, the service continues with the Commendation, or with the Committal.
 
 ## At the Eucharist
 
@@ -347,7 +350,7 @@ Almighty God, we thank thee that in thy great love thou hast fed us with the spi
 
 > The Celebrant and other ministers take their places at the body.
 
-> This anthem, or some other suitable anthem, or a hymn, may be sung or said
+> This anthem, or some other suitable anthem, or a hymn, may be sung or said.
 
 Give rest, O Christ, to thy servant(s) with thy saints, where sorrow and pain are no more, neither sighing, but life everlasting.
 
@@ -377,7 +380,17 @@ Into paradise may the angels lead thee; and at thy coming may the martyrs receiv
 
 > or one of these Canticles
 
-The Song of Zechariah, =Benedictour sins art justly displeased?
+The Song of Zechariah, Benedictus
+
+The Song of Simeon, Nunc dimittis
+
+Christ our Passover, Pascha nostrum
+
+## The Committal
+
+> The following anthem is sung or said
+
+In the midst of life we are in death; of whom may we seek for succor, but of thee, O Lord, who for our sins art justly displeased?
 
 Yet, O Lord God most holy, O Lord most mighty, O holy and most merciful Savior, deliver us not into the bitter pains of eternal death.
 
@@ -395,7 +408,7 @@ Thou shalt show me the path of life; in thy presence is the fullness of joy, and
 
 > Then, while earth is cast upon the coffin, the Celebrant says these words
 
-In sure and certain hope of the resurrection to eternal life through our Lord Jesus Christ, we commend to Almighty God our brother N.; and we commit his body to the ground;** earth to earth, ashes to ashes, dust to dust.  The Lord bless him and keep him, the Lord make his face to shine upon him and be gracious unto him, the Lord lift up his countenance upon him and give him peace.  Amen.
+In sure and certain hope of the resurrection to eternal life through our Lord Jesus Christ, we commend to Almighty God our brother N; and we commit his body to the ground;** earth to earth, ashes to ashes, dust to dust.  The Lord bless him and keep him, the Lord make his face to shine upon him and be gracious unto him, the Lord lift up his countenance upon him and give him peace.  Amen.
 
 > Or the deep, or the elements, or its resting place.
 
@@ -431,13 +444,13 @@ The God of peace, who brought again from the dead our Lord Jesus Christ, the gre
 
 ## The Consecration of a Grave
 
-> If the grave is in a place that has not previously been set apart for Christian burial, the Priest may use the following prayer, either before the service of Committal or at some other convenient time.
+> If the grave is in a place that has not previously been set apart for Christian burial, the Priest may use the following prayer, either before the service of Committal or at some other convenient time
 
 O God, whose blessed Son was laid in a sepulcher in the garden:  Bless, we pray, this grave, and grant that he whose body is (is to be) buried here may dwell with Christ in paradise, and may come to thy heavenly kingdom; through thy Son Jesus Christ our Lord.  Amen.
 
 ## Additional Prayers
 
-Almightons; most humbly beseeching thee to give us grace so to follow the example of their steadfastness in thy faith, and obedience to thy holy commandments, that at the day of the general resurrection, we, with all those who are of the mystical body of thy Son, may be set on his right hand, and hear that his most joyful voice:  "Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."  Grant this, O Father, for the sake of the same thy Son Jesus Christ, our only Mediator and Advocate.  Amen.
+Almighty and everlasting God, we yield unto thee most high praise and hearty thanks for the wonderful grace and virtue declared in all thy saints, who have been the choice vessels of thy grace, and the lights of the world in their several generations; most humbly beseeching thee to give us grace so to follow the example of their steadfastness in thy faith, and obedience to thy holy commandments, that at the day of the general resurrection, we, with all those who are of the mystical body of thy Son, may be set on his right hand, and hear that his most joyful voice:  "Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."  Grant this, O Father, for the sake of the same thy Son Jesus Christ, our only Mediator and Advocate.  Amen.
 
 Almighty God, with whom do live the spirits of those who depart hence in the Lord, and with whom the souls of the faithful, after they are delivered from the burden of the flesh, are in joy and felicity:  We give thee hearty thanks for the good examples of all those thy servants, who, having finished their course in faith, do now rest from their labors.  And we beseech thee that we, with all those who are departed in the true faith of thy holy Name, may have our perfect consummation and bliss, both in body and soul, in thy eternal and everlasting glory; through Jesus Christ our Lord.  Amen.
 
@@ -449,9 +462,11 @@ Almighty God, our heavenly Father, in whose hands are the living and the dead:  
 
 O God, whose days are without end, and whose mercies cannot be numbered:  Make us, we beseech thee, deeply sensible of the shortness and uncertainty of life; and let thy Holy Spirit lead us in holiness and righteousness all our days; that, when we shall have served thee in our generation, we may be gathered unto our fathers, having the testimony of a good conscience; in the communion of the Catholic Church; in the confidence of a certain faith; in the comfort of a reasonable, religious, and holy hope; in favor with thee our God; and in perfect charity with the world.  All which we ask through Jesus Christ our Lord.  Amen.
 
-O God, the King of saints, we praise and magnify thy holy Name for all thy servants who have finished their course in thy faith and fear; for the blessed Virgin Mary; for the holy patriarchs, prophets, apostles, and martyrs; and for all other thy righteous servants, known to us and unknown; and we beseech thee that, encouraged by their examples, aided by their prayers, and strengthened by their fellowship, we also may be partakers of the inheritance of the saints in light; through the merits of thy Son Jesus Christ our Lord.  Amen.
+O God, the King of saints, we praise and magnify thy holy Name for all thy servants who have finished their course in thy faith and fear; for the blessed Virgin Mary; for the holy patriarchs, prophets, apostles, and martyrs; and for all other thy righteous servants, known to us and unknown; and we beseech thee that, encouraged by their examples, aided by their prayers, and strengthened by their fellowship, we also may be partakers of the inheritance of the saints in light through the merits of thy Son Jesus Christ our Lord.  Amen.
 
-O Lord Jesus Christ, Son of the living God, we pray thee to set thy passion, cross, and death, between thy judgment and our souls, now and in the hour of our death.  Give mercy and grace to the living, pardon and rest to the dead, to thy holy Church peace and concord, and to us sinners everlasting life and glory; who with the who mourn, that casting every care on thee, they may know the consolation of thy love; through Jesus Christ our Lord.  Amen.
+O Lord Jesus Christ, Son of the living God, we pray thee to set thy passion, cross, and death, between thy judgment and our souls, now and in the hour of our death.  Give mercy and grace to the living, pardon and rest to the dead, to thy holy Church peace and concord, and to us sinners everlasting life and glory; who with the Father and the Holy Spirit livest and reignest, one God, now and for ever. Amen.
+
+Almighty God, Father of mercies and giver of all comfort: Deal graciously, we pray thee, with all those who mourn, that casting every care on thee, they may know the consolation of thy love; through Jesus Christ our Lord.  Amen.
 
 > Concerning the Service
 
@@ -477,7 +492,7 @@ O Lord Jesus Christ, Son of the living God, we pray thee to set thy passion, cro
 
 ## Rite Two
 
-> All stand while one or more of the following anthems is sung or said. A hymn, psalm, or some other suitable anthem may be sung instead.
+> All stand while one or more of the following anthems are sung or said. A hymn, psalm, or some other suitable anthem may be sung instead.
 
 I am Resurrection and I am Life, says the Lord. Whoever has faith in me shall have life, even though he die. And everyone who has life, and has committed himself to me in faith, shall not die for ever.
 
@@ -501,7 +516,7 @@ O worthy and eternal Judge, do not let the pains of death turn us away from you 
 
 Holy God, Holy and Mighty, Holy and merciful Savior, deliver us not into the bitterness of eternal death.
 
-> When all are in place, the Celebrant may address the congregation, acknowledging briefly the purpose of the gathering, and bidding their prayers for the deceased and the bereaved.
+> When all are in place, the Celebrant may address the congregation, acknowledging briefly the purpose of their gathering, and bidding their prayers for the deceased and the bereaved.
 
 > The Celebrant then says
 
@@ -516,7 +531,7 @@ And also with you.
 
 At the Burial of an Adult
 
-O God, who by the glorious resurrection of your Son Jesus Christ destroyed death, an one God, for ever and ever.  Amen.
+O God, who by the glorious resurrection of your Son Jesus Christ destroyed death, and brought life and immortality to light: Grant that your servant N., being raised with him, may know the strength of his presence, and rejoice in his eternal glory; who with you and the Holy Spirit lives and reigns, one God, for ever and ever.  Amen.
 
 > or this
 
@@ -528,11 +543,11 @@ O God of grace and glory, we remember before you this day our brother (sister) N
 
 At the Burial of a Child
 
-O God, whose beloved Son took children into his arms and blessed them: Give us grace to entrust N. to your never- failing care and love, and bring us all to your heavenly kingdom; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
+O God, whose beloved Son took children into his arms and blessed them: Give us grace to entrust N., to your never- failing care and love, and bring us all to your heavenly kingdom; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
 
 > The Celebrant may add the following prayer
 
-Most merciful God, whose wisdom is beyond our understanding: Deal graciously with N.N. in their grief. Surround them with you love, that they may not be overwhelmed by their loss, but have confidence in your goodness, and strength to meet the days to come; through Jesus Christ our Lord.  Amen.
+Most merciful God, whose wisdom is beyond our understanding, Deal graciously with NN. in their grief. Surround them with your love, that they may not be overwhelmed by their loss, but have confidence in your goodness, and strength to meet the days to come; through Jesus Christ our Lord.  Amen.
 
 > The people sit.
 
@@ -558,7 +573,7 @@ Job 19:21-27a    (I know that my Redeemer lives)
 
 Romans 8:14-19,34-35,37-39    (The glory that shall be revealed) 1
 
-Corinthians 15:2-26,35-38,42-44,53-58    (The imperishable body)
+Corinthians 15:20-26,35-38,42-44,53-58    (The imperishable body)
 
 2 Corinthians 4:16--5:9    (Things that are unseen are eternal)
 
@@ -581,7 +596,7 @@ Glory to you, Lord Christ.
 
 John 5:24-27    (He who believes has everlasting life)
 
-John 6:37-40    (All that the Father gives me will come to you)
+John 6:37-40    (All that the Father gives me will come to me)
 
 John 10:11-16    (I am the good shepherd)
 
@@ -606,7 +621,7 @@ In the assurance of eternal life given at Baptism, let us proclaim our faith and
 
 I believe in God, the Father almighty, creator of heaven and earth.
 
-I believe in Jesus Christ, his only Son, our Lord. He was che right hand of the Father. He will come again to judge the living and the dead.
+I believe in Jesus Christ, his only Son, our Lord. He was conceived by the power of the Holy Spirit and born of the Virgin Mary. He suffered under Pontius Pilate, was crucified, died, and was buried. He descended to the dead.
 
 I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.  Amen.
 
@@ -644,7 +659,7 @@ Father of all, we pray to you for N., and for all those whom we love but see no 
 
 ### At the Eucharist
 
-> The service continues with the Peace and the Offertory
+> The service continues with the Peace and the Offertory.
 
 Preface of the Commemoration of the Dead
 
@@ -660,11 +675,15 @@ Almighty God, we thank you that in your great love you have fed us with the spir
 
 > The Celebrant and other ministers take their places at the body.
 
-> This anthem, or some other suitable anthem, or a hymn, may be sung or said
+> This anthem, or some other suitable anthem, or a hymn, may be sung or said.
 
 Give rest, O Christ, to your servant(s) with your saints, where sorrow and pain are no more, neither sighing, but life everlasting.
 
-You only are immortal, the creator and maker of mankind; and we are mortal, formed of the earth, and to earth shall we return.  For so did you ordain when you created me, saying, "You are dust, and to dust you shall return."  All of us go down to the dust; yet even at the grave we make our song: body, says
+You only are immortal, the creator and maker of mankind; and we are mortal, formed of the earth, and to earth shall we return.  For so did you ordain when you created me, saying, "You are dust, and to dust you shall return."  All of us go down to the dust; yet even at the grave we make our song: Alleluia, alleluia, alleluia.
+
+Give rest, O Christ, to your servant(s) with your saints, where sorrow and pain are no more, neither sighing, but life everlasting.
+
+> The Celebrant, facing the body, says
 
 Into your hands, O merciful Savior, we commend your servant N. Acknowledge, we humbly beseech you, a sheep of your own fold, a lamb of your own flock, a sinner of your own redeeming.  Receive him into the arms of your mercy, into the blessed rest of everlasting peace, and into the glorious company of the saints in light.  Amen.
 
@@ -672,7 +691,7 @@ Into your hands, O merciful Savior, we commend your servant N. Acknowledge, we h
 
 Let us go forth in the name of Christ. Thanks be to God.
 
-> As the body is borne from the church, a hymn, or one or more of these anthems may be sung or said.
+> As the body is borne from the church, a hymn, or one or more of these anthems may be sung or said
 
 Christ is risen from the dead, trampling down death by death, and giving life to those in the tomb.
 
@@ -704,7 +723,7 @@ My heart, therefore, is glad, and my spirit rejoices; my body also shall rest in
 
 You will show me the path of life; in your presence there is fullness of joy, and in your right hand are pleasures for evermore.
 
-> Then, while earth is cast on upon the coffin, the Celebrant says these words
+> Then, while earth is cast upon the coffin, the Celebrant says these words
 
 In sure and certain hope of the resurrection to eternal life through our Lord Jesus Christ, we commend to Almighty God our brother N., and we commit his body to the ground;** earth to earth, ashes to ashes, dust to dust.  The Lord bless him and keep him, the Lord make his face to shine upon him and be gracious to him, the Lord lift up his countenance upon him and give him peace.  Amen.
 
@@ -720,7 +739,7 @@ And also with you.
 > Celebrant
 Let us pray.
 
-> People and Celebrant
+> Celebrant and People
 
 Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen.
 
@@ -728,7 +747,7 @@ Our Father in heaven, hallowed be your Name, your kingdom come, your will be don
 
 > Then may be said
 
-Rest eternal grant to him, O Lord; And let light perpetual shine upon him.
+Rest eternal grant to him, O Lord: And let light perpetual shine upon him.
 
 May his soul, and the souls of all the departed, through the mercy of God, rest in peace.  Amen.
 
@@ -747,23 +766,23 @@ Thanks be to God.
 
 > or with the following
 
-The God of peace, who brought again from the ng in his sight; through Jesus Christ, to whom be glory for ever and ever.  Amen.
+The God of peace, who brought again from the dead our Lord Jesus Christ, the great Shepherd of the sheep, through the blood of the everlasting covenant: Make you perfect in every good work to do his will, working in you that which is well-pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever.  Amen.
 
 ### The Consecration of a Grave
 
-> If the grave is in a place that has not previously been set apart for Christian burial, the Priest may use the following prayer, either before the service of Committal or at some other time.
+> If the grave is in a place that has not previously been set apart for Christian burial, the Priest may use the following prayer, either before the service of Committal or at some other convenient time
 
 O God, whose blessed Son was laid in a sepulcher in the garden: Bless, we pray, this grave, and grant that he whose body is (is to be) buried here may dwell with Christ in paradise, and may come to your heavenly kingdom; through your Son Jesus Christ our Lord.  Amen.
 
 ### Additional Prayers
 
-Almighty God, with whom still live the spirits of those who die in the Lord, and with whom the souls of the faithful are in joy and felicity: We give you heartfelt thanks for the good examples of all your servants, who, having finished their course in faith, now find rest and refreshment.  May we, with all who have died in the true faith of your holy Name, have perfect fulfillment and bliss in your eternal and everlasting glory; through Jesus Christ our Lord.  Amen.
+Almighty God, with whom still live the spirits of those who die in the Lord, and with whom the souls of the faithful are in joy and felicity: We give you heartfelt thanks for the good examples of all your servants, who, having finished their course in faith, now find rest and refreshment.  May we, with all who have died in the true faith of your holy Name, have perfect fulfillment and bliss in your eternal and everlasting glory, through Jesus Christ our Lord.  Amen.
 
 O God, whose days are without end, and whose mercies cannot be numbered: Make us, we pray, deeply aware of the shortness and uncertainty of human life; and let your Holy Spirit lead us in holiness and righteousness all our days; that, when we shall have served you in our generation, we may be gathered to our ancestors, having the testimony of a good conscience, in the communion of the Catholic Church, in the confidence of a certain faith, in the comfort of a religious and holy hope, in favor with you, our God, and in perfect charity with the world.  All this we ask through Jesus Christ our Lord.  Amen.
 
 O God, the King of saints, we praise and glorify your holy Name for all your servants who have finished their course in your faith and fear: for the blessed Virgin Mary; for the holy patriarchs, prophets, apostles, and martyrs; and for all your other righteous servants, known to us and unknown; and we pray that, encouraged by their examples, aided by their prayers, and strengthened by their fellowship, we also may be partakers of the inheritance of the saints in light; through the merits of your Son Jesus Christ our Lord. Amen.
 
-Lord Jesus Christ, by your death you took away thy sting of death:  Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you ad wake up in your likeness; for your tender mercies' sake.  Amen.
+Lord Jesus Christ, by your death you took away the sting of death:  Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies' sake.  Amen.
 
 Father of all, we pray to you for those we love, but see no longer: Grant them your peace; let light perpetual shine upon them; and, in your loving wisdom and almighty power, work in them the good purpose of your perfect will; through Jesus Christ our Lord.  Amen.
 
@@ -771,7 +790,7 @@ Merciful God, Father of our Lord Jesus Christ who is the Resurrection and the Li
 
 Grant, O Lord, to all who are bereaved the spirit of faith and courage, that they may have strength to meet the days to come with steadfastness and patience; not sorrowing as those without hope, but in thankful remembrance of your great goodness, and in the joyful expectation of eternal life with those they love.  And this we ask in the Name of Jesus Christ our Savior.  Amen.
 
-Almighty God, Father of mercies and giver of comfort: Deal graciously, we pray, with all who mourn; that, casting all their care on you, they may know the consolation of your love; through Je is received.  The celebrant may meet the body and conduct it into the church or chapel, or it may be in place before the congregation assembles.
+Almighty God, Father of mercies and giver of comfort: Deal graciously, we pray, with all who mourn; that, casting all their care on you, they may know the consolation of your love; through Jesus Christ our Lord. Amen. An Order for Burial When, for pastoral considerations, neither of the burial rites in this Book is deemed appropriate, the following form is used. 1. The body is received.  The celebrant may meet the body and conduct it into the church or chapel, or it may be in place before the congregation assembles.
 
 2.  Anthems from Holy Scripture or psalms may be sung or said, or a hymn may be sung.
 

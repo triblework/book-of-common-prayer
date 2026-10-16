@@ -1,5 +1,7 @@
 """wxa_reflow.py -- re-flow the hard-wrapped Prayers and Thanksgivings
-(ruling 8). DRY RUN ONLY: prints what it would join, writes nothing.
+(ruling 8). Run alone it is a dry run (prints what it would join, writes
+nothing); wxa_witness.expected() calls reflow() for stage 3, and
+`wxa_apply.py --stage 3 --write` writes the re-flowed cells (commit 3).
 
 All 81 prayers-and-thanksgivings cells carry the 1993 e-text's 60-column
 wrap as paragraph breaks (a blank line after every wrapped line), so each

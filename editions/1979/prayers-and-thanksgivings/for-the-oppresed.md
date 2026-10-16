@@ -1,4 +1,4 @@
-# For the Oppresed
+# For the Oppressed
 
 Look with pity, O heavenly Father, upon the people in this
 

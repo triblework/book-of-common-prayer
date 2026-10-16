@@ -47,11 +47,47 @@ sys.path.insert(0, HERE)
 from wxa_witness_items import ITEMS
 
 BASE = '710f635b7783f1e8188fa334ec75dca3e43a0220'
-GROUP_ORDER = ['MARKUP', 'WORDS', 'SPELLING', 'PASSAGES', 'HEADINGS',
-               'MEDIANT_STOPS', 'RUBRIC_STOPS', 'PUNCT', 'DOL_ROWS', 'DOL_FIX',
-               'DOL_MARKS', 'DOL_XMAS', 'DOL_DISPUTED']
-# Switched on by a ruling, never by default.
-ENABLED = []
+# The order is the commit order (R22: corrections, then markup in a commit
+# of its own, then the re-flow), so base + the groups of commits 1..n is
+# exactly the cells after commit n.
+GROUP_ORDER = ['WORDS', 'SPELLING', 'PASSAGES', 'HEADINGS', 'MEDIANT_STOPS',
+               'RUBRIC_STOPS', 'PUNCT', 'DOL_ROWS', 'DOL_FIX', 'DOL_MARKS',
+               'DOL_XMAS', 'DOL_DISPUTED', 'FLAGS', 'MARKUP']
+COMMIT1 = [g for g in GROUP_ORDER if g != 'MARKUP']
+COMMIT2 = COMMIT1 + ['MARKUP']
+# The wave's stages (R22): 1 corrections + restorations + DOL (and the new
+# Holy Days cell), 2 markup normalization, 3 the prayers' re-flow. STAGE is
+# the stage the cells are at; wxa_gates.py checks the cells against it.
+STAGE = 1
+NEW_CELLS = {'tables/daily-office-lectionary-holy-days.md': 1}
+REFLOW_DIR = 'prayers-and-thanksgivings/'
+
+
+def enabled(stage=None):
+    stage = STAGE if stage is None else stage
+    return [] if stage <= 0 else COMMIT1 if stage == 1 else COMMIT2
+
+
+def expected(rel, base, stage=None, book_words=None):
+    """The text a cell must have at `stage`: its branch-base text with the
+    groups of commits 1..stage applied, re-flowed at stage 3 (a prayers
+    cell), or for a new cell the text its generator writes."""
+    stage = STAGE if stage is None else stage
+    if rel in NEW_CELLS:
+        if stage < NEW_CELLS[rel]:
+            return None
+        import wxa_dol_extra
+        return wxa_dol_extra.build()[0]
+    text, _a, _s = apply(rel, base, enabled(stage), strict=False)
+    if stage >= 3 and rel.startswith(REFLOW_DIR):
+        import wxa_reflow
+        if book_words is None:
+            import wxa_book
+            book_words = wxa_book.Book().joined
+        text = wxa_reflow.reflow(text, book_words)[0]
+    return text
+# The groups the cells carry now (derived from STAGE).
+ENABLED = enabled()
 COMMENT = re.compile(r'<!--.*?-->', re.S)
 
 
@@ -76,27 +112,23 @@ def anchor_of(t):
     return ' '.join(COMMENT.sub('', t).split()[:8])
 
 
-def items_for(rel, groups):
+def items_for(rel, groups, items=None):
+    items = ITEMS if items is None else items
     for g in GROUP_ORDER:
         if g not in groups:
             continue
-        for it in ITEMS.get(g, []):
+        for it in items.get(g, []):
             if it['file'] == rel:
                 yield g, it
 
 
-def apply(rel, text, groups, strict=True):
-    """Apply the enabled groups to one cell's text (its branch-base text).
-    Each item: its paragraph is the base block at item['line'] whose first
-    words are item['anchor']; item['old'] must occur EXACTLY ONCE in that
-    paragraph's current text, or the item is stale and nothing is written
-    (strict) / it is skipped and reported (not strict).
-    -> (new text, applied [(group, id)], stale [(group, id, why)])"""
+def apply_blocks(rel, text, groups, items=None):
+    """-> (base blocks, current text of each base block, applied, stale)"""
     bl = blocks(text)
     by_line = {b[0]: i for i, b in enumerate(bl)}
     cur = [b[2] for b in bl]
     applied, stale = [], []
-    for g, it in items_for(rel, groups):
+    for g, it in items_for(rel, groups, items):
         i = by_line.get(it['line'])
         if i is None or anchor_of(bl[i][2]) != it['anchor']:
             stale.append((g, it['id'], 'paragraph not found at base line'))
@@ -107,6 +139,17 @@ def apply(rel, text, groups, strict=True):
             continue
         cur[i] = cur[i].replace(it['old'], it['new'], 1)
         applied.append((g, it['id']))
+    return bl, cur, applied, stale
+
+
+def apply(rel, text, groups, strict=True, items=None):
+    """Apply the enabled groups to one cell's text (its branch-base text).
+    Each item: its paragraph is the base block at item['line'] whose first
+    words are item['anchor']; item['old'] must occur EXACTLY ONCE in that
+    paragraph's current text, or the item is stale and nothing is written
+    (strict) / it is skipped and reported (not strict).
+    -> (new text, applied [(group, id)], stale [(group, id, why)])"""
+    bl, cur, applied, stale = apply_blocks(rel, text, groups, items)
     if stale and strict:
         raise SystemExit('wxa_witness: %d stale item(s) in %s, nothing '
                          'written: %s' % (len(stale), rel, stale[:3]))

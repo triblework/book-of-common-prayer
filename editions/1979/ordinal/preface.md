@@ -6,9 +6,13 @@ The Holy Scriptures and ancient Christian writers make it clear that from the ap
 
 The persons who are chosen and recognized by the Church as being called by God to the ordained ministry are admitted to these sacred orders by solemn prayer and the laying on of episcopal hands.  It has been, and is, the intention and purpose of this Church to maintain and continue these three orders; and for this purpose these services of ordination and consecration are appointed.  No persons are allowed to exercise the offices of bishop, priest, or deacon in this Church unless they are so ordained, or have already received such ordination with the laying on of hands by bishops who are themselves duly qualified to confer Holy Orders.
 
-It is also recognized and affirmed that the threefold ministry is not the exclusive property of this portion of Christ's catholic Church, but is a nt custom, it is desirable, if possible, that bishops be ordained on Sundays and other feasts of our Lord or on the feasts of apostles or evangelists.
+It is also recognized and affirmed that the threefold ministry is not the exclusive property of this portion of Christ's catholic Church, but is a gift from God for the nurture of his people and the proclamation of his Gospel everywhere. Accordingly, the manner of ordaining in this Church is to be such as has been, and is, most generally recognized by Christian people as suitable for the conferring of the sacred orders of bishop, priest, and deacon.
 
-When a bishop is to be ordained, the Presiding Bishop of this Church, or a bishop appointed by the Presiding Bishop, presides and serves as chief consecrator.  At least two other bishops are co-consecrators. Representatives of the presbyterate, diaconate, and laity of the diocese for which the new bishop is to be consecrated, are assigned appropriate duties in the service.
+## Concerning the Ordination of a Bishop
+
+In accordance with ancient custom, it is desirable, if possible, that bishops be ordained on Sundays and other feasts of our Lord or on the feasts of apostles or evangelists.
+
+When a bishop is to be ordained, the Presiding Bishop of the Church, or a bishop appointed by the Presiding Bishop, presides and serves as chief consecrator.  At least two other bishops serve as co-consecrators. Representatives of the presbyterate, diaconate, and laity of the diocese for which the new bishop is to be consecrated, are assigned appropriate duties in the service.
 
 From the beginning of the service until the Offertory, the chief consecrator presides from a chair placed close to the people, so that all may see and hear what is done.  The other bishops, or a convenient number of them, sit to the right and left of the chief consecrator.
 

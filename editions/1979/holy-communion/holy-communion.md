@@ -36,7 +36,7 @@ Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and 
 
 > Here is sung or said
 
-Lord, have mercy upon us. Christ, have mercy upon us. Lordhave mercy upon us.
+Lord, have mercy upon us. Christ, have mercy upon us. or Lord, have mercy upon us.
 
 > or
 
@@ -50,9 +50,9 @@ Holy God, Holy and Mighty, Holy Immortal One, Have mercy upon us.
 
 Glory be to God on high, and on earth peace, good will towards men.
 
-We praise thee, we bless the, we worship thee, we glorify thee, we give thanks to thee for thy great glory, O Lord God, heavenly King, God the Father Almighty.
+We praise thee, we bless thee, we worship thee, we glorify thee, we give thanks to thee for thy great glory, O Lord God, heavenly King, God the Father Almighty.
 
-O Lord, the only-begotten Son, Jesus Christ; O Lord God, Lamb of God, Son of the Father, that takest away the sins of the world, have mercy upon us. Thou that takes away the sins of the world, receive our prayer. Thou that sittest at the right hand of God the Father, have mercy upon us.
+O Lord, the only-begotten Son, Jesus Christ; O Lord God, Lamb of God, Son of the Father, that takest away the sins of the world, have mercy upon us. Thou that takest away the sins of the world, receive our prayer. Thou that sittest at the right hand of God the Father, have mercy upon us.
 
 For thou only art holy; thou only art the Lord; thou only, O Christ, with the Holy Ghost, art most high in the glory of God the Father.  Amen.
 
@@ -84,7 +84,7 @@ The Word of the Lord.
 
 **People* : Thanks be to God.
 
-*o to thee, O Lord.
+**People.** Glory be to thee, O Lord.
 
 > After the Gospel, the Reader says
 
@@ -98,7 +98,7 @@ The Gospel of the Lord.
 
 We believe in one God, the Father, the Almighty, maker of heaven and earth, of all that is, seen and unseen.
 
-We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heavan and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
+We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father. Through him all things were made. For us and for our salvation he came down from heaven: by the power of the Holy Spirit he became incarnate from the Virgin Mary, and was made man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
 
 We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son. With the Father and the Son he is worshiped and glorified. He has spoken through the Prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come.  Amen.
 
@@ -118,7 +118,7 @@ Let us pray for the whole state of Christ's Church and the world.
 
 > After each paragraph of this prayer, the People may make an appropriate response, as directed.
 
-Almighty and everliving God, who in thy holy Word hast taught us to make prayers, and supplications, and to give thanks for all men:  Receive these our prayers which we offer unto thy divine Magesty, beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord; and grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
+Almighty and everliving God, who in thy holy Word hast taught us to make prayers, and supplications, and to give thanks for all men:  Receive these our prayers which we offer unto thy divine Majesty, beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord; and grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
 
 Give grace, O heavenly Father, to all bishops and other ministers [especially &mdash.], that they may, both by their life and doctrine, set forth thy true and lively Word, and rightly and duly administer thy holy Sacraments.
 
@@ -126,17 +126,23 @@ And to all thy people give thy heavenly grace, and especially to this congregati
 
 We beseech thee also so to rule the hearts of those who bear the authority of government in this and every land [especially &mdash.], that they may be led to wise decisions and right actions for the welfare and peace of the world.
 
-Open, O Lord, the eyes of all people to behold thy gracious hand in all thy works, departed this life in thy faith and fear [especially &mdash.], beseeching thee to grant them continual growth in thy love and service; and to grant us grace so to follow the good examples of [&mdash. and of] all thy saints, that with them we may be partakers of thy heavenly kingdom.
+Open, O Lord, the eyes of all people to behold thy gracious hand in all thy works, that, rejoicing in thy whole creation, they may honor thee with their substance, and be faithful stewards of thy bounty.
+
+And we most humbly beseech thee, of thy goodness, O Lord, to comfort and succor [__________ and] all those who, in this transitory life, are in trouble, sorrow, need, sickness, or any other adversity.
+
+> Additional petitions and thanksgivings may be included here.
+
+And we also bless thy holy Name for all thy servants departed this life in thy faith and fear [especially &mdash.], beseeching thee to grant them continual growth in thy love and service; and to grant us grace so to follow the good examples of [&mdash. and of] all thy saints, that with them we may be partakers of thy heavenly kingdom.
 
 Grant these our prayers, O Father, for Jesus Christ's sake, our only Mediator and Advocate.  Amen.
 
-> If there is no celebration of the Communion, or if a priest is not available, the service is concluded as directed page 406.
+> If there is no celebration of the Communion, or if a priest is not available, the service is concluded as directed on page 406.
 
 ## Confession of Sin
 
 > A Confession of Sin is said here if it has not been said earlier.  On occasion, the Confession may be omitted.
 
-> The Deacon or Celebrant says the following, or else the Exhortation page 316.
+> The Deacon or Celebrant says the following, or else the Exhortation on page 316
 
 Ye who do truly and earnestly repent you of your sins, and are in love and charity with your neighbors, and intend to lead a new life, following the commandments of God, and walking from henceforth in his holy ways:  Draw near with faith, and make your humble confession to Almighty God, devoutly kneeling.
 
@@ -182,7 +188,11 @@ The peace of the Lord be always with you.
 
 ## The Holy Communion
 
-> The Celebrant may begin y or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
+> The Celebrant may begin the Offertory with one of the sentences on pages 343-344, or with some other sentence of Scripture.
+
+> During the Offertory, a hymn, psalm, or anthem may be sung.
+
+> Representatives of the congregation bring the people's offerings of bread and wine, and money or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
 
 ## The Great Thanksgiving
 
@@ -240,7 +250,7 @@ And we earnestly desire thy fatherly goodness mercifully to accept this our sacr
 
 And here we offer and present unto thee, O Lord, our selves, our souls and bodies, to be a reasonable, holy, and living sacrifice unto thee; humbly beseeching thee that we, and all others who shall be partakers of this Holy Communion, may worthily receive the most precious Body and Blood of thy Son Jesus Christ, be filled with thy grace and heavenly benediction, and made one body with him, that he may dwell in us, and we in him.
 
-And although we are unworthy, through our manifold sins, to off all honor and glory be unto thee, O Father Almighty, world without end.  AMEN.
+And although we are unworthy, through our manifold sins, to offer unto thee any sacrifice, yet we beseech thee to accept this our bounden duty and service, not weighing our merits, but pardoning our offenses, through Jesus Christ our Lord; By whom, and with whom, in the unity of the Holy Ghost, all honor and glory be unto thee, O Father Almighty, world without end.  AMEN.
 
 And now, as our Savior Christ hath taught us, we are bold to say,
 
@@ -280,7 +290,7 @@ The Gifts of God for the People of God.
 
 Take them in remembrance that Christ died for you, and feed on him in your hearts by faith, with thanksgiving.
 
-> The ministers receive the Sacrament in both kinds, and then immediately deliver it to the people
+> The ministers receive the Sacrament in both kinds, and then immediately deliver it to the people.
 
 > The Bread and the Cup are given to the communicants with these words
 
@@ -308,7 +318,11 @@ Let us pray.
 
 > The People may join in saying this prayer
 
-Almighty and everliving God, we most heartily thank thee for that thou dost feed us, in these holy mysteries, with the spiritual food of the most precious Body and Blood of thy Son our Savior Jesus Christ; and dost assure us thereby of thy favor and goodness towards us; and that we are very members incorporate in the mystical body of thy Son, the blessed company of all faithful people; and are also heirs, through hope, of thy everlasting kingdom.  And we humbly beseech thee, O heavenly Father, so to assist us with thy grace, that we may continue in that holy fellowship, and do all such good works as thou hast prepared for us to walk in; through Jesus Christ our Lord, to whom with Son Jesus Christ our Lord; and the blessing of God Almighty, the Father, the Son, and the Holy Ghost, be amongst you, and remain with you always.  Amen.
+Almighty and everliving God, we most heartily thank thee for that thou dost feed us, in these holy mysteries, with the spiritual food of the most precious Body and Blood of thy Son our Savior Jesus Christ; and dost assure us thereby of thy favor and goodness towards us; and that we are very members incorporate in the mystical body of thy Son, the blessed company of all faithful people; and are also heirs, through hope, of thy everlasting kingdom.  And we humbly beseech thee, O heavenly Father, so to assist us with thy grace, that we may continue in that holy fellowship, and do all such good works as thou hast prepared for us to walk in; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honor and glory, world without end. Amen.
+
+> The Bishop when present, or the Priest, gives the blessing
+
+The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord; and the blessing of God Almighty, the Father, the Son, and the Holy Ghost, be amongst you, and remain with you always.  Amen.
 
 > or this
 
@@ -360,9 +374,9 @@ The Lord be with you.
 
 **People* : It is meet and right so to do.
 
-> Then, facing the Holy Table, the Celbrant proceeds
+> Then, facing the Holy Table, the Celebrant proceeds
 
-It is very mee, right, and our bounden duty, that we should at all times, and in all places, give thanks unto thee, O Lord, holy Father, almighty, everlasting God.
+It is very meet, right, and our bounden duty, that we should at all times, and in all places, give thanks unto thee, O Lord, holy Father, almighty, everlasting God.
 
 > Here a Proper Preface is sung or said on all Sundays, and on other occasions as appointed.
 
@@ -394,7 +408,7 @@ And we most humbly beseech thee, O merciful Father, to hear us, and, with thy Wo
 
 And we earnestly desire thy fatherly goodness to accept this our sacrifice of praise and thanksgiving, whereby we offer and present unto thee, O Lord, our selves, our souls and bodies.  Grant, we beseech thee, that all who partake of this Holy Communion may worthily receive the most precious Body and Blood of thy Son Jesus Christ, and be filled with thy grace and heavenly benediction; and also that we and all thy whole Church may be made one body with him, that he may dwell in us, and we in him; through the same Jesus Christ our Lord;
 
-By whome, and with whom, and in whom, in the unity of the Holy Ghost all honor and glory be unto thee, O Father Almighty, world without end.  AMEN.
+By whom, and with whom, and in whom, in the unity of the Holy Ghost all honor and glory be unto thee, O Father Almighty, world without end.  AMEN.
 
 And now, as our Savior Christ hath taught us, we are bold to say,
 
@@ -448,7 +462,7 @@ Who by water and the Holy Spirit hast made us a new people in Jesus Christ our L
 
 > Advent
 
-Because thou didst send thy beloved Son to redeem us from sin and death, and to make us heirs in him of everlasting life; that when he shall come again in power and great triumph to judge the world, we man without shame or fear rejoice to behold his appearing.
+Because thou didst send thy beloved Son to redeem us from sin and death, and to make us heirs in him of everlasting life; that when he shall come again in power and great triumph to judge the world, we may without shame or fear rejoice to behold his appearing.
 
 > Incarnation
 
@@ -460,15 +474,19 @@ Because in the mystery of the Word made flesh, thou hast caused a new light to s
 
 > Lent
 
-Through Jesus Christ our Lord; who was in every way tempted as we are, yet did not sin; wy whose grace we are able to triumph over every evil, and to live no longer unto outselves, but unto him who died for us and rose again.
+Through Jesus Christ our Lord, who was in every way tempted as we are, yet did not sin; by whose grace we are able to triumph over every evil, and to live no longer unto ourselves, but unto him who died for us and rose again.
 
 > or this
 
-Who dost bid thy faithful people cleanse their hearts, and prepare with joy for the Paschal feast; that, fervent in prayer and in works of mercy, and renewed by thy Word and Sacraments, they may come to the fulness of grace which thou hast prepared for those who love thee.
+Who dost bid thy faithful people cleanse their hearts, and prepare with joy for the Paschal feast; that, fervent in prayer and in works of mercy, and renewed by thy Word and Sacraments, they may come to the fullness of grace which thou hast prepared for those who love thee.
 
 > Holy Week
 
-Through Jesus Christ our Lord; who for our sins was lifted high upon the cross, that he might draw the whole world to himself; who by his suffering and death became the author of eternal salvation for all who put their iced for us, and hath taken away the sin of the world; who by his death hath destroyed death, and by his rising to life again hath won for us everlasting life.
+Through Jesus Christ our Lord; who for our sins was lifted high upon the cross, that he might draw the whole world to himself; who by his suffering and death became the author of eternal salvation for all who put their trust in him.
+
+> Easter
+
+But chiefly are we bound to praise thee for the glorious resurrection of thy Son Jesus Christ our Lord; for he is the very Paschal Lamb, who was sacrificed for us, and hath taken away the sin of the world; who by his death hath destroyed death, and by his rising to life again hath won for us everlasting life.
 
 > Ascension
 
@@ -490,7 +508,7 @@ Who, in the multitude of thy saints, hast compassed us about with so great a clo
 
 > A Saint
 
-For the wonderful grace and virtue declared in all thy saints, who have been chosen vessels of thy grace, and the lights of the world in their generations.
+For the wonderful grace and virtue declared in all thy saints, who have been the chosen vessels of thy grace, and the lights of the world in their generations.
 
 > or this
 
@@ -498,7 +516,7 @@ Who in the obedience of thy saints hast given us an example of righteousness, an
 
 > or this
 
-Because thou are greatly glorified in the assembly of thy saints. All thy creatures praise thee, and thy faithful servants bless thee, confessing before the rulers of this world the great Name of thine only Son.
+Because thou art greatly glorified in the assembly of thy saints. All thy creatures praise thee, and thy faithful servants bless thee, confessing before the rulers of this world the great Name of thine only Son.
 
 > Apostles and Ordinations
 
@@ -506,7 +524,7 @@ Through the great shepherd of thy flock, Jesus Christ our Lord; who after his re
 
 > Dedication of a Church
 
-Through Jesus Christ our great High Priest; in whom we are build up as living stones of a holy temple, that we might offer before thee a sacrifice of praise and prayer which is holy and pleasing in thy sight.
+Through Jesus Christ our great High Priest, in whom we are built up as living stones of a holy temple, that we might offer before thee a sacrifice of praise and prayer which is holy and pleasing in thy sight.
 
 > Baptism
 
@@ -548,7 +566,17 @@ You shall not covet anything that belongs to your neighbor. Amen.  Lord have mer
 
 > The contemporary-language rite. Its Great Thanksgiving opens 'Lift up your hearts. / We lift them to the Lord.' with the acclamation 'Christ has died. Christ is risen. Christ will come again.'
 
-Th the Day of Pentecost*
+### The Word of God
+
+> A hymn, psalm, or anthem may be sung.
+
+> The people standing, the Celebrant says
+
+Blessed be God: Father, Son, and Holy Spirit.
+
+**People.** And blessed be his kingdom, now and for ever. Amen.
+
+> In place of the above, from Easter Day through the Day of Pentecost
 
 **Celebrant* : Alleluia.  Christ is risen.
 
@@ -576,7 +604,7 @@ For you alone are the Holy One, you alone are the Lord, you alone are the Most H
 
 > On other occasions the following is used
 
-Lord, have mercy. Christ, have mercy. Lord, have mercy.
+Lord, have mercy. Christ, have mercy. or Lord, have mercy.
 
 > or this
 
@@ -651,7 +679,11 @@ The welfare of the world
 
 The concerns of the local community
 
-Those who suffer and those in any tron page 383.*
+Those who suffer and those in any trouble
+
+The departed (with commemoration of a saint when appropriate)
+
+> See the forms beginning on page 383.
 
 > If there is no celebration of the Communion, or if a priest is not available, the service is concluded as directed on page 406.
 
@@ -671,7 +703,7 @@ Let us confess our sins against God and our neighbor.
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent. For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name.  Amen.
 
-> The Bishop, when present, or the Priest, stands and says
+> The Bishop when present, or the Priest, stands and says
 
 Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life.  Amen.
 
@@ -729,11 +761,11 @@ Holy, Holy, Holy Lord, God of power and might, heaven and earth are full of your
 
 > Then the Celebrant continues
 
-Holy and gracious Father: In your infinite love you made us for yourself, and, when we had fallen into sin and become subject to evil and death, you, in your mercy, sent Jesus Christ, your only and eternal Son, to share our human nature, to live and die as one of us, to reconcile us to you, the God and Father of all.
+Holy and gracious Father: In your infinite love you made us for yourself; and, when we had fallen into sin and become subject to evil and death, you, in your mercy, sent Jesus Christ, your only and eternal Son, to share our human nature, to live and die as one of us, to reconcile us to you, the God and Father of all.
 
-He stretched out his arms upon the cross, and offered himself, in obedience to your will, a perfect sacrifice for the whole world.
+He stretched out his arms upon the cross, and offered himself in obedience to your will, a perfect sacrifice for the whole world.
 
-> At the following words concerning the bread, the Celebrant is to hold it, or to lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated.
+> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated
 
 On the night he was handed over to suffering and death, our Lord Jesus Christ took bread; and when he had given thanks to you, he broke it, and gave it to his disciples, and said, "Take, eat: This is my Body, which is given for you.  Do this for the remembrance of me."
 
@@ -755,15 +787,15 @@ We celebrate the memorial of our redemption, O Father, in this sacrifice of prai
 
 Sanctify them by your Holy Spirit to be for your people the Body and Blood of your Son, the holy food and drink of new and unending life in him.  Sanctify us also that we may faithfully receive this holy Sacrament, and serve you in unity, constancy, and peace; and at the last day bring us with all your saints into the joy of your eternal kingdom.
 
-All this we ask through your Son Jesus Christ: By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever.  AMEN.
+All this we ask through your Son Jesus Christ. By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever.  AMEN.
 
-And now, as our Savior Christ has taught us, we are bold to day,
+And now, as our Savior Christ has taught us, we are bold to say,
 
 As our Savior Christ has taught us, we now pray,
 
 > People and Celebrant
 
-Our Father, who art in heaven, hallowed by thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And Forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen.
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And Forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen.
 
 Our Father in heaven, hallowed be your Name, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. Forgive us our sins as we forgive those who sin against us. Save us from the time of trial, and deliver us from evil. For the kingdom, the power, and the glory are yours, now and for ever. Amen.
 
@@ -789,7 +821,7 @@ The Gifts of God for the People of God.
 
 Take them in remembrance that Christ died for you, and feed on him in your hearts by faith, with thanksgiving.
 
-> The ministers rrates additional bread and wine, using the form on page 408.
+> The Celebrant consecrates additional bread and wine, using the form on page 408.
 
 > After Communion, the Celebrant says
 
@@ -803,7 +835,7 @@ Eternal God, heavenly Father, you have graciously accepted us as living members 
 
 Almighty and everliving God, we thank you for feeding us with the spiritual food of the most precious Body and Blood of your Son our Savior Jesus Christ; and for assuring us in these holy mysteries that we are living members of the Body of your Son, and heirs of your eternal kingdom. And now, Father, send us out to do the work you have given us to do, to love and serve you as faithful witnesses of Christ our Lord. To him, to you, and to the Holy Spirit, be honor and glory, now and for ever.  Amen.
 
-> The Bishop, when present, or the Priest, may bless the people.
+> The Bishop when present, or the Priest, may bless the people.
 
 > The Deacon, or the Celebrant, dismisses them with these words
 
@@ -837,7 +869,7 @@ Let us go forth in the name of Christ.
 
 ### Eucharistic Prayer B
 
-> The people remain standing.  The Celebrant, whether bishop or priest, faces them and says
+> The people remain standing.  The Celebrant, whether bishop or priest, faces them and sings or says
 
 The Lord be with you.
 
@@ -869,7 +901,7 @@ Holy, Holy, Holy Lord, God of power and might, heaven and earth are full of your
 
 We give thanks to you, O God, for the goodness and love which you have made known to us in creation; in the calling of Israel to be your people; in your Word spoken through the prophets; and above all in the Word made flesh, Jesus, your Son.  For in these last days you sent him to be incarnate from the Virgin Mary, to be the Savior and Redeemer of the world. In him, you have delivered us from evil, and made us worthy to stand before you.  In him, you have brought us out of error into truth, out of sin into righteousness, out of death into life.
 
-> At the following words concerning the bread, the Celebrant is to hold it, or to lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated.
+> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated
 
 On the night before he died for us, our Lord Jesus Christ took bread; and when he had given thanks to you, he broke it, and gave it to his disciples, and said, "Take, eat: This is my Body, which is given for you.  Do this for the remembrance of me."
 
@@ -881,7 +913,9 @@ Therefore, according to his command, O Father,
 
 We remember his death, We proclaim his resurrection, We await his coming in glory;
 
-pd of all; presenting to you, from your creation, this bread and this wine.
+> The Celebrant continues
+
+And we offer our sacrifice of praise and thanksgiving to you, O Lord of all; presenting to you, from your creation, this bread and this wine.
 
 We pray you, gracious God, to send your Holy Spirit upon these gifts that they may be the Sacrament of the Body of Christ and his Blood of the new Covenant.  Unite us to your Son in his sacrifice, that we may be acceptable through him, being sanctified by the Holy Spirit.  In the fullness of time, put all things in subjection under your Christ, and bring us to that heavenly country where, with [&mdash. and] all your saints, we may enter the everlasting heritage of your sons and daughters; through Jesus Christ our Lord, the firstborn of all creation, the head of the Church, and the author of our salvation.
 
@@ -913,7 +947,7 @@ At your command all things came to be: the vast expanse of interstellar space, g
 
 From the primal elements you brought forth the human race, and blessed us with memory, reason, and skill.  You made us the rulers of creation.  But we turned against you, and betrayed your trust; and we turned against one another. Have mercy, Lord, for we are sinners in your sight.
 
-Again and again, you called us to return.  Through prophets and sages you revealed your righteous Law.  And in the fullness of time you sent you only Son, born of a woman, to fulfill your Law, to open for is the way of freedom and peace. By his blood, he reconciled us. By his wounds, we are healed.
+Again and again, you called us to return.  Through prophets and sages you revealed your righteous Law.  And in the fullness of time you sent your only Son, born of a woman, to fulfill your Law, to open for us the way of freedom and peace. By his blood, he reconciled us. By his wounds, we are healed.
 
 And therefore we praise you, joining with the heavenly chorus, with prophets, apostles, and martyrs, and with all those in every generation who have looked to you in hope, to proclaim with them your glory, in their unending hymn:
 
@@ -925,7 +959,7 @@ Holy, Holy, Holy Lord, God of power and might, heaven and earth are full of your
 
 And so, Father, we who have been redeemed by him, and made a new people by water and the Spirit, now bring before you these gifts. Sanctify them by your Holy Spirit to be the Body and Blood of Jesus Christ our Lord.
 
-> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it, and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated.
+> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated
 
 On the night he was betrayed he took bread, said the blessing, broke the bread, and gave it to his friends, and said, "Take, eat: This is my Body, which is given for you.  Do this for the remembrance of me."
 
@@ -933,7 +967,7 @@ After supper, he took the cup of wine, gave thanks, and said, "Drink this, all o
 
 Remembering now his work of redemption, and offering to you this sacrifice of thanksgiving, We celebrate his death and resurrection, as we await the day of his coming.
 
-Lord God of our Fathers: God of Abraham, Isaac, and Jacob; God and Father of our Lord Jesus Christ: Open our eyes to see your hand at work in the world about us.  Deliver us from the presumption of coming to this Table for solace only, and not for strength; for pardon only, and not for renewal.  Let the grace of this Holy Communion make us one body, one spirit in Christ, that we may worthily serve the world in his r great High Priest, to whom, with you and the Holy Spirit, your Church gives honor, glory, and worship, from generation to generation.  AMEN.
+Lord God of our Fathers; God of Abraham, Isaac, and Jacob; God and Father of our Lord Jesus Christ: Open our eyes to see your hand at work in the world about us.  Deliver us from the presumption of coming to this Table for solace only, and not for strength; for pardon only, and not for renewal.  Let the grace of this Holy Communion make us one body, one spirit in Christ, that we may worthily serve the world in his name. Risen Lord, be known to us in the breaking of the Bread. Accept these prayers and praises, Father, through Jesus Christ our great High Priest, to whom, with you and the Holy Spirit, your Church gives honor, glory, and worship, from generation to generation.  AMEN.
 
 And now, as our Savior Christ has taught us, we are bold to say,
 
@@ -961,7 +995,7 @@ The Lord be with you.
 
 It is truly right to glorify you, Father, and to give you thanks; for you alone are God, living and true, dwelling in light inaccessible from before time and for ever.
 
-Fountain of life and source of all goodness, you made all things and fill them with your blessing; you created them to rejoice in the splendour of your radiance.
+Fountain of life and source of all goodness, you made all things and fill them with your blessing; you created them to rejoice in the splendor of your radiance.
 
 Countless throngs of angels stand before you to serve you night and day; and, beholding the glory of your presence, they offer you unceasing praise.  Joining with them, and giving voice to every creature under heaven, we acclaim you, and glorify your Name, as we sing (say),
 
@@ -979,7 +1013,7 @@ Father, you loved the world so much that in the fullness of time you sent your o
 
 And, that we might live no longer for ourselves, but for him who died and rose for us, he sent the Holy Spirit, his own first gift for those who believe, to complete his work in the world, and to bring to fulfillment the sanctification of all.
 
-> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it, and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated.
+> At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated
 
 When the hour had come for him to be glorified by you, his heavenly Father, having loved his own who were in the world, he loved them to the end; at supper with them he took bread, and when he had given thanks to you, he broke it, and gave it to his disciples, and said, "Take, eat: This is my Body, which is given for you.  Do this for the remembrance of me."
 
@@ -997,11 +1031,11 @@ Lord, we pray that in your goodness and mercy your Holy Spirit may descend upon 
 
 Grant that all who share this bread and cup may become one body and one spirit, a living sacrifice in Christ, to the praise of your Name.
 
-Remember, Lord, your one holy catholic and apostolic Church, redeemed by the blood of your Christ.  Reveal its unity, guard its faith, and preserve it in pearist, and those whose faith is known to you alone; bring them into the place of eternal joy and light.]
+Remember, Lord, your one holy catholic and apostolic Church, redeemed by the blood of your Christ.  Reveal its unity, guard its faith, and preserve it in peace. [Remember (NN. and) all who minister in your Church.] [Remember all your people, and those who seek your truth.] [Remember ___________.] [Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.]
 
-And grant that we may find our inheritance with [the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, (with &mdash.) and] all the saints whe have found favor with you in ages past.  We praise you in union with them and give you glory through your Son Jesus Christ our Lord.
+And grant that we may find our inheritance with [the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, (with &mdash.) and] all the saints who have found favor with you in ages past.  We praise you in union with them and give you glory through your Son Jesus Christ our Lord.
 
-Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and for ever.  AMEN.
+Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.  AMEN.
 
 And now, as our Savior Christ has taught us, we are bold to say,
 
@@ -1015,7 +1049,7 @@ As our Savior Christ has taught us, we now pray,
 
 Offer to God a sacrifice of thanksgiving, and make good your vows to the Most High.  Psalm 50:14
 
-Ascribe to the Lord the honor due his Name; bring offering and come into his courts.  Psalm 96:8
+Ascribe to the Lord the honor due his Name; bring offerings and come into his courts.  Psalm 96:8
 
 Walk in love, as Christ loved us and gave himself for us, an offering and sacrifice to God.  Ephesians 5:2
 
@@ -1023,11 +1057,11 @@ I appeal to you, brethren, by the mercies of God, to present yourselves as a liv
 
 If you are offering your gift at the altar, and there remember that your brother has something against you, leave your gift there before the altar and go; first be reconciled to your brother, and then come and offer your gift.  Matthew 5:23, 24
 
-Through Christ let us continually offer to God the sacrifice of praise, that is, the fruit of lips that acknowledge his Name. But do not neglect to do good and to share what you have, for such sacrifices are pleasing to God.  Hebrews 13:14, 15
+Through Christ let us continually offer to God the sacrifice of praise, that is, the fruit of lips that acknowledge his Name. But do not neglect to do good and to share what you have, for such sacrifices are pleasing to God.  Hebrews 13:15
 
 O Lord our God, you are worthy to receive glory and honor and power; because you have created all things, and by your will they were created and have their being.  Revelation 4:11
 
-Yours, O Lord, is the greatness, the power, the glory, the victor, and the majesty.  For everything in heaven and on earth is yours.  Yours, O Lord, is the kingdom, and you are exalted as head over all.  1 Chronicles 19:11
+Yours, O Lord, is the greatness, the power, the glory, the victory, and the majesty.  For everything in heaven and on earth is yours.  Yours, O Lord, is the kingdom, and you are exalted as head over all.  1 Chronicles 29:11
 
 > or this bidding
 
@@ -1041,7 +1075,7 @@ Let us with gladness present the offerings and oblations of our life and labor t
 
 > 1.  Of God the Father
 
-For you are the source of light and life, you made is in your image, and called us to new life in Jesus Christ our Lord.
+For you are the source of light and life; you made us in your image, and called us to new life in Jesus Christ our Lord.
 
 > or this
 
@@ -1057,7 +1091,7 @@ For by water and the Holy Spirit you have made us a new people in Jesus Christ o
 
 ### Prefaces for Seasons
 
-> To be used on Sundays, and weekdays alike, except as otherwise appointed for Holy Days and Various Occasions
+> To be used on Sundays and weekdays alike, except as otherwise appointed for Holy Days and Various Occasions
 
 ### Advent
 
@@ -1069,7 +1103,7 @@ Because you gave Jesus Christ, your only Son, to be born for us; who, by the mig
 
 ### Epiphany
 
-Because in the mystery of the Word made flesh, you have caused a new light to shine in not sin.  By his grace we are able to triumph over every evil, and to live no longer for ourselves alone, but for him who died for us and rose again.
+Because in the mystery of the Word made flesh, you have caused a new light to shine in our hearts, to give the knowledge of your glory in the face of your Son Jesus Christ our Lord. Lent Through Jesus Christ our Lord, who was tempted in every way as we are, yet did not sin.  By his grace we are able to triumph over every evil, and to live no longer for ourselves alone, but for him who died for us and rose again.
 
 > or this
 
@@ -1101,7 +1135,7 @@ For with your co-eternal Son and Holy Spirit, you are one God, one Lord, in Trin
 
 ### All Saints
 
-For in the multitudeof your saints you have surrounded us with a great cloud of witnesses, that we might rejoice in their fellowship, and run with endurance the race that is set before us; and, together with them, receive the crown of glory that never fades away.
+For in the multitude of your saints, you have surrounded us with a great cloud of witnesses, that we might rejoice in their fellowship, and run with endurance the race that is set before us; and, together with them, receive the crown of glory that never fades away.
 
 ### A Saint
 
@@ -1121,7 +1155,7 @@ Through the great shepherd of your flock, Jesus Christ our Lord; who after his r
 
 ### Dedication of a Church
 
-Through Jesus Christ our great High Priest; in whom we are built up as living stones of a holy temple, that we might offer before you a sacrifice of praise and prayer which is holy and pleasing in your sight.
+Through Jesus Christ our great High Priest, in whom we are built up as living stones of a holy temple, that we might offer before you a sacrifice of praise and prayer which is holy and pleasing in your sight.
 
 ### Baptism
 
@@ -1133,7 +1167,7 @@ Because in the love of wife and husband, you have given us an image of the heave
 
 Commemoration of the Dead
 
-Through Jesus Cepared for us a dwelling place eternal in the heavens.
+Through Jesus Christ our Lord; who rose victorious from the dead, and doth comfort us with the blessed hope of everlasting life; for to thy faithful people, O Lord, life is changed, not ended; and when our mortal body doth lie in death, there is prepared for us a dwelling place eternal in the heavens.
 
 ### The Prayers of the People
 
@@ -1201,7 +1235,7 @@ That we may end our lives in faith and hope, without suffering and without repro
 
 In the communion of [&mdash. and of all the] saints, let us commend ourselves, and one another, and all our life, to Christ our God. To thee, O Lord our God.
 
-> Silence.
+> Silence
 
 > The Celebrant adds a concluding Collect.
 
@@ -1227,7 +1261,19 @@ Pray for those in any need or trouble.
 
 > Silence
 
-I ask your prayers for all who sembers of the congregation may ask the prayers or the thanksgivings of those present
+I ask your prayers for all who seek God, or a deeper knowledge of him.
+
+Pray that they may find and be found by him.
+
+> Silence
+
+I ask your prayers for the departed [especially __________ ].
+
+Pray for those who have died.
+
+> Silence
+
+> Members of the congregation may ask the prayers or the thanksgivings of those present
 
 I ask your prayers for &mdash..
 
@@ -1249,7 +1295,7 @@ Pray that we may have grace to glorify Christ in our own day.
 
 Father, we pray for your holy Catholic Church; That we all may be one.
 
-Grant that every member of the Church may truly and humbly serve you; That your Name may be glorified by al people.
+Grant that every member of the Church may truly and humbly serve you; That your Name may be glorified by all people.
 
 We pray for all bishops, priests, and deacons; That they may be faithful ministers of your Word and Sacraments.
 
@@ -1259,7 +1305,7 @@ Give us grace to do your will in all that we undertake; That our works may find 
 
 Have compassion on those who suffer from any grief or trouble; That they may be delivered from their distress.
 
-Give to the departed eternal rest. Let light perpetual shine upon them.
+Give to the departed eternal rest; Let light perpetual shine upon them.
 
 We praise you for your saints who have entered into joy; May we also come to share in your heavenly kingdom.
 
@@ -1321,7 +1367,7 @@ Lord, in your mercy Hear our prayer.
 
 In peace, let us pray to the Lord, saying, "Lord, have mercy" (or "Kyrie eleison").
 
-For the holy Church of God, that it may be filled with truth and love, and be found without fault at the day of your coming, we pray to your, O Lord.
+For the holy Church of God, that it may be filled with truth and love, and be found without fault at the day of your coming, we pray to you, O Lord.
 
 > Here and after every petition the People respond
 
@@ -1333,9 +1379,9 @@ For all who fear God and believe in you, Lord Christ, that our divisions may cea
 
 For the mission of the Church, that in faithful witness it may preach the Gospel to the ends of the earth, we pray to you, O Lord.
 
-[[For those who do not yet believe, and for those who have lost their  faith, we that they may receive the light of the Gospel, we pray to  you, O Lord.]]
+[[For those who do not yet believe, and for those who have lost their  faith, that they may receive the light of the Gospel, we pray to  you, O Lord.]]
 
-For the peace of the world, that a spirit of respecty serve justice, and promote the dignity and freedom of every person, we pray to you, O Lord.
+For the peace of the world, that a spirit of respect and forbearance may grow among nations and peoples, we pray to you, O Lord. For those in positions of public trust [especially _________ ], that they may serve justice, and promote the dignity and freedom of every person, we pray to you, O Lord.
 
 [[For all who live and work in this community [especially &mdash.],  we pray to you, O Lord.]]
 
@@ -1345,7 +1391,7 @@ For the poor, the persecuted, the sick, and all who suffer; for refugees, prison
 
 For this congregation [for those who are present, and for those who are absent], that we may be delivered from hardness of heart, and show forth your glory in all that we do, we pray to you, O Lord.
 
-[[For our enemies and those who wish us harm, and for all whom we have  injured or offended, we pray to you, O Lord.]]
+[[For our enemies and those who wish us harm; and for all whom we have  injured or offended, we pray to you, O Lord.]]
 
 [[For ourselves; for the forgiveness of our sins, and for the grace of  the Holy Spirit to amend our lives, we pray to you, O Lord.]]
 
@@ -1367,7 +1413,7 @@ For yours is the majesty, O Father, Son, and Holy Spirit; yours is the kingdom a
 
 > The Leader and People pray responsively
 
-In peace, we pray to your, Lord God.
+In peace, we pray to you, Lord God.
 
 > Silence
 
@@ -1417,7 +1463,15 @@ Have mercy upon us, most merciful Father; in your compassion forgive us our sins
 
 > The Celebrant concludes with an absolution or a suitable Collect.
 
-The Collec the Church;
+### The Collect at the Prayers
+
+> For the concluding Collect, the Celebrant selects
+
+(a) a Collect appropriate to the Season or occasion being celebrated;
+
+(b) a Collect expressive of some special need in the life of the local congregation;
+
+(c) a Collect for the mission of the Church;
 
 (d) a general Collect such as the following:*
 
@@ -1427,7 +1481,7 @@ Lord, hear the prayers of thy people; and what we have asked faithfully, grant t
 
 ### 2
 
-Heavenly Father, you have promised to hear what we ask in the Name of your Son: Accept and fulfill our petitions, we pray, not as we ask in our ignorance, nor as we deserve in our sinfulness, but as your know and love us in your Son Jesus Christ our Lord.  Amen.
+Heavenly Father, you have promised to hear what we ask in the Name of your Son: Accept and fulfill our petitions, we pray, not as we ask in our ignorance, nor as we deserve in our sinfulness, but as you know and love us in your Son Jesus Christ our Lord.  Amen.
 
 ### 3
 
@@ -1435,7 +1489,7 @@ Almighty and eternal God, ruler of all things in heaven and earth: Mercifully ac
 
 ### 4
 
-Almighty God, to whom our needs are known before we ask: Help us to ask only what accords with your will; and those good things which we dare not, or in our blindness cannot ask, grant us for the save of your Son Jesus Christ our Lord. Amen.
+Almighty God, to whom our needs are known before we ask, Help us to ask only what accords with your will; and those good things which we dare not, or in our blindness cannot ask, grant us for the sake of your Son Jesus Christ our Lord. Amen.
 
 ### 5
 
@@ -1443,7 +1497,7 @@ O Lord our God, accept the fervent prayers of your people; in the multitude of y
 
 ### 6
 
-Lord Jesus Christ, you said to your apostles, "Peace I give to you; my own peace I leave with you:" Regard not our sins, but the faith of your Church, and give to us the peace and unity of that heavenly City, where with the Father and the Holy Spirit you live and reign, now and for ever.  Amen.
+Lord Jesus Christ, you said to your apostles, "Peace I give to you; my own peace I leave with you:" Regard not our sins, but the faith of your Church, and give to us the peace and unity of that heavenly City, where with the Father and the Holy Spirit, you live and reign, now and for ever.  Amen.
 
 ### 7
 

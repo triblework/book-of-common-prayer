@@ -10,7 +10,7 @@ time and harvest,
 
 for the increase of the ground and the gathering in of its fruits,
 
-and for all other blessings of thy merciful providence
+and for all the other blessings of thy merciful providence
 
 bestowed upon this nation and people.  And, we beseech thee,
 

@@ -1,0 +1,296 @@
+{
+ "cell": "tables/daily-office-lectionary-holy-days.md",
+ "rows": [
+  {
+   "row": "St. Andrew (November 30)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "St. Andrew; November 30"
+  },
+  {
+   "row": "St. Thomas (December 21)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "St. Thomas; December 21"
+  },
+  {
+   "row": "St. Stephen (December 26)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "St. Stephen; December 26"
+  },
+  {
+   "row": "St. John (December 27)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "St. John; December 27"
+  },
+  {
+   "row": "Holy Innocents (December 28)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "Holy Innocents; December 28"
+  },
+  {
+   "row": "Confession of St. Peter (January 18)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "Confession of St. Peter; January 18"
+  },
+  {
+   "row": "Conversion of St. Paul (January 25)",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "Conversion of St. Paul; January 25"
+  },
+  {
+   "row": "Eve of the Presentation",
+   "source": "carrier",
+   "page": 996,
+   "etext_entry": "Eve of the Presentation"
+  },
+  {
+   "row": "The Presentation (February 2)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "The Presentation; February 2"
+  },
+  {
+   "row": "St. Matthias (February 24)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "St. Matthias; February 24"
+  },
+  {
+   "row": "St. Joseph (March 19)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "St. Joseph; March 19"
+  },
+  {
+   "row": "Eve of the Annunciation",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "Eve of the Annunciation"
+  },
+  {
+   "row": "Annunciation (March 25)",
+   "source": "witness",
+   "page": 997,
+   "etext_entry": null
+  },
+  {
+   "row": "St. Mark (April 25)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "St. Mark; April 25"
+  },
+  {
+   "row": "SS. Philip & James (May 1)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "SS. Philip & James; May 1"
+  },
+  {
+   "row": "Eve of the Visitation",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "Eve of the Visitation"
+  },
+  {
+   "row": "The Visitation (May 31)",
+   "source": "carrier",
+   "page": 997,
+   "etext_entry": "The Visitation; May 31"
+  },
+  {
+   "row": "St. Barnabas (June 11)",
+   "source": "witness",
+   "page": 998,
+   "etext_entry": "St. Barnabas; June 11"
+  },
+  {
+   "row": "Eve of St. John the Baptist",
+   "source": "witness",
+   "page": 998,
+   "etext_entry": null
+  },
+  {
+   "row": "Nativity of St. John the Baptist (June 24)",
+   "source": "witness",
+   "page": 998,
+   "etext_entry": null
+  },
+  {
+   "row": "SS. Peter & Paul (June 29)",
+   "source": "carrier",
+   "page": 998,
+   "etext_entry": "SS. Peter & Paul; June 29"
+  },
+  {
+   "row": "Independence Day (July 4)",
+   "source": "carrier",
+   "page": 998,
+   "etext_entry": "Independence Day; July 4"
+  },
+  {
+   "row": "St. Mary Magdalene (July 22)",
+   "source": "carrier",
+   "page": 998,
+   "etext_entry": "St. Mary Magdalene; July 22"
+  },
+  {
+   "row": "St. James (July 25)",
+   "source": "carrier",
+   "page": 998,
+   "etext_entry": "St. James; July 25"
+  },
+  {
+   "row": "Eve of the Transfiguration",
+   "source": "witness",
+   "page": 998,
+   "etext_entry": "Eve of the Tranfiguration"
+  },
+  {
+   "row": "The Transfiguration (August 6)",
+   "source": "witness",
+   "page": 998,
+   "etext_entry": null
+  },
+  {
+   "row": "St. Mary the Virgin (August 15)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. Mary the Virgin; August 15"
+  },
+  {
+   "row": "St. Bartholomew (August 24)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. Bartholomew; August 24"
+  },
+  {
+   "row": "Eve of Holy Cross",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "Eve of Holy Cross"
+  },
+  {
+   "row": "Holy Cross Day (September 14)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "Holy Cross Day; September 14"
+  },
+  {
+   "row": "St. Matthew (September 21)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. Matthew; September 21"
+  },
+  {
+   "row": "St. Michael & All Angels (September 29)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. Michael & All Angels; September 29"
+  },
+  {
+   "row": "St. Luke (October 18)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. Luke; October 18"
+  },
+  {
+   "row": "St. James of Jerusalem (October 23)",
+   "source": "carrier",
+   "page": 999,
+   "etext_entry": "St. James of Jerusalem; October 23"
+  },
+  {
+   "row": "SS. Simon & Jude (October 28)",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "SS. Simon & Jude; October 28"
+  },
+  {
+   "row": "Eve of All Saints",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "Eve of All Saints"
+  },
+  {
+   "row": "All Saints' Day (November 1)",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "All Saints' Day; November 1"
+  },
+  {
+   "row": "Thanksgiving Day",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "Thanksgiving Day"
+  },
+  {
+   "row": "Eve of the Dedication",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "Eve of the Dedication"
+  },
+  {
+   "row": "Anniversary of the Dedication of a Church",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "Anniversary of the Dedication of a Church"
+  },
+  {
+   "row": "Eve of the Patronal Feast",
+   "source": "carrier",
+   "page": 1000,
+   "etext_entry": "Eve of the Patronal Feast"
+  },
+  {
+   "row": "The Patronal Feast",
+   "source": "carrier",
+   "page": 1001,
+   "etext_entry": "The Patronal Feast"
+  },
+  {
+   "row": "Eves of Apostles and Evangelists",
+   "source": "carrier",
+   "page": 1001,
+   "etext_entry": "Eves of Apostles and Evangelists"
+  },
+  {
+   "row": "Footnote",
+   "source": "witness+carrier",
+   "page": 1001,
+   "etext_entry": "* Except on the Eve of St. Thomas"
+  },
+  {
+   "row": "Footnote",
+   "source": "witness+carrier",
+   "page": 1001,
+   "etext_entry": "** Except on the Eves of St. Mark and St. Luke"
+  }
+ ],
+ "flags": [
+  [
+   "St. Mary Magdalene (July 22)",
+   "Mark 15:14-20",
+   "the witness (Church Publishing's PDF, p. 998) prints 'Mark 15:47-16:7'; no second check settles it; carried as the e-text prints it (R11 addendum)"
+  ],
+  [
+   "All Saints' Day (November 1)",
+   "148, 150",
+   "the witness (Church Publishing's PDF, p. 1000) prints '48, 150'; no second check settles it; carried as the e-text prints it (R11 addendum)"
+  ]
+ ],
+ "counts": {
+  "rows-from-carrier": 37,
+  "witness-supplied-row": 4,
+  "rows-from-witness": 6,
+  "carrier-damaged-row-from-witness": 2,
+  "disputed-flagged": 2,
+  "witness-evident-kept": 1,
+  "punct-from-witness": 1
+ }
+}

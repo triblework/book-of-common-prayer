@@ -49,6 +49,7 @@ Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 33 | Isa. 9:18-10:4 |
 Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Isa. 10:5-19 | 2 Pet. 2:17-22 | Matt. 11:2-15
 
 Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Isa. 10:20-27 | Jude 17-25 | Luke 3:19
+<!-- VERIFY: 'Luke 3:19'; the witness (Church Publishing's PDF, p. 938) prints 'Luke 3:1-9'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 ### Week of 4 Advent
 
@@ -70,13 +71,13 @@ Christmas Eve | Morning Psalms:  | Evening Psalms: 89:1-29 | Isa. 59:15b-21 | Ph
 
 ### Christmas Day and Following
 
-Christmas Day | Morning Psalms: 2,85 | Evening Psalms: 110:1-1(6-7),132 | Zech. 2:10-13 | 1 John 4:7-16 | John 3:31-26
+Christmas Day | Morning Psalms: 2,85 | Evening Psalms: 110:1-5(6-7), 132 | Zech. 2:10-13 | 1 John 4:7-16 | John 3:31-36
 
-First Sunday after Christmas | Morning Psalms: 93,96 | Evening Psalms: 34 | Isa. 62:6-7,10-12 | Heb 2: 10-18 | Matt. 1:18-25
+First Sunday after Christmas | Morning Psalms: 93,96 | Evening Psalms: 34 | Isa. 62:6-7,10-12 | Heb. 2:10-18 | Matt. 1:18-25
 
 Dec. 29 | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50[*] | Isa. 12:1-6 | Rev. 1:1-8 | John 7:37-52
 
-Dec. 30 | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 23,27 | Isa 25:1-9 | Rev. 1:9-20 | John 7:53-8:11
+Dec. 30 | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 23,27 | Isa. 25:1-9 | Rev. 1:9-20 | John 7:53-8:11
 
 Dec. 31 | Morning Psalms: 46,48 | Evening Psalms:  | Isa. 26:1-9 | 2 Cor. 5:16-6:2 | John 8:12-19
 
@@ -88,15 +89,19 @@ Second Sunday after Christmas | Morning Psalms: 66,67 | Evening Psalms: 145 | Ec
 
 Jan. 2 | Morning Psalms: 34 | Evening Psalms: 33 | Gen. 12:1-7 | Heb. 11:1-12 | John 6:35-42,48-51
 
-Jan. 3 | Morning Psalms: 68 | Evening Psalms: 72[*] | Gen. 28:10-22 | Heb. 11:13-22 | John 10:7-17
+Jan. 3 | Morning Psalms: 68 | Evening Psalms: 72** | Gen. 28:10-22 | Heb. 11:13-22 | John 10:7-17
 
-Jan. 4 | Morning Psalms: 85,87 | Evening Psalms: 89:1-29 [**] | Exod. 3:1-12 | Heb. 11:23-31 | John 14:6-14
+Jan. 4 | Morning Psalms: 85,87 | Evening Psalms: 89:1-29 | Exod. 3:1-12 | Heb. 11:23-31 | John 14:6-14
 
 Jan. 5 | Morning Psalms: 2, 110:1-5(6-7) | Evening Psalms:  | Joshua 1:1-9 | Heb. 11:32-12:2 | John 15:1-16
+
+Eve of Epiphany | Morning Psalms:  | Evening Psalms: 29, 98 | Isa. 66:18-23 | Rom. 15:7-13
 
 ### The Epiphany and Following
 
 Epiphany | Morning Psalms: 46, 97 | Evening Psalms: 96,100 | Isa. 52:7-10 | Rev. 21:22-27 | Matt. 12:14-21
+
+Jan. 7 | Morning Psalms: * 103 | Evening Psalms: 114, 115 | Isa. 52:3-6 | Rev. 2:1-7 | John 2:1-11
 
 Jan. 8 | Morning Psalms: 117, 118 | Evening Psalms: 112, 113 | Isa. 59:15-21 | Rev. 2:8-17 | John 4:46-54
 
@@ -108,7 +113,7 @@ Jan. 11 | Morning Psalms: 148, 150 | Evening Psalms: 91,92 | Isa. 65:13-16 | Rev
 
 Jan. 12 | Morning Psalms: 98, 99, [100] | Evening Psalms:  | Isa. 66:1-2,22-23 | Rev. 3:14-22 | John 9:1-12,35-38
 
-Eve of 1 Epiphany | Morning Psalms:  | Evening Psalms: 104 | Isa. 61:1-9 | Gal. 3:23-29, 4:4-7
+Eve of 1 Epiphany | Morning Psalms:  | Evening Psalms: 104 | Isa. 61:1-9 | Gal. 3:23-29; 4:4-7
 
 ### Week of 1 Epiphany
 
@@ -198,11 +203,17 @@ Monday | Morning Psalms: 89:1-18 | Evening Psalms: 89:19-52 | Isa. 63:1-6 | 1 Ti
 
 Tuesday | Morning Psalms: 97, 99, [100] | Evening Psalms: 94, [95] | Isa. 63:7-14 | 1 Tim. 1:18-2:8 | Mark 11:12-26
 
-Wednesday | Morning Psalms: 101, 109:1-4(5-19)20-30 | Evening Psalms: 119:121-144 | Isa 63:15-64:9 | 1 Tim. 3:1-16 | Mark 11:27-12:12
+Wednesday | Morning Psalms: 101, 109:1-4(5-19)20-30 | Evening Psalms: 119:121-144 | Isa. 63:15-64:9 | 1 Tim. 3:1-16 | Mark 11:27-12:12
 
 Thursday | Morning Psalms: 105:1-22 | Evening Psalms: 105:23-45 | Isa. 65:1-12 | 1 Tim. 4:1-16 | Mark 12:13-27
 
-Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | Isa. 65:a. 66:7-14 | 1 John 3:4-10 | John 10:7-16
+Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | Isa. 65:17-25 | 1 Tim 5:17-22(23-25) | Mark 12:28-34
+
+Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | Isa. 66:1-6 | 1 Tim. 6:6-21 | Mark 12:35-44
+
+### Week of 7 Epiphany
+
+Sunday | Morning Psalms: 118 | Evening Psalms: 145 | Isa. 66:7-14 | 1 John 3:4-10 | John 10:7-16
 
 Monday | Morning Psalms: 106:1-18 | Evening Psalms: 106:19-48 | Ruth 1:1-14 | 2 Cor. 1:1-11 | Matt. 5:1-12
 
@@ -215,6 +226,7 @@ Thursday | Morning Psalms: 131, 132, [133] | Evening Psalms: 134, 135 | Ruth 2:1
 Friday | Morning Psalms: 140, 142 | Evening Psalms: 141, 143:1-11(12) | Ruth 3:1-18 | 2 Cor. 4:1-12 | Matt. 5:38-48
 
 Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 104 | Ruth 4:1-17 | 2 Cor. 4:13-5:10 | Matt. 6:1-16
+<!-- VERIFY: 'Matt. 6:1-16'; the witness (Church Publishing's PDF, p. 948) prints 'Matt. 6:1-6'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 ### Week of 8 Epiphany
 
@@ -236,9 +248,9 @@ Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116,
 
 Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Deut. 6:1-9 | Heb. 12:18-29 | John 12:24-32
 
-Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Deut. 6:10-15 | Heb 1:1-14 | John 1:1-18
+Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Deut. 6:10-15 | Heb. 1:1-14 | John 1:1-18
 
-Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Deut. 6:16-25 | Heb 2:1-10 | John 1:19-28
+Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Deut. 6:16-25 | Heb. 2:1-10 | John 1:19-28
 
 Ash Wednesday | Morning Psalms: 95[*] && 32,143 | Evening Psalms: 102,130 | Jonah 3:1-4:11 | Heb. 12:1-14 | Luke 18:9-14
 
@@ -258,7 +270,7 @@ Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Deut. 9:4-12 | Heb. 3:1-1
 
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Deut. 9:13-21 | Heb. 3:12-19 | John 2:23-3:15
 
-Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 19, 46 | Deut. 9:23-10:5 | Heb: 4:1-10 | John 3:16-21
+Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 19, 46 | Deut. 9:23-10:5 | Heb. 4:1-10 | John 3:16-21
 
 Friday | Morning Psalms: 95[*] && 40,54 | Evening Psalms: 51 | Deut. 10:12-22 | Heb. 4:11-16 | John 3:22-36
 
@@ -310,7 +322,13 @@ Thursday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Jer. 22:13
 
 Friday | Morning Psalms: 95[*] && 102 | Evening Psalms: 107:1-32 | Jer. 23:1-8 | Rom. 8:28-39 | John 6:52-59
 
-Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13)onday: 31 | Evening Psalms: 35 | Jer. 24:1-10 | Rom. 9:19-23 | John 9:1-17
+Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | Jer. 23:9-15 | Rom. 9:1-18 | John 6:60-71
+
+### Week of 5 Lent
+
+Sunday | Morning Psalms: 118 | Evening Psalms: 145 | Jer. 23:16-32 | 1 Cor. 9:19-27 | Mark 8:31-9:1
+
+Monday | Morning Psalms: 31 | Evening Psalms: 35 | Jer. 24:1-10 | Rom. 9:19-33 | John 9:1-17
 
 Tuesday | Morning Psalms: [120], 121, 122, 123 | Evening Psalms: 124, 125, 126, [127] | Jer. 25:8-17 | Rom. 10:1-13 | John 9:18-41
 
@@ -324,27 +342,29 @@ Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 42, 43 | Jer. 31:
 
 ### Holy Week
 
-Palm Sunday | Morning Psalms: 24, 29 | Evening Psalms: 103 | Zech. 9:9-12[*] or Zech. 12:9-11,13:1,7-9[*] | 1 Tim. 6:12-16[] | Matt. 21:12-17[**]
+Palm Sunday | Morning Psalms: 24, 29 | Evening Psalms: 103 | Zech. 9:9-12** or Zech. 12:9-11, 13:1, 7-9*** | 1 Tim. 6:12-16** | Matt. 21:12-17***
 
 Monday | Morning Psalms: 51:1-18(19-20) | Evening Psalms: 69:1-23 | Jer. 12:1-16 | Phil. 3:1-14 | John 12:9-19
 
 Tuesday | Morning Psalms: 6, 12 | Evening Psalms: 94 | Jer. 15:10-21 | Phil. 3:15-21 | John 12:20-26
 
-Wednesday | Morning Psalms: 55 | Evening Psalms: 74 | Jer. 17:5-10, 14-17 | Phil. 4:1-13 | John 12:27-26
+Wednesday | Morning Psalms: 55 | Evening Psalms: 74 | Jer. 17:5-10, 14-17 | Phil. 4:1-13 | John 12:27-36
 
-Maundy Thursday | Morning Psalms: 102 | Evening Psalms: 142, 143 | Jer. 20:7-11 | 1 Cor. 10:14-17, 11:27-32 | John 17:1-11(12-26)
+Maundy Thursday | Morning Psalms: 102 | Evening Psalms: 142, 143 | Jer. 20:7-11 | 1 Cor. 10:14-17; 11:27-32 | John 17:1-11(12-26)
 
-Good Friday | Morning Psalms: 95[*] && 22 | Evening Psalms: 40:1-14(15-19),54 | Wisdom 1:16-2:1,12-22 or Gen. 22:1-14 | 1 Peter 1:10-20 | John 13:36- 38[*] or John 19:38-42[**]
+Good Friday | Morning Psalms: 95[*] && 22 | Evening Psalms: 40:1-14(15-19),54 | Wisdom 1:16-2:1,12-22 or Gen. 22:1-14 | 1 Peter 1:10-20 | John 13:36-38** or John 19:38-42***
 
-Holy Saturday | Morning Psalms: 95[**] && 88 | Evening Psalms: 27 | Job 19:21-27a | Heb. 4:1-16[*] | Rom. 8:1-11[**]
+Holy Saturday | Morning Psalms: 95* & 88 | Evening Psalms: 27 | Job 19:21-27a | Heb. 4:1-16** | Rom. 8:1-11***
 
 ### Easter Week
 
-Easter Day | Morning Psalms: 148, 149, 150 | Evening Psalms: 113, 114, or 118 | Exod. 12:1-14[*] or Isa. 51:9-11[*] | John 1:1-18[] or Luke 24:13-35[*], or John 20:19-23[**]
+Easter Day | Morning Psalms: 148, 149, 150 | Evening Psalms: 113, 114, or 118 | Exod. 12:1-14** | John 1:1-18** | Isa. 51:9-11*** | Luke 24:13-35, or John 20:19-23***
+<!-- VERIFY: 'Exod. 12:1-14** | John 1:1-18**'; row regenerated from the witness (Church Publishing's PDF, p. 958), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page -->
 
 Monday | Morning Psalms: 93, 98 | Evening Psalms: 66 | Jonah 2:1-9 | Acts 2:14,22-32[*] | John 14:1-14
 
 Tuesday | Morning Psalms: 103 | Evening Psalms: 111, 114 | Isa. 30:18-21 | Acts 2:26-41(42-47)[*] | John 14:15-31
+<!-- VERIFY: 'Acts 2:26-41(42-47)[*]'; the witness (Church Publishing's PDF, p. 958) prints 'Acts 2:36-41(42-47)*'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Wednesday | Morning Psalms: 97, 99 | Evening Psalms: 115 | Micah 7:7-15 | Acts 3:1-10[*] | John 15:1-11
 
@@ -366,7 +386,7 @@ Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Dan. 2:17-30
 
 Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Dan. 2:31-49 | 1 John 2:18-29 | Luke 3:1-14
 
-Friday | Morning Psalms: 16, 17 | Evening Psalms: 134, 135 | Dan 3:1-18 | 1 John 3:1-10 | Luke 3:15-22
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 134, 135 | Dan. 3:1-18 | 1 John 3:1-10 | Luke 3:15-22
 
 Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Dan. 3:19-30 | 1 John 3:11-18 | Luke 4:1-13
 
@@ -392,13 +412,13 @@ Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | Wisdom 1:1-15 |
 
 Monday | Morning Psalms: 41,52 | Evening Psalms: 44 | Wisdom 1:16-2:11,21-24 | Col. 1:1-14 | Luke 6:1-11
 
-Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Wisdom 3:1-9 | Col 1:15-23 | Luke 6:12-26
+Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Wisdom 3:1-9 | Col. 1:15-23 | Luke 6:12-26
 
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Wisdom 4:16-5:8 | Col. 1:24-2:7 | Luke 6:27-38
 
 Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 114, 115 | Wisdom 5:9-23 | Col. 2:8-23 | Luke 6:39-49
 
-Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Wisdom 6:12-23 | Col 3:1-11 | Luke 7:1-17
+Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Wisdom 6:12-23 | Col. 3:1-11 | Luke 7:1-17
 
 Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Wisdom 7:1-14 | Col. 3:12-17 | Luke 7:18-28(29-30)31-35
 
@@ -406,7 +426,11 @@ Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Wisdom 7:1
 
 Sunday | Morning Psalms: 24, 29 | Evening Psalms: 8, 84 | Wisdom 7:22-8:1 | 2 Thess. 2:13-17 | Matt. 7:7-14
 
-Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | 119:73-96 Wisdom 13:1-9 | Rom 13:1-14 | Luke 8:16-25
+Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | Wisdom 9:1, 7-18 | Col. (3:18-4:1)2-18 | Luke 7:36-50
+
+Tuesday | Morning Psalms: 61, 62 | Evening Psalms: 68:1-20(21-23)24-36 | Wisdom 10:1-4(5-12)13-21 | Rom. 12:1-21 | Luke 8:1-15
+
+Wednesday | Morning Psalms: 72 | Evening Psalms: 119:73-96 | Wisdom 13:1-9 | Rom. 13:1-14 | Luke 8:16-25
 
 Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Wisdom 14:27-15:3 | Rom. 14:1-12 | Luke 8:26-39
 
@@ -500,13 +524,17 @@ Friday | Morning Psalms: 31 | Evening Psalms: 35 | Deut. 5:1-22 | 2 Cor. 4:1-12 
 
 Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Deut. 5:22-33 | 2 Cor. 4:13-5:10 | Luke 16:19-31
 
-### Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)
+### Proper 4 (Week of the Sunday closest to June 1)
 
-<!-- VERIFY: 'Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)'; the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed -->
+Sunday | Morning Psalms: 63:1-8(9-11), 98 | Evening Psalms: 103 | Deut. 11:1-12 | Rev. 10:1-11 | Matt. 13:44-58
+
+Monday | Morning Psalms: 41, 52 | Evening Psalms: 44 | Deut. 11:13-19 | 2 Cor. 5:11-6:2 | Luke 17:1-10
+
+Tuesday | Morning Psalms: 45 | Evening Psalms: 47, 48 | Deut. 12:1-12 | 2 Cor. 6:3-13 (14-7:1) | Luke 17:11-19
 
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Deut. 13:1-11 | 2 Cor. 7:2-16 | Luke 17:20-37
 
-Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 8, 84 | Deut. 16:18-20, 17:14-20 | 2 Cor. 8:1-16 | Luke 18:1-8
+Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 8, 84 | Deut. 16:18-20; 17:14-20 | 2 Cor. 8:1-16 | Luke 18:1-8
 
 Friday | Morning Psalms: 40, 54 | Evening Psalms: 51 | Deut. 26:1-11 | 2 Cor. 8:16-24 | Luke 18:9-14
 
@@ -560,7 +588,7 @@ Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | 1 Samuel 9:1-14 | Acts
 
 Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | 1 Samuel 9:15-10:1 | Acts 7:30-43 | Luke 22:39-51
 
-### Proper 8 (=Week of Sunday closest to June 29)
+### Proper 8 (Week of the Sunday closest to June 29)
 
 Sunday | Morning Psalms: 118 | Evening Psalms: 145 | 1 Samuel 10:1-16 | Rom. 4:13-25 | Matt. 21:23-32
 
@@ -604,8 +632,11 @@ Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | 1 Samuel 20:1-23 | 
 
 Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | 1 Samuel 20:24-42 | Acts 13:1-12 | Mark 2:23-3:6
 
-Friday | Morning Psalms: 31 | Evening Psalms: Week of the Sunday closest to July 20
-<!-- VERIFY: 'Year One / Proper 10 (Week of the Sunday closest to July 13) / Friday'; the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Friday | Morning Psalms: 31 | Evening Psalms: 35 | 1 Samuel 21:1-15 | Acts 13:13-25 | Mark 3:7-19a
+
+Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | 1 Samuel 22:1-23 | Acts 13:26-43 | Mark 3:19b-35
+
+### Proper 11 (Week of the Sunday closest to July 20)
 
 Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | 1 Samuel 23:7-18 | Rom. 11:33-12:2 | Matt. 25:14-30
 
@@ -640,10 +671,11 @@ Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | 2 Samuel 5:22-6:11 
 ### Proper 13 (Week of the Sunday closest to August 3)
 
 Sunday | Morning Psalms: 93, 96 | Evening Psalms: 34 | 2 Samuel 6:12-23 | Rom. 4:7-12 | John 1:43-51
+<!-- VERIFY: 'Rom. 4:7-12'; the witness (Church Publishing's PDF, p. 978) prints 'Rom. 14:7-12'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | 2 Samuel 7:1-17 | Acts 18:1-11 | Mark 8:11-21
 
-Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | 2 Samuel 7:18-29 | Acts 18:12-28 | Mark 8:22-33
+Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | 2 Samuel 7:18-29 | Acts 18:12-28 | Mark. 8:22-33
 
 Wednesday | Morning Psalms: 119:97-120 | Evening Psalms: 81, 82 | 2 Samuel 9:1-13 | Acts 19:1-10 | Mark 8:34-9:1
 
@@ -678,12 +710,13 @@ Monday | Morning Psalms: 106:1-18 | Evening Psalms: 106:19-48 | 2 Samuel 17:24-1
 Tuesday | Morning Psalms: [120], 121, 122, 123 | Evening Psalms: 124, 125, 126, [127] | 2 Samuel 18:9-18 | Acts 23:12-24 | Mark 11:27-12:12
 
 Wednesday | Morning Psalms: 119:145-176 | Evening Psalms: 128, 129, 130 | 2 Samuel 18:19-23 | Acts 23:23-35 | Mark 12:13-27
+<!-- VERIFY: '2 Samuel 18:19-23'; the witness (Church Publishing's PDF, p. 980) prints '2 Samuel 18:19-33'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Thursday | Morning Psalms: 131, 132, [133] | Evening Psalms: 134, 135 | 2 Samuel 19:1-23 | Acts 24:1-23 | Mark 12:28-34
 
 Friday | Morning Psalms: 140, 142 | Evening Psalms: 141, 143:1-11(12) | 2 Samuel 19:24-43 | Acts 24:24-25:12 | Mark 12:35-44
 
-Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 104 | 2 Samuel 23:1-17,13-17 | Acts 25:13-27 | Mark 13:1-13
+Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 104 | 2 Samuel 23:1-7, 13-17 | Acts 25:13-27 | Mark 13:1-13
 
 ### Proper 16 (Week of the Sunday closest to August 24)
 
@@ -707,8 +740,11 @@ Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | 1 Kings 8:22
 
 Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | 2 Chron. 6:32-7:7 | James 2:1-13 | Mark 14:53-65
 
-Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | 1 Kings 8:65-9:9 | James 2:14-26 | Mark 1437:1-18; 37:19-42 1 Kings 11:1-13 | James 3:13-4:12 | Mark 15:12-21
-<!-- VERIFY: 'Mark 15:12-21'; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | 1 Kings 8:65-9:9 | James 2:14-26 | Mark 14:66-72
+
+Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | 1 Kings 9:24-10:13 | James 3:1-12 | Mark 15:1-11
+
+Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | 1 Kings 11:1-13 | James 3:13-4:12 | Mark 15:12-21
 
 Friday | Morning Psalms: 31 | Evening Psalms: 35 | 1 Kings 11:26-43 | James 4:13-5:6 | Mark 15:22-32
 
@@ -733,6 +769,7 @@ Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | 1 Kings 18
 ### Proper 19 (Week of the Sunday closest to September 14)
 
 Sunday | Morning Psalms: 24, 29 | Evening Psalms: 8, 84 | 1 Kings 19:8-21 | Acts 5:34-42 | John 11:45-47
+<!-- VERIFY: 'John 11:45-47'; the witness (Church Publishing's PDF, p. 984) prints 'John 11:45-57'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | 1 Kings 21:1-16 | 1 Cor. 1:1-19 | Matt. 4:1-11
 
@@ -749,6 +786,7 @@ Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | 2 Kings 2:1-18 | 1 
 ### Proper 20 (Week of the Sunday closest to September 21)
 
 Sunday | Morning Psalms: 93, 96 | Evening Psalms: 34 | 2 Kings 4:8-37 | Acts 9:10-31 | Luke 3:7-18
+<!-- VERIFY: 'Acts 9:10-31'; the witness (Church Publishing's PDF, p. 984) prints 'Acts 9:10-32'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | 2 Kings 5:1-19 | 1 Cor. 4:8-21 | Matt. 5:21-26
 
@@ -757,6 +795,7 @@ Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | 2 Kings 5:19-27 |
 Wednesday | Morning Psalms: 119:97-120 | Evening Psalms: 81, 82 | 2 Kings 6:1-23 | 1 Cor. 5:9-6:8 | Matt. 5:38-48
 
 Thursday | Morning Psalms: [83] or 146, 147 | Evening Psalms: 85, 86 | 2 Kings 9:1-16 | 1 Cor. 6:12-20 | Matt. 6:1-6,16-18
+<!-- VERIFY: '[83] or 146, 147'; the witness (Church Publishing's PDF, p. 984) prints '[83] or 116, 117'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) -->
 
 Friday | Morning Psalms: 88 | Evening Psalms: 91, 92 | 2 Kings 9:17-37 | 1 Cor. 7:1-9 | Matt. 6:7-15
 
@@ -776,7 +815,7 @@ Thursday | Morning Psalms: 105:1-22 | Evening Psalms: 105:23-45 | 2 Kings 18:28-
 
 Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | 2 Kings 19:1-20 | 1 Cor. 9:16-27 | Matt. 8:1-17
 
-Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | 2 Kings 19:21-36 | 1 Cor. 10:1-13 | Matt:8:18-27
+Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | 2 Kings 19:21-36 | 1 Cor. 10:1-13 | Matt. 8:18-27
 
 ### Proper 22 (Week of the Sunday closest to October 5)
 
@@ -806,8 +845,13 @@ Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Jer. 37:3-21
 
 Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Jer. 38:1-13 | 1 Cor. 14:26-33a,37-40 | Matt. 10:34-42
 
-Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Jer. 38:14-28 | 1 Cor. 15:1-11 | M. 29:1,4-14 | Acts 16:6-15 | Luke 10:1-12,17-20
-<!-- VERIFY: 'Luke 10:1-12,17-20'; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Jer. 38:14-28 | 1 Cor. 15:1-11 | Matt. 11:1-6
+
+Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | 2 Kings 25:8-12, 22-26 | 1 Cor. 15:12-29 | Matt. 11:7-15
+
+### Proper 24 (Week of the Sunday closest to October 19)
+
+Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Jer. 29:1, 4-14 | Acts 16:6-15 | Luke 10:1-12, 17-20
 
 Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Jer. 44:1-14 | 1 Cor. 15:30-41 | Matt. 11:16-24
 
@@ -817,7 +861,7 @@ Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | Lam. 2:8-15 | 1 Cor
 
 Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Ezra 1:1-11 | 1 Cor. 16:1-9 | Matt. 12:15-21
 
-Friday | Morning Psalms: 31 | Evening Psalms: 35 | Ezra 3:1-13 | 1 Cor 16:10-24 | Matt. 12:22-32
+Friday | Morning Psalms: 31 | Evening Psalms: 35 | Ezra 3:1-13 | 1 Cor. 16:10-24 | Matt. 12:22-32
 
 Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Ezra 4:7,11-24 | Philemon 1-25 | Matt. 12:33-42
 
@@ -831,7 +875,8 @@ Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Ezra 5:1-17 | Rev. 4:1-11
 
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Ezra 6:1-22 | Rev. 5:1-10 | Matt. 13:10-17
 
-Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 33 | Neh. 1-1:11 | Rev. 5:11-6:11 | Matt. 13:18-23
+Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 33 | Neh. 1:1-11 | Rev. 5:11-6:11 | Matt. 13:18-23
+<!-- VERIFY: '[59,60] or 33'; the witness (Church Publishing's PDF, p. 990) prints '[59,  60] or 103'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) -->
 
 Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Neh. 2:1-20 | Rev. 6:12-7:4 | Matt. 13:24-30
 
@@ -849,7 +894,7 @@ Wednesday | Morning Psalms: 72 | Evening Psalms: 119:73-96 | Neh. 13:4-22 | Rev.
 
 Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Ezra 7:(1-10)11-26 | Rev. 14:1-13 | Matt. 14:1-12
 
-Friday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Ezra 7:27-28, 8:21-36 | Rev. 15:1-8 | Matt. 14:13-21
+Friday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Ezra 7:27-28; 8:21-36 | Rev. 15:1-8 | Matt. 14:13-21
 
 Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | Ezra 9:1-15 | Rev. 17:1-14 | Matt. 14:22-36
 
@@ -867,7 +912,7 @@ Thursday | Morning Psalms: [83] or 23,27 | Evening Psalms: 85, 86 | 1 Macc. 1:1-
 
 Friday | Morning Psalms: 88 | Evening Psalms: 91, 92 | 1 Macc. 1:41-63 | Rev. 19:11-16 | Matt. 16:13-20
 
-Saturday | Morning Psalms: 87, 90 | Evening Psalms: 136 | 1 Macc. 2:1-28 | Rev. 20:1-6 | Mark 16:21-28
+Saturday | Morning Psalms: 87, 90 | Evening Psalms: 136 | 1 Macc. 2:1-28 | Rev. 20:1-6 | Matt. 16:21-28
 
 ### Proper 28 (Week of the Sunday closest to November 16)
 
@@ -911,8 +956,13 @@ Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Amos 2:6-16 | 2 Pet. 1
 
 Tuesday | Morning Psalms: 5, 6 | Evening Psalms: 10, 11 | Amos 3:1-11 | 2 Pet. 1:12-21 | Matt. 21:12-22
 
-Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Amos 3:12-4:5 | 2 Pet. 3:1-10 | M Amos 5:18-27 | Jude 17-25 | Matt. 22:15-22
-<!-- VERIFY: 'Matt. 22:15-22'; the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Amos 3:12-4:5 | 2 Pet. 3:1-10 | Matt. 21:23-32
+
+Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Amos 4:6-13 | 2 Pet. 3:11-18 | Matt. 21:33-46
+
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Amos 5:1-17 | Jude 1-16 | Matt. 22:1-14
+
+Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Amos 5:18-27 | Jude 17-25 | Matt. 22:15-22
 
 ### Week of 2 Advent
 
@@ -921,6 +971,7 @@ Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Amos 6:1-14 
 Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Amos 7:1-9 | Rev. 1:1-8 | Matt. 22:23-33
 
 Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Amos 7:10-17, 24-25 | Rev. 1:9-16 | Matt. 22:34-46
+<!-- VERIFY: 'Amos 7:10-17, 24-25'; the witness (Church Publishing's PDF, p. 937) prints 'Amos 7:10-17'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | Amos 8:1-14 | Rev. 1:17-2:7 | Matt. 23:1-12
 
@@ -929,6 +980,7 @@ Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Amos 9:1-10 | Re
 Friday | Morning Psalms: 31 | Evening Psalms: 35 | Haggai 1:1-15 | Rev. 2:18-29 | Matt. 23:27-39
 
 Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Haggai 2:1-19 | Rev. 3:1-6 | Matt. 24:1-14
+<!-- VERIFY: 'Haggai 2:1-19'; the witness (Church Publishing's PDF, p. 937) prints 'Haggai 2:1-9'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 ### Week of 3 Advent
 
@@ -948,7 +1000,7 @@ Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Zech. 8:9-
 
 ### Week of 4 Advent
 
-Sunday | Morning Psalms: 24,29 | Evening Psalms: 8,84 | Gen 3:18-15 | Rev. 12:1-10 | John 3:16-21
+Sunday | Morning Psalms: 24,29 | Evening Psalms: 8,84 | Gen. 3:8-15 | Rev. 12:1-10 | John 3:16-21
 
 Monday | Morning Psalms: 61,62 | Evening Psalms: 112,115 | Zeph. 3:14-20 | Titus 1:1-16 | Luke 1:1-25
 
@@ -966,19 +1018,19 @@ Christmas Eve | Morning Psalms:  | Evening Psalms: 89:1-29 | Isa. 59:15b-21 | Ph
 
 ### Christmas Day and Following
 
-Christmas Day | Morning Psalms: 2,85 | Evening Psalms: 110:1-1(6-7),132 | Micah 4:1-5,5:2-4 | 1 John 4:7-16 | John 3:31-26
+Christmas Day | Morning Psalms: 2,85 | Evening Psalms: 110:1-5(6-7), 132 | Micah 4:1-5; 5:2-4 | 1 John 4:7-16 | John 3:31-36
 
-First Sunday after Christmas | Morning Psalms: 93,96 | Evening Psalms: 34 | 1 Samuel 1:1-2,7b-28 | Heb 2: 10-18 | Matt. 1:18-25
+First Sunday after Christmas | Morning Psalms: 93,96 | Evening Psalms: 34 | 1 Samuel 1:1-2,7b-28 | Col. 1:9-20 | Luke 2:22-40
 
-Dec. 29 | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50[*] | 2 Samuel 23:13-17b | Rev. 1:1-8 | John 7:37-52
+Dec. 29 | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50[*] | 2 Samuel 23:13-17b | 2 John 1-13 | John 2:1-11
 
-Dec. 30 | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 23,27 | 1 Kings 17:17-24 | Rev. 1:9-20 | John 7:53-8:11
+Dec. 30 | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 23,27 | 1 Kings 17:17-24 | 3 John 1-15 | John 4:46-54
 
-Dec. 31 | Morning Psalms: 46,48 | Evening Psalms:  | 1 Kings 3:5-14 | 2 Cor. 5:16-6:2 | John 8:12-19
+Dec. 31 | Morning Psalms: 46,48 | Evening Psalms:  | 1 Kings 3:5-14 | James 4:13-17; 5:7-11 | John 5:1-15
 
 Eve of Holy Name | Morning Psalms:  | Evening Psalms: 90 | Isa. 65:15b-25 | Rev. 21:1-6
 
-Holy Name | Morning Psalms: 103 | Evening Psalms: 148 | Isa. 62:1-5,10-12 | Col. 2:6-12 | John 16:23b-30
+Holy Name | Morning Psalms: 103 | Evening Psalms: 148 | Isa. 62:1-5,10-12 | Rev. 19:11-16 | Matt. 1:18-25
 
 Second Sunday after Christmas | Morning Psalms: 66,67 | Evening Psalms: 145 | Wisdom 7:3-14 | Col. 3:12-17 | John 6:41-47
 
@@ -996,17 +1048,19 @@ Eve of Epiphany | Morning Psalms:  | Evening Psalms: 29,98 | Isa. 66: 18-23 | Ro
 
 Epiphany | Morning Psalms: 46, 97 | Evening Psalms: 96,100 | Isa. 49:1-7 | Rev. 21:22-27 | Matt. 12:14-21
 
+Jan. 7 | Morning Psalms: 103 | Evening Psalms: 114, 115 | Deut. 8:1-3 | Col. 1:1-14 | John 6:30-33, 48-51
+
 Jan. 8 | Morning Psalms: 117, 118 | Evening Psalms: 112, 113 | Exod. 17:1-7 | Col. 1:15-23 | John 7:37-52
 
 Jan. 9 | Morning Psalms: 121, 122, 123 | Evening Psalms: 131, 132 | Isa. 45:14-19 | Col. 1:24-2:7 | John 8:12-19
 
 Jan. 10 | Morning Psalms: 138, 139:1-17(18-23) | Evening Psalms: 147 | Jer. 23:1-8 | Col. 2:8-23 | John 10:7-17
 
-Jan. 11 | Morning Psalms: 148, 150 | Evening Psalms: 91,92 | Isa. 55:3-9 | Col 3:1-17 | John 14:6-14
+Jan. 11 | Morning Psalms: 148, 150 | Evening Psalms: 91,92 | Isa. 55:3-9 | Col. 3:1-17 | John 14:6-14
 
-Jan. 12 | Morning Psalms: 98, 99, [100] | Evening Psalms:  | Gen. 49:1-2,8-12 | Col 3:18-4:6 | John 15:1-16
+Jan. 12 | Morning Psalms: 98, 99, [100] | Evening Psalms:  | Gen. 49:1-2,8-12 | Col. 3:18-4:6 | John 15:1-16
 
-Eve of 1 Epiphany | Morning Psalms:  | Evening Psalms: 104 | Isa. 61:1-9 | Gal. 3:23-29, 4:4-7
+Eve of 1 Epiphany | Morning Psalms:  | Evening Psalms: 104 | Isa. 61:1-9 | Gal. 3:23-29; 4:4-7
 
 ### Week of 1 Epiphany
 
@@ -1014,8 +1068,13 @@ Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Gen. 1:1-2:3
 
 Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Gen. 2:4-9(10-15)16-25 | Heb. 1:1-14 | John 1:1-18
 
-Tuesday | Morning Psalms: 5, 6 | Evening Psalms: 10, 11 | Gen. 3:1-24. 3:12-19 | John 2:1-12
-<!-- VERIFY: 'John 2:1-12'; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Tuesday | Morning Psalms: 5, 6 | Evening Psalms: 10, 11 | Gen. 3:1-24 | Heb. 2:1-10 | John 1:19-28
+
+Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Gen. 4:1-16 | Heb. 2:11-18 | John 1:(29-34)35-42
+
+Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Gen. 4:17-26 | Heb. 3:1-11 | John 1:43-51
+
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Gen. 6:1-8 | Heb. 3:12-19 | John 2:1-12
 
 Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Gen. 6:9-22 | Heb. 4:1-13 | John 2:13-22
 
@@ -1095,20 +1154,19 @@ Wednesday | Morning Psalms: 101, 109:1-4(5-19)20-30 | Evening Psalms: 119:121-14
 
 Thursday | Morning Psalms: 105:1-22 | Evening Psalms: 105:23-45 | Gen. 32:3-21 | 1 John 2:18-29 | John 10:19-30
 
-Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | 32:22-33:17 | 1 John 3:1-10 | John 10:31-42
+Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | Gen. 32:22-33:17 | 1 John 3:1-10 | John 10:31-42
 
 Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | Gen. 35:1-20 | 1 John 3:11-18 | John 11:1-16
 
 ### Week of 7 Epiphany
 
-Sunday | Morning Psalms: 118 | Evening Psalms: 145 | Prov. 1:20-33 | 2 Cor. 5:11-21 Mark 10:35-45
-<!-- VERIFY: '2 Cor. 5:11-21 Mark 10:35-45'; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Sunday | Morning Psalms: 118 | Evening Psalms: 145 | Prov. 1:20-33 | 2 Cor. 5:11-21 | Mark 10:35-45
 
 Monday | Morning Psalms: 106:1-18 | Evening Psalms: 106:19-48 | Prov. 3:11-20 | 1 John 3:18-4:6 | John 11:17-29
 
-Tuesday | Morning Psalms: [120], 121, 122, 123 | Evening Psalms: 124, 125, 126, [127] | Rov. 4:1-27 | 1 Joh 4:7-21 | John 11:30-44
+Tuesday | Morning Psalms: [120], 121, 122, 123 | Evening Psalms: 124, 125, 126, [127] | Prov. 4:1-27 | 1 John 4:7-21 | John 11:30-44
 
-Wednesday | Morning Psalms: 119:145-176 | Evening Psalms: 128, 129, 130 | Prov. 6:1-19 | 1 Joh 5:1-12 | John 11:45-54
+Wednesday | Morning Psalms: 119:145-176 | Evening Psalms: 128, 129, 130 | Prov. 6:1-19 | 1 John 5:1-12 | John 11:45-54
 
 Thursday | Morning Psalms: 131, 132, [133] | Evening Psalms: 134, 135 | Prov. 7:1-27 | 1 John 5:13-21 | John 11:55-12:8
 
@@ -1118,17 +1176,23 @@ Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 104 | Prov. 8:22-
 
 ### Week of 8 Epiphany
 
-Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Prov. 9:1-12 | 2 Cor. 9.6b-15 | Mark 10:46-52
+Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Prov. 9:1-12 | 2 Cor. 9:6b-15 | Mark 10:46-52
 
 Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Prov. 10:1-12 | 2 Tim. 1:15-2:13 | John 12:27-36a
 
 Tuesday | Morning Psalms: 5, 6 | Evening Psalms: 10, 11 | Prov. 15:16-33 | 2 Tim. 2:14-26 | John 12:36b-50
 
-Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Prov. 17:1-20 | 2 Tim. 3:1-17 | John 13:1-20
+Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Prov. 17:1-20 | 2 Tim 3:1-17 | John 13:1-20
 
 Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Prov. 21:30-22:6 | 2 Tim. 4:1-8 | John 13:21-30
 
-Friday | Morning Psalms: 16, 17day: 148, 149, 150 | Evening Psalms: 114, 115 | Ecclus. 48:1-11 | 2 Cor. 3:7-18 | Luke 9:18-27
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Prov. 23:19-21, 29-24:2 | 2 Tim. 4:9-22 | John 13:31-38
+
+Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Prov. 25:15-28 | Phil. 1:1-11 | John 18:1-14
+
+### Week of Last Epiphany
+
+Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Ecclus. 48:1-11 | 2 Cor. 3:7-18 | Luke 9:18-27
 
 Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Prov. 27:1-6,10-12 | Phil. 2:1-13 | John 18:15-18,25-27
 
@@ -1140,11 +1204,11 @@ Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Hab. 3:1-10(11-1
 
 Friday | Morning Psalms: 95[*] && 31 | Evening Psalms: 35 | Ezek. 18:1-4,25-32 | Phil. 4:1-9 | John 17:9-19
 
-Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Exek. 39:21-29 | Phil. 4:10-20 | John 17:20-26
+Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Ezek. 39:21-29 | Phil. 4:10-20 | John 17:20-26
 
 ### Week of 1 Lent
 
-Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | Dan 9:3-10 | Heb. 2:10-18 | John 12:44-50
+Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | Dan. 9:3-10 | Heb. 2:10-18 | John 12:44-50
 
 Monday | Morning Psalms: 41,52 | Evening Psalms: 44 | Gen. 37:1-11 | 1 Cor. 1:1-19 | Mark 1:1-13
 
@@ -1168,7 +1232,7 @@ Tuesday | Morning Psalms: 61, 62 | Evening Psalms: 68:1-20(21-23)24-36 | Gen. 42
 
 Wednesday | Morning Psalms: 72 | Evening Psalms: 119:73-96 | Gen. 42:18-28 | 1 Cor. 5:9-6:8 | Mark 4:1-20
 
-Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Gen. 42:29-38 | 1 Cor. 6:12-30 | Mark 4:21-34
+Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Gen. 42:29-38 | 1 Cor. 6:12-20 | Mark 4:21-34
 
 Friday | Morning Psalms: 95[*] && 69:1-23(24-30)31-38 | Evening Psalms: 73 | Gen. 43:1-15 | 1 Cor. 7:1-9 | Mark 4:35-41
 
@@ -1231,15 +1295,19 @@ Monday | Morning Psalms: 51:1-18(19-20) | Evening Psalms: 69:1-23 | Lam. 1:1-2,6
 Tuesday | Morning Psalms: 6, 12 | Evening Psalms: 94 | Lam. 1:17-22 | 2 Cor. 1:8-22 | Mark 11:27-33
 
 Wednesday | Morning Psalms: 55 | Evening Psalms: 74 | Lam. 2:1-9, 14-17 | 2 Cor. 1:23-2:11 | Mark 12:1-11
+<!-- VERIFY: 'Lam. 2:1-9, 14-17'; the witness (Church Publishing's PDF, p. 957) prints 'Lam. 2:1-9'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
-Maundy Thursday | Morning Psalms: 102 | Evening Psalms: 142, 143 | Lam. 2:10-18 | 1 Cor. 10:14-17,- 42[*]
-<!-- VERIFY: '1 Cor. 10:14-17,- 42[*]'; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Maundy Thursday | Morning Psalms: 102 | Evening Psalms: 142, 143 | Lam. 2:10-18 | 1 Cor. 10:14-17; 11:27-32 | Mark 14:12-25
+<!-- VERIFY: 'Lam. 2:10-18 | 1 Cor. 10:14-17; 11:27-32'; row regenerated from the witness (Church Publishing's PDF, p. 957), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page -->
 
-Holy Saturday | Morning Psalms: 95[*] && 88 | Evening Psalms: 27 | Lam. 3:37-58 | Heb. 4:1-16[*] | Rom. 8:1-11[**]
+Good Friday | Morning Psalms: 95* & 22 | Evening Psalms: 40:1-14(15-19), 54 | Lam. 3:1-9, 19-33 | 1 Pet. 1:10-20 | John 13:36-38** | John 19:38-42***
+
+Holy Saturday | Morning Psalms: 95[*] && 88 | Evening Psalms: 27 | Lam. 3:37-58 | Heb. 4:1-16** | Rom. 8:1-11***
 
 ### Easter Week
 
-Easter Day | Morning Psalms: 148, 149, 150 | Evening Psalms: 113, 114, or 118 | Exod. 12:1-14[*] or Isa. 51:9-11[*] | John 1:1-18[] or Luke 24:13-35[*], or John 20:19-23[**]
+Easter Day | Morning Psalms: 148, 149, 150 | Evening Psalms: 113, 114, or 118 | Exod. 12:1-14** | John 1:1-18** | Isa. 51:9-11*** | Luke 24:13-35, or John 20:19-23***
+<!-- VERIFY: 'Exod. 12:1-14** | John 1:1-18**'; row regenerated from the witness (Church Publishing's PDF, p. 959), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page -->
 
 Monday | Morning Psalms: 93, 98 | Evening Psalms: 66 | Exod. 12:14-27 | 1 Cor. 15:1-11 | Mark 16:1-8
 
@@ -1247,7 +1315,7 @@ Tuesday | Morning Psalms: 103 | Evening Psalms: 111, 114 | Exod. 12:28-39 | 1 Co
 
 Wednesday | Morning Psalms: 97, 99 | Evening Psalms: 115 | Exod. 12:40-51 | 1 Cor. 15:(29)30-41 | Matt. 28:1-16
 
-Thursday | Morning Psalms: 146, 147 | Evening Psalms: 148, 149 | Exod. 13:3-10 | 1 Cor. 15:41-50 | Martt. 28:16-20
+Thursday | Morning Psalms: 146, 147 | Evening Psalms: 148, 149 | Exod. 13:3-10 | 1 Cor. 15:41-50 | Matt. 28:16-20
 
 Friday | Morning Psalms: 136 | Evening Psalms: 118 | Exod. 13:1-2,11-16 | 1 Cor. 15:51-58 | Luke 24:1-12
 
@@ -1255,7 +1323,7 @@ Saturday | Morning Psalms: 145 | Evening Psalms: 104 | Exod. 13:17-14:4 | 2 Cor.
 
 ### Week of 2 Easter
 
-Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Exod. 14:5-22 | 1 Joh 1:1-7 | John 14:1-7
+Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Exod. 14:5-22 | 1 John 1:1-7 | John 14:1-7
 
 Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Exod. 14:21-31 | 1 Pet. 1:1-12 | John 14:(1-7)8-17
 
@@ -1273,7 +1341,7 @@ Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116,
 
 Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Exod. 18:1-12 | 1 John 2:7-17 | Mark 16:9-20
 
-Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Exod. 18:13-27 | 1 Pet. 5:1-14 | Matt. (1:1-17),3:1-6
+Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Exod. 18:13-27 | 1 Pet. 5:1-14 | Matt. (1:1-17); 3:1-6
 
 Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Exod. 19:1-16 | Col. 1:1-14 | Matt. 3:7-12
 
@@ -1281,7 +1349,7 @@ Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | Exod. 19:16-25 | Co
 
 Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Exod. 20:1-21 | Col. 1:24-2:7 | Matt. 4:1-11
 
-Friday | Morning Psalms: 105:1-22 | Evening Psalms: 105:23-45 | Exod. 24:1-18 | Col 2:8-23 | Matt. 4:12-17
+Friday | Morning Psalms: 105:1-22 | Evening Psalms: 105:23-45 | Exod. 24:1-18 | Col. 2:8-23 | Matt. 4:12-17
 
 Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Exod. 25:1-22 | Col. 3:1-17 | Matt. 4:18-25
 
@@ -1289,7 +1357,7 @@ Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Exod. 25:1-22 | Col
 
 Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | Exod. 28:1-4,30-38 | 1 John 2:18-29 | Mark 6:30-44
 
-Monday | Morning Psalms: 41,52 | Evening Psalms: 44 | Exod. 32:1-20 | Col 3:18-4:6(7-18) | Matt. 5:1-10
+Monday | Morning Psalms: 41,52 | Evening Psalms: 44 | Exod. 32:1-20 | Col. 3:18-4:6(7-18) | Matt. 5:1-10
 
 Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Exod. 32:21-34 | 1 Thess. 1:1-10 | Matt. 5:11-16
 
@@ -1337,11 +1405,15 @@ Saturday | Morning Psalms: 87, 90 | Evening Psalms: 136 | Num. 11:16-17,24-29 | 
 
 ### Week of 7 Easter
 
-Sunday | Morning Psalms: 66, 67 | Evening Psalms: 19, 46 | Exod. 3:1-12 | Heb. 12:18-29 | Matt. Luke 10:17-24
+Sunday | Morning Psalms: 66, 67 | Evening Psalms: 19, 46 | Exod. 3:1-12 | Heb. 12:18-29 | Luke 10:17-24
 
 Monday | Morning Psalms: 89:1-18 | Evening Psalms: 89:19-52 | Joshua 1:1-9 | Eph. 3:1-13 | Matt. 8:5-17
 
-Tuesday | Morning Psalms: 97, 99, [100] | Evening Psalms: 94, [95] | 1 Sam. 16:1-13a | Eph..4:17-32 | Matt. 9:1-8
+Tuesday | Morning Psalms: 97, 99, [100] | Evening Psalms: 94, [95] | 1 Sam. 16:1-13a | Eph. 3:14-21 | Matt. 8:18-27
+
+Wednesday | Morning Psalms: 101, 109:1-4(5-19)20-30 | Evening Psalms: 119:121-144 | Isa. 4:2-6 | Eph. 4:1-16 | Matt. 8:28-34
+
+Thursday | Morning Psalms: 105:1-22 | Evening Psalms: 105: 23-45 | Zech. 4:1-14 | Eph. 4:17-32 | Matt. 9:1-8
 
 Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | Jer. 31:27-34 | Eph. 5:1-20 | Matt. 9:9-17
 
@@ -1353,7 +1425,7 @@ The Day of Pentecost | Morning Psalms: 118 | Evening Psalms: 145 | Deut. 16:9-12
 
 Eve of Trinity Sunday | Morning Psalms:  | Evening Psalms: 104 | Ecclus. 42:15-25 | Eph. 3:14-21
 
-Trinity Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Job 38:1-11,42:1-5 | Rev. 19:4-16 | John 1:29-34
+Trinity Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Job 38:1-11; 42:1-5 | Rev. 19:4-16 | John 1:29-34
 
 ### Proper 1 (Week of the Sunday closest to May 11)
 
@@ -1405,11 +1477,11 @@ Sunday | Morning Psalms: 63:1-8(9-11),98 | Evening Psalms: 103 | Eccles. 1:1-11 
 
 Monday | Morning Psalms: 41,52 | Evening Psalms: 44 | Eccles. 2:1-15 | Gal. 1:1-17 | Matt. 13:44-52
 
-Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Ecles. 2:16-26 | Gal. 1:18-2:10 | Matt. 13:53-58
+Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Eccles. 2:16-26 | Gal. 1:18-2:10 | Matt. 13:53-58
 
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Eccles. 3:1-15 | Gal. 2:11-21 | Matt. 14:1-12
 
-Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 8, 84 | Eccles. 3:16-4:3 | Gal. 3:1-14 | Mat. 14:13-21
+Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 8, 84 | Eccles. 3:16-4:3 | Gal. 3:1-14 | Matt. 14:13-21
 
 Friday | Morning Psalms: 40, 54 | Evening Psalms: 51 | Eccles. 5:1-7 | Gal. 3:15-22 | Matt. 14:22-36
 
@@ -1435,7 +1507,11 @@ Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | Num. 3:1-13 | Gal. 
 
 Sunday | Morning Psalms: 93, 96 | Evening Psalms: 34 | Num. 6:22-27 | Acts 13:1-12 | Luke 12:41-48
 
-Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | Num. 9:1:24-33(34-35) | Rom. 1:28-2:11 | Matt. 18:1-9
+Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | Num. 9:15-23; 10:29-36 | Rom. 1:1-15 | Matt. 17:14-21
+
+Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | Num. 11:1-23 | Rom. 1:16-25 | Matt. 17:22-27
+
+Wednesday | Morning Psalms: 119:97-120 | Evening Psalms: 81, 82 | Num. 11:24-33(34-35) | Rom. 1:28-2:11 | Matt. 18:1-9
 
 Thursday | Morning Psalms: [83] or 34 | Evening Psalms: 85, 86 | Num. 12:1-16 | Rom. 2:12-24 | Matt. 18:10-20
 
@@ -1459,7 +1535,7 @@ Friday | Morning Psalms: 102 | Evening Psalms: 107:1-32 | Num. 20:1-13 | Rom. 5:
 
 Saturday | Morning Psalms: 107:33-43, 108:1-6(7-13) | Evening Psalms: 33 | Num. 20:14-29 | Rom. 6:1-11 | Matt. 21:1-11
 
-### Proper 8 (=Week of Sunday closest to June 29)
+### Proper 8 (Week of the Sunday closest to June 29)
 
 Sunday | Morning Psalms: 118 | Evening Psalms: 145 | Num. 21:4-9,21-35 | Acts 17:(12-21)22-34 | Luke 13:10-17
 
@@ -1467,7 +1543,7 @@ Monday | Morning Psalms: 106:1-18 | Evening Psalms: 106:19-48 | Num. 22:1-21 | R
 
 Tuesday | Morning Psalms: [120], 121, 122, 123 | Evening Psalms: 124, 125, 126, [127] | Num. 22:21-38 | Rom. 7:1-12 | Matt. 21:23-32
 
-Wednesday | Morning Psalms: 119:145-176 | Evening Psalms: 128, 129, 130 | Num. 22:41-23:12 | Rom. 7:13-25 | Matt. 21:33-46
+Wednesday | Morning Psalms: 119:145-176 | Evening Psalms: 128, 129, 130 | Num. 22:41-23:12 | & | Rom. 7:13-25 | Matt. 21:33-46
 
 Thursday | Morning Psalms: 131, 132, [133] | Evening Psalms: 134, 135 | Num. 23:11-26 | Rom. 8:1-11 | Matt. 22:1-14
 
@@ -1487,7 +1563,7 @@ Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Deut. 1:1-18
 
 Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Deut. 3:18-28 | Rom. 9:19-33 | Matt. 24:1-14
 
-Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Deut. 31:7-13,24-32:4 | Rom 10:1-13 | Matt. 24:15-31
+Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Deut. 31:7-13,24-32:4 | Rom. 10:1-13 | Matt. 24:15-31
 
 Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Deut. 34:1-12 | Rom. 10:14-21 | Matt. 24:32-51
 
@@ -1495,8 +1571,7 @@ Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116,
 
 Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Joshua 1:1-18 | Acts 21:3-15 | Mark 1:21-27
 
-Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Joshua 2:1-14 | Rom. 11:1-12 Matt. 25:1-13
-<!-- VERIFY: 'Rom. 11:1-12 Matt. 25:1-13'; the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Joshua 2:1-14 | Rom. 11:1-12 | Matt. 25:1-13
 
 Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Joshua 2:15-24 | Rom. 11:13-24 | Matt. 25:14-30
 
@@ -1538,7 +1613,13 @@ Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Judges 4:4-23 | Acts 
 
 Friday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Judges 5:1-18 | Acts 2:1-21 | Matt. 28:1-10
 
-Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | Judges 5:19-31 | Acts 2:22-36 | Matt. 281-18
+Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | Judges 5:19-31 | Acts 2:22-36 | Matt. 28:11-20
+
+### Proper 13 (Week of the Sunday closest to August 3)
+
+Sunday | Morning Psalms: 93, 96 | Evening Psalms: 34 | Judges 6:1-24 | 2 Cor. 9:6-15 | Mark 3:20-30
+
+Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | Judges 6:25-40 | Acts 2:37-47 | John 1:1-18
 
 Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | Judges 7:1-18 | Acts 3:1-11 | John 1:19-28
 
@@ -1546,7 +1627,7 @@ Wednesday | Morning Psalms: 119:97-120 | Evening Psalms: 81, 82 | Judges 7:19-8:
 
 Thursday | Morning Psalms: [83] or 145 | Evening Psalms: 85, 86 | Judges 8:22-35 | Acts 4:1-12 | John 1:43-51
 
-Friday | Morning Psalms: 88 | Evening Psalms: 91, 92 | Judges 9:1-16,19-21 | Acts 4:13-31 | John 2:2-12
+Friday | Morning Psalms: 88 | Evening Psalms: 91, 92 | Judges 9:1-16,19-21 | Acts 4:13-31 | John 2:1-12
 
 Saturday | Morning Psalms: 87, 90 | Evening Psalms: 136 | Judges 9:22-25,50-57 | Acts 4:32-5:11 | John 2:13-25
 
@@ -1586,17 +1667,18 @@ Saturday | Morning Psalms: 137:1-6(7-9), 144 | Evening Psalms: 104 | Job 3:1-26 
 
 Sunday | Morning Psalms: 146, 147 | Evening Psalms: 111, 112, 113 | Job 4:1-6,12-21 | Rev. 4:1-11 | Mark 6:1-6a
 
-Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Job 4:1,5:1-11,17-21,26-27 | Acts 9:19b-31 | John 6:52-59
+Monday | Morning Psalms: 1, 2, 3 | Evening Psalms: 4, 7 | Job 4:1; 5:1-11, 17-21, 26-27 | Acts 9:19b-31 | John 6:52-59
 
 Tuesday | Morning Psalms: 5, 6 | Evening Psalms: 10, 11 | Job 6:1-4,8-15,21 | Acts 9:32-43 | John 6:60-71
 
-Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Job 6:1,7:1-21 | Acts 10:1-16 | John 7:1-13
+Wednesday | Morning Psalms: 119:1-24 | Evening Psalms: 12, 13, 14 | Job 6:1; 7:1-21 | Acts 10:1-16 | John 7:1-13
 
 Thursday | Morning Psalms: 18:1-20 | Evening Psalms: 18:21-50 | Job 6:1,7:1-21 | Acts 10:17-33 | John 7:14-36
+<!-- VERIFY: 'Job 6:1,7:1-21'; the witness (Church Publishing's PDF, p. 981) prints 'Job 8:1-10, 20-22'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) -->
 
 Friday | Morning Psalms: 16, 17 | Evening Psalms: 22 | Job 9:1-15,32-35 | Acts 10:34-48 | John 7:37-52
 
-Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Job 9:1,10:1-9,16-22 | Acts 11:1-18 | John 8:12-20
+Saturday | Morning Psalms: 20, 21:1-7(8-14) | Evening Psalms: 110:1-5(6-7), 116, 117 | Job 9:1; 10:1-9, 16-22 | Acts 11:1-18 | John 8:12-20
 
 ### Proper 17 (Week of the Sunday closest to August 31)
 
@@ -1604,11 +1686,11 @@ Sunday | Morning Psalms: 148, 149, 150 | Evening Psalms: 114, 115 | Job 11:1-9,1
 
 Monday | Morning Psalms: 25 | Evening Psalms: 9, 15 | Job 12:1-6,13-25 | Acts 11:19-30 | John 8:21-32
 
-Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Job 12:1,13:3-17,21-27 | Acts 12:1-17 | John 8:33-47
+Tuesday | Morning Psalms: 26, 28 | Evening Psalms: 36, 39 | Job 12:1; 13:3-17, 21-27 | Acts 12:1-17 | John 8:33-47
 
-Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | Job 12:1,14:1-22 | Acts 12:18-25 | John 8:47-59
+Wednesday | Morning Psalms: 38 | Evening Psalms: 119:25-48 | Job 12:1; 14:1-22 | Acts 12:18-25 | John 8:47-59
 
-Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Job 16:16-22,17:1,13-16 | Acts 13:1-12 | John 9:1-17
+Thursday | Morning Psalms: 37:1-18 | Evening Psalms: 37:19-42 | Job 16:16-22; 17:1, 13-16 | Acts 13:1-12 | John 9:1-17
 
 Friday | Morning Psalms: 31 | Evening Psalms: 35 | Job 19:1-7,14-27 | Acts 13:13-25 | John 9:18-41
 
@@ -1616,17 +1698,17 @@ Saturday | Morning Psalms: 30, 32 | Evening Psalms: 42, 43 | Job 22:1-4,21-23:7 
 
 ### Proper 18 (Week of the Sunday closest to September 7)
 
-Sunday | Morning Psalms: 63:1-8(9-11), 98 | Evening Psalms: 103 | Job 25:1-6,27:1-6 | Rev. 14:1-7,13 | Matt. 5:13-20
+Sunday | Morning Psalms: 63:1-8(9-11), 98 | Evening Psalms: 103 | Job 25:1-6; 27:1-6 | Rev. 14:1-7,13 | Matt. 5:13-20
 
 Monday | Morning Psalms: 41, 52 | Evening Psalms: 44 | Job 32:1-10,19-33:1,19-28 | Acts 13:44-52 | John 10:19-30
 
 Tuesday | Morning Psalms: 45 | Evening Psalms: 47, 48 | Job 29:1-20 | Acts 14:1-18 | John 10:31-42
 
-Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Job 29:1,30:1-2,16-31 | Acts 14:19-28 | John 11:1-16
+Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Job 29:1; 30:1-2, 16-31 | Acts 14:19-28 | John 11:1-16
 
-Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 93, 96 | Job 29:1,31:1-23 | Acts 15:1-11 | John 11:17-29
+Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 93, 96 | Job 29:1; 31:1-23 | Acts 15:1-11 | John 11:17-29
 
-Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Job 29:1,31:24-40 | Acts 15:12-21 | John 11:30-44
+Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Job 29:1; 31:24-40 | Acts 15:12-21 | John 11:30-44
 
 Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Job 38:1-17 | Acts 15:22-35 | John 11:45-54
 
@@ -1636,26 +1718,28 @@ Sunday | Morning Psalms: 24, 29 | Evening Psalms: 8, 84 | Job 38:1,18-41 | Rev. 
 
 Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | Job 40:1-24 | Acts 15:36-16:5 | John 11:55-12:8
 
-Tuesday | Morning Psalms: 61, 62 | Evening Psalms: 68:1-20(21-23)24-36 | Job 40:1,41:1-11 | Acts 16:6-15 | John 12:9-19
+Tuesday | Morning Psalms: 61, 62 | Evening Psalms: 68:1-20(21-23)24-36 | Job 40:1; 41:1-11 | Acts 16:6-15 | John 12:9-19
 
 Wednesday | Morning Psalms: 72 | Evening Psalms: 119:73-96 | Job 42:1-17 | Acts 16:16-24 | John 12:20-26
 
 Thursday | Morning Psalms: [70], 71 | Evening Psalms: 74 | Job 28:1-28 | Acts 16:25-40 | John 12:27-36a
 
-Friday | Psalms: 69:1-23(24-30)place of Esther may be read Judith: F 4:1-15, Sa 5:1-21
-<!-- VERIFY: 'Year Two / Proper 19 (Week of the Sunday closest to September 14) / Friday'; the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Friday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Esther 1:1-4, 10-19* | Acts 17:1-15 | John 12:36b-43
+
+Saturday | Morning Psalms: 75, 76 | Evening Psalms: 23, 27 | Esther 2:5-8, 15-23* | Acts 17:16-34 | John 12:44-50
 
 ### Proper 20 (Week of the Sunday closest to September 21)
 
 Sunday | Morning Psalms: 93, 96 | Evening Psalms: 34 | Esther 3:1-4:3[*] | James 1:19-27 | Matt. 6:1-6,16-18
 
-Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | Esther 4:4-17[*] | Acts 18:1-11 | Luke (1:1-4),3:1-14
+Monday | Morning Psalms: 80 | Evening Psalms: 77, [79] | Esther 4:4-17[*] | Acts 18:1-11 | Luke (1:1-4); 3:1-14
 
 Tuesday | Morning Psalms: 78:1-39 | Evening Psalms: 78:40-72 | Esther 5:1-14[*] | Acts 18:12-28 | Luke 3:15-22
 
 Wednesday | Morning Psalms: 119:97-120 | Evening Psalms: 81, 82 | Esther 6:1-14[*] | Acts 19:1-10 | Luke 4:1-13
 
 Thursday | Morning Psalms: [83] or 146, 147 | Evening Psalms: 85, 86 | Esther 7:1-10[*] | Acts 19:11-20 | Luke 4:14-30
+<!-- VERIFY: '[83] or 146, 147 | Evening Psalms: 85, 86'; the witness (Church Publishing's PDF, p. 985) prints '[83] or 116, 117'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) -->
 
 Friday | Morning Psalms: 88 | Evening Psalms: 91, 92 | Esther 8:1-8,15-17[*] | Acts 19:21-41 | Luke 4:31-37
 
@@ -1736,6 +1820,7 @@ Tuesday | Morning Psalms: 45 | Evening Psalms: 47,48 | Ecclus. 24:1-12 | Rev. 11
 Wednesday | Morning Psalms: 119:49-72 | Evening Psalms: 49,[53] | Ecclus. 28:14-26 | Rev. 12:1-6 | Luke 11:37-52
 
 Thursday | Morning Psalms: 50 | Evening Psalms: [59,60] or 33 | Ecclus. 31:12-18,25-32:2 | Rev. 12:7-17 | Luke 11:53-12:12
+<!-- VERIFY: '[59,60] or 33 | Ecclus. 31:12-18,25-32:2'; the witness (Church Publishing's PDF, p. 991) prints '[59, 60] or 103'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) -->
 
 Friday | Morning Psalms: 40,54 | Evening Psalms: 51 | Ecclus. 34:1-8,18-22 | Rev. 13:1-10 | Luke 12:13-31
 
@@ -1745,8 +1830,13 @@ Saturday | Morning Psalms: 55 | Evening Psalms: 138,139:1-17(18-23) | Ecclus. 35
 
 Sunday | Morning Psalms: 24, 29 | Evening Psalms: 8, 84 | Ecclus. 36:1-17 | 1 Cor. 12:27-13:13 | Matt. 18:21-35
 
-Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | Ecclus. 38:24-34 | Rev. 14:1-13 | Luke 12:4sday: [70], 71 | 74 Ecclus. 44:1-15 | Rev. 16:12-21 | Luke 14:18-30
-<!-- VERIFY: 'Luke 14:18-30'; the e-text yields 6 readings where this office takes 3; carried exactly as the e-text prints it, not repaired -->
+Monday | Morning Psalms: 56, 57, [58] | Evening Psalms: 64, 65 | Ecclus. 38:24-34 | Rev. 14:1-13 | Luke 12:49-59
+
+Tuesday | Morning Psalms: 61, 62 | Evening Psalms: 68:1-20(21-23)24-36 | Ecclus. 43:1-22 | Rev. 14:14-15:8 | Luke 13:1-9
+
+Wednesday | Morning Psalms: 72 | Evening Psalms: 119:73-96 | Ecclus. 43:23-33 | Rev. 16:1-11 | Luke 13:10-17
+
+Thursday | Morning Psalms: [70] 71 | Evening Psalms: 74 | Ecclus. 44:1-15 | Rev. 16:12-21 | Luke 13:18-30
 
 Friday | Morning Psalms: 69:1-23(24-30)31-38 | Evening Psalms: 73 | Ecclus. 50:1,11-24 | Rev. 17:1-18 | Luke 13:31-35
 

@@ -8,7 +8,7 @@
 
 > Holy Baptism is appropriately administered within the Eucharist as the chief service on a Sunday or other feast.
 
-> The bishop, when present, is the celebrant; and is expected to preach the Word and preside at Baptism and the Eucharist.  At Baptism, the bishop officiates at the Presentation and Examination of Candidates; says the Thanksgiving over the Water; [consecrates the Chrism;] reads the prayer, "Heavenly Father, we thank you that by water and the Holy Spirit;" and officiates at what follows.
+> The bishop, when present, is the celebrant; and is expected to preach the Word and preside at Baptism and the Eucharist.  At Baptism, the bishop officiates at the Presentation and Examination of the Candidates; says the Thanksgiving over the Water; [consecrates the Chrism;] reads the prayer, "Heavenly Father, we thank you that by water and the Holy Spirit;" and officiates at what follows.
 
 > In the absence of a bishop, a priest is the celebrant and presides at the service.  If a priest uses Chrism in signing the newly baptized, it must have been previously consecrated by the bishop.
 
@@ -16,7 +16,13 @@
 
 > Sponsors of adults and older children present their candidates and thereby signify their endorsement of the candidates and their intention to support them by prayer and example in their Christian life.  Sponsors of infants, commonly called godparents, present their candidates, make promises in their own names, and also take vows on behalf of their candidates.
 
-> It is fitting that parents be included among the godparents of their own children.  Parents and godparents are to be instructed in the meaning otanding, the Celebrant says
+> It is fitting that parents be included among the godparents of their own children. Parents and godparents are to be instructed in the meaning of Baptism, in their duties to help the new Christians grow in the knowledge and love of God, and in their responsibilities as members of his Church.
+
+> Additional Directions are on page 312.
+
+> A hymn, psalm, or anthem may be sung.
+
+> The people standing, the Celebrant says
 
 Blessed be God: Father, Son, and Holy Spirit.
 
@@ -54,7 +60,7 @@ There is one Body and one Spirit;
 
 **People.**  Amen.
 
-> At the principal service on a Sunday or other feast, the Collect and Lessons are properly those of the Day.  On other occasions, they are selected from "At Baptism."  (See Additional Directions, page 312.)
+> At the principal service on a Sunday or other feast, the Collect and Lessons are properly those of the Day.  On other occasions they are selected from "At Baptism."  (See Additional Directions, page 312.)
 
 ## The Lessons
 
@@ -112,7 +118,7 @@ Do you desire to be baptized?
 
 ## Infants and Younger Children
 
-> Then the candidates who are unable to answer for themselves are presented individually by their Parents and Godparents, as follows
+> Then the candidates unable to answer for themselves are presented individually by their Parents and Godparents, as follows
 
 **Parents and Godparents.**
 
@@ -134,7 +140,7 @@ Will you by your prayers and witness help this child to grow into the full statu
 
 I will, with God's help.
 
-> The the Celebrant asks the following questions of the candidates who can speak for themselves, and of the parents and godparents who speak on behalf of the infants and younger children
+> Then the Celebrant asks the following questions of the candidates who can speak for themselves, and of the parents and godparents who speak on behalf of the infants and younger children
 
 **Question.**  Do you renounce Satan and all the spiritual forces of wickedness that rebel against God?
 
@@ -164,7 +170,15 @@ I will, with God's help.
 
 The other Candidate(s) will now be presented.
 
-*Presenters*  I p who desire to reaffirm their= baptismal vows.
+**Presenters.**  I present these persons for Confirmation.
+
+> or
+
+I present these persons to be received into this Communion.
+
+> or
+
+I present these persons who desire to reaffirm their baptismal vows.
 
 > The Bishop asks the candidates
 
@@ -232,7 +246,7 @@ He was conceived by the power of the Holy Spirit and born of the Virgin Mary. He
 
 Let us now pray for these persons who are to receive the Sacrament of new birth [and for those (this person) who have renewed their commitment to Christ.]
 
-> A Person appointed leads tho following petitions
+> A Person appointed leads the following petitions
 
 **Leader.**  Deliver them, O Lord, from the way of sin and death.
 
@@ -264,11 +278,11 @@ Let us now pray for these persons who are to receive the Sacrament of new birth 
 
 > The Celebrant says
 
-Grant, O Lord, that all who are baptized into the death of Jesus Christ your Son may live in the power of his resurrection and look for him to come again in glory; who lives and reigns now and forever. Amen.
+Grant, O Lord, that all who are baptized into the death of Jesus Christ your Son may live in the power of his resurrection and look for him to come again in glory; who lives and reigns now and for ever. Amen.
 
 ## Thanksgiving over the Water
 
-> The Celebrant blosses the water, first saying
+> The Celebrant blesses the water, first saying
 
 The Lord be with you.
 
@@ -280,7 +294,7 @@ The Lord be with you.
 
 **Celebrant.**
 
-We thank you, Almighty God, for the gift of water. Over it the Holy Spirit moved in the beginning of creation. Through it you led the children s the Messiah, the Christ, to lead us, throught his death and resurrection, from the bondage of sin into everlasting life.
+We thank you, Almighty God, for the gift of water. Over it the Holy Spirit moved in the beginning of creation. Through it you led the children of Israel out of their bondage in Egypt into the land of promise. In it your Son Jesus received the baptism of John and was anointed by the Holy Spirit as the Messiah, the Christ, to lead us, through his death and resurrection, from the bondage of sin into everlasting life.
 
 We thank you, Father, for the water of Baptism.  In it we are buried with Christ in his death.  By it we share in his resurrection. Through it we are reborn by the Holy Spirit. Therefore in joyful obedience to your Son, we bring into his fellowship those who come to him in faith, baptizing them in the Name of the Father, and of the Son, and of the Holy Spirit.
 
@@ -338,11 +352,17 @@ Let us now pray for these persons who have renewed their commitment to Christ.
 
 > Then the Bishop says
 
-Almighty God, we thank you that by the death and resurrection of your Son Jesus Christ you have overcome sin and brought us to yourself, and that by the sealing of your Holy Spirit you have bound us to your service.  Renew in these your servants the covenant you made with them at their Baptism.  Send them forth in the power of the Spirit to perform the service you set before them; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
+Almighty God, we thank you that by the death and resurrection of your Son Jesus Christ you have overcome sin and brought us to yourself, and that by the sealing of your Holy Spirit you have bound us to your service.  Renew in these your servants the covenant you made with them at their Baptism.  Send them forth in the power of that Spirit to perform the service you set before them; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
 
 ## For Confirmation
 
-*The Bishodaily increase in your Holy Spirit more and more, until he comes to your everlasting kingdom.  Amen.
+> The Bishop lays hands upon each one and says
+
+Strengthen, O Lord, your servant N. with your Holy Spirit; empower him for your service; and sustain him all the days of his life. Amen.
+
+> or this
+
+Defend, O Lord, your servant N. with your heavenly grace, that he may continue yours for ever, and daily increase in your Holy Spirit more and more, until he comes to your everlasting kingdom.  Amen.
 
 ## For Reception
 
@@ -364,7 +384,7 @@ Almighty and everliving God, let your fatherly hand ever be over these your serv
 
 ## At the Eucharist
 
-> The service then continues with the Prayers of the People or the Offertory of the Eucharist, at which the Bishop, when present, should be the princpal Celebrant.
+> The service then continues with the Prayers of the People or the Offertory of the Eucharist, at which the Bishop, when present, should be the principal Celebrant.
 
 > Except on Principal Feasts, the Proper Preface of Baptism may be used.
 
@@ -372,7 +392,9 @@ Almighty and everliving God, let your fatherly hand ever be over these your serv
 
 > If there is no celebration of the Eucharist, the service continues with the Lord's Prayer
 
-&LordsPrayer.
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
+
+Our Father in heaven, hallowed be your Name, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. Forgive us our sins as we forgive those who sin against us. Save us from the time of trial, and deliver us from evil. For the kingdom, the power, and the glory are yours, now and for ever. Amen.
 
 > The Celebrant then says
 
@@ -396,17 +418,19 @@ Almighty God, the Father of our Lord Jesus Christ, from whom every family in hea
 
 > When a bishop is present, or on other occasions for sufficient reason, the Collect (page 203 or 254) and one or more of the Lessons provided for use at Baptism (page 928) may be substituted for the Proper of the Day.
 
-> Lay persons may act as readers, and it is appropriate for sponsors to be assigned this function.  The petitions (page 303) map also be led by one of the sponsors.
+> Lay persons may act as readers, and it is appropriate for sponsors to be assigned this function.  The petitions (page 305) may also be led by one of the sponsors.
 
 > The Nicene Creed is not used at this service.
 
 > If the Presentation of the Candidates does not take place at the font, then before or during the petitions (page 305), the ministers, candidates, and sponsors go to the font for the Thanksgiving over the Water.
 
-ly before the Thanksgiving over the Water.*
+> If the movement to the font is a formal procession, a suitable psalm, such as Psalm 42, or a hymn or anthem, may be sung.
+
+> Where practicable, the font is to be filled with clean water immediately before the Thanksgiving over the Water.
 
 > At the Thanksgiving over the Water, and at the administration of Baptism, the celebrant, whenever possible, should face the people across the font, and the sponsors should be so grouped that the people may have a clear view of the action.
 
-> After the Baptism, a candle (which may be lifted from the Paschal Candle) may be given to each of the newly baptized or to a godparent.
+> After the Baptism, a candle (which may be lighted from the Paschal Candle) may be given to each of the newly baptized or to a godparent.
 
 > It may be found desirable to return to the front of the church for the prayer, "Heavenly Father, we thank you that by water and the Holy Spirit," and the ceremonies that follow it.  A suitable psalm, such as Psalm 23, or a hymn or anthem, may be sung during the procession.
 

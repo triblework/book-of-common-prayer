@@ -4,7 +4,7 @@ O God, the creator and preserver of all mankind, we humbly
 
 beseech thee for all sorts and conditions of men; that thou
 
-wouldest be pleased to make they ways known unto them, thy
+wouldest be pleased to make thy ways known unto them, thy
 
 saving health unto all nations.  More especially we pray for
 

@@ -8,13 +8,13 @@ Three Readings are provided for each Sunday and weekday in each of the two years
 
 When more than one Reading is used at an Office, the first is always from the Old Testament (or the Apocrypha).
 
-When a Major Feast interrupts the sequence of Readings, they may be re- ordered by lengthening, combining, or omitting some of them, to secure continuity or avoid repitition.
+When a Major Feast interrupts the sequence of Readings, they may be re- ordered by lengthening, combining, or omitting some of them, to secure continuity or avoid repetition.
 
 Any Reading may be lengthened at discretion. Suggested lengthenings are shown in parentheses.
 
 In this Lectionary (except in the weeks from 4 Advent to 1 Epiphany, and Palm Sunday to 2 Easter), the Psalms are arranged in a seven-week pattern which recurs throughout the year, except for appropriate variations in Lent and Easter Season.
 
-In the citation of the Psalms, those for the morning are given first, and then those for the evening. At the discretion of the officiant, however, any of the Psalms appointed for a given day may be used in the morning or in the evening. Likewise, Psalms appointed for any day may be used on any other day in the same week, except ontire portion of the Psalter assigned to a given Office has been bracketed, and alternative Psalmody provided. Those who desire to recite the Psalter in its entirety should, in each instance, use the bracketed Psalms rather than the alternatives.
+In the citation of the Psalms, those for the morning are given first, and then those for the evening. At the discretion of the officiant, however, any of the Psalms appointed for a given day may be used in the morning or in the evening. Likewise, Psalms appointed for any day may be used on any other day in the same week, except on major Holy Days. Brackets and parentheses are used (brackets in the case of whole Psalms, parentheses in the case of verses) to indicate Psalms and verses of Psalms which may be omitted. In some instances, the entire portion of the Psalter assigned to a given Office has been bracketed, and alternative Psalmody provided. Those who desire to recite the Psalter in its entirety should, in each instance, use the bracketed Psalms rather than the alternatives.
 
 Antiphons drawn from the Psalms themselves, or from the opening sentences given in the Offices, or from other passages of Scripture, may be used with the Psalms and biblical Canticles. The antiphons may be sung or said at the beginning and end of each Psalm or Canticle, or may be used as refrains after each verse or group of verses.
 

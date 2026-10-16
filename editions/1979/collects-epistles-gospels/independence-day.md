@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Lord God Almighty, in whose Name the founders of this country won liberty for themselves and for us, and lit the torch of freedom for nations then unborn: Grant we beseech thee, that we and all the people of this land may have grace to maintain our liberties in righteousness and peace; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
+Lord God Almighty, in whose Name the founders of this country won liberty for themselves and for us, and lit the torch of freedom for nations then unborn: Grant, we beseech thee, that we and all the people of this land may have grace to maintain these liberties in righteousness and peace; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

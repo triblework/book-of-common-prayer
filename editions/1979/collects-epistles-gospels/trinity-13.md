@@ -6,7 +6,7 @@
 
 ## The Collect
 
-Almighty and merciful God, of whose only thy gift it cometh that thy faithful people do unto thee true and laudable service: Grant, we beseech thee, that we may run without stumbling to obtain thy heavenly promises; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever. Amen.
+Almighty and merciful God, of whose only gift it cometh that thy faithful people do unto thee true and laudable service: Grant, we beseech thee, that we may run without stumbling to obtain thy heavenly promises; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

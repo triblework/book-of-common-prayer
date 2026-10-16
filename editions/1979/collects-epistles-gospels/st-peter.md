@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty God, whose blessed apostles Peter and Paul glorified you by their martyrdom: Grant that thy Church, instructed by their teaching and example, and knit together in unity by thy Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord; who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
+Almighty God, whose blessed apostles Peter and Paul glorified thee by their martyrdom: Grant that thy Church, instructed by their teaching and example, and knit together in unity by thy Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord; who liveth and reigneth with thee, in the unity of the same Spirit, one God, for ever and ever. Amen.
 
 ## The Collect (Contemporary)
 

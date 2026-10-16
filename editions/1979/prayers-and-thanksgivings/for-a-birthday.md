@@ -2,7 +2,7 @@
 
 O God, our times are in your hand:  Look with favor, we
 
-pray, on you servant &N. as =he= begins another year.  Grant
+pray, on your servant &N. as =he= begins another year.  Grant
 
 that =he= may grow in wisdom and grace, and strengthen =his=
 

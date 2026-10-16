@@ -4,7 +4,7 @@ O God, whose fatherly care =reacheth= to the uttermost parts
 
 of the earth:  We humbly beseech =thee= graciously to behold
 
-and bless whom we love, now absent from us.  Defend
+and bless those whom we love, now absent from us.  Defend
 
 them from all dangers of soul and body; and grant that both
 

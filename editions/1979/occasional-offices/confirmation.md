@@ -16,11 +16,11 @@
 
 > It is appropriate that the oblations of bread and wine be presented by persons newly confirmed.
 
-> A hymn, psalm, or anthem may be sung
+> A hymn, psalm, or anthem may be sung.
 
 > The people standing, the Bishop says
 
-Blessed by God: Father, Son, and Holy Spirit.
+Blessed be God: Father, Son, and Holy Spirit.
 
 **People.**  And blessed be his kingdom, now and for ever.  Amen.
 
@@ -42,7 +42,21 @@ There is one Body and one Spirit;
 
 **People.**  There is one hope in God's call to us;
 
-**Bishop.**  One Lord, one Faith, ose of the Day.  At the discretion of the bishop, however, the Collect (page 203 or 254) and one or more of the Lessions provided "At Confirmation" (page 929) may be substituted.*
+**Bishop.**  One Lord, one Faith, one Baptism;
+
+**People.**  One God and Father of all.
+
+**Bishop.**  The Lord be with you.
+
+**People.**  And also with you.
+
+**Bishop.**  Let us pray.
+
+> The Collect of the Day
+
+**People.**  Amen.
+
+> At the principal service on a Sunday or other feast, the Collect and Lessons are properly those of the Day. At the discretion of the bishop, however, the Collect (page 203 or 254) and one or more of the Lessons provided "At Confirmation" (page 929) may be substituted.
 
 ## The Lessons
 
@@ -182,7 +196,7 @@ Let us now pray for these persons who have renewed their commitment to Christ.
 
 > Then the Bishop says
 
-Almighty God, we thank you that by the death and resurrection of your Son Jesus Christ you have overcome sin and brought us to yourselt your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
+Almighty God, we thank you that by the death and resurrection of your Son Jesus Christ you have overcome sin and brought us to yourself, and that by the sealing of your Holy Spirit you have bound us to your service. Renew in these your servants the covenant you made with them at their Baptism. Send them forth in the power of that Spirit to perform the service you set before them; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  Amen.
 
 ## For Confirmation
 
@@ -204,7 +218,7 @@ Defend, O Lord, your servant &N. with your heavenly grace, that he may continue 
 
 > The Bishop concludes with this prayer
 
-Almighty and everlasting God, let your fatherly hand ever be over these your servants; let your Holy Spirit ever be with them; and so lead them in the knowledge and obedience of your Word, that they may serve you in this life, and dwell with you in the life to come; through Jesus Christ our Lord. Amen.
+Almighty and everliving God, let your fatherly hand ever be over these your servants; let your Holy Spirit ever be with them; and so lead them in the knowledge and obedience of your Word, that they may serve you in this life, and dwell with you in the life to come; through Jesus Christ our Lord. Amen.
 
 > The Peace is then exchanged
 

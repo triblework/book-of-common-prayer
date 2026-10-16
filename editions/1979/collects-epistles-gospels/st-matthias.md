@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O Almighty God, who in the place of Judas didst chose thy faithful servant Matthias to of the number of the Twelve: Grant that thy Church, being delivered from false apostles, may always be ordered and guided by faithful and true pastors; through Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
+O Almighty God, who into the place of Judas didst choose thy faithful servant Matthias to be of the number of the Twelve: Grant that thy Church, being delivered from false apostles, may always be ordered and guided by faithful and true pastors; through Jesus Christ our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

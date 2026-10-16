@@ -8,7 +8,7 @@ that it might produce what is needed for life:  Bless those who
 
 work in the fields; give us seasonable weather; and grant that
 
-we may all share the fruits for the earth, rejoicing in your
+we may all share the fruits of the earth, rejoicing in your
 
 goodness; through Jesus Christ our Lord.  =Amen.=
 

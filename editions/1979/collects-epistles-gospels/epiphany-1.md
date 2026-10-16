@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Father in heaven, who at the baptism of Jesus in the River Jordan didst proclaim him thy beloved Son and anoint him with the Holy Spirit: Grant that all who are baptized into his Name may keep the covenant they have made, and boldly confess him as Lord and Savior; who with thee and the same Holy Spirit liveth and reigneth, one God, in glory everlasting. Amen.
+Father in heaven, who at the baptism of Jesus in the River Jordan didst proclaim him thy beloved Son and anoint him with the Holy Spirit: Grant that all who are baptized into his Name may keep the covenant they have made, and boldly confess him as Lord and Savior; who with thee and the same Spirit liveth and reigneth, one God, in glory everlasting. Amen.
 
 ## The Collect (Contemporary)
 

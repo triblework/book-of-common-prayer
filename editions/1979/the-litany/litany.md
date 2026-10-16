@@ -10,13 +10,13 @@ Have mercy upon us.
 O God the Son, Redeemer of the world,
 Have mercy upon us.
 
-O God the Holy Spirit, Sanctifier of the faithful,
+O God the Holy Ghost, Sanctifier of the faithful,
 Have mercy upon us.
 
 O holy, blessed, and glorious Trinity, one God,
 Have mercy upon us.
 
-Remember not, Lord Christ, our offenses, nor the offenses of our forefathers; neither reward us according to our sins. Spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and by thy mercy preserve us, for ever.
+Remember not, Lord Christ, our offenses, nor the offenses of our forefathers; neither reward us according to our sins. Spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and by thy mercy preserve us for ever.
 Spare us, good Lord.
 
 From all evil and wickedness; from sin; from the crafts and assaults of the devil; and from everlasting damnation,
@@ -31,7 +31,7 @@ Good Lord, deliver us.
 From all false doctrine, heresy, and schism; from hardness of heart, and contempt of thy Word and commandment,
 Good Lord, deliver us.
 
-From lightening and tempest; from earthquake, fire, and flood; from plague, pestilence, and famine,
+From lightning and tempest; from earthquake, fire, and flood; from plague, pestilence, and famine,
 Good Lord, deliver us.
 
 From all oppression, conspiracy, and rebellion; from violence, battle, and murder; and from dying suddenly and unprepared,
@@ -40,14 +40,14 @@ Good Lord, deliver us.
 By the mystery of thy holy Incarnation; by thy holy Nativity and submission to the Law; by thy Baptism, Fasting, and Temptation,
 Good Lord, deliver us.
 
-By thine Agony and Bloody Sweat; by thy Cross and Passion; by thy precious Death and Burial; by thy glorious Resurrection and Ascension; and by the Coming of thy Holy Ghost,
+By thine Agony and Bloody Sweat; by thy Cross and Passion; by thy precious Death and Burial; by thy glorious Resurrection and Ascension; and by the Coming of the Holy Ghost,
 Good Lord, deliver us.
 
 In all time of our tribulation; in all time of our prosperity; in the hour of death, and in the day of judgment,
 Good Lord, deliver us.
 
-We sinners do beseech the to hear us, O Lord God; and that it may please thee to rule and govern thy holy Church Universal in the right way,
-We beesech thee to hear us, good Lord.
+We sinners do beseech thee to hear us, O Lord God; and that it may please thee to rule and govern thy holy Church Universal in the right way,
+We beseech thee to hear us, good Lord.
 
 That it may please thee to illumine all bishops, priests, and deacons, with true knowledge and understanding of thy Word; and that both by their preaching and living, they may set it forth, and show it accordingly,
 We beseech thee to hear us, good Lord.
@@ -127,18 +127,19 @@ Grant us thy peace.
 O Christ, hear us.
 O Christ, hear us.
 
-Lord, have mercy upon us. Christ have mercy upon us. Lord, have mercy upon us.
+Lord, have mercy upon us. Christ, have mercy upon us. or Lord, have mercy upon us.
 
 > or
 
-Kyrie Eleison. Kyrie Eleison.
+Kyrie Eleison.
 Christe Eleison.
+Kyrie eleison.
 
 > When the Litany is sung or said immediately before the Eucharist, the Litany concludes here, and the Eucharist begins with the Salutation and the Collect of the Day.
 
 > On all other occasions, the Officiant and People say together
 
-Our Father, who art in heaven, hallowed be they Name, thy kingdom come, thy will be done, on earth as it is in heaven.
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven.
 
 Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us.
 

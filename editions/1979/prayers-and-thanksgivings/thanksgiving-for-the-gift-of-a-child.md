@@ -2,7 +2,7 @@
 
 *See also the Thanksgiving for a Child on page 439.*
 
-Heavenly Father, you sent; your own Son into this world.  We
+Heavenly Father, you sent your own Son into this world.  We
 
 thank you for the life of this child, &N., entrusted to our care.
 

@@ -1,17 +1,17 @@
 # Concerning the Service of the Church
 
-The Holy Eucharist, the principal act of Christian worship on the Lord's Day and other major Feasts, and Daily Morning and Evening Prayer, as set forth in this Book, are the regular services appointed for public worship in the Church.
+The Holy Eucharist, the principal act of Christian worship on the Lord's Day and other major Feasts, and Daily Morning and Evening Prayer, as set forth in this Book, are the regular services appointed for public worship in this Church.
 
 In addition to these services and the other rites contained in this Book, other forms set forth by authority within this Church may be used. Also, subject to the direction of the bishop, special devotions taken from this Book, or from Holy Scripture, may be used when the needs of the congregation so require.
 
-For special days of thanksgiving, appointed by civil or Church authority, and for other special occasions for which no service or prayer has been provided in this Book, the bishop may set forth such forms as are fitting to the occasion.
+For special days of fasting or thanksgiving, appointed by civil or Church authority, and for other special occasions for which no service or prayer has been provided in this Book, the bishop may set forth such forms as are fitting to the occasion.
 
 In all services, the entire Christian assembly participates in such a way that the members of each order within the Church, lay persons, bishops, priests, and deacons, fulfill the functions proper to their respective orders, as set forth in the rubrical directions for each service.
-The leader of worship in a Christian assembly is normally a bishop or priest. Deacons by virtue of their order do not exercise a presiding function; but, like lay persons, may officiate in the Liturgy of the Word, whether in the form provided in the Daily Office, or (when a bishop or priest is not present) in the form appointed at the Eucharist. Under exceptional circumstances, when the services of a priest cannot be obtained, the bishop may, at discretion, authorize a deacon to preside at other rites also, subject to the limitations described in the directions for each service.
+The leader of worship in a Christian assembly is normally a bishop or priest. Deacons by virtue of their order do not exercise a presiding function; but, like lay persons, may officiate at the Liturgy of the Word, whether in the form provided in the Daily Offices, or (when a bishop or priest is not present) in the form appointed at the Eucharist. Under exceptional circumstances, when the services of a priest cannot be obtained, the bishop may, at discretion, authorize a deacon to preside at other rites also, subject to the limitations described in the directions for each service.
 
-In any of the Proper Liturgies for Special Days, and in other services contained within this Book celebrated in the context of a Rite One service, the contemporary idiom may be conformed to traditional language.
+In any of the Proper Liturgies for Special Days, and in other services contained in this Book celebrated in the context of a Rite One service, the contemporary idiom may be conformed to traditional language.
 
-Hymns referred to in the rubrics of this Book are understood as those authorized by this Church. The words of anthems are to be from Holy Scripture, or from this Book, or from texts congruent with them.
+Hymns referred to in the rubrics of this Book are to be understood as those authorized by this Church. The words of anthems are to be from Holy Scripture, or from this Book, or from texts congruent with them.
 
 On occasion, and as appropriate, instrumental music may be substituted for a hymn or anthem.
 

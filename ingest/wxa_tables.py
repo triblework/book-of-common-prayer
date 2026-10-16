@@ -361,12 +361,15 @@ def malformed(c, col='r'):
     s = c.strip()
     if re.search(r'[a-z]{3,}:', s) or re.search(r'day:', s):
         return True                              # 'onday: 31' run together
-    if re.search(r'\d:\d+:|\d\.\d|:[a-z]|\d-\d+:\d', s):
+    if re.search(r'\d:\d+:|\d\.\d|:[a-z]', s) or re.match(r'^\D*\d+-\d+:', s):
         return True                              # '9:1:24', '9.6b', '65:a.'
-    for a, b in re.findall(r'(?<![\d:])(\d+)-(\d+)(?![\d:])',
-                           re.sub(r'\d+:', '', s)):
-        if int(b) <= int(a):
-            return True                          # '1-1', '31-26'
+    for m in re.finditer(r'(?<!\d)(\d+):(\d+)[ab]?-(\d+)[ab]?(?![\d:ab])', s):
+        if int(m.group(3)) <= int(m.group(2)):
+            return True                          # '3:31-26', '110:1-1'
+    if col in ('mp', 'ep'):
+        for n in re.findall(r'(?<![\d:])(\d+)(?![\d])', re.sub(r':\d+[\d\-(),ab ]*', '', s)):
+            if int(n) > 150:
+                return True                      # no Psalm 7150
     prev = None
     for part in re.findall(r'(\d+)(?:-(\d+))?', re.sub(r'^.*?\d+:', '', s)):
         lo, hi = int(part[0]), int(part[1] or part[0])
@@ -380,10 +383,6 @@ def malformed(c, col='r'):
         return True
     if re.search(r'\d[A-Za-z~]\d|\d[SlO]\b|~', s):
         return True
-    for a, b in re.findall(r'(?<![\d:])(\d+)-(\d+)(?![\d:])',
-                           re.sub(r'\d+:', '', s)):
-        if int(b) < int(a) and len(b) >= len(a):
-            return True
     m = re.match(r'^(?:[1-3] )?([A-Za-z]+)\.? (\d+)', s)
     if m and m.group(1).lower() in CHAPTERS and \
             int(m.group(2)) > CHAPTERS[m.group(1).lower()]:

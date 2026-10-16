@@ -2,7 +2,7 @@
 
 O God, by your grace you have called us in this Diocese to a
 
-goodly fellowship of faith.  Bless our Bishops(s) &N. [and &N.],
+goodly fellowship of faith.  Bless our Bishop(s) &N. [and &N.],
 
 and other clergy, and all our people.  Grant that your Word
 

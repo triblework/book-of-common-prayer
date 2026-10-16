@@ -12,7 +12,7 @@ Dearly beloved: We have come together in the presence of God to witness and bles
 
 The union of husband and wife in heart, body, and mind is intended by God for their mutual joy; for the help and comfort given one another in prosperity and adversity; and, when it is God's will, for the procreation of children and their nurture in the knowledge and love of the Lord.  Therefore marriage is not to be entered into unadvisedly or lightly, but reverently, deliberately, and in accordance with the purposes for which it was instituted by God.
 
-Into this holy union N. N.. and N. N.. now come to be joined.  If any of you can show just cause why they may not lawfully be married, speak now; or else for ever hold your peace.
+Into this holy union N. N. and N. N. now come to be joined.  If any of you can show just cause why they may not lawfully be married, speak now; or else for ever hold your peace.
 
 > Then the Celebrant says to the persons to be married
 
@@ -66,11 +66,11 @@ Genesis 1:26-28 (Male and female he created them)
 
 Genesis 2:4-9, 15-24 (A man cleaves to his wife and they become one flesh)
 
-Song of Solomon 2:10-13; 8:6-7 (Many waters cannot quench love) _) (That she and I may grow old together)
+Song of Solomon 2:10-13; 8:6-7 (Many waters cannot quench love) Tobit 8:5b-8 (New English Bible) (That she and I may grow old together)
 
 1 Corinthians 13:1-13 (Love is patient and kind)
 
-Ephesians 3:14-19 (The Father from whom ever family is named)
+Ephesians 3:14-19 (The Father from whom every family is named)
 
 Ephesians 5:1-2, 21-33 (Walk in love, as Christ loved us)
 
@@ -78,7 +78,7 @@ Colossians 3:12-17 (Love which binds everything together in harmony)
 
 1 John 4:7-16 (Let us love one another for love is of God)
 
-> Between the Readings, a Psalm, hymn, or anthem may be sing or said. Appropriate Psalms are 67, 127, and 128.
+> Between the Readings, a Psalm, hymn, or anthem may be sung or said. Appropriate Psalms are 67, 127, and 128.
 
 > When a passage from the Gospel is to be read, all stand, and the Deacon or Minister appointed says
 
@@ -116,7 +116,7 @@ In the Name of God, I, N., take you, N., to be my wife, to have and to hold from
 
 In the Name of God, I, N., take you, N., to be my husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, until we are parted by death.  This is my solemn vow.
 
-> The loose their hands.
+> They loose their hands.
 
 > The Priest may ask God's blessing on a ring or rings as follows
 
@@ -171,13 +171,13 @@ Give them such fulfillment of their mutual affection that they may reach out in 
 
 Grant that all married persons who have witnessed these vows may find their lives strengthened and their loyalties confirmed.  Amen.
 
-Grant that the bonds of our common humanity, by which all your children are united one to another, and the living to the dead, may be so transformed by your grace, that your will may be done on earth as it is in heaven; where, O Father, with your Son, and the Holy Spirit, you live and reign in perfect unity, now and for ever.  Amen.
+Grant that the bonds of our common humanity, by which all your children are united one to another, and the living to the dead, may be so transformed by your grace, that your will may be done on earth as it is in heaven; where, O Father, with your Son and the Holy Spirit, you live and reign in perfect unity, now and for ever.  Amen.
 
 ## The Blessing of the Marriage
 
 > The people remain standing.  The husband and wife kneel, and the Priest says one of the following prayers
 
-Most gracious God, we give you thanks for your tender love in sending Jesus Christ to come among us, to be born of a human mother, and to make the way of the cross to be the way of life.  We thank you, also, for consecrating the union of man and woman in his Name.  By the power of your Holy Spirit, your out the abundance of your blessing upon this man and this woman.  Defend them from every enemy.  Lead them into all peace.  Let their love for each other be a seal upon their hearts, a mantle about their shoulders, and a crown upon their foreheads.  Bless them in their work and in their companionship; in their sleeping and in their waking; in their joys and in their sorrows; in their life and in their death. Finally, in your mercy, bring them to that table where your saints feast for ever in your heavenly home; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever.  Amen.
+Most gracious God, we give you thanks for your tender love in sending Jesus Christ to come among us, to be born of a human mother, and to make the way of the cross to be the way of life.  We thank you, also, for consecrating the union of man and woman in his Name.  By the power of your Holy Spirit, pour out the abundance of your blessing upon this man and this woman.  Defend them from every enemy.  Lead them into all peace.  Let their love for each other be a seal upon their hearts, a mantle about their shoulders, and a crown upon their foreheads.  Bless them in their work and in their companionship; in their sleeping and in their waking; in their joys and in their sorrows; in their life and in their death. Finally, in your mercy, bring them to that table where your saints feast for ever in your heavenly home; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever.  Amen.
 
 > or this
 
@@ -202,7 +202,7 @@ And also with you.
 
 ## At the Eucharist
 
-> The liturgy then continues with the Offertory, at which the newly married couple may present the offerings of bread and wine.
+> The liturgy continues with the Offertory, at which the newly married couple may present the offerings of bread and wine.
 
 > Preface of Marriage
 
@@ -212,11 +212,11 @@ And also with you.
 
 O God, the giver of all that is true and lovely and gracious: We give you thanks for binding us together in these holy mysteries of the Body and Blood of your Son Jesus Christ. Grant that by your Holy Spirit, N. and N., now joined in Holy Matrimony, may become one in heart and soul, live in fidelity and peace, and obtain those eternal joys prepared for all who love you; for the sake of Jesus Christ our Lord. Amen.
 
-> As the wedding party leaves the church, a hymn, psalm, or anthem may be sung, or instrumental music may be played.
+> As the wedding party leaves the church, a hymn, psalm, or anthem may be sung; or instrumental music may be played.
 
 ## The Blessing of a Civil Marriage
 
-> The Rite begins as prescribed fo service.
+> The Rite begins as prescribed for celebrations of the Holy Eucharist, using the Collect and Lessons appointed in the Marriage service.
 
 > After the Gospel (and homily), the husband and wife stand before the Celebrant, who addresses them in these or similar words
 
@@ -274,7 +274,7 @@ In the Name of God, I, N., take you, N., to be my (wife) (husband), to have and 
 
 > or this
 
-I, N., take thee, N., to my wedded (wife) (husband), to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death do us part, according to God's holy ordinance; and thereto I (plight) (give) thee my troth.
+I, N., take thee N., to my wedded (wife) (husband), to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I (plight) (give) thee my troth.
 
 5.  The Celebrant declares the union of the man and woman as husband and wife, in the Name of the Father, and of the Son, and of the Holy Spirit.
 
@@ -284,7 +284,7 @@ I, N., take thee, N., to my wedded (wife) (husband), to have and to hold from th
 
 8.  If there is no Communion, the service concludes with the Peace, the husband and wife first greeting each other.  The Peace may be exchanged throughout the assembly.
 
-9.  If there is to be a Communion, the service continues with the Peace and the Offertory.  The Holy Eucharist may be celebrated either according to Rite One or Rite Two in this Book, or according to the Order in page 401.
+9.  If there is to be a Communion, the service continues with the Peace and the Offertory.  The Holy Eucharist may be celebrated either according to Rite One or Rite Two in this Book, or according to the Order on page 401.
 
 ## Additional Directions
 
@@ -293,7 +293,7 @@ I, N., take thee, N., to my wedded (wife) (husband), to have and to hold from th
 I publish the Banns of Marriage between N.N. of ____________ and N. N. of ___________ . If any of you know just cause why they may not be joined together in Holy Matrimony, you are bidden to declare it. This is the first (or second, or third) time of asking.
 > The Celebration and Blessing of a Marriage may be used with any authorized liturgy for the Holy Eucharist.  This service then replaces the Ministry of the Word, and the Eucharist begins with the Offertory.
 
-> After the Declaration of Consent, if there is to be a giving in marriage, or presentation, the Celebrant asks
+> After the Declaration of Consent, if there is to be a giving in marriage, or presentation, the Celebrant asks,
 
 Who gives (presents) this woman to be married to this man?
 
