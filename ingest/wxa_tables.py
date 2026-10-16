@@ -186,20 +186,21 @@ def book_dol():
             l = lines[i]
             d = day_line(l)
             if d:
-                rd = []
+                rd, rawl = [], []
                 while i + 1 < len(lines):
                     nxt = lines[i + 1]
                     if (day_line(nxt) or nxt.startswith('*')
                             or HEAD.match(nxt)
                             or not re.search(r'\d+:\d|\d+-\d|\d+ ~', nxt)):
                         break
+                    rawl.append(re.split(r'\s{3,}', nxt))
                     for x in re.split(r'\s{3,}', nxt):
                         if x.startswith('or '):
                             x = x[3:]
                         for y in split_citations(x):
                             rd.extend(split_alts(y))
                     i += 1
-                rows.append((year, week, d[0], d[1], d[2], rd, k))
+                rows.append((year, week, d[0], d[1], d[2], rd, k, rawl))
             elif HEAD.match(l):
                 week = re.split(r'\s{3,}', l)[0] if l.startswith('Proper') else l
                 weeks[year] = week
@@ -213,10 +214,11 @@ HEAD = re.compile(r'^(Week of |Proper \d|Christmas Day and|The Epiphany and|'
 
 # --- the cell -----------------------------------------------------------------
 
-def cell_dol(path=DOL):
+def cell_dol(path=DOL, text=None):
     """-> [(year, week, day, mp, ep, [readings], line)]"""
     rows, year, week = [], None, None
-    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+    src = text.split('\n') if text is not None else open(path, encoding='utf-8')
+    for n, line in enumerate(src, 1):
         s = line.strip()
         if s.startswith('## Year '):
             year = s[8:].strip().lower()
@@ -236,6 +238,9 @@ def cell_dol(path=DOL):
                     rd.append(x)
             rows.append((year, week, day, mp, ep, rd, n))
     return rows
+
+
+MATCH = {}          # cell line -> the book row compare() gave it (last run)
 
 
 def level(cv, bv):
@@ -260,11 +265,14 @@ def compare(cells, book):
     for r in book:
         idx[(r[0], head_key(r[1] or ''), day_key(r[2]))].append(r)
     used, out = set(), []
+    shifted = set()          # cell headings whose rows have run into the next week
     for c in cells:
         k = (c[0], head_key(c[1] or ''), day_key(c[2]))
         cand = [b for b in idx.get(k, []) if id(b) not in used]
         tag = None
-        if not cand and idx.get(k):
+        if (c[0], c[1]) in shifted:
+            cand = []        # once a heading's rows run on, the rest follow
+        if not cand and (idx.get(k) or (c[0], c[1]) in shifted):
             # the next week in the book that has this day free
             wk = [w for w in dict.fromkeys(order) if w[0] == c[0]]
             if (c[0], head_key(c[1] or '')) in wk:
@@ -280,7 +288,9 @@ def compare(cells, book):
             continue
         b = cand[0]
         used.add(id(b))
+        MATCH[c[6]] = b
         if tag:
+            shifted.add((c[0], c[1]))
             out.append((c, 'row', c[1], b[1], 'misfiled'))
         for col, cv, bv in (('mp', c[3], b[3]), ('ep', c[4], b[4])):
             if col == 'ep' and not cv and c[3] and not c[4]:
@@ -341,17 +351,31 @@ ABBR = re.compile(r'^(?:[1-3] )?(Gen|Exod|Lev|Num|Deut|Joshua|Judges|Ruth|Samuel
                   r'Rev|Wisdom|Ecclus|Baruch|Judith|Tobit|Macc|Esdras)\.? \d')
 
 
-def malformed(c):
-    """A citation no printing could have: an unknown book abbreviation, a
-    letter inside a number, a range that runs backwards, a chapter past the
-    end of the book, run-together text."""
+def malformed(c, col='r'):
+    """A citation no printing could have: an unknown or missing book name, a
+    letter or a stop inside a number, a double colon, a range that runs
+    backwards or overlaps the one before, a chapter past the end of the
+    book, run-together text."""
     if c is None:
         return False
     s = c.strip()
     if re.search(r'[a-z]{3,}:', s) or re.search(r'day:', s):
         return True                              # 'onday: 31' run together
-    if re.match(r'^[\d\[(]', s):
-        return False                             # a psalm list
+    if re.search(r'\d:\d+:|\d\.\d|:[a-z]|\d-\d+:\d', s):
+        return True                              # '9:1:24', '9.6b', '65:a.'
+    for a, b in re.findall(r'(?<![\d:])(\d+)-(\d+)(?![\d:])',
+                           re.sub(r'\d+:', '', s)):
+        if int(b) <= int(a):
+            return True                          # '1-1', '31-26'
+    prev = None
+    for part in re.findall(r'(\d+)(?:-(\d+))?', re.sub(r'^.*?\d+:', '', s)):
+        lo, hi = int(part[0]), int(part[1] or part[0])
+        if prev is not None and lo <= prev and ',' in s and ';' not in s and \
+                s.count(':') == 1:
+            return True                          # '23:1-17,13-17'
+        prev = hi
+    if col in ('mp', 'ep') or not re.search(r'[A-Za-z]{2,}', s.replace(' or ', ' ')):
+        return False if col in ('mp', 'ep') else col.startswith('r')
     if not ABBR.match(s.replace('Mark.', 'Mark')):
         return True
     if re.search(r'\d[A-Za-z~]\d|\d[SlO]\b|~', s):
@@ -367,9 +391,9 @@ def malformed(c):
     return False
 
 
-def judge(cv, bv):
+def judge(cv, bv, col='r'):
     """Who is wrong in a 'differs'?"""
-    cm, bm = malformed(cv), malformed(bv)
+    cm, bm = malformed(cv, col), malformed(bv, col)
     if cm and not bm:
         return 'cell-evident'
     if bm and not cm:
@@ -518,7 +542,7 @@ def main(show=False):
     jd = collections.Counter()
     for r in res:
         if r[4] == 'differs' and r[0][6] not in bad:
-            jd[judge(r[2], r[3])] += 1
+            jd[judge(r[2], r[3], r[1])] += 1
     print('  "differs" in correctly-filed rows, by who is evidently wrong: %s'
           % dict(jd))
     n1, f1, n2, f2 = sensitivity(cells, book)
@@ -539,7 +563,7 @@ def main(show=False):
                 continue
             c = r[0]
             extra = (' [%s; %s]' % (differs_class(r[2], r[3]),
-                                     judge(r[2], r[3]))) if (
+                                     judge(r[2], r[3], r[1]))) if (
                 r[4] == 'differs' and r[2] and r[3]) else ''
             print('  L%-5d %s / %s / %s  %s: %r -> %r  %s%s' % (
                 c[6], c[0], (c[1] or '')[:30], c[2], r[1], r[2], r[3], r[4], extra))

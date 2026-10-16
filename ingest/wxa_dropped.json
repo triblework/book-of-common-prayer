@@ -1,0 +1,831 @@
+{
+ "dropped": [
+  {
+   "file": "collects-epistles-gospels/christmas-day.md",
+   "line": 27,
+   "class": "d8",
+   "what": "Almighty God, you have given your only-begotten Son to take our nature upon him,",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 213
+  },
+  {
+   "file": "collects-epistles-gospels/easter-day.md",
+   "line": 23,
+   "class": "d8",
+   "what": "O God, who made this most holy night to shine with the glory of the Lord's resur",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 222
+  },
+  {
+   "file": "daily-office/morning-prayer.md",
+   "line": 230,
+   "class": "d1",
+   "what": "1 -> i",
+   "reason": "glyph",
+   "page": 46
+  },
+  {
+   "file": "daily-office/morning-prayer.md",
+   "line": 230,
+   "class": "d1",
+   "what": "1 -> i",
+   "reason": "glyph",
+   "page": 46
+  },
+  {
+   "file": "daily-office/morning-prayer.md",
+   "line": 652,
+   "class": "d1",
+   "what": "1 -> i",
+   "reason": "glyph",
+   "page": 76
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 129,
+   "class": "d8",
+   "what": "Open, O Lord, the eyes of all people to behold thy gracious hand in all thy work",
+   "reason": "edge (no agreed word on one side)",
+   "page": 330
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 169,
+   "class": "d7",
+   "what": "i -> 1",
+   "reason": "glyph",
+   "page": 332
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 171,
+   "class": "d1",
+   "what": "i -> 1",
+   "reason": "glyph",
+   "page": 332
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 243,
+   "class": "d8",
+   "what": "And although we are unworthy, through our manifold sins, to off all honor and gl",
+   "reason": "edge (no agreed word on one side)",
+   "page": 336
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 311,
+   "class": "d8",
+   "what": "Almighty and everliving God, we most heartily thank thee for that thou dost feed",
+   "reason": "edge (no agreed word on one side)",
+   "page": 339
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 471,
+   "class": "d8",
+   "what": "Through Jesus Christ our Lord; who for our sins was lifted high upon the cross, ",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 346
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 551,
+   "class": "word",
+   "what": "th -> again",
+   "reason": "placement",
+   "page": 363
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 551,
+   "class": "word",
+   "what": "day of pentecost -> celebrant continues we",
+   "reason": "placement",
+   "page": 363
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 654,
+   "class": "word",
+   "what": "tron page 383 -> trouble the departed",
+   "reason": "placement",
+   "page": 359
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 1002,
+   "class": "d1",
+   "what": "whe -> who",
+   "reason": "unverified",
+   "page": 375
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 1136,
+   "class": "d8",
+   "what": "Through Jesus Cepared for us a dwelling place eternal in the heavens.",
+   "reason": "edge (no agreed word on one side)",
+   "page": 349
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 1230,
+   "class": "d8",
+   "what": "I ask your prayers for all who sembers of the congregation may ask the prayers o",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 386
+  },
+  {
+   "file": "holy-communion/holy-communion.md",
+   "line": 1420,
+   "class": "d8",
+   "what": "The Collec the Church;",
+   "reason": "edge (no agreed word on one side)",
+   "page": 394
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 188,
+   "class": "d8",
+   "what": "He shall feed me in a green pasture, : and lead me forth in the paths of righteo",
+   "reason": "pointing",
+   "page": 476
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 230,
+   "class": "d8",
+   "what": "O hide not thou thy face froRD in the land of the living.",
+   "reason": "pointing",
+   "page": 478
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 300,
+   "class": "d8",
+   "what": "> The Apostle's creed may be said, all standing",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 480
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 380,
+   "class": "d8",
+   "what": "The Song of Zechariah, =Benedictour sins art justly displeased?",
+   "reason": "edge (no agreed word on one side)",
+   "page": 484
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 454,
+   "class": "d8",
+   "what": "O Lord Jesus Christ, Son of the living God, we pray thee to set thy passion, cro",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 489
+  },
+  {
+   "file": "occasional-offices/burial.md",
+   "line": 750,
+   "class": "d8",
+   "what": "The God of peace, who brought again from the ng in his sight; through Jesus Chri",
+   "reason": "edge (no agreed word on one side)",
+   "page": 503
+  },
+  {
+   "file": "occasional-offices/catechism.md",
+   "line": 303,
+   "class": "d8",
+   "what": "**A.** We understand the meaning of the Bible by the help of [ Page 854> the Hol",
+   "reason": "markup inside the damaged stretch",
+   "page": 854
+  },
+  {
+   "file": "occasional-offices/catechism.md",
+   "line": 485,
+   "class": "d8",
+   "what": "**A.** The benefits we receive are the forgiveness of our sins, [ Page 860> the ",
+   "reason": "markup inside the damaged stretch",
+   "page": 860
+  },
+  {
+   "file": "occasional-offices/churching.md",
+   "line": 125,
+   "class": "d8",
+   "what": "O gracious God, we give you humble and hearty thanks that you have preserved thr",
+   "reason": "edge (no agreed word on one side)",
+   "page": 444
+  },
+  {
+   "file": "occasional-offices/confirmation.md",
+   "line": 45,
+   "class": "d8",
+   "what": "**Bishop.**  One Lord, one Faith, ose of the Day.  At the discretion of the bish",
+   "reason": "markup inside the damaged stretch",
+   "page": 414
+  },
+  {
+   "file": "occasional-offices/confirmation.md",
+   "line": 185,
+   "class": "d8",
+   "what": "Almighty God, we thank you that by the death and resurrection of your Son Jesus ",
+   "reason": "edge (no agreed word on one side)",
+   "page": 418
+  },
+  {
+   "file": "occasional-offices/matrimony.md",
+   "line": 219,
+   "class": "d8",
+   "what": "> The Rite begins as prescribed fo service.",
+   "reason": "edge (no agreed word on one side)",
+   "page": 433
+  },
+  {
+   "file": "occasional-offices/public-baptism.md",
+   "line": 19,
+   "class": "d8",
+   "what": "> It is fitting that parents be included among the godparents of their own child",
+   "reason": "edge (no agreed word on one side)",
+   "page": 298
+  },
+  {
+   "file": "occasional-offices/public-baptism.md",
+   "line": 167,
+   "class": "d8",
+   "what": "*Presenters*  I p who desire to reaffirm their= baptismal vows.",
+   "reason": "edge (no agreed word on one side)",
+   "page": 303
+  },
+  {
+   "file": "occasional-offices/public-baptism.md",
+   "line": 345,
+   "class": "d8",
+   "what": "*The Bishodaily increase in your Holy Spirit more and more, until he comes to yo",
+   "reason": "edge (no agreed word on one side)",
+   "page": 309
+  },
+  {
+   "file": "occasional-offices/visitation-sick.md",
+   "line": 123,
+   "class": "d8",
+   "what": "O Father of mercierve him from the temptations of the enemy; and give him patien",
+   "reason": "edge (no agreed word on one side)",
+   "page": 458
+  },
+  {
+   "file": "ordinal/consecration-bishops.md",
+   "line": 103,
+   "class": "d8",
+   "what": "> or the Reader may say*  Here ends the Reading n or a Priest reads the Gospel, ",
+   "reason": "needs structuring (rubrics or speakers inside part of a paragraph)",
+   "page": 516
+  },
+  {
+   "file": "ordinal/ordering-deacons.md",
+   "line": 11,
+   "class": "d8",
+   "what": "**People.**  And blessed be his kingdom, now op*  Bless the Lord who forgives al",
+   "reason": "markup inside the damaged stretch",
+   "page": 512
+  },
+  {
+   "file": "ordinal/ordering-deacons.md",
+   "line": 87,
+   "class": "d8",
+   "what": "Epistle  2 Corinthians 4:1-6, *or* 1 Tiks be to God.",
+   "reason": "edge (no agreed word on one side)",
+   "page": 540
+  },
+  {
+   "file": "ordinal/preface.md",
+   "line": 9,
+   "class": "d8",
+   "what": "It is also recognized and affirmed that the threefold ministry is not the exclus",
+   "reason": "edge (no agreed word on one side)",
+   "page": 510
+  },
+  {
+   "file": "prayers-and-thanksgivings/thanksgiving-for-the-harvest.md",
+   "line": 7,
+   "class": "d1",
+   "what": "seed -> seedtime",
+   "reason": "wrap-split word (the re-flow joins it)",
+   "page": 840
+  },
+  {
+   "file": "prayers-and-thanksgivings/thanksgiving-for-the-harvest.md",
+   "line": 9,
+   "class": "d1",
+   "what": "time -> seedtime",
+   "reason": "wrap-split word (the re-flow joins it)",
+   "page": 840
+  },
+  {
+   "file": "tables/feasts-and-fasts.md",
+   "line": 27,
+   "class": "d7",
+   "what": "1 -> i",
+   "reason": "glyph",
+   "page": 15
+  },
+  {
+   "file": "tables/daily-office-lectionary.md",
+   "line": 527,
+   "class": "dol",
+   "what": "2 Cor. 12:11-21 -> 2 Cor. 12 ~ 21",
+   "reason": "witness-evident",
+   "page": null
+  },
+  {
+   "file": "tables/daily-office-lectionary.md",
+   "line": 771,
+   "class": "dol",
+   "what": "2 Chron. 29:1-3,30:1(2-9)10-27 -> 30:1(2-9) 10-27",
+   "reason": "witness-evident",
+   "page": null
+  },
+  {
+   "file": "tables/daily-office-lectionary.md",
+   "line": 826,
+   "class": "dol",
+   "what": "Luke 10:25-37 -> Luke 10:2S-37",
+   "reason": "witness-evident",
+   "page": null
+  },
+  {
+   "file": "tables/daily-office-lectionary.md",
+   "line": 1068,
+   "class": "dol",
+   "what": "Gen. 24:28-38,49-51 -> Gen. 24:28-38, 49-5l",
+   "reason": "witness-evident",
+   "page": null
+  },
+  {
+   "file": "tables/daily-office-lectionary.md",
+   "line": 1482,
+   "class": "dol",
+   "what": "Matt. 23:1-12 -> Mark. 23:1-12",
+   "reason": "witness-evident",
+   "page": null
+  }
+ ],
+ "dol_disputes": [
+  {
+   "line": 7,
+   "occasion": "one / Week of 1 Advent / Sunday",
+   "column": "r3",
+   "cell": "Matt. 25:1-13",
+   "book": "Matt. 25:1-18",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 1
+    },
+    "continuity": "none"
+   },
+   "supports": "cell"
+  },
+  {
+   "line": 19,
+   "occasion": "one / Week of 1 Advent / Saturday",
+   "column": "ep",
+   "cell": "110:1-5(6-7), 116, 117",
+   "book": "110:5(6-7), 116, 117",
+   "checks": {
+    "other_year": "cell",
+    "elsewhere": {
+     "cell_reading_in_book": 15,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 12
+    }
+   },
+   "supports": "cell"
+  },
+  {
+   "line": 51,
+   "occasion": "one / Week of 3 Advent / Saturday",
+   "column": "r3",
+   "cell": "Luke 3:19",
+   "book": "Luke 3:1-9",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 205,
+   "occasion": "one / Week of 6 Epiphany / Friday",
+   "column": "r2",
+   "cell": "1 John 3:4-10",
+   "book": "Mark 12:28-34",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 1,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book"
+    ]
+   },
+   "supports": "book"
+  },
+  {
+   "line": 205,
+   "occasion": "one / Week of 6 Epiphany / Friday",
+   "column": "r3",
+   "cell": "John 10:7-16",
+   "book": "1 Tim 5:17-22(23-25)",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 1,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "cell"
+  },
+  {
+   "line": 347,
+   "occasion": "one / Easter Week / Tuesday",
+   "column": "r2",
+   "cell": "Acts 2:26-41(42-47)[*]",
+   "book": "Acts 2:36-41(42-47)*",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 642,
+   "occasion": "one / Proper 13 (Week of the Sunday closest to August 3) / Sunday",
+   "column": "r2",
+   "cell": "Rom. 4:7-12",
+   "book": "Rom. 14:7-12",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 680,
+   "occasion": "one / Proper 15 (Week of the Sunday closest to August 17) / Wednesday",
+   "column": "r1",
+   "cell": "2 Samuel 18:19-23",
+   "book": "2 Samuel 18:19-33",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book",
+     "cell"
+    ]
+   },
+   "supports": "split"
+  },
+  {
+   "line": 735,
+   "occasion": "one / Proper 19 (Week of the Sunday closest to September 14) / Sunday",
+   "column": "r3",
+   "cell": "John 11:45-47",
+   "book": "John 11:45-57",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 751,
+   "occasion": "one / Proper 20 (Week of the Sunday closest to September 21) / Sunday",
+   "column": "r2",
+   "cell": "Acts 9:10-31",
+   "book": "Acts 9:10-32",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 759,
+   "occasion": "one / Proper 20 (Week of the Sunday closest to September 21) / Thursday",
+   "column": "mp",
+   "cell": "[83] or 146, 147",
+   "book": "[83] or 116, 117",
+   "checks": {
+    "other_year": "neither",
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 3
+    }
+   },
+   "supports": "none"
+  },
+  {
+   "line": 807,
+   "occasion": "one / Proper 23 (Week of the Sunday closest to October 12) / Thursday",
+   "column": "r1",
+   "cell": "Jer. 38:1-13",
+   "book": "Jer. 38:1-13 1",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book",
+     "cell"
+    ]
+   },
+   "supports": "split"
+  },
+  {
+   "line": 807,
+   "occasion": "one / Proper 23 (Week of the Sunday closest to October 12) / Thursday",
+   "column": "r2",
+   "cell": "1 Cor. 14:26-33a,37-40",
+   "book": "Cor. 14:26-33a, 37-40",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "cell"
+    ]
+   },
+   "supports": "cell"
+  },
+  {
+   "line": 834,
+   "occasion": "one / Proper 25 (Week of the Sunday closest to October 26) / Thursday",
+   "column": "ep",
+   "cell": "[59,60] or 33",
+   "book": "[59,  60] or 103",
+   "checks": {
+    "other_year": "neither",
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 3
+    }
+   },
+   "supports": "none"
+  },
+  {
+   "line": 870,
+   "occasion": "one / Proper 27 (Week of the Sunday closest to November 9) / Saturday",
+   "column": "r3",
+   "cell": "Mark 16:21-28",
+   "book": "Matt. 16:21-28",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book"
+    ]
+   },
+   "supports": "book"
+  },
+  {
+   "line": 919,
+   "occasion": "two / Week of 2 Advent / Sunday",
+   "column": "r2",
+   "cell": "1 Thess. 5:1-11",
+   "book": "2 Thess. 1:5-12",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 3,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 3
+    },
+    "continuity": "none"
+   },
+   "supports": "cell"
+  },
+  {
+   "line": 923,
+   "occasion": "two / Week of 2 Advent / Tuesday",
+   "column": "r1",
+   "cell": "Amos 7:10-17, 24-25",
+   "book": "Amos 7:10-17",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book",
+     "cell"
+    ]
+   },
+   "supports": "split"
+  },
+  {
+   "line": 931,
+   "occasion": "two / Week of 2 Advent / Saturday",
+   "column": "r1",
+   "cell": "Haggai 2:1-19",
+   "book": "Haggai 2:1-9",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 961,
+   "occasion": "two / Week of 4 Advent / Friday",
+   "column": "r3",
+   "cell": "Luke 1:67-80",
+   "book": "Luke 1:67-80 or",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 1,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book",
+     "cell"
+    ]
+   },
+   "supports": "split"
+  },
+  {
+   "line": 1042,
+   "occasion": "two / Week of 3 Epiphany / Monday",
+   "column": "r1",
+   "cell": "Gen. 14:(1-7)8-24",
+   "book": "Gen. 14(1-7)8-24",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 1171,
+   "occasion": "two / Week of 2 Lent / Thursday",
+   "column": "r2",
+   "cell": "1 Cor. 6:12-30",
+   "book": "1 Cor. 6:12-20",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 2,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": "none"
+   },
+   "supports": "book"
+  },
+  {
+   "line": 1233,
+   "occasion": "two / Holy Week / Wednesday",
+   "column": "r1",
+   "cell": "Lam. 2:1-9, 14-17",
+   "book": "Lam. 2:1-9",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 0
+    },
+    "continuity": [
+     "book",
+     "cell"
+    ]
+   },
+   "supports": "split"
+  },
+  {
+   "line": 1344,
+   "occasion": "two / Week of 7 Easter / Tuesday",
+   "column": "r3",
+   "cell": "Matt. 9:1-8",
+   "book": "Matt. 8:18-27",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 1
+    },
+    "continuity": [
+     "book"
+    ]
+   },
+   "supports": "book"
+  },
+  {
+   "line": 1438,
+   "occasion": "two / Proper 6 (Week of the Sunday closest to June 15) / Monday",
+   "column": "r3",
+   "cell": "Matt. 18:1-9",
+   "book": "Matt. 17:14-21",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 1
+    },
+    "continuity": [
+     "book"
+    ]
+   },
+   "supports": "book"
+  },
+  {
+   "line": 1595,
+   "occasion": "two / Proper 16 (Week of the Sunday closest to August 24) / Thursday",
+   "column": "r1",
+   "cell": "Job 6:1,7:1-21",
+   "book": "Job 8:1-10, 20-22",
+   "checks": {
+    "elsewhere": {
+     "cell_reading_in_book": 0,
+     "book_reading_in_book": 0,
+     "cell_reading_in_cell": 1
+    },
+    "continuity": "none"
+   },
+   "supports": "none"
+  },
+  {
+   "line": 1658,
+   "occasion": "two / Proper 20 (Week of the Sunday closest to September 21) / Thursday",
+   "column": "mp",
+   "cell": "[83] or 146, 147",
+   "book": "[83] or 116, 117",
+   "checks": {
+    "other_year": "neither",
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 3
+    }
+   },
+   "supports": "none"
+  },
+  {
+   "line": 1738,
+   "occasion": "two / Proper 25 (Week of the Sunday closest to October 26) / Thursday",
+   "column": "ep",
+   "cell": "[59,60] or 33",
+   "book": "[59, 60] or 103",
+   "checks": {
+    "other_year": "neither",
+    "elsewhere": {
+     "cell_reading_in_book": 2,
+     "book_reading_in_book": 1,
+     "cell_reading_in_cell": 3
+    }
+   },
+   "supports": "none"
+  }
+ ]
+}

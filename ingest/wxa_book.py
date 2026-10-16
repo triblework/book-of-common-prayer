@@ -88,6 +88,20 @@ def words(t):
     return re.findall(r'[a-z0-9]+', fold_chars(t).lower())
 
 
+WORD = re.compile(r'[^\W_]+')
+
+
+def spans(t):
+    """-> [(folded word, start, end)] over the ORIGINAL text t, giving the
+    same word list as words(t) but with each word's character span, so a
+    correction can be cut from (and put back into) the real text."""
+    out = []
+    for m in WORD.finditer(t):
+        for w in re.findall(r'[a-z0-9]+', fold_chars(m.group()).lower()):
+            out.append((w, m.start(), m.end()))
+    return out
+
+
 PTOK = re.compile(r'[a-z0-9]+|[,;:.?!()\[\]]|\*')
 
 
@@ -171,18 +185,82 @@ def pages():
     return out
 
 
+_STYLE = None
+
+
+def styles():
+    """-> {page: [font of each character of pages()[page]] or None}. The
+    PDF's runs name their font (Sabon-Roman text, Sabon-Italic rubrics and
+    speaker names, Sabon-RomanSC small capitals, Sabon-Bold titles); the
+    non-space characters of the runs are matched one for one against the
+    page text. A page whose order cannot be matched (a rebuilt
+    parallel-column page) gets None -- no style is guessed there."""
+    global _STYLE
+    if _STYLE is not None:
+        return _STYLE
+    cache = os.path.join(HERE, '.cache', 'wxa_styles.json')
+    if os.path.exists(cache):
+        raw = json.load(open(cache))
+    else:
+        import pypdf
+        r = pypdf.PdfReader(WTX.SRC)
+        raw = {}
+        for i, p in enumerate(r.pages, 1):
+            runs = []
+
+            def v(text, cm, tm, fd, fs):
+                if text:
+                    runs.append([((fd or {}).get('/BaseFont') or '?')
+                                 .lstrip('/'), text])
+            try:
+                p.extract_text(visitor_text=v)
+            except Exception:
+                runs = []
+            raw[str(i)] = runs
+        os.makedirs(os.path.dirname(cache), exist_ok=True)
+        json.dump(raw, open(cache, 'w'))
+    pg = pages()
+    out = {}
+    for k, t in pg.items():
+        runs = raw.get(str(k), [])
+        chars = [(f, c) for f, txt in runs for c in txt if not c.isspace()]
+        fonts = [None] * len(t)
+        j = 0
+        ok = True
+        for i, c in enumerate(t):
+            if c.isspace():
+                continue
+            while j < len(chars) and chars[j][1] != c:
+                # tolerate a few characters the runs carry that the page
+                # text does not (feet, slugs are at the end anyway)
+                j += 1
+                if j - i > 200:
+                    break
+            if j >= len(chars) or chars[j][1] != c:
+                ok = False
+                break
+            fonts[i] = chars[j][0]
+            j += 1
+        out[k] = fonts if ok else None
+    _STYLE = out
+    return out
+
+
 class Book:
     """The whole book as one word stream, with each word's page."""
 
     def __init__(self, n=4, skip=()):
         pg = pages()
-        self.tok, self.page = [], []
+        self.tok, self.page, self.span = [], [], []
         for k in sorted(pg):
             if k in skip:
                 continue
-            w = words(pg[k])
+            sp = spans(pg[k])
+            w = [x[0] for x in sp]
+            assert w == words(pg[k]), 'span tokenizer disagrees on p%d' % k
             self.tok.extend(w)
             self.page.extend([k] * len(w))
+            self.span.extend((x[1], x[2]) for x in sp)
         # the punctuation stream, and for each word its index in it
         self.ptok, self.wpos = [], []
         for k in sorted(pg):
@@ -301,6 +379,41 @@ class Book:
         if i < 0:
             return None
         return self.joined[:i].count(' ')
+
+    def raw(self, a, b):
+        """The book's own text from word a to word b-1 (b > a), whitespace
+        made single spaces; spans pages if it must (feet already dropped)."""
+        pg = pages()
+        out, k0 = [], self.page[a]
+        start = self.span[a][0]
+        for k in range(self.page[a], self.page[b - 1] + 1):
+            t = pg.get(k, '')
+            s0 = start if k == self.page[a] else 0
+            e0 = self.span[b - 1][1] if k == self.page[b - 1] else len(t)
+            out.append(t[s0:e0])
+        return re.sub(r'\s+', ' ', ' '.join(out)).strip()
+
+    def raw_between(self, a, b):
+        """The book's exact text after word a and before word b (b > a),
+        across a page turn if need be (feet already dropped)."""
+        pg = pages()
+        ka, kb = self.page[a], self.page[b]
+        if ka == kb:
+            return pg[ka][self.span[a][1]:self.span[b][0]]
+        out = [pg[ka][self.span[a][1]:]]
+        for k in range(ka + 1, kb):
+            out.append(pg.get(k, ''))
+        out.append(pg[kb][:self.span[b][0]])
+        return '\n'.join(out)
+
+    def between(self, a):
+        """The book's text between word a and word a+1 (its separator)."""
+        pg = pages()
+        if self.page[a] == self.page[a + 1]:
+            t = pg[self.page[a]]
+            return t[self.span[a][1]:self.span[a + 1][0]]
+        return (pg[self.page[a]][self.span[a][1]:] + ' ' +
+                pg[self.page[a + 1]][:self.span[a + 1][0]])
 
     def context(self, pos, before=4, after=4):
         return ' '.join(self.tok[max(0, pos - before):pos + after])
