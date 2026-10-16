@@ -1536,7 +1536,11 @@ planning around them.
    `scrape-cache/`. Fiddlier than prose — it is table transcription off OCR,
    the same structure that defeated the 1892 Kalendar — but it closes a
    recorded gap standing since Wave 14.
-3. **The 1928 Psalter against the 1952 facsimile — BLOCKED.** The witness is
+3. **The 1928 Psalter against the 1952 facsimile — UNBLOCKED 2026-10-16.**
+   Re-checked that day: `http://justus.anglican.org/resources/bcp/` now 302s to
+   **https** and serves (200), as does `1928Standard/Standard.htm`; the 403 on
+   the `bcp/` tree is gone, and HTTPS now has a valid certificate. The history
+   below is kept for the record. (Was: BLOCKED.) The witness is
    justus's `1928Standard/1952std.pdf` (~67MB of page graphics, linked from
    `1928Standard/Standard.htm`), NOT `bcp1928std.pdf`, which is Wohlers'
    re-setting and would be a second keying (R6). **justus.anglican.org was
