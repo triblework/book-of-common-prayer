@@ -1,13 +1,3 @@
 # For an Election
 
-Almighty God, to whom we must account for all our powers
-
-and privileges:  Guide the people of the United States (*or* of
-
-this community) in the election of officials and representatives;
-
-that, by faithful administration and wise laws, the rights of
-
-all may be protected and our nation be enabled to fulfill your
-
-purposes; through Jesus Christ our Lord.  Amen.
+Almighty God, to whom we must account for all our powers and privileges:  Guide the people of the United States (*or* of this community) in the election of officials and representatives; that, by faithful administration and wise laws, the rights of all may be protected and our nation be enabled to fulfill your purposes; through Jesus Christ our Lord.  Amen.

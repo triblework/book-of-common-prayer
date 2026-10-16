@@ -58,7 +58,7 @@ COMMIT2 = COMMIT1 + ['MARKUP']
 # The wave's stages (R22): 1 corrections + restorations + DOL (and the new
 # Holy Days cell), 2 markup normalization, 3 the prayers' re-flow. STAGE is
 # the stage the cells are at; wxa_gates.py checks the cells against it.
-STAGE = 2
+STAGE = 3
 NEW_CELLS = {'tables/daily-office-lectionary-holy-days.md': 1}
 REFLOW_DIR = 'prayers-and-thanksgivings/'
 
