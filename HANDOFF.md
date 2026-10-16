@@ -55,6 +55,18 @@ Gates: `w23_gates` 0 at every stage (containment vs `710f635b` by SHA, the
 Wave-19 residue, the two untouchable cells, no markup survives, run-on);
 `w13`–`w22` 0; `verify_index --check` OK.
 
+**The full build (one build for Waves 21–23, 2026-10-16, authoring `ac3b4c3`):**
+scratch tips `main ad35d50f · scottish 6d83b578 · american 525f7fac`. Against
+the live tags `texts/` changed ONLY at v1892 (6 files), v1928 (6 files) and
+v1979 (322 files: 161 cells in `original/` and `normalized/` — 81 prayers, 59
+collects, 8 occasional offices, 4 ordinal, 3 tables, 2 daily office, 2
+front-matter, the Litany, Holy Communion); the other nine tags are
+byte-identical in `texts/` and differ only in NOTICE/README/SOURCES. Every
+tag and branch passes `sentence_split --check`, `normalize --check` and the
+published-context `verify_index`; no tag carries U+FFFD. NOT PUBLISHED: the
+six steps in the Wave-15 block with the Wave-18/19 refinements (tags pushed
+BY NAME; no scratch tags) wait for the maintainer's go-ahead (R4).
+
 **Queue from this wave:** the 100 flags that need a pre-2006 printing scan;
 the case pass from the font runs (Sabon-RomanSC) if R11's limit is reopened;
 26 lines opening an italic mark the e-text never closes (not a R22 pattern;
