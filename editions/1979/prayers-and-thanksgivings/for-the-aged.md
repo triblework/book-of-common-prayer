@@ -12,4 +12,4 @@ strength diminishes, increase their faith and their assurance
 
 of your love.  This we ask in the name of Jesus Christ our
 
-Lord.  =Amen.=
+Lord.  Amen.

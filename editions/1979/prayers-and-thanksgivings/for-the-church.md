@@ -10,4 +10,4 @@ amiss, reform it.  Where it is right, strengthen it; where it is in
 
 want, provide for it; where it is divided, reunite it; for the sake
 
-of Jesus Christ thy Son our Savior.  =Amen.=
+of Jesus Christ thy Son our Savior.  Amen.

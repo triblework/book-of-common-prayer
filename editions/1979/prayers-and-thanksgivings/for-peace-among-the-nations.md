@@ -8,4 +8,4 @@ them that peace which is the fruit of righteousness, that they
 
 may become the kingdom of our Lord and Savior Jesus Christ.
 
-=Amen.=
+Amen.

@@ -118,8 +118,8 @@ The Almighty and merciful Lord grant you absolution and remission of all your si
 
 > All stand
 
-**Officiant* : O Lord, open thou our lips.
-**People* : And our mouth shall show forth thy praise.
+**Officiant.** O Lord, open thou our lips.
+**People.** And our mouth shall show forth thy praise.
 
 > Officiant and People
 
@@ -257,7 +257,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the 
 
 > One or two lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &mdash..
+A Reading (Lesson) from ________.
 
 > A citation giving chapter and verse may be added.
 
@@ -265,7 +265,7 @@ A Reading (Lesson) from &mdash..
 
 The Word of the Lord.
 
-**Answer* : Thanks be to God.
+**Answer.** Thanks be to God.
 
 *Or the Reader may say : Here endeth the Lesson (Reading).
 
@@ -475,11 +475,11 @@ I believe in the Holy Ghost, the holy catholic Church, the communion of saints, 
 
 > The People stand or kneel
 
-**Officiant* : The Lord be with you.
+**Officiant.** The Lord be with you.
 
-**People* : And with thy spirit.
+**People.** And with thy spirit.
 
-**Officiant* : Let us pray.
+**Officiant.** Let us pray.
 
 > Officiant and People
 
@@ -495,55 +495,55 @@ For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen
 
 ## Suffrages A
 
-&V.  O Lord, show thy mercy upon us;
+V.  O Lord, show thy mercy upon us;
 
-&R.  And grant us thy salvation.
+R.  And grant us thy salvation.
 
-&V.  Endue thy ministers with righteousness;
+V.  Endue thy ministers with righteousness;
 
-&R.  And make thy chosen people joyful.
+R.  And make thy chosen people joyful.
 
-&V.  Give peace, O Lord, in all the world;
+V.  Give peace, O Lord, in all the world;
 
-&R.  For only in thee can we live in safety.
+R.  For only in thee can we live in safety.
 
-&V.  Lord, keep this nation under thy care;
+V.  Lord, keep this nation under thy care;
 
-&R.  And guide us in the way of justice and truth.
+R.  And guide us in the way of justice and truth.
 
-&V.  Let thy way be known upon earth;
+V.  Let thy way be known upon earth;
 
-&R.  Thy saving health among all nations.
+R.  Thy saving health among all nations.
 
-&V.  Let not the needy, O Lord, be forgotten;
+V.  Let not the needy, O Lord, be forgotten;
 
-&R.  Nor the hope of the poor be taken away.
+R.  Nor the hope of the poor be taken away.
 
-&V.  Create in us clean hearts, O God;
+V.  Create in us clean hearts, O God;
 
-&R.  And sustain us with thy Holy Spirit.
+R.  And sustain us with thy Holy Spirit.
 
 ## Suffrages B
 
-&V.  O Lord, save thy people, and bless thine heritage;
+V.  O Lord, save thy people, and bless thine heritage;
 
-&R.  Govern them and lift them up for ever.
+R.  Govern them and lift them up for ever.
 
-&V.  Day by day we magnify thee;
+V.  Day by day we magnify thee;
 
-&R.  And we worship thy name ever, world without end.
+R.  And we worship thy name ever, world without end.
 
-&V.  Vouchsafe, O Lord, to keep us this day without sin;
+V.  Vouchsafe, O Lord, to keep us this day without sin;
 
-&R.  O Lord, have mercy upon us, have mercy upon us.
+R.  O Lord, have mercy upon us, have mercy upon us.
 
-&V.  O Lord, let thy mercy be upon us;
+V.  O Lord, let thy mercy be upon us;
 
-&R.  As our trust is in thee.
+R.  As our trust is in thee.
 
-&V.  O Lord, in thee have I trusted;
+V.  O Lord, in thee have I trusted;
 
-&R.  Let me never be confounded.
+R.  Let me never be confounded.
 
 > The Officiant then says one or more of the following Collects
 
@@ -739,8 +739,8 @@ Almighty God have mercy on you, forgive you all your sins through our Lord Jesus
 
 > All stand
 
-**Officiant* : Lord, open our lips.
-**People* : And our mouth shall proclaim your praise.
+**Officiant.** Lord, open our lips.
+**People.** And our mouth shall proclaim your praise.
 
 > Officiant and People
 
@@ -874,7 +874,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the 
 
 *One or two lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &mdash..
+A Reading (Lesson) from _____________.
 
 > A citation giving chapter and verse may be added.
 
@@ -882,7 +882,7 @@ A Reading (Lesson) from &mdash..
 
 The Word of the Lord.
 
-**Answer* : Thanks be to God.
+**Answer.** Thanks be to God.
 
 *Or the Reader may say : Here ends the Lesson (Reading).
 
@@ -1032,7 +1032,7 @@ Glorify the Lord, every shower of rain and fall of dew, : all winds and fire and
 
 Winter and Summer, glorify the Lord, : praise him and highly exalt him for ever.
 
-Glorify the Lord, O chill and cold, : drops of dew and flakes of snow>
+Glorify the Lord, O chill and cold, : drops of dew and flakes of snow
 
 Frost and cold, ice and sleet, glorify the Lord, : praise him and highly exalt him for ever.
 
@@ -1278,11 +1278,11 @@ I believe in the Holy Spirit, the holy catholic Church, the communion of saints,
 
 > The People stand or kneel
 
-**Officiant* : The Lord be with you.
+**Officiant.** The Lord be with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
-**Officiant* : Let us pray.
+**Officiant.** Let us pray.
 
 > Officiant and People
 
@@ -1306,55 +1306,55 @@ For the kingdom, the power, and the glory are yours, now and for ever.  Amen.
 
 ### Suffrages A
 
-&V.  Show us your mercy, O Lord;
+V.  Show us your mercy, O Lord;
 
-&R.  And grant us your salvation.
+R.  And grant us your salvation.
 
-&V.  Clothe your ministers with righteousness;
+V.  Clothe your ministers with righteousness;
 
-&R.  Let your people sing with joy.
+R.  Let your people sing with joy.
 
-&V.  Give peace, O Lord, in all the world;
+V.  Give peace, O Lord, in all the world;
 
-&R.  For only in you can we live in safety.
+R.  For only in you can we live in safety.
 
-&V.  Lord, keep this nation under your care;
+V.  Lord, keep this nation under your care;
 
-&R.  And guide us in the way of justice and truth.
+R.  And guide us in the way of justice and truth.
 
-&V.  Let your way be known upon earth;
+V.  Let your way be known upon earth;
 
-&R.  Your saving health among all nations.
+R.  Your saving health among all nations.
 
-&V.  Let not the needy, O Lord, be forgotten;
+V.  Let not the needy, O Lord, be forgotten;
 
-&R.  Nor the hope of the poor be taken away.
+R.  Nor the hope of the poor be taken away.
 
-&V.  Create in us clean hearts, O God;
+V.  Create in us clean hearts, O God;
 
-&R.  And sustain us with your Holy Spirit.
+R.  And sustain us with your Holy Spirit.
 
 ### Suffrages B
 
-&V.  Save your people, Lord, and bless your inheritance;
+V.  Save your people, Lord, and bless your inheritance;
 
-&R.  Govern and uphold them, now and always.
+R.  Govern and uphold them, now and always.
 
-&V.  Day by day we bless you;
+V.  Day by day we bless you;
 
-&R.  We praise your name for ever.
+R.  We praise your name for ever.
 
-&V.  Lord, keep us from all sin today;
+V.  Lord, keep us from all sin today;
 
-&R.  Have mercy on us, Lord, have mercy.
+R.  Have mercy on us, Lord, have mercy.
 
-&V.  Lord, show us your love and mercy;
+V.  Lord, show us your love and mercy;
 
-&R.  For we put our trust in you.
+R.  For we put our trust in you.
 
-&V.  In you, Lord, is our hope;
+V.  In you, Lord, is our hope;
 
-&R.  And we shall never hope in vain.
+R.  And we shall never hope in vain.
 
 > The Officiant then says one or more of the following Collects
 

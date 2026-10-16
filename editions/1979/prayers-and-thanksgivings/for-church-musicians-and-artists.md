@@ -10,4 +10,4 @@ earth; and grant to them even now glimpses of your beauty,
 
 and make them worthy at length to behold it unveiled for
 
-evermore; through Jesus Christ our Lord.  =Amen.=
+evermore; through Jesus Christ our Lord.  Amen.

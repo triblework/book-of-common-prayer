@@ -10,6 +10,6 @@ blessing of the Holy Spirit, that they may be filled with the
 
 strength of his presence; through Jesus Christ our Lord.
 
-=Amen.=
+Amen.
 
 *For those to be ordained, see Various Occasions no. 15.*

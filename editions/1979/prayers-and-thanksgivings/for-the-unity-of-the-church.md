@@ -20,6 +20,6 @@ of one heart and of one soul, united in one holy bond of truth
 
 and peace, of faith and charity, and may with one mind and
 
-one mouth glorify =thee=; through Jesus Christ our Lord.
+one mouth glorify thee; through Jesus Christ our Lord.
 
-=Amen.=
+Amen.

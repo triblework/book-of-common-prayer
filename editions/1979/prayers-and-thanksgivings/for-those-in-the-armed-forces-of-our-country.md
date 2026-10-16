@@ -12,4 +12,4 @@ them courage to face the perils which beset them; and grant
 
 them a sense of your abiding presence wherever they may be;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

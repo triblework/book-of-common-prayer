@@ -30,4 +30,4 @@ In the time of prosperity, fill our hearts with thankfulness,
 
 and in the day of trouble, suffer not our trust in thee to fail;
 
-all which we ask through Jesus Christ our Lord.  =Amen.=
+all which we ask through Jesus Christ our Lord.  Amen.

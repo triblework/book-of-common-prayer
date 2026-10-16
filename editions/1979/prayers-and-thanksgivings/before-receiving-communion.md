@@ -8,4 +8,4 @@ were present with your disciples, and be known to us in the
 
 breaking of bread; who live and reign with the Father and
 
-the Holy Spirit, now and for ever.  =Amen.=
+the Holy Spirit, now and for ever.  Amen.

@@ -12,4 +12,4 @@ safeguard them for our posterity.  Grant that we may continue
 
 to grow in our grateful enjoyment of your abundant creation,
 
-to the honor and glory of your Name, now and for ever.  =Amen.=
+to the honor and glory of your Name, now and for ever.  Amen.

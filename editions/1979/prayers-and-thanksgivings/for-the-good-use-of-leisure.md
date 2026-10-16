@@ -8,4 +8,4 @@ leisure to rebuild our bodies and renew our minds, that our
 
 spirits may be opened to the goodness of your creation;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

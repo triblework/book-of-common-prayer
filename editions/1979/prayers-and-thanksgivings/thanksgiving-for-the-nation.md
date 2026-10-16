@@ -6,13 +6,13 @@ We thank you for the natural majesty and beauty of this land.
 
 They restore us, though we often destroy them.
 
-=Heal us.=
+Heal us.
 
 We thank you for the great resources of this nation.  They
 
 make us rich, though we often exploit them.
 
-=Forgive us.=
+Forgive us.
 
 We thank you for the men and women who have made this
 
@@ -20,7 +20,7 @@ country strong.  They are models for us, though we often fall
 
 short of them.
 
-=Inspire us.=
+Inspire us.
 
 We thank you for the torch of liberty which has been lit in
 
@@ -28,7 +28,7 @@ this land.  It has drawn people from every nation, though we
 
 have often hidden from its light.
 
-=Enlighten us.=
+Enlighten us.
 
 We thank you for the faith we have inherited in all its rich
 
@@ -36,7 +36,7 @@ variety.  It sustains our life, though we have been faithless
 
 again and again.
 
-=Renew us.=
+Renew us.
 
 Help us, O Lord, to finish the good work here begun.
 
@@ -46,4 +46,4 @@ and to abolish poverty and crime.  And hasten the day when
 
 all our people, with many voices in one united chorus, will
 
-glorify your holy Name.  =Amen.=
+glorify your holy Name.  Amen.

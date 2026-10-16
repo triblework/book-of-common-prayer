@@ -14,4 +14,4 @@ and equal opportunities for all.  And grant that every one of
 
 us may enjoy a fair portion of the riches of this land; through
 
-Jesus Christ our Lord.  =Amen.=
+Jesus Christ our Lord.  Amen.

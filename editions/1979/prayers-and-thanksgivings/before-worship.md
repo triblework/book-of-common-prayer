@@ -1,13 +1,13 @@
 # Before Worship
 
-O Almighty God, =who pourest= out on all who desire it the
+O Almighty God, who pourest out on all who desire it the
 
 spirit of grace and of supplication:  Deliver us, when we draw
 
-near to =thee=, from coldness of heart and wanderings of mind,
+near to thee, from coldness of heart and wanderings of mind,
 
 that with steadfast thoughts and kindled affections we may
 
-worship =thee= in spirit and in truth; through Jesus Christ our
+worship thee in spirit and in truth; through Jesus Christ our
 
-Lord.  =Amen.=
+Lord.  Amen.

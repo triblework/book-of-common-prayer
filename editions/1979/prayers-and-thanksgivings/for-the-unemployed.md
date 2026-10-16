@@ -8,4 +8,4 @@ land so to use our public and private wealth that all may find
 
 suitable and fulfilling employment, and receive just payment
 
-for their labor; through Jesus Christ our Lord.  =Amen.=
+for their labor; through Jesus Christ our Lord.  Amen.

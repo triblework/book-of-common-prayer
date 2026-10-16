@@ -18,4 +18,4 @@ women from different cultures and with differing talents may
 
 find with one another the fulfillment of their humanity;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

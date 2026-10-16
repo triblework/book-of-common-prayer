@@ -322,7 +322,7 @@ Grant to thy faithful people pardon and peace, that we may be cleansed from all 
 
 Grant to all who mourn a sure confidence in thy fatherly care, that, casting all their grief on thee, they may know the consolation of thy love.  Amen.
 
-Give courage and faith to those who are bereaved, that they may have strength to meet the days ahead in the comfort of a reasonable and holy hope, in the joyful expectation of eternal life with those they love.  =Amen.]
+Give courage and faith to those who are bereaved, that they may have strength to meet the days ahead in the comfort of a reasonable and holy hope, in the joyful expectation of eternal life with those they love.  Amen.]
 
 Grant us grace to entrust N. to thy never-failing love; receive him into the arms of thy mercy, and remember him according to the favor which thou bearest unto thy people.  Amen.
 

@@ -8,7 +8,7 @@ that your presence and power may be known throughout this
 
 land.  Have mercy upon all of us who live and work in rural
 
-areas [especially &mdash.]; and grant that all the people
+areas [especially _________ ]; and grant that all the people
 
 of our nation may give thanks to you for food and drink and
 
@@ -18,4 +18,4 @@ produce them, and honor the land and the water from which
 
 these good things come.  All this we ask in your holy Name.
 
-=Amen.=
+Amen.

@@ -12,4 +12,4 @@ all peoples may be gathered under the banner of the Prince of
 
 Peace, as children of one Father; to whom be dominion and
 
-glory, now and for ever.  =Amen.=
+glory, now and for ever.  Amen.

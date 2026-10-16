@@ -10,4 +10,4 @@ that, by faithful administration and wise laws, the rights of
 
 all may be protected and our nation be enabled to fulfill your
 
-purposes; through Jesus Christ our Lord.  =Amen.=
+purposes; through Jesus Christ our Lord.  Amen.

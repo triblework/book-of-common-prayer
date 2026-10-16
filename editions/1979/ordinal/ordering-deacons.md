@@ -196,7 +196,7 @@ Therefore, Father, through Jesus Christ your Son, give your Holy Spirit to N.; f
 
 Make him, O Lord, modest and humble, strong and constant, to observe the discipline of Christ.  Let his life and teaching so reflect your commandments, that through him many may come to know you and love you.  As your Son came not to be served but to serve, may this deacon share in Christ's service, and come to the unending glory of him who, with you and the Holy Spirit, lives and reigns, one God, for ever and ever.
 
-*The People in a loud voice respond*  Amen.
+**The People in a loud voice respond.** Amen.
 
 > The new deacon is now vested according to the order of deacons.
 
@@ -312,13 +312,13 @@ The Bishop says the appointed Collect.
 
 > If vestments or other symbols of office are to be dedicated, such blessing is to take place at some convenient time prior to the service. The following form may be used
 
-&V.  Our help is in the Name of the Lord;
+V.  Our help is in the Name of the Lord;
 
-&R.  The maker of heaven and earth.
+R.  The maker of heaven and earth.
 
-&V.  The Lord be with you.
+V.  The Lord be with you.
 
-&R.  And also with you.
+R.  And also with you.
 
 Let us pray.
 

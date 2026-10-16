@@ -12,4 +12,4 @@ have faithfully asked according to thy will, may effectually be
 
 obtained, to the relief of our necessity, and to the setting forth
 
-of thy glory; through Jesus Christ our Lord.  =Amen.=
+of thy glory; through Jesus Christ our Lord.  Amen.

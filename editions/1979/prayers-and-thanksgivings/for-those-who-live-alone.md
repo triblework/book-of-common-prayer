@@ -8,4 +8,4 @@ solitude, but that, following in his steps, they may find
 
 fulfillment in loving you and their neighbors; through Jesus
 
-Christ our Lord.  =Amen.=
+Christ our Lord.  Amen.

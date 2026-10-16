@@ -24,4 +24,4 @@ give us, as you gave to them, the hope of salvation and the
 
 promise of eternal life; through Jesus Christ our Lord, the
 
-first-born of many from the dead.  =Amen.=
+first-born of many from the dead.  Amen.

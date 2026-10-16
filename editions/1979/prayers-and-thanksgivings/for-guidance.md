@@ -1,11 +1,11 @@
 # For Guidance
 
-Direct us, O Lord, in all our doings with =thy= most gracious
+Direct us, O Lord, in all our doings with thy most gracious
 
-favor, and further us with =thy= continual help; that in all our
+favor, and further us with thy continual help; that in all our
 
-works begun, continued, and ended in =thee=, we may glorify
+works begun, continued, and ended in thee, we may glorify
 
-=thy= holy Name, and finally, by =thy= mercy, obtain everlasting
+thy holy Name, and finally, by thy mercy, obtain everlasting
 
-life; through Jesus Christ our Lord.  =Amen.=
+life; through Jesus Christ our Lord.  Amen.

@@ -1,17 +1,17 @@
 # For the Harvest of Lands and Waters
 
-O gracious Father, =who openest thine= hand and =fillest= all
+O gracious Father, who openest thine hand and fillest all
 
 things living with plenteousness:  Bless the lands and waters,
 
-and multiply the harvests of the world; let =thy= Spirit go
+and multiply the harvests of the world; let thy Spirit go
 
-forth, that it may renew the face of the earth; show =thy=
+forth, that it may renew the face of the earth; show thy
 
 loving-kindness, that our land may give her increase; and
 
-save us from selfish use of what =thou givest=, that men and
+save us from selfish use of what thou givest, that men and
 
-women everywhere may give =thee= thanks; through Christ
+women everywhere may give thee thanks; through Christ
 
-our Lord.  =Amen.=
+our Lord.  Amen.

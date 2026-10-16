@@ -36,4 +36,4 @@ Grant us the gift of your Spirit, that we may know Christ and
 
 make him known; and through him, at all times and in all
 
-places, may give thanks to you in all things.  =Amen.=
+places, may give thanks to you in all things.  Amen.

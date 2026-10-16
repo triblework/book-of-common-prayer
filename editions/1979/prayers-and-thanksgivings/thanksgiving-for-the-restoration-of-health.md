@@ -1,21 +1,17 @@
 # For the Restoration of Health
 
-Almighty God and heavenly Father, we give =thee= humble
+Almighty God and heavenly Father, we give thee humble
 
-thanks because =thou hast= been graciously pleased to deliver
+thanks because thou hast been graciously pleased to deliver
 
-from =his= sickness =thy= servant &N., in whose behalf we bless
+from his sickness thy servant N., in whose behalf we bless
 
-and praise =thy= Name.  Grant, O gracious Father, that =he=,
+and praise thy Name.  Grant, O gracious Father, that he,
 
-through =thy= help, may live in this world according to =thy= will,
+through thy help, may live in this world according to thy will,
 
 and also be partaker of everlasting glory in the life to come;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.
 
 *Thanksgivings for the departed are on pages 487-489 and 503-504.*
-
-<An Outline
-
-of the Faith>

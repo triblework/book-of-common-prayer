@@ -6,7 +6,7 @@
 
 > If there is reasonable doubt that a person has been baptized with water, "In the Name of the Father, and of the Son, and of the Holy Spirit" (which are the essential parts of Baptism), the person is baptized in the usual manner, but this form of words is used
 
-If you are not already baptized, &N., I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.
+If you are not already baptized, N., I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.
 
 ## Emergency Baptism
 
@@ -25,5 +25,3 @@ Heavenly Father, we thank you that by water and the Holy Spirit you have bestowe
 > The person who administers emergency Baptism should inform the priest of the appropriate parish, so that the fact can be properly registered.
 
 > If the baptized person recovers, the Baptism should be recognized at a public celebration of the Sacrament with a bishop or priest presiding, and the person baptized under emergency conditions, together with the sponsors or godparents, taking part in everything except the administration of the water.
-
-----------------(END OF BCPSPECL.TXT)-----------------------

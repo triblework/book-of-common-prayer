@@ -22,4 +22,4 @@ thee all our days; through Jesus Christ our Lord, to whom,
 
 with thee and the Holy Ghost be all glory and honor, world
 
-without end.  =Amen.=
+without end.  Amen.

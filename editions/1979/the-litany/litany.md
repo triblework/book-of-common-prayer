@@ -109,7 +109,7 @@ We beseech thee to hear us, good Lord.
 That it may please thee to grant to all the faithful departed eternal life and peace,
 We beseech thee to hear us, good Lord.
 
-That it may please thee to grant that, in the fellowship of [&mdash. and] all the saints, we may attain to thy heavenly kingdom,
+That it may please thee to grant that, in the fellowship of [__________ and] all the saints, we may attain to thy heavenly kingdom,
 We beseech thee to hear us, good Lord.
 
 Son of God, we beseech thee to hear us.

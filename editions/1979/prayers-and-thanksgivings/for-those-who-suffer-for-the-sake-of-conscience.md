@@ -16,4 +16,4 @@ witness and to discern the truth, that our society may be
 
 cleansed and strengthened.  This we ask for the sake of Jesus
 
-Christ, our merciful and righteous Judge.  =Amen.=
+Christ, our merciful and righteous Judge.  Amen.

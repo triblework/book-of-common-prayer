@@ -16,7 +16,7 @@ to be loved as to love.  For it is in giving that we receive; it is
 
 in pardoning that we are pardoned; and it is in dying that we
 
-are born to eternal life.  =Amen.=
+are born to eternal life.  Amen.
 
 *Prayers for Friday, Saturday, and Sunday, and for morning and
 

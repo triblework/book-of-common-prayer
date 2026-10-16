@@ -6,6 +6,6 @@ lengthen, and the evening comes, and the busy world is
 
 hushed, and the fever of life is over, and our work is done.
 
-Then in =thy= mercy, grant us a safe lodging, and a holy rest,
+Then in thy mercy, grant us a safe lodging, and a holy rest,
 
-and peace at the last.  =Amen.=
+and peace at the last.  Amen.

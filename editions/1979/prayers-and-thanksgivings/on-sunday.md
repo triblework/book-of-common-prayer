@@ -12,4 +12,4 @@ make us bold to praise you and to do your will; and steel us
 
 to wait for the consummation of your kingdom on the last
 
-great Day; through the same Jesus Christ our Lord.  =Amen.=
+great Day; through the same Jesus Christ our Lord.  Amen.

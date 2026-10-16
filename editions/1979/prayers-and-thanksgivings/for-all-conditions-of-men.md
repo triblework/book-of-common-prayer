@@ -28,4 +28,4 @@ them according to their several necessities, giving them patience
 
 under their sufferings, and a happy issue out of all their
 
-afflictions.  And this we beg for Jesus Christ's sake.  =Amen.=
+afflictions.  And this we beg for Jesus Christ's sake.  Amen.

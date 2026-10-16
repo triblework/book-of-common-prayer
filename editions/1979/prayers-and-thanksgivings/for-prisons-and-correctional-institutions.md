@@ -20,4 +20,4 @@ brutal or callous.  And since what we do for those in prison,
 
 O Lord, we do for you, constrain us to improve their lot.  All
 
-this we ask for your mercy's sake.  =Amen.=
+this we ask for your mercy's sake.  Amen.

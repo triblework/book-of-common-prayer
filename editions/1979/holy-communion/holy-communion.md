@@ -10,19 +10,19 @@
 
 Blessed be God: Father, Son, and Holy Spirit.
 
-**People* : And blessed be his kingdom, now and for ever. Amen.
+**People.** And blessed be his kingdom, now and for ever. Amen.
 
 > In place of the above, from Easter Day through the Day of Pentecost
 
-**Celebrant* : Alleluia.  Christ is risen.
+**Celebrant.** Alleluia.  Christ is risen.
 
-**People* : The Lord is risen indeed.  Alleluia.
+**People.** The Lord is risen indeed.  Alleluia.
 
 > In Lent and on other penitential occasions
 
-**Celebrant* : Bless the Lord who forgiveth all our sins;
+**Celebrant.** Bless the Lord who forgiveth all our sins;
 
-**People* : His mercy endureth for ever.
+**People.** His mercy endureth for ever.
 
 > The Celebrant says
 
@@ -62,19 +62,19 @@ For thou only art holy; thou only art the Lord; thou only, O Christ, with the Ho
 
 The Lord be with you.
 
-**People* : And with thy spirit.
+**People.** And with thy spirit.
 
-**Celebrant* : Let us pray.
+**Celebrant.** Let us pray.
 
 > The Celebrant says the Collect.
 
-**People* : Amen.
+**People.** Amen.
 
 ## The Lessons
 
 > The people sit.  One or two Lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &mdash..
+A Reading (Lesson) from ____________ .
 
 > A citation giving chapter and verse may be added.
 
@@ -82,7 +82,7 @@ A Reading (Lesson) from &mdash..
 
 The Word of the Lord.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 **People.** Glory be to thee, O Lord.
 
@@ -90,7 +90,7 @@ The Word of the Lord.
 
 The Gospel of the Lord.
 
-**People* : Praise be to thee, O Christ.
+**People.** Praise be to thee, O Christ.
 
 ## The Sermon
 
@@ -120,11 +120,11 @@ Let us pray for the whole state of Christ's Church and the world.
 
 Almighty and everliving God, who in thy holy Word hast taught us to make prayers, and supplications, and to give thanks for all men:  Receive these our prayers which we offer unto thy divine Majesty, beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord; and grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
 
-Give grace, O heavenly Father, to all bishops and other ministers [especially &mdash.], that they may, both by their life and doctrine, set forth thy true and lively Word, and rightly and duly administer thy holy Sacraments.
+Give grace, O heavenly Father, to all bishops and other ministers [especially __________], that they may, both by their life and doctrine, set forth thy true and lively Word, and rightly and duly administer thy holy Sacraments.
 
 And to all thy people give thy heavenly grace, and especially to this congregation here present; that, with meek heart and due reverence, they may hear and receive thy holy Word, truly serving thee in holiness and righteousness all the days of their life.
 
-We beseech thee also so to rule the hearts of those who bear the authority of government in this and every land [especially &mdash.], that they may be led to wise decisions and right actions for the welfare and peace of the world.
+We beseech thee also so to rule the hearts of those who bear the authority of government in this and every land [especially __________], that they may be led to wise decisions and right actions for the welfare and peace of the world.
 
 Open, O Lord, the eyes of all people to behold thy gracious hand in all thy works, that, rejoicing in thy whole creation, they may honor thee with their substance, and be faithful stewards of thy bounty.
 
@@ -132,7 +132,7 @@ And we most humbly beseech thee, of thy goodness, O Lord, to comfort and succor 
 
 > Additional petitions and thanksgivings may be included here.
 
-And we also bless thy holy Name for all thy servants departed this life in thy faith and fear [especially &mdash.], beseeching thee to grant them continual growth in thy love and service; and to grant us grace so to follow the good examples of [&mdash. and of] all thy saints, that with them we may be partakers of thy heavenly kingdom.
+And we also bless thy holy Name for all thy servants departed this life in thy faith and fear [especially __________], beseeching thee to grant them continual growth in thy love and service; and to grant us grace so to follow the good examples of [__________ and of] all thy saints, that with them we may be partakers of thy heavenly kingdom.
 
 Grant these our prayers, O Father, for Jesus Christ's sake, our only Mediator and Advocate.  Amen.
 
@@ -182,7 +182,7 @@ If any man sin, we have an Advocate with the Father, Jesus Christ the righteous;
 
 The peace of the Lord be always with you.
 
-**People* : And with thy spirit.
+**People.** And with thy spirit.
 
 > Then the Ministers and People may greet one another in the name of the Lord.
 
@@ -204,15 +204,15 @@ The peace of the Lord be always with you.
 
 The Lord be with you.
 
-**People* : And with thy spirit.
+**People.** And with thy spirit.
 
-**Celebrant* : Lift up your hearts.
+**Celebrant.** Lift up your hearts.
 
-**People* : We lift them up unto the Lord.
+**People.** We lift them up unto the Lord.
 
-**Celebrant* : Let us give thanks unto our Lord God.
+**Celebrant.** Let us give thanks unto our Lord God.
 
-**People* : It is meet and right so to do.
+**People.** It is meet and right so to do.
 
 > Then, facing the Holy Table, the Celebrant proceeds
 
@@ -332,25 +332,25 @@ The blessing of God Almighty, the Father, the Son, and the Holy Spirit, be upon 
 
 Let us go forth in the name of Christ.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 > or the following
 
-**Deacon* : Go in peace to love and serve the Lord.
+**Deacon.** Go in peace to love and serve the Lord.
 
-**People* : Thanks be to God.
-
-> or this
-
-**Deacon* : Let us go forth into the world, rejoicing in the power of the Spirit.
-
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 > or this
 
-**Deacon* : Let us bless the Lord.
+**Deacon.** Let us go forth into the world, rejoicing in the power of the Spirit.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
+
+> or this
+
+**Deacon.** Let us bless the Lord.
+
+**People.** Thanks be to God.
 
 > From the Easter Vigil through the Day of Pentecost "Alleluia, alleluia" may be added to any of the dismissals.
 
@@ -364,15 +364,15 @@ Let us go forth in the name of Christ.
 
 The Lord be with you.
 
-**People* : And with thy spirit.
+**People.** And with thy spirit.
 
-**Celebrant* : Lift up your hearts.
+**Celebrant.** Lift up your hearts.
 
-**People* : We lift them up unto the Lord.
+**People.** We lift them up unto the Lord.
 
-**Celebrant* : Let us give thanks unto our Lord God.
+**Celebrant.** Let us give thanks unto our Lord God.
 
-**People* : It is meet and right so to do.
+**People.** It is meet and right so to do.
 
 > Then, facing the Holy Table, the Celebrant proceeds
 
@@ -578,15 +578,15 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 > In place of the above, from Easter Day through the Day of Pentecost
 
-**Celebrant* : Alleluia.  Christ is risen.
+**Celebrant.** Alleluia.  Christ is risen.
 
-**People* : The Lord is risen indeed.  Alleluia.
+**People.** The Lord is risen indeed.  Alleluia.
 
 > In Lent and on other penitential occasions
 
-**Celebrant* : Bless the Lord who forgives all our sins.
+**Celebrant.** Bless the Lord who forgives all our sins.
 
-**People* : His mercy endures for ever.
+**People.** His mercy endures for ever.
 
 > The Celebrant may say
 
@@ -616,19 +616,19 @@ Holy God, Holy and Mighty, Holy Immortal One, Have mercy upon us.
 
 The Lord be with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
-**Celebrant* : Let us pray.
+**Celebrant.** Let us pray.
 
 > The Celebrant says the Collect.
 
-**People* : Amen.
+**People.** Amen.
 
 ### The Lessons
 
 > The people sit.  One or two Lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &mdash..
+A Reading (Lesson) from ____________ .
 
 > A citation giving chapter and verse may be added.
 
@@ -636,7 +636,7 @@ A Reading (Lesson) from &mdash..
 
 The Word of the Lord.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 *or the Reader may say : Here ends the Reading (Epistle).
 
@@ -646,14 +646,14 @@ The Word of the Lord.
 
 > Then, all standing, the Deacon or a Priest reads the Gospel, first saying
 
-The Holy Gospel of Our Lord Jesus Christ according to &mdash..
+The Holy Gospel of Our Lord Jesus Christ according to ____________ .
 
-**People* : Glory to you, Lord Christ.
+**People.** Glory to you, Lord Christ.
 
 > After the Gospel, the Reader says
 
 The Gospel of the Lord.
-**People* : Praise to you, Lord Christ.
+**People.** Praise to you, Lord Christ.
 
 ### The Sermon
 
@@ -713,7 +713,7 @@ Almighty God have mercy on you, forgive you all your sins through our Lord Jesus
 
 The peace of the Lord be always with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
 > Then the Ministers and People may greet one another in the name of the Lord.
 
@@ -735,15 +735,15 @@ The peace of the Lord be always with you.
 
 The Lord be with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
-**Celebrant* : Lift up your hearts.
+**Celebrant.** Lift up your hearts.
 
-**People* : We lift them to the Lord.
+**People.** We lift them to the Lord.
 
-**Celebrant* : Let us give thanks to the Lord our God.
+**Celebrant.** Let us give thanks to the Lord our God.
 
-**People* : It is right to give him thanks and praise.
+**People.** It is right to give him thanks and praise.
 
 > Then, facing the Holy Table, the Celebrant proceeds
 
@@ -841,25 +841,25 @@ Almighty and everliving God, we thank you for feeding us with the spiritual food
 
 Let us go forth in the name of Christ.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 > or this
 
-**Deacon* : Go in peace to love and serve the Lord.
+**Deacon.** Go in peace to love and serve the Lord.
 
-**People* : Thanks be to God.
-
-> or this
-
-**Deacon* : Let us go forth into the world, rejoicing in the power of the Spirit.
-
-**People* : Thanks be to God.
+**People.** Thanks be to God.
 
 > or this
 
-**Deacon* : Let us bless the Lord.
+**Deacon.** Let us go forth into the world, rejoicing in the power of the Spirit.
 
-**People* : Thanks be to God.
+**People.** Thanks be to God.
+
+> or this
+
+**Deacon.** Let us bless the Lord.
+
+**People.** Thanks be to God.
 
 > From the Easter Vigil through the Day of Pentecost "Alleluia, alleluia" may be added to any of the dismissals.
 
@@ -873,15 +873,15 @@ Let us go forth in the name of Christ.
 
 The Lord be with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
-**Celebrant* : Lift up your hearts.
+**Celebrant.** Lift up your hearts.
 
-**People* : We lift them to the Lord.
+**People.** We lift them to the Lord.
 
-**Celebrant* : Let us give thanks to the Lord our God.
+**Celebrant.** Let us give thanks to the Lord our God.
 
-**People* : It is right to give him thanks and praise.
+**People.** It is right to give him thanks and praise.
 
 > Then, facing the Holy Table, the Celebrant proceeds
 
@@ -917,7 +917,7 @@ We remember his death, We proclaim his resurrection, We await his coming in glor
 
 And we offer our sacrifice of praise and thanksgiving to you, O Lord of all; presenting to you, from your creation, this bread and this wine.
 
-We pray you, gracious God, to send your Holy Spirit upon these gifts that they may be the Sacrament of the Body of Christ and his Blood of the new Covenant.  Unite us to your Son in his sacrifice, that we may be acceptable through him, being sanctified by the Holy Spirit.  In the fullness of time, put all things in subjection under your Christ, and bring us to that heavenly country where, with [&mdash. and] all your saints, we may enter the everlasting heritage of your sons and daughters; through Jesus Christ our Lord, the firstborn of all creation, the head of the Church, and the author of our salvation.
+We pray you, gracious God, to send your Holy Spirit upon these gifts that they may be the Sacrament of the Body of Christ and his Blood of the new Covenant.  Unite us to your Son in his sacrifice, that we may be acceptable through him, being sanctified by the Holy Spirit.  In the fullness of time, put all things in subjection under your Christ, and bring us to that heavenly country where, with [ ___________ and] all your saints, we may enter the everlasting heritage of your sons and daughters; through Jesus Christ our Lord, the firstborn of all creation, the head of the Church, and the author of our salvation.
 
 By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever.  AMEN.
 
@@ -981,15 +981,15 @@ As our Savior Christ has taught us, we now pray,
 
 The Lord be with you.
 
-**People* : And also with you.
+**People.** And also with you.
 
-**Celebrant* : Lift up your hearts.
+**Celebrant.** Lift up your hearts.
 
-**People* : We lift them to the Lord.
+**People.** We lift them to the Lord.
 
-**Celebrant* : Let us give thanks to the Lord our God.
+**Celebrant.** Let us give thanks to the Lord our God.
 
-**People* : It is right to give him thanks and praise.
+**People.** It is right to give him thanks and praise.
 
 > Then, facing the Holy Table, the Celebrant proceeds
 
@@ -1033,7 +1033,7 @@ Grant that all who share this bread and cup may become one body and one spirit, 
 
 Remember, Lord, your one holy catholic and apostolic Church, redeemed by the blood of your Christ.  Reveal its unity, guard its faith, and preserve it in peace. [Remember (NN. and) all who minister in your Church.] [Remember all your people, and those who seek your truth.] [Remember ___________.] [Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.]
 
-And grant that we may find our inheritance with [the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, (with &mdash.) and] all the saints who have found favor with you in ages past.  We praise you in union with them and give you glory through your Son Jesus Christ our Lord.
+And grant that we may find our inheritance with [the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, (with _________ ) and] all the saints who have found favor with you in ages past.  We praise you in union with them and give you glory through your Son Jesus Christ our Lord.
 
 Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.  AMEN.
 
@@ -1201,7 +1201,7 @@ The departed (with commemoration of a saint when appropriate)*
 
 With all our heart and with all our mind, let us pray to the Lord, saying "Lord, have mercy."
 
-[[For the peace from above, for the loving-kindness of God, and for the salvation of our souls, let us pray to the Lord. Lord, have mercy.]]
+For the peace from above, for the loving-kindness of God, and for the salvation of our souls, let us pray to the Lord. Lord, have mercy.
 
 For the peace of the world, for the welfare of the Holy Church of God, and for the unity of all peoples, let us pray to the Lord. Lord, have mercy.
 
@@ -1209,17 +1209,17 @@ For our Bishop, and for all the clergy and people, let us pray to the Lord. Lord
 
 For our President, for the leaders of the nations, and for all in authority, let us pray to the Lord. Lord, have mercy.
 
-For this city (town, village, &mdash.), for every city and community, and for those who live in them, let us pray to the Lord. Lord, have mercy.
+For this city (town, village, ___________ ), for every city and community, and for those who live in them, let us pray to the Lord. Lord, have mercy.
 
-[[For seasonable weather, and for an abundance of the fruits of the  earth, let us pray to the Lord. Lord, have mercy.]]
+For seasonable weather, and for an abundance of the fruits of the  earth, let us pray to the Lord. Lord, have mercy.
 
 For the good earth which God has given us, and for the wisdom and will to conserve it, let us pray to the Lord. Lord, have mercy.
 
-[[For those who travel on land, on water, or in the air [or through  outer space], let us pray to the Lord. Lord, have mercy.]]
+For those who travel on land, on water, or in the air [or through  outer space], let us pray to the Lord. Lord, have mercy.
 
 For the aged and infirm, for the widowed and orphans, and for the sick and the suffering, let us pray to the Lord. Lord, have mercy.
 
-[[For &mdash., let us pray to the Lord. Lord, have mercy.]]
+For ___________ , let us pray to the Lord. Lord, have mercy.
 
 For the poor and the oppressed, for the unemployed and the destitute, for prisoners and captives, and for all who remember and care for them, let us pray to the Lord. Lord, have mercy.
 
@@ -1227,13 +1227,13 @@ For all who have died in the hope of the resurrection, and for all the departed,
 
 For deliverance from all danger, violence, oppression, and degradation, let us pray to the Lord. Lord, have mercy.
 
-[[For the absolution and remission of our sins and offenses, let us pray to the Lord. Lord, have mercy.]]
+For the absolution and remission of our sins and offenses, let us pray to the Lord. Lord, have mercy.
 
 That we may end our lives in faith and hope, without suffering and without reproach, let us pray to the Lord. Lord, have mercy.
 
-[[Defend us, deliver us, and in thy compassion protect us, O Lord, by  thy grace. Lord, have mercy.]]
+Defend us, deliver us, and in thy compassion protect us, O Lord, by  thy grace. Lord, have mercy.
 
-In the communion of [&mdash. and of all the] saints, let us commend ourselves, and one another, and all our life, to Christ our God. To thee, O Lord our God.
+In the communion of [ ___________ and of all the] saints, let us commend ourselves, and one another, and all our life, to Christ our God. To thee, O Lord our God.
 
 > Silence
 
@@ -1243,7 +1243,7 @@ In the communion of [&mdash. and of all the] saints, let us commend ourselves, a
 
 > In the course of the silence after each bidding, the People offer their own prayers, either silently or aloud.
 
-I ask your prayers for God's people throughout the world; for our Bishop(s) &mdash.; for this gathering; and for all ministers and people.
+I ask your prayers for God's people throughout the world; for our Bishop(s) ___________ ; for this gathering; and for all ministers and people.
 
 Pray for the Church.
 
@@ -1275,9 +1275,9 @@ Pray for those who have died.
 
 > Members of the congregation may ask the prayers or the thanksgivings of those present
 
-I ask your prayers for &mdash..
+I ask your prayers for ____________ .
 
-I ask your thanksgiving for &mdash.]]
+I ask your thanksgiving for _____________ .
 
 > Silence
 
@@ -1373,35 +1373,35 @@ For the holy Church of God, that it may be filled with truth and love, and be fo
 
 Kyrie eleison.  *or : Lord, have mercy.
 
-For &N. our Presiding Bishop, for &N. (&N.) our own Bishop(s), for all bishops and other ministers, and for all the holy people of God, we pray to you, O Lord.
+For N. our Presiding Bishop, for N. (N.) our own Bishop(s), for all bishops and other ministers, and for all the holy people of God, we pray to you, O Lord.
 
 For all who fear God and believe in you, Lord Christ, that our divisions may cease, and that all may be one as you and the Father are one, we pray to you, O Lord.
 
 For the mission of the Church, that in faithful witness it may preach the Gospel to the ends of the earth, we pray to you, O Lord.
 
-[[For those who do not yet believe, and for those who have lost their  faith, that they may receive the light of the Gospel, we pray to  you, O Lord.]]
+For those who do not yet believe, and for those who have lost their  faith, that they may receive the light of the Gospel, we pray to  you, O Lord.
 
 For the peace of the world, that a spirit of respect and forbearance may grow among nations and peoples, we pray to you, O Lord. For those in positions of public trust [especially _________ ], that they may serve justice, and promote the dignity and freedom of every person, we pray to you, O Lord.
 
-[[For all who live and work in this community [especially &mdash.],  we pray to you, O Lord.]]
+For all who live and work in this community [especially _____________ ], we pray to you, O Lord.
 
-[[For a blessing upon all human labor, and for the right use of the  riches of creation, that the world may be freed from poverty, famine, and disaster, we pray to you, O Lord.]]
+For a blessing upon all human labor, and for the right use of the  riches of creation, that the world may be freed from poverty, famine, and disaster, we pray to you, O Lord.
 
 For the poor, the persecuted, the sick, and all who suffer; for refugees, prisoners, and all who are in danger; that they may be relieved and protected, we pray to you, O Lord.
 
 For this congregation [for those who are present, and for those who are absent], that we may be delivered from hardness of heart, and show forth your glory in all that we do, we pray to you, O Lord.
 
-[[For our enemies and those who wish us harm; and for all whom we have  injured or offended, we pray to you, O Lord.]]
+For our enemies and those who wish us harm; and for all whom we have  injured or offended, we pray to you, O Lord.
 
-[[For ourselves; for the forgiveness of our sins, and for the grace of  the Holy Spirit to amend our lives, we pray to you, O Lord.]]
+For ourselves; for the forgiveness of our sins, and for the grace of  the Holy Spirit to amend our lives, we pray to you, O Lord.
 
 For all who have commended themselves to our prayers; for our families, friends, and neighbors; that being freed from anxiety, they may live in joy, peace, and health, we pray to you, O Lord.
 
-[[For &mdash., we pray to you, O Lord.]]
+For ___________ , we pray to you, O Lord.
 
 For all who have died in the communion of your Church, and those whose faith is known to you alone, that, with all the saints, they may have rest in that place where there is no pain or grief, but life eternal, we pray to you, O Lord.
 
-Rejoicing in the fellowship of [the ever-blessed Virgin Mary, (blessed &N.) and] all the saints, let us commend ourselves, and one another, and all our life to Christ our God. To you, O Lord our God.
+Rejoicing in the fellowship of [the ever-blessed Virgin Mary, (blessed N.) and] all the saints, let us commend ourselves, and one another, and all our life to Christ our God. To you, O Lord our God.
 
 > Silence
 
@@ -1427,7 +1427,7 @@ For all who are in danger, sorrow, or any kind of trouble; For those who ministe
 
 For the peace and unity of the Church of God; For all who proclaim the Gospel, and all who seek the Truth.
 
-For [&N. our Presiding Bishop, and &N. (&N.) our Bishop(s); and for] all bishops and other ministers; For all who serve God in his Church.
+For [N. our Presiding Bishop, and N. (N.) our Bishop(s); and for] all bishops and other ministers; For all who serve God in his Church.
 
 For the special needs and concerns of this congregation.
 
@@ -1453,13 +1453,13 @@ We pray for all who have died, that they may have a place in your eternal kingdo
 
 Lord, let your loving-kindness be upon them; Who put their trust in you.
 
-[[We pray to you also for the forgiveness of our sins.
+We pray to you also for the forgiveness of our sins.
 
 > Silence may be kept.
 
 > Leader and People
 
-Have mercy upon us, most merciful Father; in your compassion forgive us our sins, known and unknown, things done and left undone; and so uphold us by your Spirit that we may live and serve you in newness of life, to the honor and glory of your Name; through Jesus Christ our Lord.  Amen.]]
+Have mercy upon us, most merciful Father; in your compassion forgive us our sins, known and unknown, things done and left undone; and so uphold us by your Spirit that we may live and serve you in newness of life, to the honor and glory of your Name; through Jesus Christ our Lord.  Amen.
 
 > The Celebrant concludes with an absolution or a suitable Collect.
 

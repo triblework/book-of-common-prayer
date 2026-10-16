@@ -10,4 +10,4 @@ for the human race, and new wisdom and determination in
 
 making provision for its future in accordance with your will;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

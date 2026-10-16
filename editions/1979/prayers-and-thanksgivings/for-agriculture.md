@@ -10,7 +10,7 @@ work in the fields; give us seasonable weather; and grant that
 
 we may all share the fruits of the earth, rejoicing in your
 
-goodness; through Jesus Christ our Lord.  =Amen.=
+goodness; through Jesus Christ our Lord.  Amen.
 
 *For prayers for Industry and Labor, see Various Occasions no. 19,
 

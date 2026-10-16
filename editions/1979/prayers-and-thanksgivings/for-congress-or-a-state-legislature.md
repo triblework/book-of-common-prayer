@@ -2,14 +2,14 @@
 
 O God, the fountain of wisdom, whose will is good and
 
-gracious, and whose law is truth:  We beseech =thee= so to guide
+gracious, and whose law is truth:  We beseech thee so to guide
 
 and bless our Senators and Representatives in Congress
 
-assembled (=or= in the Legislature of this State, =or= Common-
+assembled (or in the Legislature of this State, or Common-
 
-wealth), that they may enact such laws as shall please =thee=,
+wealth), that they may enact such laws as shall please thee,
 
-to the glory of =thy= Name and the welfare of this people;
+to the glory of thy Name and the welfare of this people;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

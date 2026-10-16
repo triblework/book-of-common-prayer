@@ -12,4 +12,4 @@ who are broken in body or spirit, and to turn their sorrow
 
 into joy.  Grant this, Father, for the love of your Son, who for
 
-our sake became poor, Jesus Christ our Lord.  =Amen.=
+our sake became poor, Jesus Christ our Lord.  Amen.

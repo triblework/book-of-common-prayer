@@ -12,4 +12,4 @@ them; strengthen them in the work of their recovery; and to
 
 those who care for them, give patient understanding and
 
-persevering love.  =Amen.=
+persevering love.  Amen.

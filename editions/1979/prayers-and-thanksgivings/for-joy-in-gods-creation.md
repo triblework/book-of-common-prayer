@@ -1,11 +1,11 @@
 # For Joy in God's Creation
 
-O heavenly Father, =who hast= filled the world with beauty:
+O heavenly Father, who hast filled the world with beauty:
 
-Open our eyes to behold =thy= gracious hand in all =thy= works;
+Open our eyes to behold thy gracious hand in all thy works;
 
-that, rejoicing in =thy= whole creation, we may learn to serve
+that, rejoicing in thy whole creation, we may learn to serve
 
-=thee= with gladness; for the sake of him through whom all
+thee with gladness; for the sake of him through whom all
 
-things were made, =thy= Son Jesus Christ our Lord.  =Amen.=
+things were made, thy Son Jesus Christ our Lord.  Amen.

@@ -16,4 +16,4 @@ your good time, all nations and races may serve you in
 
 harmony around your heavenly throne; through Jesus Christ
 
-our Lord.  =Amen.=
+our Lord.  Amen.

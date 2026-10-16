@@ -1,13 +1,13 @@
 # A Prayer of Self-Dedication
 
-Almighty and eternal God, so draw our hearts to =thee=, so
+Almighty and eternal God, so draw our hearts to thee, so
 
 guide our minds, so fill our imaginations, so control our
 
-wills, that we may be wholly =thine=, utterly dedicated =unto
+wills, that we may be wholly thine, utterly dedicated unto
 
-thee=; and then use us, we pray =thee=, as =thou wilt=, and always
+thee; and then use us, we pray thee, as thou wilt, and always
 
-to =thy= glory and the welfare of =thy= people; through our Lord
+to thy glory and the welfare of thy people; through our Lord
 
-and Savior Jesus Christ.  =Amen.=
+and Savior Jesus Christ.  Amen.

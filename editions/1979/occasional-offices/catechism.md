@@ -300,7 +300,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** How do we understand the meaning of the Bible?
 
-**A.** We understand the meaning of the Bible by the help of [ Page 854> the Holy Spirit, who guides the Church in the true interpretation of the Scriptures.
+**A.** We understand the meaning of the Bible by the help of the Holy Spirit, who guides the Church in the true interpretation of the Scriptures.
 
 ## The Church
 
@@ -482,7 +482,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What are the benefits which we receive in the Lord's Supper?
 
-**A.** The benefits we receive are the forgiveness of our sins, [ Page 860> the strengthening of our union with Christ and one another, and the foretaste of the heavenly banquet which is our nourishment in eternal life.
+**A.** The benefits we receive are the forgiveness of our sins, the strengthening of our union with Christ and one another, and the foretaste of the heavenly banquet which is our nourishment in eternal life.
 
 **Q.** What is required of us when we come to the Eucharist?
 

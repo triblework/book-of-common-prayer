@@ -10,4 +10,4 @@ that we may not rest until all the people of this land share the
 
 benefits of true freedom and gladly accept its disciplines.  This
 
-we ask in the Name of Jesus Christ our Lord.  =Amen.=
+we ask in the Name of Jesus Christ our Lord.  Amen.

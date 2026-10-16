@@ -20,6 +20,6 @@ children to the parents; and so enkindle fervent charity among
 
 us all, that we may evermore be kindly affectioned one
 
-to another; through Jesus Christ our Lord.  =Amen.=
+to another; through Jesus Christ our Lord.  Amen.
 
 *A prayer for parents is on page 444.*

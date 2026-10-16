@@ -14,4 +14,4 @@ their prayers and labors, and that in every place your servants
 
 call upon your Name; for the kingdom and the power and
 
-the glory are yours for ever.  =Amen.=
+the glory are yours for ever.  Amen.

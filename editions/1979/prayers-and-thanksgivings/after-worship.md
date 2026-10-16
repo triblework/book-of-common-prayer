@@ -1,11 +1,11 @@
 # After Worship
 
-Grant, we beseech =thee=, Almighty God, that the words which
+Grant, we beseech thee, Almighty God, that the words which
 
 we have heard this day with our outward ears, may, through
 
-=thy= grace, be so grafted inwardly in our hearts, that they may
+thy grace, be so grafted inwardly in our hearts, that they may
 
 bring forth in us the fruit of good living, to the honor and
 
-praise of =thy= Name; through Jesus Christ our Lord.  =Amen.=
+praise of thy Name; through Jesus Christ our Lord.  Amen.

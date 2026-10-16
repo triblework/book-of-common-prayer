@@ -10,4 +10,4 @@ Blood, that we may ever perceive within ourselves the fruit of
 
 thy redemption; who livest and reignest with the Father and
 
-the Holy Spirit, one God, for ever and ever.  =Amen.=
+the Holy Spirit, one God, for ever and ever.  Amen.

@@ -208,7 +208,7 @@ Therefore, Father, through Jesus Christ your Son, give your Holy Spirit to N.; f
 
 May he exalt you, O Lord, in the midst of your people; offer spiritual sacrifices acceptable to you; boldly proclaim the gospel of salvation; and rightly administer the sacraments of the New Covenant. Make him a faithful pastor, a patient teacher, and a wise councilor. Grant that in all things he may serve without reproach, so that your people may be strengthened and your Name glorified in all the world. All this we ask through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever.
 
-*The People in a loud voice respond*    Amen.
+**The People in a loud voice respond.**   Amen.
 
 > The new priest is now vested according to the order of priests.
 

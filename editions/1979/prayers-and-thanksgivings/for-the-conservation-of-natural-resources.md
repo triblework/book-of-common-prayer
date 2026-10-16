@@ -12,4 +12,4 @@ may suffer from our abuse of them, and that generations yet
 
 to come may continue to praise you for your bounty; through
 
-Jesus Christ our Lord.  =Amen.=
+Jesus Christ our Lord.  Amen.

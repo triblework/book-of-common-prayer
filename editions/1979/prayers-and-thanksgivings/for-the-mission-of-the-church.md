@@ -12,4 +12,4 @@ that all may know the power of his forgiveness and the hope
 
 of his resurrection; who lives and reigns with you and the
 
-Holy Spirit, one God, now and for ever.  =Amen.=
+Holy Spirit, one God, now and for ever.  Amen.

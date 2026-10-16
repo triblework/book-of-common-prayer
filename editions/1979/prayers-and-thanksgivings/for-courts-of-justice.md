@@ -1,15 +1,15 @@
 # For Courts of Justice
 
-Almighty God, =who sittest= in the throne judging right:  We
+Almighty God, who sittest in the throne judging right:  We
 
-humbly beseech =thee= to bless the courts of justice and the
+humbly beseech thee to bless the courts of justice and the
 
-magistrates in all this land; and give =unto= them the spirit of
+magistrates in all this land; and give unto them the spirit of
 
 wisdom and understanding, that they may discern the truth,
 
-and impartially administer the law in the fear of =thee= alone;
+and impartially administer the law in the fear of thee alone;
 
-through him who shall come to be our Judge, =thy= Son our
+through him who shall come to be our Judge, thy Son our
 
-Savior Jesus Christ.  =Amen.=
+Savior Jesus Christ.  Amen.

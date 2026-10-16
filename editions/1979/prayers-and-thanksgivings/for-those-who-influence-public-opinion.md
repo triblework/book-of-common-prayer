@@ -8,6 +8,6 @@ many listen and write what many read; that they may do their
 
 part in making the heart of this people wise, its mind sound, and
 
-its will righteous; to the honor of Jesus Christ our Lord.  =Amen.=
+its will righteous; to the honor of Jesus Christ our Lord.  Amen.
 
 *For Social Service, see Various Occasions no. 22*

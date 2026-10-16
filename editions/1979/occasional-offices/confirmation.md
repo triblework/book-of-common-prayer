@@ -62,7 +62,7 @@ There is one Body and one Spirit;
 
 > The people sit.  One or two Lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &mdash.
+A Reading (Lesson) from ____________ .
 
 > A citation giving chapter and verse may be added.
 
@@ -80,7 +80,7 @@ The Word of the Lord.
 
 > Then, all standing, the Deacon or a Priest reads the Gospel, first saying
 
-The Holy Gospel of our Lord Jesus Christ according to &mdash..
+The Holy Gospel of our Lord Jesus Christ according to __________ .
 
 **People.**  Glory to you, Lord Christ.
 
@@ -98,7 +98,7 @@ The Gospel of the Lord.
 
 The Candidate(s) will now be presented.
 
-*Presenters*  I present these persons for Confirmation.
+**Presenters.** I present these persons for Confirmation.
 
 *or*  I present these persons to be received into this Communion.
 
@@ -202,19 +202,19 @@ Almighty God, we thank you that by the death and resurrection of your Son Jesus 
 
 > The Bishop lays hands upon each one and says
 
-Strengthen, O Lord, your servant &N. with your Holy Spirit; empower him for your service; and sustain him all the days of his life. Amen.
+Strengthen, O Lord, your servant N. with your Holy Spirit; empower him for your service; and sustain him all the days of his life. Amen.
 
 > or this
 
-Defend, O Lord, your servant &N. with your heavenly grace, that he may continue yours for ever, and daily increase in your Holy Spirit more and more, until he comes to your everlasting kingdom.  Amen.
+Defend, O Lord, your servant N. with your heavenly grace, that he may continue yours for ever, and daily increase in your Holy Spirit more and more, until he comes to your everlasting kingdom.  Amen.
 
 ## For Reception
 
-&N., we recognize you as a member of the one holy catholic and apostolic Church, and we receive you into the fellowship of this Communion.  God, the Father, Son, and Holy Spirit, bless, preserve, and keep you.  Amen.
+N., we recognize you as a member of the one holy catholic and apostolic Church, and we receive you into the fellowship of this Communion.  God, the Father, Son, and Holy Spirit, bless, preserve, and keep you.  Amen.
 
 ## For Reaffirmation
 
-&N., may the Holy Spirit, who has begun a good work in you, direct and uphold you in the service of Christ and his kingdom.  Amen.
+N., may the Holy Spirit, who has begun a good work in you, direct and uphold you in the service of Christ and his kingdom.  Amen.
 
 > The Bishop concludes with this prayer
 

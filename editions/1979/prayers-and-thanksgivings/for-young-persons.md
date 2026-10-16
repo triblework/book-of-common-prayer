@@ -14,4 +14,4 @@ for a new start.  Give them strength to hold their faith in you,
 
 and to keep alive their joy in your creation; through Jesus
 
-Christ our Lord.  =Amen.=
+Christ our Lord.  Amen.

@@ -12,4 +12,4 @@ crumble, suspicions disappear, and hatreds cease; that our
 
 divisions being healed, we may live in justice and peace;
 
-through Jesus Christ our Lord.  =Amen.=
+through Jesus Christ our Lord.  Amen.

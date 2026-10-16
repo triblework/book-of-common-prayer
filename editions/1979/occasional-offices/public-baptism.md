@@ -66,7 +66,7 @@ There is one Body and one Spirit;
 
 > The people sit.  One or two Lessons, as appointed, are read, the Reader first saying
 
-A Reading (Lesson) from &3em..
+A Reading (Lesson) from _____________.
 
 > A citation giving chapter and verse may be added.
 
@@ -84,7 +84,7 @@ The Word of the Lord.
 
 > Then, all standing, the Deacon or a Priest reads the Gospel, first saying
 
-The Holy Gospel of Our Lord Jesus Christ according to &3em..
+The Holy Gospel of Our Lord Jesus Christ according to ____________.
 
 **People.**  Glory to you, Lord Christ.
 
@@ -108,13 +108,13 @@ The Candidate(s) for Holy Baptism will now be presented.
 
 > The candidates who are able to answer for themselves are presented individually by their Sponsors, as follows
 
-*Sponsor*  I present &N. to receive the Sacrament of Baptism.
+**Sponsor.** I present N. to receive the Sacrament of Baptism.
 
 > The Celebrant asks each candidate when presented
 
 Do you desire to be baptized?
 
-*Candidate*  I do.
+**Candidate.** I do.
 
 ## Infants and Younger Children
 
@@ -122,7 +122,7 @@ Do you desire to be baptized?
 
 **Parents and Godparents.**
 
-I present &N. to receive the Sacrament of Baptism.
+I present N. to receive the Sacrament of Baptism.
 
 > When all have been presented the Celebrant asks the parents and godparents
 
@@ -184,7 +184,7 @@ I present these persons who desire to reaffirm their baptismal vows.
 
 Do you reaffirm your renunciation of evil?
 
-*Candidate*  I do.
+**Candidate.** I do.
 
 **Bishop.**
 
@@ -314,7 +314,7 @@ Eternal Father, whose blessed Son was anointed by the Holy Spirit to  be the Sav
 
 > Each candidate is presented by name to the Celebrant, or to an assisting priest or deacon, who then immerses, or pours water upon, the candidate, saying
 
-&N., I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.  Amen.
+N., I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.  Amen.
 
 > When this action has been completed for all candidates, the Bishop or Priest, at a place in full sight of the congregation, prays over them, saying
 
@@ -324,7 +324,7 @@ Heavenly Father, we thank you that by water and the Holy Spirit you have bestowe
 
 > Then the Bishop or Priest places a hand on the person's head, marking on the forehead the sign of the cross [using Chrism if desired] and saying to each one
 
-&N., you are sealed by the Holy Spirit in Baptism and marked as Christ's own for ever.  Amen.
+N., you are sealed by the Holy Spirit in Baptism and marked as Christ's own for ever.  Amen.
 
 > Or this action may be done immediately after the administration of the water and before the preceding prayer.
 
@@ -366,11 +366,11 @@ Defend, O Lord, your servant N. with your heavenly grace, that he may continue y
 
 ## For Reception
 
-&N., we recognize you as a member of the one holy catholic and apostolic Church, and we receive you into the fellowship of this Communion.  God, the Father, Son, and Holy Spirit, bless, preserve, and keep you.  Amen.
+N., we recognize you as a member of the one holy catholic and apostolic Church, and we receive you into the fellowship of this Communion.  God, the Father, Son, and Holy Spirit, bless, preserve, and keep you.  Amen.
 
 ## For Reaffirmation
 
-&N., may the Holy Spirit, who has begun a good work in you, direct and uphold you in the service of Christ and his kingdom.  Amen.
+N., may the Holy Spirit, who has begun a good work in you, direct and uphold you in the service of Christ and his kingdom.  Amen.
 
 > Then the Bishop says
 

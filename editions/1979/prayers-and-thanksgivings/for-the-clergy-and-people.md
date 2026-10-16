@@ -12,4 +12,4 @@ truly please thee, pour upon them the continual dew of thy
 
 blessing.  Grant this, O Lord, for the honor of our Advocate
 
-and Mediator, Jesus Christ.  =Amen.=
+and Mediator, Jesus Christ.  Amen.

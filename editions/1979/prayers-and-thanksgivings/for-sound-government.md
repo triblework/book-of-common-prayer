@@ -8,7 +8,7 @@ may be a people at peace among ourselves and a blessing to
 
 other nations of the earth.
 
-=Lord, keep this nation under your care.=
+Lord, keep this nation under your care.
 
 To the President and members of the Cabinet, to Governors
 
@@ -18,7 +18,7 @@ authority, grant wisdom and grace in the exercise of their
 
 duties.
 
-=Give grace to your servants, O Lord.=
+Give grace to your servants, O Lord.
 
 To Senators and Representatives, and those who make our
 
@@ -28,7 +28,7 @@ foresight to provide for the needs of all our people, and to
 
 fulfill our obligations in the community of nations.
 
-=Give grace to your servants, O Lord.=
+Give grace to your servants, O Lord.
 
 To the Judges and officers of our Courts give understanding
 
@@ -36,7 +36,7 @@ and integrity, that human rights may be safeguarded and
 
 justice served.
 
-=Give grace to your servants, O Lord.=
+Give grace to your servants, O Lord.
 
 And finally, teach our people to rely on your strength and to
 
@@ -48,6 +48,6 @@ the well-being of our society; that we may serve you
 
 faithfully in our generation and honor your holy Name.
 
-=For yours is the kingdom, O Lord, and you are exalted as
+For yours is the kingdom, O Lord, and you are exalted as
 
-head above all.  Amen.=
+head above all.  Amen.

@@ -10,4 +10,4 @@ probe the mysteries of your creation, we may come to know
 
 you more truly, and more surely fulfill our role in your
 
-eternal purpose; in the name of Jesus Christ our Lord.  =Amen.=
+eternal purpose; in the name of Jesus Christ our Lord.  Amen.

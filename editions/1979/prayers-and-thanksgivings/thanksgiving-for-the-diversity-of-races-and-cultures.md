@@ -10,4 +10,4 @@ show us your presence in those who differ most from us, until
 
 our knowledge of your love is made perfect in our love for all
 
-your children; through Jesus Christ our Lord.  =Amen.=
+your children; through Jesus Christ our Lord.  Amen.

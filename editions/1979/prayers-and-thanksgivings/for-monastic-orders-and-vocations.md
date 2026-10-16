@@ -12,4 +12,4 @@ service they may enrich your Church, and by their life and
 
 worship may glorify your Name; for you reign with the Father
 
-and the Holy Spirit, one God, now and for ever.  =Amen.=
+and the Holy Spirit, one God, now and for ever.  Amen.

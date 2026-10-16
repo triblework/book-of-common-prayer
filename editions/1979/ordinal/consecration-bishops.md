@@ -204,7 +204,7 @@ Therefore, Father, make N. a bishop in your Church.  Pour out upon him the power
 
 To you, O Father, all hearts are open; fill, we pray, the heart of this your servant whom you have chosen to be a bishop in your Church, with such love of you and of all the people, that he may feed and tend the flock of Christ, and exercise without reproach the high priesthood to which you have called him, serving before you day and night in the ministry of reconciliation, declaring pardon in your Name, offering the holy gifts, and wisely overseeing the life and work of the Church.  In all things may he present before you the acceptable offering of a pure, and gentle, and holy life; through Jesus Christ your Son, to whom, with you and the Holy Spirit, be honor and power and glory in the Church, now and for ever.
 
-*The People in a loud voice respond*    Amen.
+**The People in a loud voice respond.**   Amen.
 
 > The new bishop is now vested according to the order of bishops.
 
@@ -258,7 +258,7 @@ Our help is in the Name of the Lord;
 
 **People.**  From this time forth for evermore.
 
-*New Bishop*  The blessing, mercy, and grace of God Almighty, the Father, the Son, and the Holy Spirit, be upon you, and remain with you for ever.  Amen.
+**New Bishop.** The blessing, mercy, and grace of God Almighty, the Father, the Son, and the Holy Spirit, be upon you, and remain with you for ever.  Amen.
 
 > A Deacon dismisses the people
 
