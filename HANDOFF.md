@@ -18,10 +18,16 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 20 (the 1662 Kalendar and its tables) BUILT + COMMITTED, NOT PUBLISHED (2026-09-25)
+## CURRENT — WAVE 20 (the 1662 Kalendar and its tables) DONE + PUBLISHED (2026-10-16)
 
-**Committed on `authoring`; NOT published (R4 — needs the maintainer's
-go-ahead).** A full `build_history.py` build changes `texts/` ONLY at `v1662`
+**PUBLISHED 2026-10-16 (force-pushed with maintainer go-ahead). Published tips:
+`main 5ca5cef1 · scottish 700465cb · american d7e1d691`; branches pushed with
+`--force-with-lease`, all 12 tags pushed BY NAME; local==remote verified for
+28 refs (4 heads, 12 tag objects, 12 peeled commits; 0 mismatched, no stray
+refs); no tag carries U+FFFD; against the previous tags `texts/` changed ONLY
+in v1662 (10 files). The build was deterministic (american d7e1d69 matched the
+pre-publish test build). Pre/post refs: `scratchpad/pre-publish-refs-w20.txt`,
+`post-publish-refs-w20.txt` (scratchpad, not durable).** A full `build_history.py` build changes `texts/` ONLY at `v1662`
 (10 files: five cells in `original/` and `normalized/`); the other eleven tags
 are byte-identical in `texts/` and differ only in NOTICE/README/SOURCES and
 `tools/sentence_split.py`. Every built tag passes `sentence_split --check`,
