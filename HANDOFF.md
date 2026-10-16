@@ -18,6 +18,50 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 22 (the 1892 Psalter: every mediant read by eye) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+
+Workstream C of the coordinator session (see the Wave 21 block for the
+session shape). Guide: `ingest/WAVE22_GUIDE.md`. Rulings **R20** (the
+Psalter's closing line is furniture) and **R21** (` : ` is the repo's
+structural mediant; a `;` at the mediant is recorded, not printed; ordinary
+punctuation of a scan-read edition follows the book, closed up; done means
+every verse read by eye).
+
+What it did: the pass Wave 17 named as its limit. **Every mediant of the
+2,508 verses was read by eye** off 4400px crops stacked into labelled strips
+(about 150 strips; the machine found the places, a 150-verse control sample
+disagreed with it 0/150, the full pass found nothing more): **4 pointing
+differences** (39:14, 100:2 moved to the book's word; 107:1, 139:7 the book's
+`;` recorded, ` : ` kept). By-catch: the carrier was keyed over the 1662
+Psalter and carried its STOPS — **328 punctuation differences** read by eye
+and applied; **32 word forms** Wave 17 missed (from an eye pass over the 725
+words the alignment could not match) and 17 spacing slips; the closing line
+deleted from 150:6. **378 edits in 315 verses**; 3 flags opened (107:1,
+139:7, 139:11's damaged stop), none closed; the water-side note corrected
+(the keyed Standard text breaks the word at the same place; it does not print
+"waterside"). 1892 flags 43 → 46.
+
+**Not taken: letter case.** 94 eye-read differences (small-capital LORD
+printed "Lord" 16× in Psalms 139–143; verse-1 openings; *Most High*,
+*anointed*, *Red Sea*) are keyed in `w22_witness.py` (groups CASE_LORD,
+CASE_OPENING, CASE_CAPS) and switched OFF; a ruling is open in `RULINGS.md`.
+Turning them on is a switch, a rebuild and a gate run.
+
+Scripts: `w22_render.py`, `w22_ocr.swift` (word boxes), `w22_strip.swift`,
+`w22_scan.py` / `w22_scan_ocr.json`, `w22_align.py`, `w22_classify.py` /
+`w22_firstpass.tsv`, `w22_crops.py`, `w22_eye_*.py` / `w22_eye.txt`,
+`w22_control.py`, `w22_punct*.py` / `.tsv` / `_keys.json`, `w22_unmatched.py`
+/ `.tsv`, `w22_words*.py` / `.tsv`, `w22_case*.py` / `.tsv` / `_keys.json`,
+`w22_evidence.py` / `.json`, `w22_witness.py` (applied by `w13_build_1892.py`
+after Wave 17's), `w22_gates.py`, `gen_wave22_provenance.py`, `w22_docs.py`.
+Amended: `w13_fidelity.py` (subtract `w22_witness.introduced()`),
+`w17_gates.py` (containment now chains Wave 22's corrections, R18).
+
+Gates: `w22_gates` 0; `w13_changelog` 55/55; `w13_audit`, `w13_fidelity` 0;
+`w14`–`w21` 0; `verify_index --check` OK.
+
+---
+
 ## CURRENT — WAVE 21 (the 1928 Psalter vs the original printing) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
 
 **Session shape, new this wave:** a COORDINATOR session ran four workstreams
@@ -1631,8 +1675,8 @@ planning around them.
    are 1896 printings (the 1892 book — noted for the 1892 pointing collation),
    and LoC's 1930 record has no digital copy. The 1928 cells already published
    are unaffected; what is blocked is reading anything further against justus.
-4. **Offline and self-contained, any time:** the full 1892 pointing collation
-   (Wave 17's stated limit; the 596-page scan is cached); the 1789 Ascension
+4. **Offline and self-contained, any time:** ~~the full 1892 pointing collation~~
+   (DONE, Wave 22, 2026-10-16: every mediant read by eye); the 1789 Ascension
    "24, 47, 103" lead; the 1637 missing-page span; the 1892 Kalendar's lost row
    structure; the 1604 propers (still no allow-listed source).
 5. **Open rulings** live in `RULINGS.md`: the 1662 communion admission rubric
@@ -1659,11 +1703,11 @@ Named items, highest value first:
   node, or a sibling file) — not a silent overwrite of the 1928 tables.
 - **DONE in Wave 17** (was the biggest open item): the 1892 Psalter is read
   against `1892Standard/1892standard.pdf`. What remains of it is one flagged
-  reading (Psalm 1:3 "water-side", which the scan breaks across a line) and a
-  limit worth stating: the pointing was only checked where Wave 13's mediant
-  gate flagged an anomaly, because page-OCR cannot tell ':' from ';'. A full
-  collation of the 1892 pointing would need the same eye-level pass over 2,508
-  verses.
+  reading (Psalm 1:3 "water-side", which the scan breaks across a line). Its
+  stated limit -- the pointing checked only where the mediant gate flagged an
+  anomaly -- was removed in Wave 22, which read every mediant by eye and found
+  the carrier's 1662 stops besides; what remains open there is letter case
+  (94 differences keyed and switched off, ruling pending).
 - **1928 and 1979 psalters still unread against a scan** (1662 was done in
   Wave 18). Each carries its own VERIFYs (1928 three mediants, 1979 nine
   readings). Witnesses are identified for both:

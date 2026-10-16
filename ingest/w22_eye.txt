@@ -1,0 +1,3386 @@
+# w22_eye.txt -- pointing and stops read BY EYE off 4400px crops of the 1892
+# Standard Book scan (strips in the workstream render dir, built by w22_crops.py).
+# PHASE 1 (prototype and sampling only; no cell has been changed).
+# columns: verse, scan page, where (pivot:W = the word the cell mediant follows;
+# end:W = the verse's last word; after:W = another word), what the eye saw
+# (':' ';' ',' '.' or '-' for no mark; '?' unread), the cell's mark there, strip, note.
+1:1	p357	pivot:sinners	:	:	ps001_001-006
+1:2	p357	pivot:LORD	:	:	ps001_001-006
+1:3	p357	pivot:water-side	:	:	ps001_001-006
+1:4	p357	pivot:wither	:	:	ps001_001-006
+1:5	p357	pivot:them	:	:	ps001_001-006
+1:6	p357	pivot:judgment	:	:	ps001_001-006
+23:1	p381	pivot:shepherd	:	:	ps023_001-006
+23:2	p381	pivot:pasture	:	:	ps023_001-006
+23:3	p381	pivot:soul	:	:	ps023_001-006
+23:4	p381	pivot:evil	:	:	ps023_001-006
+23:5	p381	pivot:me	:	:	ps023_001-006
+23:6	p381	pivot:life	:	:	ps023_001-006
+78:2	p447	pivot:parable	:	:	ps078_002-026
+78:3	p447	pivot:known	:	:	ps078_002-026
+78:4	p447	pivot:come	:	:	ps078_002-026
+78:5	p447	pivot:law	:	:	ps078_002-026
+78:6	p448	pivot:it	:	:	ps078_002-026
+78:7	p448	pivot:up	:	:	ps078_002-026
+78:8	p448	pivot:God	:	:	ps078_002-026
+78:9	p448	pivot:generation	:	:	ps078_002-026
+78:10	p448	pivot:Ephraim	:	:	ps078_002-026
+78:11	p448	pivot:God	:	:	ps078_002-026
+78:12	p448	pivot:done	:	:	ps078_002-026
+78:13	p448	pivot:Egypt	:	:	ps078_002-026
+78:14	p448	pivot:through	:	:	ps078_002-026
+78:15	p448	pivot:cloud	:	:	ps078_002-026
+78:16	p448	pivot:wilderness	:	:	ps078_002-026
+78:17	p448	pivot:rock	:	:	ps078_002-026
+78:18	p448	pivot:him	:	:	ps078_002-026
+78:19	p448	pivot:hearts	:	:	ps078_002-026
+78:20	p448	pivot:saying	:	:	ps078_002-026
+78:21	p449	pivot:withal	:	:	ps078_002-026
+78:22	p449	pivot:wroth	:	:	ps078_002-026
+78:23	p449	pivot:God	:	:	ps078_002-026
+78:24	p449	pivot:above	:	:	ps078_002-026
+78:25	p449	pivot:eat	:	:	ps078_002-026
+78:26	p449	pivot:food	:	:	ps078_002-026
+119:1	p501	pivot:way	:	:	ps119_001-040
+119:2	p501	pivot:testimonies	:	:	ps119_001-040
+119:3	p501	pivot:wickedness	:	:	ps119_001-040
+119:4	p501	pivot:charged	:	:	ps119_001-040
+119:5	p501	pivot:direct	:	:	ps119_001-040
+119:6	p501	pivot:confounded	:	:	ps119_001-040
+119:7	p501	pivot:heart	:	:	ps119_001-040
+119:8	p501	pivot:ceremonies	:	:	ps119_001-040
+119:9	p501	pivot:way	:	:	ps119_001-040
+119:10	p501	pivot:thee	:	:	ps119_001-040
+119:11	p502	pivot:heart	:	:	ps119_001-040
+119:12	p502	pivot:LORD	:	:	ps119_001-040
+119:13	p502	pivot:telling	:	:	ps119_001-040
+119:14	p502	pivot:testimonies	:	:	ps119_001-040
+119:15	p502	pivot:commandments	:	:	ps119_001-040
+119:16	p502	pivot:statutes	:	:	ps119_001-040
+119:17	p502	pivot:servant	:	:	ps119_001-040
+119:18	p502	pivot:eyes	:	:	ps119_001-040
+119:19	p502	pivot:earth	:	:	ps119_001-040
+119:20	p502	pivot:desire	:	:	ps119_001-040
+119:21	p502	pivot:proud	:	:	ps119_001-040
+119:22	p502	pivot:rebuke	:	:	ps119_001-040
+119:23	p502	pivot:me	:	:	ps119_001-040
+119:24	p502	pivot:delight	:	:	ps119_001-040
+119:25	p502	pivot:dust	:	:	ps119_001-040
+119:26	p502	pivot:me	:	:	ps119_001-040
+119:27	p503	pivot:commandments	:	:	ps119_001-040
+119:28	p503	pivot:heaviness	:	:	ps119_001-040
+119:29	p503	pivot:lying	:	:	ps119_001-040
+119:30	p503	pivot:truth	:	:	ps119_001-040
+119:31	p503	pivot:testimonies	:	:	ps119_001-040
+119:32	p503	pivot:commandments	:	:	ps119_001-040
+119:33	p503	pivot:statutes	:	:	ps119_001-040
+119:34	p503	pivot:law	:	:	ps119_001-040
+119:35	p503	pivot:commandments	:	:	ps119_001-040
+119:36	p503	pivot:testimonies	:	:	ps119_001-040
+119:37	p503	pivot:vanity	:	:	ps119_001-040
+119:38	p503	pivot:servant	:	:	ps119_001-040
+119:39	p503	pivot:of	:	:	ps119_001-040
+119:40	p503	pivot:commandments	:	:	ps119_001-040
+119:82	p506	pivot:word	:	:	ps119_082-121
+119:83	p506	pivot:smoke	:	:	ps119_082-121
+119:84	p507	pivot:servant	:	:	ps119_082-121
+119:85	p507	pivot:me	:	:	ps119_082-121
+119:86	p507	pivot:true	:	:	ps119_082-121
+119:87	p507	pivot:earth	:	:	ps119_082-121
+119:88	p507	pivot:loving-kindness	:	:	ps119_082-121
+119:89	p507	pivot:word	:	:	ps119_082-121
+119:90	p507	pivot:another	:	:	ps119_082-121
+119:91	p507	pivot:ordinance	:	:	ps119_082-121
+119:92	p507	pivot:law	:	:	ps119_082-121
+119:93	p507	pivot:commandments	:	:	ps119_082-121
+119:94	p507	pivot:me	:	:	ps119_082-121
+119:95	p507	pivot:me	:	:	ps119_082-121
+119:96	p507	pivot:end	:	:	ps119_082-121
+119:97	p507	pivot:law	:	:	ps119_082-121
+119:98	p507	pivot:enemies	:	:	ps119_082-121
+119:99	p508	pivot:teachers	:	:	ps119_082-121
+119:100	p508	pivot:aged	:	:	ps119_082-121
+119:101	p508	pivot:way	:	:	ps119_082-121
+119:102	p508	pivot:judgments	:	:	ps119_082-121
+119:103	p508	pivot:throat	:	:	ps119_082-121
+119:104	p508	pivot:understanding	:	:	ps119_082-121
+119:105	p508	pivot:feet	:	:	ps119_082-121
+119:106	p508	pivot:purposed	:	:	ps119_082-121
+119:107	p508	pivot:measure	:	:	ps119_082-121
+119:108	p508	pivot:LORD	:	:	ps119_082-121
+119:109	p508	pivot:hand	:	:	ps119_082-121
+119:110	p508	pivot:me	:	:	ps119_082-121
+119:111	p508	pivot:ever	:	:	ps119_082-121
+119:112	p508	pivot:alway	:	:	ps119_082-121
+119:113	p509	pivot:things	:	:	ps119_082-121
+119:114	p509	pivot:shield	:	:	ps119_082-121
+119:115	p509	pivot:wicked	:	:	ps119_082-121
+119:116	p509	pivot:live	:	:	ps119_082-121
+119:117	p509	pivot:safe	:	:	ps119_082-121
+119:118	p509	pivot:statutes	:	:	ps119_082-121
+119:119	p509	pivot:dross	:	:	ps119_082-121
+119:120	p509	pivot:thee	:	:	ps119_082-121
+119:121	p509	pivot:right	:	:	ps119_082-121
+3:1	p358	pivot:me	:	:	pivot_nocolon_00/whole_cands_00
+4:1	p359	pivot:righteousness	:	:	pivot_nocolon_00/whole_cands_00	whole crop; pivot broken righteous-|ness
+10:1	p365	pivot:LORD	:	:	pivot_nocolon_00/whole_cands_00	OCR read ;
+22:5	p379	pivot:holpen	:	:	pivot_nocolon_00/whole_cands_00	OCR read ;
+33:1	p391	pivot:righteous	:	:	pivot_nocolon_00/whole_cands_00
+39:14	p403	pivot:thee	,	:	pivot_nocolon_00/whole_cands_00	book: thee, and a so-|journer : as -- colon after sojourner
+55:7	p419	pivot:off	:	:	pivot_nocolon_00/whole_cands_00	OCR read ;
+58:1	p423	pivot:congregation	:	:	pivot_nocolon_00/whole_cands_00
+65:1	p429	pivot:Sion	:	:	pivot_nocolon_00/whole_cands_00
+66:12	p431	pivot:burnt-offerings	:	:	pivot_nocolon_00/whole_cands_00	whole crop; pivot broken burnt-offer-|ings across p430/431
+68:1	p432	pivot:scattered	:	:	pivot_nocolon_00/whole_cands_00
+100:2	p475	pivot:God	;	:	pivot_nocolon_00/whole_cands_00	book: God; it is he ... ourselves : we are -- colon after ourselves
+107:1	p487	pivot:gracious	;	:	pivot_nocolon_00/whole_cands_00	book: gracious ; and his -- no colon anywhere in the verse (3x zoom)
+109:1	p491	pivot:praise	:	:	pivot_nocolon_00/whole_cands_00
+115:7	p497	pivot:not	:	:	pivot_nocolon_00/whole_cands_00
+119:41	p504	pivot:LORD	:	:	pivot_nocolon_00/whole_cands_00	line end
+119:159	p512	pivot:commandments	:	:	pivot_nocolon_00/whole_cands_00	whole crop; pivot broken command-|ments
+133:1	p520	pivot:is	:	:	pivot_nocolon_00/whole_cands_00	line end
+139:7	p525	pivot:there	;	:	pivot_nocolon_00/whole_cands_00	book: there ; if I -- no colon anywhere in the verse (3x zoom)
+1:7	p357	pivot:righteous	:	:	unaligned_whole_00
+12:1	p367	pivot:left	:	:	unaligned_whole_00
+19:1	p376	pivot:God	:	:	unaligned_whole_00
+24:1	p381	pivot:is	:	:	unaligned_whole_00	line end
+63:4	p427	pivot:itself	:	:	unaligned_whole_00
+78:1	p447	pivot:people	:	:	unaligned_whole_00
+85:1	p458	pivot:land	:	:	unaligned_whole_00	line end
+87:1	p460	pivot:hills	?	:	unaligned_whole_00	crop lost the drop-capital row; UNREAD
+91:2	p467	pivot:hold	:	:	unaligned_whole_00	book prints stronghold (cell: strong hold)
+119:81	p506	pivot:salvation	:	:	unaligned_whole_00
+130:1	p518	pivot:LORD	:	:	unaligned_whole_00	line end
+132:1	p519	pivot:David	:	:	unaligned_whole_00	and a verse-final colon after trouble
+141:1	p527	pivot:me	:	:	unaligned_whole_00
+143:12	p530	pivot:enemies	:	:	unaligned_whole_00
+2:2	p358	end:Anointed	:	.	final_sample_00
+2:5	p358	end:displeasure	:	.	final_sample_00
+17:4	p371	end:destroyer	.	.	final_sample_00
+18:5	p372	end:God	:	.	final_sample_00
+18:18	p373	end:upholder	.	.	final_sample_00
+22:20	p380	end:dog	.	.	final_sample_00
+23:1	p381	end:nothing	.	.	final_sample_00
+25:4	p382	end:long	.	.	final_sample_00
+27:14	p385	end:wrong	.	.	final_sample_00
+29:8	p387	end:honour	.	.	final_sample_00
+30:6	p388	end:strong	.	.	final_sample_00
+30:12	p388	end:gladness	:	.	final_sample_00
+35:28	p396	end:long	.	.	final_sample_00
+37:13	p398	end:coming	.	.	final_sample_00
+38:1	p400	end:displeasure	:	.	final_sample_00
+38:12	p401	end:long	.	.	final_sample_00
+41:7	p405	end:evil	:	.	final_sample_00
+43:3	p407	end:dwelling	.	.	final_sample_00
+47:6	p411	end:King	.	.	final_sample_00
+47:7	p412	end:understanding	.	.	final_sample_00
+48:7	p412	end:ever	.	.	final_sample_00
+49:3	p413	end:understanding	.	.	final_sample_00
+49:14	p414	end:dwelling	.	.	final_sample_00
+50:18	p415	end:adulterers	.	.	final_sample_00
+56:13	p422	end:living	.	.	final_sample_00
+9:13	p364	end:death	;	.	final_sample_00
+13:3	p368	end:death	;	.	final_sample_00
+17:11	p371	end:ground	;	.	final_sample_00
+26:6	p384	end:altar	;	.	final_sample_00
+26:9	p384	end:blood-thirsty	;	.	final_sample_00
+8:6	p363	end:feet	:	;	final_sample_00
+18:47	p375	end:salvation	:	;	final_sample_00
+20:1	p377	end:thee	:	;	final_sample_00
+20:2	p377	end:Sion	:	;	final_sample_00
+20:3	p377	end:burnt-sacrifice	:	;	final_sample_00
+26:1	p383	after:my	-	-	internal_sample	OCR moved the pivot's colon onto the next word
+39:14	p403	after:sojourner	:	,	internal_sample	the book mediant (see pivot)
+91:2	p467	after:strong	:	:	internal_sample	book one word stronghold; same mediant
+100:2	p475	after:ourselves	:	;	internal_sample	the book mediant (see pivot)
+117:2	p499	after:ever	.	.	internal_sample	the SECOND ever (the alignment mapped the first): consistent
+4:4	p359	after:chamber	,	,	internal_sample
+10:9	p365	after:secretly	;	,	internal_sample
+13:1	p368	after:LORD	;	,	internal_sample
+14:5	p368	after:sepulchre	;	,	internal_sample
+16:2	p370	after:God	;	,	internal_sample
+18:1	p372	after:trust	;	,	internal_sample
+18:6	p372	after:him	;	,	internal_sample
+18:15	p373	after:chiding	,	,	internal_sample
+18:47	p375	after:liveth	;	,	internal_sample
+21:4	p378	after:thee	;	,	internal_sample
+22:11	p379	after:me	;	,	internal_sample
+22:14	p379	after:water	,	,	internal_sample
+22:23	p380	after:Jacob	;	,	internal_sample
+22:24	p380	after:him	;	,	internal_sample
+24:7	p382	after:gates	;	,	internal_sample
+24:9	p382	after:gates	;	,	internal_sample
+25:10	p383	after:sin	;	,	internal_sample
+30:11	p388	after:Hear	,	,	internal_sample
+31:1	p388	after:confusion	;	,	internal_sample
+31:15	p389	after:side	;	,	internal_sample
+32:8	p391	after:in	;	,	internal_sample
+39:4	p402	after:me	;	,	internal_sample
+39:13	p403	after:prayer	,	,	internal_sample
+40:21	p404	after:tarrying	,	,	internal_sample
+41:6	p405	after:himself	;	,	internal_sample
+43:2	p407	after:strength	;	,	internal_sample
+49:14	p414	after:sheep	;	,	internal_sample
+54:2	p419	after:prayer	,	,	internal_sample
+56:6	p421	after:together	,	,	internal_sample
+57:1	p422	after:me	;	,	internal_sample
+86:17	p460	after:me	,	-	comma_sample
+87:6	p461	after:it	,	-	comma_sample
+64:5	p428	after:themselves	,	-	comma_sample
+146:1	p532	after:live	,	-	comma_sample
+10:2	p365	after:ungodly	,	-	comma_sample
+139:18	p526	after:up	,	-	comma_sample
+35:4	p394	after:confounded	,	-	comma_sample
+50:23	p416	after:right	,	-	comma_sample
+104:28	p481	after:them	,	-	comma_sample
+6:4	p361	after:me	,	-	comma_sample
+79:11	p453	after:heathen	,	-	comma_sample
+78:50	p450	after:displeasure	,	-	comma_sample
+71:2	p438	after:strong	,	-	comma_sample	book one word stronghold
+68:33	p434	after:all	,	-	comma_sample
+135:11	p521	after:Og	,	-	comma_sample
+30:4	p387	after:him	,	-	comma_sample
+35:28	p396	after:praise	,	-	comma_sample
+28:1	p385	after:LORD	,	-	comma_sample
+127:4	p517	after:children	,	-	comma_sample
+78:55	p451	after:mountain	,	-	comma_sample
+77:4	p446	after:feeble	-	,	comma_sample
+44:6	p407	after:under	-	,	comma_sample
+35:23	p396	after:God	-	,	comma_sample
+119:170	p512	after:me	-	,	comma_sample
+49:10	p413	after:die	-	,	comma_sample
+23:3	p381	after:righteousness	-	,	comma_sample
+2:12	p358	after:yea	-	,	comma_sample	line end
+18:32	p374	after:God	-	,	comma_sample
+22:24	p380	after:despised	-	,	comma_sample
+27:7	p385	after:sing	-	,	comma_sample
+106:23	p486	after:said	-	,	comma_sample
+89:12	p463	after:world	,	,	comma_sample
+55:13	p420	after:adversary	-	,	comma_sample
+38:8	p401	after:feeble	-	,	comma_sample
+36:3	p396	after:unrighteous	-	,	comma_sample
+17:12	p371	after:whelp	-	,	comma_sample
+18:12	p373	after:hailstones	-	,	comma_sample
+105:25	p483	after:turned	-	,	comma_sample	book: turned so, that
+40:9	p403	after:Burnt-offerings	-	,	comma_sample
+4:3	p359	after:LORD	-	,	comma_sample
+
+# ---- PHASE 1b: whole-verse eye reads (strips mq_NN = Q2+Q3; ctl_NN = control) ----
+# columns: verse, scan page, queue, pivot word, mark the eye saw at the pivot,
+# every other ':'/';' the eye saw in the verse (word+mark), disagreements with the
+# cell (w22_eye_cmp), note.
+1:7	p357	queue/Q3	pivot:righteous	:	-	agrees
+2:2	p358	queue/Q2	pivot:together	:	Anointed:	agrees
+2:5	p358	queue/Q2	pivot:wrath	:	displeasure:	agrees
+3:1	p358	queue/Q3	pivot:me	:	-	agrees
+4:1	p359	queue/Q3	pivot:righteousness	:	trouble;	agrees
+4:4	p359	queue/Q2	pivot:not	:	-	agrees
+7:4	p361	queue/Q2	pivot:me	:	enemy;	agrees
+8:6	p363	queue/Q2	pivot:hands	:	feet:	agrees
+9:13	p364	queue/Q2	pivot:me	:	LORD; death;	agrees
+10:1	p365	queue/Q3	pivot:LORD	:	-	agrees
+10:9	p365	queue/Q2	pivot:den	:	secretly;	agrees
+12:1	p367	queue/Q3	pivot:left	:	-	agrees
+13:1	p368	queue/Q2	pivot:ever	:	LORD;	agrees
+13:3	p368	queue/Q2	pivot:God	:	death;	agrees
+14:5	p368	queue/Q2	pivot:deceived	:	sepulchre;	agrees
+16:2	p370	queue/Q2	pivot:LORD	:	God;	agrees
+17:4	p371	queue/Q2	pivot:lips	:	-	agrees
+17:11	p371	queue/Q2	pivot:side	:	ground;	agrees
+18:1	p372	queue/Q2	pivot:defence	:	trust;	agrees	book: 'my strength. The LORD' (a period and a capital where the cell has ' ; the')
+18:5	p372	queue/Q2	pivot:LORD	:	God:	agrees
+18:6	p372	queue/Q2	pivot:temple	:	him;	agrees
+18:15	p373	queue/Q2	pivot:LORD	:	-	agrees
+18:18	p373	queue/Q2	pivot:trouble	:	-	agrees
+18:47	p375	queue/Q2	pivot:helper	:	liveth; salvation:	agrees
+19:1	p376	queue/Q3	pivot:God	:	-	agrees
+20:1	p377	queue/Q2	pivot:trouble	:	thee#2:	agrees
+20:2	p377	queue/Q2	pivot:sanctuary	:	Sion:	agrees
+20:3	p377	queue/Q2	pivot:offerings	:	burnt-sacrifice:	agrees
+21:4	p378	queue/Q2	pivot:life	:	thee;	agrees
+22:5	p379	queue/Q3	pivot:holpen	:	-	agrees
+22:11	p379	queue/Q2	pivot:hand	:	me;	agrees
+22:14	p379	queue/Q2	pivot:joint	:	-	agrees
+22:20	p380	queue/Q2	pivot:sword	:	-	agrees
+22:23	p380	queue/Q2	pivot:him	:	Jacob;	agrees
+22:24	p380	queue/Q2	pivot:poor	:	him;	agrees
+23:1	p381	queue/Q2	pivot:shepherd	:	-	agrees
+24:1	p381	queue/Q3	pivot:is	:	-	agrees
+24:7	p382	queue/Q2	pivot:doors	:	gates;	agrees
+24:9	p382	queue/Q2	pivot:doors	:	gates;	agrees
+25:4	p382	queue/Q2	pivot:me	:	salvation;	agrees
+25:10	p383	queue/Q2	pivot:LORD	:	sin;	agrees
+26:1	p383	queue/Q2	pivot:innocently	:	-	agrees
+26:6	p384	queue/Q2	pivot:LORD	:	altar;	agrees
+26:9	p384	queue/Q2	pivot:sinners	:	blood-thirsty;	agrees
+27:14	p385	queue/Q2	pivot:adversaries	:	-	agrees
+29:8	p387	queue/Q2	pivot:bushes	:	-	agrees
+30:6	p388	queue/Q2	pivot:removed	:	-	agrees
+30:11	p388	queue/Q2	pivot:me	:	-	agrees
+30:12	p388	queue/Q2	pivot:joy	:	gladness:	agrees
+31:1	p388	queue/Q2	pivot:trust	:	confusion;	agrees	first crop ended at righteous-; re-cropped (recrop_31_1): the verse ends ness. -- no further mark
+31:15	p389	queue/Q2	pivot:multitude	:	side;	agrees
+32:8	p391	queue/Q2	pivot:trouble	:	in;	agrees
+33:1	p391	queue/Q3	pivot:righteous	:	-	agrees
+35:28	p396	queue/Q2	pivot:righteousness	:	-	agrees
+37:13	p398	queue/Q2	pivot:scorn	:	-	agrees
+38:1	p400	queue/Q2	pivot:anger	:	displeasure:	agrees
+38:12	p401	queue/Q2	pivot:me	:	-	agrees
+39:4	p402	queue/Q2	pivot:kindled	:	me; tongue:	agrees
+39:13	p403	queue/Q2	pivot:calling	:	tears;	agrees
+39:14	p403	queue/Q3	pivot:thee	,	sojourner:	pivot:sojourner::>, book+:sojourner:->:
+40:9	p403	queue/Q2	pivot:required	:	come;	agrees
+40:21	p404	queue/Q2	pivot:redeemer	:	-	agrees
+41:6	p405	queue/Q2	pivot:vanity	:	himself;	agrees
+41:7	p405	queue/Q2	pivot:me	:	evil:	agrees
+43:2	p407	queue/Q2	pivot:thee	:	strength;	agrees
+43:3	p407	queue/Q2	pivot:me	:	-	agrees
+44:1	p407	queue/Q2	pivot:us	:	old:	agrees
+47:6	p411	queue/Q2	pivot:God	:	-	agrees
+47:7	p412	queue/Q2	pivot:earth	:	-	agrees
+48:7	p412	queue/Q2	pivot:God	:	-	agrees
+49:3	p413	queue/Q2	pivot:wisdom	:	-	agrees
+49:14	p414	queue/Q2	pivot:morning	:	sheep;	agrees
+50:18	p415	queue/Q2	pivot:him	:	-	agrees
+52:7	p417	queue/Q2	pivot:fear	:	scorn:	agrees
+54:2	p419	queue/Q2	pivot:God	:	-	agrees
+55:2	p419	queue/Q2	pivot:me	:	vexed;	agrees
+55:7	p419	queue/Q3	pivot:off	:	-	agrees
+55:12	p420	queue/Q2	pivot:dishonour	:	it#2;	agrees
+55:13	p420	queue/Q2	pivot:me	:	him;	agrees
+56:6	p421	queue/Q2	pivot:close	:	-	agrees
+56:13	p422	queue/Q2	pivot:falling	:	-	agrees
+57:1	p422	queue/Q2	pivot:thee	:	me;	book+:me:,>; cell+:me:;>?
+57:4	p422	queue/Q2	pivot:truth	:	lions;	agrees
+58:1	p423	queue/Q3	pivot:congregation	:	-	agrees
+59:14	p424	queue/Q2	pivot:return	:	-	agrees
+62:7	p427	queue/Q2	pivot:glory	:	might;	agrees
+62:9	p427	queue/Q2	pivot:vanity	:	weights;	agrees
+62:10	p427	queue/Q2	pivot:vanity	:	robbery;	agrees
+63:2	p427	queue/Q2	pivot:thee	:	thee;	agrees
+63:4	p427	queue/Q3	pivot:itself	:	-	agrees
+64:5	p428	queue/Q2	pivot:mischief	:	snares;	agrees
+65:1	p429	queue/Q3	pivot:Sion	:	-	agrees
+65:11	p429	queue/Q2	pivot:thereof	:	furrows;	agrees
+65:14	p430	queue/Q2	pivot:sheep	:	-	agrees
+66:1	p430	queue/Q2	pivot:lands	:	Name;	agrees
+67:6	p431	queue/Q2	pivot:increase	:	-	agrees
+68:1	p432	queue/Q3	pivot:scattered	:	-	agrees
+68:28	p434	queue/Q2	pivot:thee	:	-	agrees
+68:33	p434	queue/Q2	pivot:beginning	:	voice;	agrees
+69:23	p436	queue/Q2	pivot:withal	:	-	agrees
+70:6	p437	queue/Q2	pivot:redeemer	:	-	agrees
+71:1	p437	queue/Q3	pivot:confusion	:	trust; righteousness;	agrees
+71:9	p438	queue/Q2	pivot:saying	:	me; him;	agrees
+71:19	p439	queue/Q2	pivot:honour	:	side:	agrees
+73:4	p441	queue/Q2	pivot:death	:	-	agrees
+73:13	p441	queue/Q2	pivot:punished	:	-	agrees
+74:10	p443	queue/Q2	pivot:more	:	tokens;	agrees
+76:5	p445	queue/Q2	pivot:sleep	:	-	agrees
+78:1	p447	queue/Q3	pivot:people	:	-	agrees
+78:30	p449	queue/Q2	pivot:desire	:	filled;	agrees
+78:60	p451	queue/Q2	pivot:wroth	:	Israel;	agrees
+78:71	p452	queue/Q2	pivot:servant	:	sheep-folds:	agrees
+83:5	p456	queue/Q2	pivot:consent	:	thee:	agrees
+85:1	p458	queue/Q3	pivot:land	:	-	agrees
+86:17	p460	queue/Q2	pivot:ashamed	:	good;	agrees
+87:1	p460	queue/Q3	pivot:hills	:	-	agrees
+88:1	p461	queue/Q2	pivot:thee	:	calling;	agrees
+89:3	p462	queue/Q2	pivot:chosen	:	servant:	agrees
+89:19	p463	queue/Q2	pivot:defence	:	-	agrees
+89:49	p465	queue/Q2	pivot:have	:	people;	agrees
+90:17	p466	queue/Q2	pivot:us	:	us#2;	agrees
+91:2	p467	queue/Q3	pivot:hold	:	-	agrees	book prints 'stronghold' as one word (cell: 'strong hold')
+92:13	p469	queue/Q2	pivot:age	:	well-liking;	agrees
+93:3	p469	queue/Q2	pivot:prepared	:	-	agrees
+93:5	p469	queue/Q2	pivot:horribly	:	-	agrees
+94:10	p470	queue/Q2	pivot:heathen	:	knowledge;	agrees
+95:8	p471	queue/Q2	pivot:hearts	:	wilderness;	agrees
+95:10	p471	queue/Q2	pivot:said	:	ways:	agrees
+98:6	p474	queue/Q2	pivot:harp	:	-	agrees
+98:7	p474	queue/Q2	pivot:shawms	:	-	agrees
+99:1	p474	queue/Q2	pivot:unpatient	:	-	agrees	book prints 'impa-|tient' (impatient) where the cell has 'unpatient' -- a WORD difference
+99:5	p474	queue/Q2	pivot:God	:	footstool;	agrees
+100:1	p475	queue/Q2	pivot:lands	:	-	agrees
+100:2	p475	queue/Q3	pivot:God	;	ourselves:	pivot:ourselves::>; book+:ourselves:->: cell+:God:;>?
+101:1	p475	queue/Q2	pivot:judgment	:	-	agrees
+103:2	p478	queue/Q2	pivot:soul	:	benefits:	agrees
+104:23	p481	queue/Q2	pivot:labour	:	-	agrees
+105:5	p482	queue/Q2	pivot:done	:	mouth;	agrees
+105:11	p482	queue/Q2	pivot:Canaan	:	inheritance:	agrees
+106:46	p487	queue/Q2	pivot:end	:	-	agrees
+107:1	p487	queue/Q3	pivot:gracious	;	-	pivot:gracious::>;
+108:5	p491	queue/Q2	pivot:heavens	:	earth;	agrees
+108:8	p491	queue/Q2	pivot:mine	:	head;	agrees
+108:9	p491	queue/Q2	pivot:wash-pot	:	lawgiver; shoe;	agrees
+109:1	p491	queue/Q3	pivot:praise	:	-	agrees
+109:14	p492	queue/Q2	pivot:LORD	:	earth;	agrees
+109:16	p492	queue/Q2	pivot:him	:	-	agrees
+109:25	p493	queue/Q2	pivot:God	:	mercy;	agrees
+109:29	p493	queue/Q2	pivot:mouth	:	multitude;	agrees
+110:2	p493	queue/Q2	pivot:Sion	:	-	agrees
+110:3	p494	queue/Q2	pivot:worship	:	-	agrees
+115:7	p497	queue/Q3	pivot:not	:	not;	agrees
+116:8	p498	queue/Q2	pivot:death	:	-	agrees
+116:9	p498	queue/Q2	pivot:LORD	:	-	agrees
+117:2	p499	queue/Q2	pivot:us	:	-	agrees
+119:34	p503	queue/Q2	pivot:law	:	-	agrees
+119:41	p504	queue/Q3	pivot:LORD	:	-	agrees
+119:73	p506	queue/Q2	pivot:me	:	-	agrees
+119:81	p506	queue/Q3	pivot:salvation	:	-	agrees
+119:125	p509	queue/Q2	pivot:understanding	:	servant;	agrees
+119:159	p512	queue/Q3	pivot:commandments	:	-	agrees
+120:6	p513	queue/Q2	pivot:thereof	:	peace;	agrees
+126:7	p516	queue/Q2	pivot:seed	:	-	agrees
+128:6	p517	queue/Q2	pivot:thee	:	long;	agrees
+129:1	p517	queue/Q2	pivot:up	:	say;	agrees
+130:1	p518	queue/Q3	pivot:LORD	:	-	agrees
+132:1	p519	queue/Q3	pivot:David	:	trouble:	agrees
+132:2	p519	queue/Q2	pivot:LORD	:	Jacob:	agrees
+132:11	p519	queue/Q2	pivot:David	:	it:	agrees
+132:17	p520	queue/Q2	pivot:health	:	-	agrees
+133:1	p520	queue/Q3	pivot:is	:	-	agrees
+133:2	p520	queue/Q2	pivot:beard	:	-	agrees
+135:10	p521	queue/Q2	pivot:nations	:	kings:	agrees
+136:7	p522	queue/Q2	pivot:lights	:	ever:	agrees
+136:18	p523	queue/Q2	pivot:kings	:	ever:	agrees
+136:20	p523	queue/Q2	pivot:Basan	:	ever;	agrees
+137:3	p524	queue/Q2	pivot:heaviness	:	-	agrees
+137:5	p524	queue/Q2	pivot:Jerusalem	:	-	agrees
+139:1	p525	queue/Q2	pivot:me	:	up-rising;	agrees
+139:7	p525	queue/Q3	pivot:there	;	-	pivot:there::>;
+139:11	p526	queue/Q2	pivot:day	:	-	agrees	the stop after 'with thee' (p525 last row) is damaged type; read at 3x as a comma, not a semicolon, but not certain
+140:1	p526	queue/Q2	pivot:man	:	man#2;	agrees
+141:1	p527	queue/Q3	pivot:me	:	-	agrees
+141:7	p528	queue/Q2	pivot:places	:	words;	agrees
+141:9	p528	queue/Q2	pivot:God	:	trust;	agrees
+143:10	p529	queue/Q2	pivot:God	:	thee;	agrees
+143:12	p530	queue/Q3	pivot:enemies	:	soul;	agrees
+144:1	p530	queue/Q2	pivot:strength	:	fight:	agrees
+144:11	p531	queue/Q2	pivot:children	:	iniquity:	agrees
+144:12	p531	queue/Q2	pivot:plants	:	temple;	agrees
+144:13	p531	queue/Q2	pivot:store	:	streets;	agrees
+145:8	p531	queue/Q2	pivot:merciful	:	-	agrees
+146:4	p532	queue/Q2	pivot:help	:	God#2:	agrees
+146:9	p533	queue/Q2	pivot:widow	:	strangers;	agrees
+147:7	p533	queue/Q2	pivot:thanksgiving	:	God:	agrees
+149:2	p535	queue/Q2	pivot:him	:	-	agrees
+149:8	p535	queue/Q2	pivot:chains	:	iron;	agrees
+2:3	p358	control/Q1	pivot:asunder	:	-	agrees
+2:10	p358	control/Q1	pivot:kings	:	-	agrees
+7:9	p362	control/Q1	pivot:end	:	-	agrees
+9:17	p365	control/Q1	pivot:hell	:	-	agrees
+10:7	p365	control/Q1	pivot:fraud	:	-	agrees
+10:10	p365	control/Q1	pivot:poor	:	-	agrees
+11:1	p366	control/Q1	pivot:trust	:	-	agrees
+17:3	p371	control/Q1	pivot:me	:	season;	agrees
+17:6	p371	control/Q1	pivot:me	:	-	agrees
+18:29	p374	control/Q1	pivot:men	:	-	agrees
+18:46	p375	control/Q1	pivot:fail	:	-	agrees
+18:50	p375	control/Q1	pivot:Gentiles	:	-	agrees
+21:7	p378	control/Q1	pivot:LORD	:	-	agrees
+21:11	p378	control/Q1	pivot:thee	:	-	agrees
+21:13	p378	control/Q1	pivot:strength	:	-	agrees
+22:4	p379	control/Q1	pivot:thee	:	-	agrees
+22:6	p379	control/Q1	pivot:man	:	-	agrees
+22:9	p379	control/Q1	pivot:womb	:	-	agrees
+22:16	p379	control/Q1	pivot:me	:	-	agrees
+22:18	p380	control/Q1	pivot:them	:	-	agrees
+22:21	p380	control/Q1	pivot:mouth	:	-	agrees
+26:11	p384	control/Q1	pivot:innocently	:	-	agrees
+28:1	p385	control/Q1	pivot:strength	:	me;	agrees
+29:1	p386	control/Q1	pivot:LORD	:	-	agrees
+31:12	p389	control/Q1	pivot:iniquity	:	-	agrees
+31:22	p390	control/Q1	pivot:men	:	-	agrees
+33:5	p391	control/Q1	pivot:judgment	:	-	agrees
+34:6	p393	control/Q1	pivot:him	:	-	agrees
+34:8	p393	control/Q1	pivot:is	:	-	agrees
+35:4	p394	control/Q1	pivot:soul	:	-	agrees
+35:11	p395	control/Q1	pivot:up	:	-	agrees
+36:5	p397	control/Q1	pivot:heavens	:	-	agrees
+37:14	p398	control/Q1	pivot:bow	:	-	agrees
+37:20	p399	control/Q1	pivot:lambs	:	-	agrees	book: 'perish, and the' -- a comma where the cell prints ';' (control sample); first crop ended before the last row; re-cropped (recrop_37_20): ends away. -- no further mark
+37:34	p399	control/Q1	pivot:hand	:	-	agrees
+38:4	p400	control/Q1	pivot:head	:	-	agrees
+39:7	p402	control/Q1	pivot:vain	:	-	agrees
+40:8	p403	control/Q1	pivot:not	:	-	agrees
+40:12	p404	control/Q1	pivot:heart	:	-	agrees
+40:15	p404	control/Q1	pivot:up	:	me;	agrees
+44:4	p407	control/Q1	pivot:countenance	:	-	agrees
+44:11	p408	control/Q1	pivot:enemies	:	-	agrees
+46:7	p411	control/Q1	pivot:us	:	-	agrees
+48:3	p412	control/Q1	pivot:earth	:	-	agrees
+49:8	p413	control/Q1	pivot:souls	:	ever;	agrees
+50:16	p415	control/Q1	pivot:God	:	mouth;	agrees
+50:22	p416	control/Q1	pivot:God	:	-	agrees
+51:9	p416	control/Q1	pivot:sins	:	-	agrees
+54:1	p418	control/Q1	pivot:sake	:	-	agrees
+54:4	p419	control/Q1	pivot:helper	:	-	agrees
+54:7	p419	control/Q1	pivot:trouble	:	-	agrees
+57:8	p422	control/Q1	pivot:fixed	:	-	agrees
+58:4	p423	control/Q1	pivot:serpent	:	ears;	agrees
+58:5	p423	control/Q1	pivot:charmer	:	-	agrees
+59:10	p424	control/Q1	pivot:plenteously	:	-	agrees
+61:4	p426	control/Q1	pivot:ever	:	-	agrees
+62:11	p427	control/Q1	pivot:same	:	God#2;	agrees
+65:2	p429	control/Q1	pivot:prayer	:	-	agrees
+68:10	p432	control/Q1	pivot:therein	:	-	agrees
+68:32	p434	control/Q1	pivot:earth	:	Lord;	agrees
+69:7	p435	control/Q1	pivot:reproof	:	-	agrees
+69:11	p435	control/Q1	pivot:also	:	-	agrees
+71:4	p438	control/Q1	pivot:for	:	-	agrees
+72:1	p439	control/Q1	pivot:God	:	-	agrees
+73:1	p441	control/Q1	pivot:Israel	:	-	agrees
+73:18	p442	control/Q1	pivot:consume	:	-	agrees
+74:15	p443	control/Q1	pivot:pieces	:	-	agrees
+76:1	p445	control/Q1	pivot:known	:	-	agrees
+77:15	p447	control/Q1	pivot:people	:	-	agrees
+78:62	p451	control/Q1	pivot:captivity	:	-	agrees
+81:5	p455	control/Q1	pivot:testimony	:	-	agrees
+83:2	p456	control/Q1	pivot:murmuring	:	-	agrees
+83:17	p457	control/Q1	pivot:more	:	-	agrees
+85:5	p458	control/Q1	pivot:ever	:	-	agrees
+86:4	p459	control/Q1	pivot:servant	:	-	agrees
+86:8	p460	control/Q1	pivot:Lord	:	-	agrees
+87:7	p461	control/Q1	pivot:rehearse	:	-	agrees
+89:10	p463	control/Q1	pivot:sea	:	-	agrees
+89:13	p463	control/Q1	pivot:south	:	-	agrees
+89:31	p464	control/Q1	pivot:law	:	judgments;	agrees
+89:45	p465	control/Q1	pivot:ever	:	-	agrees
+90:6	p466	control/Q1	pivot:up	:	-	agrees
+92:7	p468	control/Q1	pivot:flourish	:	ever;	agrees
+94:5	p469	control/Q1	pivot:LORD	:	-	agrees
+94:13	p470	control/Q1	pivot:adversity	:	-	agrees
+94:21	p470	control/Q1	pivot:righteous	:	-	agrees
+95:3	p471	control/Q1	pivot:God	:	-	agrees
+97:12	p473	control/Q1	pivot:righteous	:	-	agrees
+98:9	p474	control/Q1	pivot:LORD	:	-	agrees
+102:9	p476	control/Q1	pivot:bread	:	weeping;	agrees
+102:20	p477	control/Q1	pivot:captivity	:	death;	agrees
+103:7	p478	control/Q1	pivot:Moses	:	-	agrees
+103:12	p478	control/Q1	pivot:west	:	-	agrees
+105:4	p482	control/Q1	pivot:strength	:	-	agrees
+105:40	p484	control/Q1	pivot:out	:	-	agrees
+105:41	p484	control/Q1	pivot:promise	:	-	agrees
+106:3	p484	control/Q1	pivot:judgment	:	-	agrees
+106:31	p486	control/Q1	pivot:righteousness	:	-	agrees
+106:34	p486	control/Q1	pivot:heathen	:	them;	agrees
+106:36	p486	control/Q1	pivot:decay	:	devils;	agrees
+106:39	p487	control/Q1	pivot:people	:	-	agrees
+107:8	p488	control/Q1	pivot:goodness	:	-	agrees
+107:10	p488	control/Q1	pivot:death	:	iron;	agrees
+107:16	p488	control/Q1	pivot:brass	:	-	agrees
+107:18	p489	control/Q1	pivot:meat	:	-	agrees
+108:11	p491	control/Q1	pivot:God	:	-	agrees
+109:8	p492	control/Q1	pivot:fatherless	:	-	agrees
+109:23	p493	control/Q1	pivot:fasting	:	-	agrees
+112:10	p495	control/Q1	pivot:him	:	away;	agrees
+113:6	p496	control/Q1	pivot:dust	:	mire;	agrees
+114:6	p496	control/Q1	pivot:rams	:	-	agrees
+116:5	p498	control/Q1	pivot:righteous	:	-	agrees
+116:7	p498	control/Q1	pivot:soul	:	-	agrees
+116:16	p499	control/Q1	pivot:people	:	-	agrees
+118:1	p499	control/Q1	pivot:gracious	:	-	agrees
+118:5	p499	control/Q1	pivot:trouble	:	-	agrees
+118:15	p500	control/Q1	pivot:righteous	:	-	agrees
+119:3	p501	control/Q1	pivot:wickedness	:	-	agrees
+119:64	p505	control/Q1	pivot:mercy	:	-	agrees
+119:70	p505	control/Q1	pivot:brawn	:	-	agrees
+119:95	p507	control/Q1	pivot:me	:	-	agrees
+119:101	p508	control/Q1	pivot:way	:	-	agrees
+119:104	p508	control/Q1	pivot:understanding	:	-	agrees
+119:107	p508	control/Q1	pivot:measure	:	-	agrees
+119:119	p509	control/Q1	pivot:dross	:	-	agrees
+119:139	p510	control/Q1	pivot:me	:	-	agrees
+119:165	p512	control/Q1	pivot:law	:	-	agrees
+126:1	p516	control/Q1	pivot:Sion	:	-	agrees
+130:3	p518	control/Q1	pivot:amiss	:	-	agrees
+132:3	p519	control/Q1	pivot:house	:	bed;	agrees
+132:9	p519	control/Q1	pivot:righteousness	:	-	agrees
+135:1	p520	control/Q1	pivot:LORD	:	LORD#3;	agrees
+136:4	p522	control/Q1	pivot:wonders	:	-	agrees
+136:19	p523	control/Q1	pivot:Amorites	:	ever;	agrees
+137:6	p524	control/Q1	pivot:mouth	:	-	agrees
+137:9	p524	control/Q1	pivot:children	:	-	agrees
+138:7	p525	control/Q1	pivot:me	:	-	agrees
+139:6	p525	control/Q1	pivot:Spirit	:	-	agrees
+140:2	p526	control/Q1	pivot:hearts	:	-	agrees
+142:2	p528	control/Q1	pivot:him	:	-	agrees
+144:5	p530	control/Q1	pivot:down	:	-	agrees
+144:6	p530	control/Q1	pivot:them	:	-	agrees
+145:6	p531	control/Q1	pivot:acts	:	-	agrees
+145:14	p532	control/Q1	pivot:fall	:	-	agrees
+146:5	p532	control/Q1	pivot:is	:	ever;	agrees
+146:8	p533	control/Q1	pivot:fallen	:	-	agrees
+147:13	p534	control/Q1	pivot:gates	:	-	agrees
+148:8	p535	control/Q1	pivot:vapours	:	word;	agrees
+148:12	p535	control/Q1	pivot:LORD	:	-	agrees
+150:3	p536	control/Q1	pivot:trumpet	:	-	agrees
+
+# ---- PHASE 2a: the rest of the machine-clean queue (Q1), every pivot read by eye ----
+# columns: verse, scan page, pivot word, the mark the eye saw right after it, strip.
+2:1	p357	pivot:together	:	q1_00
+2:4	p358	pivot:scorn	:	q1_00
+2:6	p358	pivot:King	:	q1_00
+2:7	p358	pivot:me	:	q1_00
+2:8	p358	pivot:inheritance	:	q1_00
+2:9	p358	pivot:iron	:	q1_00
+2:11	p358	pivot:fear	:	q1_00
+2:12	p358	pivot:way	:	q1_00
+3:2	p358	pivot:soul	:	q1_00
+3:3	p358	pivot:defender	:	q1_00
+3:4	p358	pivot:voice	:	q1_00
+3:5	p359	pivot:again	:	q1_00
+3:6	p359	pivot:people	:	q1_00
+3:7	p359	pivot:God	:	q1_00
+3:8	p359	pivot:LORD	:	q1_00
+4:2	p359	pivot:honour	:	q1_00
+4:3	p359	pivot:godly	:	q1_00
+4:5	p359	pivot:righteousness	:	q1_00
+4:6	p359	pivot:say	:	q1_00
+4:7	p359	pivot:up	:	q1_00
+4:8	p359	pivot:heart	:	q1_00
+4:9	p359	pivot:rest	:	q1_00
+5:1	p360	pivot:LORD	:	q1_00
+5:2	p360	pivot:God	:	q1_00
+5:3	p360	pivot:LORD	:	q1_00
+5:4	p360	pivot:wickedness	:	q1_00
+5:5	p360	pivot:sight	:	q1_00
+5:6	p360	pivot:lies	:	q1_00
+5:7	p360	pivot:mercy	:	q1_00
+5:8	p360	pivot:enemies	:	q1_00
+5:9	p360	pivot:mouth	:	q1_00
+5:10	p360	pivot:sepulchre	:	q1_00
+5:11	p360	pivot:imaginations	:	q1_00
+5:12	p360	pivot:rejoice	:	q1_00
+5:13	p360	pivot:righteous	:	q1_00
+6:1	p361	pivot:indignation	:	q1_00
+6:2	p361	pivot:weak	:	q1_00
+6:3	p361	pivot:troubled	:	q1_00
+6:4	p361	pivot:soul	:	q1_00
+6:5	p361	pivot:thee	:	q1_00
+6:6	p361	pivot:bed	:	q1_01
+6:7	p361	pivot:trouble	:	q1_01
+6:8	p361	pivot:vanity	:	q1_01
+6:9	p361	pivot:petition	:	q1_01
+6:10	p361	pivot:vexed	:	q1_01
+7:1	p361	pivot:trust	:	q1_01
+7:2	p361	pivot:pieces	:	q1_01
+7:3	p361	pivot:thing	:	q1_01
+7:5	p362	pivot:me	:	q1_01
+7:6	p362	pivot:enemies	:	q1_01
+7:7	p362	pivot:thee	:	q1_01
+7:8	p362	pivot:LORD	:	q1_01
+7:10	p362	pivot:God	:	q1_01
+7:11	p362	pivot:God	:	q1_01
+7:12	p362	pivot:patient	:	q1_01
+7:13	p362	pivot:sword	:	q1_01
+7:14	p362	pivot:death	:	q1_01
+7:15	p362	pivot:mischief	:	q1_01
+7:16	p362	pivot:pit	:	q1_01
+7:17	p362	pivot:head	:	q1_01
+7:18	p362	pivot:righteousness	:	q1_01
+8:1	p363	pivot:world	:	q1_01
+8:2	p363	pivot:enemies	:	q1_01
+8:3	p363	pivot:fingers	:	q1_01
+8:4	p363	pivot:him	:	q1_01
+8:5	p363	pivot:angels	:	q1_01
+8:7	p363	pivot:oxen	:	q1_01
+8:8	p363	pivot:sea	:	q1_01
+8:9	p363	pivot:Governor	:	q1_01
+9:1	p363	pivot:heart	:	q1_01
+9:2	p364	pivot:thee	:	q1_01
+9:3	p364	pivot:back	:	q1_01
+9:4	p364	pivot:cause	:	q1_01
+9:5	p364	pivot:ungodly	:	q1_01
+9:6	p364	pivot:end	:	q1_01
+9:7	p364	pivot:ever	:	q1_01
+9:8	p364	pivot:righteousness	:	q1_01
+9:9	p364	pivot:oppressed	:	q1_01
+9:10	p364	pivot:thee	:	q1_01
+9:11	p364	pivot:Sion	:	q1_01
+9:12	p364	pivot:them	:	q1_02
+9:14	p364	pivot:Sion	:	q1_02
+9:15	p364	pivot:made	:	q1_02
+9:16	p364	pivot:judgment	:	q1_02
+9:18	p365	pivot:forgotten	:	q1_02
+9:19	p365	pivot:hand	:	q1_02
+9:20	p365	pivot:LORD	:	q1_02
+10:2	p365	pivot:poor	:	q1_02
+10:3	p365	pivot:desire	:	q1_02
+10:4	p365	pivot:God	:	q1_02
+10:5	p365	pivot:grievous	:	q1_02
+10:6	p365	pivot:down	:	q1_02
+10:8	p365	pivot:streets	:	q1_02
+10:11	p366	pivot:himself	:	q1_02
+10:12	p366	pivot:forgotten	:	q1_02
+10:13	p366	pivot:hand	:	q1_02
+10:14	p366	pivot:God	:	q1_02
+10:15	p366	pivot:it	:	q1_02
+10:16	p366	pivot:hand	:	q1_02
+10:17	p366	pivot:malicious	:	q1_02
+10:18	p366	pivot:ever	:	q1_02
+10:19	p366	pivot:poor	:	q1_02
+10:20	p366	pivot:right	:	q1_02
+11:2	p366	pivot:quiver	:	q1_02
+11:3	p366	pivot:down	:	q1_02
+11:4	p367	pivot:temple	:	q1_02
+11:5	p367	pivot:poor	:	q1_02
+11:6	p367	pivot:righteous	:	q1_02
+11:7	p367	pivot:tempest	:	q1_02
+11:8	p367	pivot:righteousness	:	q1_02
+12:2	p367	pivot:neighbour	:	q1_02
+12:3	p367	pivot:lips	:	q1_02
+12:4	p367	pivot:prevail	:	q1_02
+12:5	p367	pivot:needy	:	q1_02
+12:6	p367	pivot:LORD	:	q1_02
+12:7	p367	pivot:words	:	q1_02
+12:8	p368	pivot:LORD	:	q1_02
+12:9	p368	pivot:side	:	q1_02
+13:2	p368	pivot:heart	:	q1_02
+13:4	p368	pivot:him	:	q1_02
+13:5	p368	pivot:mercy	:	q1_03
+13:6	p368	pivot:me	:	q1_03
+14:1	p368	pivot:heart	:	q1_03
+14:2	p368	pivot:doings	:	q1_03
+14:3	p368	pivot:men	:	q1_03
+14:4	p368	pivot:abominable	:	q1_03
+14:6	p369	pivot:bitterness	:	q1_03
+14:7	p369	pivot:known	:	q1_03
+14:8	p369	pivot:mischief	:	q1_03
+14:9	p369	pivot:was	:	q1_03
+14:10	p369	pivot:poor	:	q1_03
+14:11	p369	pivot:people	:	q1_03
+15:1	p369	pivot:tabernacle	:	q1_03
+15:2	p369	pivot:life	:	q1_03
+15:3	p369	pivot:neighbour	:	q1_03
+15:4	p369	pivot:eyes	:	q1_03
+15:5	p370	pivot:not	:	q1_03
+15:6	p370	pivot:usury	:	q1_03
+15:7	p370	pivot:things	:	q1_03
+16:1	p370	pivot:God	:	q1_03
+16:3	p370	pivot:earth	:	q1_03
+16:4	p370	pivot:god	:	q1_03
+16:5	p370	pivot:offer	:	q1_03
+16:6	p370	pivot:cup	:	q1_03
+16:7	p370	pivot:ground	:	q1_03
+16:8	p370	pivot:warning	:	q1_03
+16:9	p370	pivot:me	:	q1_03
+16:10	p370	pivot:rejoiced	:	q1_03
+16:11	p370	pivot:hell	:	q1_03
+16:12	p370	pivot:joy	:	q1_03
+17:1	p371	pivot:complaint	:	q1_03
+17:2	p371	pivot:presence	:	q1_03
+17:5	p371	pivot:paths	:	q1_03
+17:7	p371	pivot:thee	:	q1_03
+17:8	p371	pivot:eye	:	q1_03
+17:9	p371	pivot:me	:	q1_03
+17:10	p371	pivot:fat	:	q1_03
+17:12	p371	pivot:prey	:	q1_03
+17:13	p371	pivot:down	:	q1_03
+17:14	p372	pivot:world	:	q1_03
+17:15	p372	pivot:desire	:	q1_04
+17:16	p372	pivot:righteousness	:	q1_04
+18:2	p372	pivot:praised	:	q1_04
+18:3	p372	pivot:me	:	q1_04
+18:4	p372	pivot:me	:	q1_04
+18:7	p372	pivot:quaked	:	q1_04
+18:8	p372	pivot:presence	:	q1_04
+18:9	p373	pivot:down	:	q1_04
+18:10	p373	pivot:fly	:	q1_04
+18:11	p373	pivot:place	:	q1_04
+18:12	p373	pivot:removed	:	q1_04
+18:13	p373	pivot:thunder	:	q1_04
+18:14	p373	pivot:them	:	q1_04
+18:16	p373	pivot:me	:	q1_04
+18:17	p373	pivot:me	:	q1_04
+18:19	p373	pivot:liberty	:	q1_04
+18:20	p373	pivot:dealing	:	q1_04
+18:21	p373	pivot:LORD	:	q1_04
+18:22	p373	pivot:laws	:	q1_04
+18:23	p373	pivot:him	:	q1_04
+18:24	p374	pivot:dealing	:	q1_04
+18:25	p374	pivot:holy	:	q1_04
+18:26	p374	pivot:clean	:	q1_04
+18:27	p374	pivot:adversity	:	q1_04
+18:28	p374	pivot:candle	:	q1_04
+18:30	p374	pivot:way	:	q1_04
+18:31	p374	pivot:LORD	:	q1_04
+18:32	p374	pivot:war	:	q1_04
+18:33	p374	pivot:feet	:	q1_04
+18:34	p374	pivot:fight	:	q1_04
+18:35	p374	pivot:salvation	:	q1_04
+18:36	p374	pivot:go	:	q1_04
+18:37	p374	pivot:them	:	q1_04
+18:38	p374	pivot:stand	:	q1_04
+18:39	p374	pivot:battle	:	q1_04
+18:40	p375	pivot:me	:	q1_04
+18:41	p375	pivot:them	:	q1_04
+18:42	p375	pivot:wind	:	q1_04
+18:43	p375	pivot:people	:	q1_04
+18:44	p375	pivot:known	:	q1_04
+18:45	p375	pivot:me	:	q1_05
+18:48	p375	pivot:avenged	:	q1_05
+18:49	p375	pivot:adversaries	:	q1_05
+18:51	p375	pivot:King	:	q1_05
+19:2	p376	pivot:another	:	q1_05
+19:3	p376	pivot:language	:	q1_05
+19:4	p376	pivot:lands	:	q1_05
+19:5	p376	pivot:sun	:	q1_05
+19:6	p376	pivot:again	:	q1_05
+19:7	p376	pivot:soul	:	q1_05
+19:8	p376	pivot:heart	:	q1_05
+19:9	p376	pivot:ever	:	q1_05
+19:10	p376	pivot:gold	:	q1_05
+19:11	p376	pivot:taught	:	q1_05
+19:12	p376	pivot:offendeth	:	q1_05
+19:13	p377	pivot:me	:	q1_05
+19:14	p377	pivot:heart	:	q1_05
+19:15	p377	pivot:LORD	:	q1_05
+20:4	p377	pivot:desire	:	q1_05
+20:5	p377	pivot:God	:	q1_05
+20:6	p377	pivot:heaven	:	q1_05
+20:7	p377	pivot:horses	:	q1_05
+20:8	p377	pivot:fallen	:	q1_05
+20:9	p377	pivot:heaven	:	q1_05
+21:1	p377	pivot:LORD	:	q1_05
+21:2	p377	pivot:desire	:	q1_05
+21:3	p378	pivot:goodness	:	q1_05
+21:5	p378	pivot:salvation	:	q1_05
+21:6	p378	pivot:felicity	:	q1_05
+21:8	p378	pivot:hand	:	q1_05
+21:9	p378	pivot:wrath	:	q1_05
+21:10	p378	pivot:earth	:	q1_05
+21:12	p378	pivot:flight	:	q1_05
+22:1	p378	pivot:me	:	q1_05
+22:2	p379	pivot:not	:	q1_05
+22:3	p379	pivot:holy	:	q1_05
+22:7	p379	pivot:scorn	:	q1_05
+22:8	p379	pivot:him	:	q1_05
+22:10	p379	pivot:born	:	q1_05
+22:12	p379	pivot:me	:	q1_05
+22:13	p379	pivot:mouths	:	q1_06
+22:15	p379	pivot:gums	:	q1_06
+22:17	p379	pivot:bones	:	q1_06
+22:19	p380	pivot:LORD	:	q1_06
+22:22	p380	pivot:brethren	:	q1_06
+22:25	p380	pivot:congregation	:	q1_06
+22:26	p380	pivot:satisfied	:	q1_06
+22:27	p380	pivot:LORD	:	q1_06
+22:28	p380	pivot:LORD'S	:	q1_06
+22:29	p380	pivot:earth	:	q1_06
+22:30	p380	pivot:him	:	q1_06
+22:31	p380	pivot:him	:	q1_06
+22:32	p381	pivot:righteousness	:	q1_06
+24:2	p381	pivot:seas	:	q1_06
+24:3	p381	pivot:LORD	:	q1_06
+24:4	p381	pivot:heart	:	q1_06
+24:5	p382	pivot:LORD	:	q1_06
+24:6	p382	pivot:him	:	q1_06
+24:8	p382	pivot:glory	:	q1_06
+24:10	p382	pivot:glory	:	q1_06
+25:1	p382	pivot:thee	:	q1_06
+25:2	p382	pivot:ashamed	:	q1_06
+25:3	p382	pivot:LORD	:	q1_06
+25:5	p382	pivot:mercies	:	q1_06
+25:6	p382	pivot:youth	:	q1_06
+25:7	p382	pivot:LORD	:	q1_06
+25:8	p383	pivot:judgment	:	q1_06
+25:9	p383	pivot:truth	:	q1_06
+25:11	p383	pivot:LORD	:	q1_06
+25:12	p383	pivot:ease	:	q1_06
+25:13	p383	pivot:him	:	q1_06
+25:14	p383	pivot:LORD	:	q1_06
+25:15	p383	pivot:me	:	q1_06
+25:16	p383	pivot:enlarged	:	q1_06
+25:17	p383	pivot:misery	:	q1_06
+25:18	p383	pivot:are	:	q1_06
+25:19	p383	pivot:me	:	q1_06
+25:20	p383	pivot:me	:	q1_06
+25:21	p383	pivot:God	:	q1_06
+26:2	p383	pivot:me	:	q1_06
+26:3	p384	pivot:eyes	:	q1_07
+26:4	p384	pivot:persons	:	q1_07
+26:5	p384	pivot:wicked	:	q1_07
+26:7	p384	pivot:thanksgiving	:	q1_07
+26:8	p384	pivot:house	:	q1_07
+26:10	p384	pivot:wickedness	:	q1_07
+26:12	p384	pivot:right	:	q1_07
+27:1	p384	pivot:fear	:	q1_07
+27:2	p384	pivot:flesh	:	q1_07
+27:3	p384	pivot:afraid	:	q1_07
+27:4	p385	pivot:require	:	q1_07
+27:5	p385	pivot:tabernacle	:	q1_07
+27:6	p385	pivot:head	:	q1_07
+27:7	p385	pivot:gladness	:	q1_07
+27:8	p385	pivot:thee	:	q1_07
+27:9	p385	pivot:face	:	q1_07
+27:10	p385	pivot:me	:	q1_07
+27:11	p385	pivot:succour	:	q1_07
+27:12	p385	pivot:me	:	q1_07
+27:13	p385	pivot:LORD	:	q1_07
+27:15	p385	pivot:fainted	:	q1_07
+27:16	p385	pivot:leisure	:	q1_07
+28:2	p386	pivot:thee	:	q1_07
+28:3	p386	pivot:doers	:	q1_07
+28:4	p386	pivot:deeds	:	q1_07
+28:5	p386	pivot:hands	:	q1_07
+28:6	p386	pivot:hands	:	q1_07
+28:7	p386	pivot:LORD	:	q1_07
+28:8	p386	pivot:helped	:	q1_07
+28:9	p386	pivot:strength	:	q1_07
+28:10	p386	pivot:inheritance	:	q1_07
+29:2	p386	pivot:Name	:	q1_07
+29:3	p386	pivot:waters	:	q1_07
+29:4	p387	pivot:operation	:	q1_07
+29:5	p387	pivot:cedar-trees	:	q1_07
+29:6	p387	pivot:calf	:	q1_07
+29:7	p387	pivot:wilderness	:	q1_07
+29:9	p387	pivot:water-flood	:	q1_07
+29:10	p387	pivot:people	:	q1_07
+30:1	p387	pivot:up	:	q1_07
+30:2	p387	pivot:thee	:	q1_08
+30:3	p387	pivot:hell	:	q1_08
+30:4	p387	pivot:his	:	q1_08
+30:5	p387	pivot:life	:	q1_08
+30:7	p388	pivot:me	:	q1_08
+30:8	p388	pivot:LORD	:	q1_08
+30:9	p388	pivot:blood	:	q1_08
+30:10	p388	pivot:thee	:	q1_08
+30:13	p388	pivot:ceasing	:	q1_08
+31:2	p388	pivot:me	:	q1_08
+31:3	p388	pivot:defence	:	q1_08
+31:4	p388	pivot:castle	:	q1_08
+31:5	p388	pivot:me	:	q1_08
+31:6	p388	pivot:spirit	:	q1_08
+31:7	p388	pivot:vanities	:	q1_08
+31:8	p389	pivot:mercy	:	q1_08
+31:9	p389	pivot:enemy	:	q1_08
+31:10	p389	pivot:trouble	:	q1_08
+31:11	p389	pivot:heaviness	:	q1_08
+31:13	p389	pivot:neighbours	:	q1_08
+31:14	p389	pivot:mind	:	q1_08
+31:16	p389	pivot:LORD	:	q1_08
+31:17	p389	pivot:enemies	:	q1_08
+31:18	p389	pivot:countenance	:	q1_08
+31:19	p389	pivot:thee	:	q1_08
+31:20	p389	pivot:silence	:	q1_08
+31:21	p390	pivot:thee	:	q1_08
+31:23	p390	pivot:LORD	:	q1_08
+31:24	p390	pivot:said	:	q1_08
+31:25	p390	pivot:prayer	:	q1_08
+31:26	p390	pivot:saints	:	q1_08
+31:27	p390	pivot:heart	:	q1_08
+32:1	p390	pivot:forgiven	:	q1_08
+32:2	p390	pivot:sin	:	q1_08
+32:3	p390	pivot:tongue	:	q1_08
+32:4	p390	pivot:night	:	q1_08
+32:5	p390	pivot:thee	:	q1_08
+32:6	p390	pivot:LORD	:	q1_08
+32:7	p391	pivot:found	:	q1_08
+32:9	p391	pivot:go	:	q1_08
+32:10	p391	pivot:understanding	:	q1_09
+32:11	p391	pivot:ungodly	:	q1_09
+32:12	p391	pivot:LORD	:	q1_09
+33:2	p391	pivot:harp	:	q1_09
+33:3	p391	pivot:song	:	q1_09
+33:4	p391	pivot:true	:	q1_09
+33:6	p391	pivot:made	:	q1_09
+33:7	p391	pivot:heap	:	q1_09
+33:8	p392	pivot:LORD	:	q1_09
+33:9	p392	pivot:done	:	q1_09
+33:10	p392	pivot:nought	:	q1_09
+33:11	p392	pivot:ever	:	q1_09
+33:12	p392	pivot:JEHOVAH	:	q1_09
+33:13	p392	pivot:men	:	q1_09
+33:14	p392	pivot:them	:	q1_09
+33:15	p392	pivot:host	:	q1_09
+33:16	p392	pivot:man	:	q1_09
+33:17	p392	pivot:him	:	q1_09
+33:18	p392	pivot:death	:	q1_09
+33:19	p392	pivot:LORD	:	q1_09
+33:20	p392	pivot:him	:	q1_09
+33:21	p392	pivot:us	:	q1_09
+34:1	p393	pivot:LORD	:	q1_09
+34:2	p393	pivot:LORD	:	q1_09
+34:3	p393	pivot:me	:	q1_09
+34:4	p393	pivot:me	:	q1_09
+34:5	p393	pivot:lightened	:	q1_09
+34:7	p393	pivot:him	:	q1_09
+34:9	p393	pivot:saints	:	q1_09
+34:10	p393	pivot:hunger	:	q1_09
+34:11	p393	pivot:me	:	q1_09
+34:12	p393	pivot:live	:	q1_09
+34:13	p393	pivot:evil	:	q1_09
+34:14	p393	pivot:good	:	q1_09
+34:15	p393	pivot:righteous	:	q1_09
+34:16	p393	pivot:evil	:	q1_09
+34:17	p394	pivot:them	:	q1_09
+34:18	p394	pivot:heart	:	q1_09
+34:19	p394	pivot:righteous	:	q1_09
+34:20	p394	pivot:bones	:	q1_09
+34:21	p394	pivot:ungodly	:	q1_10
+34:22	p394	pivot:servants	:	q1_10
+35:1	p394	pivot:me	:	q1_10
+35:2	p394	pivot:buckler	:	q1_10
+35:3	p394	pivot:me	:	q1_10
+35:5	p394	pivot:wind	:	q1_10
+35:6	p394	pivot:slippery	:	q1_10
+35:7	p395	pivot:cause	:	q1_10
+35:8	p395	pivot:himself	:	q1_10
+35:9	p395	pivot:LORD	:	q1_10
+35:10	p395	pivot:him	:	q1_10
+35:12	p395	pivot:good	:	q1_10
+35:13	p395	pivot:fasting	:	q1_10
+35:14	p395	pivot:brother	:	q1_10
+35:15	p395	pivot:together	:	q1_10
+35:16	p395	pivot:mockers	:	q1_10
+35:17	p395	pivot:this	:	q1_10
+35:18	p395	pivot:congregation	:	q1_10
+35:19	p395	pivot:ungodly	:	q1_10
+35:20	p395	pivot:peace	:	q1_10
+35:21	p396	pivot:said	:	q1_10
+35:22	p396	pivot:LORD	:	q1_10
+35:23	p396	pivot:quarrel	:	q1_10
+35:24	p396	pivot:righteousness	:	q1_10
+35:25	p396	pivot:it	:	q1_10
+35:26	p396	pivot:trouble	:	q1_10
+35:27	p396	pivot:dealing	:	q1_10
+36:1	p396	pivot:ungodly	:	q1_10
+36:2	p396	pivot:sight	:	q1_10
+36:3	p396	pivot:deceit	:	q1_10
+36:4	p397	pivot:way	:	q1_10
+36:6	p397	pivot:mountains	:	q1_10
+36:7	p397	pivot:God	:	q1_10
+36:8	p397	pivot:house	:	q1_10
+36:9	p397	pivot:life	:	q1_10
+36:10	p397	pivot:thee	:	q1_10
+36:11	p397	pivot:me	:	q1_10
+36:12	p397	pivot:wickedness	:	q1_10
+37:1	p397	pivot:ungodly	:	q1_10
+37:2	p397	pivot:grass	:	q1_10
+37:3	p397	pivot:good	:	q1_11
+37:4	p397	pivot:LORD	:	q1_11
+37:5	p398	pivot:him	:	q1_11
+37:6	p398	pivot:light	:	q1_11
+37:7	p398	pivot:him	:	q1_11
+37:8	p398	pivot:displeasure	:	q1_11
+37:9	p398	pivot:out	:	q1_11
+37:10	p398	pivot:gone	:	q1_11
+37:11	p398	pivot:earth	:	q1_11
+37:12	p398	pivot:just	:	q1_11
+37:15	p398	pivot:heart	:	q1_11
+37:16	p398	pivot:hath	:	q1_11
+37:17	p398	pivot:broken	:	q1_11
+37:18	p398	pivot:godly	:	q1_11
+37:19	p398	pivot:time	:	q1_11
+37:21	p399	pivot:again	:	q1_11
+37:22	p399	pivot:land	:	q1_11
+37:23	p399	pivot:going	:	q1_11
+37:24	p399	pivot:away	:	q1_11
+37:25	p399	pivot:old	:	q1_11
+37:26	p399	pivot:lendeth	:	q1_11
+37:27	p399	pivot:good	:	q1_11
+37:28	p399	pivot:right	:	q1_11
+37:29	p399	pivot:punished	:	q1_11
+37:30	p399	pivot:land	:	q1_11
+37:31	p399	pivot:wisdom	:	q1_11
+37:32	p399	pivot:heart	:	q1_11
+37:33	p399	pivot:righteous	:	q1_11
+37:35	p400	pivot:land	:	q1_11
+37:36	p400	pivot:power	:	q1_11
+37:37	p400	pivot:gone	:	q1_11
+37:38	p400	pivot:right	:	q1_11
+37:39	p400	pivot:together	:	q1_11
+37:40	p400	pivot:LORD	:	q1_11
+37:41	p400	pivot:them	:	q1_11
+38:2	p400	pivot:me	:	q1_11
+38:3	p400	pivot:displeasure	:	q1_11
+38:5	p401	pivot:corrupt	:	q1_11
+38:6	p401	pivot:misery	:	q1_11
+38:7	p401	pivot:disease	:	q1_11
+38:8	p401	pivot:smitten	:	q1_12
+38:9	p401	pivot:desire	:	q1_12
+38:10	p401	pivot:me	:	q1_12
+38:11	p401	pivot:trouble	:	q1_12
+38:13	p401	pivot:not	:	q1_12
+38:14	p401	pivot:not	:	q1_12
+38:15	p401	pivot:trust	:	q1_12
+38:16	p401	pivot:me	:	q1_12
+38:17	p401	pivot:plague	:	q1_12
+38:18	p401	pivot:wickedness	:	q1_12
+38:19	p401	pivot:mighty	:	q1_12
+38:20	p401	pivot:me	:	q1_12
+38:21	p401	pivot:God	:	q1_12
+38:22	p402	pivot:me	:	q1_12
+39:1	p402	pivot:ways	:	q1_12
+39:2	p402	pivot:bridle	:	q1_12
+39:3	p402	pivot:nothing	:	q1_12
+39:5	p402	pivot:days	:	q1_12
+39:6	p402	pivot:long	:	q1_12
+39:8	p402	pivot:hope	:	q1_12
+39:9	p402	pivot:offences	:	q1_12
+39:10	p402	pivot:mouth	:	q1_12
+39:11	p402	pivot:me	:	q1_12
+39:12	p402	pivot:garment	:	q1_12
+39:15	p403	pivot:strength	:	q1_12
+40:1	p403	pivot:LORD	:	q1_12
+40:2	p403	pivot:clay	:	q1_12
+40:3	p403	pivot:mouth	:	q1_12
+40:4	p403	pivot:fear	:	q1_12
+40:5	p403	pivot:LORD	:	q1_12
+40:6	p403	pivot:us-ward	:	q1_12
+40:7	p403	pivot:them	:	q1_12
+40:10	p403	pivot:God	:	q1_12
+40:11	p403	pivot:congregation	:	q1_12
+40:13	p404	pivot:truth	:	q1_12
+40:14	p404	pivot:LORD	:	q1_12
+40:16	p404	pivot:me	:	q1_12
+40:17	p404	pivot:it	:	q1_12
+40:18	p404	pivot:shame	:	q1_12
+40:19	p404	pivot:thee	:	q1_12
+40:20	p404	pivot:needy	:	q1_13
+41:1	p404	pivot:needy	:	q1_13
+41:2	p405	pivot:earth	:	q1_13
+41:3	p405	pivot:bed	:	q1_13
+41:4	p405	pivot:me	:	q1_13
+41:5	p405	pivot:me	:	q1_13
+41:8	p405	pivot:him	:	q1_13
+41:9	p405	pivot:trusted	:	q1_13
+41:10	p405	pivot:LORD	:	q1_13
+41:11	p405	pivot:me	:	q1_13
+41:12	p405	pivot:me	:	q1_13
+41:13	p405	pivot:Israel	:	q1_13
+42:1	p405	pivot:water-brooks	:	q1_13
+42:2	p405	pivot:God	:	q1_13
+42:3	p405	pivot:night	:	q1_13
+42:4	p406	pivot:myself	:	q1_13
+42:5	p406	pivot:thanksgiving	:	q1_13
+42:6	p406	pivot:soul	:	q1_13
+42:7	p406	pivot:God	:	q1_13
+42:8	p406	pivot:me	:	q1_13
+42:9	p406	pivot:water-pipes	:	q1_13
+42:10	p406	pivot:day-time	:	q1_13
+42:11	p406	pivot:me	:	q1_13
+42:12	p406	pivot:sword	:	q1_13
+42:13	p406	pivot:me	:	q1_13
+42:14	p406	pivot:soul	:	q1_13
+42:15	p406	pivot:God	:	q1_13
+43:1	p406	pivot:people	:	q1_13
+43:4	p407	pivot:gladness	:	q1_13
+43:5	p407	pivot:soul	:	q1_13
+43:6	p407	pivot:God	:	q1_13
+44:2	p407	pivot:in	:	q1_13
+44:3	p407	pivot:sword	:	q1_13
+44:5	p407	pivot:God	:	q1_13
+44:6	p407	pivot:enemies	:	q1_13
+44:7	p408	pivot:bow	:	q1_13
+44:8	p408	pivot:enemies	:	q1_13
+44:9	p408	pivot:long	:	q1_13
+44:10	p408	pivot:confusion	:	q1_13
+44:12	p408	pivot:sheep	:	q1_13
+44:13	p408	pivot:nought	:	q1_14
+44:14	p408	pivot:neighbours	:	q1_14
+44:15	p408	pivot:heathen	:	q1_14
+44:16	p408	pivot:me	:	q1_14
+44:17	p408	pivot:blasphemer	:	q1_14
+44:18	p408	pivot:thee	:	q1_14
+44:19	p408	pivot:back	:	q1_14
+44:20	p408	pivot:dragons	:	q1_14
+44:21	p408	pivot:god	:	q1_14
+44:22	p409	pivot:long	:	q1_14
+44:23	p409	pivot:thou	:	q1_14
+44:24	p409	pivot:face	:	q1_14
+44:25	p409	pivot:dust	:	q1_14
+44:26	p409	pivot:us	:	q1_14
+45:1	p409	pivot:matter	:	q1_14
+45:2	p409	pivot:pen	:	q1_14
+45:3	p409	pivot:men	:	q1_14
+45:4	p409	pivot:Mighty	:	q1_14
+45:5	p409	pivot:honour	:	q1_14
+45:6	p409	pivot:thee	:	q1_14
+45:7	p409	pivot:ever	:	q1_14
+45:8	p409	pivot:iniquity	:	q1_14
+45:9	p410	pivot:cassia	:	q1_14
+45:10	p410	pivot:women	:	q1_14
+45:11	p410	pivot:ear	:	q1_14
+45:12	p410	pivot:beauty	:	q1_14
+45:13	p410	pivot:gift	:	q1_14
+45:14	p410	pivot:within	:	q1_14
+45:15	p410	pivot:needlework	:	q1_14
+45:16	p410	pivot:brought	:	q1_14
+45:17	p410	pivot:children	:	q1_14
+45:18	p410	pivot:another	:	q1_14
+46:1	p410	pivot:strength	:	q1_14
+46:2	p410	pivot:moved	:	q1_14
+46:3	p410	pivot:swell	:	q1_14
+46:4	p411	pivot:God	:	q1_14
+46:5	p411	pivot:removed	:	q1_14
+46:6	p411	pivot:moved	:	q1_14
+46:8	p411	pivot:LORD	:	q1_14
+46:9	p411	pivot:world	:	q1_14
+46:10	p411	pivot:God	:	q1_15
+46:11	p411	pivot:us	:	q1_15
+47:1	p411	pivot:people	:	q1_15
+47:2	p411	pivot:feared	:	q1_15
+47:3	p411	pivot:us	:	q1_15
+47:4	p411	pivot:us	:	q1_15
+47:5	p411	pivot:noise	:	q1_15
+47:8	p412	pivot:heathen	:	q1_15
+47:9	p412	pivot:Abraham	:	q1_15
+48:1	p412	pivot:praised	:	q1_15
+48:2	p412	pivot:earth	:	q1_15
+48:4	p412	pivot:things	:	q1_15
+48:5	p412	pivot:sorrow	:	q1_15
+48:6	p412	pivot:sea	:	q1_15
+48:8	p412	pivot:God	:	q1_15
+48:9	p412	pivot:end	:	q1_15
+48:10	p412	pivot:glad	:	q1_15
+48:11	p412	pivot:her	:	q1_15
+48:12	p413	pivot:houses	:	q1_15
+48:13	p413	pivot:ever	:	q1_15
+49:1	p413	pivot:people	:	q1_15
+49:2	p413	pivot:poor	:	q1_15
+49:4	p413	pivot:parable	:	q1_15
+49:5	p413	pivot:wickedness	:	q1_15
+49:6	p413	pivot:goods	:	q1_15
+49:7	p413	pivot:brother	:	q1_15
+49:9	p413	pivot:long	:	q1_15
+49:10	p413	pivot:together	:	q1_15
+49:11	p413	pivot:ever	:	q1_15
+49:12	p413	pivot:honour	:	q1_15
+49:13	p413	pivot:foolishness	:	q1_15
+49:15	p414	pivot:hell	:	q1_15
+49:16	p414	pivot:rich	:	q1_15
+49:17	p414	pivot:dieth	:	q1_15
+49:18	p414	pivot:man	:	q1_15
+49:19	p414	pivot:fathers	:	q1_15
+49:20	p414	pivot:understanding	:	q1_15
+50:1	p414	pivot:spoken	:	q1_15
+50:2	p414	pivot:appeared	:	q1_15
+50:3	p414	pivot:silence	:	q1_15
+50:4	p414	pivot:above	:	q1_16
+50:5	p414	pivot:me	:	q1_16
+50:6	p415	pivot:righteousness	:	q1_16
+50:7	p415	pivot:speak	:	q1_16
+50:8	p415	pivot:burnt-offerings	:	q1_16
+50:9	p415	pivot:house	:	q1_16
+50:10	p415	pivot:mine	:	q1_16
+50:11	p415	pivot:mountains	:	q1_16
+50:12	p415	pivot:thee	:	q1_16
+50:13	p415	pivot:flesh	:	q1_16
+50:14	p415	pivot:thanksgiving	:	q1_16
+50:15	p415	pivot:trouble	:	q1_16
+50:17	p415	pivot:reformed	:	q1_16
+50:19	p415	pivot:wickedness	:	q1_16
+50:20	p415	pivot:brother	:	q1_16
+50:21	p415	pivot:thyself	:	q1_16
+50:23	p416	pivot:me	:	q1_16
+51:1	p416	pivot:goodness	:	q1_16
+51:2	p416	pivot:wickedness	:	q1_16
+51:3	p416	pivot:faults	:	q1_16
+51:4	p416	pivot:sight	:	q1_16
+51:5	p416	pivot:wickedness	:	q1_16
+51:6	p416	pivot:parts	:	q1_16
+51:7	p416	pivot:clean	:	q1_16
+51:8	p416	pivot:gladness	:	q1_16
+51:10	p416	pivot:God	:	q1_16
+51:11	p416	pivot:presence	:	q1_16
+51:12	p416	pivot:again	:	q1_16
+51:13	p416	pivot:wicked	:	q1_16
+51:14	p417	pivot:health	:	q1_16
+51:15	p417	pivot:Lord	:	q1_16
+51:16	p417	pivot:thee	:	q1_16
+51:17	p417	pivot:spirit	:	q1_16
+51:18	p417	pivot:Sion	:	q1_16
+51:19	p417	pivot:oblations	:	q1_16
+52:1	p417	pivot:tyrant	:	q1_16
+52:2	p417	pivot:God	:	q1_16
+52:3	p417	pivot:wickedness	:	q1_16
+52:4	p417	pivot:goodness	:	q1_16
+52:5	p417	pivot:hurt	:	q1_16
+52:6	p417	pivot:ever	:	q1_17
+52:8	p417	pivot:strength	:	q1_17
+52:9	p418	pivot:God	:	q1_17
+52:10	p418	pivot:done	:	q1_17
+53:1	p418	pivot:heart	:	q1_17
+53:2	p418	pivot:wickedness	:	q1_17
+53:3	p418	pivot:men	:	q1_17
+53:4	p418	pivot:abominable	:	q1_17
+53:5	p418	pivot:wickedness	:	q1_17
+53:6	p418	pivot:was	:	q1_17
+53:7	p418	pivot:Sion	:	q1_17
+53:8	p418	pivot:rejoice	:	q1_17
+54:3	p419	pivot:me	:	q1_17
+54:5	p419	pivot:enemies	:	q1_17
+54:6	p419	pivot:LORD	:	q1_17
+55:1	p419	pivot:God	:	q1_17
+55:3	p419	pivot:fast	:	q1_17
+55:4	p419	pivot:me	:	q1_17
+55:5	p419	pivot:me	:	q1_17
+55:6	p419	pivot:dove	:	q1_17
+55:8	p419	pivot:escape	:	q1_17
+55:9	p419	pivot:them	:	q1_17
+55:10	p420	pivot:thereof	:	q1_17
+55:11	p420	pivot:therein	:	q1_17
+55:14	p420	pivot:companion	:	q1_17
+55:15	p420	pivot:together	:	q1_17
+55:16	p420	pivot:hell	:	q1_17
+55:17	p420	pivot:God	:	q1_17
+55:18	p420	pivot:instantly	:	q1_17
+55:19	p420	pivot:me	:	q1_17
+55:20	p420	pivot:down	:	q1_17
+55:21	p420	pivot:him	:	q1_17
+55:22	p420	pivot:heart	:	q1_17
+55:23	p420	pivot:thee	:	q1_17
+55:24	p420	pivot:them	:	q1_17
+55:25	p421	pivot:days	:	q1_17
+56:1	p421	pivot:me	:	q1_17
+56:2	p421	pivot:up	:	q1_17
+56:3	p421	pivot:afraid	:	q1_17
+56:4	p421	pivot:word	:	q1_17
+56:5	p421	pivot:words	:	q1_18
+56:7	p421	pivot:wickedness	:	q1_18
+56:8	p421	pivot:bottle	:	q1_18
+56:9	p421	pivot:flight	:	q1_18
+56:10	p421	pivot:rejoice	:	q1_18
+56:11	p421	pivot:trust	:	q1_18
+56:12	p422	pivot:vows	:	q1_18
+57:2	p422	pivot:God	:	q1_18
+57:3	p422	pivot:heaven	:	q1_18
+57:5	p422	pivot:fire	:	q1_18
+57:6	p422	pivot:heavens	:	q1_18
+57:7	p422	pivot:soul	:	q1_18
+57:9	p422	pivot:harp	:	q1_18
+57:10	p422	pivot:people	:	q1_18
+57:11	p422	pivot:heavens	:	q1_18
+57:12	p422	pivot:heavens	:	q1_18
+58:2	p423	pivot:earth	:	q1_18
+58:3	p423	pivot:womb	:	q1_18
+58:6	p423	pivot:LORD	:	q1_18
+58:7	p423	pivot:woman	:	q1_18
+58:8	p423	pivot:thorns	:	q1_18
+58:9	p423	pivot:vengeance	:	q1_18
+58:10	p423	pivot:righteous	:	q1_18
+59:1	p423	pivot:God	:	q1_18
+59:2	p424	pivot:doers	:	q1_18
+59:3	p424	pivot:soul	:	q1_18
+59:4	p424	pivot:fault	:	q1_18
+59:5	p424	pivot:heathen	:	q1_18
+59:6	p424	pivot:evening	:	q1_18
+59:7	p424	pivot:lips	:	q1_18
+59:8	p424	pivot:derision	:	q1_18
+59:9	p424	pivot:thee	:	q1_18
+59:11	p424	pivot:it	:	q1_18
+59:12	p424	pivot:pride	:	q1_18
+59:13	p424	pivot:perish	:	q1_18
+59:15	p424	pivot:meat	:	q1_18
+59:16	p424	pivot:morning	:	q1_18
+59:17	p425	pivot:sing	:	q1_18
+60:1	p425	pivot:abroad	:	q1_18
+60:2	p425	pivot:it	:	q1_18
+60:3	p425	pivot:things	:	q1_19
+60:4	p425	pivot:thee	:	q1_19
+60:5	p425	pivot:delivered	:	q1_19
+60:6	p425	pivot:Sichem	:	q1_19
+60:7	p425	pivot:mine	:	q1_19
+60:8	p425	pivot:shoe	:	q1_19
+60:9	p425	pivot:city	:	q1_19
+60:10	p425	pivot:God	:	q1_19
+60:11	p425	pivot:trouble	:	q1_19
+60:12	p425	pivot:acts	:	q1_19
+61:1	p425	pivot:God	:	q1_19
+61:2	p426	pivot:thee	:	q1_19
+61:3	p426	pivot:I	:	q1_19
+61:5	p426	pivot:desires	:	q1_19
+61:6	p426	pivot:life	:	q1_19
+61:7	p426	pivot:ever	:	q1_19
+61:8	p426	pivot:Name	:	q1_19
+62:1	p426	pivot:God	:	q1_19
+62:2	p426	pivot:salvation	:	q1_19
+62:3	p426	pivot:man	:	q1_19
+62:4	p426	pivot:exalt	:	q1_19
+62:5	p426	pivot:God	:	q1_19
+62:6	p427	pivot:salvation	:	q1_19
+62:8	p427	pivot:people	:	q1_19
+62:12	p427	pivot:merciful	:	q1_19
+63:1	p427	pivot:God	:	q1_19
+63:3	p427	pivot:holiness	:	q1_19
+63:5	p427	pivot:manner	:	q1_19
+63:6	p427	pivot:fatness	:	q1_19
+63:7	p427	pivot:bed	:	q1_19
+63:8	p427	pivot:helper	:	q1_19
+63:9	p428	pivot:thee	:	q1_19
+63:10	p428	pivot:soul	:	q1_19
+63:11	p428	pivot:sword	:	q1_19
+63:12	p428	pivot:commended	:	q1_19
+64:1	p428	pivot:prayer	:	q1_19
+64:2	p428	pivot:froward	:	q1_19
+64:3	p428	pivot:sword	:	q1_19
+64:4	p428	pivot:perfect	:	q1_19
+64:6	p428	pivot:it	:	q1_19
+64:7	p428	pivot:arrow	:	q1_20
+64:8	p428	pivot:fall	:	q1_20
+64:9	p428	pivot:done	:	q1_20
+64:10	p428	pivot:him	:	q1_20
+65:3	p429	pivot:me	:	q1_20
+65:4	p429	pivot:thee	:	q1_20
+65:5	p429	pivot:salvation	:	q1_20
+65:6	p429	pivot:mountains	:	q1_20
+65:7	p429	pivot:sea	:	q1_20
+65:8	p429	pivot:tokens	:	q1_20
+65:9	p429	pivot:it	:	q1_20
+65:10	p429	pivot:water	:	q1_20
+65:12	p429	pivot:goodness	:	q1_20
+65:13	p430	pivot:wilderness	:	q1_20
+66:2	p430	pivot:works	:	q1_20
+66:3	p430	pivot:thee	:	q1_20
+66:4	p430	pivot:God	:	q1_20
+66:5	p430	pivot:land	:	q1_20
+66:6	p430	pivot:people	:	q1_20
+66:7	p430	pivot:people	:	q1_20
+66:8	p430	pivot:life	:	q1_20
+66:9	p430	pivot:us	:	q1_20
+66:10	p430	pivot:snare	:	q1_20
+66:11	p430	pivot:heads	:	q1_20
+66:13	p431	pivot:rams	:	q1_20
+66:14	p431	pivot:God	:	q1_20
+66:15	p431	pivot:mouth	:	q1_20
+66:16	p431	pivot:heart	:	q1_20
+66:17	p431	pivot:me	:	q1_20
+66:18	p431	pivot:prayer	:	q1_20
+67:1	p431	pivot:us	:	q1_20
+67:2	p431	pivot:earth	:	q1_20
+67:3	p431	pivot:God	:	q1_20
+67:4	p431	pivot:glad	:	q1_20
+67:5	p431	pivot:God	:	q1_20
+67:7	p431	pivot:us	:	q1_20
+68:2	p432	pivot:away	:	q1_20
+68:3	p432	pivot:God	:	q1_20
+68:4	p432	pivot:Name	:	q1_20
+68:5	p432	pivot:widows	:	q1_20
+68:6	p432	pivot:captivity	:	q1_21
+68:7	p432	pivot:people	:	q1_21
+68:8	p432	pivot:God	:	q1_21
+68:9	p432	pivot:inheritance	:	q1_21
+68:11	p432	pivot:word	:	q1_21
+68:12	p433	pivot:discomfited	:	q1_21
+68:13	p433	pivot:dove	:	q1_21
+68:14	p433	pivot:sake	:	q1_21
+68:15	p433	pivot:hill	:	q1_21
+68:16	p433	pivot:dwell	:	q1_21
+68:17	p433	pivot:angels	:	q1_21
+68:18	p433	pivot:men	:	q1_21
+68:19	p433	pivot:daily	:	q1_21
+68:20	p433	pivot:salvation	:	q1_21
+68:21	p433	pivot:enemies	:	q1_21
+68:22	p433	pivot:Basan	:	q1_21
+68:23	p433	pivot:enemies	:	q1_21
+68:24	p433	pivot:goest	:	q1_21
+68:25	p434	pivot:after	:	q1_21
+68:26	p434	pivot:congregations	:	q1_21
+68:27	p434	pivot:council	:	q1_21
+68:29	p434	pivot:Jerusalem	:	q1_21
+68:30	p434	pivot:silver	:	q1_21
+68:31	p434	pivot:Egypt	:	q1_21
+68:34	p434	pivot:Israel	:	q1_21
+68:35	p434	pivot:places	:	q1_21
+69:1	p434	pivot:God	:	q1_21
+69:2	p435	pivot:is	:	q1_21
+69:3	p435	pivot:dry	:	q1_21
+69:4	p435	pivot:head	:	q1_21
+69:5	p435	pivot:took	:	q1_21
+69:6	p435	pivot:cause	:	q1_21
+69:8	p435	pivot:brethren	:	q1_21
+69:9	p435	pivot:me	:	q1_21
+69:10	p435	pivot:fasting	:	q1_21
+69:12	p435	pivot:me	:	q1_21
+69:13	p435	pivot:thee	:	q1_21
+69:14	p435	pivot:mercy	:	q1_21
+69:15	p435	pivot:not	:	q1_21
+69:16	p436	pivot:up	:	q1_21
+69:17	p436	pivot:comfortable	:	q1_22
+69:18	p436	pivot:trouble	:	q1_22
+69:19	p436	pivot:it	:	q1_22
+69:20	p436	pivot:dishonour	:	q1_22
+69:21	p436	pivot:heaviness	:	q1_22
+69:22	p436	pivot:eat	:	q1_22
+69:24	p436	pivot:not	:	q1_22
+69:25	p436	pivot:them	:	q1_22
+69:26	p436	pivot:void	:	q1_22
+69:27	p436	pivot:smitten	:	q1_22
+69:28	p436	pivot:another	:	q1_22
+69:29	p436	pivot:living	:	q1_22
+69:30	p436	pivot:heaviness	:	q1_22
+69:31	p436	pivot:song	:	q1_22
+69:32	p437	pivot:LORD	:	q1_22
+69:33	p437	pivot:glad	:	q1_22
+69:34	p437	pivot:poor	:	q1_22
+69:35	p437	pivot:him	:	q1_22
+69:36	p437	pivot:Judah	:	q1_22
+69:37	p437	pivot:it	:	q1_22
+70:1	p437	pivot:me	:	q1_22
+70:2	p437	pivot:soul	:	q1_22
+70:3	p437	pivot:shame	:	q1_22
+70:4	p437	pivot:thee	:	q1_22
+70:5	p437	pivot:misery	:	q1_22
+71:2	p438	pivot:resort	:	q1_22
+71:3	p438	pivot:ungodly	:	q1_22
+71:5	p438	pivot:born	:	q1_22
+71:6	p438	pivot:many	:	q1_22
+71:7	p438	pivot:praise	:	q1_22
+71:8	p438	pivot:age	:	q1_22
+71:10	p438	pivot:God	:	q1_22
+71:11	p438	pivot:soul	:	q1_22
+71:12	p438	pivot:alway	:	q1_22
+71:13	p438	pivot:salvation	:	q1_22
+71:14	p438	pivot:God	:	q1_22
+71:15	p439	pivot:now	:	q1_22
+71:16	p439	pivot:gray-headed	:	q1_22
+71:17	p439	pivot:high	:	q1_22
+71:18	p439	pivot:me	:	q1_22
+71:20	p439	pivot:musick	:	q1_23
+71:21	p439	pivot:thee	:	q1_23
+71:22	p439	pivot:long	:	q1_23
+72:2	p439	pivot:right	:	q1_23
+72:3	p439	pivot:peace	:	q1_23
+72:4	p439	pivot:right	:	q1_23
+72:5	p440	pivot:endureth	:	q1_23
+72:6	p440	pivot:wool	:	q1_23
+72:7	p440	pivot:flourish	:	q1_23
+72:8	p440	pivot:other	:	q1_23
+72:9	p440	pivot:him	:	q1_23
+72:10	p440	pivot:presents	:	q1_23
+72:11	p440	pivot:him	:	q1_23
+72:12	p440	pivot:crieth	:	q1_23
+72:13	p440	pivot:needy	:	q1_23
+72:14	p440	pivot:wrong	:	q1_23
+72:15	p440	pivot:Arabia	:	q1_23
+72:16	p440	pivot:hills	:	q1_23
+72:17	p440	pivot:posterities	:	q1_23
+72:18	p440	pivot:Israel	:	q1_23
+72:19	p441	pivot:ever	:	q1_23
+73:2	p441	pivot:gone	:	q1_23
+73:3	p441	pivot:wicked	:	q1_23
+73:5	p441	pivot:folk	:	q1_23
+73:6	p441	pivot:pride	:	q1_23
+73:7	p441	pivot:fatness	:	q1_23
+73:8	p441	pivot:blasphemy	:	q1_23
+73:9	p441	pivot:heaven	:	q1_23
+73:10	p441	pivot:them	:	q1_23
+73:11	p441	pivot:it	:	q1_23
+73:12	p441	pivot:possession	:	q1_23
+73:14	p441	pivot:they	:	q1_23
+73:15	p442	pivot:this	:	q1_23
+73:16	p442	pivot:God	:	q1_23
+73:17	p442	pivot:places	:	q1_23
+73:19	p442	pivot:awaketh	:	q1_23
+73:20	p442	pivot:grieved	:	q1_23
+73:21	p442	pivot:ignorant	:	q1_23
+73:22	p442	pivot:thee	:	q1_23
+73:23	p442	pivot:counsel	:	q1_23
+73:24	p442	pivot:thee	:	q1_24
+73:25	p442	pivot:faileth	:	q1_24
+73:26	p442	pivot:perish	:	q1_24
+73:27	p442	pivot:GOD	:	q1_24
+74:1	p442	pivot:long	:	q1_24
+74:2	p443	pivot:congregation	:	q1_24
+74:3	p443	pivot:inheritance	:	q1_24
+74:4	p443	pivot:enemy	:	q1_24
+74:5	p443	pivot:congregations	:	q1_24
+74:6	p443	pivot:trees	:	q1_24
+74:7	p443	pivot:thereof	:	q1_24
+74:8	p443	pivot:places	:	q1_24
+74:9	p443	pivot:altogether	:	q1_24
+74:11	p443	pivot:dishonour	:	q1_24
+74:12	p443	pivot:hand	:	q1_24
+74:13	p443	pivot:old	:	q1_24
+74:14	p443	pivot:power	:	q1_24
+74:16	p443	pivot:rocks	:	q1_24
+74:17	p444	pivot:thine	:	q1_24
+74:18	p444	pivot:earth	:	q1_24
+74:19	p444	pivot:rebuked	:	q1_24
+74:20	p444	pivot:enemies	:	q1_24
+74:21	p444	pivot:covenant	:	q1_24
+74:22	p444	pivot:ashamed	:	q1_24
+74:23	p444	pivot:cause	:	q1_24
+74:24	p444	pivot:enemies	:	q1_24
+75:1	p444	pivot:thanks	:	q1_24
+75:2	p444	pivot:nigh	:	q1_24
+75:3	p444	pivot:congregation	:	q1_24
+75:4	p444	pivot:thereof	:	q1_24
+75:5	p444	pivot:madly	:	q1_24
+75:6	p445	pivot:high	:	q1_24
+75:7	p445	pivot:west	:	q1_24
+75:8	p445	pivot:Judge	:	q1_24
+75:9	p445	pivot:red	:	q1_24
+75:10	p445	pivot:thereof	:	q1_24
+75:11	p445	pivot:Jacob	:	q1_24
+75:12	p445	pivot:break	:	q1_24
+76:2	p445	pivot:tabernacle	:	q1_24
+76:3	p445	pivot:bow	:	q1_24
+76:4	p445	pivot:might	:	q1_25
+76:6	p445	pivot:Jacob	:	q1_25
+76:7	p445	pivot:feared	:	q1_25
+76:8	p445	pivot:heaven	:	q1_25
+76:9	p445	pivot:judgment	:	q1_25
+76:10	p446	pivot:praise	:	q1_25
+76:11	p446	pivot:him	:	q1_25
+76:12	p446	pivot:princes	:	q1_25
+77:1	p446	pivot:voice	:	q1_25
+77:2	p446	pivot:Lord	:	q1_25
+77:3	p446	pivot:God	:	q1_25
+77:4	p446	pivot:waking	:	q1_25
+77:5	p446	pivot:old	:	q1_25
+77:6	p446	pivot:song	:	q1_25
+77:7	p446	pivot:ever	:	q1_25
+77:8	p446	pivot:ever	:	q1_25
+77:9	p446	pivot:gracious	:	q1_25
+77:10	p446	pivot:infirmity	:	q1_25
+77:11	p446	pivot:LORD	:	q1_25
+77:12	p447	pivot:works	:	q1_25
+77:13	p447	pivot:holy	:	q1_25
+77:14	p447	pivot:wonders	:	q1_25
+77:16	p447	pivot:afraid	:	q1_25
+77:17	p447	pivot:thundered	:	q1_25
+77:18	p447	pivot:about	:	q1_25
+77:19	p447	pivot:waters	:	q1_25
+77:20	p447	pivot:sheep	:	q1_25
+78:27	p449	pivot:heaven	:	q1_25
+78:28	p449	pivot:dust	:	q1_25
+78:29	p449	pivot:tents	:	q1_25
+78:31	p449	pivot:them	:	q1_25
+78:32	p449	pivot:more	:	q1_25
+78:33	p449	pivot:vanity	:	q1_25
+78:34	p449	pivot:him	:	q1_25
+78:35	p449	pivot:strength	:	q1_25
+78:36	p450	pivot:mouth	:	q1_25
+78:37	p450	pivot:him	:	q1_25
+78:38	p450	pivot:misdeeds	:	q1_25
+78:39	p450	pivot:away	:	q1_25
+78:40	p450	pivot:flesh	:	q1_25
+78:41	p450	pivot:wilderness	:	q1_26
+78:42	p450	pivot:God	:	q1_26
+78:43	p450	pivot:hand	:	q1_26
+78:44	p450	pivot:Egypt	:	q1_26
+78:45	p450	pivot:blood	:	q1_26
+78:46	p450	pivot:up	:	q1_26
+78:47	p450	pivot:caterpillar	:	q1_26
+78:48	p450	pivot:hailstones	:	q1_26
+78:49	p450	pivot:hailstones	:	q1_26
+78:50	p450	pivot:trouble	:	q1_26
+78:51	p450	pivot:death	:	q1_26
+78:52	p451	pivot:Egypt	:	q1_26
+78:53	p451	pivot:sheep	:	q1_26
+78:54	p451	pivot:fear	:	q1_26
+78:55	p451	pivot:sanctuary	:	q1_26
+78:56	p451	pivot:them	:	q1_26
+78:57	p451	pivot:God	:	q1_26
+78:58	p451	pivot:forefathers	:	q1_26
+78:59	p451	pivot:hill-altars	:	q1_26
+78:61	p451	pivot:Silo	:	q1_26
+78:63	p451	pivot:sword	:	q1_26
+78:64	p451	pivot:men	:	q1_26
+78:65	p451	pivot:sword	:	q1_26
+78:66	p451	pivot:sleep	:	q1_26
+78:67	p451	pivot:parts	:	q1_26
+78:68	p452	pivot:Joseph	:	q1_26
+78:69	p452	pivot:Judah	:	q1_26
+78:70	p452	pivot:high	:	q1_26
+78:72	p452	pivot:him	:	q1_26
+78:73	p452	pivot:heart	:	q1_26
+79:1	p452	pivot:inheritance	:	q1_26
+79:2	p452	pivot:air	:	q1_26
+79:3	p452	pivot:Jerusalem	:	q1_26
+79:4	p452	pivot:enemies	:	q1_26
+79:5	p452	pivot:angry	:	q1_26
+79:6	p453	pivot:thee	:	q1_26
+79:7	p453	pivot:Jacob	:	q1_26
+79:8	p453	pivot:soon	:	q1_26
+79:9	p453	pivot:Name	:	q1_26
+79:10	p453	pivot:say	:	q1_26
+79:11	p453	pivot:shed	:	q1_27
+79:12	p453	pivot:thee	:	q1_27
+79:13	p453	pivot:thee	:	q1_27
+79:14	p453	pivot:ever	:	q1_27
+80:1	p453	pivot:sheep	:	q1_27
+80:2	p453	pivot:Manasses	:	q1_27
+80:3	p453	pivot:God	:	q1_27
+80:4	p453	pivot:hosts	:	q1_27
+80:5	p454	pivot:tears	:	q1_27
+80:6	p454	pivot:neighbours	:	q1_27
+80:7	p454	pivot:hosts	:	q1_27
+80:8	p454	pivot:Egypt	:	q1_27
+80:9	p454	pivot:it	:	q1_27
+80:10	p454	pivot:it	:	q1_27
+80:11	p454	pivot:sea	:	q1_27
+80:12	p454	pivot:hedge	:	q1_27
+80:13	p454	pivot:up	:	q1_27
+80:14	p454	pivot:heaven	:	q1_27
+80:15	p454	pivot:planted	:	q1_27
+80:16	p454	pivot:down	:	q1_27
+80:17	p454	pivot:hand	:	q1_27
+80:18	p454	pivot:thee	:	q1_27
+80:19	p454	pivot:hosts	:	q1_27
+81:1	p454	pivot:strength	:	q1_27
+81:2	p455	pivot:tabret	:	q1_27
+81:3	p455	pivot:moon	:	q1_27
+81:4	p455	pivot:Israel	:	q1_27
+81:6	p455	pivot:burden	:	q1_27
+81:7	p455	pivot:thee	:	q1_27
+81:8	p455	pivot:also	:	q1_27
+81:9	p455	pivot:Israel	:	q1_27
+81:10	p455	pivot:thee	:	q1_27
+81:11	p455	pivot:Egypt	:	q1_27
+81:12	p455	pivot:voice	:	q1_27
+81:13	p455	pivot:lusts	:	q1_27
+81:14	p455	pivot:me	:	q1_27
+81:15	p455	pivot:enemies	:	q1_27
+81:16	p455	pivot:liars	:	q1_27
+81:17	p455	pivot:wheat-flour	:	q1_27
+82:1	p456	pivot:princes	:	q1_27
+82:2	p456	pivot:judgment	:	q1_28
+82:3	p456	pivot:fatherless	:	q1_28
+82:4	p456	pivot:poor	:	q1_28
+82:5	p456	pivot:darkness	:	q1_28
+82:6	p456	pivot:gods	:	q1_28
+82:7	p456	pivot:men	:	q1_28
+82:8	p456	pivot:earth	:	q1_28
+83:1	p456	pivot:silence	:	q1_28
+83:3	p456	pivot:people	:	q1_28
+83:4	p456	pivot:people	:	q1_28
+83:6	p456	pivot:Ishmaelites	:	q1_28
+83:7	p457	pivot:Amalek	:	q1_28
+83:8	p457	pivot:them	:	q1_28
+83:9	p457	pivot:Madianites	:	q1_28
+83:10	p457	pivot:Endor	:	q1_28
+83:11	p457	pivot:Zeb	:	q1_28
+83:12	p457	pivot:ourselves	:	q1_28
+83:13	p457	pivot:wheel	:	q1_28
+83:14	p457	pivot:wood	:	q1_28
+83:15	p457	pivot:tempest	:	q1_28
+83:16	p457	pivot:LORD	:	q1_28
+83:18	p457	pivot:Jehovah	:	q1_28	book prints 'JEHOVAH' in capitals (the cell prints it so at 33:12); the cell prints 'Jehovah' here
+84:1	p457	pivot:dwellings	:	q1_28
+84:2	p457	pivot:LORD	:	q1_28
+84:3	p457	pivot:young	:	q1_28
+84:4	p458	pivot:house	:	q1_28
+84:5	p458	pivot:thee	:	q1_28
+84:6	p458	pivot:well	:	q1_28
+84:7	p458	pivot:strength	:	q1_28
+84:8	p458	pivot:prayer	:	q1_28
+84:9	p458	pivot:defender	:	q1_28
+84:10	p458	pivot:courts	:	q1_28
+84:11	p458	pivot:God	:	q1_28
+84:12	p458	pivot:defence	:	q1_28
+84:13	p458	pivot:hosts	:	q1_28
+85:2	p458	pivot:people	:	q1_28
+85:3	p458	pivot:displeasure	:	q1_28
+85:4	p458	pivot:Saviour	:	q1_28
+85:6	p459	pivot:us	:	q1_28
+85:7	p459	pivot:LORD	:	q1_28
+85:8	p459	pivot:me	:	q1_29
+85:9	p459	pivot:him	:	q1_29
+85:10	p459	pivot:together	:	q1_29
+85:11	p459	pivot:earth	:	q1_29
+85:12	p459	pivot:loving-kindness	:	q1_29
+85:13	p459	pivot:him	:	q1_29
+86:1	p459	pivot:me	:	q1_29
+86:2	p459	pivot:holy	:	q1_29
+86:3	p459	pivot:Lord	:	q1_29
+86:5	p459	pivot:gracious	:	q1_29
+86:6	p459	pivot:prayer	:	q1_29
+86:7	p460	pivot:thee	:	q1_29
+86:9	p460	pivot:Lord	:	q1_29
+86:10	p460	pivot:things	:	q1_29
+86:11	p460	pivot:truth	:	q1_29
+86:12	p460	pivot:heart	:	q1_29
+86:13	p460	pivot:me	:	q1_29
+86:14	p460	pivot:me	:	q1_29
+86:15	p460	pivot:mercy	:	q1_29
+86:16	p460	pivot:me	:	q1_29
+87:2	p460	pivot:thee	:	q1_29
+87:3	p460	pivot:Babylon	:	q1_29
+87:4	p461	pivot:also	:	q1_29
+87:5	p461	pivot:her	:	q1_29
+87:6	p461	pivot:people	:	q1_29
+88:2	p461	pivot:trouble	:	q1_29
+88:3	p461	pivot:pit	:	q1_29
+88:4	p461	pivot:grave	:	q1_29
+88:5	p461	pivot:pit	:	q1_29
+88:6	p461	pivot:me	:	q1_29
+88:7	p461	pivot:me	:	q1_29
+88:8	p461	pivot:prison	:	q1_29
+88:9	p461	pivot:trouble	:	q1_29
+88:10	p461	pivot:dead	:	q1_29
+88:11	p461	pivot:grave	:	q1_29
+88:12	p462	pivot:dark	:	q1_29
+88:13	p462	pivot:LORD	:	q1_29
+88:14	p462	pivot:soul	:	q1_29
+88:15	p462	pivot:die	:	q1_29
+88:16	p462	pivot:me	:	q1_29
+88:17	p462	pivot:water	:	q1_30
+88:18	p462	pivot:me	:	q1_30
+89:1	p462	pivot:LORD	:	q1_30
+89:2	p462	pivot:ever	:	q1_30
+89:4	p462	pivot:ever	:	q1_30
+89:5	p462	pivot:works	:	q1_30
+89:6	p462	pivot:clouds	:	q1_30
+89:7	p462	pivot:gods	:	q1_30
+89:8	p463	pivot:saints	:	q1_30
+89:9	p463	pivot:thee	:	q1_30
+89:11	p463	pivot:it	:	q1_30
+89:12	p463	pivot:thine	:	q1_30
+89:14	p463	pivot:arm	:	q1_30
+89:15	p463	pivot:seat	:	q1_30
+89:16	p463	pivot:thee	:	q1_30
+89:17	p463	pivot:Name	:	q1_30
+89:18	p463	pivot:strength	:	q1_30
+89:20	p463	pivot:saidst	:	q1_30
+89:21	p463	pivot:servant	:	q1_30
+89:22	p463	pivot:fast	:	q1_30
+89:23	p463	pivot:violence	:	q1_30
+89:24	p464	pivot:face	:	q1_30
+89:25	p464	pivot:him	:	q1_30
+89:26	p464	pivot:sea	:	q1_30
+89:27	p464	pivot:Father	:	q1_30
+89:28	p464	pivot:firstborn	:	q1_30
+89:29	p464	pivot:evermore	:	q1_30
+89:30	p464	pivot:ever	:	q1_30
+89:32	p464	pivot:commandments	:	q1_30
+89:33	p464	pivot:him	:	q1_30
+89:34	p464	pivot:lips	:	q1_30
+89:35	p464	pivot:ever	:	q1_30
+89:36	p464	pivot:moon	:	q1_30
+89:37	p464	pivot:Anointed	:	q1_30	book prints 'thine anointed :' lower-case (whole-verse crop chk_89_37); the cell prints 'Anointed'
+89:38	p464	pivot:servant	:	q1_30
+89:39	p464	pivot:hedges	:	q1_30
+89:40	p464	pivot:him	:	q1_30
+89:41	p465	pivot:enemies	:	q1_30
+89:42	p465	pivot:sword	:	q1_30
+89:43	p465	pivot:glory	:	q1_30
+89:44	p465	pivot:shortened	:	q1_31
+89:46	p465	pivot:is	:	q1_31
+89:47	p465	pivot:death	:	q1_31
+89:48	p465	pivot:loving-kindnesses	:	q1_31
+89:50	p465	pivot:Anointed	:	q1_31	book prints 'thine anointed :' lower-case (strip q1_31); the cell prints 'Anointed'
+90:1	p465	pivot:refuge	:	q1_31
+90:2	p465	pivot:made	:	q1_31
+90:3	p465	pivot:destruction	:	q1_31
+90:4	p466	pivot:yesterday	:	q1_31
+90:5	p466	pivot:sleep	:	q1_31
+90:7	p466	pivot:displeasure	:	q1_31
+90:8	p466	pivot:thee	:	q1_31
+90:9	p466	pivot:gone	:	q1_31
+90:10	p466	pivot:years	:	q1_31
+90:11	p466	pivot:wrath	:	q1_31
+90:12	p466	pivot:days	:	q1_31
+90:13	p466	pivot:last	:	q1_31
+90:14	p466	pivot:soon	:	q1_31
+90:15	p466	pivot:us	:	q1_31
+90:16	p466	pivot:work	:	q1_31
+91:1	p467	pivot:High	:	q1_31
+91:3	p467	pivot:hunter	:	q1_31
+91:4	p467	pivot:feathers	:	q1_31
+91:5	p467	pivot:night	:	q1_31
+91:6	p467	pivot:darkness	:	q1_31
+91:7	p467	pivot:hand	:	q1_31
+91:8	p467	pivot:behold	:	q1_31
+91:9	p467	pivot:hope	:	q1_31
+91:10	p467	pivot:thee	:	q1_31
+91:11	p467	pivot:thee	:	q1_31
+91:12	p467	pivot:hands	:	q1_31
+91:13	p467	pivot:adder	:	q1_31
+91:14	p467	pivot:him	:	q1_31
+91:15	p467	pivot:him	:	q1_31
+91:16	p468	pivot:him	:	q1_31
+92:1	p468	pivot:LORD	:	q1_31
+92:2	p468	pivot:morning	:	q1_31
+92:3	p468	pivot:lute	:	q1_31
+92:4	p468	pivot:works	:	q1_31
+92:5	p468	pivot:works	:	q1_31
+92:6	p468	pivot:this	:	q1_32
+92:8	p468	pivot:perish	:	q1_32
+92:9	p468	pivot:unicorn	:	q1_32
+92:10	p468	pivot:enemies	:	q1_32
+92:11	p468	pivot:palm-tree	:	q1_32
+92:12	p468	pivot:LORD	:	q1_32
+92:14	p469	pivot:is	:	q1_32
+93:1	p469	pivot:apparel	:	q1_32
+93:2	p469	pivot:sure	:	q1_32
+93:4	p469	pivot:voice	:	q1_32
+93:6	p469	pivot:sure	:	q1_32
+94:1	p469	pivot:belongeth	:	q1_32
+94:2	p469	pivot:world	:	q1_32
+94:3	p469	pivot:ungodly	:	q1_32
+94:4	p469	pivot:disdainfully	:	q1_32
+94:6	p470	pivot:stranger	:	q1_32
+94:7	p470	pivot:see	:	q1_32
+94:8	p470	pivot:people	:	q1_32
+94:9	p470	pivot:hear	:	q1_32
+94:11	p470	pivot:man	:	q1_32
+94:12	p470	pivot:LORD	:	q1_32
+94:14	p470	pivot:people	:	q1_32
+94:15	p470	pivot:judgment	:	q1_32
+94:16	p470	pivot:wicked	:	q1_32
+94:17	p470	pivot:me	:	q1_32
+94:18	p470	pivot:slipt	:	q1_32
+94:19	p470	pivot:heart	:	q1_32
+94:20	p470	pivot:wickedness	:	q1_32
+94:22	p470	pivot:refuge	:	q1_32
+94:23	p470	pivot:malice	:	q1_32
+95:1	p471	pivot:LORD	:	q1_32
+95:2	p471	pivot:thanksgiving	:	q1_32
+95:4	p471	pivot:earth	:	q1_32
+95:5	p471	pivot:it	:	q1_32
+95:6	p471	pivot:down	:	q1_32
+95:7	p471	pivot:God	:	q1_32
+95:9	p471	pivot:me	:	q1_32
+95:11	p471	pivot:wrath	:	q1_32
+96:1	p471	pivot:song	:	q1_32
+96:2	p471	pivot:Name	:	q1_32
+96:3	p472	pivot:heathen	:	q1_33
+96:4	p472	pivot:praised	:	q1_33
+96:5	p472	pivot:idols	:	q1_33
+96:6	p472	pivot:him	:	q1_33
+96:7	p472	pivot:people	:	q1_33
+96:8	p472	pivot:Name	:	q1_33
+96:9	p472	pivot:holiness	:	q1_33
+96:10	p472	pivot:King	:	q1_33
+96:11	p472	pivot:glad	:	q1_33
+96:12	p472	pivot:it	:	q1_33
+96:13	p472	pivot:earth	:	q1_33
+97:1	p472	pivot:thereof	:	q1_33
+97:2	p472	pivot:him	:	q1_33
+97:3	p472	pivot:him	:	q1_33
+97:4	p473	pivot:world	:	q1_33
+97:5	p473	pivot:LORD	:	q1_33
+97:6	p473	pivot:righteousness	:	q1_33
+97:7	p473	pivot:gods	:	q1_33
+97:8	p473	pivot:rejoiced	:	q1_33
+97:9	p473	pivot:earth	:	q1_33
+97:10	p473	pivot:evil	:	q1_33
+97:11	p473	pivot:righteous	:	q1_33
+98:1	p473	pivot:song	:	q1_33
+98:2	p473	pivot:arm	:	q1_33
+98:3	p473	pivot:salvation	:	q1_33
+98:4	p474	pivot:Israel	:	q1_33
+98:5	p474	pivot:lands	:	q1_33
+98:8	p474	pivot:is	:	q1_33
+98:10	p474	pivot:world	:	q1_33
+99:2	p474	pivot:Sion	:	q1_33
+99:3	p474	pivot:Name	:	q1_33
+99:4	p474	pivot:equity	:	q1_33
+99:6	p474	pivot:Name	:	q1_33
+99:7	p474	pivot:pillar	:	q1_33
+99:8	p474	pivot:God	:	q1_33
+99:9	p475	pivot:hill	:	q1_33
+100:3	p475	pivot:praise	:	q1_33
+100:4	p475	pivot:everlasting	:	q1_33
+101:2	p475	pivot:understanding	:	q1_33
+101:3	p475	pivot:me	:	q1_33
+101:4	p475	pivot:unfaithfulness	:	q1_34
+101:5	p475	pivot:me	:	q1_34
+101:6	p475	pivot:neighbour	:	q1_34
+101:7	p475	pivot:stomach	:	q1_34
+101:8	p476	pivot:land	:	q1_34
+101:9	p476	pivot:life	:	q1_34
+101:10	p476	pivot:house	:	q1_34
+101:11	p476	pivot:land	:	q1_34
+102:1	p476	pivot:LORD	:	q1_34
+102:2	p476	pivot:trouble	:	q1_34
+102:3	p476	pivot:smoke	:	q1_34
+102:4	p476	pivot:grass	:	q1_34
+102:5	p476	pivot:groaning	:	q1_34
+102:6	p476	pivot:wilderness	:	q1_34
+102:7	p476	pivot:sparrow	:	q1_34
+102:8	p476	pivot:long	:	q1_34
+102:10	p477	pivot:wrath	:	q1_34
+102:11	p477	pivot:shadow	:	q1_34
+102:12	p477	pivot:ever	:	q1_34
+102:13	p477	pivot:Sion	:	q1_34
+102:14	p477	pivot:stones	:	q1_34
+102:15	p477	pivot:LORD	:	q1_34
+102:16	p477	pivot:Sion	:	q1_34
+102:17	p477	pivot:destitute	:	q1_34
+102:18	p477	pivot:after	:	q1_34
+102:19	p477	pivot:sanctuary	:	q1_34
+102:21	p477	pivot:Sion	:	q1_34
+102:22	p477	pivot:together	:	q1_34
+102:23	p477	pivot:journey	:	q1_34
+102:24	p477	pivot:age	:	q1_34
+102:25	p477	pivot:earth	:	q1_34
+102:26	p478	pivot:endure	:	q1_34
+102:27	p478	pivot:changed	:	q1_34
+102:28	p478	pivot:continue	:	q1_34
+103:1	p478	pivot:soul	:	q1_34
+103:3	p478	pivot:sin	:	q1_34
+103:4	p478	pivot:destruction	:	q1_34
+103:5	p478	pivot:things	:	q1_34
+103:6	p478	pivot:judgment	:	q1_34
+103:8	p478	pivot:mercy	:	q1_34
+103:9	p478	pivot:chiding	:	q1_35
+103:10	p478	pivot:sins	:	q1_35
+103:11	p478	pivot:earth	:	q1_35
+103:13	p478	pivot:children	:	q1_35
+103:14	p479	pivot:made	:	q1_35
+103:15	p479	pivot:grass	:	q1_35
+103:16	p479	pivot:gone	:	q1_35
+103:17	p479	pivot:him	:	q1_35
+103:18	p479	pivot:covenant	:	q1_35
+103:19	p479	pivot:heaven	:	q1_35
+103:20	p479	pivot:strength	:	q1_35
+103:21	p479	pivot:hosts	:	q1_35
+103:22	p479	pivot:dominion	:	q1_35
+104:1	p479	pivot:soul	:	q1_35
+104:2	p479	pivot:garment	:	q1_35
+104:3	p479	pivot:waters	:	q1_35
+104:4	p479	pivot:spirits	:	q1_35
+104:5	p480	pivot:earth	:	q1_35
+104:6	p480	pivot:garment	:	q1_35
+104:7	p480	pivot:flee	:	q1_35
+104:8	p480	pivot:beneath	:	q1_35
+104:9	p480	pivot:pass	:	q1_35
+104:10	p480	pivot:rivers	:	q1_35
+104:11	p480	pivot:thereof	:	q1_35
+104:12	p480	pivot:habitation	:	q1_35
+104:13	p480	pivot:above	:	q1_35
+104:14	p480	pivot:cattle	:	q1_35
+104:15	p480	pivot:man	:	q1_35
+104:16	p480	pivot:sap	:	q1_35
+104:17	p480	pivot:nests	:	q1_35
+104:18	p480	pivot:goats	:	q1_35
+104:19	p480	pivot:seasons	:	q1_35
+104:20	p480	pivot:night	:	q1_35
+104:21	p480	pivot:prey	:	q1_35
+104:22	p481	pivot:together	:	q1_35
+104:24	p481	pivot:works	:	q1_35
+104:25	p481	pivot:also	:	q1_35
+104:26	p481	pivot:Leviathan	:	q1_35
+104:27	p481	pivot:thee	:	q1_35
+104:28	p481	pivot:it	:	q1_35
+104:29	p481	pivot:troubled	:	q1_36
+104:30	p481	pivot:made	:	q1_36
+104:31	p481	pivot:ever	:	q1_36
+104:32	p481	pivot:him	:	q1_36
+104:33	p481	pivot:live	:	q1_36
+104:34	p481	pivot:him	:	q1_36
+104:35	p481	pivot:end	:	q1_36
+105:1	p482	pivot:Name	:	q1_36
+105:2	p482	pivot:him	:	q1_36
+105:3	p482	pivot:Name	:	q1_36
+105:6	p482	pivot:servant	:	q1_36
+105:7	p482	pivot:God	:	q1_36
+105:8	p482	pivot:promise	:	q1_36
+105:9	p482	pivot:Abraham	:	q1_36
+105:10	p482	pivot:law	:	q1_36
+105:12	p482	pivot:them	:	q1_36
+105:13	p482	pivot:another	:	q1_36
+105:14	p482	pivot:wrong	:	q1_36
+105:15	p482	pivot:Anointed	:	q1_36	book prints 'mine anointed :' lower-case (strip q1_36); the cell prints 'Anointed'
+105:16	p483	pivot:land	:	q1_36
+105:17	p483	pivot:them	:	q1_36
+105:18	p483	pivot:stocks	:	q1_36
+105:19	p483	pivot:known	:	q1_36
+105:20	p483	pivot:him	:	q1_36
+105:21	p483	pivot:house	:	q1_36
+105:22	p483	pivot:will	:	q1_36
+105:23	p483	pivot:Egypt	:	q1_36
+105:24	p483	pivot:exceedingly	:	q1_36
+105:25	p483	pivot:people	:	q1_36
+105:26	p483	pivot:servant	:	q1_36
+105:27	p483	pivot:them	:	q1_36
+105:28	p483	pivot:dark	:	q1_36
+105:29	p483	pivot:blood	:	q1_36
+105:30	p483	pivot:frogs	:	q1_36
+105:31	p483	pivot:flies	:	q1_36
+105:32	p483	pivot:rain	:	q1_36
+105:33	p483	pivot:fig-trees	:	q1_36
+105:34	p484	pivot:innumerable	:	q1_36
+105:35	p484	pivot:land	:	q1_36
+105:36	p484	pivot:gold	:	q1_36
+105:37	p484	pivot:departing	:	q1_37
+105:38	p484	pivot:covering	:	q1_37
+105:39	p484	pivot:quails	:	q1_37
+105:42	p484	pivot:joy	:	q1_37
+105:43	p484	pivot:heathen	:	q1_37
+105:44	p484	pivot:statutes	:	q1_37
+106:1	p484	pivot:gracious	:	q1_37
+106:2	p484	pivot:LORD	:	q1_37
+106:4	p485	pivot:people	:	q1_37
+106:5	p485	pivot:chosen	:	q1_37
+106:6	p485	pivot:fathers	:	q1_37
+106:7	p485	pivot:remembrance	:	q1_37
+106:8	p485	pivot:sake	:	q1_37
+106:9	p485	pivot:up	:	q1_37
+106:10	p485	pivot:hand	:	q1_37
+106:11	p485	pivot:them	:	q1_37
+106:12	p485	pivot:words	:	q1_37
+106:13	p485	pivot:works	:	q1_37
+106:14	p485	pivot:wilderness	:	q1_37
+106:15	p485	pivot:desire	:	q1_37
+106:16	p485	pivot:tents	:	q1_37
+106:17	p485	pivot:Dathan	:	q1_37
+106:18	p485	pivot:company	:	q1_37
+106:19	p485	pivot:Horeb	:	q1_37
+106:20	p486	pivot:glory	:	q1_37
+106:21	p486	pivot:Saviour	:	q1_37
+106:22	p486	pivot:Ham	:	q1_37
+106:23	p486	pivot:gap	:	q1_37
+106:24	p486	pivot:land	:	q1_37
+106:25	p486	pivot:tents	:	q1_37
+106:26	p486	pivot:them	:	q1_37
+106:27	p486	pivot:nations	:	q1_37
+106:28	p486	pivot:Baal-peor	:	q1_37
+106:29	p486	pivot:inventions	:	q1_37
+106:30	p486	pivot:prayed	:	q1_37
+106:32	p486	pivot:strife	:	q1_37
+106:33	p486	pivot:spirit	:	q1_37
+106:35	p486	pivot:heathen	:	q1_37
+106:37	p487	pivot:daughters	:	q1_37
+106:38	p487	pivot:works	:	q1_37
+106:40	p487	pivot:heathen	:	q1_38
+106:41	p487	pivot:them	:	q1_38
+106:42	p487	pivot:them	:	q1_38
+106:43	p487	pivot:adversity	:	q1_38
+106:44	p487	pivot:mercies	:	q1_38
+106:45	p487	pivot:heathen	:	q1_38
+107:2	p488	pivot:redeemed	:	q1_38
+107:3	p488	pivot:west	:	q1_38
+107:4	p488	pivot:way	:	q1_38
+107:5	p488	pivot:thirsty	:	q1_38
+107:6	p488	pivot:trouble	:	q1_38
+107:7	p488	pivot:way	:	q1_38
+107:9	p488	pivot:soul	:	q1_38
+107:11	p488	pivot:Lord	:	q1_38
+107:12	p488	pivot:heaviness	:	q1_38
+107:13	p488	pivot:trouble	:	q1_38
+107:14	p488	pivot:death	:	q1_38
+107:15	p488	pivot:goodness	:	q1_38
+107:17	p488	pivot:offence	:	q1_38
+107:19	p489	pivot:trouble	:	q1_38
+107:20	p489	pivot:them	:	q1_38
+107:21	p489	pivot:goodness	:	q1_38
+107:22	p489	pivot:thanksgiving	:	q1_38
+107:23	p489	pivot:ships	:	q1_38
+107:24	p489	pivot:LORD	:	q1_38
+107:25	p489	pivot:ariseth	:	q1_38
+107:26	p489	pivot:deep	:	q1_38
+107:27	p489	pivot:man	:	q1_38
+107:28	p489	pivot:trouble	:	q1_38
+107:29	p489	pivot:cease	:	q1_38
+107:30	p489	pivot:rest	:	q1_38
+107:31	p489	pivot:goodness	:	q1_38
+107:32	p489	pivot:people	:	q1_38
+107:33	p489	pivot:wilderness	:	q1_38
+107:34	p490	pivot:barren	:	q1_38
+107:35	p490	pivot:water	:	q1_38
+107:36	p490	pivot:hungry	:	q1_38
+107:37	p490	pivot:vineyards	:	q1_38
+107:38	p490	pivot:exceedingly	:	q1_38
+107:39	p490	pivot:low	:	q1_38
+107:40	p490	pivot:tyrants	:	q1_39
+107:41	p490	pivot:misery	:	q1_39
+107:42	p490	pivot:rejoice	:	q1_39
+107:43	p490	pivot:things	:	q1_39
+108:1	p490	pivot:ready	:	q1_39
+108:2	p490	pivot:harp	:	q1_39
+108:3	p490	pivot:people	:	q1_39
+108:4	p491	pivot:heavens	:	q1_39
+108:6	p491	pivot:delivered	:	q1_39
+108:7	p491	pivot:holiness	:	q1_39
+108:10	p491	pivot:city	:	q1_39
+108:12	p491	pivot:enemy	:	q1_39
+108:13	p491	pivot:acts	:	q1_39
+109:2	p491	pivot:tongues	:	q1_39
+109:3	p491	pivot:part	:	q1_39
+109:4	p491	pivot:good	:	q1_39
+109:5	p491	pivot:him	:	q1_39
+109:6	p492	pivot:condemned	:	q1_39
+109:7	p492	pivot:few	:	q1_39
+109:9	p492	pivot:bread	:	q1_39
+109:10	p492	pivot:hath	:	q1_39
+109:11	p492	pivot:him	:	q1_39
+109:12	p492	pivot:destroyed	:	q1_39
+109:13	p492	pivot:LORD	:	q1_39
+109:15	p492	pivot:good	:	q1_39
+109:17	p492	pivot:raiment	:	q1_39
+109:18	p492	pivot:him	:	q1_39
+109:19	p492	pivot:enemies	:	q1_39
+109:20	p492	pivot:Name	:	q1_39
+109:21	p493	pivot:poor	:	q1_39
+109:22	p493	pivot:departeth	:	q1_39
+109:24	p493	pivot:them	:	q1_39
+109:26	p493	pivot:hand	:	q1_39
+109:27	p493	pivot:thou	:	q1_39
+109:28	p493	pivot:shame	:	q1_39
+109:30	p493	pivot:poor	:	q1_39
+110:1	p493	pivot:Lord	:	q1_39
+110:4	p494	pivot:repent	:	q1_39
+110:5	p494	pivot:hand	:	q1_39
+110:6	p494	pivot:bodies	:	q1_39
+110:7	p494	pivot:way	:	q1_40
+111:1	p494	pivot:heart	:	q1_40
+111:2	p494	pivot:great	:	q1_40
+111:3	p494	pivot:honour	:	q1_40
+111:4	p494	pivot:works	:	q1_40
+111:5	p494	pivot:him	:	q1_40
+111:6	p494	pivot:works	:	q1_40
+111:7	p494	pivot:judgment	:	q1_40
+111:8	p494	pivot:ever	:	q1_40
+111:9	p494	pivot:people	:	q1_40
+111:10	p495	pivot:wisdom	:	q1_40
+112:1	p495	pivot:LORD	:	q1_40
+112:2	p495	pivot:earth	:	q1_40
+112:3	p495	pivot:house	:	q1_40
+112:4	p495	pivot:darkness	:	q1_40
+112:5	p495	pivot:lendeth	:	q1_40
+112:6	p495	pivot:moved	:	q1_40
+112:7	p495	pivot:tidings	:	q1_40
+112:8	p495	pivot:shrink	:	q1_40
+112:9	p495	pivot:poor	:	q1_40
+113:1	p495	pivot:servants	:	q1_40
+113:2	p495	pivot:LORD	:	q1_40
+113:3	p495	pivot:praised	:	q1_40
+113:4	p496	pivot:heathen	:	q1_40
+113:5	p496	pivot:high	:	q1_40
+113:7	p496	pivot:princes	:	q1_40
+113:8	p496	pivot:house	:	q1_40
+114:1	p496	pivot:Egypt	:	q1_40
+114:2	p496	pivot:sanctuary	:	q1_40
+114:3	p496	pivot:fled	:	q1_40
+114:4	p496	pivot:rams	:	q1_40
+114:5	p496	pivot:fleddest	:	q1_40
+114:7	p496	pivot:Lord	:	q1_40
+114:8	p496	pivot:water	:	q1_40
+115:1	p496	pivot:praise	:	q1_40
+115:2	p497	pivot:say	:	q1_40
+115:3	p497	pivot:heaven	:	q1_40
+115:4	p497	pivot:gold	:	q1_40
+115:5	p497	pivot:not	:	q1_40
+115:6	p497	pivot:not	:	q1_40
+115:8	p497	pivot:them	:	q1_41
+115:9	p497	pivot:LORD	:	q1_41
+115:10	p497	pivot:LORD	:	q1_41
+115:11	p497	pivot:LORD	:	q1_41
+115:12	p497	pivot:us	:	q1_41
+115:13	p497	pivot:LORD	:	q1_41
+115:14	p497	pivot:more	:	q1_41
+115:15	p497	pivot:LORD	:	q1_41
+115:16	p497	pivot:LORD'S	:	q1_41
+115:17	p497	pivot:LORD	:	q1_41
+115:18	p497	pivot:LORD	:	q1_41
+116:1	p498	pivot:pleased	:	q1_41
+116:2	p498	pivot:me	:	q1_41
+116:3	p498	pivot:about	:	q1_41
+116:4	p498	pivot:LORD	:	q1_41
+116:6	p498	pivot:simple	:	q1_41
+116:10	p498	pivot:troubled	:	q1_41
+116:11	p498	pivot:LORD	:	q1_41
+116:12	p498	pivot:salvation	:	q1_41
+116:13	p498	pivot:people	:	q1_41
+116:14	p498	pivot:servant	:	q1_41
+116:15	p499	pivot:thanksgiving	:	q1_41
+117:1	p499	pivot:heathen	:	q1_41
+118:2	p499	pivot:gracious	:	q1_41
+118:3	p499	pivot:confess	:	q1_41
+118:4	p499	pivot:confess	:	q1_41
+118:6	p499	pivot:side	:	q1_41
+118:7	p499	pivot:me	:	q1_41
+118:8	p499	pivot:LORD	:	q1_41
+118:9	p499	pivot:LORD	:	q1_41
+118:10	p500	pivot:about	:	q1_41
+118:11	p500	pivot:side	:	q1_41
+118:12	p500	pivot:thorns	:	q1_41
+118:13	p500	pivot:fall	:	q1_41
+118:14	p500	pivot:song	:	q1_41
+118:16	p500	pivot:pre-eminence	:	q1_41
+118:17	p500	pivot:live	:	q1_41
+118:18	p500	pivot:me	:	q1_41
+118:19	p500	pivot:righteousness	:	q1_41
+118:20	p500	pivot:LORD	:	q1_41
+118:21	p500	pivot:me	:	q1_42
+118:22	p500	pivot:refused	:	q1_42
+118:23	p500	pivot:doing	:	q1_42
+118:24	p500	pivot:made	:	q1_42
+118:25	p500	pivot:LORD	:	q1_42
+118:26	p501	pivot:LORD	:	q1_42
+118:27	p501	pivot:light	:	q1_42
+118:28	p501	pivot:thee	:	q1_42
+118:29	p501	pivot:gracious	:	q1_42
+119:42	p504	pivot:blasphemers	:	q1_42
+119:43	p504	pivot:mouth	:	q1_42
+119:44	p504	pivot:law	:	q1_42
+119:45	p504	pivot:liberty	:	q1_42
+119:46	p504	pivot:kings	:	q1_42
+119:47	p504	pivot:commandments	:	q1_42
+119:48	p504	pivot:loved	:	q1_42
+119:49	p504	pivot:word	:	q1_42
+119:50	p504	pivot:trouble	:	q1_42
+119:51	p504	pivot:derision	:	q1_42
+119:52	p504	pivot:LORD	:	q1_42
+119:53	p504	pivot:afraid	:	q1_42
+119:54	p504	pivot:songs	:	q1_42
+119:55	p504	pivot:season	:	q1_42
+119:56	p505	pivot:had	:	q1_42
+119:57	p505	pivot:LORD	:	q1_42
+119:58	p505	pivot:heart	:	q1_42
+119:59	p505	pivot:remembrance	:	q1_42
+119:60	p505	pivot:time	:	q1_42
+119:61	p505	pivot:me	:	q1_42
+119:62	p505	pivot:thee	:	q1_42
+119:63	p505	pivot:thee	:	q1_42
+119:65	p505	pivot:servant	:	q1_42
+119:66	p505	pivot:knowledge	:	q1_42
+119:67	p505	pivot:wrong	:	q1_42
+119:68	p505	pivot:gracious	:	q1_42
+119:69	p505	pivot:me	:	q1_42
+119:71	p506	pivot:trouble	:	q1_42
+119:72	p506	pivot:me	:	q1_42
+119:74	p506	pivot:me	:	q1_42
+119:75	p506	pivot:right	:	q1_42
+119:76	p506	pivot:comfort	:	q1_43
+119:77	p506	pivot:live	:	q1_43
+119:78	p506	pivot:me	:	q1_43
+119:79	p506	pivot:testimonies	:	q1_43
+119:80	p506	pivot:statutes	:	q1_43
+119:122	p509	pivot:good	:	q1_43
+119:123	p509	pivot:health	:	q1_43
+119:124	p509	pivot:mercy	:	q1_43
+119:126	p509	pivot:hand	:	q1_43
+119:127	p509	pivot:commandments	:	q1_43
+119:128	p510	pivot:commandments	:	q1_43
+119:129	p510	pivot:wonderful	:	q1_43
+119:130	p510	pivot:forth	:	q1_43
+119:131	p510	pivot:breath	:	q1_43
+119:132	p510	pivot:me	:	q1_43
+119:133	p510	pivot:word	:	q1_43
+119:134	p510	pivot:men	:	q1_43
+119:135	p510	pivot:servant	:	q1_43
+119:136	p510	pivot:water	:	q1_43
+119:137	p510	pivot:LORD	:	q1_43
+119:138	p510	pivot:commanded	:	q1_43
+119:140	p510	pivot:uttermost	:	q1_43
+119:141	p510	pivot:reputation	:	q1_43
+119:142	p510	pivot:righteousness	:	q1_43
+119:143	p510	pivot:me	:	q1_43
+119:144	p511	pivot:everlasting	:	q1_43
+119:145	p511	pivot:heart	:	q1_43
+119:146	p511	pivot:call	:	q1_43
+119:147	p511	pivot:thee	:	q1_43
+119:148	p511	pivot:watches	:	q1_43
+119:149	p511	pivot:loving-kindness	:	q1_43
+119:150	p511	pivot:me	:	q1_43
+119:151	p511	pivot:LORD	:	q1_43
+119:152	p511	pivot:since	:	q1_43
+119:153	p511	pivot:me	:	q1_43
+119:154	p511	pivot:me	:	q1_43
+119:155	p511	pivot:ungodly	:	q1_43
+119:156	p511	pivot:LORD	:	q1_43
+119:157	p511	pivot:me	:	q1_43
+119:158	p512	pivot:transgressors	:	q1_43
+119:160	p512	pivot:everlasting	:	q1_44
+119:161	p512	pivot:cause	:	q1_44
+119:162	p512	pivot:word	:	q1_44
+119:163	p512	pivot:them	:	q1_44
+119:164	p512	pivot:thee	:	q1_44
+119:166	p512	pivot:health	:	q1_44
+119:167	p512	pivot:testimonies	:	q1_44
+119:168	p512	pivot:testimonies	:	q1_44
+119:169	p512	pivot:LORD	:	q1_44
+119:170	p512	pivot:thee	:	q1_44
+119:171	p512	pivot:praise	:	q1_44
+119:172	p512	pivot:word	:	q1_44
+119:173	p513	pivot:me	:	q1_44
+119:174	p513	pivot:LORD	:	q1_44
+119:175	p513	pivot:thee	:	q1_44
+119:176	p513	pivot:lost	:	q1_44
+120:1	p513	pivot:LORD	:	q1_44
+120:2	p513	pivot:lips	:	q1_44
+120:3	p513	pivot:tongue	:	q1_44
+120:4	p513	pivot:Mesech	:	q1_44
+120:5	p513	pivot:them	:	q1_44
+121:1	p513	pivot:hills	:	q1_44
+121:2	p513	pivot:LORD	:	q1_44
+121:3	p514	pivot:moved	:	q1_44
+121:4	p514	pivot:Israel	:	q1_44
+121:5	p514	pivot:keeper	:	q1_44
+121:6	p514	pivot:day	:	q1_44
+121:7	p514	pivot:evil	:	q1_44
+121:8	p514	pivot:in	:	q1_44
+122:1	p514	pivot:me	:	q1_44
+122:2	p514	pivot:gates	:	q1_44
+122:3	p514	pivot:city	:	q1_44
+122:4	p514	pivot:LORD	:	q1_44
+122:5	p514	pivot:judgment	:	q1_44
+122:6	p514	pivot:Jerusalem	:	q1_44
+122:7	p514	pivot:walls	:	q1_44
+122:8	p514	pivot:sakes	:	q1_44
+122:9	p514	pivot:God	:	q1_44
+123:1	p514	pivot:eyes	:	q1_44
+123:2	p515	pivot:mistress	:	q1_44
+123:3	p515	pivot:us	:	q1_45
+123:4	p515	pivot:wealthy	:	q1_45
+124:1	p515	pivot:say	:	q1_45
+124:2	p515	pivot:quick	:	q1_45
+124:3	p515	pivot:us	:	q1_45
+124:4	p515	pivot:proud	:	q1_45
+124:5	p515	pivot:LORD	:	q1_45
+124:6	p515	pivot:fowler	:	q1_45
+124:7	p515	pivot:LORD	:	q1_45
+125:1	p515	pivot:Sion	:	q1_45
+125:2	p515	pivot:Jerusalem	:	q1_45
+125:3	p516	pivot:righteous	:	q1_45
+125:4	p516	pivot:LORD	:	q1_45
+125:5	p516	pivot:wickedness	:	q1_45
+126:2	p516	pivot:laughter	:	q1_45
+126:3	p516	pivot:heathen	:	q1_45
+126:4	p516	pivot:already	:	q1_45
+126:5	p516	pivot:LORD	:	q1_45
+126:6	p516	pivot:tears	:	q1_45
+127:1	p516	pivot:house	:	q1_45
+127:2	p516	pivot:city	:	q1_45
+127:3	p516	pivot:carefulness	:	q1_45
+127:4	p517	pivot:womb	:	q1_45
+127:5	p517	pivot:giant	:	q1_45
+127:6	p517	pivot:them	:	q1_45
+128:1	p517	pivot:LORD	:	q1_45
+128:2	p517	pivot:hands	:	q1_45
+128:3	p517	pivot:vine	:	q1_45
+128:4	p517	pivot:olive-branches	:	q1_45
+128:5	p517	pivot:blessed	:	q1_45
+128:7	p517	pivot:children	:	q1_45
+129:2	p517	pivot:up	:	q1_45
+129:3	p517	pivot:back	:	q1_45
+129:4	p517	pivot:LORD	:	q1_45
+129:5	p518	pivot:backward	:	q1_45
+129:6	p518	pivot:housetops	:	q1_45
+129:7	p518	pivot:hand	:	q1_45
+129:8	p518	pivot:you	:	q1_45
+130:2	p518	pivot:well	:	q1_45
+130:4	p518	pivot:thee	:	q1_45
+130:5	p518	pivot:him	:	q1_46
+130:6	p518	pivot:Lord	:	q1_46
+130:7	p518	pivot:mercy	:	q1_46
+130:8	p518	pivot:Israel	:	q1_46
+131:1	p518	pivot:high-minded	:	q1_46
+131:2	p518	pivot:matters	:	q1_46
+131:3	p518	pivot:mother	:	q1_46
+131:4	p519	pivot:LORD	:	q1_46
+132:4	p519	pivot:slumber	:	q1_46
+132:5	p519	pivot:LORD	:	q1_46
+132:6	p519	pivot:Ephrata	:	q1_46
+132:7	p519	pivot:tabernacle	:	q1_46
+132:8	p519	pivot:resting-place	:	q1_46
+132:10	p519	pivot:sake	:	q1_46
+132:12	p519	pivot:body	:	q1_46
+132:13	p519	pivot:them	:	q1_46
+132:14	p520	pivot:himself	:	q1_46
+132:15	p520	pivot:ever	:	q1_46
+132:16	p520	pivot:increase	:	q1_46
+132:18	p520	pivot:flourish	:	q1_46
+132:19	p520	pivot:shame	:	q1_46
+133:3	p520	pivot:Hermon	:	q1_46
+133:4	p520	pivot:blessing	:	q1_46
+134:1	p520	pivot:LORD	:	q1_46
+134:2	p520	pivot:LORD	:	q1_46
+134:3	p520	pivot:sanctuary	:	q1_46
+134:4	p520	pivot:earth	:	q1_46
+135:2	p521	pivot:LORD	:	q1_46
+135:3	p521	pivot:gracious	:	q1_46
+135:4	p521	pivot:himself	:	q1_46
+135:5	p521	pivot:great	:	q1_46
+135:6	p521	pivot:earth	:	q1_46
+135:7	p521	pivot:world	:	q1_46
+135:8	p521	pivot:Egypt	:	q1_46
+135:9	p521	pivot:Egypt	:	q1_46
+135:11	p521	pivot:Basan	:	q1_46
+135:12	p521	pivot:heritage	:	q1_46
+135:13	p521	pivot:ever	:	q1_46
+135:14	p521	pivot:people	:	q1_46
+135:15	p521	pivot:gold	:	q1_46
+135:16	p521	pivot:not	:	q1_47
+135:17	p521	pivot:not	:	q1_47
+135:18	p522	pivot:them	:	q1_47
+135:19	p522	pivot:Israel	:	q1_47
+135:20	p522	pivot:Levi	:	q1_47
+135:21	p522	pivot:Sion	:	q1_47
+136:1	p522	pivot:gracious	:	q1_47
+136:2	p522	pivot:gods	:	q1_47
+136:3	p522	pivot:lords	:	q1_47
+136:5	p522	pivot:heavens	:	q1_47
+136:6	p522	pivot:waters	:	q1_47
+136:8	p522	pivot:day	:	q1_47
+136:9	p522	pivot:night	:	q1_47
+136:10	p522	pivot:firstborn	:	q1_47
+136:11	p522	pivot:them	:	q1_47
+136:12	p522	pivot:arm	:	q1_47
+136:13	p523	pivot:parts	:	q1_47
+136:14	p523	pivot:it	:	q1_47
+136:15	p523	pivot:sea	:	q1_47	book prints 'the Red Sea' (capital S, strip q1_47); the cell prints 'Red sea' -- check the other 4 places
+136:16	p523	pivot:wilderness	:	q1_47
+136:17	p523	pivot:kings	:	q1_47
+136:21	p523	pivot:heritage	:	q1_47
+136:22	p523	pivot:servant	:	q1_47
+136:23	p523	pivot:trouble	:	q1_47
+136:24	p523	pivot:enemies	:	q1_47
+136:25	p523	pivot:flesh	:	q1_47
+136:26	p523	pivot:heaven	:	q1_47
+136:27	p523	pivot:lords	:	q1_47
+137:1	p523	pivot:wept	:	q1_47
+137:2	p523	pivot:up	:	q1_47
+137:4	p524	pivot:song	:	q1_47
+137:7	p524	pivot:Jerusalem	:	q1_47
+137:8	p524	pivot:misery	:	q1_47
+138:1	p524	pivot:heart	:	q1_47
+138:2	p524	pivot:truth	:	q1_47
+138:3	p524	pivot:me	:	q1_47
+138:4	p524	pivot:LORD	:	q1_47
+138:5	p524	pivot:LORD	:	q1_47
+138:6	p524	pivot:lowly	:	q1_47
+138:8	p525	pivot:me	:	q1_47
+139:2	p525	pivot:bed	:	q1_48
+139:3	p525	pivot:tongue	:	q1_48
+139:4	p525	pivot:before	:	q1_48
+139:5	p525	pivot:me	:	q1_48
+139:8	p525	pivot:morning	:	q1_48
+139:9	p525	pivot:me	:	q1_48
+139:10	p525	pivot:me	:	q1_48
+139:12	p526	pivot:thine	:	q1_48
+139:13	p526	pivot:made	:	q1_48
+139:14	p526	pivot:thee	:	q1_48
+139:15	p526	pivot:unperfect	:	q1_48
+139:16	p526	pivot:fashioned	:	q1_48
+139:17	p526	pivot:God	:	q1_48
+139:18	p526	pivot:sand	:	q1_48
+139:19	p526	pivot:God	:	q1_48
+139:20	p526	pivot:thee	:	q1_48
+139:21	p526	pivot:thee	:	q1_48
+139:22	p526	pivot:sore	:	q1_48
+139:23	p526	pivot:heart	:	q1_48
+139:24	p526	pivot:me	:	q1_48
+140:3	p527	pivot:serpent	:	q1_48
+140:4	p527	pivot:ungodly	:	q1_48
+140:5	p527	pivot:cords	:	q1_48
+140:6	p527	pivot:God	:	q1_48
+140:7	p527	pivot:health	:	q1_48
+140:8	p527	pivot:Lord	:	q1_48	book prints 'O LORD :' in small capitals (strip q1_48); the cell prints 'O Lord'
+140:9	p527	pivot:them	:	q1_48
+140:10	p527	pivot:them	:	q1_48
+140:11	p527	pivot:earth	:	q1_48
+140:12	p527	pivot:poor	:	q1_48
+140:13	p527	pivot:Name	:	q1_48
+141:2	p527	pivot:incense	:	q1_48
+141:3	p528	pivot:mouth	:	q1_48
+141:4	p528	pivot:thing	:	q1_48
+141:5	p528	pivot:friendly	:	q1_48
+141:6	p528	pivot:head	:	q1_48
+141:8	p528	pivot:pit	:	q1_48
+141:10	p528	pivot:me	:	q1_48
+141:11	p528	pivot:together	:	q1_48
+142:1	p528	pivot:voice	:	q1_48
+142:3	p528	pivot:path	:	q1_49
+142:4	p528	pivot:hand	:	q1_49
+142:5	p528	pivot:unto	:	q1_49
+142:6	p528	pivot:said	:	q1_49
+142:7	p529	pivot:complaint	:	q1_49
+142:8	p529	pivot:persecutors	:	q1_49
+142:9	p529	pivot:Name	:	q1_49
+143:1	p529	pivot:desire	:	q1_49
+143:2	p529	pivot:servant	:	q1_49
+143:3	p529	pivot:ground	:	q1_49
+143:4	p529	pivot:me	:	q1_49
+143:5	p529	pivot:works	:	q1_49
+143:6	p529	pivot:thee	:	q1_49
+143:7	p529	pivot:faint	:	q1_49
+143:8	p529	pivot:trust	:	q1_49
+143:9	p529	pivot:enemies	:	q1_49
+143:11	p530	pivot:sake	:	q1_49
+144:2	p530	pivot:trust	:	q1_49
+144:3	p530	pivot:him	:	q1_49
+144:4	p530	pivot:nought	:	q1_49
+144:7	p530	pivot:above	:	q1_49
+144:8	p530	pivot:vanity	:	q1_49
+144:9	p530	pivot:God	:	q1_49
+144:10	p530	pivot:kings	:	q1_49
+144:14	p531	pivot:decay	:	q1_49
+144:15	p531	pivot:case	:	q1_49
+145:1	p531	pivot:King	:	q1_49
+145:2	p531	pivot:thee	:	q1_49
+145:3	p531	pivot:praised	:	q1_49
+145:4	p531	pivot:another	:	q1_49
+145:5	p531	pivot:worship	:	q1_49
+145:7	p531	pivot:showed	:	q1_49
+145:9	p531	pivot:man	:	q1_49
+145:10	p531	pivot:LORD	:	q1_49
+145:11	p532	pivot:kingdom	:	q1_49
+145:12	p532	pivot:kingdom	:	q1_49
+145:13	p532	pivot:kingdom	:	q1_49
+145:15	p532	pivot:Lord	:	q1_49
+145:16	p532	pivot:hand	:	q1_49
+145:17	p532	pivot:ways	:	q1_49
+145:18	p532	pivot:him	:	q1_50
+145:19	p532	pivot:him	:	q1_50
+145:20	p532	pivot:him	:	q1_50
+145:21	p532	pivot:LORD	:	q1_50
+146:1	p532	pivot:LORD	:	q1_50
+146:2	p532	pivot:man	:	q1_50
+146:3	p532	pivot:earth	:	q1_50
+146:6	p533	pivot:wrong	:	q1_50
+146:7	p533	pivot:prison	:	q1_50
+146:10	p533	pivot:evermore	:	q1_50
+147:1	p533	pivot:God	:	q1_50
+147:2	p533	pivot:Jerusalem	:	q1_50
+147:3	p533	pivot:heart	:	q1_50
+147:4	p533	pivot:stars	:	q1_50
+147:5	p533	pivot:power	:	q1_50
+147:6	p533	pivot:meek	:	q1_50
+147:8	p533	pivot:earth	:	q1_50
+147:9	p533	pivot:cattle	:	q1_50
+147:10	p534	pivot:horse	:	q1_50
+147:11	p534	pivot:him	:	q1_50
+147:12	p534	pivot:Jerusalem	:	q1_50
+147:14	p534	pivot:borders	:	q1_50
+147:15	p534	pivot:earth	:	q1_50
+147:16	p534	pivot:wool	:	q1_50
+147:17	p534	pivot:morsels	:	q1_50
+147:18	p534	pivot:them	:	q1_50
+147:19	p534	pivot:Jacob	:	q1_50
+147:20	p534	pivot:nation	:	q1_50
+148:1	p534	pivot:heaven	:	q1_50
+148:2	p534	pivot:his	:	q1_50
+148:3	p534	pivot:moon	:	q1_50
+148:4	p534	pivot:heavens	:	q1_50
+148:5	p534	pivot:LORD	:	q1_50
+148:6	p535	pivot:ever	:	q1_50
+148:7	p535	pivot:earth	:	q1_50
+148:9	p535	pivot:hills	:	q1_50
+148:10	p535	pivot:cattle	:	q1_50
+148:11	p535	pivot:people	:	q1_50
+148:13	p535	pivot:him	:	q1_50
+149:1	p535	pivot:song	:	q1_50
+149:3	p535	pivot:dance	:	q1_51
+149:4	p535	pivot:people	:	q1_51
+149:5	p535	pivot:glory	:	q1_51
+149:6	p535	pivot:mouth	:	q1_51
+149:7	p535	pivot:heathen	:	q1_51
+149:9	p536	pivot:written	:	q1_51
+150:1	p536	pivot:holiness	:	q1_51
+150:2	p536	pivot:acts	:	q1_51
+150:4	p536	pivot:dances	:	q1_51
+150:5	p536	pivot:cymbals	:	q1_51
+150:6	p536	pivot:breath	:	q1_51
+
+# ---- PHASE 2b: the cell words the alignment left unmatched, read by eye ----
+# columns: run id, verse, scan page, the cell words, what the eye saw (same = the book
+# prints the cell words; otherwise the book form), strip.
+U001	1:7	p357	righteous:	same	um_00
+U002	2:1	p357	WHY	same	um_00
+U003	2:8	p358	I	same	um_00
+U004	2:12	p358	Kiss	same	um_00
+U005	3:1	p358	LORD,	same	um_00
+U006	3:6	p359	have	same	um_00
+U007	4:1	p359	in	same	um_00
+U008	4:2	p359	in	same	um_00
+U009	4:3	p359	me.	same	um_00
+U010	4:4	p359	awe,	same	um_00
+U011	4:5	p359	your	same	um_00
+U012	5:1	p360	meditation	same	um_00
+U013	5:10	p360	their	same	um_00
+U014	6:1	p361	O	same	um_00
+U015	6:6	p361	I	same	um_00
+U016	6:7	p361	mine	same	um_00
+U017	6:8	p361	ye	same	um_00
+U018	7:1	p361	O	same	um_00
+U019	7:3	p361	LORD	same	um_00
+U020	7:4	p361	If I	same	um_00
+U021	7:4	p361	that	same	um_00
+U022	7:6	p362	lift	same	um_00
+U023	7:13	p362	If	same	um_00
+U024	7:16	p362	on	same	um_00
+U025	7:18	p362	I	same	um_00
+U026	7:18	p363	LORD most High.	same -- 7:18 'LORD most High.' -- whole-verse crop um_fix_00: the words stand; the book capitalizes 'Most' (a CASE item)	um_00
+U027	8:1	p363	O	same	um_01
+U028	8:6	p363	and	same	um_01
+U029	8:7	p363	yea,	same	um_01
+U030	8:7	p363	field;	same	um_01
+U031	9:1	p363	I	same	um_01
+U032	9:1	p363	thee,	same	um_01
+U033	9:2	p364	glad	same	um_01
+U034	9:5	p364	their	same	um_01
+U035	9:14	p364	I	same	um_01
+U036	10:1	p365	WHY	same	um_01
+U037	10:1	p365	time	same	um_01
+U038	10:3	p365	God	book: whom GOD abhorreth (small capitals)	um_01
+U039	10:5	p365	are far	same	um_01
+U040	10:5	p365	and	same	um_01
+U041	10:8	p365	set	same	um_01
+U042	10:9	p365	he	same	um_01
+U043	11:1	p366	flee	same	um_01
+U044	11:6	p367	LORD	same	um_01
+U045	12:1	p367	HELP	same	um_01
+U046	12:1	p367	LORD,	same	um_01
+U047	12:1	p367	godly man left: for the faithful are minished	same	um_01
+U048	12:2	p367	one	same	um_01
+U049	12:6	p367	him	same	um_01
+U050	13:1	p368	face	same	um_01
+U051	14:1	p368	THE	same	um_02
+U052	14:5	p368	have	same	um_02
+U053	15:1	p369	LORD,	same	um_02
+U054	15:1	p369	hill?	same	um_02
+U055	16:1	p370	PRESERVE	same -- 16:1 'PRESERVE me, O God' -- whole-verse crop um_fix_00	um_02
+U056	16:9	p370	God	book: set GOD alway (small capitals)	um_02
+U057	17:1	p371	lips.	same	um_02
+U058	17:14	p372	men	same	um_02
+U059	18:1	p372	I	same	um_02
+U060	18:9	p373	his	same	um_02
+U061	18:11	p373	He	same	um_02
+U062	18:23	p373	I	same	um_02
+U063	18:42	p375	I	same	um_02
+U064	18:49	p375	me	same	um_02
+U065	18:50	p375	LORD,	same	um_02
+U066	18:50	p375	and	same	um_02
+U067	18:51	p375	he	same	um_02
+U068	19:1	p376	heavens declare the glory of God:	same	um_02
+U069	19:2	p376	one	same	um_02
+U070	20:1	p377	THE	same	um_02
+U071	20:6	p377	him	same	um_03
+U072	20:9	p377	LORD,	book: Save, LORD; and	um_03
+U073	21:3	p377	For	same	um_03
+U074	21:4	p378	of	same	um_03
+U075	21:4	p378	him	same	um_03
+U076	21:13	p378	will	same	um_03
+U077	22:1	p378	MY GOD, my God, look upon	book: MY God, my God, (only the first word in capitals)	um_03
+U078	22:1	p378	hast	same	um_03
+U079	22:2	p378	I	same	um_03
+U080	22:2	p379	not:	same	um_03
+U081	22:6	p379	I	same	um_03
+U082	22:6	p379	men,	same	um_03
+U083	22:7	p379	our	book: shoot out their lips	um_03
+U084	22:10	p379	my	same	um_03
+U085	22:14	p379	I	same	um_03
+U086	24:1	p381	earth	same	um_03
+U087	24:1	p381	the LORD'S, and all	book: the LORD's, and (small-capital LORD, lower-case s)	um_03
+U088	24:1	p381	therein is:	same	um_03
+U089	24:4	p381	mind	same	um_03
+U090	24:7	p382	Lift	same	um_03
+U091	24:9	p382	lift	same	um_03
+U092	25:4	p382	for	same	um_03
+U093	25:13	p383	and	same	um_03
+U094	26:1	p383	BE THOU	book: BE thou my (only the first word in capitals)	um_04
+U095	26:1	p383	judge, O LORD, for I have walked	book: my Judge, O LORD	um_04
+U096	26:7	p384	I	same	um_04
+U097	27:9	p385	face,	same	um_04
+U098	27:9	p385	I	same	um_04
+U099	27:12	p385	me	same	um_04
+U100	27:13	p385	way,	same	um_04
+U101	27:15	p385	see	same	um_04
+U102	29:1	p386	unto the	same	um_04
+U103	29:2	p386	his	same	um_04
+U104	29:4	p387	a	same	um_04
+U105	29:5	p387	LORD	same	um_04
+U106	29:7	p387	yea,	same	um_04
+U107	30:1	p387	I	same	um_04
+U108	30:1	p387	LORD,	book: O LORD; for thou	um_04
+U109	30:1	p387	and	same	um_04
+U110	30:1	p387	me.	same	um_04
+U111	30:4	p387	LORD,	same	um_04
+U112	30:11	p388	helper.	same	um_04
+U113	31:1	p388	I	same	um_04
+U114	31:5	p388	me:	same	um_04
+U115	31:6	p388	me,	same	um_04
+U116	32:9	p391	mine	same	um_04
+U117	33:1	p391	REJOICE	same	um_04
+U118	33:1	p391	becometh well the just to	same	um_04
+U119	33:1	p391	thankful.	same	um_05
+U120	33:2	p391	him	same	um_05
+U121	34:1	p393	I	same	um_05
+U122	34:1	p393	give	same	um_05
+U123	34:3	p393	Name	same	um_05
+U124	34:11	p393	LORD.	same	um_05
+U125	34:16	p393	LORD	same	um_05
+U126	35:1	p394	LORD,	same	um_05
+U127	35:10	p395	him:	same	um_05
+U128	35:10	p395	in	same	um_05
+U129	35:10	p395	from	same	um_05
+U130	35:17	p395	me,	same	um_05
+U131	35:18	p395	I	same	um_05
+U132	35:27	p396	LORD,	same	um_05
+U133	36:4	p397	good	same	um_05
+U134	36:11	p397	me:	same	um_05
+U135	37:1	p397	FRET	same	um_05
+U136	37:20	p399	away.	same	um_05
+U137	37:28	p399	LORD	same	um_05
+U138	37:36	p400	I	same	um_05
+U139	37:37	p400	I	same	um_05
+U140	38:1	p400	PUT	same	um_05
+U141	38:6	p401	I	same	um_05
+U142	38:15	p401	in thee,	same	um_06
+U143	38:15	p401	have I put	same	um_06
+U144	38:17	p401	am set	same	um_06
+U145	38:19	p401	me	same	um_06
+U146	38:19	p401	are	same	um_06
+U147	38:20	p401	are	same	um_06
+U148	39:1	p402	I	same	um_06
+U149	39:11	p402	I	same	um_06
+U150	39:12	p402	like	same	um_06
+U151	39:14	p403	I	same	um_06
+U152	40:1	p403	I	same	um_06
+U153	40:9	p403	I,	same	um_06
+U154	40:9	p403	I	same	um_06
+U155	40:15	p404	I am	same	um_06
+U156	40:17	p404	Let	same	um_06
+U157	41:1	p404	BLESSED	same	um_06
+U158	41:1	p404	time	same	um_06
+U159	41:2	p405	him,	same	um_06
+U160	41:5	p405	die,	same	um_06
+U161	41:11	p405	me:	same	um_06
+U162	41:13	p405	LORD	same	um_06
+U163	42:1	p405	LIKE	same	um_06
+U164	42:1	p405	so	same	um_06
+U165	42:4	p406	I	same	um_06
+U166	42:9	p406	One	same	um_07
+U167	43:1	p406	GIVE	same	um_07
+U168	43:1	p406	my	same	um_07
+U169	43:1	p406	O	same	um_07
+U170	43:4	p407	I	same	um_07
+U171	43:6	p407	him	same	um_07
+U172	44:1	p407	WE	same	um_07
+U173	44:1	p407	done	same	um_07
+U174	44:3	p407	For	same	um_07
+U175	44:9	p408	our	same	um_07
+U176	45:1	p409	MY	same	um_07
+U177	45:1	p409	of	same	um_07
+U178	45:1	p409	I	same	um_07
+U179	45:18	p410	I	same	um_07
+U180	46:1	p410	GOD	book: God is our hope (drop capital G, then lower case)	um_07
+U181	46:5	p411	in	same	um_07
+U182	46:10	p411	am	same	um_07
+U183	46:10	p411	I	same	um_07
+U184	47:1	p411	O	same	um_07
+U185	48:1	p412	highly	same	um_07
+U186	49:1	p413	O	same	um_08
+U187	49:16	p414	if	same	um_08
+U188	50:12	p415	mine,	same	um_08
+U189	50:21	p415	thee	same	um_08
+U190	51:4	p416	in	same	um_08
+U191	51:9	p416	Turn	same	um_08
+U192	51:16	p417	For	same	um_08
+U193	52:1	p417	WHY	same	um_08
+U194	53:1	p418	THE	same	um_08
+U195	53:3	p418	any	same	um_08
+U196	54:1	p418	SAVE	same	um_08
+U197	54:1	p418	in	same	um_08
+U198	55:1	p419	HEAR	same	um_08
+U199	55:1	p419	O	same	um_08
+U200	55:1	p419	hide	same	um_08
+U201	55:4	p419	me.	same	um_08
+U202	55:6	p419	had	same	um_08
+U203	55:7	p419	Lo, then would I	same	um_08
+U204	55:7	p419	away	same	um_08
+U205	56:1	p421	BE	same	um_08
+U206	56:1	p421	me, O God, for	same	um_09
+U207	56:1	p421	goeth	same	um_09
+U208	56:3	p421	I	same	um_09
+U209	56:4	p421	can	same	um_09
+U210	56:5	p421	me	same	um_09
+U211	56:10	p421	will	same	um_09
+U212	57:1	p422	BE	same	um_09
+U213	57:7	p422	my	same	um_09
+U214	58:1	p423	ARE your minds set upon righteousness, O ye	same	um_09
+U215	58:1	p423	of	same	um_09
+U216	58:7	p423	not	same	um_09
+U217	59:2	p424	men.	same	um_09
+U218	59:7	p424	Behold, they speak with	same	um_09
+U219	59:7	p424	mouth,	same	um_09
+U220	59:9	p424	I	same	um_09
+U221	60:1	p425	O	same	um_09
+U222	60:6	p425	I will	same	um_09
+U223	60:7	p425	lawgiver;	same	um_09
+U224	60:8	p425	Philistia,	same	um_09
+U225	60:12	p425	shall	same	um_09
+U226	61:1	p425	HEAR	same	um_09
+U227	61:1	p425	ear	same	um_09
+U228	61:2	p426	thee:	same	um_10
+U229	61:3	p426	for	same	um_10
+U230	61:6	p426	life:	same	um_10
+U231	61:7	p426	him.	same	um_10
+U232	62:1	p426	MY	same	um_10
+U233	62:4	p426	good	same	um_10
+U234	63:1	p427	O	same	um_10
+U235	63:4	p427	life itself:	same	um_10
+U236	63:5	p427	I	same	um_10
+U237	63:7	p427	Have	same	um_10
+U238	63:7	p427	thee	same	um_10
+U239	64:1	p428	HEAR	same	um_10
+U240	64:4	p428	him	same	um_10
+U241	65:1	p429	THOU, O God,	same	um_10
+U242	65:1	p429	praised	same	um_10
+U243	65:1	p429	Sion:	same	um_10
+U244	65:4	p429	and	same	um_10
+U245	65:7	p429	and	same	um_10
+U246	65:10	p429	full	same	um_10
+U247	66:1	p430	O BE	same	um_10
+U248	66:5	p430	on	same	um_10
+U249	66:15	p431	him	same	um_11
+U250	67:1	p431	GOD	book: God be merciful (drop capital G, then lower case)	um_11
+U251	67:3	p431	thee,	same	um_11
+U252	67:4	p431	be	same	um_11
+U253	67:5	p431	yea,	same	um_11
+U254	68:1	p432	LET	same	um_11
+U255	68:1	p432	him.	same	um_11
+U256	68:2	p432	fire,	same	um_11
+U257	68:12	p433	flee,	same	um_11
+U258	68:13	p433	ye	same	um_11
+U259	68:16	p433	Why hop	same	um_11
+U260	68:16	p433	hills?	same	um_11
+U261	68:20	p433	GOD	same	um_11
+U262	68:20	p433	we	same	um_11
+U263	68:22	p433	sea.	same	um_11
+U264	68:28	p434	us,	same	um_11
+U265	68:31	p434	our	book: stretch out her hands	um_11
+U266	68:32	p434	ye	same	um_11
+U267	69:3	p435	I	same	um_11
+U268	69:3	p435	of	same	um_11
+U269	69:5	p435	I	same	um_11
+U270	69:9	p435	me:	same	um_11
+U271	69:10	p435	I	same	um_11
+U272	69:13	p435	I	same	um_11
+U273	69:18	p436	am	same	um_11
+U274	69:19	p436	and	same	um_11
+U275	70:3	p437	me,	same	um_11
+U276	70:5	p437	me,	same	um_11
+U277	71:1	p437	THEE ,O LORD, have I put my trust, let me never	book: IN thee, O LORD (only the first word in capitals; comma closed up)	um_11
+U278	71:1	p437	put to	same	um_12
+U279	71:1	p438	but rid me and	book: but rid me, and	um_12
+U280	71:2	p438	hold,	same	um_12
+U281	71:4	p438	GOD,	same	um_12
+U282	71:4	p438	I	same	um_12
+U283	71:14	p438	God:	book: the Lord GOD : and (small capitals)	um_12
+U284	71:19	p439	on	same	um_12
+U285	71:20	p439	thee	same	um_12
+U286	71:21	p439	lips	same	um_12
+U287	71:21	p439	fain	same	um_12
+U288	71:21	p439	I	same	um_12
+U289	71:22	p439	day	same	um_12
+U290	72:3	p439	little	same	um_12
+U291	72:4	p439	He	same	um_12
+U292	72:10	p440	gifts.	same	um_12
+U293	73:2	p441	gone:	same	um_12
+U294	73:13	p441	been	same	um_12
+U295	73:14	p441	Yea,	same	um_12
+U296	73:21	p442	I,	same	um_12
+U297	73:26	p442	lo,	same	um_12
+U298	73:27	p442	for	same	um_12
+U299	74:1	p442	O	same	um_12
+U300	75:4	p444	I	same	um_12
+U301	75:9	p445	mixed,	book: full mixt, and	um_12
+U302	75:10	p445	earth shall drink them, and suck them out.	same	um_12
+U303	75:12	p445	I	same	um_12
+U304	76:1	p445	JEWRY	book: IN Jewry is (only the first word in capitals)	um_12
+U305	76:3	p445	brake	same	um_12
+U306	76:6	p445	fallen.	same	um_12
+U307	77:1	p446	I	same	um_13
+U308	77:1	p446	cry	same	um_13
+U309	77:14	p447	God	same	um_13
+U310	78:1	p447	HEAR	same	um_13
+U311	78:1	p447	law, O my people:	same	um_13
+U312	78:2	p447	I	same	um_13
+U313	78:26	p449	man	same	um_13
+U314	78:40	p450	and	same	um_13
+U315	78:41	p450	time	same	um_13
+U316	78:41	p450	him	same	um_13
+U317	78:43	p450	day	same	um_13
+U318	78:46	p450	He	same	um_13
+U319	78:55	p451	his	same	um_13
+U320	79:1	p452	O	same	um_13
+U321	80:2	p453	up	same	um_13
+U322	81:1	p454	SING	same	um_13
+U323	81:1	p454	of	same	um_13
+U324	81:3	p455	our	same	um_13
+U325	81:8	p455	I	same	um_13
+U326	81:11	p455	I am	same	um_13
+U327	81:12	p455	me.	book: would not obey me;	um_14
+U328	81:14	p455	for	same	um_14
+U329	82:1	p456	GOD	book: God standeth (drop capital G, then lower case)	um_14
+U330	84:1	p457	O	same	um_14
+U331	85:1	p458	LORD,	same	um_14
+U332	85:1	p458	unto thy land: thou hast turned away	same	um_14
+U333	86:1	p459	BOW	same	um_14
+U334	86:1	p459	ear,	same	um_14
+U335	86:3	p459	daily	same	um_14
+U336	86:4	p459	thee,	same	um_14
+U337	87:1	p460	HER foundations are upon the holy hills: the	same	um_14
+U338	87:3	p460	I	same	um_14
+U339	88:1	p461	O	same	um_14
+U340	88:1	p461	have	same	um_14
+U341	88:6	p461	and	same	um_14
+U342	88:9	p461	I	same	um_14
+U343	88:10	p461	thee?	same	um_14
+U344	89:1	p462	MY	same	um_15
+U345	89:1	p462	of the	same	um_15
+U346	89:1	p462	with	same	um_15
+U347	89:1	p462	will I	same	um_15
+U348	89:4	p462	I	same	um_15
+U349	89:4	p462	one	same	um_15
+U350	89:32	p464	If	same	um_15
+U351	89:32	p464	I	same	um_15
+U352	89:34	p464	will	same	um_15
+U353	89:39	p464	holds.	same	um_15
+U354	89:46	p465	for	same	um_15
+U355	90:1	p465	Lord,	same	um_15
+U356	90:1	p465	from	same	um_15
+U357	90:1	p465	generation to another.	same	um_15
+U358	90:3	p465	man	same	um_15
+U359	90:3	p466	men.	same	um_15
+U360	91:2	p467	hold:	same	um_15
+U361	91:4	p467	and	same	um_15
+U362	91:14	p467	Name.	same	um_15
+U363	91:15	p467	He	same	um_15
+U364	91:15	p468	him:	same	um_15
+U365	92:1	p468	IT	same	um_15
+U366	93:1	p469	hath	same	um_15
+U367	94:1	p469	O	same	um_16
+U368	94:9	p470	ear,	same	um_16
+U369	95:1	p471	O	same	um_16
+U370	95:8	p471	ye	same	um_16
+U371	95:8	p471	day	same	um_16
+U372	95:10	p471	I	same	um_16
+U373	96:1	p471	O	same	um_16
+U374	96:2	p471	be	same	um_16
+U375	97:1	p472	THE	same	um_16
+U376	97:4	p473	and	same	um_16
+U377	98:1	p473	O	same	um_16
+U378	98:1	p473	done marvellous things.	same	um_16
+U379	99:1	p474	THE	same	um_16
+U380	100:1	p475	O	same	um_16
+U381	101:1	p475	be	same	um_16
+U382	102:1	p476	thee.	same	um_16
+U383	102:2	p476	face	same	um_16
+U384	102:2	p476	ear	same	um_16
+U385	102:4	p476	eat	same	um_17
+U386	102:6	p476	I	same	um_17
+U387	102:7	p476	have	same	um_17
+U388	102:13	p477	and	same	um_17
+U389	102:13	p477	her,	same	um_17
+U390	103:9	p478	he	same	um_17
+U391	103:11	p478	earth:	same	um_17
+U392	103:12	p478	he	same	um_17
+U393	103:13	p478	Yea,	same	um_17
+U394	103:13	p478	as	same	um_17
+U395	103:16	p479	gone:	same	um_17
+U396	104:4	p479	and	same	um_17
+U397	104:14	p480	for	same	um_17
+U398	104:16	p480	he	same	um_17
+U399	104:33	p481	I	same	um_17
+U400	104:33	p481	I	same	um_17
+U401	104:34	p481	be	same	um_17
+U402	104:35	p481	be	same	um_17
+U403	105:1	p482	O	same	um_17
+U404	105:12	p482	few	same	um_17
+U405	105:28	p483	not	same	um_17
+U406	105:36	p484	He	same	um_17
+U407	106:1	p484	O	same	um_17
+U408	106:15	p485	them	same	um_17
+U409	106:27	p486	To	same	um_17
+U410	106:30	p486	plague	same	um_17
+U411	106:37	p487	had	book: whom they of-|fered (no "had"; full-size crop look/p487_10637)	um_17
+U412	106:42	p487	own	same	um_17
+U413	106:46	p487	say,	same	um_17
+U414	107:1	p487	O	same	um_18
+U415	107:1	p487	LORD,	same	um_18
+U416	107:14	p488	shadow	same	um_18
+U417	107:31	p489	for	same	um_18
+U418	108:1	p490	O	same	um_18
+U419	108:1	p490	that	same	um_18
+U420	108:7	p491	I	same	um_18
+U421	108:9	p491	I	same	um_18
+U422	108:11	p491	our	same	um_18
+U423	109:1	p491	O	same	um_18
+U424	109:1	p491	for	same	um_18
+U425	109:1	p491	of	same	um_18
+U426	109:3	p491	I	same	um_18
+U427	109:4	p491	for	same	um_18
+U428	109:4	p491	good will.	book: my goodwill. (one word)	um_18
+U429	109:6	p492	him	same	um_18
+U430	109:6	p492	sin.	same	um_18
+U431	109:16	p492	he	same	um_18
+U432	109:19	p492	Let	same	um_18
+U433	109:21	p493	I	same	um_18
+U434	109:29	p493	LORD	same	um_18
+U435	109:30	p493	the	same	um_18
+U436	111:1	p494	I	same	um_18
+U437	111:2	p494	of	same	um_18
+U438	111:4	p494	LORD	same	um_18
+U439	114:5	p496	thee,	same	um_19
+U440	114:5	p496	sea,	same	um_19
+U441	114:6	p496	Ye	same	um_19
+U442	114:6	p496	like	same	um_19
+U443	114:6	p496	little	same	um_19
+U444	114:6	p496	like	same	um_19
+U445	114:8	p496	hard	same	um_19
+U446	115:1	p496	NOT unto us,	same	um_19
+U447	115:1	p496	Name give	same	um_19
+U448	115:1	p496	praise:	same	um_19
+U449	115:1	p497	and for thy truth’s sake.	same	um_19
+U450	115:16	p497	he	same	um_19
+U451	116:2	p498	therefore	same	um_19
+U452	117:1	p499	O	same	um_19
+U453	118:1	p499	O	same	um_19
+U454	118:4	p499	Yea,	same	um_19
+U455	118:21	p500	I	same	um_19
+U456	118:27	p501	light:	same	um_19
+U457	118:28	p501	I	same	um_19
+U458	118:29	p501	and	same	um_19
+U459	119:1	p501	are	same	um_19
+U460	119:7	p501	I	same	um_19
+U461	119:9	p501	his	same	um_19
+U462	119:17	p502	O	same	um_19
+U463	119:23	p502	in	same	um_20
+U464	119:25	p502	MY	same	um_20
+U465	119:30	p503	I	same	um_20
+U466	119:33	p503	unto	same	um_20
+U467	119:39	p503	Take	same	um_20
+U468	119:41	p504	come	same	um_20
+U469	119:41	p504	thy	same	um_20
+U470	119:49	p504	I	same	um_20
+U471	119:57	p505	law.	same	um_20
+U472	119:58	p505	I	same	um_20
+U473	119:59	p505	I	same	um_20
+U474	119:60	p505	I	same	um_20
+U475	119:61	p505	I	same	um_20
+U476	119:63	p505	I	same	um_20
+U477	119:63	p505	keep	same	um_20
+U478	119:65	p505	O	same	um_20
+U479	119:70	p505	fat	same	um_20
+U480	119:81	p506	MY SOUL hath longed	book: MY soul hath longed (only the first word in capitals)	um_20
+U481	119:81	p506	thy salvation:	same	um_20
+U482	119:83	p506	I am	same	um_20
+U483	119:89	p507	O	same	um_20
+U484	119:96	p507	I	same	um_20
+U485	119:97	p507	I	same	um_20
+U486	119:97	p507	it.	same	um_21
+U487	119:98	p507	made	same	um_21
+U488	119:100	p508	I	same	um_21
+U489	119:101	p508	I	same	um_21
+U490	119:104	p508	I	same	um_21
+U491	119:105	p508	a	same	um_21
+U492	119:106	p508	am	same	um_21
+U493	119:107	p508	measure:	same	um_21
+U494	119:107	p508	me,	same	um_21
+U495	119:112	p508	have	same	um_21
+U496	119:113	p509	I	same	um_21
+U497	119:113	p509	law	same	um_21
+U498	119:113	p509	I	same	um_21
+U499	119:115	p509	I	same	um_21
+U500	119:121	p509	I	same	um_21
+U501	119:125	p509	I	same	um_21
+U502	119:134	p510	and	same	um_21
+U503	119:137	p510	RIGHTEOUS	same	um_21
+U504	119:143	p510	yet	same	um_21
+U505	119:145	p511	I	same	um_21
+U506	119:148	p511	I	same	um_21
+U507	119:152	p511	I	same	um_21
+U508	119:153	p511	O	same	um_21
+U509	119:155	p511	far	same	um_21
+U510	119:163	p512	I	same	um_22
+U511	119:169	p512	LET	same	um_22
+U512	119:169	p512	me	same	um_22
+U513	119:171	p512	me	same	um_22
+U514	119:173	p513	I	same	um_22
+U515	120:6	p513	I	same	um_22
+U516	121:1	p513	I	same	um_22
+U517	122:1	p514	I	same	um_22
+U518	122:9	p514	thee	same	um_22
+U519	123:1	p514	UNTO thee	same	um_22
+U520	124:1	p515	IF	same	um_22
+U521	124:1	p515	been	same	um_22
+U522	124:4	p515	gone	same	um_22
+U523	126:1	p516	WHEN	same	um_22
+U524	126:4	p516	Yea,	same	um_22
+U525	127:1	p516	EXCEPT	same	um_22
+U526	127:1	p516	LORD build the	same	um_22
+U527	128:1	p517	BLESSED are	same	um_23
+U528	128:6	p517	life	same	um_23
+U529	128:7	p517	Yea,	same	um_23
+U530	129:4	p517	in	same	um_23
+U531	130:1	p518	OUT of	same	um_23
+U532	130:1	p518	deep have	same	um_23
+U533	130:1	p518	LORD:	same	um_23
+U534	131:1	p518	LORD, I am	same	um_23
+U535	132:1	p519	remember David: and all	same	um_23
+U536	132:5	p519	of	same	um_23
+U537	133:1	p520	BEHOLD,	same	um_23
+U538	134:1	p520	of	same	um_23
+U539	134:4	p520	made	same	um_23
+U540	135:1	p520	O	same	um_23
+U541	135:13	p521	from	same	um_23
+U542	136:1	p522	O	same	um_23
+U543	136:8	p522	for	same	um_23
+U544	136:9	p522	for	same	um_23
+U545	136:12	p522	out	same	um_23
+U546	136:15	p523	he	same	um_24
+U547	137:1	p523	BY	same	um_24
+U548	137:1	p523	sat	same	um_24
+U549	137:2	p523	our	same	um_24
+U550	137:6	p524	If I	same	um_24
+U551	138:1	p524	I	same	um_24
+U552	138:1	p524	my	same	um_24
+U553	138:1	p524	I	same	um_24
+U554	138:2	p524	Name,	same	um_24
+U555	139:1	p525	LORD,thou	book: O LORD, thou hast (a space after the comma)	um_24
+U556	139:6	p525	I	same	um_24
+U557	139:6	p525	I	same	um_24
+U558	139:7	p525	I	same	um_24
+U559	139:15	p526	written;	same	um_24
+U560	139:22	p526	Yea,	same	um_24
+U561	140:7	p527	the	same	um_24
+U562	141:1	p527	LORD,	same	um_24
+U563	141:1	p527	call upon	same	um_24
+U564	141:1	p527	haste thee unto me:	same	um_24
+U565	142:1	p528	I	same	um_24
+U566	143:1	p529	HEAR	same	um_25
+U567	143:3	p529	life	same	um_25
+U568	143:5	p529	I	same	um_25
+U569	143:5	p529	I	same	um_25
+U570	143:10	p529	art	same	um_25
+U571	143:10	p529	me	same	um_25
+U572	143:12	p530	slay mine enemies: and	same	um_25
+U573	144:9	p530	ten-	same	um_25
+U574	144:12	p531	our	same	um_25
+U575	145:1	p531	I	same	um_25
+U576	145:5	p531	me,	same	um_25
+U577	145:21	p532	Name	same	um_25
+U578	146:1	p532	LORD,	same	um_25
+U579	146:1	p532	I	same	um_25
+U580	147:1	p533	our	same	um_25
+U581	147:5	p533	and	same	um_25
+U582	147:8	p533	men;	same	um_25
+U583	148:1	p534	O	same	um_25
+U584	149:1	p535	O	same	um_25
+U585	150:1	p536	O	same	um_25
+
+# ---- PHASE 2c: letter case, read by eye (NOT RULED; group off) ----
+# columns: verse, cell word, occurrence, the book form, kind, strip.
+2:4	LORD	1	Lord	lord	cs2_00
+10:3	God	1	GOD	lord	um_01
+16:9	God	1	GOD	lord	um_02
+71:14	God	1	GOD	lord	um_12
+83:18	Jehovah	1	JEHOVAH	lord	q1_28, cs_01
+139:3	Lord	all	LORD	lord	cs2_00, cs2_01
+139:21	Lord	all	LORD	lord	cs2_00, cs2_01
+140:1	Lord	all	LORD	lord	cs2_00, cs2_01
+140:4	Lord	all	LORD	lord	cs2_00, cs2_01
+140:6	Lord	all	LORD	lord	cs2_00, cs2_01
+140:7	Lord	all	LORD	lord	cs2_00, cs2_01
+140:8	Lord	all	LORD	lord	cs2_00, cs2_01
+140:12	Lord	all	LORD	lord	cs2_00, cs2_01
+141:3	Lord	all	LORD	lord	cs2_00, cs2_01
+141:9	Lord	all	LORD	lord	cs2_00, cs2_01
+142:1	Lord	all	LORD	lord	cs2_00, cs2_01
+142:6	Lord	all	LORD	lord	cs2_00, cs2_01
+143:1	Lord	all	LORD	lord	cs2_00, cs2_01
+143:7	Lord	all	LORD	lord	cs2_00, cs2_01
+143:9	Lord	all	LORD	lord	cs2_00, cs2_01
+143:11	Lord	all	LORD	lord	cs2_00, cs2_01
+11:1	THE	1	the	opening	cs_00
+22:1	GOD	1	God	opening	um_03
+26:1	THOU	1	thou	opening	um_04, case_whole_00
+31:1	THEE	1	thee	opening	cs_00
+36:1	HEART	1	heart	opening	cs_00
+44:1	HAVE	1	have	opening	cs_00, um_07
+45:1	HEART	1	heart	opening	cs_00, um_07
+46:1	GOD	1	God	opening	um_07
+56:1	MERCIFUL	1	merciful	opening	case_whole_00, um_08
+57:1	MERCIFUL	1	merciful	opening	case_whole_00, um_09
+62:1	SOUL	1	soul	opening	cs_01, um_10
+67:1	GOD	1	God	opening	um_11
+71:1	THEE	1	thee	opening	um_11, case_whole_00
+76:1	JEWRY	1	Jewry	opening	um_12, case_whole_00
+82:1	GOD	1	God	opening	um_14
+89:1	SONG	1	song	opening	cs_01, um_15
+92:1	IS	1	is	opening	cs_02, um_15
+101:1	SONG	1	song	opening	cs_02, um_16
+119:25	SOUL	1	soul	opening	cs_02, um_20
+119:81	SOUL	1	soul	opening	um_20
+124:1	THE	1	the	opening	cs_02, um_22
+137:1	THE	1	the	opening	cs_03, um_24
+7:18	most	1	Most	caps	um_fix_00, look/p362_0718
+9:2	most	1	Most	caps	cs_00
+21:7	most	1	Most	caps	cs_00
+45:4	most	1	Most	caps	cs_00
+46:4	most	1	Most	caps	cs_00
+50:1	most	1	Most	caps	cs_00
+50:14	most	1	Most	caps	cs2_00
+57:2	most	1	Most	caps	cs_01
+73:11	most	1	Most	caps	cs_01
+77:10	most	1	Most	caps	cs_01
+78:18	most	1	Most	caps	cs_01
+78:57	most	1	Most	caps	cs_01
+82:6	most	1	Most	caps	cs_01
+83:18	most	1	Most	caps	cs_01
+87:5	most	1	Most	caps	cs_01
+91:1	most	1	Most	caps	cs_02
+92:1	most	1	Most	caps	cs_02
+107:11	most	1	Most	caps	cs_02
+50:1	mighty	1	Mighty	caps	cs_00
+57:2	high	1	High	caps	cs_01
+78:35	high	1	High	caps	cs_01
+78:57	high	1	High	caps	cs_01
+13:6	Highest	1	highest	caps	cs_00, cs2_00
+18:51	Anointed	1	anointed	caps	cs4_00
+20:6	Anointed	1	anointed	caps	cs2_00
+28:9	Anointed	1	anointed	caps	cs_00
+84:9	Anointed	1	anointed	caps	cs_01
+89:37	Anointed	1	anointed	caps	cs_02, chk_89_37
+89:50	Anointed	1	anointed	caps	cs2_00, q1_31
+105:15	Anointed	1	anointed	caps	cs2_00, q1_36
+132:10	Anointed	1	anointed	caps	cs_03
+132:18	Anointed	1	anointed	caps	cs_03
+106:7	Red sea	1	Red Sea	caps	cs_02, cs_03, q1_47
+106:9	Red sea	1	Red Sea	caps	cs_02, cs_03, q1_47
+106:22	Red sea	1	Red Sea	caps	cs_02, cs_03, q1_47
+136:13	Red sea	1	Red Sea	caps	cs_02, cs_03, q1_47
+136:15	Red sea	1	Red Sea	caps	cs_02, cs_03, q1_47
+22:3	worship	1	Worship	caps	cs_00
+24:8	it	1	It	caps	cs_00
+24:10	even	1	Even	caps	cs_00
+26:1	judge	1	Judge	caps	um_04, case_whole_00
+36:7	How	1	how	caps	cs_00, case_whole_00
+68:5	father	1	Father	caps	cs_01
+74:15	Leviathan	1	leviathan	caps	cs_01
+104:35	praise	1	Praise	caps	cs_02, case_whole_00
+106:46	and	2	And	caps	cs_02, case_whole_00
+110:4	priest	1	Priest	caps	cs_02
+132:5	mighty	1	Mighty	caps	cs_03
+139:19	depart	1	Depart	caps	cs_03
+10:9	For	-	same	-	cs*
+38:15	For	-	same	-	cs*
+51:3	For	-	same	-	cs*
+73:26	For	-	same	-	cs*
+89:18	For	-	same	-	cs*
+103:16	For	-	same	-	cs*
+107:16	For	-	same	-	cs*
+107:25	For	-	same	-	cs*
+109:30	For	-	same	-	cs*
+130:4	For	-	same	-	cs*
+90:6	In	-	same	-	cs*
+129:8	The	-	same	-	cs*
+76:1	IN	-	same	-	cs*
+2:2	Anointed	-	same	-	cs*
+56:2	most	-	same	-	cs*
+73:8	most	-	same	-	cs*
+89:9	most	-	same	-	cs*
+92:7	most	-	same	-	cs*
+13:6	most	-	same	-	cs*
+37:24	LORD	-	same	-	cs*
+68:18	LORD	-	same	-	cs*
+104:35	LORD	-	same	-	cs*
+110:2	LORD	-	same	-	cs*
+118:19	LORD	-	same	-	cs*
+135:5	Lord	-	same	-	cs*
+136:3	Lord	-	same	-	cs*
+136:27	Lord	-	same	-	cs*
+145:15	Lord	-	same	-	cs*
+138:1	Lord	-	same	-	cs*
+147:5	Lord	-	same	-	cs*

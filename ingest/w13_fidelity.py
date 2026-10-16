@@ -75,6 +75,11 @@ def main():
                 # them against the scan's own reading of that line.
                 import w17_witness
                 toks = toks - w17_witness.introduced()
+                # Wave 22: the pointing/punctuation/word-form pass read the
+                # same scan by eye; its introduced forms are attested there
+                # (w22_gates checks each against the scan OCR).
+                import w22_witness
+                toks = toks - w22_witness.introduced()
                 missing = sorted(w for w in toks if w not in stream)
             elif ed == "1979":
                 # Wave 19: the 1979 e-text is no longer the only source.

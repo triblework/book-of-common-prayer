@@ -476,6 +476,56 @@ cannot tell `:` from `;`); no reading depends on the scans' own OCR layers;
 and the 1979 Psalter, read against the publisher's text in Wave 19, is the
 only American psalter not read against a page scan.
 
+### The 1892 Psalter: the full pointing and punctuation collation (Wave 22)
+
+Wave 17 read the 1892 Psalter against the Standard Book scan for its words and
+spellings, and checked the pointing only where Wave 13's mediant gate had
+flagged an anomaly, because page OCR cannot tell `:` from `;`. Wave 22 is the
+pass Wave 17 said it could not make: **every mediant in all 2,508 verses has
+been read by eye**, off 4400px crops of the pivot word stacked into labelled
+strips (about 150 strips in all). The machine found the places and classed
+each verse; a 150-verse random control (seed 20261016) disagreed with the
+machine in 0 of 150 at the mediant, and the full pass over the 2,051 verses
+the machine called clean found no further difference. Rulings R20 and R21 in
+`RULINGS.md`.
+
+**Pointing: four verses differ.** At 39:14 and 100:2 the book sets the colon on
+a different word (*sojourner*, *ourselves*) and the mediant moves there. At
+107:1 and 139:7 the book sets a semicolon where the mediant stands and no
+colon anywhere in the verse; the cell keeps the repository's one structural
+mediant ` : ` there and a flag records the book's mark. Every verse still
+carries exactly one mediant.
+
+**Punctuation: the carrier was keyed over the 1662 Psalter and carried its
+stops.** 440 places where the page OCR and the cell disagreed were read by
+eye; 328 were real differences, and ordinary punctuation now follows the book
+(114 commas the book adds, 64 it lacks, 80 verse-final `:` or `;` where the
+cell had `.`, 52 `;` for `,`, 14 other mid-verse marks, 3 capitals after a new
+full stop). Non-mediant `:` and `;` are set closed up, as every other stop is;
+only the mediant is spaced. One damaged stop (139:11) is flagged.
+
+**Word forms and spacing.** An eye pass over the 725 words the alignment could
+not match found 32 word forms Wave 17 had missed — carrier slips (*thou I
+walk* 23:4, *more then* 52:4, *our* for *out* 22:7 and 68:31, *thy* for *they*
+107:28 and 124:2, a *had* the book does not print 106:37) and 1662 spellings
+where the book is modern (*rasor*, *musick*, *havock*, *cloke*, *intreated*,
+*unperfect*, *unpatient*, *slipt*, *stablished*, and *strong hold* for the
+book's *stronghold*, three times) — and 17 spacing slips. "THE END OF THE
+PSALTER", which the carrier had fused into 150:6, is deleted as book
+furniture (R20), as the 1928 and 1979 keyings' end markers were.
+
+In all, 378 edits in 315 verses, every one an eye read with its scan page
+(`ingest/w22_evidence.json`, 477 records; the eye record is
+`ingest/w22_eye.txt`). The independent change log still agrees 55 of 55.
+
+**Not taken, and recorded.** Letter case: the book and the cells differ in 94
+places (small-capital LORD printed "Lord" sixteen times in Psalms 139–143;
+the book capitalizing only the first word of a verse 1; *Most High*, *anointed*,
+*Red Sea* and the like). They are eye-read, keyed and switched off pending a
+ruling (`RULINGS.md`, open questions). The hyphen at 1:3 *water-side* stays
+flagged: the book breaks the word at a line end, and a search of all 596 pages
+finds no other occurrence.
+
 ---
 
 ## English line (`main`)
@@ -633,7 +683,10 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1789 / 1892 (American) Litany | `in the day of judgment` | The justus 1789 page prints `in the day our judgment`; `our` is an OCR slip for `of` (cf. 1662 `in the day of judgement`). |
 | 1789 / 1892 (American) Litany | `whensoever they oppress us; and graciously hear us` | The justus page prints `oppress us . and graciously` (damaged semicolon); read against the 1662 parallel. |
 | 1789 / 1892 (American) Litany | `Fulfill` | The justus page prints `Fulfill`; the same-edition 1789 Evening Prayer prints `Fulfil`; internal commas restored from the parallel. |
-| 1892 (American) Psalm 1 | `water-side` | the 1892 Standard Book scan breaks this word across a line ("water-" / "side"), so the page cannot say whether the word is hyphenated; the Standard Book's keyed text prints "waterside". Carried as the 1892 PDF prints it |
+| 1892 (American) Psalm 1 | `water-side` | the 1892 Standard Book scan breaks this word across a line ("water-" / "side", scan p. 357), and a search of all 596 scan pages finds no other occurrence, so the book cannot say whether the word is hyphenated; the book hyphenates the other water- compounds it sets mid-line, which is analogy, not proof; the Standard Book's keyed text breaks the word at the same line end, it does not print "waterside". Carried as the carrier prints it |
+| 1892 (American) Psalm 107 | `gracious :` | the 1892 Standard Book (scan p. 487) prints a semicolon after "gracious" and no colon anywhere in this verse; the cell keeps the repo's one mediant " : " there (R21) |
+| 1892 (American) Psalm 139 | `there :` | the 1892 Standard Book (scan p. 525) prints a semicolon after the first "there" and no colon anywhere in this verse; the cell keeps the repo's one mediant " : " there (R21) |
+| 1892 (American) Psalm 139 | `with thee,` | the stop after "with thee" (1892 Standard Book, scan p. 525, last line) is damaged type; read at 3x as a comma, as the cell prints it, but it could be a semicolon |
 | 1892 (American) Litany | `That it may please thee to send forth laborers into thy harvest` | The justus 1789 page marks this petition `added in the 1892 BCP`; the only indicated 1892 difference. |
 | 1549 Communion | `The Epistle written in the Chapiter of to the` | 1549 prints a fill-in formula with blank slots for the proper Epistle's book/chapter/verse; the blanks did not survive the HTML capture. |
 | 1552 Communion | `God of goddes` | Nicene Creed; several printings read `God of God`. |

@@ -1,0 +1,442 @@
+# w22_punct.tsv -- 1892 cell stops vs the Standard Book scan, read by eye.
+# id	verse	scan page	word	cell mark	book mark (eye)	OCR mark	position	class	source	cell fragment (<=8 words)	note	word index
+1	2:2	358	Anointed	.	:	:	end	final	ocr	and against his Anointed.		19
+2	2:5	358	displeasure	.	:	:	end	final	ocr	in his sore displeasure.		15
+3	2:12	358	yea	,	-	-	in	comma-missing	ocr	wrath be kindled, yea, but a		20
+4	3:1	358	me	.	.	-	end	noise	ocr	that rise against me.		14
+5	4:3	359	LORD	,	-	-	in	comma-missing	ocr	call upon the LORD, he will		20
+6	4:4	359	chamber	,	,	;	in	noise	ocr	and in your chamber, and be		14
+7	4:4	359	still	.	.	-	end	noise	ocr	chamber, and be still.		17
+8	5:2	360	King	,	-	-	in	comma-missing	ocr	my calling, my King, and my		10
+9	6:4	361	me	-	,	,	in	comma-added	ocr	: O save me for thy		10
+10	6:6	361	groaning	;	,	,	in	semi-comma	ocr	weary of my groaning; every night		5
+11	7:2	361	soul	,	-	-	in	comma-missing	ocr	he devour my soul, like a		4
+12	7:4	361	enemy	,	;	;	end	final	ocr	cause is mine enemy,		23
+13	7:12	362	strong	-	,	,	in	comma-added	ocr	a righteous Judge, strong and patient		5
+14	7:14	362	persecutors	-	.	.	end	final	ocr	arrows against the persecutors	the cell's verse ends with no stop at all -- a carrier slip	15
+15	8:3	363	stars	,	-	-	in	comma-missing	ocr	moon and the stars, which thou		16
+16	8:6	363	feet	;	:	:	end	final	ocr	subjection under his feet;		22
+17	9:1	363	WILL	-	-	,	in	noise	ocr	I WILL give thanks		1
+18	9:13	364	death	.	;	;	end	final	ocr	the gates of death.		26
+19	9:15	364	privily	,	-	-	in	comma-missing	ocr	which they hid privily, is their		18
+20	10:1	365	trouble	?	?	-	end	noise	ocr	needful time of trouble?		17
+21	10:2	365	ungodly	-	,	,	in	comma-added	ocr	The ungodly for his		1
+22	10:2	365	lust	-	,	,	in	comma-added	ocr	for his own lust doth persecute		5
+23	10:9	365	secretly	,	;	;	in	semi-comma	ocr	he lieth waiting secretly, even as		4
+24	10:14	366	it	.	?	?	end	final	ocr	carest not for it.		19
+25	10:15	366	wrong	.	,	,	end	final	ocr	beholdest ungodliness and wrong.		10
+26	12:1	367	me	,	,	-	in	noise	ocr	HELP me, LORD, for	12:1 'HELP me, LORD' -- the alignment had mapped the incipit's 'me'	1
+27	12:1	367	men	,	.	.	end	final	ocr	the children of men,		21
+28	12:5	367	Now	-	,	,	in	comma-added	ocr	Now for the		0
+29	12:7	367	silver	,	-	-	in	comma-missing	ocr	even as the silver, which from		11
+30	13:1	368	LORD	,	;	;	in	semi-comma	ocr	forget me, O LORD, for ever		7
+31	13:3	368	death	.	;	;	end	final	ocr	sleep not in death.		16
+32	14:5	368	sepulchre	,	;	;	in	semi-comma	ocr	is an open sepulchre, with their		5
+33	16:2	370	God	,	;	;	in	semi-comma	ocr	Thou art my God, my goods		12
+34	16:3	370	saints	,	-	-	in	comma-missing	ocr	is upon the saints, that are		6
+35	17:4	371	works	,	-	-	in	comma-missing	ocr	Because of men's works, that are		3
+36	17:4	371	destroyer	.	.	:	end	noise	ocr	ways of the destroyer.		22
+37	17:6	371	I	-	-	.	in	noise	ocr	I have called		0
+38	17:8	371	wings	.	,	,	end	final	ocr	shadow of thy wings.		15
+39	17:9	371	ungodly	-	,	,	in	comma-added	ocr	From the ungodly that trouble		2
+40	17:9	371	about	-	,	,	in	comma-added	ocr	compass me round about to take		11
+41	17:11	371	ground	.	;	;	end	final	ocr	down to the ground.		15
+42	17:12	371	whelp	,	-	-	in	comma-missing	ocr	were a lion's whelp, lurking in		16
+43	18:1	372	strength	;	.	.	in	other-mid	ocr	O LORD, my strength ; the	book: 'strength. The LORD' -- a full stop AND a capital T (cell: ' ; the')	7
+44	18:1	372	saviour	,	,	-	in	noise	ocr	defence : my saviour, my God,		18
+45	18:1	372	trust	,	;	;	in	semi-comma	ocr	whom I will trust, my buckler,		28
+46	18:5	372	God	.	:	:	end	final	ocr	complain unto my God.		13
+47	18:6	372	him	,	;	;	in	semi-comma	ocr	shall come before him, it shall		17
+48	18:11	373	him	,	-	-	in	comma-missing	ocr	pavilion round about him, with dark		10
+49	18:11	373	water	-	,	,	in	comma-added	ocr	him, with dark water and thick		13
+50	18:12	373	hailstones	,	-	-	in	comma-missing	ocr	clouds removed : hailstones, and coals		9
+51	18:13	373	hailstones	,	-	-	in	comma-missing	ocr	his thunder : hailstones, and coals		13
+52	18:15	373	discovered	,	-	-	in	comma-missing	ocr	round world were discovered, at thy		14
+53	18:15	373	chiding	,	,	;	in	noise	ocr	discovered, at thy chiding, O LORD		17
+54	18:18	373	upholder	.	.	:	end	noise	ocr	LORD was my upholder.		14
+55	18:32	374	God	,	-	-	in	comma-missing	ocr	It is God, that girdeth		2
+56	18:47	375	liveth	,	;	;	in	semi-comma	ocr	The LORD liveth, and blessed		2
+57	18:47	375	salvation	;	:	:	end	final	ocr	God of my salvation;		16
+58	19:15	377	strength	,	-	-	in	comma-missing	ocr	LORD : my strength, and my		3
+59	20:1	377	thee	;	:	:	end	final	ocr	of Jacob defend thee;		17
+60	20:2	377	Sion	;	:	:	end	final	ocr	thee out of Sion;		11
+61	20:3	377	burnt-sacrifice	;	:	:	end	final	ocr	and accept thy burnt-sacrifice;		7
+62	20:8	377	down	,	-	-	in	comma-missing	ocr	They are brought down, and fallen		3
+63	20:8	377	risen	,	-	-	in	comma-missing	ocr	but we are risen, and stand		9
+64	21:4	378	thee	,	;	;	in	semi-comma	ocr	asked life of thee, and thou		4
+65	22:1	378	me	;	;	-	in	noise	ocr	God, look upon me; why hast	22:1 'look upon me;' -- the alignment had mapped the second 'me'	6
+66	22:1	378	thou	-	-	,	in	noise	ocr	me; why hast thou forsaken me		9
+67	22:10	379	God	,	-	-	in	comma-missing	ocr	thou art my God, even from		14
+68	22:11	379	me	,	;	;	in	semi-comma	ocr	go not from me, for trouble		4
+69	22:14	379	water	,	,	;	in	noise	ocr	poured out like water, and all		5
+70	22:20	380	dog	.	.	:	end	noise	ocr	power of the dog.		13
+71	22:23	380	Jacob	,	;	;	in	semi-comma	ocr	the seed of Jacob, and fear		16
+72	22:24	380	despised	,	-	-	in	comma-missing	ocr	he hath not despised, nor abhorred,		4
+73	22:24	380	abhorred	,	-	-	in	comma-missing	ocr	not despised, nor abhorred, the low		6
+74	22:24	380	him	,	;	;	in	semi-comma	ocr	his face from him, but when		20
+75	22:26	380	eat	-	,	,	in	comma-added	ocr	The poor shall eat and be		3
+76	22:29	380	eaten	-	,	,	in	comma-added	ocr	earth : have eaten and worshipped.		8
+77	23:1	381	nothing	.	.	:	end	noise	ocr	can I lack nothing.		9
+78	23:3	381	righteousness	,	-	-	in	comma-missing	ocr	the paths of righteousness, for his		13
+79	24:7	382	gates	,	;	;	in	semi-comma	ocr	heads, O ye gates, and be		6
+80	24:9	382	gates	,	;	;	in	semi-comma	ocr	heads, O ye gates, and be		6
+81	25:4	382	long	.	.	:	end	noise	ocr	all the day long.		26
+82	25:8	383	way	.	.	-	end	noise	ocr	he learn his way.		19
+83	25:10	383	sin	,	;	;	in	semi-comma	ocr	merciful unto my sin, for it		10
+84	25:15	383	desolate	-	,	,	in	comma-added	ocr	for I am desolate and in		12
+85	26:1	383	my	-	-	:	in	noise	ocr	BE THOU my judge, O		2
+86	26:6	384	altar	.	;	;	end	final	ocr	go to thine altar.		16
+87	26:9	384	blood-thirsty	.	;	;	end	final	ocr	life with the blood-thirsty.		14
+88	27:7	385	oblation	-	,	,	in	comma-added	ocr	his dwelling an oblation with great		8
+89	27:7	385	sing	,	-	-	in	comma-missing	ocr	: I will sing, and speak		14
+90	27:14	385	wrong	.	.	:	end	noise	ocr	such as speak wrong.		23
+91	28:1	385	LORD	-	,	,	in	comma-added	ocr	I cry, O LORD my strength		6
+92	28:3	386	me	,	-	-	in	comma-missing	ocr	away, neither destroy me, with the		7
+93	28:8	386	strength	-	,	,	in	comma-added	ocr	LORD is my strength and my		4
+94	29:8	387	honour	.	.	:	end	noise	ocr	speak of his honour.		26
+95	30:4	387	him	-	,	,	in	comma-added	ocr	give thanks unto him for a		14
+96	30:6	388	goodness	-	,	,	in	comma-added	ocr	LORD, of thy goodness hast made		15
+97	30:6	388	strong	.	.	:	end	noise	ocr	my hill so strong.		21
+98	30:11	388	Hear	,	,	;	in	noise	ocr	Hear, O LORD,		0
+99	30:12	388	gladness	.	:	:	end	final	ocr	girded me with gladness.		17
+100	31:1	388	confusion	,	;	;	in	semi-comma	ocr	be put to confusion, deliver me		15
+101	31:1	388	righteousness	.	.	-	end	noise	ocr	me in thy righteousness.	line-end 'righteous-|ness.'; read off recrop_31_1	20
+102	31:13	389	without	-	,	,	in	comma-added	ocr	did see me without conveyed themselves		28
+103	31:14	389	forgotten	,	-	-	in	comma-missing	ocr	I am clean forgotten, as a		3
+104	31:15	389	side	,	;	;	in	semi-comma	ocr	is on every side, while they		14
+105	31:20	389	despitefully	,	-	-	in	comma-missing	ocr	cruelly, disdainfully, and despitefully, speak against		12
+106	32:8	391	in	,	;	;	in	semi-comma	ocr	to hide me in, thou shalt		7
+107	33:12	392	people	,	-	-	in	comma-missing	ocr	Blessed are the people, whose God		3
+108	33:12	392	folk	,	-	-	in	comma-missing	ocr	blessed are the folk, that he		14
+109	33:12	392	him	-	,	,	in	comma-added	ocr	hath chosen to him to be		20
+110	33:13	392	dwelling	-	,	,	in	comma-added	ocr	habitation of his dwelling he considereth		18
+111	34:1	393	WILL	-	-	,	in	noise	ocr	I WILL alway give		1
+112	35:4	394	confounded	-	,	,	in	comma-added	ocr	Let them be confounded and put		3
+113	35:4	394	back	-	,	,	in	comma-added	ocr	them be turned back and brought		17
+114	35:8	395	net	,	-	-	in	comma-missing	ocr	unawares, and his net, that he		10
+115	35:8	395	privily	,	-	-	in	comma-missing	ocr	he hath laid privily, catch himself		15
+116	35:19	395	eyes	-	,	,	in	comma-added	ocr	wink with their eyes that hate		18
+117	35:21	396	thee	,	!	!	in	other-mid	ocr	: Fie on thee, fie on		11
+118	35:21	396	thee	,	!	!	in	other-mid	ocr	thee, fie on thee, we saw		14
+119	35:23	396	God	,	-	-	in	comma-missing	ocr	my cause, my God, and my		13
+120	35:25	396	There	,	!	!	in	other-mid	ocr	in their hearts, There, there, so		7
+121	35:25	396	there	,	!	!	in	other-mid	ocr	their hearts, There, there, so would		8
+122	35:28	396	praise	-	,	,	in	comma-added	ocr	and of thy praise all the		15
+123	35:28	396	long	.	.	:	end	noise	ocr	all the day long.		19
+124	36:3	396	unrighteous	,	-	-	in	comma-missing	ocr	his mouth are unrighteous, and full		6
+125	37:13	398	coming	.	.	:	end	noise	ocr	his day is coming.		15
+126	37:20	399	perish	;	,	,	in	semi-comma	ocr	ungodly, they shall perish; and the		6
+127	37:22	399	God	-	,	,	in	comma-added	ocr	are blessed of God shall possess		5
+128	37:22	399	him	-	,	,	in	comma-added	ocr	are cursed of him shall be		16
+129	38:1	400	displeasure	.	:	:	end	final	ocr	in thy heavy displeasure.		16
+130	38:8	401	feeble	,	-	-	in	comma-missing	ocr	I am feeble, and sore		2
+131	38:12	401	long	.	.	:	end	noise	ocr	all the day long.		29
+132	38:15	401	LORD	,	,	-	in	noise	ocr	in thee, O LORD, have I		4
+133	38:17	401	I	,	-	-	in	comma-missing	ocr	And I, truly, am		1
+134	38:17	401	truly	,	-	-	in	comma-missing	ocr	And I, truly, am set		2
+135	39:4	402	me	,	;	;	in	semi-comma	ocr	was hot within me, and while		5
+136	39:4	402	tongue	;	:	:	end	final	ocr	spake with my tongue;		23
+137	39:13	402	prayer	,	,	;	in	noise	ocr	Hear my prayer, O LORD,		2
+138	39:13	403	tears	.	;	;	end	final	ocr	peace at my tears.		18
+139	39:14	403	sojourner	,	:	:	in	other-mid	ocr	: and a sojourner, as all		9
+140	40:6	403	thoughts	-	,	,	in	comma-added	ocr	be also thy thoughts which are		18
+141	40:6	403	thee	:	.	.	end	final	ocr	ordereth them unto thee:		33
+142	40:9	403	Burnt-offerings	,	-	-	in	comma-missing	ocr	Burnt-offerings, and sacrifice		0
+143	40:9	403	sin	,	-	-	in	comma-missing	ocr	and sacrifice for sin, hast thou		4
+144	40:9	403	said	-	,	,	in	comma-added	ocr	required : then said I, Lo,		10
+145	40:9	403	come	,	;	;	end	final	ocr	I, Lo, I come,		14
+146	40:12	404	truth	-	,	,	in	comma-added	ocr	been of thy truth and of		15
+147	40:15	404	me	-	,	,	in	comma-added	ocr	such hold upon me that I		14
+148	40:17	404	ashamed	-	,	,	in	comma-added	ocr	Let them be ashamed and confounded		3
+149	40:17	404	backward	-	,	,	in	comma-added	ocr	them be driven backward and put		19
+150	40:18	404	thee	,	!	!	in	other-mid	ocr	me, Fie upon thee, fie upon		14
+151	40:18	404	thee	.	!	!	end	final	ocr	thee, fie upon thee.		17
+152	40:19	404	thee	-	,	,	in	comma-added	ocr	those that seek thee be joyful		5
+153	40:19	404	salvation	-	,	,	in	comma-added	ocr	as love thy salvation say alway,		18
+154	40:21	404	tarrying	,	,	;	in	noise	ocr	make no long tarrying, O my		9
+155	41:3	405	him	,	-	-	in	comma-missing	ocr	The LORD comfort him, when he		3
+156	41:6	405	himself	,	;	;	in	semi-comma	ocr	conceiveth falsehood within himself, and when		16
+157	41:6	405	forth	-	,	,	in	comma-added	ocr	when he cometh forth he telleth		21
+158	41:7	405	evil	.	:	:	end	final	ocr	they imagine this evil.		14
+159	41:9	405	friend	,	-	-	in	comma-missing	ocr	mine own familiar friend, whom I		5
+160	42:1	405	God	.	.	-	end	noise	ocr	after thee, O God.		14
+161	43:2	407	strength	,	;	;	in	semi-comma	ocr	God of my strength, why hast		7
+162	43:3	407	dwelling	.	.	:	end	noise	ocr	and to thy dwelling.		23
+163	44:1	407	old	;	:	:	end	final	ocr	their time of old;		21
+164	44:2	407	nations	-	,	,	in	comma-added	ocr	hast destroyed the nations and cast		19
+165	44:6	408	under	,	-	-	in	comma-missing	ocr	we tread them under, that rise		15
+166	44:26	409	us	-	,	,	in	comma-added	ocr	: and deliver us for thy		6
+167	45:1	409	King	.	.	-	end	noise	ocr	made unto the King.		19
+168	45:17	410	fathers	-	,	,	in	comma-added	ocr	Instead of thy fathers thou shalt		3
+169	47:6	411	King	.	.	:	end	noise	ocr	praises unto our King.		15
+170	47:7	412	understanding	.	.	:	end	noise	ocr	ye praises with understanding.		13
+171	48:7	412	ever	.	.	:	end	noise	ocr	the same for ever.		28
+172	49:3	413	understanding	.	.	:	end	noise	ocr	shall muse of understanding.		12
+173	49:10	413	die	,	-	-	in	comma-missing	ocr	wise men also die, and perish		7
+174	49:14	414	sheep	,	;	;	in	semi-comma	ocr	the hell like sheep, death gnaweth		6
+175	49:14	414	dwelling	.	.	:	end	noise	ocr	out of their dwelling.		32
+176	50:18	415	adulterers	.	.	:	end	noise	ocr	partaker with the adulterers.		15
+177	50:20	415	satest	,	-	-	in	comma-missing	ocr	Thou satest, and spakest	book: 'Thou sattest and spakest' -- no comma AND the spelling sattest (cell: 'satest,')	1
+178	50:21	415	I	-	-	.	in	noise	ocr	thyself : but I will reprove		24
+179	50:23	416	right	-	,	,	in	comma-added	ocr	ordereth his conversation right will I		16
+180	52:7	417	scorn	;	:	:	end	final	ocr	laugh him to scorn;		13
+181	53:5	418	understanding	,	-	-	in	comma-missing	ocr	not they without understanding, that work		4
+182	54:1	418	strength	.	.	-	end	noise	ocr	me in thy strength.		13
+183	54:2	419	prayer	,	,	;	in	noise	ocr	Hear my prayer, O God		2
+184	55:1	419	petition	.	.	-	end	noise	ocr	thyself from my petition.		11
+185	55:2	419	vexed	.	;	;	end	final	ocr	prayer, and am vexed.		15
+186	55:3	419	mischief	;	,	,	in	semi-comma	ocr	do me some mischief; so maliciously		19
+187	55:12	420	enemy	,	-	-	in	comma-missing	ocr	not an open enemy, that hath		6
+188	55:12	420	it	.	;	;	end	final	ocr	could have borne it.		19
+189	55:13	420	adversary	,	-	-	in	comma-missing	ocr	was it mine adversary, that did		4
+190	55:13	420	him	.	;	;	end	final	ocr	hid myself from him.		20
+191	56:6	421	together	,	,	;	in	noise	ocr	They hold all together, and keep		3
+192	56:13	422	living	.	.	:	end	noise	ocr	light of the living.		24
+193	57:1	422	me	,	;	;	in	semi-comma	ocr	be merciful unto me, for my		9
+194	57:4	422	lions	.	;	;	end	final	ocr	soul is among lions.		12
+195	57:5	422	sword	-	.	.	end	final	ocr	tongue a sharp sword	the cell's verse ends with no stop at all -- a carrier slip	25
+196	57:8	422	sing	,	-	-	in	comma-missing	ocr	: I will sing, and give		12
+197	58:1	423	men	?	?	!	end	noise	ocr	ye sons of men?		22
+198	58:4	423	adder	-	,	,	in	comma-added	ocr	like the deaf adder that stoppeth		14
+199	59:8	424	thou	.	,	,	in	other-mid	ocr	But thou. O LORD,	cell prints a full stop inside the vocative 'thou. O LORD' -- a carrier slip	1
+200	59:11	424	Lord	,	-	-	in	comma-missing	ocr	them down, O Lord, our defence.		20
+201	59:14	424	dog	,	,	;	in	noise	ocr	grin like a dog, and will		10
+202	61:1	425	prayer	.	.	-	end	noise	ocr	ear unto my prayer.		9
+203	62:7	427	health	,	-	-	in	comma-missing	ocr	God is my health, and my		4
+204	62:7	427	might	,	;	;	in	semi-comma	ocr	rock of my might, and in		12
+205	62:9	427	weights	,	;	;	in	semi-comma	ocr	deceitful upon the weights, they are		18
+206	62:10	427	robbery	,	;	;	in	semi-comma	ocr	in wrong and robbery, give not		6
+207	63:1	427	God	,	,	.	in	noise	ocr	O God, thou art	63:1 'O God, thou art' -- display type; a comma at 3x	1
+208	63:2	427	thee	,	;	;	in	semi-comma	ocr	soul thirsteth for thee, my flesh		4
+209	64:5	428	themselves	-	,	,	in	comma-added	ocr	and commune among themselves how they		8
+210	64:5	428	snares	,	;	;	in	semi-comma	ocr	they may lay snares, and say		13
+211	64:5	428	say	-	,	,	in	comma-added	ocr	lay snares, and say that no		15
+212	65:11	429	furrows	,	;	;	in	semi-comma	ocr	Thou waterest her furrows, thou sendest		3
+213	65:14	430	sing	.	.	:	end	noise	ocr	shall laugh and sing.		21
+214	66:1	430	Name	,	;	;	in	semi-comma	ocr	honour of his Name, make his		15
+215	67:1	431	us	:	;	;	end	final	ocr	be merciful unto us:		20
+216	67:6	431	blessing	.	.	:	end	noise	ocr	give us his blessing.		18
+217	68:3	432	glad	-	,	,	in	comma-added	ocr	the righteous be glad and rejoice		5
+218	68:7	432	wilderness	;	,	,	end	final	ocr	wentest through the wilderness;		14
+219	68:17	433	them	,	-	-	in	comma-missing	ocr	Lord is among them, as in		16
+220	68:28	434	thing	,	,	;	in	noise	ocr	: stablish the thing, O God,		10
+221	68:30	434	spearmen	,	-	-	in	comma-missing	ocr	company of the spearmen, and multitude		5
+222	68:33	434	all	-	,	,	in	comma-added	ocr	the heavens over all from the		6
+223	68:33	434	voice	,	;	;	in	semi-comma	ocr	send out his voice, yea, and		16
+224	68:35	434	people	;	.	.	in	other-mid	ocr	power unto his people; blessed be	book: 'people. Blessed be God' -- a full stop AND a capital B (cell: '; blessed')	22
+225	69:1	434	me	,	,	-	in	noise	ocr	SAVE me, O God	69:1 'SAVE me, O God' -- the alignment had mapped the incipit's 'me'	1
+226	69:1	434	soul	.	.	-	end	noise	ocr	even unto my soul.		13
+227	69:23	436	falling	.	.	:	end	noise	ocr	an occasion of falling.		28
+228	70:3	437	There	,	!	!	in	other-mid	ocr	cry over me, There, there.		14
+229	70:3	437	there	.	!	!	end	final	ocr	over me, There, there.		15
+230	70:6	437	helper	-	,	,	in	comma-added	ocr	Thou art my helper and my		3
+231	70:6	437	tarrying	.	.	:	end	noise	ocr	make no long tarrying.		12
+232	71:1	438	me	-	,	,	in	comma-added	ocr	me and deliver me in thy		21
+233	71:1	438	righteousness	,	;	;	in	semi-comma	ocr	me in thy righteousness, incline thine		24
+234	71:2	438	strong	-	W	,	in	word	ocr	Be thou my strong hold, whereunto		3
+235	71:2	438	defence	-	,	,	in	comma-added	ocr	my house of defence and my		22
+236	71:3	438	cruel	-	-	.	in	noise	ocr	the unrighteous and cruel man.		20
+237	71:7	438	long	.	.	-	end	noise	ocr	all the day long.		21
+238	71:9	438	me	,	;	;	in	semi-comma	ocr	enemies speak against me, and they		5
+239	71:17	439	thee	?	!	!	end	final	ocr	is like unto thee?		22
+240	71:18	439	me	,	!	!	in	other-mid	ocr	hast thou showed me, and yet		9
+241	71:19	439	side	.	:	:	end	final	ocr	me on every side.		12
+242	71:20	439	thee	-	,	,	in	comma-added	ocr	will I praise thee and thy		4
+243	73:4	441	strong	.	.	:	end	noise	ocr	are lusty and strong.		12
+244	73:13	441	morning	.	.	:	end	noise	ocr	and chastened every morning.		11
+245	73:21	442	was	-	-	,	in	noise	ocr	So foolish was I, and		2
+246	73:26	442	For	-	-	,	in	noise	ocr	For lo, they		0
+247	74:2	443	purchased	-	,	,	in	comma-added	ocr	whom thou hast purchased and redeemed		8
+248	74:10	443	tokens	,	;	;	in	semi-comma	ocr	see not our tokens, there is		4
+249	74:11	443	Name	,	?	?	in	other-mid	ocr	enemy blaspheme thy Name, for ever?		17
+250	74:13	443	earth	-	,	,	in	comma-added	ocr	is done upon earth he doeth		13
+251	76:5	445	nothing	.	.	:	end	noise	ocr	mighty have found nothing.		19
+252	76:8	445	still	;	,	,	end	final	ocr	trembled, and was still;		15
+253	77:2	446	ran	-	,	,	in	comma-added	ocr	: my sore ran and ceased		12
+254	77:4	446	feeble	,	-	-	in	comma-missing	ocr	I am so feeble, that I		8
+255	78:30	449	eat	-	,	,	in	comma-added	ocr	So they did eat and were		3
+256	78:30	449	filled	,	;	;	in	semi-comma	ocr	and were well filled, for he		7
+257	78:50	450	displeasure	-	,	,	in	comma-added	ocr	his wrath, anger, displeasure and trouble		10
+258	78:55	451	mountain	-	,	,	in	comma-added	ocr	even to his mountain which he		12
+259	78:60	451	Israel	.	;	;	end	final	ocr	sore displeasure at Israel.		12
+260	78:71	452	sheep-folds	.	:	:	end	final	ocr	away from the sheep-folds.		12
+261	79:11	453	heathen	-	,	,	in	comma-added	ocr	showed upon the heathen in our		16
+262	80:2	453	come	,	-	-	in	comma-missing	ocr	thy strength, and come, and help		10
+263	80:2	453	us	.	.	-	end	noise	ocr	come, and help us.		13
+264	80:9	454	root	-	,	,	in	comma-added	ocr	it had taken root it filled		10
+265	81:1	454	Jacob	.	.	-	end	noise	ocr	the God of Jacob.		15
+266	82:5	456	learned	-	,	,	in	comma-added	ocr	will not be learned nor understand,		4
+267	83:5	456	thee	;	:	:	end	final	ocr	are confederate against thee;		14
+268	83:6	456	Moabites	-	,	,	in	comma-added	ocr	Ishmaelites : the Moabites and Hagarenes;		9
+269	84:3	457	nest	-	,	,	in	comma-added	ocr	the swallow a nest where she		12
+270	85:1	458	thou	-	-	.	in	noise	ocr	LORD, thou art become	85:1 'thou art become' -- no mark	1
+271	85:1	458	Jacob	.	.	-	end	noise	ocr	the captivity of Jacob.		15
+272	86:1	459	misery	.	.	-	end	noise	ocr	poor, and in misery.		15
+273	86:17	460	good	,	;	;	in	semi-comma	ocr	upon me for good, that they		6
+274	86:17	460	it	-	,	,	in	comma-added	ocr	me may see it and be		14
+275	86:17	460	me	-	,	,	in	comma-added	ocr	LORD, hast holpen me and comforted		23
+276	87:6	461	it	-	,	,	in	comma-added	ocr	LORD shall rehearse it when he		4
+277	88:1	461	calling	.	;	;	end	final	ocr	ear unto my calling.		27
+278	88:15	462	up	-	,	,	in	comma-added	ocr	from my youth up thy terrors		19
+279	89:3	462	servant	;	:	:	end	final	ocr	unto David my servant;		14
+280	89:12	463	world	,	,	-	in	noise	ocr	of the round world, and all		17
+281	89:19	463	King	.	.	:	end	noise	ocr	Israel is our King.		13
+282	89:20	463	mighty	;	,	,	in	semi-comma	ocr	one that is mighty; I have		18
+283	89:39	464	strong	-	W	.	in	word	ocr	broken down his strong holds.		10
+284	89:49	465	people	.	;	;	end	final	ocr	rebukes of many people.		20
+285	90:15	466	Comfort	-	-	,	in	noise	ocr	Comfort us again		0
+286	90:17	466	us	,	;	;	in	semi-comma	ocr	our hands upon us, O prosper		20
+287	91:2	467	strong	-	W	:	in	word	ocr	hope, and my strong hold :		12
+288	91:14	467	because	-	-	.	in	noise	ocr	set him up, because he hath		18
+289	92:13	469	well-liking	.	;	;	end	final	ocr	be fat and well-liking.		15
+290	93:3	469	began	-	,	,	in	comma-added	ocr	since the world began hath thy		4
+291	93:3	469	everlasting	.	.	:	end	noise	ocr	thou art from everlasting.		13
+292	93:5	469	mightier	.	.	:	end	noise	ocr	on high, is mightier.		19
+293	94:10	470	knowledge	,	;	;	in	semi-comma	ocr	that teacheth man knowledge, shall not		12
+294	94:14	470	inheritance	;	.	.	end	final	ocr	he forsake his inheritance;		13
+295	94:17	470	failed	-	,	,	in	comma-added	ocr	it had not failed but my		10
+296	95:8	471	wilderness	.	;	;	end	final	ocr	temptation in the wilderness.		24
+297	95:10	471	ways	;	:	:	end	final	ocr	not known my ways;		27
+298	96:10	472	heathen	-	,	,	in	comma-added	ocr	out among the heathen that the		5
+299	98:6	474	thanksgiving	.	.	:	end	noise	ocr	a psalm of thanksgiving.		14
+300	98:7	474	LORD	-	,	,	in	comma-added	ocr	joyful before the LORD the King.		11
+301	98:7	474	King	.	.	:	end	noise	ocr	the LORD the King.		13
+302	99:1	474	King	,	,	;	in	noise	ocr	THE LORD is King, be the		3
+303	99:5	474	footstool	,	;	;	in	semi-comma	ocr	down before his footstool, for he		11
+304	100:1	475	song	.	.	:	end	noise	ocr	presence with a song.		21
+305	100:2	475	ourselves	;	:	:	in	other-mid	ocr	and not we ourselves; we are		19
+306	101:1	475	sing	.	.	:	end	noise	ocr	LORD, will I sing.		14
+307	101:2	475	godliness	.	!	!	end	final	ocr	the way of godliness.		9
+308	102:10	477	that	-	,	,	in	comma-added	ocr	And that because of		1
+309	103:1	478	me	-	,	,	in	comma-added	ocr	that is within me praise his		11
+310	103:2	478	benefits	;	:	:	end	final	ocr	not all his benefits;		11
+311	104:9	480	bounds	-	,	,	in	comma-added	ocr	set them their bounds which they		5
+312	104:21	480	lions	-	,	,	in	comma-added	ocr	The lions roaring after		1
+313	104:23	481	evening	.	.	:	end	noise	ocr	: until the evening.		12
+314	104:28	481	them	-	,	,	in	comma-added	ocr	thou givest it them they gather		4
+315	104:28	481	hand	-	,	,	in	comma-added	ocr	thou openest thy hand they are		13
+316	104:29	481	face	-	,	,	in	comma-added	ocr	thou hidest thy face they are		4
+317	104:29	481	breath	-	,	,	in	comma-added	ocr	takest away their breath they die,		13
+318	104:30	481	forth	-	,	,	in	comma-added	ocr	thy breath go forth they shall		6
+319	104:35	481	soul	,	.	.	in	other-mid	ocr	LORD, O my soul, praise the	book: 'soul. Praise the' -- a full stop AND a capital P (cell: ', praise')	25
+320	105:5	482	mouth	.	;	;	end	final	ocr	judgments of his mouth.		15
+321	105:8	482	generations	;	;	-	end	noise	ocr	to a thousand generations;		16
+322	105:11	482	Saying	,	,	;	in	noise	ocr	Saying, Unto thee		0
+323	105:11	482	inheritance	;	:	:	end	final	ocr	lot of your inheritance;		14
+324	105:25	483	turned	,	-	-	in	comma-missing	ocr	Whose heart turned, so that		2
+325	105:25	483	so	-	,	,	in	comma-added	ocr	Whose heart turned, so that they		3
+326	106:23	486	said	,	-	-	in	comma-missing	ocr	So he said, he would		2
+327	106:30	486	Phinees	-	,	,	in	comma-added	ocr	Then stood up Phinees and prayed		3
+328	106:44	487	them	-	,	,	in	comma-added	ocr	covenant, and pitied them according unto		7
+329	106:46	487	Israel	-	,	,	in	comma-added	ocr	LORD God of Israel from everlasting		6
+330	106:46	487	everlasting	-	,	;	in	comma-added	ocr	of Israel from everlasting and world		8
+331	107:3	488	east	-	,	,	in	comma-added	ocr	lands, from the east and from		9
+332	107:3	488	north	-	,	,	in	comma-added	ocr	: from the north and from		16
+333	107:4	488	in	;	.	.	end	final	ocr	city to dwell in;		16
+334	107:38	490	them	-	,	,	in	comma-added	ocr	He blesseth them so that		2
+335	107:43	490	wise	-	,	,	in	comma-added	ocr	Whoso is wise will ponder		2
+336	108:1	490	sing	-	,	,	in	comma-added	ocr	: I will sing and give		12
+337	108:2	490	lute	,	-	-	in	comma-missing	ocr	Awake, thou lute, and harp		2
+338	108:5	491	earth	.	;	;	end	final	ocr	above all the earth.		14
+339	108:8	491	head	.	;	;	end	final	ocr	strength of my head.		14
+340	108:9	491	lawgiver	,	;	;	in	semi-comma	ocr	Judah is my lawgiver, Moab is		3
+341	108:9	491	shoe	,	;	;	in	semi-comma	ocr	cast out my shoe, upon Philistia		15
+342	109:5	491	hand	.	.	-	end	noise	ocr	at his right hand.		17
+343	109:14	492	earth	.	;	;	end	final	ocr	from off the earth.		19
+344	109:16	492	cursing	,	,	;	in	noise	ocr	delight was in cursing, and it		4
+345	109:16	492	blessing	,	,	;	in	noise	ocr	he loved not blessing, therefore shall		14
+346	109:17	492	cursing	,	-	-	in	comma-missing	ocr	clothed himself with cursing, like as		4
+347	109:25	493	mercy	.	;	;	end	final	ocr	according to thy mercy.		12
+348	109:26	493	know	,	-	-	in	comma-missing	ocr	And they shall know, how that		3
+349	109:29	493	multitude	.	;	;	end	final	ocr	him among the multitude.		19
+350	110:2	493	ruler	,	,	;	in	noise	ocr	: be thou ruler, even in		14
+351	110:3	494	morning	.	.	:	end	noise	ocr	womb of the morning.		28
+352	113:1	495	LORD	.	.	-	end	noise	ocr	Name of the LORD.		11
+353	113:5	496	earth	?	!	!	end	final	ocr	in heaven and earth?		27
+354	115:1	496	mercy	-	,	,	in	comma-added	ocr	for thy loving mercy and for		18
+355	116:8	498	falling	.	.	:	end	noise	ocr	my feet from falling.		17
+356	116:9	498	living	.	.	:	end	noise	ocr	land of the living.		11
+357	117:2	499	ever	.	.	:	in	noise	ocr	LORD endureth for ever. Praise the		19
+358	118:27	501	LORD	-	,	,	in	comma-added	ocr	God is the LORD who hath		3
+359	119:25	502	me	,	,	-	in	noise	ocr	O quicken thou me, according to		9
+360	119:25	502	word	.	.	-	end	noise	ocr	according to thy word.		13
+361	119:33	503	end	.	.	-	end	noise	ocr	it unto the end.		16
+362	119:34	503	understanding	,	,	;	in	noise	ocr	Give me understanding, and I		2
+363	119:41	504	word	.	.	-	end	noise	ocr	according unto thy word.		16
+364	119:73	506	understanding	,	,	;	in	noise	ocr	O give me understanding, that I		11
+365	119:95	507	me	-	,	,	in	comma-added	ocr	laid wait for me to destroy		5
+366	119:98	507	Thou	-	,	,	in	comma-added	ocr	Thou through thy		0
+367	119:98	507	commandments	-	,	,	in	comma-added	ocr	Thou through thy commandments hast made		3
+368	119:103	508	mouth	.	!	!	end	final	ocr	honey unto my mouth.		15
+369	119:125	509	servant	,	;	;	in	semi-comma	ocr	I am thy servant, O grant		3
+370	119:137	510	judgment	.	.	-	end	noise	ocr	true is thy judgment.		9
+371	119:141	510	small	,	-	-	in	comma-missing	ocr	I am small, and of		2
+372	119:145	511	CALL	-	-	,	in	noise	ocr	I CALL with my		1
+373	119:154	511	me	,	-	-	in	comma-missing	ocr	me : quicken me, according to		8
+374	119:158	512	law	.	.	-	end	noise	ocr	keep not thy law.		13
+375	119:169	512	understanding	,	-	-	in	comma-missing	ocr	: give me understanding, according to		10
+376	119:169	512	word	.	.	-	end	noise	ocr	according to thy word.		14
+377	119:170	512	me	,	-	-	in	comma-missing	ocr	thee : deliver me, according to		7
+378	120:1	513	trouble	-	,	,	in	comma-added	ocr	I was in trouble I called		4
+379	120:4	513	Kedar	.	!	!	end	final	ocr	the tents of Kedar.		20
+380	120:6	513	peace	,	;	;	in	semi-comma	ocr	I labour for peace, but when		3
+381	126:7	516	weeping	,	,	;	in	noise	ocr	on his way weeping, and beareth		7
+382	127:4	517	children	-	,	,	in	comma-added	ocr	Lo, children and the		1
+383	128:6	517	long	.	;	;	end	final	ocr	all thy life long.		20
+384	129:1	517	say	.	;	;	end	final	ocr	may Israel now say.		15
+385	132:1	519	LORD	,	,	-	in	noise	ocr	LORD, remember David	132:1 'LORD, remember David'	0
+386	132:1	519	trouble	;	:	:	end	final	ocr	and all his trouble;		6
+387	132:2	519	Jacob	;	:	:	end	final	ocr	Almighty God of Jacob;		15
+388	132:11	519	it	;	:	:	end	final	ocr	not shrink from it;		15
+389	132:17	520	sing	.	.	:	end	noise	ocr	shall rejoice and sing.		13
+390	133:1	520	unity	!	!	-	end	noise	ocr	dwell together in unity!		14
+391	133:2	520	clothing	.	.	:	end	noise	ocr	skirts of his clothing.		27
+392	135:6	521	heaven	-	,	,	in	comma-added	ocr	did he in heaven and in		8
+393	135:10	521	kings	;	:	:	end	final	ocr	and slew mighty kings;		7
+394	135:11	521	Sehon	-	,	,	in	comma-added	ocr	Sehon king of		0
+395	135:11	521	Og	-	,	,	in	comma-added	ocr	the Amorites, and Og the king		6
+396	136:7	522	ever	;	:	:	end	final	ocr	mercy endureth for ever;		10
+397	136:10	522	Egypt	-	,	,	in	comma-added	ocr	Who smote Egypt with their		2
+398	136:12	522	hand	,	-	-	in	comma-missing	ocr	With a mighty hand, and stretched		3
+399	136:18	523	ever	;	:	:	end	final	ocr	mercy endureth for ever;		10
+400	136:19	523	Sehon	-	,	,	in	comma-added	ocr	Sehon king of		0
+401	136:20	523	Og	-	,	;	in	comma-added	ocr	And Og the king		1
+402	137:3	524	captive	-	,	,	in	comma-added	ocr	led us away captive required of		6
+403	137:3	524	song	,	,	;	in	noise	ocr	us then a song, and melody		12
+404	137:5	524	cunning	.	.	:	end	noise	ocr	hand forget her cunning.		12
+405	137:8	524	thee	,	-	-	in	comma-missing	ocr	be that rewardeth thee, as thou		14
+406	138:2	524	Name	-	,	,	in	comma-added	ocr	hast magnified thy Name and thy		22
+407	138:2	524	word	-	,	,	in	comma-added	ocr	Name and thy word above all		25
+408	139:1	525	out	-	,	,	in	comma-added	ocr	hast searched me out and known		5
+409	139:1	525	down-sitting	-	,	;	in	comma-added	ocr	thou knowest my down-sitting and mine		12
+410	139:1	525	up-rising	,	;	;	in	semi-comma	ocr	down-sitting and mine up-rising, thou understandest		15
+411	139:11	525	thee	,	,	;	in	uncertain	ocr	no darkness with thee, but the	damaged type after 'with thee' (p525 last row); at 3x a comma, not a semicolon -- uncertain	7
+412	139:18	526	up	-	,	,	in	comma-added	ocr	when I wake up I am		15
+413	140:1	526	man	.	;	;	end	final	ocr	from the wicked man.		14
+414	140:10	527	fire	-	,	,	in	comma-added	ocr	cast into the fire and into		13
+415	141:1	527	thee	,	,	-	in	noise	ocr	I call upon thee, haste thee	141:1 'upon thee, haste thee'	4
+416	141:1	527	voice	-	,	,	in	comma-added	ocr	and consider my voice when I		12
+417	141:7	528	words	,	;	;	in	semi-comma	ocr	may hear my words, for they		13
+418	141:9	528	trust	,	;	;	in	semi-comma	ocr	thee is my trust , O		13
+419	142:3	528	heaviness	-	,	,	in	comma-added	ocr	spirit was in heaviness thou knewest		5
+420	142:3	528	walked	-	,	,	in	comma-added	ocr	way wherein I walked have they		15
+421	143:10	529	thee	,	;	;	in	semi-comma	ocr	thing that pleaseth thee, for thou		8
+422	144:1	530	fight	;	:	:	end	final	ocr	my fingers to fight;		16
+423	144:11	531	iniquity	.	:	:	end	final	ocr	right hand of iniquity.		25
+424	144:12	531	temple	.	;	;	end	final	ocr	corners of the temple.		22
+425	144:13	531	thousands	-	,	,	in	comma-added	ocr	may bring forth thousands and ten		19
+426	144:13	531	streets	.	;	;	end	final	ocr	thousands in our streets.		25
+427	145:8	531	long-suffering	-	,	;	in	comma-added	ocr	and merciful : long-suffering and of		6
+428	146:1	532	live	-	,	,	in	comma-added	ocr	soul; while I live will I		8
+429	146:1	532	God	.	.	-	end	noise	ocr	praises unto my God.		28
+430	146:3	532	forth	-	,	,	in	comma-added	ocr	of man goeth forth he shall		7
+431	146:4	532	God	;	:	:	end	final	ocr	the LORD his God;		20
+432	146:9	533	strangers	,	;	;	in	semi-comma	ocr	careth for the strangers, he defendeth		5
+433	147:7	533	God	;	:	:	end	final	ocr	harp unto our God;		14
+434	148:7	535	dragons	,	-	-	in	comma-missing	ocr	earth : ye dragons, and all		6
+435	148:11	535	earth	-	,	,	in	comma-added	ocr	Kings of the earth and all		3
+436	148:11	535	princes	-	,	,	in	comma-added	ocr	all people : princes and all		7
+437	149:2	535	King	.	.	:	end	noise	ocr	joyful in their King.		18
+438	149:8	535	iron	.	;	;	end	final	ocr	with links of iron.		12
+439	150:6	536	PSALTER	-	.	.	end	final	ocr	END OF THE PSALTER	150:6: the cell carries the colophon 'THE END OF THE PSALTER' inside the verse, without its stop; the book sets it as a separate line ending in a period	13
+V01	71:1	437	trust	,	;	-	in	semi-comma	verse	I put my trust, let me		8

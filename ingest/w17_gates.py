@@ -29,6 +29,7 @@ WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import w17_witness as W
+import w22_witness
 import w17_cells as C
 
 OCR = json.load(open(os.path.join(HERE, 'w17_scan_ocr.json'), encoding='utf-8'))
@@ -126,6 +127,10 @@ def main():
                 head = mv.group(0) if mv else ''
                 body = line[len(head):]
                 body, _ = W.apply_text(body, psalm, verse, [])
+                # Wave 22 corrected the same cells after this wave (pointing,
+                # punctuation, word forms, spacing, furniture): the published
+                # cell + Wave 17 + Wave 22 must equal the cell now.
+                body, _ = w22_witness.apply_text(body, psalm, verse, [])
                 line = head + body
             out.append(line)
         check('containment %s: published + corrections == new cell' % f,
@@ -135,7 +140,11 @@ def main():
     for p, v, _old, new in W.POINTING:
         got = cells[p][v]
         key = new.split(' ')[0]
-        check('pointing %d:%d reads as the scan' % (p, v), new in got, got[:70])
+        # Wave 22 closed up the carrier's spaced stops (' ;' -> ';'), so the
+        # comparison is made with the same spacing on both sides; what this
+        # check asserts is the pointing, which Wave 22 did not touch here.
+        tight = lambda t: re.sub(r' ([;,.])', r'\1', t)
+        check('pointing %d:%d reads as the scan' % (p, v), tight(new) in tight(got), got[:70])
 
     # 6. the independent change log
     r = subprocess.run([sys.executable, os.path.join(HERE, 'w13_changelog.py')],

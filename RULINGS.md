@@ -486,6 +486,23 @@ last checked.
 
 ## Open questions awaiting a ruling
 
+- **Letter case in a Psalter read against a scan (Wave 22, 2026-10-16).**
+  R11 says a born-digital text layer cannot settle case; nothing yet says
+  whether case follows a page scan read by eye, which can. The 1892 cells
+  differ from the Standard Book in 94 eye-read places, keyed in
+  `ingest/w22_witness.py` and switched OFF: CASE_LORD (23: small-capital LORD
+  printed "Lord" sixteen times in Psalms 139–143, a dropped small-caps run in
+  the carrier; GOD ×3; JEHOVAH 83:18; the reverse at 2:4), CASE_OPENING (22:
+  the book capitalizes only the first word of a verse 1), CASE_CAPS (49:
+  *Most High* ×18, *anointed* ×9, *Red Sea* ×5, and others). Options: all
+  three on (the coordinator's recommendation: the cells took their case from
+  1662 exactly as they took their stops, and R21 already follows the book for
+  stops); CASE_LORD only; none, recorded as a limit. A related encoding
+  question: the book sets the possessive as *LORD's* (lower-case s) where the
+  cells print *LORD'S* (11 verses) — does the corpus's caps-for-small-caps
+  convention extend to the possessive? Turning a group on is a switch in
+  `w22_witness.GROUPS`, a rebuild and a gate run; the Wave 22 provenance note
+  says the groups are off.
 - **The 1662 communion admission rubric.** What the carrier prints (an account
   to the Ordinary, seven days, an opportunity for interview) is no part of the
   1662 text: the Annexed Book prints the "open and notorious evil liver" rubric

@@ -4,6 +4,27 @@
   "file": "psalms-1-50",
   "anchor": "Psalm 1",
   "source_reading": "water-side",
-  "note": "the 1892 Standard Book scan breaks this word across a line (\"water-\" / \"side\"), so the page cannot say whether the word is hyphenated; the Standard Book's keyed text prints \"waterside\". Carried as the carrier prints it"
+  "note": "the 1892 Standard Book scan breaks this word across a line (\"water-\" / \"side\", scan p. 357), and a search of all 596 scan pages finds no other occurrence, so the book cannot say whether the word is hyphenated; the book hyphenates the other water- compounds it sets mid-line, which is analogy, not proof; the Standard Book's keyed text breaks the word at the same line end, it does not print \"waterside\". Carried as the carrier prints it"
+ },
+ {
+  "edition": "1892",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 107",
+  "source_reading": "gracious :",
+  "note": "the 1892 Standard Book (scan p. 487) prints a semicolon after \"gracious\" and no colon anywhere in this verse; the cell keeps the repo's one mediant \" : \" there (R21)"
+ },
+ {
+  "edition": "1892",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 139",
+  "source_reading": "there :",
+  "note": "the 1892 Standard Book (scan p. 525) prints a semicolon after the first \"there\" and no colon anywhere in this verse; the cell keeps the repo's one mediant \" : \" there (R21)"
+ },
+ {
+  "edition": "1892",
+  "file": "psalms-101-150",
+  "anchor": "Psalm 139",
+  "source_reading": "with thee,",
+  "note": "the stop after \"with thee\" (1892 Standard Book, scan p. 525, last line) is damaged type; read at 3x as a comma, as the cell prints it, but it could be a semicolon"
  }
 ]

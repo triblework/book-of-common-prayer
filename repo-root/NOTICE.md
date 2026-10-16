@@ -665,6 +665,25 @@ The published branches and tags are build artifacts, regenerated from the
   - This changes `texts/original` and `texts/normalized` only at `v1928`
     (three files).
 
+- **2026-10-16** — Wave 22: the **1892 Psalter, every mediant read by eye**.
+  Wave 17 had checked the pointing only where a gate flagged it, because page
+  OCR cannot tell `:` from `;`. This wave read the mediant of all 2,508 verses
+  by eye off crops of the Standard Book scan, and the ordinary punctuation and
+  unmatched words with it.
+  - **Pointing**: four verses differ from the book; two mediants move to the
+    book's word, two keep the repository's mark with a flag recording the
+    book's semicolon (`RULINGS.md` R21).
+  - **Punctuation**: the keyed carrier had carried the 1662 Psalter's stops;
+    328 places now follow the book (commas, verse-final marks, `;` for `,`).
+  - **Words**: 32 forms Wave 17 missed (*thou I walk*, *more then*, *our* for
+    *out*, *rasor*, *cloke*, *strong hold* …) and 17 spacing slips; the closing
+    line the keying had fused into 150:6 is deleted as furniture.
+  - 378 edits in 315 verses, each an eye read with its page; 3 flags opened,
+    none closed; letter case (94 differences) recorded and not changed, pending
+    a ruling.
+  - This changes `texts/original` and `texts/normalized` only at `v1892`
+    (three files).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

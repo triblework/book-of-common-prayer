@@ -23,6 +23,7 @@ import w13_1892
 import w13_1662
 import w13_render
 import w17_witness
+import w22_witness
 
 LOG = ("the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&"
        "1892.htm) says this reading was %s; the 1892 PDF prints the other. One "
@@ -33,6 +34,9 @@ LOG = ("the justus table of pre-1928 U.S. psalter changes (1789/Psalter1789&"
 # remains is the one reading the scan cannot settle, because the page breaks
 # the word across a line.
 V1892 = dict(w17_witness.VERIFY)
+# Workstream C (the full pointing collation, R20/R21): the water-side note is
+# corrected (same key) and three flags are added.
+V1892.update(w22_witness.VERIFY)
 
 
 def main():
@@ -41,6 +45,7 @@ def main():
     if bad or w13_1892.DROPPED:
         raise SystemExit("1892 gate: %s / dropped %s" % (bad, w13_1892.DROPPED))
     log = w17_witness.apply(ps)
+    log += w22_witness.apply(ps)          # workstream C, after Wave 17's
     for (n, v), (key, note) in V1892.items():
         ps[n].setdefault("verifies", []).append((v, key, note))
     an, man = w13_render.render("1892", ps, ":")
