@@ -1606,6 +1606,88 @@ write a fresh HANDOFF section rather than rushing.
 
 ## 8. Open verify items to resolve (carry forward; don't lose these)
 
+### THE QUEUE, re-surveyed 2026-10-16 (justus `bcp/` tree back; full inventory in `ingest/JUSTUS_SURVEY_2026-10-16.md`)
+
+A read-only survey (Workstream D of the coordinator session) walked every
+index page under `/resources/bcp/` and HEADed all 670 linked files: 656
+serve, 10 are dead links, none is refused by robots or 403. The restored tree
+is a **mid-2024 snapshot** (newest index 2024-05-31; a few index entries the
+Aug–Sep 2026 cache had are gone, e.g. `1789/1822Standard/`), but every one of
+the 135 comparable cached content files is byte-identical to today's. `http`
+now 302s to `https` with a valid certificate; the scraper's cache key hashes
+the full URL, so https entries sit beside the old http ones. **Never
+`--force`-refetch a justus page without diffing it against the cache first.**
+The provisional rulings for each step are in `RULINGS.md` ("Queued rulings"),
+to be re-confirmed when the step starts. Priority: a scan of the edition's
+OWN text that no wave has had (R2), then flags and gaps closed per fetch, then
+cost. Nothing over 5 MB was downloaded by the survey.
+
+- **Q0 — no fetch: the cached scans.** `1892Standard/1892standard.pdf` holds
+  the **1892 Kalendar** ("A Table of Lessons for <month>", one month a page,
+  scan pp. 12–23; the keyed `1892Standard/bcp.pdf` has no Calendar at all), so
+  the recorded gap closes with the Wave-20 table pipeline on the 1789 row
+  model; it also covers up to 42 of v1892's remaining flags. `1928/BCP1929.pdf`
+  covers 22 of v1928's non-Psalter flags.
+- **Q1 — the 1789 book in its own early printings (first allow-listed page
+  scans of v1789).** (a) `1789/1795%20folio/services.pdf` (39.1 MB; Hugh
+  Gaine's 1795 "first folio", Griffiths 1795/11, scan + uncorrected OCR):
+  both Proper Psalms leads (Ascension 103 vs 108, Good Friday 64 vs 69), the
+  November Kalendar's 60 blank cells, and the other 27 v1789 flags.
+  (b) `1789/1790/1790folio.pdf` (72 MB; the 1790 partial folio, the only
+  pre-1793-Standard scan): the November lessons as first printed and 7 flags;
+  it has NO Proper Psalms table. (c) `1789/1795%20folio/psalms.pdf` (40 MB):
+  **a scan of the 1789 Psalter — the first source for that edition itself**,
+  which is what the R2 gap needs. Read Gibson first (`std_eds1.htm`,
+  `std_eds2.htm`): the 1793 Standard corrected the 1790 printing's 29
+  November second morning lesson, and followed the 1791 printing. The typeset
+  re-creation of the 1790 edition prints 64 and 103 TOO (a keying, R6), so the
+  scan may confirm rather than correct them. Method: w17/w18 render + OCR with
+  the eye on the two numerals (3/8, 4/9); the w20 table pipeline for November;
+  the w18/w21 Psalter pipeline for (c).
+- **Q2 — the 1604 text.** `1559/BCP1623.pdf` (27.8 MB; a 1623 "Bible version",
+  James I's reign; front leaves and Psalter missing, services complete):
+  all 25 v1604 flags including the six that depend on the king, and the 1604
+  propers gap. Then `1559/BCP1634.pdf` (130 MB, imperfect) for the Kalendar,
+  rubrics and the 1604 share of the Proper Lessons gap (R15's reopener), and
+  `1559/Psalter1634.pdf` (54.7 MB) for the 1604 share of the Psalter gap only
+  (R2 bars its use for 1549–1559). The 1634 copy names King Charles: no
+  reign-dependent reading from it.
+- **Q3 — the Convocation Book**, `1662/Orig_manuscript/convocation.pdf`
+  (30.4 MB): a 1636 printed book with Sancroft's 1661 revision in pen. Its
+  print overlaps Q2; its pen is a different-KIND witness for the three Wave-20
+  1662 Kalendar flags and the June page (R14). Two layers per page; every
+  reading names its layer. Not a printed 1662 book: it does not reopen R8/R12.
+- **Q4 — DONE (Wave 21)**: the 1928 Psalter, with the finding that the 1952
+  facsimile is the Standard Book as amended (see the Wave 21 block).
+- **Q5 — justus's single-page photographs** (300–600 px, copy unstated), now
+  cached: six flags, and `1549/Priests_1550.jpg` + `1549/Priests_1552.jpg`
+  suggest the published 1549 ordering-of-priests cell carries a tail ("where
+  thou shalt be so appointed") that only enters in 1552 — a possible
+  CORRECTION, to be brought to the maintainer before it is applied.
+- **Q6 — the 1637 Kalendar and both rubrics**: a scope gap, not a missing
+  source — `Scotland/Kalendar_1637.htm`, `Scotland/Lectionary_1637.htm` and
+  the cached `front_matter_1637.htm` serve them (keyed HTML, like every 1637
+  carrier). Check justus's note of two missing leaves first.
+- **Queued from Wave 23 (1979):** 100 of the 1979 flags (84 three-year
+  readings, 16 eucharistic-table) cannot close from Church Publishing's file,
+  whose pp. 889–932 are the 2007 Revised Common Lectionary and pp. 19–30 a
+  2008 Calendar (R11 addendum); they need a scan of a pre-2006 printing. The
+  file's font runs (Sabon-RomanSC) could recover the small-capital LORD — a
+  pass of its own with its own gate, if the case limit in R11 is reopened.
+  Letter case in the 1892 Psalter (94 keyed differences, Wave 22) awaits a
+  ruling.
+- **Not on justus (do not re-survey):** no 1549, 1552, 1559 or 1637 book scan
+  (archive.org / Google Books links only, off the allow-list); every printed
+  1662 book there is late (1717 Sturt, 1762 Baskerville as a re-setting, 1775,
+  1843, 1901), so nothing fills the R8 blanks; the 1945 lectionary is present
+  (`1928/BCP1945.pdf`, `1928/Lectionary_1945.pdf`), an open fork not wanted.
+- **Found and fixed (Wave 21):** `SOURCES.md` named `Scottish_BCP1929.pdf`
+  (A. C. Don's history booklet) as the 1929 Scottish book; the book is
+  `Scotland/BCP1929.pdf` (77.6 MB, c.1950 printing), which could settle both
+  v1929 flags. Also: `1662/deviations.html` (the York Convocation committee's
+  1892 report on modern editions' departures from the Sealed Books) is an
+  independently compiled change log of R6's "different kind".
+
 ### THE QUEUE, in priority order (surveyed 2026-09-18, after Wave 18)
 
 Every claim here was checked that day; re-check the reachability ones before
