@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""wxa_gates.py -- what must hold for the 1979 witness pass (Workstream A,
-Wave 23), at the stage the cells are at (wxa_witness.STAGE).
+"""w23_gates.py -- what must hold for the 1979 witness pass (Workstream A,
+Wave 23), at the stage the cells are at (w23_witness.STAGE).
 
-    python3 ingest/wxa_gates.py
+    python3 ingest/w23_gates.py
 
   1 evidence     every item has an evidence entry naming its book page and
                  fragment (a pure markup rule or a flag drop names its rule);
@@ -43,7 +43,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_witness as W
+import w23_witness as W
 
 findings = []
 COMPOSITE = ('tables/calendar.md', 'tables/eucharistic-lectionary.md')
@@ -97,8 +97,8 @@ def main():
     stage = W.STAGE
     print('stage %d: groups %s%s' % (stage, W.enabled() or '[]',
                                      ' + re-flow' if stage >= 3 else ''))
-    ev = json.load(open(os.path.join(HERE, 'wxa_evidence.json')))
-    dropped = json.load(open(os.path.join(HERE, 'wxa_dropped.json')))
+    ev = json.load(open(os.path.join(HERE, 'w23_evidence.json')))
+    dropped = json.load(open(os.path.join(HERE, 'w23_dropped.json')))
     allitems = [(g, it) for g, v in W.ITEMS.items() for it in v]
 
     # 1. evidence
@@ -116,7 +116,7 @@ def main():
     check('every refused item names its reason (%d refused)'
           % len(dropped['dropped']),
           all(d.get('reason') for d in dropped['dropped']))
-    hd = os.path.join(HERE, 'wxa_dol_extra_evidence.json')
+    hd = os.path.join(HERE, 'w23_dol_extra_evidence.json')
     if os.path.exists(hd):
         he = json.load(open(hd))
         check('every Holy Days row names its page and source (%d rows)'
@@ -146,8 +146,8 @@ def main():
     # 3. containment
     bw = None
     if stage >= 3:
-        import wxa_book
-        bw = wxa_book.Book().joined
+        import w23_book
+        bw = w23_book.Book().joined
     bad, new_ok = [], []
     present = cells()
     for rel in present:
@@ -284,7 +284,7 @@ def main():
     check('no item runs on into a neighbouring block (%d items)'
           % len(allitems), not runon, runon[:3])
 
-    print('\nwxa gates (stage %d): %d anomalies' % (stage, len(findings)))
+    print('\nw23 gates (stage %d): %d anomalies' % (stage, len(findings)))
     return 1 if findings else 0
 
 

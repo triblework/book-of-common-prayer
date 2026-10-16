@@ -66,6 +66,15 @@ SUPPLIED = {
 TOKEN = re.compile(r"[A-Za-z][A-Za-z']+")
 
 
+# Wave 23: words the e-text swallowed, restored from Church Publishing's
+# PDF (the witness; PASSAGES:front-matter/order-how-rest-of-scripture.md:17:1, p. 935) -- attested there, not in bcplectn.txt
+WITNESS_ATTESTED = {
+    ('1979', 'front-matter/order-how-rest-of-scripture'): {
+        'brackets', 'case', 'entire', 'indicate', 'instances',
+        'omitted', 'repetition', 'whole'},
+}
+
+
 def source_tokens(urls):
     toks = set()
     for u in urls:
@@ -125,7 +134,8 @@ def main():
         p = WT / 'editions' / ed / (service + '.md')
         if not p.exists():
             print('MISSING %s %s' % (ed, service)); bad += 1; continue
-        missing = sorted(cell_tokens(p) - source_tokens(urls) - SUPPLIED)
+        missing = sorted(cell_tokens(p) - source_tokens(urls) - SUPPLIED
+                         - WITNESS_ATTESTED.get((ed, service), set()))
         checked += 1
         status = 'OK ' if not missing else 'UNATTESTED'
         print('%-5s %-42s %s %s' % (ed, service, status,

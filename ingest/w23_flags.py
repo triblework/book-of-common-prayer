@@ -1,4 +1,4 @@
-"""wxa_flags.py -- every open 1979 VERIFY flag, and what Church Publishing's
+"""w23_flags.py -- every open 1979 VERIFY flag, and what Church Publishing's
 file can say about it (Workstream A, Phase 1; read-only).
 
 For each inline flag in editions/1979: the file, line, the quoted reading,
@@ -11,10 +11,10 @@ the flag's own question (its template), and the witness's verdict:
                  representation decision of this repo, or it concerns pages
                  this file does NOT carry in their 1979 form (the Sunday
                  lectionary, pp. 889-931, is replaced by the 2007 RCL
-                 insert; see wxa_tables.py), or it turns on letter-case or
+                 insert; see w23_tables.py), or it turns on letter-case or
                  pointing (R11)
 
-    python3 ingest/wxa_flags.py            # summary + every flag
+    python3 ingest/w23_flags.py            # summary + every flag
 """
 import collections
 import glob
@@ -25,8 +25,8 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_book as B
-import wxa_tables as T
+import w23_book as B
+import w23_tables as T
 
 # the quoted reading may itself hold an apostrophe ('All Saint's Day'), so it
 # ends at the quote that is followed by the flag's own separator

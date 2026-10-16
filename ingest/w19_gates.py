@@ -23,6 +23,15 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
+# Wave 19's own commit on authoring: the cells as this wave LEFT them. Later
+# waves (23) edit the same cells, so containment and the flag count are read
+# at this commit, not from the work tree (R18).
+W19 = '19c67594f3ca9bc3a730e92f033c59ea4624e732'
+
+
+def at_w19(path):
+    return subprocess.run(['git', '-C', WT, 'show', W19 + ':' + path],
+                          capture_output=True, text=True).stdout
 sys.path.insert(0, HERE)
 import w17_cells
 import w19_cells
@@ -99,8 +108,7 @@ def main():
     # 3. containment
     for f in PSALTER:
         old = published('texts/original/psalter/%s.md' % f)
-        new = open(os.path.join(WT, 'editions/1979/psalter/%s.md' % f),
-                   encoding='utf-8').read()
+        new = at_w19('editions/1979/psalter/%s.md' % f)
         if not old:
             check('containment %s: published cell available' % f, False)
             continue
@@ -135,7 +143,7 @@ def main():
     # cell's; compare on one flattened line.
     for rel, subs in sorted(w19_cells.EDITS.items()):
         old = published('texts/original/' + rel.replace('editions/1979/', ''))
-        new = open(os.path.join(WT, rel), encoding='utf-8').read()
+        new = at_w19(rel)
         if not old:
             check('containment %s: published cell available' % rel, False)
             continue
@@ -159,12 +167,12 @@ def main():
     check('no named keying defect survives in the 1979 text', not left, left[:4])
 
     # 5. flags
-    n = 0
-    for root, _d, files in os.walk(os.path.join(WT, 'editions/1979')):
-        for fn in files:
-            if fn.endswith('.md'):
-                n += open(os.path.join(root, fn),
-                          encoding='utf-8').read().count('<!-- VERIFY')
+    n = 0          # counted at Wave 19's own commit (later waves move it)
+    for f in subprocess.run(['git', '-C', WT, 'ls-tree', '-r', '--name-only',
+                             W19, 'editions/1979'], capture_output=True,
+                            text=True).stdout.split():
+        if f.endswith('.md'):
+            n += at_w19(f).count('<!-- VERIFY')
     check('1979 inline flags 143 -> 127', n == 127, n)
     ps_flags = sum(open(os.path.join(WT, 'editions/1979/psalter/%s.md' % f),
                         encoding='utf-8').read().count('<!-- VERIFY')

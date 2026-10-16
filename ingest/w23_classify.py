@@ -1,8 +1,8 @@
-"""wxa_classify.py -- the report's classes for every difference wxa_survey
+"""w23_classify.py -- the report's classes for every difference w23_survey
 found, and for every line w19_survey.py --list reported (Workstream A,
 Phase 1; read-only).
 
-Reads ingest/wxa_survey.json (run `wxa_survey.py --json` first). Classes:
+Reads ingest/w23_survey.json (run `w23_survey.py --json` first). Classes:
 
   a  probe artifact   w19's probe missed a paragraph the book prints
                       verbatim (parallel columns, first-nine-words window)
@@ -29,10 +29,10 @@ Reads ingest/wxa_survey.json (run `wxa_survey.py --json` first). Classes:
   h2 punctuation      a stop that differs from the book's
   x  out of power     the pointing asterisk / colon itself (R11)
 
-    python3 ingest/wxa_classify.py             # counts per class and file
-    python3 ingest/wxa_classify.py --w19       # every w19_survey miss
-    python3 ingest/wxa_classify.py --items     # every difference, classed
-    python3 ingest/wxa_classify.py --phase2    # per file: what Phase 2 changes
+    python3 ingest/w23_classify.py             # counts per class and file
+    python3 ingest/w23_classify.py --w19       # every w19_survey miss
+    python3 ingest/w23_classify.py --items     # every difference, classed
+    python3 ingest/w23_classify.py --phase2    # per file: what Phase 2 changes
 """
 import collections
 import json
@@ -42,10 +42,10 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import wxa_book as B
+import w23_book as B
 import w19_survey
 
-IN = os.path.join(HERE, 'wxa_survey.json')
+IN = os.path.join(HERE, 'w23_survey.json')
 
 ARCHAIC = {'thee': 'you', 'thou': 'you', 'thy': 'your', 'thine': 'your',
            'art': 'are', 'hast': 'have', 'hath': 'has', 'liveth': 'lives',

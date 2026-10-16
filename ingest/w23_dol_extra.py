@@ -1,10 +1,10 @@
-"""wxa_dol_extra.py -- the Daily Office Lectionary's Holy Days and Special
+"""w23_dol_extra.py -- the Daily Office Lectionary's Holy Days and Special
 Occasions tables (book pp. 996-1001), transcribed from the CARRIER (justus's
 1993 e-text, bcplectn.txt, `<page 996>` onward) and verified against the
 WITNESS by the A3 window method. A silent absence: the repo's
 tables/daily-office-lectionary.md stops at Proper 29 and records no gap.
 
-    python3 ingest/wxa_dol_extra.py
+    python3 ingest/w23_dol_extra.py
         -> scratchpad/render/a/dol-holy-days.md   (NOT editions/; a ruling
            decides whether it is appended to the cell)
 
@@ -25,8 +25,8 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import wxa_book as B
-import wxa_tables as T
+import w23_book as B
+import w23_tables as T
 
 SRC = glob.glob('/Users/wtrible/Developer/bcp/scrape-cache/'
                 'justus.anglican.org_resources_bcp_bcplectn.txt.*.html')[0]
@@ -242,7 +242,7 @@ def row_text(name, date, mp, ep):
 
 def build():
     """-> (cell text, evidence list, flags list, report counts)"""
-    import wxa_items as I
+    import w23_items as I
     entries, notes = etext_entries()
     book, bnotes = book_entries()
     by = {}
@@ -334,14 +334,14 @@ def main():
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, 'w', encoding='utf-8').write(text)
     json.dump({'cell': CELL, 'rows': ev, 'flags': flags, 'counts': counts},
-              open(os.path.join(HERE, 'wxa_dol_extra_evidence.json'), 'w'),
+              open(os.path.join(HERE, 'w23_dol_extra_evidence.json'), 'w'),
               indent=1, ensure_ascii=False)
     print('book entries %d; e-text entries %d' % (len(book), len(entries)))
     print('counts: %s' % dict(counts))
     print('flags: %d' % len(flags))
     # the field check: every written field against the book's entry for the
     # same occasion, by column (the layout parse keeps the columns)
-    import wxa_tables as T2
+    import w23_tables as T2
     bkby = {ekey(b['name']): b for b in book}
     tot = ok = 0
     differ = []

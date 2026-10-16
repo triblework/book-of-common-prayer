@@ -48,7 +48,9 @@ EXPECT_ROWS = {
     ('1789', 'tables/proper-lessons'): 117,
     ('1892', 'tables/proper-lessons'): 191,
     ('1979', 'tables/eucharistic-lectionary'): 280,
-    ('1979', 'tables/daily-office-lectionary'): 784,
+    ('1979', 'tables/daily-office-lectionary'): 820,  # Wave 23: + 8 lost
+    # rows, + 28 rows that 19 merged rows had swallowed, read off Church
+    # Publishing's PDF (DOL_ROWS); 784 was the 1993 e-text's own count
 }
 
 # (edition, service, anchor) -> reason. AUDIT_METHOD's KNOWN_GOOD tier: an
@@ -151,6 +153,27 @@ KNOWN_GOOD = {
     ('1979', 'tables/daily-office-lectionary', 'Friday'):
         'an e-text merge leaves this psalm line unsplittable into morning and '
         'evening; carried whole and flagged inline.',
+    # Wave 23 -- the Holy Days cell, read off Church Publishing's PDF
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of the Presentation'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 996).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of the Annunciation'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 997).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of the Visitation'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 997).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of St. John the Baptist'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 998).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of the Transfiguration'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 998).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of Holy Cross'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 999).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Eve of All Saints'):
+        'the book prints an Eve with its evening psalms and lessons only (p. 1000).',
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Anniversary of the Dedication of a Church'):
+        "the book prints this day with morning and evening psalms and lessons; the section's majority are its Eves (p. 1000).",
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'The Patronal Feast'):
+        "the book prints this day with morning and evening psalms and lessons; the section's majority are its Eves (p. 1001).",
+    ('1979', 'tables/daily-office-lectionary-holy-days', 'Footnote'):
+        "the book's footnote to the Special Occasions, set as the e-text sets it (p. 1001).",
 }
 
 

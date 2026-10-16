@@ -1,6 +1,6 @@
-"""wxa_book.py -- the 1979 witness as a token stream, and a paragraph aligner.
+"""w23_book.py -- the 1979 witness as a token stream, and a paragraph aligner.
 
-Shared by wxa_survey.py, wxa_flags.py and wxa_tables.py. Read-only: nothing
+Shared by w23_survey.py, w23_flags.py and w23_tables.py. Read-only: nothing
 here writes a cell.
 
 THE WITNESS is Church Publishing's PDF of the 1979 book (w19_witness_text.py
@@ -38,12 +38,12 @@ WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import w19_witness_text as WTX
 
-LAYOUT = os.path.join(HERE, '.cache', 'wxa_layout.json')   # gitignored
+LAYOUT = os.path.join(HERE, '.cache', 'w23_layout.json')   # gitignored
 # Pages that are tables (the 2008 Calendar insert, the Golden Number/Easter
 # tables, the 2007 RCL insert, the Daily Office Lectionary): never
 # column-split -- the table comparison reads them its own way.
 TABLE_PAGES = set(range(19, 31)) | set(range(875, 1002))
-# Producer slugs that mark pages substituted after 1979 (see wxa_tables).
+# Producer slugs that mark pages substituted after 1979 (see w23_tables).
 SLUG = re.compile(r'RCL pages for BCP|cpg-bcp-calendar\.indd')
 FOOT = re.compile(r'^\s*(\d+\s{2,}\S.*|.*\S\s{2,}\d+)\s*$')
 
@@ -198,7 +198,7 @@ def styles():
     global _STYLE
     if _STYLE is not None:
         return _STYLE
-    cache = os.path.join(HERE, '.cache', 'wxa_styles.json')
+    cache = os.path.join(HERE, '.cache', 'w23_styles.json')
     if os.path.exists(cache):
         raw = json.load(open(cache))
     else:

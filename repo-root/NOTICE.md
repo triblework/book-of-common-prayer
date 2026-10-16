@@ -684,6 +684,25 @@ The published branches and tags are build artifacts, regenerated from the
   - This changes `texts/original` and `texts/normalized` only at `v1892`
     (three files).
 
+- **2026-10-16** — Wave 23: the **rest of the 1979 text, read against
+  Church Publishing's own PDF** (Wave 19 did the Psalter). Every paragraph
+  outside the Psalter was located in the book word for word and every
+  difference keyed, re-read on its page and applied file to file.
+  - **865 corrections and restorations**: word readings, spellings, the stops
+    before a canticle's mediant the render had dropped, rubric stops, and 104
+    passages the 1993 keying had swallowed or spliced — including the eight
+    collects it lost outright and two it keyed from the wrong language set.
+  - **The Daily Office Lectionary** repaired row by row (33 rows the e-text
+    had lost or merged, a Christmas block that printed the wrong year's
+    readings), and its Holy Days and Special Occasions tables added as a new
+    file, which no earlier wave had carried.
+  - **479 e-text markup marks** published as text are normalized, and the
+    81 prayers files' hard wrap is re-flowed to the book's paragraphs.
+  - **The witness is a composite**: its Calendar and Sunday lectionary pages
+    are 2007–2008 replacements, so those two files were not touched and 100
+    flags need a pre-2006 scan. Flags 19 closed, 23 opened.
+  - This changes `texts/original` and `texts/normalized` only at `v1979`.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

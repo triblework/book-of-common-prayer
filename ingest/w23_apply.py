@@ -1,19 +1,19 @@
-"""wxa_apply.py -- the file->file applier for wxa_witness.
+"""w23_apply.py -- the file->file applier for w23_witness.
 
-    python3 ingest/wxa_apply.py                      # dry run, ENABLED groups
-    python3 ingest/wxa_apply.py --groups ALL         # dry run, every group
-    python3 ingest/wxa_apply.py --groups WORDS,SPELLING
-    python3 ingest/wxa_apply.py --groups ALL --each  # each group alone too
-    python3 ingest/wxa_apply.py --groups ALL --resurvey
+    python3 ingest/w23_apply.py                      # dry run, ENABLED groups
+    python3 ingest/w23_apply.py --groups ALL         # dry run, every group
+    python3 ingest/w23_apply.py --groups WORDS,SPELLING
+    python3 ingest/w23_apply.py --groups ALL --each  # each group alone too
+    python3 ingest/w23_apply.py --groups ALL --resurvey
           # write the result to the scratch render dir (NOT editions/) and
           # re-run the word-for-word survey on it
-    python3 ingest/wxa_apply.py --groups ... --write # writes editions/1979
-    python3 ingest/wxa_apply.py --stage N --write    # the cells at stage N
-                                                     # (1, 2, 3; see wxa_witness)
+    python3 ingest/w23_apply.py --groups ... --write # writes editions/1979
+    python3 ingest/w23_apply.py --stage N --write    # the cells at stage N
+                                                     # (1, 2, 3; see w23_witness)
 
 It always starts from the BRANCH-BASE text of each cell (git 710f635b...),
 so a re-run is idempotent and the result is exactly base + these groups --
-the containment wxa_gates.py checks. A dry run writes nothing; --write
+the containment w23_gates.py checks. A dry run writes nothing; --write
 refuses unless --groups is given by name (never ALL by default) and every
 item applies cleanly.
 """
@@ -25,7 +25,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_witness as W
+import w23_witness as W
 
 SCRATCH = ('/private/tmp/claude-501/-Users-wtrible-Developer-bcp--claude-'
            'worktrees-bcp-wave-20-coordinator-5838d5/ff7c7f54-263d-4ce2-ac10-'
@@ -83,9 +83,9 @@ def run(groups, write=False, out_dir=None, quiet=False):
 def resurvey(results):
     """Re-align every corrected prose paragraph; count those still differing
     from the book in their words."""
-    import wxa_book as B
-    import wxa_survey as S
-    import wxa_items as I
+    import w23_book as B
+    import w23_survey as S
+    import w23_items as I
     bk = B.Book()
     still = collections.Counter()
     total = collections.Counter()
@@ -120,8 +120,8 @@ def write_stage(stage):
     commits 1..stage; the new Holy Days cell from stage 1; the prayers
     re-flowed at stage 3). Refuses if any item is stale."""
     import glob
-    import wxa_book
-    bw = wxa_book.Book().joined if stage >= 3 else None
+    import w23_book
+    bw = w23_book.Book().joined if stage >= 3 else None
     root = os.path.join(WT, 'editions/1979')
     rels = sorted(os.path.relpath(f, root) for f in
                   glob.glob(os.path.join(root, '**/*.md'), recursive=True))
@@ -172,7 +172,7 @@ def main():
     if write and ('--groups' not in args or 'ALL' in args):
         raise SystemExit('--write needs --groups named one by one')
     if not groups:
-        print('no group enabled (wxa_witness.ENABLED is empty): nothing to do')
+        print('no group enabled (w23_witness.ENABLED is empty): nothing to do')
         return
     if '--each' in args:
         print('EACH GROUP ALONE on the branch base:')

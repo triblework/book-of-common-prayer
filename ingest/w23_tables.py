@@ -1,4 +1,4 @@
-"""wxa_tables.py -- a comparison method for the 1979 lectionary tables
+"""w23_tables.py -- a comparison method for the 1979 lectionary tables
 (Workstream A, Phase 1 prototype; read-only, writes no cell).
 
 WHY A DIFFERENT METHOD. The repo renders a table row as one long line of
@@ -42,8 +42,8 @@ NOWHERE (a real book name, a chapter it never cites) and citations the book
 prints in a DIFFERENT row (a neighbour's Gospel); the method must flag every
 one. Both are measured below.
 
-    python3 ingest/wxa_tables.py            # rates, classes, sensitivity
-    python3 ingest/wxa_tables.py --list     # + every mismatch
+    python3 ingest/w23_tables.py            # rates, classes, sensitivity
+    python3 ingest/w23_tables.py --list     # + every mismatch
 """
 import collections
 import difflib
@@ -55,7 +55,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_book as B
+import w23_book as B
 
 DOL = os.path.join(WT, 'editions/1979/tables/daily-office-lectionary.md')
 EUCH = os.path.join(WT, 'editions/1979/tables/eucharistic-lectionary.md')

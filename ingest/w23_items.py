@@ -1,17 +1,17 @@
-"""wxa_items.py -- build every keyed correction for the 1979 cells from the
+"""w23_items.py -- build every keyed correction for the 1979 cells from the
 witness, verify each against its page, and write them out as data.
 
-    python3 ingest/wxa_items.py
-        -> ingest/wxa_witness_items.py   the keyed items, by group (data only)
-        -> ingest/wxa_evidence.json      key -> page, book fragment, cell
+    python3 ingest/w23_items.py
+        -> ingest/w23_witness_items.py   the keyed items, by group (data only)
+        -> ingest/w23_evidence.json      key -> page, book fragment, cell
                                          fragment, class, verification
-        -> ingest/wxa_dropped.json       items NOT made, each with its reason
+        -> ingest/w23_dropped.json       items NOT made, each with its reason
 
 Nothing here writes a cell. The items are keyed to the BRANCH BASE text of
 each cell (git 710f635b...:editions/1979/<file>), never to a live tag.
 
 HOW AN ITEM IS MADE. A paragraph is aligned word for word against the book
-(wxa_book / wxa_survey.locate). For a word difference, the cell text between
+(w23_book / w23_survey.locate). For a word difference, the cell text between
 the two unchanged words that flank it is replaced by the BOOK'S text between
 the same two words -- cut from the page text by the script, so no restored
 word passes through anyone's hands (and the content filter never sees a
@@ -19,7 +19,7 @@ passage). The item's `old` is that stretch of the cell including the two
 flanking words, widened word by word until it occurs exactly once in its
 paragraph; `new` is the same stretch as the book prints it.
 
-WHAT IS REFUSED (wxa_dropped.json, with the reason):
+WHAT IS REFUSED (w23_dropped.json, with the reason):
   glyph     the book's reading is a text-layer glyph confusion (1/I, ]/1)
   case      the change would take letter-case from the file (R11): it alters
             an all-capital word, or brings Lord/God into a text that sets
@@ -35,7 +35,7 @@ WHAT IS REFUSED (wxa_dropped.json, with the reason):
             italic in the PDF) inside part of a paragraph
   markup inside the damaged stretch  group MARKUP must settle it first
   wrap-split word  a hard-wrapped prayer split a word across two lines;
-            wxa_reflow.py joins it (no keyed item)
+            w23_reflow.py joins it (no keyed item)
   witness-evident  (DOL) the book's reading is one no printing could have
   not the book's text here  (Phase 2) a word stretch of more than BIG (8)
             differing words: the alignment is to the wrong text (Evening
@@ -52,7 +52,7 @@ WHAT IS REFUSED (wxa_dropped.json, with the reason):
 A difference at a fragment's edge whose book words run on into the next
 (or previous) paragraph is trimmed of them first (trim_edge): else the
 item prints them twice once the prayers are re-flowed (Phase 2 finding,
-thanksgiving-general.md:35; gate 8 in wxa_gates.py).
+thanksgiving-general.md:35; gate 8 in w23_gates.py).
 
 VERIFICATION. A word item is kept only if, with every correction of its
 paragraph made, the corrected stretch and five words either side stand on
@@ -75,15 +75,15 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_book as B
-import wxa_survey as S
-import wxa_classify as C
-import wxa_tables as T
+import w23_book as B
+import w23_survey as S
+import w23_classify as C
+import w23_tables as T
 
 BASE = '710f635b7783f1e8188fa334ec75dca3e43a0220'
-OUT_ITEMS = os.path.join(HERE, 'wxa_witness_items.py')
-OUT_EV = os.path.join(HERE, 'wxa_evidence.json')
-OUT_DROP = os.path.join(HERE, 'wxa_dropped.json')
+OUT_ITEMS = os.path.join(HERE, 'w23_witness_items.py')
+OUT_EV = os.path.join(HERE, 'w23_evidence.json')
+OUT_DROP = os.path.join(HERE, 'w23_dropped.json')
 TABLE_ROWS = S.TABLE_ROWS
 MARKUP_CH = re.compile(r'[*=&\[\]<>]')
 COMMENT = re.compile(r'<!--.*?-->', re.S)
@@ -321,7 +321,7 @@ def within_for(rel, line, head):
 
 
 def locate_in(bk, rel, line, head, pre, w, post):
-    """wxa_survey.locate, held to the pages where this cell's text is."""
+    """w23_survey.locate, held to the pages where this cell's text is."""
     rng = within_for(rel, line, head)
     old = B.section
     if rng:
@@ -335,7 +335,7 @@ def locate_in(bk, rel, line, head, pre, w, post):
 def prose(ctx):
     bk = ctx.bk
     survey = {(r['file'], r['line']): r
-              for r in json.load(open(os.path.join(HERE, 'wxa_survey.json')))}
+              for r in json.load(open(os.path.join(HERE, 'w23_survey.json')))}
     for rel, _f in B.cells():
         if rel in TABLE_ROWS:
             continue
@@ -450,7 +450,7 @@ def prose(ctx):
 def lords_prayer(ctx, rel, blk):
     """public-baptism.md: the e-text's placeholder `&LordsPrayer.` where the
     book prints the Lord's Prayer in its two forms side by side (p. 311).
-    The two columns, rebuilt by wxa_book, become the two paragraphs the repo
+    The two columns, rebuilt by w23_book, become the two paragraphs the repo
     sets elsewhere (traditional, then contemporary)."""
     t = B.pages()[311]
     a = t.find('Our Father, who art in heaven,')
@@ -709,7 +709,7 @@ def word_items(ctx, rel, blk, sp, r, sv, page):
         if c in ('e', 'x', 'g', 'h1', 'h2', 'c'):
             continue
         # a word the 60-column wrap split across two fragments: the re-flow
-        # (wxa_reflow.py) mends it; no item here
+        # (w23_reflow.py) mends it; no item here
         if rel.startswith('prayers-and-thanksgivings/') and \
                 (i2 == len(sp) or i1 == 0) and len(btoks) == 1 and \
                 len(ctoks) == 1 and btoks[0] != ctoks[0] and \
@@ -1159,7 +1159,7 @@ def markup_pass(ctx, rel, bl, cur):
     """Group MARKUP, keyed to the base paragraphs but cut from their text
     AFTER commit 1 (MARKUP is a commit of its own, applied last): the
     book's blanks for `&mdash.`/`&3em.` first, then the pattern rules."""
-    import wxa_witness as W
+    import w23_witness as W
     for i, (line, _n, btext) in enumerate(bl):
         t = cur[i]
         blk = {'line': line, 'text': btext}
@@ -1208,7 +1208,7 @@ def markup_pass(ctx, rel, bl, cur):
 
 
 # ---------------------------------------------------------------------------
-# the refused passages, hand-keyed by script (wxa_hand.py)
+# the refused passages, hand-keyed by script (w23_hand.py)
 
 def _find(t, frag, start=0):
     """First occurrence of frag at or after start, held to word boundaries
@@ -1270,7 +1270,7 @@ def keep_cell_case(old, new):
 
 
 def hand(ctx):
-    import wxa_hand as H
+    import w23_hand as H
     P = B.pages()              # feet dropped, parallel columns rebuilt
     done = set()
     for spec in H.HAND:
@@ -1933,8 +1933,8 @@ def flags_pass(ctx, checked):
     """The new inline flags of commit 1: the unsettled DOL numeral disputes
     (both readings), the three DOL rows regenerated from a two-line book row,
     and the two Burial verses not restored (pointing)."""
-    import wxa_witness as W
-    import wxa_hand as H
+    import w23_witness as W
+    import w23_hand as H
     rel = 'tables/daily-office-lectionary.md'
     base = base_text(rel)
     bl, cur, _a, _s = W.apply_blocks(rel, base, [g for g in W.COMMIT1
@@ -2069,7 +2069,7 @@ def main():
                    dol_value(bv, d['cell']), 'dispute-book', c, bv, b[6])
     # the second pass: what commit 1 leaves is what FLAGS and then MARKUP are
     # keyed to (they apply after it, each in its own place in the order)
-    import wxa_witness as W
+    import w23_witness as W
     flags_pass(ctx, checked)
     for rel_, _f in B.cells():
         if rel_.startswith('tables/'):
@@ -2085,7 +2085,7 @@ def main():
         pass
     groups = {g: v for g, v in ctx.items.items()}
     with open(OUT_ITEMS, 'w', encoding='utf-8') as f:
-        f.write('"""wxa_witness_items.py -- GENERATED by wxa_items.py; do not '
+        f.write('"""w23_witness_items.py -- GENERATED by w23_items.py; do not '
                 'edit by hand.\n\nEvery keyed correction for the 1979 cells, '
                 'by group. Each item: id, file, line (of its\nparagraph at the '
                 'branch base), anchor (that paragraph\'s first words), old (the\n'

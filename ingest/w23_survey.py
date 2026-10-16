@@ -1,4 +1,4 @@
-"""wxa_survey.py -- every 1979 paragraph against Church Publishing's file,
+"""w23_survey.py -- every 1979 paragraph against Church Publishing's file,
 word for word (Workstream A, Phase 1; read-only).
 
 w19_survey.py asked one question of each line of 60+ characters: are its
@@ -16,11 +16,11 @@ against the book and reports each difference with the book page. What makes
 that fair to a correct cell (each one a measured false miss of the old probe):
 
   * the book's running feet and producer slugs are dropped, and its
-    parallel-column blocks rebuilt left-then-right (wxa_book.pages);
+    parallel-column blocks rebuilt left-then-right (w23_book.pages);
   * words are folded (case, accents, ligatures, quotes, dashes, the mediant)
     and the repo's own furniture removed (`> `, `#`, `**People.**`);
   * a paragraph is located by shared 4-grams, then diffed word for word
-    against the located stretch (wxa_book.Book.align), stray far-off matches
+    against the located stretch (w23_book.Book.align), stray far-off matches
     trimmed;
   * a short paragraph (a question, a response) is located inside its
     neighbours, then diffed alone;
@@ -31,12 +31,12 @@ that fair to a correct cell (each one a measured false miss of the old probe):
     mediant itself excepted (R11).
 
 Mechanical classes are assigned here (classify()); the report's classes are
-assigned by wxa_classify.py from the residue this writes.
+assigned by w23_classify.py from the residue this writes.
 
-    python3 ingest/wxa_survey.py              # rates, before and after
-    python3 ingest/wxa_survey.py --list       # + every difference
-    python3 ingest/wxa_survey.py --json       # + ingest/wxa_survey.json
-    python3 ingest/wxa_survey.py --sensitivity  # mutated-paragraph test
+    python3 ingest/w23_survey.py              # rates, before and after
+    python3 ingest/w23_survey.py --list       # + every difference
+    python3 ingest/w23_survey.py --json       # + ingest/w23_survey.json
+    python3 ingest/w23_survey.py --sensitivity  # mutated-paragraph test
 """
 import collections
 import difflib
@@ -47,10 +47,10 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import wxa_book as B
+import w23_book as B
 import w19_survey
 
-OUT = os.path.join(HERE, 'wxa_survey.json')
+OUT = os.path.join(HERE, 'w23_survey.json')
 TABLE_ROWS = ('tables/calendar.md', 'tables/daily-office-lectionary.md',
               'tables/eucharistic-lectionary.md')
 MARKUP = re.compile(r'=[^=\n]{1,40}=|&N\.|&mdash\.')

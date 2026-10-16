@@ -1,7 +1,7 @@
-"""wxa_reflow.py -- re-flow the hard-wrapped Prayers and Thanksgivings
+"""w23_reflow.py -- re-flow the hard-wrapped Prayers and Thanksgivings
 (ruling 8). Run alone it is a dry run (prints what it would join, writes
-nothing); wxa_witness.expected() calls reflow() for stage 3, and
-`wxa_apply.py --stage 3 --write` writes the re-flowed cells (commit 3).
+nothing); w23_witness.expected() calls reflow() for stage 3, and
+`w23_apply.py --stage 3 --write` writes the re-flowed cells (commit 3).
 
 All 81 prayers-and-thanksgivings cells carry the 1993 e-text's 60-column
 wrap as paragraph breaks (a blank line after every wrapped line), so each
@@ -15,8 +15,8 @@ a WORDS item already, e.g. `seed` + `time` = `seedtime`).
 Each joined paragraph is then aligned word for word against the book: the
 dry run reports how many join into paragraphs the book prints verbatim.
 
-    python3 ingest/wxa_reflow.py                 # per-file counts, base text
-    python3 ingest/wxa_reflow.py --after-groups  # after every keyed group
+    python3 ingest/w23_reflow.py                 # per-file counts, base text
+    python3 ingest/w23_reflow.py --after-groups  # after every keyed group
 """
 import collections
 import glob
@@ -27,7 +27,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_items as I
+import w23_items as I
 
 END = re.compile(r'(=?Amen\.=?|Amen\.\)?)\s*$')
 
@@ -81,7 +81,7 @@ def reflow(text, book_words=None):
 
 
 def main():
-    import wxa_book as B
+    import w23_book as B
     bk = B.Book()
     tot = collections.Counter()
     rows = []
@@ -92,7 +92,7 @@ def main():
         if '--after-groups' in sys.argv:
             # the re-flow is the LAST step: every keyed item is keyed to a
             # base paragraph, so the items go in first, then the joins
-            import wxa_witness as W
+            import w23_witness as W
             text, _a, _s = W.apply(rel, text, W.GROUP_ORDER, strict=False)
         new, joined, before, after = reflow(text, bk.joined)
         tot['glued'] += len(reflow.glued)

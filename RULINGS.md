@@ -346,6 +346,12 @@ sentence split, which the gates already strip or compare on words. The three
 gates were re-pinned (`c8fc6e2`, `6d290b4`, `7e4f14b`) and all pass again.
 Every later wave's gate does the same from the start.
 
+*Corollary (Wave 23, 2026-10-16):* when a LATER wave edits the same cells,
+the earlier gate's "new" side is pinned too — to the commit its own wave
+ended on — so each wave's containment proves its own step (`w19_gates`, pinned
+to `19c6759`); or the later wave's corrections are chained into the earlier
+gate (`w17_gates` chains Wave 22's). Either keeps every gate runnable forever.
+
 *Reopened by:* a change to the build that makes `texts/original` differ from
 the authored cell in more than flags and line breaks.
 

@@ -526,6 +526,68 @@ ruling (`RULINGS.md`, open questions). The hyphen at 1:3 *water-side* stays
 flagged: the book breaks the word at a line end, and a search of all 596 pages
 finds no other occurrence.
 
+### The rest of the 1979 text against the publisher's own file (Wave 23)
+
+Wave 19 collated the 1979 Psalter against Church Publishing's PDF of the book
+and repaired seven named dropouts elsewhere. Wave 23 read **everything else**:
+every paragraph of every 1979 cell outside the Psalter was located in the book
+word for word, the Daily Office Lectionary was compared row by row, and the
+1993 keying's own markup and hard wrap were dealt with. Rulings R22 and the
+R11 addendum in `RULINGS.md`.
+
+**The witness is a composite.** Two runs of the PDF's pages were replaced
+after 1979 and carry the producer's slug: pp. 19–30 are a 2008 Calendar (with
+commemorations added since 1979) and pp. 889–932 are the 2007 Revised Common
+Lectionary. So `tables/calendar` and `tables/eucharistic-lectionary` have no
+witness in this file and were not touched, and 100 of the 1979 flags (the 84
+three-year-reading notes on the collects, and 16 in the eucharistic table)
+cannot be closed from it; they need a scan of a printing from before 2006.
+The text layer also confuses the digit 1 with capital I, and in the Daily
+Office Lectionary prints citations no printing could have, so a citation
+there is settled by the file only when a second check agrees (the other
+year's same week, the same citation elsewhere, continuity with the rows
+either side); otherwise both readings are flagged.
+
+**What changed, in three reviewable steps.**
+
+1. **Corrections and restorations** — 865 keyed items, each keyed to the
+   paragraph it sits in, re-read in its page context, and applied file to
+   file with the page recorded (`ingest/w23_evidence.json`): 297 word
+   readings (typos, *thee*/*you* mix-ups, wrong, dropped, extra and reordered
+   words, citation numerals), 12 spellings, 193 stops before a canticle's
+   mediant that the repository's render had dropped, 28 rubric-final stops
+   and 90 other stops set as the book sets them, two misspelt headings fixed
+   (their slugs kept), and **104 restored passages** — swallowed and spliced
+   stretches, two traditional collects the e-text had keyed from the
+   contemporary text, and the eight collects the keying had lost outright
+   (their flags are closed). Nothing was taken where the book's reading is a
+   text-layer glyph or touches case or pointing. The **Daily Office
+   Lectionary** gained 33 rows the e-text had lost or merged (820 rows
+   against the e-text's 784), 58 corrected cells, 13 marks, the Year Two
+   Christmas block (which printed Year One's Epistle and Gospel), and 3
+   disputes the second check settled for the book; 15 it could not settle
+   are flagged with both readings. The Lectionary's **Holy Days and Special
+   Occasions** tables (pp. 996–1001), which the e-text carries but no wave
+   had transcribed, are now `tables/daily-office-lectionary-holy-days` (45
+   rows, 8 from the witness where the e-text had lost or damaged an entry).
+2. **Markup** — 479 places where the 1993 e-text's own markup had been
+   published as text (`=x=`, `&V.`, `&N.`, `&mdash.`, `[[ ]]`, broken speaker
+   labels) are normalized to the book and the repository's conventions.
+3. **Re-flow** — the 81 prayers files kept the e-text's hard wrap as
+   paragraph breaks, 497 of them mid-sentence; they are re-flowed to the
+   book's paragraphs (92 of 93 now verbatim).
+
+Three Burial psalm verses the keying fused are flagged rather than restored,
+because the repair would take a mediant from the file (R11). In all, 1979
+flags 127 → 131 (19 closed, 23 opened). After the wave, 11 of 2,176 prose
+paragraphs still differ from the book, every one accounted for (editorial
+notes, refused glyph readings, the flagged verses, a running head).
+
+**Not taken.** Letter case (the PDF's font runs name the small capitals, so
+the small-capital LORD is recoverable; a pass of its own is queued), and 26
+lines that open an e-text italic mark never closed (not one of the ruled
+patterns).
+
 ---
 
 ## English line (`main`)
@@ -937,7 +999,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 advent-1 | `First Sunday of Advent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 advent-2 | `Second Sunday of Advent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 advent-3 | `Third Sunday of Advent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 advent-4 | `Fourth Sunday of Advent` | the traditional-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 advent-4 | `Fourth Sunday of Advent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 all-saints | `All Saint` | s Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 annunciation | `The Annunciation` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -955,7 +1016,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 easter-4 | `Fifth Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-5 | `Sixth Sunday of Easter` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-day | `Easter Day` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 easter-even | `Holy Saturday` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 easter-even | `Holy Saturday` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-friday | `Friday in Easter Week` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 easter-monday | `Monday in Easter Week` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -969,10 +1029,8 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 epiphany-3 | `Third Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 epiphany-4 | `Fourth Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 epiphany-5 | `Fifth Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 epiphany-6 | `Sixth Sunday after the Epiphany` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 epiphany-6 | `Sixth Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 epiphany-7 | `Seventh Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 epiphany-8 | `Eighth Sunday after the Epiphany` | the traditional-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 epiphany-8 | `Eighth Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 epiphany-last | `Last Sunday after the Epiphany` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 good-friday | `Good Friday` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -981,17 +1039,14 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 lent-1 | `First Sunday in Lent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 lent-2 | `Second Sunday in Lent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 lent-3 | `Third Sunday in Lent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 lent-4 | `Fourth Sunday in Lent` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 lent-4 | `Fourth Sunday in Lent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 lent-5 | `Fifth Sunday in Lent` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 monday-before-easter | `Monday in Holy Week` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 palm-sunday | `Sunday of the Passion: Palm Sunday` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 purification | `The Presentation` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 st-andrew | `Saint Andrew` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 st-andrew | `Saint Andrew` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-barnabas | `Saint Barnabas` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-bartholomew | `Saint Bartholomew` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 st-james | `Saint James` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 st-james | `Saint James` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-james-of-jerusalem | `Saint James of Jerusalem` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-john-baptist | `The Nativity of Saint John the Baptist` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -1006,7 +1061,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 st-michael | `Saint Michael and All Angels` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-peter | `Saint Peter and Saint Paul` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-philip-st-james | `Saint Philip and Saint James` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
-| 1979 st-simon-st-jude | `Saint Simon and Saint Jude` | the contemporary-language collect for this day is absent from the public-domain e-text (a dropout in its 1993 keying, not a feature of the book); not reconstructed. |
 | 1979 st-simon-st-jude | `Saint Simon and Saint Jude` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-stephen | `Saint Stephen` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
 | 1979 st-thomas | `Saint Thomas` | 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. |
@@ -1045,17 +1099,6 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1662 Kalendar (July 26) | `S. Anne, mother to ye Bl. V. M.` | The letters after *Bl.* are broken in the print (both renderings): an upright stroke, a stop, part of an M, a stop. *V. M.* is what the fragments allow, not what they show. |
 | 1789 (American) Kalendar | `November Morning 1, Evening 1` | the source column(s) Morning 1, Evening 1 carry one entry fewer than this month has days, so they are omitted for November rather than aligned on a guess, which would misdate every following day of the month |
 | 1892 (American) Proper Lessons | `A TABLE OF PROPER LESSONS FOR HOLY-DAYS.: Morning 2` | the source column(s) Morning 2 do not match the height of the others in this table, so they are omitted rather than aligned on a guess |
-| 1979 (American) Daily Office Lectionary | `Proper 4 (=Week of 1-12; 2 Cor. 6:3-13(14-7:1); Luke 17:11-19)` | the e-text merges a reading line into this week heading; the heading is carried as printed and the displaced readings are not reconstructed |
-| 1979 (American) Daily Office Lectionary | `Year One / Proper 10 (Week of the Sunday closest to July 13) / Friday` | the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Mark 15:12-21` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Luke 10:1-12,17-20` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Matt. 22:15-22` | the e-text yields 5 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `John 2:1-12` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `2 Cor. 5:11-21 Mark 10:35-45` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `1 Cor. 10:14-17,- 42[*]` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Rom. 11:1-12 Matt. 25:1-13` | the e-text yields 2 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Year Two / Proper 19 (Week of the Sunday closest to September 14) / Friday` | the e-text yields 0 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
-| 1979 (American) Daily Office Lectionary | `Luke 14:18-30` | the e-text yields 6 readings where this office takes 3; carried exactly as the e-text prints it, not repaired |
 | 1979 (American) Eucharistic Lectionary | `Year A: First and Second Sundays of Advent` | the public-domain e-text loses page 889 entirely, taking the '<Year A>' heading, the close of 'Concerning the Lectionary', and Year A's First and Second Sundays of Advent; the rows are absent rather than reconstructed |
 | 1979 (American) Eucharistic Lectionary | `Hebrews 1:1-12, John 1:1-14` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890) |
 | 1979 (American) Eucharistic Lectionary | `John 1:29-41` | the e-text yields 3 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 890) |
@@ -1072,6 +1115,29 @@ Each is flagged inline in the text and should be checked against a page scan.
 | 1979 (American) Eucharistic Lectionary | `Luke 19:29-40` | the e-text yields 2 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 914) |
 | 1979 (American) Eucharistic Lectionary | `The Great Vigil: See pages 288-291` | the e-text yields 1 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 915) |
 | 1979 (American) Eucharistic Lectionary | `Luke 12:13-21` | the e-text yields 6 citation fields where this occasion takes 4; carried exactly as the e-text prints it, not repaired (page 919) |
+| 1979 (American) Burial of the Dead | `morning watch;redemption.` | the 1993 keying fuses two verses of Psalm 130 ('watch;redemption'); the witness (Church Publishing's PDF, p. 474) prints the half-verse 'I say, before the morning watch' and the verse that follows, but restoring them would take a mediant from the file (R11, R22), so the verse is carried as the e-text prints it |
+| 1979 (American) Burial of the Dead | `and lead me forth in the paths` | the 1993 keying fuses two verses of Psalm 23; the witness (Church Publishing's PDF, p. 476) prints the half-verse 'beside the waters of comfort' and the verse 'He shall convert my soul', but restoring them would take a mediant from the file (R11, R22), so the verse is carried as the e-text prints it |
+| 1979 (American) Burial of the Dead | `face froRD in the land of the living` | the 1993 keying fuses two verses of Psalm 27 ('froRD'); the witness (Church Publishing's PDF, p. 478) prints 'from me' and the next verse, but restoring them would take a mediant and the small-capital Name from the file (R11, R22), so the verse is carried as the e-text prints it |
+| 1979 (American) Daily Office Lectionary | `Luke 3:19` | the witness (Church Publishing's PDF, p. 938) prints 'Luke 3:1-9'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Matt. 6:1-16` | the witness (Church Publishing's PDF, p. 948) prints 'Matt. 6:1-6'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Exod. 12:1-14** \| John 1:1-18**` | row regenerated from the witness (Church Publishing's PDF, p. 958), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page |
+| 1979 (American) Daily Office Lectionary | `Acts 2:26-41(42-47)[*]` | the witness (Church Publishing's PDF, p. 958) prints 'Acts 2:36-41(42-47)*'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Rom. 4:7-12` | the witness (Church Publishing's PDF, p. 978) prints 'Rom. 14:7-12'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `2 Samuel 18:19-23` | the witness (Church Publishing's PDF, p. 980) prints '2 Samuel 18:19-33'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `John 11:45-47` | the witness (Church Publishing's PDF, p. 984) prints 'John 11:45-57'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Acts 9:10-31` | the witness (Church Publishing's PDF, p. 984) prints 'Acts 9:10-32'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `[83] or 146, 147` | the witness (Church Publishing's PDF, p. 984) prints '[83] or 116, 117'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `[59,60] or 33` | the witness (Church Publishing's PDF, p. 990) prints '[59, 60] or 103'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Amos 7:10-17, 24-25` | the witness (Church Publishing's PDF, p. 937) prints 'Amos 7:10-17'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Haggai 2:1-19` | the witness (Church Publishing's PDF, p. 937) prints 'Haggai 2:1-9'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Lam. 2:1-9, 14-17` | the witness (Church Publishing's PDF, p. 957) prints 'Lam. 2:1-9'; the second check does not settle it (continuity: book, cell; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `Lam. 2:10-18 \| 1 Cor. 10:14-17; 11:27-32` | row regenerated from the witness (Church Publishing's PDF, p. 957), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page |
+| 1979 (American) Daily Office Lectionary | `Exod. 12:1-14** \| John 1:1-18**` | row regenerated from the witness (Church Publishing's PDF, p. 959), which prints this row's alternatives on a second line; the column each alternative takes is the script's reading of the page |
+| 1979 (American) Daily Office Lectionary | `Job 6:1,7:1-21` | the witness (Church Publishing's PDF, p. 981) prints 'Job 8:1-10, 20-22'; the second check does not settle it (continuity: none; elsewhere in the file: cell form 0, book form 0); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `[83] or 146, 147 \| Evening Psalms: 85, 86` | the witness (Church Publishing's PDF, p. 985) prints '[83] or 116, 117'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary | `[59,60] or 33 \| Ecclus. 31:12-18,25-32:2` | the witness (Church Publishing's PDF, p. 991) prints '[59, 60] or 103'; the second check does not settle it (other year: neither; elsewhere in the file: cell form 2, book form 1); carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary (Holy Days) | `Mark 15:14-20` | the witness (Church Publishing's PDF, p. 998) prints 'Mark 15:47-16:7'; no second check settles it; carried as the e-text prints it (R11 addendum) |
+| 1979 (American) Daily Office Lectionary (Holy Days) | `148, 150` | the witness (Church Publishing's PDF, p. 1000) prints '48, 150'; no second check settles it; carried as the e-text prints it (R11 addendum) |
 | 1928 (American) Psalm 32 | `whilst` | the 1928 witnesses disagree: the 1929 printing (BCP1929, scan 208R, p. 377) reads "For while I held"; the 1952 facsimile of the Standard Book (scan 219R, p. 377) reads "whilst", as the carrier. A printing disagreement, recorded and not imported (R19) |
 | 1928 (American) Psalm 35 | `sack-cloth` | both 1928 printings break this word at a line end ("sack-" / "cloth"): BCP1929 scan 211L and the 1952 facsimile scan 222L, both p. 382, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it |
 | 1928 (American) Psalm 50 | `he-goats` | both 1928 printings break this word at a line end ("he-" / "goats"): BCP1929 scan 221L and the 1952 facsimile scan 232L, both p. 402, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it |

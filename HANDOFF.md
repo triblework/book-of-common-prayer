@@ -18,6 +18,53 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 23 (the rest of the 1979 text vs the publisher's file) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+
+Workstream A of the coordinator session (see the Wave 21 block). Guide:
+`ingest/WAVE23_GUIDE.md`. Rulings **R22** and the **R11 addendum** (the
+witness is a COMPOSITE: pp. 19–30 a 2008 Calendar, pp. 889–932 the 2007
+RCL — `tables/calendar` and `tables/eucharistic-lectionary` untouched, 100
+flags unclosable from this file), plus the batch rulings A0–A16.
+
+What it did, in four reviewable commits on `authoring` (then one merge
+commit for the rename, provenance, docs and gates): **(1)** 865 keyed items
+— 297 word readings, 12 spellings, 104 restored passages (51 hand-keyed by
+anchor; the 8 absent collects among them), 2 heading texts (slugs kept), 193
+stops before the mediant, 28 rubric-final stops, 90 other stops, and the
+Daily Office Lectionary repaired row by row (33 rows restored, 58 cells, 13
+marks, the Year Two Christmas block, 3 disputes settled for the book) plus
+the NEW cell `tables/daily-office-lectionary-holy-days` (45 rows; a silent
+absence until the survey); **(2)** 479 markup normalizations in 93 cells;
+**(3)** 81 prayers cells re-flowed (572 breaks). Flags 19 closed, 23 opened
+(15 lectionary numeral disputes carrying both readings, 3 regenerated rows,
+2 Holy Days disputes, 3 Burial psalm verses): 1979 flags 127 → 131. After
+the wave 11 of 2,176 prose paragraphs differ from the book, all accounted
+for.
+
+Scripts: `w23_book.py`, `w23_survey.py` (the standing 1979 survey), `w23_classify.py`,
+`w23_flags.py`, `w23_tables.py`, `w23_items.py` / `w23_witness_items.py` /
+`w23_evidence.json` / `w23_dropped.json`, `w23_hand.py`, `w23_dol_extra.py` /
+`_evidence.json`, `w23_witness.py` (groups + STAGE), `w23_apply.py`,
+`w23_reflow.py`, `w23_gates.py`, `w23_report.py`, `gen_wave23_provenance.py`,
+`w23_docs.py`. Amended: `editions.yaml` (the new cell), `w14_audit.py`
+(820 DOL rows; the Holy Days Eves as KNOWN_GOOD), `w14_fidelity.py` (a
+witness-attested set for the restored Scripture rubric), `w19_gates.py`
+(pinned to Wave 19's own END commit, since this wave edits its cells — R18).
+
+Gates: `w23_gates` 0 at every stage (containment vs `710f635b` by SHA, the
+Wave-19 residue, the two untouchable cells, no markup survives, run-on);
+`w13`–`w22` 0; `verify_index --check` OK.
+
+**Queue from this wave:** the 100 flags that need a pre-2006 printing scan;
+the case pass from the font runs (Sabon-RomanSC) if R11's limit is reopened;
+26 lines opening an italic mark the e-text never closes (not a R22 pattern;
+needs a rule); DOL row 919 (Year Two, 2 Advent, Sunday: cell `1 Thess.
+5:1-11`, book `2 Thess. 1:5-12`, cell kept on a weak second check — look at
+it); two DOL rows the book parse misses (Year Two 2 Epiphany Sunday, Year Two
+Palm Sunday), carried from the e-text unverified.
+
+---
+
 ## CURRENT — WAVE 22 (the 1892 Psalter: every mediant read by eye) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
 
 Workstream C of the coordinator session (see the Wave 21 block for the
@@ -1693,8 +1740,8 @@ cost. Nothing over 5 MB was downloaded by the survey.
 Every claim here was checked that day; re-check the reachability ones before
 planning around them.
 
-1. **The 1979 text against Church Publishing's own PDF — DONE (Wave 19), one
-   pass remains.** The Psalter is collated and the named dropouts repaired;
+1. **The 1979 text against Church Publishing's own PDF — DONE (Wave 19 the Psalter; Wave 23 the rest, 2026-10-16). What this witness CANNOT settle: 100 flags (84 three-year-reading, 16 eucharistic-table), because its pp. 889–932 are the 2007 RCL and pp. 19–30 a 2008 Calendar — they need a scan of a pre-2006 printing. The original entry, kept for the record:** one
+   pass remains. The Psalter is collated and the named dropouts repaired;
    what is left is the ~110 non-table paragraphs `w19_survey.py` reports as
    not matching the book (propers 89%, daily office 93%, holy communion 94%,
    occasional offices 96%, ordinal 97%, prayers 98% verbatim), plus the
@@ -1878,6 +1925,15 @@ it drifting.**
 
 ## 9. Gotchas / lessons
 
+- **A publisher's file can be a composite (Wave 23).** Church Publishing's
+  1979 PDF carries a 2008 Calendar and the 2007 RCL on pages that look like
+  the rest; the production slug on each page gives it away. Read the slugs
+  before collating a born-digital file.
+- **Gates test what you thought of (Wave 23).** A first build passed every
+  gate and still carried a run-on at a wrapped fragment's edge, Morning
+  Prayer's collects keyed into Evening Prayer, and passages cut short at an
+  edge; a re-survey of the OUTPUT found them. Survey the result, not only the
+  input.
 - **A gate pinned to a live tag dies when its wave is published (R18).**
   `w17_gates` had failed since 2026-09-18 for that reason and nobody ran it.
   Containment gates pin the `authoring` commit the wave started from, by SHA.

@@ -1,4 +1,4 @@
-"""wxa_hand.py -- the passages the mechanical keying refused, hand-keyed by
+"""w23_hand.py -- the passages the mechanical keying refused, hand-keyed by
 script with their own anchors (R22: "what the mechanical keying refuses is
 hand-keyed by script with its own anchor, or flagged").
 
@@ -246,7 +246,7 @@ HAND += [
 ]
 
 # Not restored (pointing, R11/R22): flagged, with the book's page.
-# --- found in Phase 2 (the edge, size and furniture guards, wxa_items):
+# --- found in Phase 2 (the edge, size and furniture guards, w23_items):
 # items the mechanical keying made that cut a paragraph short, or that
 # aligned a paragraph to the wrong text, are refused there and the passage
 # is keyed here from the book.

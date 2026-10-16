@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""wxa_report.py -- the generated tables of A_REPORT.md's "Phase 2" section
+"""w23_report.py -- the generated tables of A_REPORT.md's "Phase 2" section
 (Workstream A, Wave 23). Bodies stay out: every quotation is a key of at
 most six words, an item id, or a page.
 
-    python3 ingest/wxa_report.py [--gates DIR] [--proposed DIR] [--out FILE]
+    python3 ingest/w23_report.py [--gates DIR] [--proposed DIR] [--out FILE]
 
   --gates DIR     saved gate outputs (s1_*, s2_*, s3_*, c3_* .txt), pasted
   --proposed DIR  where the proposed copies of files this workstream may
@@ -25,7 +25,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
-import wxa_witness as W
+import w23_witness as W
 
 SCRATCH = ('/private/tmp/claude-501/-Users-wtrible-Developer-bcp--claude-'
            'worktrees-bcp-wave-20-coordinator-5838d5/ff7c7f54-263d-4ce2-ac10-'
@@ -77,10 +77,10 @@ def commits():
                                 sum(c.values())))
     p('| **all** | %s | **%d** |' % (' | '.join(str(tot[g]) for g in groups),
                                     sum(tot.values())))
-    ev = json.load(open(os.path.join(HERE, 'wxa_dol_extra_evidence.json')))
+    ev = json.load(open(os.path.join(HERE, 'w23_dol_extra_evidence.json')))
     src = collections.Counter(r['source'] for r in ev['rows'])
     p('\nNew cell `tables/daily-office-lectionary-holy-days.md` (generator '
-      '`wxa_dol_extra.py`): %d rows -- %s; %d flags (P2.6).\n'
+      '`w23_dol_extra.py`): %d rows -- %s; %d flags (P2.6).\n'
       % (len(ev['rows']), ', '.join('%s %d' % kv for kv in sorted(src.items())),
          len(ev['flags'])))
 
@@ -97,9 +97,9 @@ def commits():
             '`%s` %d' % kv for kv in c.most_common()).replace('|', '\\|')))
 
     p('\n### P2.3 Commit 3 -- the re-flow, per file\n')
-    import wxa_book
-    import wxa_reflow
-    bw = wxa_book.Book().joined
+    import w23_book
+    import w23_reflow
+    bw = w23_book.Book().joined
     p('| file | breaks joined | fragments | paragraphs | words rejoined |')
     p('|---|---|---|---|---|')
     t = collections.Counter()
@@ -112,8 +112,8 @@ def commits():
             continue
         t['seen:' + rel] = 1
         s2 = W.expected(rel, base(rel), 2)
-        _n, j, b, a = wxa_reflow.reflow(s2, bw)
-        g = len(wxa_reflow.reflow.glued)
+        _n, j, b, a = w23_reflow.reflow(s2, bw)
+        g = len(w23_reflow.reflow.glued)
         t.update({'j': j, 'b': b, 'a': a, 'g': g, 'files': 1})
         p('| %s | %d | %d | %d | %s |' % (rel, j, b, a, g or ''))
     p('| **%d files** | %d | %d | %d | %d |\n' % (t['files'], t['j'], t['b'],
@@ -171,10 +171,10 @@ def ledger():
 
 # ---------------------------------------------------------------------------
 def refused():
-    import wxa_hand as H
-    d = json.load(open(os.path.join(HERE, 'wxa_dropped.json')))
+    import w23_hand as H
+    d = json.load(open(os.path.join(HERE, 'w23_dropped.json')))
     p('### P2.5 Refused and dropped, with reasons\n')
-    p('**Items not made** (%d; `wxa_dropped.json`)\n' % len(d['dropped']))
+    p('**Items not made** (%d; `w23_dropped.json`)\n' % len(d['dropped']))
     p('| file:line | class | reason | page | what (first six words) |')
     p('|---|---|---|---|---|')
     for x in d['dropped']:
@@ -188,7 +188,7 @@ def refused():
     p('| file:line | edge | fix | page | disposition |')
     p('|---|---|---|---|---|')
     for x in d.get('edge_notes', []):
-        disp = ('the lost stretch is hand-keyed (wxa_hand)' if (x['file'], x['line'])
+        disp = ('the lost stretch is hand-keyed (w23_hand)' if (x['file'], x['line'])
                 in hand_at else
                 'the wrap split a word; the re-flow joins it' if 'harvest' in x['file']
                 else 'layout only: the book sets a heading, list or second '
@@ -196,7 +196,7 @@ def refused():
         p('| %s:%d | %s | `%s` | %s | %s |' % (x['file'], x['line'], x['edge'],
                                                cell_esc(x['what']), x['page'], disp))
     # A15: the Phase-1b passage refusals and what became of each
-    old = json.loads(git('show', '3a54bd4:ingest/wxa_dropped.json'))['dropped']
+    old = json.loads(git('show', '3a54bd4:ingest/w23_dropped.json'))['dropped']
     d8 = [x for x in old if x['class'] == 'd8']
     flagged = {(f['file'], f['line']) for f in H.FLAGGED}
     mk = collections.defaultdict(list)
@@ -228,13 +228,13 @@ def refused():
     p('\nA15 tally: %s.\n' % ', '.join('%s %d' % kv for kv in sorted(n.items())))
     hp = [it for it in W.ITEMS['PASSAGES'] if it['class'] == 'hand']
     p('Hand-keyed passages in all: %d (each a PASSAGES item of class `hand`, '
-      'its book text cut between the anchors in `wxa_hand.py`).\n' % len(hp))
+      'its book text cut between the anchors in `w23_hand.py`).\n' % len(hp))
 
 
 # ---------------------------------------------------------------------------
 def dol():
-    d = json.load(open(os.path.join(HERE, 'wxa_dropped.json')))
-    import wxa_tables as T
+    d = json.load(open(os.path.join(HERE, 'w23_dropped.json')))
+    import w23_tables as T
     T.compare(T.cell_dol(text=base('tables/daily-office-lectionary.md')),
               T.book_dol())
     p('### P2.6 The DOL second check (A13), and the Holy Days rows (A14)\n')
@@ -281,7 +281,7 @@ def dol():
             cell_esc(c['book']), cell_esc(oy)[:60], cell_esc(el),
             ch.get('continuity', '-'), c['supports'], oc))
     p('\nOutcomes: %s.\n' % ', '.join('%s: %d' % kv for kv in tally.most_common()))
-    ev = json.load(open(os.path.join(HERE, 'wxa_dol_extra_evidence.json')))
+    ev = json.load(open(os.path.join(HERE, 'w23_dol_extra_evidence.json')))
     p('**Holy Days / Special Occasions rows** (book pp. 996-1001; `source` '
       '= the carrier row checked field by field, or the witness):\n')
     p('| row | source | page | e-text entry |')
@@ -294,14 +294,14 @@ def dol():
 
 
 # ---------------------------------------------------------------------------
-GATES = ['wxa_gates', 'w13_fidelity', 'w13_audit', 'w14_fidelity', 'w14_audit',
+GATES = ['w23_gates', 'w13_fidelity', 'w13_audit', 'w14_fidelity', 'w14_audit',
          'w15_fidelity', 'w15_audit', 'w16_gates', 'w17_gates', 'w18_gates',
          'w19_gates', 'w20_gates', 'verify']
 
 
 def gates(gdir):
     p('### P2.7 Gates, per commit\n')
-    p('Each stage was written from the base (`wxa_apply.py --stage N --write`) '
+    p('Each stage was written from the base (`w23_apply.py --stage N --write`) '
       'and gated before its commit; `c3` is the committed tip after commit 3 '
       '(commit 4 touches no cell).\n')
     p('| gate | ' + ' | '.join(['commit 1', 'commit 2', 'commit 3', 'tip']) + ' |')
@@ -319,7 +319,7 @@ def gates(gdir):
                 row.append('OK' if 'OK' in t[0] else '%d complaints' % n)
             else:
                 summ = [l for l in t if re.match(
-                    r'^(audit|fidelity|w\d+ \w+|wxa gates)[^:]*:', l)]
+                    r'^(audit|fidelity|w\d+ \w+|w23 gates)[^:]*:', l)]
                 row.append(cell_esc((summ[-1] if summ else t[-1])[:70]))
         p('| %s | %s |' % (gname, ' | '.join(row)))
     for gname in ('w19_gates', 'w20_gates', 'w17_gates', 'w14_fidelity', 'w14_audit'):
@@ -387,7 +387,7 @@ def norm_sig(t):
 def proposed(pdir, closed, opened):
     os.makedirs(pdir, exist_ok=True)
     p('### P2.8 Proposed diffs for files this workstream may not edit\n')
-    p('Each is generated by `wxa_report.py` and tested on a scratch copy; '
+    p('Each is generated by `w23_report.py` and tested on a scratch copy; '
       'none is applied here.\n')
 
     # editions.yaml
@@ -454,16 +454,16 @@ def proposed(pdir, closed, opened):
             b -= 1
         lines[b:b] = ins
     r = block_range(lines, 'tables/daily-office-lectionary')
-    ev = json.load(open(os.path.join(HERE, 'wxa_dol_extra_evidence.json')))
+    ev = json.load(open(os.path.join(HERE, 'w23_dol_extra_evidence.json')))
     entry = ['  - edition: 1979',
              '    service: %s' % newcell,
              '    source_url: "http://justus.anglican.org/resources/bcp/bcplectn.txt"',
              '    retrieved: 2026-10-16',
              '    status: transcribed',
              '    depth: table',
-             '    verifier: %s' % yq('claude-opus-5.5 (wxa_dol_extra.py: carrier rows '
+             '    verifier: %s' % yq('claude-opus-5.5 (w23_dol_extra.py: carrier rows '
                                      'checked field by field against Church '
-                                     "Publishing's PDF; wxa_gates, w14_audit)"),
+                                     "Publishing's PDF; w23_gates, w14_audit)"),
              '    note: %s' % yq(
                  "The Daily Office Lectionary's Holy Days and Special Occasions "
                  '(book pp. 996-1001), which the 1993 e-text carries after its '
@@ -644,9 +644,9 @@ def proposed(pdir, closed, opened):
 
 # ---------------------------------------------------------------------------
 def evidence():
-    ev = json.load(open(os.path.join(HERE, 'wxa_evidence.json')))
+    ev = json.load(open(os.path.join(HERE, 'w23_evidence.json')))
     p('### Appendix P2-E -- evidence keys with pages, every item\n')
-    p('Key = `GROUP:file:line:n` in `wxa_evidence.json` (the book fragment, the '
+    p('Key = `GROUP:file:line:n` in `w23_evidence.json` (the book fragment, the '
       'cell fragment and the check sit there). Listed per file and group as '
       '`line:n p.page` (MARKUP: the rule; a flag: its note names the page).\n')
     p('| file | group | keys |')
