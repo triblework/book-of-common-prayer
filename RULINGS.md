@@ -133,6 +133,25 @@ letter-case nor pointing may be taken from such a file** -- exactly as page
 OCR cannot settle `:` against `;` (R7's habit of asking what a witness cannot
 say).
 
+*Addendum (maintainer, 2026-10-16, Wave 23).* The publisher's file is not
+the 1979 book on every page. Two runs of pages were replaced after 1979 and
+carry the producer's slug: pp. 19–30, the Calendar (`cpg-bcp-calendar.indd
+… 06/12/08`, with commemorations added since 1979), and pp. 889–932, headed
+*The Revised Common Lectionary* (`RCL pages for BCP 4/13/07`). Neither may
+settle a 1979 reading: `tables/calendar.md` and
+`tables/eucharistic-lectionary.md` have no witness in this file, and a gate
+(`w23_gates`) refuses any change to them from it. The text layer also
+confuses the digit 1 with capital I and a closing bracket with 1, and in the
+Daily Office Lectionary it prints citations no printing could have
+(`Mark. 23:1-12`), so a citation disagreement there is settled by the file
+only when a second check agrees (the other year's same week, the same
+citation elsewhere in the file, verse continuity); otherwise both readings
+are flagged. The file DOES record each run's typeface (Sabon-RomanSC for
+small capitals), so the small-capital LORD is recoverable from it after all;
+the case limit above stands for now and its reopening is queued in
+`HANDOFF.md` §8 as a pass of its own with its own gate. *Reopened by:* a
+scan of a pre-2006 printing.
+
 ## R9 — Normalization is spelling only
 *Standing (`tools/normalization_rules.yaml`).*
 
@@ -329,6 +348,135 @@ Every later wave's gate does the same from the start.
 
 *Reopened by:* a change to the build that makes `texts/original` differ from
 the authored cell in more than flags and line breaks.
+
+## R19 — The 1928 Psalter's witness is the scan of the original printing; a later printing is a second witness within limits
+*(maintainer), 2026-10-16, Wave 21.*
+
+`v1928` is the original 1928 printing (Wave 15). Its Psalter is read against
+`1928/BCP1929.pdf` — the Cambridge Edition certified in 1929 against the
+Standard Book, with the original pagination — not against
+`1928Standard/1952std.pdf`, which its own front matter (R7) shows to be
+Seabury Press's 1952 printing of the Standard Book *as amended by subsequent
+General Conventions*: it carries the 1945 lectionary and the 1936 pagination,
+and on the page before the Psalter prints Good Friday 22:1-19 where the
+original prints 1-9. `bcp1928std.pdf` is a 2005 InDesign re-setting (a
+keying, R6).
+
+The facsimile is an independently typeset printing of the same book, so it
+shares no keying errors and is not a second rendering of one file (R14). It
+is a **second witness within limits**: it corroborates where both printings
+agree; it settles the form of a compound that the 1929 printing breaks at a
+line end (1:3 water-side, 80:10, 104:17, 139:1); and where the printings
+disagree the cell follows the original printing's **edition**, not its
+slips — the ten places found (seven plain misprints of 1929, `while`/`whilst`
+32:3, `old`/`own` 55:14, one comma) are recorded, the two real readings as
+inline flags, and none imported. **A single printing's slip is not the
+edition's reading.** The three cell verses the 1929 printing leaves
+unpointed (18:10, 73:20, 123:2) keep their mediant: the facsimile prints it.
+
+*Reopened by:* a scan of the Standard Book itself (the Updike printing).
+
+## R20 — The Psalter's closing line is book furniture
+*(maintainer), 2026-10-16, Waves 21–22.*
+
+"The End of the Psalter." is set by the 1892 and 1928 books as a line of its
+own after 150:6; the keyed carriers fused it into the verse and the cells
+published it there. It is deleted, as Wave 19 deleted the 1979 keying's
+end-of-file marker, so the three American psalters end alike. One rule for
+every node.
+
+## R21 — Pointing and punctuation of a Psalter read against a scan
+*(maintainer), 2026-10-16, Wave 22; the 1892 Psalter.*
+
+- **` : ` is the repo's structural mediant mark**, not a transcription of a
+  glyph (for 1928 and 1979 it renders the book's asterisk). Where the book
+  prints the mediant on a different word, the mark moves (39:14, 100:2), as
+  Wave 17's seven pointing corrections did. Where the book sets `;` at the
+  mediant with no colon anywhere in the verse (107:1, 139:7) the cell keeps
+  ` : ` and an inline flag records the book's mark; a verse is never left
+  without its one mediant.
+- **Ordinary punctuation follows the book.** The 1892 carrier was keyed over
+  a 1662 base and carries 1662's stops: 328 real differences in 440
+  machine-flagged places, each read by eye. Non-mediant `:` and `;` are set
+  closed up, as every other stop is; only the mediant is spaced.
+- **Done means every verse read by eye.** The machine classes every verse
+  and finds the candidates; a 150-verse control (seed 20261016) disagreed
+  with the machine in 0 of 150 at the mediant, which bounds the miss rate at
+  2%; the full eye pass is made anyway, because the claim "every mediant
+  read" is worth 52 strips. Word forms the alignment left unmatched get an
+  eye pass of their own.
+- Psalm 1:3 `water-side` stays flagged: the one occurrence in 596 pages is
+  broken at a line end; the book's habit (9 of 9 other `water-` compounds
+  hyphenated mid-line) is analogy, not proof. The flag's note is corrected —
+  the keyed Standard text breaks the word at the same place, it does not
+  print "waterside".
+
+*Reopened by:* a decision to encode a `;`-mediant as printed (which would
+need the one-mediant gate to carry an exemption list).
+
+## R22 — Reading the 1979 text against the publisher's file: what is fixed, restored, normalized and re-flowed
+*(maintainer), 2026-10-16, Wave 23.*
+
+- **Keying defects are corrected** from the book (typos, thee/you mix-ups,
+  wrong, dropped, extra and reordered words, citation numerals, spelling and
+  word division), each keyed to one paragraph with an exactly-once check and
+  words on both sides, each re-read in its page context, and none taken
+  where the book's reading is a text-layer glyph (1/I, ]/1) or touches case
+  or pointing (R11).
+- **Lost text is restored** from a witness of a different class, keyed to
+  the fused fragment it replaces, as Wave 19 did: swallowed and spliced
+  passages, collects the e-text substituted, the eight absent collects, the
+  lectionary's lost rows and the Holy Days entries the e-text dropped. A
+  splice (`thf the Gospel`) is a reading no printing has. What the mechanical
+  keying refuses is hand-keyed by script with its own anchor, or flagged.
+- **Stops**: the stop before a canticle's mediant is restored (carrier and
+  book agree; the repo's render dropped it); rubric-final stops follow the
+  book; other punctuation follows the book except adjacent to a mediant or a
+  versicle mark.
+- **A keying typo in a heading is fixed; the slug is not** (`For the
+  Oppresed`, `All Saint's Day`). R8 protects a heading against a witness's
+  broken title, not a typo; R5 forbids moving the file; the slug's
+  misspelling is recorded in provenance.
+- **E-text markup published as text is normalized** (`=x=`, `&V.`, `&N.`,
+  `&mdash.`, `[[ ]]`, broken speaker labels, the end-of-file marker) in a
+  commit of its own, and **the prayers' hard wrap is re-flowed** to the
+  book's paragraphs in a commit of its own, so each diff is reviewable.
+- **Lectionary numeral disputes**: the file's reading only when a second
+  check agrees; otherwise an inline flag carrying both readings.
+- `wxa_survey.py` (as `w23_survey.py`) is the standing 1979 survey; a miss
+  is a candidate, not a defect.
+
+*Reopened by:* a scan of a pre-2006 printing, for anything the composite
+witness could not settle (R11 addendum).
+
+---
+
+## Queued rulings (provisional; made 2026-10-16 on the justus survey, to be confirmed when each step is started)
+
+The survey (`ingest/WAVE23_GUIDE.md`, HANDOFF §8) found page scans the
+project had not had. The maintainer took the survey's recommendations as
+provisional rulings so the queue is actionable; each is re-confirmed when its
+step begins.
+
+- **1789**: the witness is the earliest scan that prints each passage (the
+  1790 partial folio where it has it, else the 1795 Hugh Gaine folio), with
+  the printing recorded on every reading; the 1845 Standard corroborates
+  only. Gibson (`std_eds1.htm`, `std_eds2.htm`) is read first (R7): the 1793
+  Standard corrected the 1790 printing's 29 November lesson.
+- **The 1789 Psalter gap reopens under R2** with the 1795 folio's
+  `psalms.pdf`: a source for the 1789 edition itself.
+- **1604**: the 1623 "Bible version" for everything it prints, the 1634
+  printing for what it lacks; readings that depend on the king only from
+  1623 (1634 names King Charles).
+- **justus's small page photographs** (300–600 px, copy unstated) may
+  supply word-level readings by eye at native size, recorded as from an
+  unidentified copy, never case or pointing. The 1549 ordering-of-priests
+  tail they suggest is brought to the maintainer before it is applied.
+- **The 1637 Kalendar and rubrics** are a scope gap, not a missing source
+  (justus serves them as HTML); transcribe with the Wave-14 parser, flagged
+  unverified like the rest of v1637.
+- **The 1892 Kalendar** is in the cached 1892 scan (pp. 12–23); transcribe
+  with the Wave-20 pipeline on the 1789 row model.
 
 ---
 
