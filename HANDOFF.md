@@ -18,7 +18,20 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 23 (the rest of the 1979 text vs the publisher's file) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+## CURRENT — WAVE 23 (the rest of the 1979 text vs the publisher's file) DONE + PUBLISHED (2026-10-16)
+
+**PUBLISHED 2026-10-16 (force-pushed with maintainer go-ahead), Waves 21–23
+together. Published tips: `main ad35d50f · scottish 6d83b578 · american
+525f7fac` (identical to the pre-publish scratch build: the build is
+deterministic); branches pushed with `--force-with-lease`, all 12 tags pushed
+BY NAME; `authoring` pushed (710f635 → 77d1682 and the record commit);
+local==remote verified for 28 refs (4 heads, 12 tag objects, 12 peeled
+commits; 0 mismatched, no stray refs). Pre/post refs:
+`scratchpad/pre-publish-refs-w23.txt`, `post-publish-refs-w23.txt`
+(scratchpad, not durable). Viewer: 280 data files (the new 1979 Holy Days
+cell is the 280th); see the viewer check recorded below.**
+
+
 
 Workstream A of the coordinator session (see the Wave 21 block). Guide:
 `ingest/WAVE23_GUIDE.md`. Rulings **R22** and the **R11 addendum** (the
@@ -63,9 +76,7 @@ collects, 8 occasional offices, 4 ordinal, 3 tables, 2 daily office, 2
 front-matter, the Litany, Holy Communion); the other nine tags are
 byte-identical in `texts/` and differ only in NOTICE/README/SOURCES. Every
 tag and branch passes `sentence_split --check`, `normalize --check` and the
-published-context `verify_index`; no tag carries U+FFFD. NOT PUBLISHED: the
-six steps in the Wave-15 block with the Wave-18/19 refinements (tags pushed
-BY NAME; no scratch tags) wait for the maintainer's go-ahead (R4).
+published-context `verify_index`; no tag carries U+FFFD. Published the same day; see the record at the top of this block.
 
 **Queue from this wave:** the 100 flags that need a pre-2006 printing scan;
 the case pass from the font runs (Sabon-RomanSC) if R11's limit is reopened;
@@ -77,7 +88,10 @@ Palm Sunday), carried from the e-text unverified.
 
 ---
 
-## CURRENT — WAVE 22 (the 1892 Psalter: every mediant read by eye) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+## CURRENT — WAVE 22 (the 1892 Psalter: every mediant read by eye) DONE + PUBLISHED (2026-10-16)
+
+**PUBLISHED 2026-10-16 together with Waves 22–23 / 21; tips and verification in the Wave 23 block.**
+
 
 Workstream C of the coordinator session (see the Wave 21 block for the
 session shape). Guide: `ingest/WAVE22_GUIDE.md`. Rulings **R20** (the
@@ -121,7 +135,10 @@ Gates: `w22_gates` 0; `w13_changelog` 55/55; `w13_audit`, `w13_fidelity` 0;
 
 ---
 
-## CURRENT — WAVE 21 (the 1928 Psalter vs the original printing) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+## CURRENT — WAVE 21 (the 1928 Psalter vs the original printing) DONE + PUBLISHED (2026-10-16)
+
+**PUBLISHED 2026-10-16 together with Waves 22–23 / 21; tips and verification in the Wave 23 block.**
+
 
 **Session shape, new this wave:** a COORDINATOR session ran four workstreams
 on sub-agents in parallel (A: the rest of 1979; B: this wave; C: the 1892
@@ -174,8 +191,6 @@ OK (336 inline / 431 provenance). Also found by the survey and fixed here:
 `SOURCES.md`'s 1929 Scottish row named A. C. Don's history booklet as the
 book.
 
-**Not yet published.** The full build and the publish happen once Waves 22
-and 23 are merged (one build, one go-ahead).
 
 ---
 
