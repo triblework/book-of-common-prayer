@@ -62,7 +62,7 @@ LORD, how are they increased that trouble me! : many are they that rise against 
 
 6 I will not be afraid for ten thousands of the people, : that have set themselves against me round about.
 
-7 Up, LORD, and help me, O my God, : for thou smitest all mine enemies upon the cheekbone; thou hast broken the teeth of the ungodly.
+7 Up, LORD, and help me, O my God, : for thou smitest all mine enemies upon the cheek-bone; thou hast broken the teeth of the ungodly.
 
 8 Salvation belongeth unto the LORD; : and thy blessing is upon thy people.
 
@@ -316,7 +316,7 @@ IN the LORD put I my trust; : how say ye then to my soul, that she should flee a
 
 > Salvum me fac.
 
-HELP me,LORD, for there is not one godly man left; : for the faithful are minished from among the children of men.
+HELP me, LORD, for there is not one godly man left; : for the faithful are minished from among the children of men.
 
 2 They talk of vanity every one with his neighbour; : they do but flatter with their lips, and dissemble in their double heart.
 
@@ -510,8 +510,7 @@ I WILL love thee, O LORD, my strength. : The LORD is my stony rock, and my defen
 
 27 With the clean thou shalt be clean, : and with the froward thou shalt be froward.
 
-28 For thou shalt save the people that are in adversity, and shalt bring down the high looks of the proud.
-<!-- VERIFY: 'no mediant'; the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan -->
+28 For thou shalt save the people that are in adversity, : and shalt bring down the high looks of the proud.
 
 29 Thou also shalt light my candle; : the LORD my God shall make my darkness to be light.
 
@@ -611,7 +610,7 @@ THE LORD hear thee in the day of trouble; : the Name of the God of Jacob defend 
 
 8 They are brought down and fallen; : but we are risen and stand upright.
 
-9 Save,LORD; and hear us, O King of heaven, : when we call upon thee.
+9 Save, LORD; and hear us, O King of heaven, : when we call upon thee.
 
 ## Psalm 21
 
@@ -867,7 +866,7 @@ THE LORD is my light and my salvation; whom then shall I fear? : the LORD is the
 
 UNTO thee will I cry, O LORD, my strength: : think no scorn of me; lest, if thou make as though thou hearest not, I become like them that go down into the pit.
 
-2 Hear the voice of my humble petitions, when I cry unto thee; : when I hold up my hands towards the mercyseat of thy holy temple.
+2 Hear the voice of my humble petitions, when I cry unto thee; : when I hold up my hands towards the mercy-seat of thy holy temple.
 
 3 O pluck me not away, neither destroy me with the ungodly and wicked doers, : which speak friendly to their neighbours, but imagine mischief in their hearts.
 
@@ -895,7 +894,7 @@ ASCRIBE unto the LORD, O ye mighty, : ascribe unto the LORD worship and strength
 
 3 The voice of the LORD is upon the waters; : it is the glorious God that maketh the thunder.
 
-4 It is the LORD that ruleth the sea; the voice of the LORD is mighty in operation; : the voice of the LORDd is a glorious voice.
+4 It is the LORD that ruleth the sea; the voice of the LORD is mighty in operation; : the voice of the LORD is a glorious voice.
 
 5 The voice of the LORD breaketh the cedar-trees; : yea, the LORD breaketh the cedars of Lebanon.
 
@@ -1006,6 +1005,7 @@ BLESSED is he whose unrighteousness is forgiven, : and whose sin is covered.
 2 Blessed is the man unto whom the LORD imputeth no sin, : and in whose spirit there is no guile.
 
 3 For whilst I held my tongue, : my bones consumed away through my daily complaining.
+<!-- VERIFY: 'whilst'; the 1928 witnesses disagree: the 1929 printing (BCP1929, scan 208R, p. 377) reads "For while I held"; the 1952 facsimile of the Standard Book (scan 219R, p. 377) reads "whilst", as the carrier. A printing disagreement, recorded and not imported (R19) -->
 
 4 For thy hand was heavy upon me day and night, : and my moisture was like the drought in summer.
 
@@ -1148,6 +1148,7 @@ PLEAD thou my cause, O LORD, with them that strive with me, : and fight thou aga
 12 They rewarded me evil for good, : to the great discomfort of my soul.
 
 13 Nevertheless, when they were sick, I put on sack-cloth, and humbled my soul with fasting; : and my prayer shall turn into mine own bosom.
+<!-- VERIFY: 'sack-cloth'; both 1928 printings break this word at a line end ("sack-" / "cloth"): BCP1929 scan 211L and the 1952 facsimile scan 222L, both p. 382, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it -->
 
 14 I behaved myself as though it had been my friend or my brother; : I went heavily, as one that mourneth for his mother.
 
@@ -1389,7 +1390,7 @@ I WAITED patiently for the LORD, : and he inclined unto me, and heard my calling
 
 5 Blessed is the man that hath set his hope in the LORD, : and turned not unto the proud, and to such as go about with lies.
 
-6 O LORD my God, great are the wondrous works which thou hast done, like as be also thy thoughts, which are to usward; : and yet there is no man that ordereth them unto thee.
+6 O LORD my God, great are the wondrous works which thou hast done, like as be also thy thoughts, which are to us-ward; : and yet there is no man that ordereth them unto thee.
 
 7 If I should declare them, and speak of them, : they should be more than I am able to express.
 
@@ -1473,7 +1474,7 @@ LIKE as the hart desireth the water-brooks, : so longeth my soul after thee, O G
 
 9 One deep calleth another, because of the noise of thy water-floods; : all thy waves and storms are gone over me.
 
-10 The LORD will grant his loving-kindness in the daytime; : and in the night season will I sing of him, and make my prayer unto the God of my life.
+10 The LORD will grant his loving-kindness in the day-time; : and in the night season will I sing of him, and make my prayer unto the God of my life.
 
 11 I will say unto the God of my strength, Why hast thou forgotten me? : why go I thus heavily, while the enemy oppresseth me?
 
@@ -1533,7 +1534,7 @@ WE have heard with our ears, O God, our fathers have told us : what thou hast do
 
 14 Thou makest us to be rebuked of our neighbours, : to be laughed to scorn, and had in derision of them that are round about us.
 
-15 Thou makest us to be a byword among the nations, : and that the peoples shake their heads at us.
+15 Thou makest us to be a by-word among the nations, : and that the peoples shake their heads at us.
 
 16 My confusion is daily before me, : and the shame of my face hath covered me;
 
@@ -1738,6 +1739,7 @@ THE Lord, even the Most Mighty God, hath spoken, : and called the world, from th
 8 I will not reprove thee because of thy sacrifices; : as for thy burnt-offerings, they are alway before me.
 
 9 I will take no bullock out of thine house, : nor he-goats out of thy folds.
+<!-- VERIFY: 'he-goats'; both 1928 printings break this word at a line end ("he-" / "goats"): BCP1929 scan 221L and the 1952 facsimile scan 232L, both p. 402, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it -->
 
 10 For all the beasts of the forest are mine, : and so are the cattle upon a thousand hills.
 

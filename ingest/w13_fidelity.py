@@ -83,6 +83,13 @@ def main():
                 # against the book's own page.
                 import w19_witness
                 missing = sorted(toks - sources[ed] - w19_witness.introduced())
+            elif ed == "1928":
+                # Wave 21: words the 1928 scans supply (the book's hyphenated
+                # compounds, which the justus HTML prints closed) are attested
+                # by the scans instead; w21_gates.py checks every one against
+                # the scans' own OCR.
+                import w21_witness
+                missing = sorted(toks - sources[ed] - w21_witness.introduced_tokens())
             else:
                 missing = sorted(toks - sources[ed])
             bad += len(missing)

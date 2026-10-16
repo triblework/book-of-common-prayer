@@ -18,6 +18,64 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 21 (the 1928 Psalter vs the original printing) BUILT + COMMITTED on `authoring` (2026-10-16), NOT YET PUBLISHED
+
+**Session shape, new this wave:** a COORDINATOR session ran four workstreams
+on sub-agents in parallel (A: the rest of 1979; B: this wave; C: the 1892
+pointing; D: a read-only survey of justus's restored `bcp/` tree), each in its
+own git worktree on its own branch cut from `authoring`, with write scope
+limited to its edition's cells and its own `ingest/wx?_*` files; the
+coordinator batched every ruling to the maintainer in one list (answered
+2026-10-16: every recommendation taken; R19–R22, the R11 addendum and the
+queued provisional rulings in `RULINGS.md`), then merged one workstream at a
+time, renaming `wxb_` → `w21_` at merge and writing the provenance, docs,
+guide and gates itself. Wave numbers follow MERGE order: B = 21, C = 22,
+A = 23 (D's survey ships with Wave 23's docs).
+
+Guide: `ingest/WAVE21_GUIDE.md`. Rulings **R18** (gates pin an authoring
+commit, never a live tag — `w17_gates` had silently failed since the Wave 17
+publish), **R19** (which scan is the witness; a later printing as a second
+witness within limits; a single printing's slip is not the edition's
+reading), **R20** (the Psalter's closing line is furniture).
+
+What it did: read the 1928 Psalter (Wave 13's keying of justus's
+`1928/Psalms{1,2,3}.htm`) against **`1928/BCP1929.pdf`**, the scan of the
+original printing already cached since Wave 15 — NOT, as §8 had planned,
+against `1928Standard/1952std.pdf`: that file's own certificate (read first,
+R7) shows it to be the Standard Book *as amended to 1952* (1945 lectionary,
+1936 pagination, Good Friday 22:1-19 for the original's 1-9), so it is a
+second witness within limits only. **17 corrections** (3 mediants closing all
+three Wave-13 flags; `LORDd`; two spaces; ten compounds the book hyphenates;
+"The End of the Psalter." deleted from 150:6), **10 printing differences
+recorded and none imported** (the keyed carrier agrees with the 1952 Standard
+Book in all ten, so it was not keyed from the 1929 printing; `whilst`/`while`
+32:3 and `own`/`old` 55:14 flagged), 5 line-end compounds flagged. 1928 flags
+25 → 29 (3 closed, 7 opened).
+
+Scripts: `w21_render.py` (size-checked crops — see the `sips` gotcha in §9),
+`w21_scan.py`, `w21_ocrstats.py`, `w21_psalter.py`, `w21_mediant.py`,
+`w21_lexical.py`, `w21_printdiff.py`, `w21_reads.py`, `w21_eyecrop.py`,
+`w21_eye.txt`, `w21_evidence.py` / `.json`, `w21_witness.py` (applied by
+`w13_build.py`, which also drops its three 1928 `V1928` flags), `w21_gates.py`,
+`gen_wave21_provenance.py`, `w21_docs.py`; the OCR records
+`w21_1929_ocr.json`, `w21_1952_ocr.json`. Amended: `w13_fidelity.py` (a 1928
+exemption for the scan-supplied compound halves, as Waves 17/19 did),
+`w13_build.py`, and `w17/w18/w19_gates.py` (R18 re-pinning).
+
+Gates: `w21_gates` 0 (evidence, attestation — every introduced form in a
+scan's OCR and every replaced form in neither, containment vs `710f635b` by
+SHA, 2,508 verses each with one mediant, flags); `w13_fidelity` 0,
+`w13_audit` 0; `w14`–`w20` 0 (`w20_gates`' "nothing else moved" compares the
+work tree with HEAD, so it reads 1 until the commit); `verify_index --check`
+OK (336 inline / 431 provenance). Also found by the survey and fixed here:
+`SOURCES.md`'s 1929 Scottish row named A. C. Don's history booklet as the
+book.
+
+**Not yet published.** The full build and the publish happen once Waves 22
+and 23 are merged (one build, one go-ahead).
+
+---
+
 ## CURRENT — WAVE 20 (the 1662 Kalendar and its tables) DONE + PUBLISHED (2026-10-16)
 
 **PUBLISHED 2026-10-16 (force-pushed with maintainer go-ahead). Published tips:
@@ -1536,7 +1594,7 @@ planning around them.
    `scrape-cache/`. Fiddlier than prose — it is table transcription off OCR,
    the same structure that defeated the 1892 Kalendar — but it closes a
    recorded gap standing since Wave 14.
-3. **The 1928 Psalter against the 1952 facsimile — UNBLOCKED 2026-10-16.**
+3. **DONE (Wave 21, 2026-10-16): the 1928 Psalter — read against `1928/BCP1929.pdf`, the ORIGINAL printing, with the 1952 facsimile as a second witness within limits (R19); see the Wave 21 block. The original entry, kept for the record (its plan to use the facsimile as THE witness was overturned by the facsimile's own certificate):** The 1928 Psalter against the 1952 facsimile — UNBLOCKED 2026-10-16.
    Re-checked that day: `http://justus.anglican.org/resources/bcp/` now 302s to
    **https** and serves (200), as does `1928Standard/Standard.htm`; the 403 on
    the `bcp/` tree is gone, and HTTPS now has a valid certificate. The history

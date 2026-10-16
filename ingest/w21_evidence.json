@@ -1,0 +1,4785 @@
+{
+ "101:10:person": {
+  "cls": "worn-type",
+  "psalm": 101,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 464,
+    "eye": "as the cell -- broken n",
+    "first": "Psalm 102 The Psalter Day 20 | Io There shall no deceitful persori dwell in my | house; * he that telleth lies shall not tarry in my sight.",
+    "page": 252,
+    "second": "Psalm 102 | The Psalter | Day 20 | Io There shall no deceitful persori dwell in my | house; * he that telleth lies shall not tarry in my sight. | Taln11 cann dactann a11 1a asa4",
+    "side": "L"
+   }
+  },
+  "verse": 10
+ },
+ "101:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 101,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 463,
+    "eye": "mark after judgment; |",
+    "first": "MY sloko,hallf sf merey and judgment; ' unto thee,",
+    "page": 262,
+    "second": "Psaim rol. rsericoraram er jauncnane. | MY stoso,hallf sf merey and judgmenet; \"unto the, | O let me have understanding * in the way of godli-",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "101:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 101,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 463,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 262,
+    "second": "Psalm 101. Misericordiam et judicium. | MY tokoy wailhi sf merey and juagment; | .* unto thee. | 2 O let me have understanding* in the way of godli-",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "102:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 102,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 464,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 263,
+    "second": "Psalm 102. Domine, exaudi. | Hunt meprayer, o Loss, | * and let my crying come | 2 Hide not thy face from me in the time of my",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "102:6:i": {
+  "cls": "ocr-noise",
+  "psalm": 102,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 464,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "cleave to my flesh. | 6 1 am become like a pelican in the wilderness,* and | like an owl that is in the desert.",
+    "page": 263,
+    "second": "cleave to my flesh. | 6 1 am become like a pelican in the wilderness,* and | like an owl that is in the desert.",
+    "side": "L"
+   }
+  },
+  "verse": 6
+ },
+ "102:7:alone": {
+  "cls": "worn-type",
+  "psalm": 102,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 464,
+    "eye": "as the cell -- worn o",
+    "first": "7 I have watched, and am even as it were a sparrow,* | that sitteth alcne upon the housetop. | 8 Mine enemies revile me all the day long; * and they",
+    "page": 252,
+    "second": "V MVOVE | 7 I have watched, and am even as it were a sparrow, * | that sitteth alcne upon the housetop. | 8 Mine enemies revile me all the day long; * and they",
+    "side": "L"
+   }
+  },
+  "verse": 7
+ },
+ "103:8:long-suffering": {
+  "cls": "undecidable-hyphen",
+  "psalm": 103,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 466,
+    "eye": "long- / suffering, -- brk",
+    "first": "8 The LORD is full of compassion and mercy, * long- | suffering, and of great goodness.",
+    "page": 253,
+    "second": "8 The LORD is full of compassion and mercy, * long- | suffering, and of great goodness.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 466,
+    "eye": "long- / suffering, -- brk",
+    "first": "8 The LORD is full of compassion and mercy, *long- | suffering, and of great goodness.",
+    "page": 264,
+    "second": "8 The LORD is full of compassion and mercy, *long- | suffering, and of great goodness. | 311",
+    "side": "L"
+   }
+  },
+  "verse": 8
+ },
+ "104:13:earth": {
+  "cls": "ocr-noise",
+  "psalm": 104,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 468,
+    "eye": "as the cell -- word sweep",
+    "first": "habitation,\" and sing among the branches. | 13 He watereth the hills from above; * the carth is filled | with the fruit of thy works.",
+    "page": 265,
+    "second": "",
+    "side": "L"
+   }
+  },
+  "verse": 13
+ },
+ "104:17:fir-trees": {
+  "cls": "hyphen-confirmed",
+  "psalm": 104,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 468,
+    "eye": "fir- / trees -- brk (1952 prints it mid)",
+    "first": null,
+    "page": 254,
+    "second": "17 Wherein the birds make their nests; * and the fir- | trees are a dwelling for the stork.",
+    "side": "L"
+   }
+  },
+  "verse": 17
+ },
+ "104:35:earth": {
+  "cls": "ocr-noise",
+  "psalm": 104,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 469,
+    "eye": "as the cell -- word sweep",
+    "first": "35 As for sinners, they shall be consumed out of the | carth,\" and the ungodly shall come to an end. | 36 Praise thou the LORD, O my soul. * Praise the LORD.",
+    "page": 265,
+    "second": "35 As for sinners, they shall be consumed out of the | carth,\" and the ungodly shall come to an end. | 36 Praise thou the LORD, O my soul. * Praise the LORD.",
+    "side": "R"
+   }
+  },
+  "verse": 35
+ },
+ "105:34:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 105,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 472,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 267,
+    "second": "stroyed the trees that were in their coasts. | 34 He spake the word, and the grasshoppers came, and | aterpillars innumerable, * and did eat up all the grass in | their land, and devoured the fruit of their ground. | 35 He smote all the firstborn in their land; * even the",
+    "side": "L"
+   }
+  },
+  "verse": 34
+ },
+ "106:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 106,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 472,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 106. Confitemini Domino. | GIVE thanks unto the LORD; for he is gracious,* and | his mercy endureth for ever.",
+    "page": 267,
+    "second": "Psalm 106. Confitemini Domino. | GIVE thanks unto the LORD; for he is gracious,* and | his mercy endureth for ever.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "106:46:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 106,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 475,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 257,
+    "second": "holy Name, and make our boast of thy praise. | 46 Blessed bethe LORD Godof Israel,fromeverlasting, | and worldwithout end;* And letall thepeople say,Amen. | 475",
+    "side": "R"
+   }
+  },
+  "verse": 46
+ },
+ "107:24:lord": {
+  "cls": "ocr-noise",
+  "psalm": 107,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 477,
+    "eye": "as the cell -- word sweep",
+    "first": "their business in great waters; | 24 These men see the works of the LoRn,* and his | wonders in the deep.",
+    "page": 269,
+    "second": "DA AI A TMAR E ANT | their business in great waters; | 24 These men see the works of the LoRn,* and his | wonders in the deep.",
+    "side": "R"
+   }
+  },
+  "verse": 24
+ },
+ "107:35:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 107,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 478,
+    "eye": "mark after water, |",
+    "first": "35 Again, he maketh the wilderness a standing water, | and water-springs of a dry ground.",
+    "page": 270,
+    "second": "35 Again, he maketh the wilderness a standing water, | and water-springs of a dry ground.",
+    "side": "L"
+   }
+  },
+  "verse": 35
+ },
+ "107:39:brought": {
+  "cls": "worn-type",
+  "psalm": 107,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 478,
+    "eye": "as the cell -- worn o",
+    "first": "ingly; * and suffereth not their cattle to decrease. | 39 And again, when they are minished and brcught | low * through oppression, through any plague or",
+    "page": 259,
+    "second": "so ne oiessern inem, so tnat mney muiupiy exceca- | ingly; * and suffereth not their cattle to decrease. | 39 And again, when they are minished and brcught | low * through oppression, through any plague or",
+    "side": "L"
+   }
+  },
+  "verse": 39
+ },
+ "108:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 108,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 479,
+    "eye": "mark after ready; |",
+    "first": "GOD, my heart is ready, my heart is ready; \"I will | sing, and give praise with the best member that I | have.",
+    "page": 270,
+    "second": "Psalm 108. Paratum cor meum. | O sop, my heart is reavytmyhe bests rember that I | have.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "109:1:yea": {
+  "cls": "ocr-noise",
+  "psalm": 109,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 480,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "HOLD not thy tongue, O God of my praise; * for the | mouth of the ungodly,yea, the mouth of the deceit- | ful is opened upon me.",
+    "page": 260,
+    "second": "HOLD not thy tongue, O God of my praise; * for the | HOLD not thy tongue, O God of my praise; * for the | mouth of the ungodly,yea, the mouth of the deceit- | ful is opened upon me. | Aed than 1ona",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "109:21:mediant": {
+  "cls": "correction:pointing",
+  "psalm": 109,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 481,
+    "eye": "mark after poor, -- asterisk clear",
+    "first": "21 O deliver me, for I am helpless and poor, * and | my heart is wounded within me.",
+    "page": 260,
+    "second": "unto ty ames or sweetas thy mercy. | 21 O deliver me, for I am helpless and poor, * and | my heart is wounded within me.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 481,
+    "eye": "mark after poor, -- small raised asterisk",
+    "first": "21 O deliver me, for I am helpless and poor,' and my | heart is wounded within me.",
+    "page": 271,
+    "second": "21 O deliver me, for I am helpless and poor,* and my | heart is wounded within me.",
+    "side": "R"
+   }
+  },
+  "verse": 21
+ },
+ "109:21:~": {
+  "cls": "correction:pointing",
+  "psalm": 109,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 481,
+    "eye": "poor, * and -- no tilde; the mark is the asterisk",
+    "first": "21 O deliver me, for I am helpless and poor, * and | my heart is wounded within me.",
+    "page": 260,
+    "second": "unto ty ames or sweetas thy mercy. | 21 O deliver me, for I am helpless and poor, * and | my heart is wounded within me.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 481,
+    "eye": "poor, * and -- no tilde; the mark is the asterisk",
+    "first": "21 O deliver me, for I am helpless and poor,' and my | heart is wounded within me.",
+    "page": 271,
+    "second": "21 O deliver me, for I am helpless and poor,* and my | heart is wounded within me.",
+    "side": "R"
+   }
+  },
+  "verse": 21
+ },
+ "109:29:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 109,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 481,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 271,
+    "second": "with a cloak. | 29 As tor me, 1 will give great thanks unto the LoRD | with my mouth, * and praise him among the multitude; | 48,",
+    "side": "R"
+   }
+  },
+  "verse": 29
+ },
+ "110:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 110,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 482,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 272,
+    "second": "save his soul from unrighteous judges. | The Twenty-third Day. | Morning Prayer. | Psalm II0. Dixit Dominus. | Tianh un si d nko đạy t cren s t hto en my righe | 2 The LORD shall send the rod of thy power out of",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "111:1:i": {
+  "cls": "ocr-noise",
+  "psalm": 111,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 482,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 111. Confitebor tibi. | WILL give thanks unto the LORD with my whole | heart, * secretly among the faithful, and in the con-",
+    "page": 261,
+    "second": "Psalm 111. Confitebor tibi. | WILL, give thanks unto the LORD with my whole | heart, * secretly among the faithful, and in the con- | PeANr",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "111:4:merciful": {
+  "cls": "ocr-noise",
+  "psalm": 111,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 482,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "our, * and his righteousness endureth for ever. | 4 Themercifuland gracious LORD hathso donehis mar- | 482",
+    "page": 261,
+    "second": "s rhs wora as worthy to be plasca ana nad mn none | our, * and his righteousness endureth for ever. | 4 Themercifuland gracious LORD hath so done his mar- | 482",
+    "side": "L"
+   }
+  },
+  "verse": 4
+ },
+ "111:4:the": {
+  "cls": "ocr-noise",
+  "psalm": 111,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 482,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "our, * and his righteousness endureth for ever. | 4 Themercifuland gracious LORD hathso donehis mar- | 482",
+    "page": 261,
+    "second": "s rhs wora as worthy to be plasca ana nad mn none | our, * and his righteousness endureth for ever. | 4 Themercifuland gracious LORD hath so done his mar- | 482",
+    "side": "L"
+   }
+  },
+  "verse": 4
+ },
+ "114:1:egypt": {
+  "cls": "ocr-noise",
+  "psalm": 114,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 484,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 114. In exitu Israel. | WHEN Israel came out of Figyp,\" and the house of | Jacob from among the strange people,",
+    "page": 273,
+    "second": "Psalm 114. In exitu Israel. | WHEN Israel came out of Figypt,\" and the house of | Jacob from among the strange people, | aA Tannal Lia aninion",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "115:12:israel": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 486,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 116 The Psalter Day 24 | us; * even he shall bless the house of Israel,he shall bless | the house of Aaron.",
+    "page": 263,
+    "second": "Psalm 116 | The Psalter | Day 24 | us; * even he shall bless the house of Israel,he shall bless | the house of Aaron.",
+    "side": "L"
+   }
+  },
+  "verse": 12
+ },
+ "115:12:mindful": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "page": 262,
+    "second": "THAT AHTT A7 TT | LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "side": "R"
+   }
+  },
+  "verse": 12
+ },
+ "115:12:of": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "page": 262,
+    "second": "THAT AHTT A7 TT | LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "side": "R"
+   }
+  },
+  "verse": 12
+ },
+ "115:12:us": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "page": 262,
+    "second": "THAT AHTT A7 TT | LORD; * he is their helper and defender. | 12 The LORD hath been mindfulofus, and he shall bless | 485",
+    "side": "R"
+   }
+  },
+  "verse": 12
+ },
+ "115:1:+jot": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- drop capital",
+    "first": "JOT unto us, O LORD, not unto us, but unto thy | Name give the praise; * for thy loving mercy, and",
+    "page": 262,
+    "second": "N Nameto us, O LoRD, not unto us, but unto thy | Name give the praise; * for thy loving mercy, and",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- drop capital",
+    "first": "JOT unto us, O LoRn, not unto us, but unto thy Name | give the praise; * for thy loving mercy, and for thy",
+    "page": 273,
+    "second": "sam on noos, omne. | NOT unto us, O LoRn, not unto us, but unto thy Name | give the praise; * for thy loving mercy, and for thy",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "115:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 115,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 115. Non nobis, Domine. | JOT unto us, O LoRn, not unto us, but unto thy Name | give the praise; * for thy loving mercy, and for thy",
+    "page": 273,
+    "second": "Psalm 115. Non nobis, Domine. | NOT unto us, O LoRn, not unto us, but unto thy Namc | give the praise; * for thy loving mercy, and for thy",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "115:6:smell": {
+  "cls": "worn-type",
+  "psalm": 115,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 485,
+    "eye": "as the cell -- broken e",
+    "first": "They have ears, and hear not; * noses have they, and | sm:ll not. | 7 They have hands, and handle not; feet have they,",
+    "page": 262,
+    "second": "iney, ana sce not. | 6 They have ears, and hear not; * noses have they, and | sm:ll not. | 7 They have hands, and handle not; feet have they, | ananh thou thratich their",
+    "side": "R"
+   }
+  },
+  "verse": 6
+ },
+ "116:15:thanksgiving": {
+  "cls": "printing-difference:reading",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 487,
+    "eye": "thanskgiving -- 1929 misprint, same as 69:31",
+    "first": "hast broken my bonds in sunder. | 15 I will offer to thee the sacrifice of thanskgiving, * | and will call upon the Name of the LORD.",
+    "page": 263,
+    "second": "hast broken my bonds in sunder. | 15 I will offer to thee the sacrifice of thanskgiving, * | and will call upon the Name of the LORD. | sha dicht of",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 487,
+    "eye": "thanksgiving -- as the cell",
+    "first": null,
+    "page": 274,
+    "second": "15 1 will offer to thee the sacrifice of thanksgiving,* and | will call upon the Name of the LORD. | C",
+    "side": "R"
+   }
+  },
+  "verse": 15
+ },
+ "116:16:i": {
+  "cls": "ocr-noise",
+  "psalm": 116,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 487,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "will call upon the Name of the LORD. | 16 1 Will pay my vows unto the LORD, in the sight of | all his people, * in the courts of the LORD's house; even in",
+    "page": 274,
+    "second": "will call upon the Name of the LORD. | 16 1 will pay my vows unto the LORD, in the sight of | all his people, * in the courts of the LORD's house; even in",
+    "side": "R"
+   }
+  },
+  "verse": 16
+ },
+ "116:1:delight": {
+  "cls": "ocr-noise",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 486,
+    "eye": "as the cell |",
+    "first": "MY de veice is i my prayen; * because he hath heard | 2 Because he hath inclined his ear unto me; * there-",
+    "page": 263,
+    "second": "MY delight is in the LORD; * because he hath heard | the voice of my prayer; | 2 Because he hath inclined his ear unto me; * there- | fore will I call unon him as lono as I liua",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "116:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 486,
+    "eye": "mark after LORD; |",
+    "first": "MY de veice is i my prayen; * because he hath heard | 2 Because he hath inclined his ear unto me; * there-",
+    "page": 263,
+    "second": "MY delight is in the LORD; * because he hath heard | the voice of my prayer; | 2 Because he hath inclined his ear unto me; * there- | fore will I call unon him as lono as I liua",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 486,
+    "eye": "mark after LORD; |",
+    "first": null,
+    "page": 274,
+    "second": "the house of Aaron. | 13 He shall bless them that fear the LoRD, * both small | and great. | 14 The LORD shall increase you more and more,* you | and vonr children",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "116:1:prayer": {
+  "cls": "ocr-noise",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 486,
+    "eye": "as the cell |",
+    "first": "2 Because he hath inclined his ear unto me; * there- | fore will I call upon him as long as I live.",
+    "page": 263,
+    "second": "2 Because he hath inclined his ear unto me; * there- | fore will I call upon him as long as I live.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "116:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 486,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 263,
+    "second": "Psalm 116. Dilexi, quoniam. | MIY delight is in the LORD; * because he hath heard | the voice or my prayer | 2 Because he hath inclined his ear unto me; * there- | fore will T call ainon him as lano ac I liua",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "116:1:voice": {
+  "cls": "ocr-noise",
+  "psalm": 116,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 486,
+    "eye": "as the cell |",
+    "first": "2 Because he hath inclined his ear unto me; * there- | fore will I call upon him as long as I live.",
+    "page": 263,
+    "second": "2 Because he hath inclined his ear unto me; * there- | fore will I call upon him as long as I live.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "117:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 117,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 487,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 117. Laudate Dominum. | PRAISE the LoRD, all ye nations; \" praise him,all ye | peoples.",
+    "page": 274,
+    "second": "Psalm 117. Laudate Dominum. | PRAISE the LoRD, all ye nations; * praise him, all ye | peoples. | For Lie mareifal | Hindnoce ie | over more and more",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "118:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 118,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 487,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 118. Confitemini Domino. | GIVE thanks unto the LORD, for he is gracious; * be- | cause his mercy endureth for ever.",
+    "page": 274,
+    "second": "Psalm 118. Confitemini Domino. | GIVE thanks unto the LORD, for he is gracious; * be- | cause his mercy endureth for ever.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "119:107:i": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 497,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "keep thy righteous judgments. | 107 1 am troubled above measure: * quicken me, O | LORD, according to thy word.",
+    "page": 268,
+    "second": "keep thy righteous juagments. | 107 1 am troubled above measure: * quicken me, O | LORD, according to thy word. | TLe cac :11afarinac af | offarinas of mu mouth plegse",
+    "side": "R"
+   }
+  },
+  "verse": 107
+ },
+ "119:113:+have": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 497,
+    "eye": "as the cell -- drop capital",
+    "first": "I Tlovee them that imagine evil things; * but thy law do | 114 Thou art my defence and shield; * and my trust",
+    "page": 268,
+    "second": "HATE them that imagine evil things; * but thy law do | 114 Thou art my defence and shield; * and my trust",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 497,
+    "eye": "as the cell -- drop capital",
+    "first": "I Have: them that imagine evil things; * bur thy law do | 114 Thou art my defence and shield;\" and my trust is",
+    "page": 279,
+    "second": "IH love them that imagine evil things; \"but thy law do | 114 Thou art my defence and shield; * and my trust is",
+    "side": "R"
+   }
+  },
+  "verse": 113
+ },
+ "119:113:love": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 497,
+    "eye": "as the cell |",
+    "first": "114 Thou art my defence and shield; * and my trust | is in thy word.",
+    "page": 268,
+    "second": "1 1 lOve. | 114 Thou art my defence and shield; * and my trust | is in thy word. | atad• * 1 wil1 keen the com-",
+    "side": "R"
+   }
+  },
+  "verse": 113
+ },
+ "119:123:health": {
+  "cls": "worn-type",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 498,
+    "eye": "as the cell -- broken e",
+    "first": "I23 Mine eyes are wasted away with looking for thy | hcalth, * and for the word of thy righteousness. | 124 O deal with thy servant according unto thy",
+    "page": 269,
+    "second": "123 Mine eyes are wasted away with looking for thy | hcalth, * and for the word of thy righteousness. | 124 O deal with thy servant according unto thy",
+    "side": "L"
+   }
+  },
+  "verse": 123
+ },
+ "119:131:i": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 498,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "understanding unto the simple. | 131 1 opened my mouth, and drew in my breath; * | for my delight was in thy commandments.",
+    "page": 269,
+    "second": "understanding unto the simple. | 131 1 opened my mouth, and drew in my breath; * | for my delight was in thy commandments.",
+    "side": "L"
+   }
+  },
+  "verse": 131
+ },
+ "119:137:judgments": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 499,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "RImerrSOUS art tho, O LoRD; * and truc are thy judg- | 138 The testimonies that thou hast commanded * are ex- | ceeding righteous and true.",
+    "page": 280,
+    "second": "RICHTFOUS art thou, O LORD;\" and true are thy judg- | 138 The testimonies that thou hast commanded * are ex- | ceeding righteous and true.",
+    "side": "R"
+   }
+  },
+  "verse": 137
+ },
+ "119:137:righteous": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 499,
+    "eye": "as the cell -- word sweep",
+    "first": "XVII. Justus es, Domine. | RImerrSOUS art tho, O LoRD; * and truc are thy judg- | 138 The testimonies that thou hast commanded * are ex-",
+    "page": 280,
+    "second": "xvII. Justus es, Domine. | RICHerSOUS art thou, O LoxD; \" and true are thy judg- | 138 The testimonies that thou hast commanded * are ex-",
+    "side": "R"
+   }
+  },
+  "verse": 137
+ },
+ "119:149:lovingkindness": {
+  "cls": "correction:hyphen",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 500,
+    "eye": "loving-kindness; -- mid (line start)",
+    "first": "loving-kindness; * quicken me, according to thy judg- | ments.",
+    "page": 270,
+    "second": "sqy ticar my | loving-kindness; * quicken me, according to thy judg- | ments.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 500,
+    "eye": "loving- / kindness; -- brk",
+    "first": "149 Hear my voice, O LORD, according unto thy loving- | kindness; * quicken me, according to thy judgments.",
+    "page": 281,
+    "second": "149 Hear my voice, O LORD, according unto thy loving- | kindness;* quicken me, according to thy judgments.",
+    "side": "L"
+   }
+  },
+  "verse": 149
+ },
+ "119:166:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": false,
+    "book": 501,
+    "eye": "mark after health, |",
+    "first": "done after thy commandments.",
+    "page": 270,
+    "second": "done after thy commandments. | 1111 1",
+    "side": "R"
+   }
+  },
+  "verse": 166
+ },
+ "119:170:+be": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 501,
+    "eye": "as the cell |",
+    "first": "1 7oe et mystanpincation come be fore thee * deliver | me according to thy word.",
+    "page": 270,
+    "second": "me understanding according to thy word. | 170 Let my supplication come before thee; * deliver | me according to thy word. | nraica | mhon",
+    "side": "R"
+   }
+  },
+  "verse": 170
+ },
+ "119:17:o": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 490,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "III. Retribue servo tuo. | DO well unto thy servant; * that I may live, and keep | thy word.",
+    "page": 276,
+    "second": "III. Retribue servo tuo. | DO well unto thy servant; * that I may live, and keep | thy word.",
+    "side": "L"
+   }
+  },
+  "verse": 17
+ },
+ "119:19:i": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 491,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "drous things of thy law. | 19 1 am a stranger upon earth; * O hide not thy com- | mandments from me.",
+    "page": 265,
+    "second": "AH PAT AA",
+    "side": "R"
+   }
+  },
+  "verse": 19
+ },
+ "119:1:mediant": {
+  "cls": "correction:pointing",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 489,
+    "eye": "mark after way, -- asterisk clear",
+    "first": "BLESSED are those that are undefiled in the way, * | and walk in the law of the LORD.",
+    "page": 264,
+    "second": "BLESSED are those that are undefiled in the way,* | and walk in the law of the LORD.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 489,
+    "eye": "mark after way, -- small raised asterisk",
+    "first": "BLESSED are those that are undefiled in the way,\" and | walk in the law of the LORD.",
+    "page": 275,
+    "second": "Psalm 119. I. Beati immaculati. | BLESSED are those that are undefiled in the way, \" and | walk in the law of the LORD.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "119:22:i": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 491,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "they that do err from thy commandments. | 22 O turn from me shame and rebuke; * for 1 have | kept thy testimonies.",
+    "page": 265,
+    "second": "they that do err from thy commandments. | 22 O turn from me shame and rebuke; * for 1 have | kept thy testimonies. | D",
+    "side": "R"
+   }
+  },
+  "verse": 22
+ },
+ "119:25:MY": {
+  "cls": "printing-difference:reading",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 491,
+    "eye": "M soul cleaveth -- 1929 drops the Y after the drop capital",
+    "first": "IV. Adhæsit pavimento. | M soul cleaveth to the dust; * O quicken thou me, | according to thy word.",
+    "page": 265,
+    "second": "IV. Adhæsit pavimento. | M | soul cleaveth to the dust; * O quicken thou me, | according to thy word. | hanedact",
+    "side": "R"
+   },
+   "1952": {
+    "auto": false,
+    "book": 491,
+    "eye": "MY soul cleaveth -- as the cell",
+    "first": "MY soul cleaveth to the dust; \"O quicken thou me, | l according to thy word.",
+    "page": 276,
+    "second": "IV. Hanesit pavimento. | Y soul cleaveth to the dust; \"O | quicken thou me, | according to thy word.",
+    "side": "R"
+   }
+  },
+  "verse": 25
+ },
+ "119:29:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": false,
+    "book": 491,
+    "eye": "mark after lying, |",
+    "first": "29 Take from me the way of lying, | me to make much of thy law.",
+    "page": 265,
+    "second": "29 Take from me the way of lying, | me to make much of thy law.",
+    "side": "R"
+   }
+  },
+  "verse": 29
+ },
+ "119:33:end": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 492,
+    "eye": "as the cell |",
+    "first": "34 Give me understanding, and I shall keep thy | law; * yea, I shall keep it with my whole heart.",
+    "page": 266,
+    "second": "34 Give me understanding, and I shall keep thy | law; * yea, I shall keep it with my whole heart.",
+    "side": "L"
+   }
+  },
+  "verse": 33
+ },
+ "119:33:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 492,
+    "eye": "mark after statutes, |",
+    "first": null,
+    "page": 266,
+    "second": "v. Legem pone. | TEACH me, O LoRD, the way of thy statutes, * and I | shall keep it unto the end. | 34 Give me understanding, and I shall keep thy | law; * yea, I shall keep it with my whole heart.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 492,
+    "eye": "mark after statutes, |",
+    "first": null,
+    "page": 277,
+    "second": "v. Legem pone. | TEACH me, O LoRn, the way of thy statutes,\" and I | shall keep it unto the end. | 34 Give me understanding, and I shall keep thy law; * | yea, I shall keep it with my whole heart.",
+    "side": "L"
+   }
+  },
+  "verse": 33
+ },
+ "119:33:teach": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 492,
+    "eye": "as the cell -- drop capital",
+    "first": null,
+    "page": 266,
+    "second": "v. Legem pone. | TEACH me, O LoRD, the way of thy statutes, * and I | shall keep it unto the end. | 34 Give me understanding, and I shall keep thy | law; * yea, I shall keep it with my whole heart.",
+    "side": "L"
+   }
+  },
+  "verse": 33
+ },
+ "119:33:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 492,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 277,
+    "second": "Psalm 119: v, VI | The Psalter | Day 25 | The Twenty-fifth Day. | Morning Prayer. | v. Legem pone. | TRACH me, O LoRD, the way of thy statutes, \" and I | shall keep it unto the end. | 34 Give me understanding, and I shall keep thy law; *",
+    "side": "L"
+   }
+  },
+  "verse": 33
+ },
+ "119:41:let": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 492,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "vI. Et veniat super me. | HI thy loving mercy come also unto me, O LORD | even thy salvation, according unto thy word.",
+    "page": 277,
+    "second": "vI. Et veniat super me. | [L'T thy loving merey come also unto me, O LORD, | even thy salvation, according unto thy word.",
+    "side": "L"
+   }
+  },
+  "verse": 41
+ },
+ "119:41:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 492,
+    "eye": "mark after LORD, -- first crop cut it; full-width crop",
+    "first": "HI thy loving mercy come also unto me, O LORD | even thy salvation, according unto thy word.",
+    "page": 277,
+    "second": "ET thy loving mercy come also unto me, O LORD, | even thy salvation, according unto thy word.",
+    "side": "L"
+   }
+  },
+  "verse": 41
+ },
+ "119:65:o": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 494,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "IX. Bonitatem fecisti. | LORD, thou hast dealt graciously with thy servant, | according unto thy word.",
+    "page": 278,
+    "second": "IX. Bonitatem fecisti. | LORD, thou hast dealt graciously with thy servant, ' | according unto thy word. | *. * C",
+    "side": "L"
+   }
+  },
+  "verse": 65
+ },
+ "119:79:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 495,
+    "eye": "mark after testimonies, |",
+    "first": "nics, bet suce d s fear thee, and have known thy testimo-",
+    "page": 278,
+    "second": "maamenes. | 79 Let such as fear thee, and have known thy testimo- | nies, * be turned unto me.",
+    "side": "R"
+   }
+  },
+  "verse": 79
+ },
+ "119:97:lord": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 496,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "XIII. Quomodo dilexi! | ORD, what love have I unto thy law! * allthe day long | is my study in it.",
+    "page": 279,
+    "second": "xI. Quomodo dilexi! | — is my study in it. | , what love have I unto thy law!\" all the day long",
+    "side": "L"
+   }
+  },
+  "verse": 97
+ },
+ "119:99:i": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 496,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "wiser than mine enemies; * for they are ever with me. | 99 1 have more understanding than my teachers;* for | thy testimonies are my study.",
+    "page": 279,
+    "second": "wiser than mine enemies; * for they are ever with me. | 99 1 have more understanding than my teachers; * for | thy testimonies are my study.",
+    "side": "L"
+   }
+  },
+  "verse": 99
+ },
+ "119:9:wherewithal": {
+  "cls": "ocr-noise",
+  "psalm": 119,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 490,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "u. In quo corrigit? | WHen WITHAI, shall a young man cleanse his way?* | even by ruling himself after thy word.",
+    "page": 276,
+    "second": "u In quo corrigit? | WHEREWITHAIL shall a young man cleanse his way? * | even by ruling himself after thy word.",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "120:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 120,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 502,
+    "eye": "mark after LORD, |",
+    "first": "Whe Neard m in trouble, alled upon the Loan, \" and",
+    "page": 282,
+    "second": "WTT IAFT TIIDOT | Whe Neareas in trouble, I called upon the LoRn, \" and | he heard me. | conl O Toas from luing lins * and from",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "120:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 120,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 502,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 282,
+    "second": "Psalm 120. Ad Dominum. | WHEN Ireas in trouble, I called upon the LoRD,\" and | he heard me. | 2 Deliver my soul, O LORD, from lying lips,* and from",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "122:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 122,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 503,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 282,
+    "second": "Psalm 122. Letatus sum. | the house of hhe they said unto mẹ, | * We will go into | 2 Our feet shall stand in thy gates, \" O Jerusalem.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "123:1:unto": {
+  "cls": "ocr-noise",
+  "psalm": 123,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 503,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 123. Ad te levavi oculos meos. | NTO thee lift I up mine eyes, * O thou that dwellest | in the heavens.",
+    "page": 271,
+    "second": "Psalm 123. Ad te levavi oculos meos. | INTO thee lift I up mine eyes, * O thou that dwellest | in the heavens.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "123:2:mediant": {
+  "cls": "printing-difference:pointing",
+  "psalm": 123,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 503,
+    "eye": "no asterisk in the verse -- NO asterisk; full-width crop",
+    "first": null,
+    "page": 271,
+    "second": "in the heavens. | 2 Behold, even as the eyes of servants look unto the | hand of their masters, and as the eyes of a maiden unto | the hand of her mistress, even so our eyes wait upon",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 503,
+    "eye": "mark after mistress, -- as the cell",
+    "first": null,
+    "page": 282,
+    "second": "U in the heavens. | 2 Behold, even as the eyes of servants look unto the | hand of their masters, and as the eyes of a maiden unto | the hand of her mistress,* even so our eyes wait upon",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "124:1:against": {
+  "cls": "ocr-noise",
+  "psalm": 124,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 504,
+    "eye": "as the cell |",
+    "first": "side, They had swallewed ussp alive; * when they were | so wrathfully displeased at us.",
+    "page": 272,
+    "second": "side, when men rose up against us; | 2 They had swallowed us up alive; * when they were | so wrathfully displeased at us. | * ned tha etraam",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 504,
+    "eye": "as the cell |",
+    "first": "side, when men rose up agaunst us; | 2 They had swallowed us up alive;* when they were",
+    "page": 283,
+    "second": "side, when men rose up against us; | 2 They had swallowed us up alive; * when they were",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "124:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 124,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 504,
+    "eye": "mark after say; |",
+    "first": "Tisrael bay hir the hoxnot heen had no sidenow may | side, when men rose up agaunst us;",
+    "page": 283,
+    "second": "F the LoRD himself had not been on our side, now may | Israel sav: * if the LORD himself had not been on our | side, when men rose up against us; | alize. * hen thau mere",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "124:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 124,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 504,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 283,
+    "second": "Psalm 124. Nisi quia Dominus. | Iisrael soy hir thf hoxnot been had not icen w mar | side, when men rose up against us; | 2 They had swallowed us up alive; * when they were",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "126:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 126,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 505,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 126. In convertendo. | WHN the LoRp turned again the captivity of Sion,* | then were we like unto them that dream.",
+    "page": 283,
+    "second": "Psalm 126. In convertendo. | WHEN the Loxp turned again the captivity of Sion,\" | then were we like unto them that dream.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "127:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 127,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 505,
+    "eye": "mark after house, |",
+    "first": "Ebut fost tha Ioul biild the house, * their labour is | 2 Except the LORD keep the city, * the watchman",
+    "page": 272,
+    "second": "XCEPT the LORD build the house, * their labour is | • but lost that build it. | 2 Except the LORD keep the city, * the watchman | waketh but in vain",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 505,
+    "eye": "mark after house, |",
+    "first": "E lost that build ip build the house, * their labour is but | 2 Except the LORD keep the city,*the watchman wak-",
+    "page": 283,
+    "second": "E lost that build ip build the house, \"their labour is but | / lost that build it. | 2 Except the LORD keep the city, * the watchman wak- | eth but in vain",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "127:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 127,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 505,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 272,
+    "second": "Psalm 127. Nisi Dominus. | EXut lort that oui build the house, * their labour is | 2 Except the LORD keep the city, * the watchman | waketh hut in vain",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 505,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 283,
+    "second": "Psalm 127. Nisi Dominus. | EYost phat be ld ip build the house, | * their labour is but | 2 Except the LORD keep the city, * the watchman wak- | oth hut in uain",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "128:1:his": {
+  "cls": "ocr-noise",
+  "psalm": 128,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 506,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Bhis way are all they that fear the LoRp, * and walk in | 2 For thou shalt eat the labours of thine hands: * O well | is thee, and happy shalt thou be.",
+    "page": 284,
+    "second": "Bhis way are all they that fear the Lonn, | * and walk in | 2 For thou shalt eat the labours of thine hands: * O well | is thee, and happy shalt thou be.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "128:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 128,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 506,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 128. Beati omnes. | Bhis way are all they that fear the LoRp, * and walk in | 2 For thou shalt eat the labours of thine hands: * O well",
+    "page": 284,
+    "second": "Psalm 128. Beati omnes. | BLESSED are all they that fear the LoRn, \" and walk in | his ways. | 2 For thou shalt eat the labours of thine hands: * O well",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "128:1:ways": {
+  "cls": "ocr-noise",
+  "psalm": 128,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 506,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Bhis way are all they that fear the LoRp, * and walk in | 2 For thou shalt eat the labours of thine hands: * O well | is thee, and happy shalt thou be.",
+    "page": 284,
+    "second": "Bhis way are all they that fear the Lonn, | * and walk in | 2 For thou shalt eat the labours of thine hands: * O well | is thee, and happy shalt thou be.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "12:1:faithful": {
+  "cls": "ocr-noise",
+  "psalm": 12,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 355,
+    "eye": "as the cell -- word sweep",
+    "first": "HELP me, LoRD, for there is not one godly man left* | for the faithtul are minished from among the chil- | dren of men.",
+    "page": 197,
+    "second": "for there is not one godly man left;* | for the faithiul are minished from among the chil- | dren of men.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "12:1:me,LORD,": {
+  "cls": "correction:spacing",
+  "psalm": 12,
+  "scans": {
+   "1929": {
+    "auto": false,
+    "book": 355,
+    "eye": "HELP me, LORD, for there -- space after the comma",
+    "first": "HELP me, LoRD, for there is not one godly man left* | for the faithtul are minished from among the chil-",
+    "page": 197,
+    "second": "HEIP me, LoRD, for there is not one godly man left;* | for the faithful are minished from among the chil-",
+    "side": "R"
+   },
+   "1952": {
+    "auto": false,
+    "book": 355,
+    "eye": "HELP me, LORD, for there -- space after the comma",
+    "first": null,
+    "page": 208,
+    "second": "Psalm 12. Salvum me fac. | LORD, for there is not one godly man left;* | for the faithful are minished from among the children",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "12:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 12,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 355,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 208,
+    "second": "Psalm 12. Salvum me fac. | H tr tme faliona fre there le dre m a gotd y na en tefien | 2 They talk of vanity every one with his neighbour;*",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "12:7:earth": {
+  "cls": "ocr-noise",
+  "psalm": 12,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 355,
+    "eye": "as the cell -- word sweep",
+    "first": "7 The words of the LORD are pure words;* even as the | silver which from the carth is tried, and purified seven | times in the fire.",
+    "page": 208,
+    "second": "7 The words of the LORD are pure words; * even as the | silver which from the carth is tried, and purified seven | times in the fire.",
+    "side": "R"
+   }
+  },
+  "verse": 7
+ },
+ "130:1:out": {
+  "cls": "ocr-noise",
+  "psalm": 130,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 507,
+    "eye": "as the cell -- drop capital",
+    "first": "UT of the deep have I called unto thee, O LORD; * | Lord, hear my voice.",
+    "page": 273,
+    "second": "UT of the deep have I called unto thee, O LORD; * | Lord, hear my voice. | 0 1at +lino aaen",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 507,
+    "eye": "as the cell -- drop capital",
+    "first": "UT of the deep have I called unto thee, O LoRD;* | Lord, hear my voice.",
+    "page": 284,
+    "second": "UT of the deep have I called unto thee, O LORD;* | Lord, hear my voice.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "132:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 132,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 507,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 284,
+    "second": "4 O Israel, trust in the LORD * from this time forth for | evermore. | 507",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "132:2:+his": {
+  "cls": "ocr-noise",
+  "psalm": 132,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 508,
+    "eye": "as the cell |",
+    "first": "[oy, ew he sware vid, ane al his trndle * and vowed a vow | unto the Almighty God of Jacob:",
+    "page": 285,
+    "second": ", remember David,* and all his trouble: | / 2 How he sware unto the LORD,\" and vowed a vow | unto the Almighty God of Jacob:",
+    "side": "L"
+   }
+  },
+  "verse": 2
+ },
+ "132:2:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 132,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 508,
+    "eye": "mark after LORD, |",
+    "first": "2 How he sware unto the LORD, and vowed a vov | unto the Almighty God of Jacob:",
+    "page": 274,
+    "second": "4 2. How he sware unto the LORD, * and vowed a vow | unto the Almighty God of Jacob: | T | siskin tha | tokarnaola | of | mine",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 508,
+    "eye": "mark after LORD, |",
+    "first": "[oy, ew he sware vid, ane al his trndle * and vowed a vow | unto the Almighty God of Jacob:",
+    "page": 285,
+    "second": ", remember David,* and all his trouble: | / 2 How he sware unto the LORD,\" and vowed a vow | unto the Almighty God of Jacob:",
+    "side": "L"
+   }
+  },
+  "verse": 2
+ },
+ "134:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 134,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 509,
+    "eye": "mark after LORD, |",
+    "first": "B LORD; now, pratse the LORD, all ye servants ot the",
+    "page": 285,
+    "second": "BLonb now, praise the LoRp, \"all ye servants of the",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "136:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 136,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 511,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 136. Confitemini. | GIVE thanks unto the LORD, for he is gracious: * and | his mercy endureth for ever.",
+    "page": 286,
+    "second": "Psalm 136. Confitemini. | GIVE thanks unto the LORD, for he is gracious: * and | his mercy endureth for ever.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "138:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 138,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 513,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 287,
+    "second": "Psalm 138. Confitebor tibi. | I heart, eve n heforento theds wiotd with mye whole | even before the gods will I sing praise unto | thee. | 2 I will worship toward thy holy temple, and praise thy",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "139:1:uprising": {
+  "cls": "correction:hyphen",
+  "psalm": 139,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 514,
+    "eye": "up- / rising; -- brk",
+    "first": "Thou knowest my down-sitting, and mine up- | rising; thou understandest my thoughts long before.",
+    "page": 277,
+    "second": "Thou knowest my down-sitting, and mine up- | rising; thou understandest my thoughts long before. | nora",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 514,
+    "eye": "up-rising; -- mid",
+    "first": "Thou knowest my down-sitting, and mine up-rising; | thou understandest my thoughts long before.",
+    "page": 288,
+    "second": "Thou knowest my down-sitting, and mine up-rising; | thou understandest my thoughts long before. | t mu hod. * ond ont",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "140:1:and": {
+  "cls": "ocr-noise",
+  "psalm": 140,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 516,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 140. Eripe me, Domine. | DEIIVER me, O LoRn, from the evil man;\"and pre- | serve me from the wicked man;",
+    "page": 289,
+    "second": "Psalm 140. Eripe me, Domine. | DELIVER me, O Lox, from the evil man;\"and pre- | serve me from the wicked man;",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "140:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 140,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 516,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 140. Eripe me, Domine. | DEIIVER me, O LoRn, from the evil man;\"and pre- | serve me from the wicked man;",
+    "page": 289,
+    "second": "Psalm 140. Eripe me, Domine. | DELIVER me, O Lox, from the evil man;\"and pre- | serve me from the wicked man;",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "141:1:+an": {
+  "cls": "ocr-noise",
+  "psalm": 141,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 517,
+    "eye": "as the cell |",
+    "first": "OKD, 1 cau upon thee; haste thee unto me, * an‹ | - consider my voice, when 1 cry unto tnec",
+    "page": 278,
+    "second": "[ORD, I call upon thee; haste thee unto me, * and | consider my voice, when I cry unto thee.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "141:1:call": {
+  "cls": "ocr-noise",
+  "psalm": 141,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 517,
+    "eye": "as the cell |",
+    "first": "OKD, 1 cau upon thee; haste thee unto me, * an‹ | - consider my voice, when 1 cry unto tnec",
+    "page": 278,
+    "second": "[ORD, I call upon thee; haste thee unto me, * and | consider my voice, when I cry unto thee.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "141:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 141,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 517,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 289,
+    "second": "Psalm 141. Domine, clamavi. | [ORD, I call upon thee; haste thee unto me,\" and con- | sider my voice, when I cry unto thee. | 2 Let my prayer be set forth in thy sight as the in-",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "142:4:i": {
+  "cls": "ocr-noise",
+  "psalm": 142,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 518,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "a snare for me. | 4 1 looked also upon my right hand,* and saw there was | no man that would know me.",
+    "page": 290,
+    "second": "a snare for me. | 4 1 looked also upon my right hand, * and saw there was | no man that would know me.",
+    "side": "L"
+   }
+  },
+  "verse": 4
+ },
+ "142:7:i": {
+  "cls": "ocr-noise",
+  "psalm": 142,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 518,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "hope, and my portion in the land of the living. | 7 Consider my complaint; * for 1 am brought very | 1ow.",
+    "page": 279,
+    "second": "Сата мтни блтле | COTOE RE CTOE A CAATE ANTI RATTAT A | hope, and my portion in the land of the living. | 7 Consider my complaint; * for 1 am brought very | low. | ЛЛeЛДЛ | * f* | ekat aro",
+    "side": "L"
+   }
+  },
+  "verse": 7
+ },
+ "143:1:+ear": {
+  "cls": "ocr-noise",
+  "psalm": 143,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 518,
+    "eye": "as the cell -- drop capital",
+    "first": "EAR my prayer, O LORD, and consider my desire;* | hearken unto me for thy truth and righteousness'",
+    "page": 279,
+    "second": ", and consider my desire; * | Hhearmen praye me for any truth and ciehteousness",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 518,
+    "eye": "as the cell -- drop capital",
+    "first": "HEAR my prayer, O LoRn, and consider my desire;* | hearken unto me for thy truth and righteousness' sake.",
+    "page": 290,
+    "second": "HEAR my prayer, O LoRn, and consider my desire;\" | hearken unto me for thy truth and righteousness' sake.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "144:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 144,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 519,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 290,
+    "second": "Psalm 144. Benedictus Dominus. | RLESSED be the LORD my strength, \" who teacheth my | hands to war, and my fingers to hight: | 2 My hope and my fortress, my castle and deliverer, my",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "144:3:unto": {
+  "cls": "worn-type",
+  "psalm": 144,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 519,
+    "eye": "as the cell -- o cut at the margin",
+    "first": "ple that is under me. | 3 LORD, what is man, that thou hast such respect unte | him? * or the son of man, that thou so regardest him?",
+    "page": 279,
+    "second": "ple that is under me. | 3 LORD, what is man, that thou hast such respect unte | him? * or the son of man, that thou so regardest him? | of noucht * his time nasseth",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "145:8:long-suffering": {
+  "cls": "hyphen-confirmed",
+  "psalm": 145,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 521,
+    "eye": "long-suffer- / ing, -- mid (the compound hyphen inside the line)",
+    "first": null,
+    "page": 280,
+    "second": "8 The LORD is gracious and merciful; * long-suffer- | ing, and of great goodness. | auere man. * and his",
+    "side": "R"
+   }
+  },
+  "verse": 8
+ },
+ "146:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 146,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 522,
+    "eye": "mark after LORD; |",
+    "first": "Ptác Lothi Toea, a01mng aulh avc e Y liring, ViP sing | praises unto my God.",
+    "page": 292,
+    "second": "P tht 5o thi Toa, a 1mng as 1 ah a liing i V sing | praises unto my God.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "147:16:hoarfrost": {
+  "cls": "correction:hyphen",
+  "psalm": 147,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 523,
+    "eye": "hoar-frost -- mid (line start)",
+    "first": "hoar-frost like ashes. | 17 He casteth forth his ice like morsels: * who is able",
+    "page": 281,
+    "second": "hoar-frost like ashes. | 17 He casteth forth his ice like morsels: * who is able | to ahide his frast›",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 523,
+    "eye": "hoar- / frost -- brk",
+    "first": "16 He giveth snow like wool,* and scattereth the hoar- | frost like ashes.",
+    "page": 292,
+    "second": "his word runneth very swity. | 16 He giveth snow like wool,* and scattereth the hoar- | frost like ashes.",
+    "side": "R"
+   }
+  },
+  "verse": 16
+ },
+ "149:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 149,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 525,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 149. Cantate Domino. | SING unto the LORD a new song; * let the congrega- | tion of saints praise him.",
+    "page": 293,
+    "second": "Psalm 149. Cantate Domino. | SING unto the LORD a new song; * let the congrega- | tion of saints praise him. | Lins that made him * and let the",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "14:1:+he": {
+  "cls": "ocr-noise",
+  "psalm": 14,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 356,
+    "eye": "as the cell -- drop capital",
+    "first": "THE fool hath said in his heart, * There is no God. | 2 They are corrupt, and become abominable in",
+    "page": 198,
+    "second": "THE fool hath said in his heart, * There is no God. | 2 They are corrupt, and become abominable in | their doings: * there is none that doath aood .",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 356,
+    "eye": "as the cell -- drop capital",
+    "first": "HE fool hath said in his heart,* There is no God. | 2 Ihey are corrupt, and become abominable in theu",
+    "page": 209,
+    "second": "Psalm 14. Dixit insipiens. | Ty foel hath said in hisdeecome abominable in their | * There is no God.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "14:1:the": {
+  "cls": "ocr-noise",
+  "psalm": 14,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 356,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 14. Dixit insipiens. | HE fool hath said in his heart,* There is no God. | 2 Ihey are corrupt, and become abominable in theu",
+    "page": 209,
+    "second": "Psalm 14. Dixit insipiens. | Ty foel hath said in his heeome abominhle in their | * There is no God.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "150:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 150,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 525,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 150. Laudate Dominum. | PRAISE God in his sanctuary:* praise him in the | firmament of his power.",
+    "page": 293,
+    "second": "Psalm 150. Laudate Dominum. | PRAISE God in his sanctuary:* praise him in the | firmament of his power. | L1 | ica him | accordina to",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "150:6:colophon": {
+  "cls": "correction:structure",
+  "psalm": 150,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 525,
+    "eye": "The End of the Psalter. -- own centred italic line after verse 6, above the folio",
+    "first": "6 Let every thing that hath breath * praise the LORD. | The End of the Psalter. | 525",
+    "page": 282,
+    "second": "um upon tne soue cymbais. | 6 Let every thing that hath breath * praise the LORD. | The End of the Psalter. | 525",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 525,
+    "eye": "The End of the Psalter. -- own centred line after verse 6, above the folio",
+    "first": "6 Let every thing that hath breath * praise the LORD. | The End of the Psalter. | 525",
+    "page": 293,
+    "second": "pon the loua cymvais. | 6 Let every thing that hath breath * praise the LORD. | The End of the Psalter. | 525",
+    "side": "R"
+   }
+  },
+  "verse": 6
+ },
+ "15:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 15,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 357,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 15. Domine, quis habitabit? | ORD, who shall dwell in thy tabernacle?* or who shall | • rest upon thy holy hill?",
+    "page": 209,
+    "second": "Psalm 15. Domine, quis habitabit? | [ORD, who shall dwell in thy tabernacle?* or who shall | rest upon thy holy hill?",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "16:1:trust": {
+  "cls": "ocr-noise",
+  "psalm": 16,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 357,
+    "eye": "as the cell |",
+    "first": "2 O my soul, thou hast said unto the LORD, * Thou | art my God; I have no good like unto thee.",
+    "page": 198,
+    "second": "strust | 2 O my soul, thou hast said unto the LORD, * Thou | art my God; I have no good like unto thee. | A11 asn dalioht ia iison +la cointe that nra in +ha",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "17:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 17,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 358,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 210,
+    "second": "Psalm 17. Exaudi, Domine. | , O LORD, consider my complaint, * and | H hearthe uigo my prayer, that goeth not out of feigned | lips. | 2 Let my sentence come forth from thy presence; * and | +1a +in +o+ e",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "17:3:find": {
+  "cls": "ocr-noise",
+  "psalm": 17,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 358,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "night season; thou hast tried me, and shalt find,no | wickedness in me; * for I am utterly purposed that my | mouth shall not offend.",
+    "page": 199,
+    "second": "night season; thou hast tried me, and shalt find,no | wickedness in me; * for I am utterly purposed that my | mouth shall not offend.",
+    "side": "L"
+   }
+  },
+  "verse": 3
+ },
+ "17:3:find-no": {
+  "cls": "worn-type",
+  "psalm": 17,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 357,
+    "eye": "as the cell -- a speck between the words, not a stop",
+    "first": null,
+    "page": 198,
+    "second": null,
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "17:3:no": {
+  "cls": "ocr-noise",
+  "psalm": 17,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 358,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "night season; thou hast tried me, and shalt find,no | wickedness in me; * for I am utterly purposed that my | mouth shall not offend.",
+    "page": 199,
+    "second": "night season; thou hast tried me, and shalt find,no | wickedness in me; * for I am utterly purposed that my | mouth shall not offend.",
+    "side": "L"
+   }
+  },
+  "verse": 3
+ },
+ "18:10:mediant": {
+  "cls": "printing-difference:pointing",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 360,
+    "eye": "came down, and it -- NO asterisk; full-width crop",
+    "first": "to He bowed the heavens also, and came down, | and it was dark under his feet.",
+    "page": 200,
+    "second": "Io He bowed the heavens also, and came down, | and it was dark under his feet.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 360,
+    "eye": "mark after down, -- as the cell",
+    "first": null,
+    "page": 211,
+    "second": "Io He bowed the heavens also, and came down, * and it | was dark under his feet.",
+    "side": "L"
+   }
+  },
+  "verse": 10
+ },
+ "18:18:delivered": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 360,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "took me out of many waters. | 18 Hedelivered me from my strongest enemy, and from | them which hate me; * for they were too mighty for me.",
+    "page": 200,
+    "second": "took me out of many waters. | 18 Hedelivered me from my strongestenemy, and from | them which hate me; * for they were too mighty for me.",
+    "side": "L"
+   }
+  },
+  "verse": 18
+ },
+ "18:18:he": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 360,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "took me out of many waters. | 18 Hedelivered me from my strongest enemy, and from | them which hate me; * for they were too mighty for me.",
+    "page": 200,
+    "second": "took me out of many waters. | 18 Hedelivered me from my strongestenemy, and from | them which hate me; * for they were too mighty for me.",
+    "side": "L"
+   }
+  },
+  "verse": 18
+ },
+ "18:28:mediant": {
+  "cls": "correction:pointing",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 361,
+    "eye": "mark after adver-|sity, -- asterisk clear",
+    "first": "28 For thou shalt save the people that are in adver- | sity, * and shalt bring down the high looks of the proud.",
+    "page": 200,
+    "second": "28 For thou shalt save the people that are in adver- | sity, * and shalt bring down the high looks of the proud.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 361,
+    "eye": "mark after adversity, -- small raised asterisk",
+    "first": "28 For thou shalt save the people that are in adversity,* | and shalt bring down the high looks of the proud.",
+    "page": 211,
+    "second": "mowara unou shant be mowara. | 28 For thou shalt save the people that are in adversity, | * | and shalt bring down the high looks of the proud.",
+    "side": "R"
+   }
+  },
+  "verse": 28
+ },
+ "18:38:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 362,
+    "eye": "mark after them; |",
+    "first": "them. them; * neither will I turn again till I have destroyed | stand, * but fall under my feet. 39 I will smite them, that they shall not be able to",
+    "page": 201,
+    "second": "30 4 waoow upon mine enemies, and overtake | them; * neither will i turn again till I have destroyed | them. | 39 I will smite them, that they shall not be able to | stand, * but fall under my feet. | L",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 362,
+    "eye": "mark after them; |",
+    "first": "them;* neither will I turn again till I have destroyed them. | 39 I will smite them, that they shall not be able to stand, *",
+    "page": 212,
+    "second": "them;\" neither will I turn again till I have destroyed them. | 39 I will smite them, that they shall not be able to stand, * | hast fall ndan aaz focs",
+    "side": "L"
+   }
+  },
+  "verse": 38
+ },
+ "18:48:people": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 363,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Day 4 The Psalter Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "page": 201,
+    "second": "Day 4 | The Psalter | Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "side": "R"
+   }
+  },
+  "verse": 48
+ },
+ "18:48:subdueth": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 363,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Day 4 The Psalter Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "page": 201,
+    "second": "Day 4 | The Psalter | Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "side": "R"
+   }
+  },
+  "verse": 48
+ },
+ "18:48:unto": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 363,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Day 4 The Psalter Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "page": 201,
+    "second": "Day 4 | The Psalter | Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "side": "R"
+   }
+  },
+  "verse": 48
+ },
+ "18:49:enemies": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 363,
+    "eye": "as the cell -- word sweep",
+    "first": "Day 4 The Psalter Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "page": 201,
+    "second": "Day 4 | The Psalter | Psalm 19 | 49 It is he that delivereth me from my cruel eremies, | and setteth me up above mine adversaries: * thou shalt",
+    "side": "R"
+   }
+  },
+  "verse": 49
+ },
+ "18:8:earth": {
+  "cls": "ocr-noise",
+  "psalm": 18,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 360,
+    "eye": "as the cell -- word sweep",
+    "first": "ears. | 8 The carth trembled and quaked, * the very foun- | dations also of the hills shook, and were removed, be-",
+    "page": 200,
+    "second": "ears. | 8 The carth trembled and quaked, * the very foun- | dations also of the hills shook, and were removed, be- | noeo e en0e centh",
+    "side": "L"
+   }
+  },
+  "verse": 8
+ },
+ "1:1:blessed": {
+  "cls": "ocr-noise",
+  "psalm": 1,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 345,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 1. Beatus vir qui non abiit. | LESSED is the man that hath not walked in the | counsel of the ungodly, nor stood in the way of",
+    "page": 203,
+    "second": "Psalm ı. Beatus vir qui non abiit. | LESSED is the man that hath not walked in the | counsel of the ungodly, nor stood in the way of | and hash ot cat in the caot of tha coor-",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "1:3:water-side": {
+  "cls": "hyphen-confirmed",
+  "psalm": 1,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 345,
+    "eye": "water- / side, -- brk (1952 prints it mid)",
+    "first": null,
+    "page": 192,
+    "second": "3 And he shall be like a tree planted by the water- | side, * that will bring forth his fruit in due season. | L:a 1ac a1aa 21",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "20:9:Save,LORD;": {
+  "cls": "correction:spacing",
+  "psalm": 20,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 365,
+    "eye": "9 Save, LORD; and hear us -- space after the comma",
+    "first": "9 Save, LORD; and hear us, O King of heaven, * | when we call upon thee.",
+    "page": 202,
+    "second": "9 Save, LORD; and hear us, O King of heaven, * | when we call upon thee.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 365,
+    "eye": "9 Save, LORD; and hear us -- space after the comma",
+    "first": "9 Save, LORD; and hear us, O King of heaven, * when we | call upon thee.",
+    "page": 213,
+    "second": "9 Save, LORD; and hear us, O King of heaven,* when we | call upon thee.",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "21:4:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 21,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 365,
+    "eye": "mark after life, |",
+    "first": "4 He asked life of thee; and thou gavest him a long life, | even for ever and ever.",
+    "page": 213,
+    "second": "4 He asked life of thee; and thou gavest him a long life, | even for ever and ever.",
+    "side": "R"
+   }
+  },
+  "verse": 4
+ },
+ "22:14:i": {
+  "cls": "ocr-noise",
+  "psalm": 22,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 366,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "a ramping and a roaring lion. | 14 1 am poured out like water, and all my bones are | out of joint;* my heart also in the midst of my body is",
+    "page": 214,
+    "second": "a ramping and a roaring lion. | 14 1 am poured out like water, and all my bones are | out of joint; * my heart also in the midst of my body is | even lke melting wav",
+    "side": "L"
+   }
+  },
+  "verse": 14
+ },
+ "22:32:lord": {
+  "cls": "ocr-noise",
+  "psalm": 22,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 368,
+    "eye": "as the cell -- word sweep",
+    "first": "32 They shall come, and shall declare his righteous- | ness * unto a people that shall be born, whom the ord | hath made.",
+    "page": 204,
+    "second": "32 They shall come, and shall declare his righteous- | ness * unto a people that shall be born, whom the ord | hath made.",
+    "side": "L"
+   }
+  },
+  "verse": 32
+ },
+ "23:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 23,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 368,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 23. Dominus regit me. | THH Lox» is my shepherd; \" therefore can I lack nothing. | 2 He shall feed me in a green pasture,* and lead me",
+    "page": 215,
+    "second": "Psalm 23. Dominus regit me. | THF: Loxp is my shepherd;\" therefore can I lack nothing- | 2 He shall feed me in a green pasture, * and lead me | fal Loaila tha metase af oonfant",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "23:1:the": {
+  "cls": "ocr-noise",
+  "psalm": 23,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 368,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 23. Dominus regit me. | THH Lox» is my shepherd; \" therefore can I lack nothing. | 2 He shall feed me in a green pasture,* and lead me",
+    "page": 215,
+    "second": "Psalm 23. Dominus regit me. | THF: Loxp is my shepherd;\" therefore can I lack nothing- | 2 He shall feed me in a green pasture, * and lead me | fal Loaila tha metase af oonfant",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "24:1:lord's": {
+  "cls": "ocr-noise",
+  "psalm": 24,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 368,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 24. Domini est terra. | THIf: carth is the LoRn's, and all that therein is;\" the | compass of the world, and they that dwell therein.",
+    "page": 215,
+    "second": "Psalm 24. Domini est terra. | THF: earth is the LoRr's, and all that therein is; \"the | compass of the world, and they that dwell therein.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "25:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 25,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 369,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 215,
+    "second": "Psalm 25. Ad te, Domine, levavi. | UNTO thec, O LORD, willI lift up my soul; my God, I | have put my trust in thee: * Ó let me not be con- | founded, neither let mine enemies triumph over me. | 2 For all they that hope in thee shall not be ashamed;* | annca dhall ha",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "26:1:be": {
+  "cls": "ocr-noise",
+  "psalm": 26,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 370,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 26. Judica me, Domine. | RE thou my Judge, O LoRn, for I have walked inno- | cently: * my trust hath been also in the LORD, there-",
+    "page": 216,
+    "second": "Psalm 26. Judica me, Domine. | Bf thou my Judge, O LoRD, for I have walked inno- | cently:* my trust hath been also in the LORD, there- | fano aLa11 T | + €.11",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "28:2:mercyseat": {
+  "cls": "correction:hyphen",
+  "psalm": 28,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 373,
+    "eye": "mercy-seat -- mid (line start)",
+    "first": "mercy-seat of thy holy temple. | 3 O pluck me not away, neither destroy me with the",
+    "page": 206,
+    "second": "mercy-seat of thy holy temple. | 3 O pluck me not away, neither destroy me with the | anl flaadt",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 373,
+    "eye": "mercy- / seat -- brk",
+    "first": "unto thee;* when I hold up my hands towards the mercy- | seat of thy holy temple.",
+    "page": 217,
+    "second": "unto thee;* when I hold up my hands towards the mercy- | seat of thy holy temple.",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "28:3:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 28,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 373,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 217,
+    "second": "seat of thy holy temple. | 3 O pluck me not away, neither destroy me with the | ungodly and wicked doers. * which speak friendiv to their | neighbours, but imagine mischief in their hearts. | 4 Reward them according to their deeds, | * and accord-",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "29:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 29,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 373,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 217,
+    "second": "Psalm 29. Afferte Domino. | ASCORD wonthiphand serenge mighry, | ascribe unto the | 2 Ascribe unto the LORD the honour due unto his Name; *",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "29:4:LORDd": {
+  "cls": "correction:reading",
+  "psalm": 29,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 374,
+    "eye": "the LORD -- is a glorious voice",
+    "first": "is a glorious voice. | 5 The voice of the LORD breaketh the cedar-trees; *",
+    "page": 207,
+    "second": "is a glorious voice. | 5 The voice of the LoRD breaketh the cedar-trees; * | 17D0",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 374,
+    "eye": "the voice of the LORD is a -- no stray d",
+    "first": "LORD is mighty in operation;* the voice of the LORD is a | glorious voice.",
+    "page": 218,
+    "second": "LORD is mighty in operation; * the voice of the LORD is a | glorious voice.",
+    "side": "L"
+   }
+  },
+  "verse": 4
+ },
+ "2:8:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 2,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 346,
+    "eye": "mark after inheritance, |",
+    "first": "thine inheritance, Be icherif t and the t stparsothhe earth for | thy possession.",
+    "page": 204,
+    "second": "8 Desire of me, and 1 shall give thee the nations for | thine inheritance, | and the utmost parts of the earth for | thy possession.",
+    "side": "L"
+   }
+  },
+  "verse": 8
+ },
+ "30:1:i": {
+  "cls": "ocr-noise",
+  "psalm": 30,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 374,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 30. Exaltabo te, Domine. | WILL, magnify thee, O LoRD; for thou hast set me | up, * and not made my foes to triumph over me.",
+    "page": 207,
+    "second": "Psalm 30. Exaltabo te, Domine. | WILL magnify thee, O LORD; for thou hast set me | up, * and not made my foes to triumph over me.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "31:14:i": {
+  "cls": "ocr-noise",
+  "psalm": 31,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 376,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "without, conveyed themselves from me. | 14 1 am clean forgotten as a dead man out of mind; * I | am become like a broken vessel.",
+    "page": 219,
+    "second": "without, conveyed themselves from me. | 14 1 am clean forgotten as a dead man out of mind; *1 | am become like a broken vessel.",
+    "side": "L"
+   }
+  },
+  "verse": 14
+ },
+ "31:22:of": {
+  "cls": "ocr-noise",
+  "psalm": 31,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 377,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "page": 208,
+    "second": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "side": "R"
+   }
+  },
+  "verse": 22
+ },
+ "31:22:strife": {
+  "cls": "ocr-noise",
+  "psalm": 31,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 377,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "page": 208,
+    "second": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "side": "R"
+   }
+  },
+  "verse": 22
+ },
+ "31:22:tongues": {
+  "cls": "ocr-noise",
+  "psalm": 31,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 377,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "page": 208,
+    "second": "them secretly in thy tabernacle from thestrifeoftongues. | 23 Thanks be to the LORD; * for he hath showed me | marvellous great kindness in a strong city.",
+    "side": "R"
+   }
+  },
+  "verse": 22
+ },
+ "32:3:whilst": {
+  "cls": "printing-difference:reading",
+  "psalm": 32,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 377,
+    "eye": "For while I held -- 1929 prints while",
+    "first": "no sin, * and in whose spirit there is no guile. | 3 For while I held my tongue, * my bones consumed | away through my daily complaining.",
+    "page": 208,
+    "second": "2 Blessed is the man unto whom the LORD imputeth | no sin, * and in whose spirit there is no guile. | 3 For while I held my tongue, * my bones consumed | away through my daily complaining.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 377,
+    "eye": "For whilst I held -- as the cell",
+    "first": "3 For whilst I held my tongue,* my bones consumed | away through my daily complaining.",
+    "page": 219,
+    "second": "3 For whilst I held my tongue, * my bones consumed | away through my daily complaining.",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "33:17:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 33,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 379,
+    "eye": "mark after him, |",
+    "first": "16 A horse is counted but a vain thing to save a man;* | 18 To deliver their soul from death,\" and to feed them",
+    "page": 220,
+    "second": "16 A horse is counted but a vain thing to save a man;* | either shall he deliver any man by his great strength. | 17 Behold, the eye of the LoRD is upon them that fear | im,* and upon them that put their trust in his mercy; | 18 To deliver their soul from death, \" and to feed them",
+    "side": "R"
+   }
+  },
+  "verse": 17
+ },
+ "34:14:eschew": {
+  "cls": "ocr-noise",
+  "psalm": 34,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 380,
+    "eye": "as the cell -- word sweep",
+    "first": "they speak no guile. | 14 Èschew evil, and do good; * seek peace, and ensue | it.",
+    "page": 210,
+    "second": "ana ny ups,that | they speak no guile. | 14 Éschew evil, and do good; * seek peace, and ensue | it.",
+    "side": "L"
+   }
+  },
+  "verse": 14
+ },
+ "34:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 34,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 380,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 221,
+    "second": "Psalm 34. Benedicam Dominum. | WILI. alway give thanks unto the LORD; * his praise shall | ever be in my mouth. | 2 My soul shall make her boast in the LORD; * the humble",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "35:13:sack-cloth": {
+  "cls": "undecidable-hyphen",
+  "psalm": 35,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 382,
+    "eye": "sack- / cloth, -- brk",
+    "first": "13 Nevertheless, when they were sick, 1 put on sack- | cloth, and humbled my soul with fasting; * and my",
+    "page": 211,
+    "second": "13 Nevertheless, when they were sick, I put on sack- | cloth, and humbled my soul with fasting; * and my",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 382,
+    "eye": "sack- / cloth, -- brk",
+    "first": "13 Nevertheless, when they were sick, 1 put on sack- | cloth, and humbled my soul with fasting; * and my prayer",
+    "page": 222,
+    "second": "13 Nevertheless, when they were sick, I put on sack- | cloth, and humbled my soul with fasting. * and my prayer | Chall",
+    "side": "L"
+   }
+  },
+  "verse": 13
+ },
+ "36:1:before": {
+  "cls": "ocr-noise",
+  "psalm": 36,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 383,
+    "eye": "as the cell |",
+    "first": "that there is no fear of God betore his eyes. | 2 For he flattereth himself in his own sight, * until",
+    "page": 211,
+    "second": "V1 | that there is no fear of God before his eyes. | 2 For he flattereth himself in his own sight, * until | is akaminable sin he found ait",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "36:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 36,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 383,
+    "eye": "mark after ungodly, |",
+    "first": "MY hat at ere ieth feathe Giod defore of is e ungodly,",
+    "page": 222,
+    "second": "MY heart showeth me the wickedness of the ungodly, | that there is no fear of God before his eyes.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "36:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 36,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 383,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 222,
+    "second": "Psalm 36. Dixit injustus. | MY heart showeth me the wickednes of the ungodly,\" | 2 Toh at theae ieto fisef in d bdve hithy until his",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "37:11:earth": {
+  "cls": "ocr-noise",
+  "psalm": 37,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 385,
+    "eye": "as the cell -- OCR read carth (both scans)",
+    "first": "11 But the meek-spirited shall possess the carth,* and | shall be refreshed in the multitude of peace.",
+    "page": 223,
+    "second": "away. | 11 But the meek-spirited shall possess the carth,* and | shall be refreshed in the multitude of peace.",
+    "side": "R"
+   }
+  },
+  "verse": 11
+ },
+ "37:20:perish,": {
+  "cls": "printing-difference:punctuation",
+  "psalm": 37,
+  "scans": {
+   "1929": {
+    "auto": false,
+    "book": 385,
+    "eye": "perish and the -- 1929 prints no comma (a tight line); zoomed crop",
+    "first": "enough. | 20 Asforthe ungodly,theyshall perishand the enemies | 385",
+    "page": 212,
+    "second": "enough. | 20 Asforthe ungodly,they shall perishand the enemies | 385",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 385,
+    "eye": "perish, and the -- as the cell",
+    "first": null,
+    "page": 223,
+    "second": "zo As for the ungodly, they shall perish, and the enemies | 28г",
+    "side": "R"
+   }
+  },
+  "verse": 20
+ },
+ "37:36:i": {
+  "cls": "ocr-noise",
+  "psalm": 37,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 387,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "the ungodly shall perish, thou shalt see it. | 36 1 myself have seen the ungodly- in great power,* | and flourishing like a green bay-tree.",
+    "page": 224,
+    "second": "the ungodly shall perish, thou shalt see it. | 36 1 myself have seen the ungodly- in great power,* | and flourishing like a green bay-tree.",
+    "side": "R"
+   }
+  },
+  "verse": 36
+ },
+ "37:38:bring": {
+  "cls": "printing-difference:reading",
+  "psalm": 37,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 387,
+    "eye": "shall being a man -- 1929 misprint",
+    "first": "38 Keep innocency, and take heed unto the thing that | is right; * for that shall being a man peace at the last. | 39 As for the transgressors, they shall perish to-",
+    "page": 213,
+    "second": "38 Keep innocency, and take heed unto the thing that | is right; * for that shall being a man peace at the last. | 39 As for the transgressors, they shall perish to- | oether * and the and of the unc diu ie the. alan hn",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 387,
+    "eye": "shall bring a man -- as the cell",
+    "first": "38 Keep innocency, and take heed unto the thing that | is right; * for that shall bring a man peace at the last.",
+    "page": 224,
+    "second": "38 Keep innocency, and take heed unto the thing that | is right; * for that shall bring a man peace at the last. | Ae for +ho teoner | creccors theu shall nerich tocethee. *",
+    "side": "R"
+   }
+  },
+  "verse": 38
+ },
+ "38:16:i": {
+  "cls": "ocr-noise",
+  "psalm": 38,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 388,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "answer for me, O Lord my God. | 16 1 have required that they, even mine enemies, should | not triumph over me;* for when my foot slipt, they re-",
+    "page": 225,
+    "second": "answer for me, O Lord my God. | 16 1 have required that they, even mine enemies, should | not triumph over me; * for when my foot slipt, they re- | intoad asantlir canince ana | MA",
+    "side": "L"
+   }
+  },
+  "verse": 16
+ },
+ "38:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 38,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 387,
+    "eye": "mark after anger; |",
+    "first": "them, because they put their trust in him. | The Eighth Day. | Morning Prayer. | Psalm 38. Domine, ne in furore. | eth me sore.",
+    "page": 224,
+    "second": "ntoSrn om ma | them, because they put their trust in him. | The Eighth Day. | Morning Prayer. | Psalm 38. Domine, ne in furore. | PUT me not to rehuke, o LORD, in the | neither chasten me in thy heavy displeast | 2 For thine arrows stick fast in me, * and thy | eth me sore.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "38:2:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 38,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 387,
+    "eye": "mark after me, |",
+    "first": "eth me sore.",
+    "page": 224,
+    "second": "eth me sore.",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "38:3:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 38,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 387,
+    "eye": "mark after displeasure; |",
+    "first": "3 There is no health in my flesh, because of thy dis- | pleasy si\" meither is there any rest in my bones, by reason",
+    "page": 224,
+    "second": "3 There is no health in my flesh, because of thy dis- | pleasure; * neither is there any rest in my bones, by reason | of my sin.",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "39:15:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 39,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 390,
+    "eye": "mark after strength, |",
+    "first": "ength, p hefore i go inence, and be no more seemy",
+    "page": 215,
+    "second": "15O spare me a little, that I may recover my | rength, * before I go hence, and be no more seen.",
+    "side": "L"
+   }
+  },
+  "verse": 15
+ },
+ "3:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 3,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 346,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 3. Domine, quid multiplicati? | [ORD, how are they increased that trouble me!* many | • are they that rise against me.",
+    "page": 204,
+    "second": "Psalm 3. Domine, quid multiplicati? | [ORD, how are they increased that trouble me!\" many | are they that rise against me.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "3:7:cheekbone": {
+  "cls": "correction:hyphen",
+  "psalm": 3,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 347,
+    "eye": "cheek-bone; -- mid",
+    "first": "smitest all mine enemies upon the cheek-bone; thou | hast broken the teeth of the ungodly.",
+    "page": 193,
+    "second": "1 ops ton ane hep mhe o my doa, toi thou | smitest all mine enemies upon the cheek-bone; thou | hast broken the teeth of the ungodly. | 001",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 347,
+    "eye": "cheek-bone; -- mid",
+    "first": "all mine enemies upon the cheek-bone; thou hast broken | the teeth of the ungodly.",
+    "page": 204,
+    "second": "all mine enemies upon the cheek-bone; thou hast broken | the teeth of the ungodly.",
+    "side": "R"
+   }
+  },
+  "verse": 7
+ },
+ "40:1:i": {
+  "cls": "ocr-noise",
+  "psalm": 40,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 390,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 40. Expectans expectavi. | WAITED patiently for the LORD,\" and he inclined unto | me, and heard my calling.",
+    "page": 226,
+    "second": "Psalm 4о. Expectans expectavi. | [ WAITED patiently for the LORD, \" and he inclined unto | me, and heard my calling. | Le hroncht me alee ont of the homrihle nit out of",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "40:6:usward": {
+  "cls": "correction:hyphen",
+  "psalm": 40,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 390,
+    "eye": "us-ward; -- mid",
+    "first": "are to us-ward; * and yet there is no man that ordereth | them unto thee.",
+    "page": 215,
+    "second": "are to us-ward; * and yet there is no man that ordereth | them unto thee.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 390,
+    "eye": "us-ward; -- mid (line start)",
+    "first": "us-ward;* and yet there is no man that ordereth them | unto thee.",
+    "page": 226,
+    "second": "us-ward;* and yet there is no man that ordereth them | unto thee.",
+    "side": "L"
+   }
+  },
+  "verse": 6
+ },
+ "42:10:daytime": {
+  "cls": "correction:hyphen",
+  "psalm": 42,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 393,
+    "eye": "day-time; -- mid (line start)",
+    "first": "day-time; * and in the night season will I sing of him. | and make my prayer unto the God of my life.",
+    "page": 216,
+    "second": "day-time; * and in the night season will I sing of him. | and make my prayer unto the God of my life.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 393,
+    "eye": "day- / time; -- brk",
+    "first": "I0 The LORD will grant his loving-kindness in the day- | time;* and in the night season will I sing of him, and",
+    "page": 227,
+    "second": "Io The LORD will grant his loving-kindness in the day- | time;* and in the night season will I sing of him, and",
+    "side": "R"
+   }
+  },
+  "verse": 10
+ },
+ "42:1:like": {
+  "cls": "ocr-noise",
+  "psalm": 42,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 392,
+    "eye": "as the cell -- drop capital",
+    "first": "IKE as the hart desireth the water-brooks, * so long- | • eth my soul after thee, O God.",
+    "page": 216,
+    "second": "IKE as the hart desireth the water-brooks, * so long- | • eth my soul after thee, O God.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 392,
+    "eye": "as the cell -- drop capital",
+    "first": "[KF as the har desireth the water-brooks,\" so longeth | my soul after thee, O God.",
+    "page": 227,
+    "second": "IKE as the hart desireth the water-brooks, * so longeth | my soul after thee, O God.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "43:1:give": {
+  "cls": "ocr-noise",
+  "psalm": 43,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 394,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 43• Judica me, Deus. | IVE sentence with me, O God, and defend my cause | against the ungodly people; * O deliver me from the",
+    "page": 228,
+    "second": "Psalm 43. Judica me, Deus. | GIVF sentence with me, O God, and defend my cause | against the ungodly people;\" O deliver me from the",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "44:10:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 44,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 395,
+    "eye": "mark after con-|fusion, |",
+    "first": "fusion, * andg oest nor forth wia our areit uis, to con-",
+    "page": 217,
+    "second": "Io But now thou art far off, and puttest us.to con- | fusion, * and goest not forth with our armies.",
+    "side": "R"
+   }
+  },
+  "verse": 10
+ },
+ "44:15:byword": {
+  "cls": "correction:hyphen",
+  "psalm": 44,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 395,
+    "eye": "by-word -- mid",
+    "first": "15 Thou makest us to be a by-word among the | nations, * and that the peoples shake their heads",
+    "page": 217,
+    "second": "15 Thou makest us to be a by-word among the | nations, * and that the peoples shake their heads",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 395,
+    "eye": "by-word -- mid",
+    "first": "15 Thou makest us to be a by-word among the nations, | and that the peoples shake their heads at us.",
+    "page": 228,
+    "second": "15 Thou makest us to be a by-word among the nations, | * | and that the peoples shake their heads at us. | 1 ta dama",
+    "side": "R"
+   }
+  },
+  "verse": 15
+ },
+ "44:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 44,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 394,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 228,
+    "second": "Psalm 44. Deus, auribus. | WF have heard with our ears, O God, our fathers have | told us \" what thou hast done in their time of old: | 2 How thou hast driven out the heathen with thy hand,",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "44:21:+or": {
+  "cls": "ocr-noise",
+  "psalm": 44,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 396,
+    "eye": "as the cell |",
+    "first": "search it outr for he knoweth thevery secrets or tne neart. | 22 For thy sake also are we killed all the day long, *",
+    "page": 218,
+    "second": "search it out? for he knoweth thevery secrets of the heart. | 22 For thy sake also are we killed all the day long, * | and are counted as sheen annointed to be slain",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 396,
+    "eye": "as the cell |",
+    "first": null,
+    "page": 229,
+    "second": "holden up our hands to any strange god,* shall not God | search it out? for he knoweth the very secrets of the heart. | 2 2 For thy sake also are we killed all the day long, * and",
+    "side": "L"
+   }
+  },
+  "verse": 21
+ },
+ "44:21:very": {
+  "cls": "ocr-noise",
+  "psalm": 44,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 396,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "holden up our hands to any strange god, * shall not God | search it outr for he knoweth thevery secrets or tne neart. | 22 For thy sake also are we killed all the day long, *",
+    "page": 218,
+    "second": "holden up our hands to any strange god, * shall not God | search it out? for he knoweth thevery secrets of the heart. | 22 For thy sake also are we killed all the day long, * | and are counted as sheen annointed to be slain.",
+    "side": "L"
+   }
+  },
+  "verse": 21
+ },
+ "45:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 45,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 396,
+    "eye": "mark after King. |",
+    "first": "MY hngi wich 1 hát e nh đc cọi mning 1 h ốn thể | My tongue is the pen of a ready writer.",
+    "page": 229,
+    "second": "MY heart overfoweth with a good matter; I speak the | things which I have made concerning the King. | My tongue is the pen of a ready writer.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "45:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 45,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 396,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 229,
+    "second": "Psalm 45. Eructavit cor meum. | MY heart overfoweth with a good mater; I speak the | things which I have made concerning the King.* | My tongue is the pen of a ready writer. | 2 Thou art fairer than the children of men; * full of | 11111",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "45:5:thee": {
+  "cls": "ocr-noise",
+  "psalm": 45,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 396,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "King's enemies, * and the people shall be subdued unto | thee-Thy seat, O God, endureth for ever;* the sceptre | of thy kingdom is a right sceptre.",
+    "page": 218,
+    "second": "5 1hy arrows are very sharp in the neart or the | King's enemies, * and the people shall be subdued unto | thee'Thy seat, O God, endureth for ever; * the sceptre | of thy kingdom is a right sceptre.",
+    "side": "L"
+   }
+  },
+  "verse": 5
+ },
+ "46:1:god": {
+  "cls": "ocr-noise",
+  "psalm": 46,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 397,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 46. Deus noster refugium. | GorD is our hope and strength, \" a very present help in | trouble.",
+    "page": 229,
+    "second": "Psalm 46. Deus noster refugium. | Go is our hope and strength, \" a very present help in",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "47:7:earth": {
+  "cls": "ocr-noise",
+  "psalm": 47,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell -- word sweep",
+    "first": "Day 9 The Psalter Psalm 48 | 7 For God is the King of all the carth: * sing ye | praises with understanding.",
+    "page": 219,
+    "second": "Day 9 | The Psalter | Psalm 48 | 7 For God is the King of all the carth: * sing ye | praises with understanding.",
+    "side": "R"
+   }
+  },
+  "verse": 7
+ },
+ "48:2:+an": {
+  "cls": "ocr-noise",
+  "psalm": 48,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell |",
+    "first": "2 cihe hill of Sion is an aip place, and the joy of the | whole earth; * upon the north side lieth the city of the",
+    "page": 219,
+    "second": "-wa s e HokD, and migniy to be praised\" in the | city of our God, even upon his holy hill. | 2 The hill of Sion is a fair place, and the joy of the | whole earth; * upon the north side lieth the city of the | orant Kino Cai ie ell Lnn",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell |",
+    "first": "2 The hill of Sion is a fair place, and the joy of the | whole carth; \" upon the north side lieth the city of the",
+    "page": 230,
+    "second": "OU VYVL | 2 The hill of Sion is a fair place, and the joy of the | whole carth; ' upon the north side lieth the city of the | nolenas ae a aeo",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "48:2:earth": {
+  "cls": "ocr-noise",
+  "psalm": 48,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell -- word sweep",
+    "first": "2 The hill of Sion is a fair place, and the joy of the | whole carth; \" upon the north side lieth the city of the | great King: God is well known in her palaces as a sure",
+    "page": 230,
+    "second": "OUVYVL | 2 The hill of Sion is a fair place, and the joy of the | whole carth; ' upon the north side lieth the city of the | great King: God is well known in her palaces as a sure",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "48:3:+o": {
+  "cls": "ocr-noise",
+  "psalm": 48,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell |",
+    "first": "3 For 1o, the kings of the earth * were gathered, and | gone by together.",
+    "page": 219,
+    "second": "teluge. | 3 For lo, the kings of the earth * were gathered, and | gone by together. | ЛРLas",
+    "side": "R"
+   },
+   "1952": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell |",
+    "first": "3 For lo, the kings of the earth * were gathered, and | gone by together.",
+    "page": 230,
+    "second": "reruge. | 3 For 1o, the kings of the earth* were gathered, and | gone by together. | thar tuara acton",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "48:9:righteousness": {
+  "cls": "ocr-noise",
+  "psalm": 48,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 399,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "cousness. | Io Let the mount Sion rejoice, and the daughters of | Judah be glad, * because of thy judgments.",
+    "page": 219,
+    "second": "eousness. | I0 Let the mount Sion rejoice, and the daughters of | Judah be glad, * because of thy judgments. | T- Wall oha+ 0:e. | L",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "49:6:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 49,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 400,
+    "eye": "mark after goods, |",
+    "first": "6 There be some that put their trust in their goods, | and boast themselves in the multitude of their riches.",
+    "page": 231,
+    "second": "6 There be some that put their trust in their goods, | and boast themselves in the multitude of their riches.",
+    "side": "L"
+   }
+  },
+  "verse": 6
+ },
+ "4:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 4,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 347,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 204,
+    "second": "Psalm 4. Cum invocarem. | Hhou mat hen Ic at liety tof my ws to trouse. | have mercy upon me, and hearken unto my prayer. | 2 O ye sons of men, how long will ye blaspheme mine",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "50:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 50,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 401,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 50. Deus deorum. | THF: LoRn, even the Most Mighty God, hath spoken,* | and called the world, from the rising up of the sun",
+    "page": 231,
+    "second": "Psalm 5o. Deus deorum. | THE: LoRn, even the Most Mighty God, hath spoken,\" | and called the world, from the rising up of the sun",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "50:4:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 50,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 401,
+    "eye": "mark after above, |",
+    "first": "earth, that he may judge his people.",
+    "page": 220,
+    "second": "",
+    "side": "R"
+   }
+  },
+  "verse": 4
+ },
+ "50:9:he-goats": {
+  "cls": "undecidable-hyphen",
+  "psalm": 50,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 402,
+    "eye": "he- / goats -- brk",
+    "first": "9 I will take no bullock out of thine house, * nor he- | goats out of thy folds.",
+    "page": 221,
+    "second": "9 I will take no bullock out of thine house, * nor he- | goats out of thy folds.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 402,
+    "eye": "he- / goats -- brk",
+    "first": "9 I will take no bullock out of thine house,* nor he- | goats out of thy folds.",
+    "page": 232,
+    "second": "9 I will take no bullock out of thine house, * nor he- | goats out of thy folds.",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "51:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 51,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 403,
+    "eye": "mark after goodness; |",
+    "first": "HAVE mercy upon me, O God, after thy great good- | ness; according to the multitude of thy mercies do | away mine offences.",
+    "page": 232,
+    "second": "Psalm 51. Miserere mei, Deus. | HAVE merey upon me, O God, after thy great good- | ness;\" according to the multitude of thy mercies do | away mine offences. | • thouchlu fom mu wickednees * and cleanse",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "53:1:god": {
+  "cls": "ocr-noise",
+  "psalm": 53,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 405,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "THF: foolish body hath said in his heart, \" There is no | 2 Corrupt are they, and become abominable in their | wickedness; ' there is none that doeth good.",
+    "page": 233,
+    "second": "Psalm 53. Dixit insipiens. | THF: foolish body hath said in his heart, \"There is no | 2 Corrupt are they, and become abominable in their | wickedness; * there is none that doeth good. | 10 a1:11.n af",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "53:1:the": {
+  "cls": "ocr-noise",
+  "psalm": 53,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 405,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 53. Dixit insipiens. | THF: foolish body hath said in his heart, \" There is no | 2 Corrupt are they, and become abominable in their",
+    "page": 233,
+    "second": "Psalm 53. Dixit insipiens. | THi folish body hath said in his heart,\" There is no | 2 Corrupt are they, and become abominable in their | sialedaca. | horo ia none that doath cood",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "55:14:own": {
+  "cls": "printing-difference:reading",
+  "psalm": 55,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 407,
+    "eye": "mine old familiar friend -- 1929 prints old",
+    "first": "14 But it was even thou, my companion, * my guide, | and mine old familiar friend. | 15 We took sweet counsel together, * and walked in",
+    "page": 223,
+    "second": "14 But it was even thou, my companion, * my guide, | and mine old familiar friend. | 15 We took sweet counsel together, * and walked in | +he house of God as friends.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 407,
+    "eye": "mine own familiar friend -- as the cell",
+    "first": "14 But it was even thou, my companion,* my guide, and | mine own familiar friend.",
+    "page": 234,
+    "second": "mysen trom nim; | 14 But it was even thou, my companion, * my guide, and | mine own familiar friend.",
+    "side": "R"
+   }
+  },
+  "verse": 14
+ },
+ "56:1:devour": {
+  "cls": "ocr-noise",
+  "psalm": 56,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 408,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 56. Miserere mei, Deus. | B devour meunto me, O God, for man goeth about to * he is daily fighting, and troubling me | 2 Mine enemies are daily at hand to swallow me up;*",
+    "page": 235,
+    "second": "Psalm 56. Miserere mei, Deus. | BE merciful unto me, O God, for man goeth about to | * he is daily fighting, and troubling me. | 2 Mine enemies are daily at hand to swallow me up; * | far that he an h fl",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "56:9:for": {
+  "cls": "ocr-noise",
+  "psalm": 56,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 408,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "9 Whensoever I call upon thee, then shall mine ene- | mies be put to flight: * this I know;for God is on myside. | 408",
+    "page": 224,
+    "second": "anna | 9 Whensoever I call upon thee, then shall mine ene- | mies be put to flight: * this I know;for God is on myside. | 408",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "56:9:know": {
+  "cls": "ocr-noise",
+  "psalm": 56,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 408,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "9 Whensoever I call upon thee, then shall mine ene- | mies be put to flight: * this I know;for God is on myside. | 408",
+    "page": 224,
+    "second": "anna | 9 Whensoever I call upon thee, then shall mine ene- | mies be put to flight: * this I know;for God is on myside. | 408",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "56:9:my": {
+  "cls": "ocr-noise",
+  "psalm": 56,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 409,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Day 11 The Psalter Psalm 57 | I0 In God's word will I rejoice; * in the LORD's word | will I comfort me.",
+    "page": 224,
+    "second": "Day 11 | The Psalter | Psalm 57 | I0 In God's word will I rejoice; * in the LORD's word | will I comfort me.",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "56:9:side": {
+  "cls": "ocr-noise",
+  "psalm": 56,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 409,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Day 11 The Psalter Psalm 57 | I0 In God's word will I rejoice; * in the LORD's word | will I comfort me.",
+    "page": 224,
+    "second": "Day 11 | The Psalter | Psalm 57 | I0 In God's word will I rejoice; * in the LORD's word | will I comfort me.",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "59:1:deliver": {
+  "cls": "ocr-noise",
+  "psalm": 59,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 411,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 59. Eripe me de inimicis. | DiLIVER me from mine enemices, O God; \" defend me | from them that rise up against me.",
+    "page": 236,
+    "second": "Psalm 59. Eripe me de inimicis. | D | ELIVER me from mine enemies, O God; * defend me | from them that rise up against me. | Jinked doore * and coue me",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "5:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 5,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 347,
+    "eye": "mark after LORD, |",
+    "first": "consider my meditation",
+    "page": 204,
+    "second": ",* consider my meditation.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "5:1:meditation": {
+  "cls": "ocr-noise",
+  "psalm": 5,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 347,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "PONDER my words, O LORD, * consider my medita- | 2 O hearken thou unto the voice of my calling, my | 347",
+    "page": 193,
+    "second": "PONDER my words, O LORD, * consider my medita- | 2 O hearken thou unto the voice of my calling, my | 347",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "5:2:+pray": {
+  "cls": "ocr-noise",
+  "psalm": 5,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 348,
+    "eye": "as the cell -- line order",
+    "first": "pray My voice shalt thou hear betimes, O LoRD; * early | in the morning will I direct my prayer unto thee, and",
+    "page": 194,
+    "second": "prayer. | 3 My voice shalt thou hear betimes, O LORD; * early | in the morning will I direct my prayer unto thee, and | will look un",
+    "side": "L"
+   }
+  },
+  "verse": 2
+ },
+ "61:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 61,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 413,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 237,
+    "second": "ol man. | 12 Through God will we do great acts; * for it is he | that shall tread down our enemies. | Psalm 61. Exaudi, Deus. | HA Rrom tre an Cod. carte ei i cal mporayee | when my heart is in heaviness. | me un linon the rock that is hicher than I. * for",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "61:2:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 61,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 413,
+    "eye": "mark after thee, |",
+    "first": "A From try end of h, carh wit tcal mporsree | when my heart is in heaviness.",
+    "page": 237,
+    "second": "HEARom tryento Code carte vat tea mporayec | when my heart is in heaviness. | non the rock that is hiơher than I. * for",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "61:2:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 61,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 413,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 237,
+    "second": "Psalm 61. Exaudi, Deus. | H1Prom the tnd d od. cart eit tcal npop ee | when my heart is in heaviness. | 3 O set me up upon the rock that is higher than I; * for | iono and a strond tower for me against",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "64:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 64,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 415,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 238,
+    "second": "Psalm 64. Exaudi, Deus. | Hire rom reat of the enin y. | in my praver: preserve my | 2 Hide me from the gathering together of the froward,* | n of wicked doers.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "65:8:outgoings": {
+  "cls": "correction:hyphen",
+  "psalm": 65,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 416,
+    "eye": "out-goings -- mid",
+    "first": "the out-goings of the morning and evening to praise | thee.",
+    "page": 228,
+    "second": "(OтaNo Âeн 10 IвTTe a0 IоITe THTоo | the out-goings of the morning and evening to praise | thee. | tenaat",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 416,
+    "eye": "out-goings -- mid (line start)",
+    "first": "out-goings of the morning and evening to praise thee. | 9 Thou visitest the earth, and blessest it;* thou makest",
+    "page": 239,
+    "second": "out-goings of the morning and evening to praise thee. | 9 Thou visitest the earth, and blessest it;* thou makest",
+    "side": "L"
+   }
+  },
+  "verse": 8
+ },
+ "67:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 67,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 418,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 240,
+    "second": "Psalm 67. Deus misereatur. | * and show us | Gohe hệm or fht con es ned haa no merc tho u ua | 2 That thy way may be known upon carth, * thy saving",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "68:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 68,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 419,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 240,
+    "second": "Psalm 68. Exsurgat Deus. | LT em dar that hattet hi e htefore be scattered; \" let | 2 Like as the smoke vanisheth, so shalt thou drive them",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "68:9:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 68,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 419,
+    "eye": "mark after inheritance, |",
+    "first": "herittce, and refreshedst it when it was wean thine in-",
+    "page": 240,
+    "second": "ence of God, who is the cou er | Thou, O God, sentest a gracious rain upon thine in- | eritance, * and refreshedst it when it was weary. | Th concregation shall dwell therein; * for thou, O",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "68:9:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 68,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 419,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 240,
+    "second": "ence of God, who is the God of Israel. | heritance, | Thou, and refreshest it When it was wean thine in- | to Thy congregation shall dwell therein; * for thou, O | soc neanarad fot the noor.",
+    "side": "R"
+   }
+  },
+  "verse": 9
+ },
+ "69:31:thanksgiving": {
+  "cls": "printing-difference:reading",
+  "psalm": 69,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 424,
+    "eye": "thanskgiving -- 1929 misprint (letters transposed)",
+    "first": "31 I will praise the Name of God with a song, * and | magnify it with thanskgiving. | 32 This also shall please the LORD * better than a bul-",
+    "page": 232,
+    "second": "31 I will praise the Name of God with a song, * and | magnify it with thanskgiving. | 32 This also shall please the LORD * better than a bul- | 10.+1",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 424,
+    "eye": "thanksgiving -- as the cell",
+    "first": "help, O God, shall lift me up. | 31 will praise the Name of God with a song, * and | magnify it with thanksgiving.",
+    "page": 243,
+    "second": "help, O God, shall lift me up. | 31 I will praise the Name of God with a song,\" and | magnify it with thanksgiving.",
+    "side": "L"
+   }
+  },
+  "verse": 31
+ },
+ "69:6:+gop": {
+  "cls": "ocr-noise",
+  "psalm": 69,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 422,
+    "eye": "as the cell -- small capitals",
+    "first": "6 Let not them that trust in thee, O Lord Gop of | hosts, be ashamed for my cause; * let not those that seek",
+    "page": 231,
+    "second": "6 Let not them that trust in thee, O Lord Gop of | hosts, be ashamed for my cause; * let not those that seek | Cad of Tessl",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 422,
+    "eye": "as the cell -- small capitals",
+    "first": "6 Let not them that trust in thee, O Lord Gop of hosts, | be ashamed for my cause; * let not those that seek thee be",
+    "page": 242,
+    "second": "6 Let not them that trust in thee, O Lord Gop of hosts, | be ashamed for my cause; * let not those that seek thee be",
+    "side": "L"
+   }
+  },
+  "verse": 6
+ },
+ "6:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 6,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 348,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 6. Domine, ne in furore. | LORD, rebuke me not in thine indignation,* neither | chasten me in thy displeasure",
+    "page": 205,
+    "second": "Psalm 6. Domine, ne in furore. | LORD, rebuke me not in thine indignation,* neither | chasten me in thy displeasure",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "71:15:god": {
+  "cls": "ocr-noise",
+  "psalm": 71,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 426,
+    "eye": "as the cell -- word sweep",
+    "first": "salvation; * for I know no end thereof. | 15 I will go forth in the strength of the Lord Gon,* | and will make mention of thy righteousness only.",
+    "page": 244,
+    "second": "salvation; * for I know no end thereof. | 15 I will go forth in the strength of the Lord Gop,* | and will make mention of thy righteousness only. | L | fann",
+    "side": "L"
+   }
+  },
+  "verse": 15
+ },
+ "71:4:god": {
+  "cls": "ocr-noise",
+  "psalm": 71,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 425,
+    "eye": "as the cell -- word sweep",
+    "first": "man. | 4 For thou, O Lord Gop, art the thing that I long for: * | thou art my hope, even from my youth.",
+    "page": 243,
+    "second": "man. | 4 For thou, O Lord Gop, art the thing that I long for: * | thou art my hope, even from my youth.",
+    "side": "R"
+   }
+  },
+  "verse": 4
+ },
+ "72:16:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 72,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 427,
+    "eye": "mark after Leba-|non: |",
+    "first": "upon the hilisi the fruit theref shall shke cikeh hig- | non: * and they of the city shall flourish like grass upon | the earth.",
+    "page": 233,
+    "second": "16 There shall be an heap of corn in the earth, high | upon the hills; the fruit thereof shall shake like Leba- | non: * and they of the city shall flourish like grass upon | the earth.",
+    "side": "R"
+   }
+  },
+  "verse": 16
+ },
+ "73:20:mediant": {
+  "cls": "printing-difference:pointing",
+  "psalm": 73,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 429,
+    "eye": "awaketh; so -- NO asterisk; full-width crop",
+    "first": "20 Yea, even like as a dream when one awaketh; so | shalt thou make their image to vanish out of the city.",
+    "page": 234,
+    "second": "20 Yea, even like as a dream when one awaketh; so | shalt thou make their image to vanish out of the city.",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 429,
+    "eye": "mark after awaketh; -- as the cell",
+    "first": null,
+    "page": 245,
+    "second": "2o Yea, even like as a dream when one awaketh; * so | shalt thou make their image to vanish out of the city.",
+    "side": "R"
+   }
+  },
+  "verse": 20
+ },
+ "75:4:earth": {
+  "cls": "ocr-noise",
+  "psalm": 75,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 432,
+    "eye": "as the cell -- word sweep",
+    "first": "according unto right. | 4 The carth is weak, and all the inhabiters thereof: * | I bear up the pillars of it.",
+    "page": 236,
+    "second": "according unto right. | 4 The carth is weak, and all the inhabiters thereof: * | I bear up the pillars of it.",
+    "side": "L"
+   }
+  },
+  "verse": 4
+ },
+ "77:10:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 77,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 434,
+    "eye": "mark after infirmity; |",
+    "first": "I1 I will remember the works of the LORD, * and call",
+    "page": 237,
+    "second": "11 I will remember the works of the LORD, * and call | mind thy wonders of old time.",
+    "side": "L"
+   }
+  },
+  "verse": 10
+ },
+ "77:10:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 77,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 434,
+    "eye": "as the cell -- the whole-verse crop missed the two head lines of p. 434; read off a crop of the page head (see 77:10:mediant)",
+    "first": null,
+    "page": 237,
+    "second": "est. | II I will remember the works of the LORD, * and call | to mind thy wonders of old time.",
+    "side": "L"
+   }
+  },
+  "verse": 10
+ },
+ "78:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 78,
+  "scans": {
+   "1952": {
+    "auto": false,
+    "book": 434,
+    "eye": "mark after people; |",
+    "first": "Hthe words of mymy people; * incline your ears unto",
+    "page": 248,
+    "second": "H the words of, my people; incline your ears unto | the words of my mouth.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "78:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 78,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 434,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 248,
+    "second": "Psalm 78. Attendite, popule. | H the wordaot mymy people; | * incline vour ears unto | 2 I will open my mouth in a parable; *I will declare",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "78:27:southwest-wind": {
+  "cls": "undecidable-hyphen",
+  "psalm": 78,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 436,
+    "eye": "southwest- / wind. -- brk",
+    "first": "and through his power he brought in the southwest- | wind.",
+    "page": 238,
+    "second": "and through his power he brought in the southwest- | wind.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 436,
+    "eye": "southwest- / wind. -- brk",
+    "first": "and through his power he brought in the southwest- | wind.",
+    "page": 249,
+    "second": "and through his power he brought in the southwest- | wind.",
+    "side": "L"
+   }
+  },
+  "verse": 27
+ },
+ "78:5:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 78,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 435,
+    "eye": "mark after law, |",
+    "first": "tavir chiidren he commanded our forefathers to teach | 6 That their posterity might know it, * and the chil-",
+    "page": 237,
+    "second": "law, * which he commanded our forefathers to teach | their children; | 6 That their posterity might know it, * and the chil- | dean which wara vet unhor",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 435,
+    "eye": "mark after law, |",
+    "first": "5 He made a covenant with Jacob, and gave Israel a law, | which he commanded our forefathers to teach their chil-",
+    "page": 248,
+    "second": "5 He made a covenant with Jacob, and gave Israel a law, * | which he commanded our forefathers to teach their chil-",
+    "side": "R"
+   }
+  },
+  "verse": 5
+ },
+ "78:69:Judah": {
+  "cls": "worn-type",
+  "psalm": 78,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 439,
+    "eye": "as the cell -- a speck before the word",
+    "first": "not the tribe of Ephraim; | 69 But chose the tribe of'Judah, * even the hill of | Sion which he loved.",
+    "page": 239,
+    "second": "not the tribe of Ephraim; | 69 But chose the tribe of'Judah, * even the hill of | Sion which he loved.",
+    "side": "R"
+   }
+  },
+  "verse": 69
+ },
+ "78:69:judah": {
+  "cls": "ocr-noise",
+  "psalm": 78,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 439,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "not the tribe of Ephraim; | 69 But chose the tribe of'Judah, * even the hill of | Sion which he loved.",
+    "page": 239,
+    "second": "not the tribe of Ephraim; | 69 But chose the tribe of'Judah, * even the hill of | Sion which he loved.",
+    "side": "R"
+   }
+  },
+  "verse": 69
+ },
+ "79:13:sevenfold": {
+  "cls": "correction:hyphen",
+  "psalm": 79,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 440,
+    "eye": "seven-fold -- mid (line start)",
+    "first": "seven-fold into their bosom. | I4 So we, that are thy people, and sheep of thy pas-",
+    "page": 240,
+    "second": "seven-fold into their bosom. | 14 So we, that are thy people, and sheep of thy pas- | aa snlre fae atas | * aed uill almou he",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 440,
+    "eye": "seven- / fold -- brk",
+    "first": "have blasphemed thee,* reward thou them, O Lord, seven- | fold into their bosom.",
+    "page": 251,
+    "second": "o teue se ahe dasphcmy wherewin our neigndours | have blasphemed thee,* reward thou them, O Lord, seven- | fold into their bosom.",
+    "side": "L"
+   }
+  },
+  "verse": 13
+ },
+ "79:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 79,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 439,
+    "eye": "as the cell -- drop capital",
+    "first": "GOD, the heathen are come into thine inheritance; * | thy holy temple have they defiled, and made Jerusa-",
+    "page": 250,
+    "second": "GOD, the heathen are come into thine inheritance; * | thy holy temple have they defiled, and made Jerusa-",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "7:1:o": {
+  "cls": "ocr-noise",
+  "psalm": 7,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 349,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "Psalm 7. Domine, Deus meus. | LORD my God, in thee have I put my trust: * save | me from all them that persecute me, and deliver me;",
+    "page": 205,
+    "second": "Psalm 7. Domine, Deus meus. | LORD my God, in thee have I put my trust: * save | me from all them that persecute me, and deliver me; | Lest he devour mv soul like a lion. and tear it in pieces.*",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "80:10:cedar-trees": {
+  "cls": "hyphen-confirmed",
+  "psalm": 80,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 441,
+    "eye": "cedar- / trees. -- brk (1952 prints it mid)",
+    "first": null,
+    "page": 240,
+    "second": "I0 The hills were covered with the shadow of it, * | and the boughs thereof were like the goodly cedar- | trees.",
+    "side": "R"
+   }
+  },
+  "verse": 10
+ },
+ "80:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 80,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 441,
+    "eye": "mark after flock; |",
+    "first": "Heph De a n Sck, hero w f lyrech tho, thau that sitest | upon the Cherubim.",
+    "page": 251,
+    "second": "Heph like a nsckep herow f lyeil thou that lenat si Jost | * show thyself also, thou that sittest | upon the Cherubim. | Dafasa Fahscin Ronian | and Manaccoh * stir un thu",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "80:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 80,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 441,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 251,
+    "second": "Psalm 80. Qui regis Israel. | , thou that leadest los- | Heph ike a t skpherow f lyrek tho, that chat stitest | upon the Cherubim. | 2 Before Ephraim, Benjamin, and Manasseh, * stir up thy",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "81:11:land": {
+  "cls": "ocr-noise",
+  "psalm": 81,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 442,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "II I am the LORD thy God, who brought thee out of | theland of Egypt:* open thy mouth wide, and I shall fill it. | 442",
+    "page": 241,
+    "second": "I1 I am the LORD thy God, who brought thee out of | the landof Egypt:* open thy mouth wide, and I shall fill it. | 442",
+    "side": "L"
+   }
+  },
+  "verse": 11
+ },
+ "81:17:wheat-flour": {
+  "cls": "undecidable-hyphen",
+  "psalm": 81,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 443,
+    "eye": "wheat- / flour; -- brk",
+    "first": "17 I would have fed them also with the finest wheat- | flour; * and with honey out of the stony rock would I",
+    "page": 241,
+    "second": "17 I would have fed them also with the finest wheat- | flour; * and with honey out of the stony rock would I | houa catiefad thao",
+    "side": "R"
+   },
+   "1952": {
+    "auto": true,
+    "book": 443,
+    "eye": "wheat- / flour; -- brk",
+    "first": "17 I would have fed them also with the finest wheat- | flour; * and with honey out of the stony rock would I have",
+    "page": 252,
+    "second": "17 I would have fed them also with the finest wheat- | flour; * and with honey out of the stony rock would I have",
+    "side": "R"
+   }
+  },
+  "verse": 17
+ },
+ "81:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 81,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 442,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 252,
+    "second": "Psalm 81. Exultate Deo. | S\"aul noise uerrily he cood of fac strength; \" make a cheer- | 2 Take the psalm, bring hither the tabret, * the merry",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "82:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 82,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 443,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 252,
+    "second": "Gofudeeaetng gthe congregation of princes; | * he 15 2 | 2 How long will ye give wrong judgment,* and accept",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "83:1:tongue": {
+  "cls": "ocr-noise",
+  "psalm": 83,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 444,
+    "eye": "as the cell |",
+    "first": "HOLD not thy tonguc, O God, keep not still silence: * | refrain not thyself, O God.",
+    "page": 242,
+    "second": "HOLD not thy tongue, O God, keep not still silence: * | refrain not thyself, O God.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 444,
+    "eye": "as the cell |",
+    "first": "Hreffain n thy yelu, © Godod, keep not sill slence: \" | 2 For lo, thine enemies make a murmuring;* and they",
+    "page": 253,
+    "second": "LD not thy tongue, O God, keep not still silence: * | refrain not thyself, O God. | 2 For lo, thine enemies make a murmuring;* and they",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "83:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 83,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 444,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 253,
+    "second": "Psalm 83. Deus, quis similis? | HOLD not thy tongue, O God, keep not still silence:* | . refrain not thyselt, O God. | 2 For lo, thine enemies make a murmuring;* and they",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "85:1:+ord": {
+  "cls": "ocr-noise",
+  "psalm": 85,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 446,
+    "eye": "as the cell -- drop capital",
+    "first": "ORD, thou art become gracious unto thy land; * thou | • hast turned away the captivity of Jacob.",
+    "page": 243,
+    "second": "ORD, thou art become gracious unto thy land; * thou | hast turned away the captivity of Jacob. | Thane Lacs Caa",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 446,
+    "eye": "as the cell -- drop capital",
+    "first": "[ORD, thou art become gracious unto thy land; \" thou hast | • turned away the captivity of Jacob.",
+    "page": 254,
+    "second": "Lturnedu are become gracious unto thy land; \" thou hast | turned away the captivity of Jacob.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "86:2:+upon": {
+  "cls": "ocr-noise",
+  "psalm": 86,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 447,
+    "eye": "as the cell -- line order",
+    "first": "upon thee. 3 Be merciful unto me, O Lord; * for I will call daily | 4 Comfort the soul of thy servant; * for unto thee, O",
+    "page": 243,
+    "second": "3 Be merciful unto me, O Lord; * for I will call daily | upon thee. | 4 Comfort the soul of thy servant; * for unto thee, O | Lord, do I lift up mv soul.",
+    "side": "R"
+   }
+  },
+  "verse": 2
+ },
+ "87:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 87,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 448,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 255,
+    "second": "Psalm 87. Fundamenta ejus. | * the LORI | Hloveturhe fars of sion mtre hhan ail the dvelongs | of Jacob. | 2 Very excellent things are spoken of thee,* thou city",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "89:10:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 89,
+  "scans": {
+   "1929": {
+    "auto": false,
+    "book": 450,
+    "eye": "mark after sea; |",
+    "first": "the waves thereof when they arise.",
+    "page": 245,
+    "second": "LDDY | the waves thereof when they arise. | T",
+    "side": "L"
+   }
+  },
+  "verse": 10
+ },
+ "89:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 89,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 450,
+    "eye": "mark after LORD; |",
+    "first": "LoRD: with my mouth will 1 ever De showing tn | truth from one generation to another.",
+    "page": 245,
+    "second": "1VL LORD; * with my mouth will I ever be showing thy | truth from one generation to another.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": true,
+    "book": 450,
+    "eye": "mark after LORD; |",
+    "first": "MLson with mlwautt wil lever bidhest of the * with my mouth will I ever be showing thy | truth from one generation to another.",
+    "page": 256,
+    "second": "MLoong shall be alway of the loving-kindness of the | * with my mouth will I ever be showing thy | truth from one generation to another.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "89:24:i": {
+  "cls": "ocr-noise",
+  "psalm": 89,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 451,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "the son of wickedness shall not hurt him. | 24 1 will smite down his foes before his face,* and | plague them that hate him.",
+    "page": 256,
+    "second": "the son of wickedness shall not hurt him. | 24 1 will smite down his foes before his face,* and | plague them that hate him. | aa hall ha ith hi. * | n• *",
+    "side": "R"
+   }
+  },
+  "verse": 24
+ },
+ "89:9:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 89,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 450,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 245,
+    "second": "the saints, * and to be had in reverence of all them that | are round about him. | trựt Thai Thiểci ho ngnhn n thc xu hoa 3 đhợt | the waves thereof when they arise. | II Thou hast subdued Egypt, and destroyed it; *",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "8:7:field": {
+  "cls": "ocr-noise",
+  "psalm": 8,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 351,
+    "eye": "as the cell -- word sweep (no partner in the page OCR)",
+    "first": "fieldall sheep and oxen; * yea, and the beasts of the | 8 The fowls of the air, and the fishes of the sea; * and | whatsoever walketh through the paths of the seas.",
+    "page": 195,
+    "second": "7 All sheep and oxen; * yea, and the beasts of the | feldi The fowls of the ait, and the fishes of the sea; * and | whatsoever walketh through the paths of the seas.",
+    "side": "R"
+   }
+  },
+  "verse": 7
+ },
+ "90:17:work": {
+  "cls": "worn-type",
+  "psalm": 90,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 454,
+    "eye": "as the cell -- worn o",
+    "first": "17 And the glorious majesty of the LORD our God be | upon us: * prosper thou the wcrk of our hands upon us; | O prosper thou our handy-work.",
+    "page": 247,
+    "second": "17 And the glorious majesty of the LORD our God be | upon us: * prosper thou the werk of our hands upon us; | O prosper thou our handy-work.",
+    "side": "L"
+   }
+  },
+  "verse": 17
+ },
+ "90:1:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 90,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 453,
+    "eye": "mark after refuge, |",
+    "first": "to anth hast been our refuge,\" from one generatioi",
+    "page": 257,
+    "second": "- to anotherast been our refuge, from one generation | * from one generation | / to another.",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "90:1:verse": {
+  "cls": "unplaced-verse-read",
+  "psalm": 90,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 453,
+    "eye": "as the cell -- whole-verse crop",
+    "first": null,
+    "page": 257,
+    "second": "Psalm go. Domine, refugium. | [ORD, thou hast been our refuge,\" from one generation | to another. | 2 Before the mountains were brought forth, or ever the",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "92:13:well-liking": {
+  "cls": "hyphen-confirmed",
+  "psalm": 92,
+  "scans": {
+   "1929": {
+    "auto": true,
+    "book": 456,
+    "eye": "well-liking; -- mid",
+    "first": "age, * andy hall be fat and welrtikingre fruit in their",
+    "page": 248,
+    "second": "13 They also shall bring forth more fruit in their | age, * and shall be fat and well-liking; | That thau mau | chnm",
+    "side": "L"
+   }
+  },
+  "verse": 13
+ },
+ "93:1:the": {
+  "cls": "ocr-noise",
+  "psalm": 93,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 457,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 93. Dominus regnavit. | THF LoRD is King, and hath put on glorious apparel;\" | the LORD hath put on his apparel, and girded him-",
+    "page": 259,
+    "second": "Psalm 93. Dominus regnavit. | Ththe Don is Kin purd hatis appare slord girded hin | colf ith ctronath",
+    "side": "R"
+   }
+  },
+  "verse": 1
+ },
+ "95:8:+it": {
+  "cls": "ocr-noise",
+  "psalm": 95,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 459,
+    "eye": "as the cell |",
+    "first": "8 To-day it ye will hear his voice, harden not your | hearts* as in the provocation, and as in the day of tempta-",
+    "page": 260,
+    "second": "8 To-day if ye will hear his voice, harden not your | hearts* as in the provocation, and as in the day of tempta-",
+    "side": "R"
+   }
+  },
+  "verse": 8
+ },
+ "96:12:+held": {
+  "cls": "ocr-noise",
+  "psalm": 96,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 460,
+    "eye": "as the cell |",
+    "first": "12 Let the held be joytul, and all that is in it; * then | shall all the trees of the wood rejoice before the LORD.",
+    "page": 261,
+    "second": "12 Let the field be joyful, and all that is in it; * then | shall all the trees of the wood rejoice before the LORD.",
+    "side": "L"
+   }
+  },
+  "verse": 12
+ },
+ "97:11:mediant": {
+  "cls": "mediant-confirmed",
+  "psalm": 97,
+  "scans": {
+   "1952": {
+    "auto": true,
+    "book": 461,
+    "eye": "mark after righteous, |",
+    "first": "1 There is sprung up a light for the righteous, | joyful gladness for such as are true-hearted.",
+    "page": 261,
+    "second": "1 There is sprung up a light for the righteous, | joyful gladness for such as are true-hearted. | D | tha Ioрn te sichteone. * | and oive th",
+    "side": "R"
+   }
+  },
+  "verse": 11
+ },
+ "97:1:+carth": {
+  "cls": "ocr-noise",
+  "psalm": 97,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 460,
+    "eye": "as the cell |",
+    "first": "THE LORD is King, the carth may be glad thereof; * | yea, the multitude of the isles may be glad thereof.",
+    "page": 250,
+    "second": "THE LoRD is King, the earth may be glad thereof; * | yea, the multitude of the isles may be glad thereof.",
+    "side": "L"
+   },
+   "1952": {
+    "auto": null,
+    "book": 460,
+    "eye": "as the cell |",
+    "first": "THF: LoRn is King, the carth may be glad thereof;\" | yea, the multitude of the isles may be glad thereof.",
+    "page": 261,
+    "second": "Psalm 97. Dominus regnavit. | THF. LoRn is King, the earth may be glad thereof;* | yea, the multitude of the isles may be glad thereof.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "97:1:lord": {
+  "cls": "ocr-noise",
+  "psalm": 97,
+  "scans": {
+   "1952": {
+    "auto": null,
+    "book": 460,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 97. Dominus regnavit. | THF: LoRn is King, the carth may be glad thereof;\" | yea, the multitude of the isles may be glad thereof.",
+    "page": 261,
+    "second": "Psalm 97. Dominus regnavit. | THE. LoRn is King, the earth may be glad thereof;* | yea, the multitude of the isles may be glad thereof.",
+    "side": "L"
+   }
+  },
+  "verse": 1
+ },
+ "97:3:go": {
+  "cls": "ocr-noise",
+  "psalm": 97,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 461,
+    "eye": "as the cell -- word sweep",
+    "first": "Day 19 The Psalter Psalm 98 | 3 There shifs. Fo a fire before him, * and burn up his | enemies on every side.",
+    "page": 250,
+    "second": "Day 19 | The Psalter | Psalm 98 | 3 There shifs. fo a fire before him, * and burn up his | enemies on every side.",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "97:3:shall": {
+  "cls": "ocr-noise",
+  "psalm": 97,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 461,
+    "eye": "as the cell -- word sweep",
+    "first": "Day 19 The Psalter Psalm 98 | 3 There shifs. Fo a fire before him, * and burn up his | enemies on every side.",
+    "page": 250,
+    "second": "Day 19 | The Psalter | Psalm 98 | 3 There shifs. fo a fire before him, * and burn up his | enemies on every side.",
+    "side": "R"
+   }
+  },
+  "verse": 3
+ },
+ "97:3:shall-go": {
+  "cls": "worn-type",
+  "psalm": 97,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 460,
+    "eye": "as the cell, damaged -- type broken over two words",
+    "first": null,
+    "page": 250,
+    "second": null,
+    "side": "L"
+   }
+  },
+  "verse": 3
+ },
+ "98:5:LORD": {
+  "cls": "worn-type",
+  "psalm": 98,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 462,
+    "eye": "as the cell, damaged -- stray impression over the line",
+    "first": "Psalm 99 The Psalter Day 19 | 5 Show yourselves joyful unto t. his_ORD, all ye | lands; * sing, rejoice, and give thanks.",
+    "page": 251,
+    "second": "Psalm 99 | The Psalter | Day 19 | 5 Show yourselves joyful unto t. his_ ORD, all ye | lands; * sing, rejoice, and give thanks. | 4 Dataa he Tonn",
+    "side": "L"
+   }
+  },
+  "verse": 5
+ },
+ "98:5:lord": {
+  "cls": "ocr-noise",
+  "psalm": 98,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 462,
+    "eye": "as the cell -- word sweep",
+    "first": "Psalm 99 The Psalter Day 19 | 5 Show yourselves joyful unto t. his_ORD, all ye | lands; * sing, rejoice, and give thanks.",
+    "page": 251,
+    "second": "Psalm 99 | The Psalter | Day 19 | 5 Show yourselves joyful unto t. his_ ORD, all ye | lands; * sing, rejoice, and give thanks. | 4 Dataa he Tonn",
+    "side": "L"
+   }
+  },
+  "verse": 5
+ },
+ "98:9:joyful": {
+  "cls": "ocr-noise",
+  "psalm": 98,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 462,
+    "eye": "as the cell -- word sweep",
+    "first": "9 Let the floods clap their hands, and let the hills be | Joytul together before the LORD; * for he is come to | judge the earth.",
+    "page": 251,
+    "second": "Let the floods clap their hands, and let the hills be | oyful together before the LORD: * for he is come to | judge the earth.",
+    "side": "L"
+   }
+  },
+  "verse": 9
+ },
+ "9:17:all": {
+  "cls": "worn-type",
+  "psalm": 9,
+  "scans": {
+   "1929": {
+    "auto": null,
+    "book": 352,
+    "eye": "as the cell -- damaged l",
+    "first": "17 The wicked shall be turned to destruction, * and | ail the people that forget God. | 18 For the poor shall not alway be forgotten; * the",
+    "page": 196,
+    "second": "17 The wicked shall be turned to destruction, * and | ail the people that forget God. | 18 For the poor shall not alway be forgotten; * the",
+    "side": "L"
+   }
+  },
+  "verse": 17
+ }
+}

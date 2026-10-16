@@ -1,0 +1,348 @@
+# w21_eye.txt -- Workstream B: readings taken BY EYE off 4400px crops of the two
+# 1928 scans (1929 = BCP1929.pdf, the 1929 Cambridge Edition printing;
+# 1952 = 1952std.pdf, the 1952 facsimile of the Standard Book).
+# One line per reading:  key | scan | book page | what the page shows | note
+# Scan page = (book + 40) // 2 for 1929, (book + 62) // 2 for 1952; L if the
+# book page is even, R if odd (folios read off the page OCR; w21_ocrstats).
+# "mid" = the form is whole inside one printed line; "brk" = the word is
+# broken at a line end there (that page cannot say whether the hyphen is the
+# word's); "mark" = the mediant asterisk is printed after the named word.
+# Fragments only (under eight words); bodies are not transcribed here.
+#
+# --- the three flagged mediants (cells print none) --------------------------
+18:28:mediant | 1929 | 361 | mark after adver-|sity, | asterisk clear
+18:28:mediant | 1952 | 361 | mark after adversity, | small raised asterisk
+109:21:mediant | 1929 | 481 | mark after poor, | asterisk clear
+109:21:mediant | 1952 | 481 | mark after poor, | small raised asterisk
+119:1:mediant | 1929 | 489 | mark after way, | asterisk clear
+119:1:mediant | 1952 | 489 | mark after way, | small raised asterisk
+109:21:~ | 1929 | 481 | poor, * and | no tilde; the mark is the asterisk
+109:21:~ | 1952 | 481 | poor, * and | no tilde; the mark is the asterisk
+# --- readings -------------------------------------------------------------
+29:4:LORDd | 1929 | 374 | the LORD | is a glorious voice | LORD then is; no stray d
+29:4:LORDd | 1952 | 374 | the voice of the LORD is a | no stray d
+12:1:me,LORD, | 1929 | 355 | HELP me, LORD, for there | space after the comma
+12:1:me,LORD, | 1952 | 355 | HELP me, LORD, for there | space after the comma
+20:9:Save,LORD; | 1929 | 365 | 9 Save, LORD; and hear us | space after the comma
+20:9:Save,LORD; | 1952 | 365 | 9 Save, LORD; and hear us | space after the comma
+150:6:colophon | 1929 | 525 | The End of the Psalter. | own centred italic line after verse 6, above the folio
+150:6:colophon | 1952 | 525 | The End of the Psalter. | own centred line after verse 6, above the folio
+# --- compounds the cell closes, the book hyphenates --------------------------
+3:7:cheekbone | 1929 | 347 | cheek-bone; | mid
+3:7:cheekbone | 1952 | 347 | cheek-bone; | mid
+40:6:usward | 1929 | 390 | us-ward; | mid
+40:6:usward | 1952 | 390 | us-ward; | mid (line start)
+44:15:byword | 1929 | 395 | by-word | mid
+44:15:byword | 1952 | 395 | by-word | mid
+65:8:outgoings | 1929 | 416 | out-goings | mid
+65:8:outgoings | 1952 | 416 | out-goings | mid (line start)
+28:2:mercyseat | 1929 | 373 | mercy-seat | mid (line start)
+28:2:mercyseat | 1952 | 373 | mercy- / seat | brk
+42:10:daytime | 1929 | 393 | day-time; | mid (line start)
+42:10:daytime | 1952 | 393 | day- / time; | brk
+79:13:sevenfold | 1929 | 440 | seven-fold | mid (line start)
+79:13:sevenfold | 1952 | 440 | seven- / fold | brk
+119:149:lovingkindness | 1929 | 500 | loving-kindness; | mid (line start)
+119:149:lovingkindness | 1952 | 500 | loving- / kindness; | brk
+147:16:hoarfrost | 1929 | 523 | hoar-frost | mid (line start)
+147:16:hoarfrost | 1952 | 523 | hoar- / frost | brk
+139:1:uprising | 1929 | 514 | up- / rising; | brk
+139:1:uprising | 1952 | 514 | up-rising; | mid
+# --- compounds broken at a line end in BOTH printings (undecidable here) -----
+35:13:sack-cloth | 1929 | 382 | sack- / cloth, | brk
+35:13:sack-cloth | 1952 | 382 | sack- / cloth, | brk
+50:9:he-goats | 1929 | 402 | he- / goats | brk
+50:9:he-goats | 1952 | 402 | he- / goats | brk
+78:27:southwest-wind | 1929 | 436 | southwest- / wind. | brk
+78:27:southwest-wind | 1952 | 436 | southwest- / wind. | brk
+81:17:wheat-flour | 1929 | 443 | wheat- / flour; | brk
+81:17:wheat-flour | 1952 | 443 | wheat- / flour; | brk
+103:8:long-suffering | 1929 | 466 | long- / suffering, | brk
+103:8:long-suffering | 1952 | 466 | long- / suffering, | brk
+# --- where the two PRINTINGS differ (the cell agrees with 1952) --------------
+32:3:whilst | 1929 | 377 | For while I held | 1929 prints while
+32:3:whilst | 1952 | 377 | For whilst I held | as the cell
+37:38:bring | 1929 | 387 | shall being a man | 1929 misprint
+37:38:bring | 1952 | 387 | shall bring a man | as the cell
+55:14:own | 1929 | 407 | mine old familiar friend | 1929 prints old
+55:14:own | 1952 | 407 | mine own familiar friend | as the cell
+69:31:thanksgiving | 1929 | 424 | thanskgiving | 1929 misprint (letters transposed)
+69:31:thanksgiving | 1952 | 424 | thanksgiving | as the cell
+116:15:thanksgiving | 1929 | 487 | thanskgiving | 1929 misprint, same as 69:31
+116:15:thanksgiving | 1952 | 487 | thanksgiving | as the cell
+18:10:mediant | 1929 | 360 | came down, and it | NO asterisk; full-width crop
+18:10:mediant | 1952 | 360 | mark after down, | as the cell
+73:20:mediant | 1929 | 429 | awaketh; so | NO asterisk; full-width crop
+73:20:mediant | 1952 | 429 | mark after awaketh; | as the cell
+123:2:mediant | 1929 | 503 | no asterisk in the verse | NO asterisk; full-width crop
+123:2:mediant | 1952 | 503 | mark after mistress, | as the cell
+# --- mediants the page OCR missed, present by eye -----------------------------
+78:5:mediant | 1929 | 435 | mark after law, |
+78:5:mediant | 1952 | 435 | mark after law, |
+89:1:mediant | 1929 | 450 | mark after LORD; |
+89:1:mediant | 1952 | 450 | mark after LORD; |
+116:1:mediant | 1929 | 486 | mark after LORD; |
+116:1:mediant | 1952 | 486 | mark after LORD; |
+119:33:mediant | 1929 | 492 | mark after statutes, |
+119:33:mediant | 1952 | 492 | mark after statutes, |
+127:1:mediant | 1929 | 505 | mark after house, |
+127:1:mediant | 1952 | 505 | mark after house, |
+132:2:mediant | 1929 | 508 | mark after LORD, |
+132:2:mediant | 1952 | 508 | mark after LORD, |
+18:38:mediant | 1929 | 362 | mark after them; |
+18:38:mediant | 1952 | 362 | mark after them; |
+39:15:mediant | 1929 | 390 | mark after strength, |
+44:10:mediant | 1929 | 395 | mark after con-|fusion, |
+50:4:mediant | 1929 | 401 | mark after above, |
+72:16:mediant | 1929 | 427 | mark after Leba-|non: |
+77:10:mediant | 1929 | 434 | mark after infirmity; |
+89:10:mediant | 1929 | 450 | mark after sea; |
+119:29:mediant | 1929 | 491 | mark after lying, |
+119:166:mediant | 1929 | 501 | mark after health, |
+2:8:mediant | 1952 | 346 | mark after inheritance, |
+5:1:mediant | 1952 | 347 | mark after LORD, |
+21:4:mediant | 1952 | 365 | mark after life, |
+33:17:mediant | 1952 | 379 | mark after him, |
+36:1:mediant | 1952 | 383 | mark after ungodly, |
+38:1:mediant | 1952 | 387 | mark after anger; |
+38:2:mediant | 1952 | 387 | mark after me, |
+38:3:mediant | 1952 | 387 | mark after displeasure; |
+45:1:mediant | 1952 | 396 | mark after King. |
+49:6:mediant | 1952 | 400 | mark after goods, |
+51:1:mediant | 1952 | 403 | mark after goodness; |
+61:2:mediant | 1952 | 413 | mark after thee, |
+68:9:mediant | 1952 | 419 | mark after inheritance, |
+78:1:mediant | 1952 | 434 | mark after people; |
+80:1:mediant | 1952 | 441 | mark after flock; |
+90:1:mediant | 1952 | 453 | mark after refuge, |
+97:11:mediant | 1952 | 461 | mark after righteous, |
+101:1:mediant | 1952 | 463 | mark after judgment; |
+107:35:mediant | 1952 | 478 | mark after water, |
+108:1:mediant | 1952 | 479 | mark after ready; |
+119:41:mediant | 1952 | 492 | mark after LORD, | first crop cut it; full-width crop
+119:79:mediant | 1952 | 495 | mark after testimonies, |
+120:1:mediant | 1952 | 502 | mark after LORD, |
+124:1:mediant | 1952 | 504 | mark after say; |
+134:1:mediant | 1952 | 509 | mark after LORD, |
+146:1:mediant | 1952 | 522 | mark after LORD; |
+# --- page-OCR noise: the page prints the cell's word (no correction) ----------
+16:1:trust | 1929 | 357 | as the cell |
+36:1:before | 1929 | 383 | as the cell |
+37:11:earth | 1952 | 385 | as the cell | OCR read carth (both scans)
+42:1:like | 1929 | 392 | as the cell | drop capital
+42:1:like | 1952 | 392 | as the cell | drop capital
+79:1:o | 1952 | 439 | as the cell | drop capital
+83:1:tongue | 1929 | 444 | as the cell |
+83:1:tongue | 1952 | 444 | as the cell |
+116:1:delight | 1929 | 486 | as the cell |
+116:1:voice | 1929 | 486 | as the cell |
+116:1:prayer | 1929 | 486 | as the cell |
+119:33:teach | 1929 | 492 | as the cell | drop capital
+119:33:end | 1929 | 492 | as the cell |
+119:113:love | 1929 | 497 | as the cell |
+124:1:against | 1929 | 504 | as the cell |
+124:1:against | 1952 | 504 | as the cell |
+130:1:out | 1929 | 507 | as the cell | drop capital
+130:1:out | 1952 | 507 | as the cell | drop capital
+141:1:call | 1929 | 517 | as the cell |
+5:2:+pray | 1929 | 348 | as the cell | line order
+14:1:+he | 1929 | 356 | as the cell | drop capital
+14:1:+he | 1952 | 356 | as the cell | drop capital
+44:21:+or | 1929 | 396 | as the cell |
+44:21:+or | 1952 | 396 | as the cell |
+48:2:+an | 1929 | 399 | as the cell |
+48:2:+an | 1952 | 399 | as the cell |
+48:3:+o | 1929 | 399 | as the cell |
+48:3:+o | 1952 | 399 | as the cell |
+69:6:+gop | 1929 | 422 | as the cell | small capitals
+69:6:+gop | 1952 | 422 | as the cell | small capitals
+85:1:+ord | 1929 | 446 | as the cell | drop capital
+85:1:+ord | 1952 | 446 | as the cell | drop capital
+86:2:+upon | 1929 | 447 | as the cell | line order
+95:8:+it | 1952 | 459 | as the cell |
+96:12:+held | 1952 | 460 | as the cell |
+97:1:+carth | 1929 | 460 | as the cell |
+97:1:+carth | 1952 | 460 | as the cell |
+115:1:+jot | 1929 | 485 | as the cell | drop capital
+115:1:+jot | 1952 | 485 | as the cell | drop capital
+119:113:+have | 1929 | 497 | as the cell | drop capital
+119:113:+have | 1952 | 497 | as the cell | drop capital
+119:170:+be | 1929 | 501 | as the cell |
+132:2:+his | 1952 | 508 | as the cell |
+143:1:+ear | 1929 | 518 | as the cell | drop capital
+143:1:+ear | 1952 | 518 | as the cell | drop capital
+141:1:+an | 1929 | 517 | as the cell |
+# --- 1929 broken or worn type: the word is the cell's, a letter is damaged ----
+90:17:work | 1929 | 454 | as the cell | worn o
+115:6:smell | 1929 | 485 | as the cell | broken e
+102:7:alone | 1929 | 464 | as the cell | worn o
+107:39:brought | 1929 | 478 | as the cell | worn o
+101:10:person | 1929 | 464 | as the cell | broken n
+119:123:health | 1929 | 498 | as the cell | broken e
+9:17:all | 1929 | 352 | as the cell | damaged l
+144:3:unto | 1929 | 519 | as the cell | o cut at the margin
+97:3:shall-go | 1929 | 460 | as the cell, damaged | type broken over two words
+98:5:LORD | 1929 | 462 | as the cell, damaged | stray impression over the line
+17:3:find-no | 1929 | 357 | as the cell | a speck between the words, not a stop
+78:69:Judah | 1929 | 439 | as the cell | a speck before the word
+# --- cell compounds the 1929 page OCR did not show whole (cell form stands) ---
+92:13:well-liking | 1929 | 456 | well-liking; | mid
+145:8:long-suffering | 1929 | 521 | long-suffer- / ing, | mid (the compound hyphen inside the line)
+1:3:water-side | 1929 | 345 | water- / side, | brk (1952 prints it mid)
+80:10:cedar-trees | 1929 | 441 | cedar- / trees. | brk (1952 prints it mid)
+104:17:fir-trees | 1929 | 468 | fir- / trees | brk (1952 prints it mid)
+# --- printing differences found in the word sweep (w21_printdiff) -----------
+37:20:perish, | 1929 | 385 | perish and the | 1929 prints no comma (a tight line); zoomed crop
+37:20:perish, | 1952 | 385 | perish, and the | as the cell
+119:25:MY | 1929 | 491 | M soul cleaveth | 1929 drops the Y after the drop capital
+119:25:MY | 1952 | 491 | MY soul cleaveth | as the cell
+# --- word sweep: the page prints the cell's word (drop capitals, small capitals,
+#     tight setting, "1" read for I, worn type); looked at on stacked crops ----------
+5:1:meditation | 1929 | 347 | as the cell | word sweep (no partner in the page OCR)
+8:7:field | 1929 | 351 | as the cell | word sweep (no partner in the page OCR)
+12:1:faithful | 1929 | 355 | as the cell | word sweep
+17:3:find | 1929 | 358 | as the cell | word sweep (no partner in the page OCR)
+17:3:no | 1929 | 358 | as the cell | word sweep (no partner in the page OCR)
+18:8:earth | 1929 | 360 | as the cell | word sweep
+18:18:he | 1929 | 360 | as the cell | word sweep (no partner in the page OCR)
+18:18:delivered | 1929 | 360 | as the cell | word sweep (no partner in the page OCR)
+18:48:subdueth | 1929 | 363 | as the cell | word sweep (no partner in the page OCR)
+18:48:people | 1929 | 363 | as the cell | word sweep (no partner in the page OCR)
+18:48:unto | 1929 | 363 | as the cell | word sweep (no partner in the page OCR)
+18:49:enemies | 1929 | 363 | as the cell | word sweep
+22:32:lord | 1929 | 368 | as the cell | word sweep
+30:1:i | 1929 | 374 | as the cell | word sweep (no partner in the page OCR)
+31:22:strife | 1929 | 377 | as the cell | word sweep (no partner in the page OCR)
+31:22:of | 1929 | 377 | as the cell | word sweep (no partner in the page OCR)
+31:22:tongues | 1929 | 377 | as the cell | word sweep (no partner in the page OCR)
+34:14:eschew | 1929 | 380 | as the cell | word sweep
+44:21:very | 1929 | 396 | as the cell | word sweep (no partner in the page OCR)
+45:5:thee | 1929 | 396 | as the cell | word sweep (no partner in the page OCR)
+47:7:earth | 1929 | 399 | as the cell | word sweep
+48:9:righteousness | 1929 | 399 | as the cell | word sweep (no partner in the page OCR)
+56:9:know | 1929 | 408 | as the cell | word sweep (no partner in the page OCR)
+56:9:for | 1929 | 408 | as the cell | word sweep (no partner in the page OCR)
+56:9:my | 1929 | 409 | as the cell | word sweep (no partner in the page OCR)
+56:9:side | 1929 | 409 | as the cell | word sweep (no partner in the page OCR)
+75:4:earth | 1929 | 432 | as the cell | word sweep
+78:69:judah | 1929 | 439 | as the cell | word sweep (no partner in the page OCR)
+81:11:land | 1929 | 442 | as the cell | word sweep (no partner in the page OCR)
+97:3:shall | 1929 | 461 | as the cell | word sweep
+97:3:go | 1929 | 461 | as the cell | word sweep
+98:5:lord | 1929 | 462 | as the cell | word sweep
+98:9:joyful | 1929 | 462 | as the cell | word sweep
+109:1:yea | 1929 | 480 | as the cell | word sweep (no partner in the page OCR)
+111:1:i | 1929 | 482 | as the cell | word sweep (no partner in the page OCR)
+111:4:the | 1929 | 482 | as the cell | word sweep (no partner in the page OCR)
+111:4:merciful | 1929 | 482 | as the cell | word sweep (no partner in the page OCR)
+115:12:mindful | 1929 | 485 | as the cell | word sweep (no partner in the page OCR)
+115:12:of | 1929 | 485 | as the cell | word sweep (no partner in the page OCR)
+115:12:us | 1929 | 485 | as the cell | word sweep (no partner in the page OCR)
+115:12:israel | 1929 | 486 | as the cell | word sweep (no partner in the page OCR)
+119:19:i | 1929 | 491 | as the cell | word sweep (no partner in the page OCR)
+119:22:i | 1929 | 491 | as the cell | word sweep (no partner in the page OCR)
+119:107:i | 1929 | 497 | as the cell | word sweep (no partner in the page OCR)
+119:131:i | 1929 | 498 | as the cell | word sweep (no partner in the page OCR)
+123:1:unto | 1929 | 503 | as the cell | word sweep
+142:7:i | 1929 | 518 | as the cell | word sweep (no partner in the page OCR)
+1:1:blessed | 1952 | 345 | as the cell | word sweep
+3:1:lord | 1952 | 346 | as the cell | word sweep (no partner in the page OCR)
+6:1:o | 1952 | 348 | as the cell | word sweep (no partner in the page OCR)
+7:1:o | 1952 | 349 | as the cell | word sweep (no partner in the page OCR)
+12:7:earth | 1952 | 355 | as the cell | word sweep
+14:1:the | 1952 | 356 | as the cell | word sweep
+15:1:lord | 1952 | 357 | as the cell | word sweep
+22:14:i | 1952 | 366 | as the cell | word sweep (no partner in the page OCR)
+23:1:the | 1952 | 368 | as the cell | word sweep
+23:1:lord | 1952 | 368 | as the cell | word sweep
+24:1:lord's | 1952 | 368 | as the cell | word sweep
+26:1:be | 1952 | 370 | as the cell | word sweep
+31:14:i | 1952 | 376 | as the cell | word sweep (no partner in the page OCR)
+37:36:i | 1952 | 387 | as the cell | word sweep (no partner in the page OCR)
+38:16:i | 1952 | 388 | as the cell | word sweep (no partner in the page OCR)
+40:1:i | 1952 | 390 | as the cell | word sweep (no partner in the page OCR)
+43:1:give | 1952 | 394 | as the cell | word sweep
+46:1:god | 1952 | 397 | as the cell | word sweep
+48:2:earth | 1952 | 399 | as the cell | word sweep
+50:1:lord | 1952 | 401 | as the cell | word sweep
+53:1:the | 1952 | 405 | as the cell | word sweep
+53:1:god | 1952 | 405 | as the cell | word sweep (no partner in the page OCR)
+56:1:devour | 1952 | 408 | as the cell | word sweep (no partner in the page OCR)
+59:1:deliver | 1952 | 411 | as the cell | word sweep
+71:4:god | 1952 | 425 | as the cell | word sweep
+71:15:god | 1952 | 426 | as the cell | word sweep
+89:24:i | 1952 | 451 | as the cell | word sweep (no partner in the page OCR)
+93:1:the | 1952 | 457 | as the cell | word sweep
+97:1:lord | 1952 | 460 | as the cell | word sweep
+102:6:i | 1952 | 464 | as the cell | word sweep (no partner in the page OCR)
+104:13:earth | 1952 | 468 | as the cell | word sweep
+104:35:earth | 1952 | 469 | as the cell | word sweep
+106:1:o | 1952 | 472 | as the cell | word sweep (no partner in the page OCR)
+107:24:lord | 1952 | 477 | as the cell | word sweep
+114:1:egypt | 1952 | 484 | as the cell | word sweep
+115:1:lord | 1952 | 485 | as the cell | word sweep
+116:16:i | 1952 | 487 | as the cell | word sweep (no partner in the page OCR)
+117:1:o | 1952 | 487 | as the cell | word sweep (no partner in the page OCR)
+118:1:o | 1952 | 487 | as the cell | word sweep (no partner in the page OCR)
+119:9:wherewithal | 1952 | 490 | as the cell | word sweep (no partner in the page OCR)
+119:17:o | 1952 | 490 | as the cell | word sweep (no partner in the page OCR)
+119:41:let | 1952 | 492 | as the cell | word sweep (no partner in the page OCR)
+119:65:o | 1952 | 494 | as the cell | word sweep (no partner in the page OCR)
+119:97:lord | 1952 | 496 | as the cell | word sweep (no partner in the page OCR)
+119:99:i | 1952 | 496 | as the cell | word sweep (no partner in the page OCR)
+119:137:righteous | 1952 | 499 | as the cell | word sweep
+119:137:judgments | 1952 | 499 | as the cell | word sweep (no partner in the page OCR)
+126:1:lord | 1952 | 505 | as the cell | word sweep
+128:1:lord | 1952 | 506 | as the cell | word sweep
+128:1:his | 1952 | 506 | as the cell | word sweep (no partner in the page OCR)
+128:1:ways | 1952 | 506 | as the cell | word sweep (no partner in the page OCR)
+136:1:o | 1952 | 511 | as the cell | word sweep (no partner in the page OCR)
+140:1:lord | 1952 | 516 | as the cell | word sweep
+140:1:and | 1952 | 516 | as the cell | word sweep (no partner in the page OCR)
+142:4:i | 1952 | 518 | as the cell | word sweep (no partner in the page OCR)
+149:1:o | 1952 | 525 | as the cell | word sweep (no partner in the page OCR)
+150:1:o | 1952 | 525 | as the cell | word sweep (no partner in the page OCR)
+# --- verses an alignment could not place (drop-capital openings): the whole
+#     verse cropped from that scan; words as the cell (looked at: render/b/reads/up_*.png) ---
+77:10:verse | 1929 | 434 | as the cell | the whole-verse crop missed the two head lines of p. 434; read off a crop of the page head (see 77:10:mediant)
+89:9:verse | 1929 | 450 | as the cell | whole-verse crop
+106:46:verse | 1929 | 475 | as the cell | whole-verse crop
+116:1:verse | 1929 | 486 | as the cell | whole-verse crop
+127:1:verse | 1929 | 505 | as the cell | whole-verse crop
+4:1:verse | 1952 | 347 | as the cell | whole-verse crop
+12:1:verse | 1952 | 355 | as the cell | whole-verse crop
+17:1:verse | 1952 | 358 | as the cell | whole-verse crop
+25:1:verse | 1952 | 369 | as the cell | whole-verse crop
+28:3:verse | 1952 | 373 | as the cell | whole-verse crop
+29:1:verse | 1952 | 373 | as the cell | whole-verse crop
+34:1:verse | 1952 | 380 | as the cell | whole-verse crop
+36:1:verse | 1952 | 383 | as the cell | whole-verse crop
+44:1:verse | 1952 | 394 | as the cell | whole-verse crop
+45:1:verse | 1952 | 396 | as the cell | whole-verse crop
+61:1:verse | 1952 | 413 | as the cell | whole-verse crop
+61:2:verse | 1952 | 413 | as the cell | whole-verse crop
+64:1:verse | 1952 | 415 | as the cell | whole-verse crop
+67:1:verse | 1952 | 418 | as the cell | whole-verse crop
+68:1:verse | 1952 | 419 | as the cell | whole-verse crop
+68:9:verse | 1952 | 419 | as the cell | whole-verse crop
+78:1:verse | 1952 | 434 | as the cell | whole-verse crop
+80:1:verse | 1952 | 441 | as the cell | whole-verse crop
+81:1:verse | 1952 | 442 | as the cell | whole-verse crop
+82:1:verse | 1952 | 443 | as the cell | whole-verse crop
+83:1:verse | 1952 | 444 | as the cell | whole-verse crop
+87:1:verse | 1952 | 448 | as the cell | whole-verse crop
+90:1:verse | 1952 | 453 | as the cell | whole-verse crop
+101:1:verse | 1952 | 463 | as the cell | whole-verse crop
+102:1:verse | 1952 | 464 | as the cell | whole-verse crop
+105:34:verse | 1952 | 472 | as the cell | whole-verse crop
+109:29:verse | 1952 | 481 | as the cell | whole-verse crop
+110:1:verse | 1952 | 482 | as the cell | whole-verse crop
+119:33:verse | 1952 | 492 | as the cell | whole-verse crop
+120:1:verse | 1952 | 502 | as the cell | whole-verse crop
+122:1:verse | 1952 | 503 | as the cell | whole-verse crop
+124:1:verse | 1952 | 504 | as the cell | whole-verse crop
+127:1:verse | 1952 | 505 | as the cell | whole-verse crop
+132:1:verse | 1952 | 507 | as the cell | whole-verse crop
+138:1:verse | 1952 | 513 | as the cell | whole-verse crop
+141:1:verse | 1952 | 517 | as the cell | whole-verse crop
+144:1:verse | 1952 | 519 | as the cell | whole-verse crop

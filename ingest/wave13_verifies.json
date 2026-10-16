@@ -2,22 +2,50 @@
  {
   "edition": "1928",
   "file": "psalms-1-50",
-  "anchor": "Psalm 18",
-  "source_reading": "no mediant",
-  "note": "the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as justus prints it. Confirm against a 1928 scan"
+  "anchor": "Psalm 32",
+  "source_reading": "whilst",
+  "note": "the 1928 witnesses disagree: the 1929 printing (BCP1929, scan 208R, p. 377) reads \"For while I held\"; the 1952 facsimile of the Standard Book (scan 219R, p. 377) reads \"whilst\", as the carrier. A printing disagreement, recorded and not imported (R19)"
+ },
+ {
+  "edition": "1928",
+  "file": "psalms-1-50",
+  "anchor": "Psalm 35",
+  "source_reading": "sack-cloth",
+  "note": "both 1928 printings break this word at a line end (\"sack-\" / \"cloth\"): BCP1929 scan 211L and the 1952 facsimile scan 222L, both p. 382, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it"
+ },
+ {
+  "edition": "1928",
+  "file": "psalms-1-50",
+  "anchor": "Psalm 50",
+  "source_reading": "he-goats",
+  "note": "both 1928 printings break this word at a line end (\"he-\" / \"goats\"): BCP1929 scan 221L and the 1952 facsimile scan 232L, both p. 402, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it"
+ },
+ {
+  "edition": "1928",
+  "file": "psalms-51-100",
+  "anchor": "Psalm 55",
+  "source_reading": "mine own familiar",
+  "note": "the 1928 witnesses disagree: the 1929 printing (BCP1929, scan 223R, p. 407) reads \"mine old familiar friend\"; the 1952 facsimile of the Standard Book (scan 234R, p. 407) reads \"own\", as the carrier. A printing disagreement, recorded and not imported (R19)"
+ },
+ {
+  "edition": "1928",
+  "file": "psalms-51-100",
+  "anchor": "Psalm 78",
+  "source_reading": "southwest-wind",
+  "note": "both 1928 printings break this word at a line end (\"southwest-\" / \"wind\"): BCP1929 scan 238L and the 1952 facsimile scan 249L, both p. 436, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it"
+ },
+ {
+  "edition": "1928",
+  "file": "psalms-51-100",
+  "anchor": "Psalm 81",
+  "source_reading": "wheat-flour",
+  "note": "both 1928 printings break this word at a line end (\"wheat-\" / \"flour\"): BCP1929 scan 241R and the 1952 facsimile scan 252R, both p. 443, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it"
  },
  {
   "edition": "1928",
   "file": "psalms-101-150",
-  "anchor": "Psalm 109",
-  "source_reading": "no mediant",
-  "note": "the justus 1928 text prints this verse without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan"
- },
- {
-  "edition": "1928",
-  "file": "psalms-101-150",
-  "anchor": "Psalm 119",
-  "source_reading": "no mediant",
-  "note": "the justus 1928 text prints the first verse of Psalm 119 without its asterisk; the 1662 text has a mediant here. Carried as printed. Confirm against a 1928 scan"
+  "anchor": "Psalm 103",
+  "source_reading": "long-suffering",
+  "note": "both 1928 printings break this word at a line end (\"long-\" / \"suffering\"): BCP1929 scan 253L and the 1952 facsimile scan 264L, both p. 466, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it"
  }
 ]

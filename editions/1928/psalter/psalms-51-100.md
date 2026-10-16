@@ -135,6 +135,7 @@ HEAR my prayer, O God, : and hide not thyself from my petition.
 13 Neither was it mine adversary that did magnify himself against me; : for then peradventure I would have hid myself from him;
 
 14 But it was even thou, my companion, : my guide, and mine own familiar friend.
+<!-- VERIFY: 'mine own familiar'; the 1928 witnesses disagree: the 1929 printing (BCP1929, scan 223R, p. 407) reads "mine old familiar friend"; the 1952 facsimile of the Standard Book (scan 234R, p. 407) reads "own", as the carrier. A printing disagreement, recorded and not imported (R19) -->
 
 15 We took sweet counsel together, : and walked in the house of God as friends.
 
@@ -426,7 +427,7 @@ THOU, O God, art praised in Sion; : and unto thee shall the vow be performed in 
 
 7 Who stilleth the raging of the sea, : and the noise of his waves, and the madness of the peoples.
 
-8 They also that dwell in the uttermost parts of the earth shall be afraid at thy tokens, : thou that makest the outgoings of the morning and evening to praise thee.
+8 They also that dwell in the uttermost parts of the earth shall be afraid at thy tokens, : thou that makest the out-goings of the morning and evening to praise thee.
 
 9 Thou visitest the earth, and blessest it; : thou makest it very plenteous.
 
@@ -1027,6 +1028,7 @@ HEAR my law, O my people; : incline your ears unto the words of my mouth.
 26 So man did eat angels' food; : for he sent them meat enough.
 
 27 He caused the east-wind to blow under heaven; : and through his power he brought in the southwest-wind.
+<!-- VERIFY: 'southwest-wind'; both 1928 printings break this word at a line end ("southwest-" / "wind"): BCP1929 scan 238L and the 1952 facsimile scan 249L, both p. 436, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it -->
 
 28 He rained flesh upon them as thick as dust, : and feathered fowls like as the sand of the sea.
 
@@ -1148,7 +1150,7 @@ O GOD, the heathen are come into thine inheritance; : thy holy temple have they 
 
 12 O let the sorrowful sighing of the prisoners come before thee; : according to the greatness of thy power, preserve thou those that are appointed to die.
 
-13 And for the blasphemy wherewith our neighbours have blasphemed thee, : reward thou them, O Lord, sevenfold into their bosom.
+13 And for the blasphemy wherewith our neighbours have blasphemed thee, : reward thou them, O Lord, seven-fold into their bosom.
 
 14 So we, that are thy people, and sheep of thy pasture, shall give thee thanks for ever, : and will alway be showing forth thy praise from generation to generation.
 
@@ -1231,6 +1233,7 @@ SING we merrily unto God our strength; : make a cheerful noise unto the God of J
 16 The haters of the LORD should have submitted themselves unto him; : but their time should have endured for ever.
 
 17 I would have fed them also with the finest wheat-flour; : and with honey out of the stony rock would I have satisfied thee.
+<!-- VERIFY: 'wheat-flour'; both 1928 printings break this word at a line end ("wheat-" / "flour"): BCP1929 scan 241R and the 1952 facsimile scan 252R, both p. 443, so neither page says whether the hyphen belongs to the word. Carried as the carrier prints it -->
 
 ## Psalm 82
 

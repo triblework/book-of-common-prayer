@@ -642,6 +642,29 @@ The published branches and tags are build artifacts, regenerated from the
     a Psalter verse is); every pre-existing file splits exactly as before.
   - This changes `texts/original` and `texts/normalized` only at `v1662`.
 
+- **2026-10-16** — Wave 21: the **1928 Psalter, read against the original
+  printing**. Wave 13 transcribed it from a keying; this wave read every verse
+  against justus's scan of the 1928 book as first printed (`1928/BCP1929.pdf`,
+  the Cambridge Edition certified against the Standard Book), with the 1952
+  facsimile of the Standard Book as a second witness within limits — its own
+  certificate shows it to be the text *as amended* to 1952, so it corroborates
+  and settles line-end hyphens but never overrules (`RULINGS.md` R19).
+  - **Seventeen corrections** in three files: the mediant restored in the three
+    verses Wave 13 had flagged (both printings point them), a keying slip
+    (`LORDd`), two missing spaces, ten compounds the book hyphenates
+    (*cheek-bone*, *loving-kindness*, …), and "The End of the Psalter." deleted
+    from the last verse, where the keying had fused it.
+  - **Ten printing differences recorded, none imported**: the keyed text
+    agrees with the 1952 Standard Book in all ten, so it was keyed from a
+    Standard-conformant printing; two real readings (*whilst*/*while* 32:3,
+    *own*/*old* 55:14) are flagged inline, the rest are slips of the 1929
+    printing and are noted in `SOURCES.md`.
+  - Flags: 3 closed, 7 opened (the two readings above and five compounds broken
+    at a line end in both printings). Every verse still carries exactly one
+    mediant.
+  - This changes `texts/original` and `texts/normalized` only at `v1928`
+    (three files).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

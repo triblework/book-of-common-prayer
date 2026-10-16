@@ -14,6 +14,7 @@ import w13_1662
 import w13_1928
 import w13_render
 import w18_witness
+import w21_witness
 
 # 1662 readings held for VERIFY. Wave 18 read all three against the Annexed
 # Book -- the manuscript annexed to the Act of Uniformity 1662, reproduced in
@@ -27,20 +28,7 @@ import w18_witness
 V1662 = {}
 
 
-V1928 = {
-    (18, 28): ("no mediant",
-               "the justus 1928 text prints this verse without its asterisk; "
-               "the 1662 text has a mediant here. Carried as justus prints it. "
-               "Confirm against a 1928 scan"),
-    (109, 21): ("no mediant",
-                "the justus 1928 text prints this verse without its asterisk; "
-                "the 1662 text has a mediant here. Carried as printed. Confirm "
-                "against a 1928 scan"),
-    (119, 1): ("no mediant",
-               "the justus 1928 text prints the first verse of Psalm 119 "
-               "without its asterisk; the 1662 text has a mediant here. Carried "
-               "as printed. Confirm against a 1928 scan"),
-}
+V1928 = {}   # Workstream B: all three read against the scan (w21_evidence.json)
 
 
 def main():
@@ -62,6 +50,8 @@ def main():
     bad = w13_1662.gate(ps, "1928")
     if bad:
         raise SystemExit("1928 gate: %s" % bad)
+    fixed = w21_witness.apply(ps)       # keyed, stale-checked corrections
+    print("1928: %d corrections from the scan" % len(fixed))
     for (n, v), (key, note) in V1928.items():
         ps[n].setdefault("verifies", []).append((v, key, note))
     an, man = w13_render.render("1928", ps, "*")
