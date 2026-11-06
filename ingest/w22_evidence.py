@@ -27,7 +27,8 @@ OUT = os.path.join(HERE, 'w22_evidence.json')
 CASE_NOTE = {g: 'letter case -- R23 (maintainer 2026-11-06): case follows the book; group on'
              for g in ('CASE_LORD', 'CASE_OPENING', 'CASE_CAPS')}
 CASE_NOTE['CASE_POSSESSIVE'] = ("the possessive of small-capital LORD -- the book sets LORD's "
-                                "(lower-case s); the encoding is not ruled (R23); group off")
+                                "(lower-case s); R23 (maintainer 2026-11-06): follow the book; "
+                                "group on")
 CASE_EXTRA = {'CASE_POSSESSIVE': {'read': 'w24_eye.txt', 'found_by': 'Wave 22 eye pass (24:1); '
                                   'the other ten read in Wave 24 off w24_possessive.py crops'}}
 

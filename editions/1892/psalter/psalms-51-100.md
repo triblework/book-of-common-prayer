@@ -180,7 +180,7 @@ BE merciful unto me, O God, for man goeth about to devour me : he is daily fight
 
 9 Whensoever I call upon thee, then shall mine enemies be put to flight : this I know; for God is on my side.
 
-10 In God's word I will rejoice : in the LORD'S word will I comfort me.
+10 In God's word I will rejoice : in the LORD's word will I comfort me.
 
 11 Yea, in God have I put my trust : I will not be afraid what man can do unto me.
 

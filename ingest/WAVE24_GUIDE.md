@@ -4,7 +4,8 @@ Wave 22 read the 1892 Psalter against the Standard Book scan and keyed, by
 eye, 94 places where the cells' letter case differs from the book — then left
 them off, because no ruling said whether case follows a page scan. This wave
 carries the ruling (**R23**, maintainer, 2026-11-06: "#1 accepted" — correct
-all 94 to the book) and keys the one class the ruling does not reach.
+all 94 to the book) and the one class those words did not reach, the
+possessive, ruled the same day ("Yes, LORD's").
 
 ## What changed
 
@@ -15,13 +16,17 @@ Psalms 139–143 —, 22 verse-1 openings, 49 other capitals: *Most High*,
 *anointed*, *Red Sea* …). Checked line by line against the pre-wave cells:
 **only letter case moved** (203 letters). Per file: 28 / 29 / 37.
 
-## The possessive (keyed, OFF)
+## The possessive (keyed as its own group; ON)
 
 The book sets the possessive of small-capital LORD as capital L, small
-capitals ORD, apostrophe and a **lower-case s**; the cells print *LORD'S*
-(eleven Psalter verses; 147:11 with a curly apostrophe). The maintainer's
-words cover case, not this encoding question, so it is keyed as its own group,
-**CASE_POSSESSIVE, OFF** — either answer is a switch, not a rework.
+capitals ORD, apostrophe and a **lower-case s**; the cells printed *LORD'S*
+(eleven Psalter verses; 147:11 with a curly apostrophe, kept). "Correct all
+94" covered case, not this encoding question, so it was keyed as its own
+group, **CASE_POSSESSIVE**, first OFF so either answer would be a switch; the
+maintainer ruled it the same day ("Yes, LORD's") and it is ON: 11
+corrections, each one letter S → s. The encoding rule (R23): small capitals
+are set as capitals; a lower-case letter the book prints after them stays
+lower-case.
 
 ```
 w24_possessive.py   locate each possessive's printed row (the committed OCR line
@@ -45,14 +50,13 @@ gen_wave24_provenance.py   one sentence on each 1892 psalter record, counts
                     read from w22_witness; re-runnable (replaces its sentence)
 ```
 
-To turn the possessive on: `CASE_POSSESSIVE: True` in `w22_witness.GROUPS`;
-`python3 ingest/w13_build_1892.py`; the gates below;
-`python3 ingest/gen_wave24_provenance.py`; then R23's open question,
-SOURCES/NOTICE/README and the HANDOFF block.
+Switching a group: `w22_witness.GROUPS`; `python3 ingest/w13_build_1892.py`;
+the gates below; `python3 ingest/gen_wave24_provenance.py` (it reads the
+switches).
 
 ## Gates
 
-`w22_gates` 0 (485 keys dry-run exactly once; 472 enabled applied once;
+`w22_gates` 0 (485 keys dry-run exactly once; 483 enabled applied once;
 containment vs `710f635b` holds — the case keys are Wave 22's own, so the gate
 needed no change; `--selftest` sensitive). `w17_gates` 0 (it chains whatever
 `w22_witness` enables). `w13_fidelity` 0 (case changes add no lower-case word),
@@ -70,5 +74,6 @@ else moved" compares with HEAD and reads 1 until the commit). `verify_index
    height test that would separate small capitals from lower case elsewhere
    fails in this face (small capitals at the x-height); the check is recorded
    with that limit, and the eye read stands.
-3. **A ruling's words bound it.** "Correct all 94" covers the keyed case
-   differences; the possessive was never among them and is put separately.
+3. **A ruling's words bound it.** "Correct all 94" covered the keyed case
+   differences; the possessive was never among them, so it was keyed OFF as
+   its own group and put separately — and the answer was then one switch.

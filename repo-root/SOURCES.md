@@ -532,10 +532,11 @@ as its stops do (`RULINGS.md` R23). Wave 22's 94 keyed differences are switched
 on: 23 of the small-capital divine name (LORD, GOD, JEHOVAH), 22 verse-1
 openings, 49 other capitals. Nothing but letter case changed (86 verse lines).
 The ruling reaches no born-digital text layer: the 1979 Psalter's case still
-comes from its keying (R11). Still open: the possessive. The book sets it as
-small-capital LORD, an apostrophe and a **lower-case s** ("LORD's") where these
-cells print "LORD'S", in 11 verses. All 11 were read by eye (`ingest/w24_eye.txt`)
-and keyed, but they are not applied until the encoding is ruled.
+comes from its keying (R11). The possessive was ruled separately: the book sets
+small-capital LORD, an apostrophe and a **lower-case s**, so these cells now
+print "LORD's" where they printed "LORD'S" (11 verses, each read by eye,
+`ingest/w24_eye.txt`). Small capitals are set as capitals; a lower-case letter
+the book prints after them stays lower-case.
 
 ### The rest of the 1979 text against the publisher's own file (Wave 23)
 

@@ -194,8 +194,8 @@ CASE_SAME = ['10:9 For', '38:15 For', '51:3 For', '73:26 For', '89:18 For', '103
 # THE POSSESSIVE (Wave 24, 2026-11-06; an encoding question, R23): the book sets the possessive
 # of small-capital LORD as LORD's -- capital L, small capitals ORD, apostrophe, LOWER-CASE s --
 # where the cells print LORD'S (147:11 with a curly apostrophe, kept). All 11 read by eye off
-# 4400px crops (w24_possessive.py; record w24_eye.txt); keyed as group CASE_POSSESSIVE, OFF until
-# the encoding is ruled.
+# 4400px crops (w24_possessive.py; record w24_eye.txt); keyed as group CASE_POSSESSIVE, ruled ON
+# (R23, maintainer 2026-11-06: "Yes, LORD's").
 CASE += [(r, w, 1, w[:-1] + 's', 'possessive', 'w24 pos_%s' % r.replace(':', '_')) for r, w in (
     ('11:4', "LORD'S"), ('22:28', "LORD'S"), ('24:1', "LORD'S"), ('27:16', "LORD'S"),
     ('56:10', "LORD'S"), ('113:3', "LORD'S"), ('115:16', "LORD'S"), ('116:16', "LORD'S"),

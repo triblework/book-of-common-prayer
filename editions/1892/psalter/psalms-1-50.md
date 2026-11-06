@@ -303,7 +303,7 @@ IN the LORD put I my trust : how say ye then to my soul, that she should flee as
 
 3 For the foundations will be cast down : and what hath the righteous done?
 
-4 The LORD is in his holy temple : the LORD'S seat is in heaven.
+4 The LORD is in his holy temple : the LORD's seat is in heaven.
 
 5 His eyes consider the poor : and his eyelids try the children of men.
 
@@ -709,7 +709,7 @@ MY God, my God, look upon me; why hast thou forsaken me : and art so far from my
 
 27 All the ends of the world shall remember themselves, and be turned unto the LORD : and all the kindreds of the nations shall worship before him.
 
-28 For the kingdom is the LORD'S : and he is the Governor among the people.
+28 For the kingdom is the LORD's : and he is the Governor among the people.
 
 29 All such as be fat upon earth : have eaten, and worshipped.
 
@@ -739,7 +739,7 @@ THE LORD is my shepherd : therefore can I lack nothing.
 
 > Domini est terra.
 
-THE earth is the LORD'S, and all that therein is : the compass of the world, and they that dwell therein.
+THE earth is the LORD's, and all that therein is : the compass of the world, and they that dwell therein.
 
 2 For he hath founded it upon the seas : and prepared it upon the floods.
 
@@ -867,7 +867,7 @@ THE LORD is my light and my salvation; whom then shall I fear : the LORD is the 
 
 15 I should utterly have fainted : but that I believe verily to see the goodness of the LORD in the land of the living.
 
-16 O tarry thou the LORD'S leisure : be strong, and he shall comfort thine heart; and put thou thy trust in the LORD.
+16 O tarry thou the LORD's leisure : be strong, and he shall comfort thine heart; and put thou thy trust in the LORD.
 
 ## Psalm 28
 

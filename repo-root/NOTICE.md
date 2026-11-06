@@ -712,10 +712,10 @@ The published branches and tags are build artifacts, regenerated from the
     had set as "Lord" (sixteen times in Psalms 139–143), GOD and JEHOVAH; the
     book's verse-1 openings, which capitalize only the first word; and *Most
     High*, *anointed*, *Red Sea* and other capitals. Only letter case changed.
-  - **Not yet applied**: the possessive. The book sets small-capital LORD's with
-    a lower-case s where the cells print "LORD'S" (11 verses), which is an
-    encoding question still open. All 11 are read by eye and keyed.
-  - No flag opened or closed. The independent change log still agrees 55 of 55.
+  - **The possessive** follows the book too: small-capital LORD with a
+    lower-case s, "LORD's", where the cells printed "LORD'S" (11 verses).
+  - 105 corrections in all, each an eye read with its scan page. No flag
+    opened or closed; the independent change log still agrees 55 of 55.
   - This changes `texts/original` and `texts/normalized` only at `v1892`
     (three files).
 

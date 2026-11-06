@@ -42,9 +42,10 @@ def note_for(f, per):
          % (k('CASE_LORD') + k('CASE_OPENING') + k('CASE_CAPS'), k('CASE_LORD'),
             k('CASE_OPENING'), k('CASE_CAPS'), len(W.EVIDENCE)))
     if on:
-        s += (' The possessive of small-capital LORD is set as the book prints it, with a '
-              'lower-case s ("LORD\'s"; %d in this file; eye record ingest/w24_eye.txt).'
-              % k('CASE_POSSESSIVE'))
+        s += (' The possessive of small-capital LORD follows the book too, with a lower-case s '
+              '("LORD\'s" where this file printed "LORD\'S"; R23, maintainer 2026-11-06: small '
+              'capitals are set as capitals, a lower-case letter after them stays lower-case): %d '
+              'in this file, each read by eye (ingest/w24_eye.txt).' % k('CASE_POSSESSIVE'))
     else:
         s += (' Not taken: the possessive of small-capital LORD, which the book sets with a '
               'lower-case s ("LORD\'s") where this file prints "LORD\'S" -- %d in this file, read '

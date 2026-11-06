@@ -457,7 +457,7 @@ witness could not settle (R11 addendum).
 
 ## R23 — Letter case in a Psalter read against a scan follows the book
 *(maintainer), 2026-11-06, Wave 24; the 1892 Psalter. Closes Wave 22's open
-question.*
+question, and the possessive it raised.*
 
 The question, as put to the maintainer by the coordinator session: R11 says
 a born-digital text layer cannot settle case; nothing said whether case
@@ -470,7 +470,8 @@ comparisons." The maintainer's answer: **"#1 accepted".**
 
 - **Ruled:** where an edition is read by eye against a page scan, its letter
   case follows the book, as its stops do (R21), in the corpus's encoding
-  (small capitals as capitals: `LORD`, `GOD`). Applied: Wave 22's three keyed
+  (small capitals as capitals: `LORD`, `GOD`; a lower-case letter after them
+  stays lower-case: `LORD's`). Applied: Wave 22's three keyed
   groups in `ingest/w22_witness.py` switched ON — CASE_LORD 23 (small-capital
   LORD set "Lord" sixteen times in Psalms 139–143, GOD ×3, JEHOVAH 83:18, the
   reverse at 2:4), CASE_OPENING 22 (the book capitalizes only the first word
@@ -484,15 +485,18 @@ comparisons." The maintainer's answer: **"#1 accepted".**
   a born-digital text layer (R11 stands: the 1979 file renders small-capital
   LORD as "Lord") nor to small page photographs of an unidentified copy (the
   queued justus ruling: never case).
-- **Not covered — the possessive.** The maintainer's words do not reach an
-  encoding question: the book sets the possessive of small-capital LORD as
-  capital L, small capitals ORD, apostrophe, **lower-case s** ("LORD's") where
-  the cells print "LORD'S", in 11 Psalter verses (11:4, 22:28, 24:1, 27:16,
-  56:10, 113:3, 115:16, 116:16, 118:23, 137:4, 147:11). All 11 were read by
-  eye in Wave 24 off 4400px crops (`ingest/w24_eye.txt`) and keyed as group
-  CASE_POSSESSIVE, switched **OFF** until the maintainer rules (the
-  coordinator's recommendation: follow the book). Either answer is a switch,
-  a rebuild and `gen_wave24_provenance.py`. Open question below.
+- **The possessive, ruled separately the same day.** "Correct all 94" did
+  not reach an encoding question: the book sets the possessive of
+  small-capital LORD as capital L, small capitals ORD, apostrophe,
+  **lower-case s**, where the cells printed "LORD'S", in 11 Psalter verses
+  (11:4, 22:28, 24:1, 27:16, 56:10, 113:3, 115:16, 116:16, 118:23, 137:4,
+  147:11). All 11 were read by eye in Wave 24 off 4400px crops
+  (`ingest/w24_eye.txt`) and keyed as group CASE_POSSESSIVE. Put to the
+  maintainer by the coordinator as "Should the possessive follow the book as
+  "LORD's"?", the answer was **"Yes, LORD's"** (2026-11-06). Switched ON:
+  11 corrections, each exactly one letter S → s. **The encoding rule:** the
+  corpus sets small capitals as full capitals, but a lower-case letter the
+  book prints after them stays lower-case.
 - *My calls in carrying it out (2026-11-06; the maintainer may overturn any):*
   (a) `w22_case_keys.py` now reads its cells at Wave 22's base by SHA, not
   from the work tree (which has carried Wave 22's stops since that publish);
@@ -509,7 +513,9 @@ comparisons." The maintainer's answer: **"#1 accepted".**
 
 *Reopened by:* a scan of another copy of the 1892 Standard Book that sets the
 case differently, or a decision to encode small capitals as such corpus-wide
-(which would reopen every LORD in the repo).
+(which would reopen every LORD in the repo). *Not decided by this:* 1928's
+and 1979's possessives (their cells print "LORD'S" from their own carriers);
+each needs its own witness read for case — 1979's file cannot give it (R11).
 
 ---
 
@@ -548,18 +554,6 @@ last checked.
 
 ## Open questions awaiting a ruling
 
-- **The possessive of small-capital LORD (Wave 24, 2026-11-06; R23).** The
-  1892 Standard Book sets it with a lower-case s ("LORD's": small capitals ORD,
-  then an s of the same form and size as the lower-case s's of the same rows;
-  11 Psalter verses, all read by eye, `ingest/w24_eye.txt`); the cells print
-  "LORD'S". Does the corpus's caps-for-small-caps convention extend to the
-  possessive's s? Options: follow the book, "LORD's" (the coordinator's
-  recommendation: R23 follows the book's case, and the s is not small
-  capital); keep "LORD'S" as an encoding convention, recorded. Keyed as
-  `CASE_POSSESSIVE` in `ingest/w22_witness.py`, OFF; either answer is a switch,
-  `w13_build_1892.py`, the gates and `gen_wave24_provenance.py`. (1928's cells
-  print "LORD'S" too, from their own carrier, and 1979's mostly do; neither has
-  been asked.)
 - **The 1662 communion admission rubric.** What the carrier prints (an account
   to the Ordinary, seven days, an opportunity for interview) is no part of the
   1662 text: the Annexed Book prints the "open and notorious evil liver" rubric

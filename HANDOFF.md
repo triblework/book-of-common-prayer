@@ -33,14 +33,13 @@ What it did: switched Wave 22's three keyed case groups ON in
 `ingest/w22_witness.GROUPS` — CASE_LORD 23, CASE_OPENING 22, CASE_CAPS 49 —
 and rebuilt with `w13_build_1892.py`: **94 corrections in 86 verse lines,
 letter case only** (checked: no other character moved). The possessive
-(*LORD's*, lower-case s, where the cells print *LORD'S*; 11 verses) is NOT
-covered by the maintainer's words: all 11 were read by eye off 4400px crops
+(*LORD's*, lower-case s, where the cells printed *LORD'S*; 11 verses) was not
+covered by those words: all 11 were read by eye off 4400px crops
 (`w24_possessive.py`, record `w24_eye.txt`; a pixel check, `w24_measure.py`,
 found this face's small capitals stand at the x-height, so only the eye can
-tell the s) and keyed as group **CASE_POSSESSIVE, OFF**; the coordinator is
-putting it to the maintainer. Turning it on: flip the switch, run
-`w13_build_1892.py`, the gates, `gen_wave24_provenance.py` (re-runnable), and
-amend the R23 open question, SOURCES/NOTICE/README and this block.
+tell the s), keyed as group **CASE_POSSESSIVE**, and switched ON when the
+maintainer ruled the same day ("Yes, LORD's"): 11 corrections, each one
+letter S → s. **105 corrections in all.**
 
 Scripts: `w24_possessive.py` (locate + crop), `w24_measure.py` (pixel check),
 `w24_eye.txt`, `w24_evidence.py` (the case records of `w22_evidence.json`,
@@ -53,12 +52,12 @@ Wave 22's stops since that publish; the 94 keys regenerate byte-identical),
 `w22_evidence.py` (the notes as ruled). No gate needed amending: `w22_gates`
 and `w17_gates` already chain whatever `w22_witness` enables (R18).
 
-Gates: `w22_gates` 0 (485 keys dry-run, 472 applied; `--selftest`
+Gates: `w22_gates` 0 (485 keys dry-run, 483 applied; `--selftest`
 sensitive); `w17_gates` 0; `w13_fidelity`, `w13_audit` 0; `w13_changelog`
 55/55; `w14`–`w23` 0 (`w20_gates`' "nothing else moved" reads 1 until the
 commit, as always); `verify_index --check` OK (350 inline / 438 provenance).
 
-**Queue from this wave:** the possessive ruling (above); the twelfth
+**Queue from this wave:** the twelfth
 *LORD'S* of v1892, in the Churching office's psalm, which has not been read
 against the scan; the 1892 Psalter cells mix straight and curly apostrophes
 (18 curly, e.g. 147:11) — a normalization question, not case; 1928's and
@@ -167,7 +166,7 @@ printed "Lord" 16× in Psalms 139–143; verse-1 openings; *Most High*,
 *anointed*, *Red Sea*) are keyed in `w22_witness.py` (groups CASE_LORD,
 CASE_OPENING, CASE_CAPS) and switched OFF; a ruling is open in `RULINGS.md`.
 Turning them on is a switch, a rebuild and a gate run. *(Ruled 2026-11-06,
-R23: all three ON in Wave 24; the possessive is keyed and still off.)*
+R23: all three ON in Wave 24, and the possessive keyed and ON — "LORD's".)*
 
 Scripts: `w22_render.py`, `w22_ocr.swift` (word boxes), `w22_strip.swift`,
 `w22_scan.py` / `w22_scan_ocr.json`, `w22_align.py`, `w22_classify.py` /
