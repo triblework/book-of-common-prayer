@@ -9,7 +9,20 @@ SOURCES changed). Nothing is rebuilt again except for genuinely new
 scholarship, brought as a new wave (procedure below). If you are a fresh
 session reading this file, start here; the wave blocks below are history.
 
-**Published tips after the close-out:** PUBLISH_TIPS_PLACEHOLDER
+**Published tips after the close-out (2026-11-06, force-pushed under the
+maintainer's go-ahead in the close-out brief, R4):** `main d3cebda1 ·
+scottish 2f6f1bb5 · american 9dbadc57` (identical to the gated scratch build).
+Branches pushed with `--force-with-lease`; the twelve tags pushed BY NAME (no
+scratch tags existed; the scratch build's `refs/live/*` never left it);
+local == remote verified for 28 refs (4 heads, 12 tag objects, 12 peeled
+commits; no stray refs). Gates before the push: `texts/` byte-identical to
+the Wave 25 tags at all twelve (`git diff --stat refs/live/vYYYY vYYYY --
+texts/` empty; only NOTICE, README, SOURCES differ); `sentence_split
+--check`, `normalize --check` and published-context `verify_index` green on
+all three branches; no U+FFFD in any tag's `texts/`. Recovery records:
+`ingest/closeout/pre-publish-refs.txt`, `post-publish-refs.txt`. The
+close-out's NOTICE entry carries no tips, so `authoring` from here on rebuilds
+the published commits exactly (R26 (b)).
 
 ### The register (computed from the repo on 2026-11-06, after Wave 25)
 
