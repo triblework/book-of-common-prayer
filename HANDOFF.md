@@ -18,7 +18,28 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 25 (the apostrophe, R24; the possessive of small-capital LORD, R25) BUILT + COMMITTED, NOT YET PUBLISHED
+## CURRENT — WAVE 25 (the apostrophe, R24; the possessive of small-capital LORD, R25) DONE + PUBLISHED (2026-11-06)
+
+**PUBLISHED 2026-11-06 (force-pushed with the maintainer's go-ahead, given in
+the Wave 25 session: "Go: publish Wave 25"). Published tips: `main 3378506c ·
+scottish 1f1231dd · american d1614cc5` (identical to the pre-publish scratch
+build); branches pushed with `--force-with-lease`, all 12 tags pushed BY NAME
+(no scratch tags existed; the scratch build's `refs/live/*` never left it);
+`authoring` pushed (4bdec46 → aa85a71, then this record); local==remote
+verified for 28 refs (4 heads, 12 tag objects, 12 peeled commits; 0
+mismatched, no stray refs). Against the previous tags `texts/` changed at
+EVERY tag (R24 reaches all twelve editions), and character for character only
+in apostrophes (`'` → `’`) plus the possessive letters at v1892 (1 per
+spelling tree) and v1979 (10 per tree); the other changed files are
+NOTICE/README/SOURCES and `tools/normalize.py`. Every tag and branch passes
+`sentence_split --check`, `normalize --check` and published-context
+`verify_index`; no tag carries U+FFFD. CI (3 branches), Authoring CI and
+viewer runs green on aa85a71; all 280 viewer data files byte-identical to the
+live site; the live Compare (1892 | 1928, Psalms 101–150) pairs word-level
+highlights, shows no straight apostrophe and no word pair that differs only by
+its apostrophe (there were 74 between those editions). Pre/post refs:
+`scratchpad/pre-publish-refs-w25.txt`, `post-publish-refs-w25.txt`
+(scratchpad, not durable).**
 
 A side session of the Wave 24 session, to clear Wave 24's queue. Guide:
 `ingest/WAVE25_GUIDE.md`. Two maintainer rulings, asked and answered in the

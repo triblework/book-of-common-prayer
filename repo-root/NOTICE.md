@@ -737,6 +737,8 @@ The published branches and tags are build artifacts, regenerated from the
   - 11 possessive letters and 1,250 apostrophes; no flag opened or closed;
     the independent change log still agrees 55 of 55.
   - This changes `texts/original` and `texts/normalized` at every tag.
+    (Published 2026-11-06; tips main `3378506c` · scottish `1f1231dd` ·
+    american `d1614cc5`.)
 
 ## A note on transcription
 
