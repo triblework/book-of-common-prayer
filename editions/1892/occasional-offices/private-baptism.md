@@ -8,7 +8,7 @@
 
 ## The Private Baptism
 
-> First, let the Minister of the Parish (or in his absence any other lawful Minister that can be procured) with those who are present, call upon God, and say the Lord's Prayer, and so many of the Collects appointed to be said before in the Form of Public Baptism, as the time and present exigence will suffer. And then, the Child being named by some one who is present, the Minister shall pour Water upon it, saying these words:
+> First, let the Minister of the Parish (or in his absence any other lawful Minister that can be procured) with those who are present, call upon God, and say the Lord’s Prayer, and so many of the Collects appointed to be said before in the Form of Public Baptism, as the time and present exigence will suffer. And then, the Child being named by some one who is present, the Minister shall pour Water upon it, saying these words:
 
 > N. I baptize thee In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
@@ -44,7 +44,7 @@ BELOVED, ye hear in this Gospel the words of our Saviour Christ, that he command
 
 Wherefore, we being thus persuaded of the good will of our heavenly Father, declared by his Son Jesus Christ, towards this Infant, let us faithfully and devoutly give thanks unto him, and say the Prayer which the Lord himself taught us.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
 
@@ -56,25 +56,25 @@ DOST thou in the name of this Child renounce the devil and all his works, the va
 
 **Answer.** I renounce them all, and, by Gods help, will endeavour not to follow nor be led by them.
 
-**Minister.** Dost thou believe all the Articles of the Christian Faith, as contained in the Apostle's Creed?
+**Minister.** Dost thou believe all the Articles of the Christian Faith, as contained in the Apostle’s Creed?
 
 **Answer.** I do.
 
 **Minister.** Wilt thou then obediently keep Gods holy will and commandments, and walk in the same all the days of thy life?
 
-**Answer.** I will, by God's help.
+**Answer.** I will, by God’s help.
 
 ## The Reception
 
 > Then the Minister shall say,
 
-WE receive this Child into the congregation of Christ's flock, and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner, against sin, the world, and the devil; and to continue Christ's faithful soldier and servant unto his life's end. Amen.
+WE receive this Child into the congregation of Christ’s flock, and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner, against sin, the world, and the devil; and to continue Christ’s faithful soldier and servant unto his life’s end. Amen.
 
 > The same rule is to be observed here, as to the omission of the sign of the Cross, as in the Public Baptism of Infants.
 
 > Then shall the Minister say,
 
-SEEING now, dearly beloved brethren, that this Child is regenerate, and grafted into the body of Christ's Church, let is give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him that this Child may lead the rest of his life according to this beginning.
+SEEING now, dearly beloved brethren, that this Child is regenerate, and grafted into the body of Christ’s Church, let is give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him that this Child may lead the rest of his life according to this beginning.
 <!-- VERIFY: source prints 'let is give thanks'; likely 'let us give thanks'; kept as printed; confirm against a page scan -->
 
 ## The Thanksgiving after Baptism
@@ -87,15 +87,15 @@ WE yield thee hearty thanks, most merciful Father, that it hath pleased thee to 
 
 > Then, all standing up, the Minister shall say to the Godfathers and Godmothers this Exhortation following.
 
-FORASMUCH as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him; ye must remember, that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise, and profession, he hath here made by you. And that he may know these things the better, ye shall call upon him to hear Sermons; and chiefly ye shall provide, that he may learn the Creed, the Lord's Prayer, and the Ten Commandments, and all other things which a Christian ought to know and believe to his soul's health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering always, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that, as he died, and rose again for us, so should we, who are baptized, die from sin, and rise again unto righteousness; continually mortifying all our evil and corrupt actions, and daily proceeding in all virtue and godliness of living.
+FORASMUCH as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him; ye must remember, that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise, and profession, he hath here made by you. And that he may know these things the better, ye shall call upon him to hear Sermons; and chiefly ye shall provide, that he may learn the Creed, the Lord’s Prayer, and the Ten Commandments, and all other things which a Christian ought to know and believe to his soul’s health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering always, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that, as he died, and rose again for us, so should we, who are baptized, die from sin, and rise again unto righteousness; continually mortifying all our evil and corrupt actions, and daily proceeding in all virtue and godliness of living.
 
 > Then shall he add, and say,
 
-YE are to take care that this Child be brought to the Bishop to be confirmed by him, so soon as he can say the Creed, the Lord's Prayer, and the Ten Commandments, and is sufficiently instructed in the other parts of the Church-Catechism set forth for that purpose.
+YE are to take care that this Child be brought to the Bishop to be confirmed by him, so soon as he can say the Creed, the Lord’s Prayer, and the Ten Commandments, and is sufficiently instructed in the other parts of the Church-Catechism set forth for that purpose.
 
 ## Conditional Baptism
 
-> But if they who bring the Infant to the Church do make such uncertain Answers to the Minister's Questions, that it cannot appear that the Child was baptized with Water, In the Name of the Father, and of the Son, and of the Holy Ghost, (which are essential parts of Baptism,) then let the Minister baptize it in the Form before appointed for Public Baptism of Infants; saving that at the dipping of the Child in the Font, he shall use this Form of words:
+> But if they who bring the Infant to the Church do make such uncertain Answers to the Minister’s Questions, that it cannot appear that the Child was baptized with Water, In the Name of the Father, and of the Son, and of the Holy Ghost, (which are essential parts of Baptism,) then let the Minister baptize it in the Form before appointed for Public Baptism of Infants; saving that at the dipping of the Child in the Font, he shall use this Form of words:
 
 IF thou art not already baptized, N. I baptize thee In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 

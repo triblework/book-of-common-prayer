@@ -91,7 +91,7 @@ God shall blesse us : and all the endes of the worlde shall feare him.
 Glory be to the Father, &c.
 As it was in the beginning, &c.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shal folow the Crede, with other prayers, as is before appoynted at Morning prayer, after Benedictus.
 > And with the Collectes: Fyrste of the day, the seconde of peace, the thyrde for ayde agaynste all peryls, as hereafter foloweth, whiche two last Collectes shalbe daylye sayde at Evenyng Prayer wythout alteracion.

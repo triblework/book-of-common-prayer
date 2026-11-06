@@ -70,7 +70,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer; the people still kneeling, and repeating it with him, both here, and wheresoever else it is used in divine service.
+> Then the Minister shall kneel, and say the Lord’s Prayer; the people still kneeling, and repeating it with him, both here, and wheresoever else it is used in divine service.
 
 Our Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -95,7 +95,7 @@ Amen.
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 **Minister.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## Venite
 
@@ -234,9 +234,9 @@ And hath raised up a mighty salvation for us, in the house of his servant David;
 As he spake by the mouth of his holy Prophets, which have been since the world began;
 That we should be saved from our enemies, and from the hand of all that hate us.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> Then shall be said the Apostles’ Creed by the Minister and the People, standing.
 > And any Churches may omit the words, He descended into hell, or may, instead of them, use the words, He went into the place of departed spirits, which are considered as words of the same meaning in the Creed.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
@@ -301,7 +301,7 @@ Amen.
 O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations.
 More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life.
 Finally we commend to thy fatherly goodness all those who are any ways afflicted or distressed in mind, body, or estate; that it may please thee to comfort and relieve them, according to their several necessities, giving them patience under their sufferings, and a happy issue out of all their afflictions.
-And this we beg for Jesus Christ's sake.
+And this we beg for Jesus Christ’s sake.
 Amen.
 
 ## A General Thanksgiving

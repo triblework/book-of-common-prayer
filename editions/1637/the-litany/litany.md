@@ -118,7 +118,7 @@ Graciously heare us, O Christ, graciously heare us, O Lord Christ.
 
 > Let us pray.
 
-WEe humbly beseech thee, O Father, mercifully to look upon our infirmities; and for the glory of thy name's sake, turn from us all those evils that we most justly have deserved : and grant that in all our troubles wee may put our whole trust and confidence in thy mercy, and evermore serve thee in holinesse and purenesse of living, to thy honour and glory; through our onely Mediatour and Advocate, Jesus Christ our Lord. Amen.
+WEe humbly beseech thee, O Father, mercifully to look upon our infirmities; and for the glory of thy name’s sake, turn from us all those evils that we most justly have deserved : and grant that in all our troubles wee may put our whole trust and confidence in thy mercy, and evermore serve thee in holinesse and purenesse of living, to thy honour and glory; through our onely Mediatour and Advocate, Jesus Christ our Lord. Amen.
 
 > A Prayer of Chrysostome.
 

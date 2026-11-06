@@ -17,7 +17,8 @@ wired (Phase 2).
   4. CONTAINMENT. The branch-base cells (editions/1892/psalter at commit BASE,
      by full SHA -- never a live tag; R18) plus exactly the ENABLED corrections
      equal the cells in the worktree, line for line, inline flags set aside;
-     nothing else moved. Every enabled key was applied exactly once.
+     nothing else moved. Chained (R18): Wave 25's w25_witness.apply (R24's
+     apostrophes) is applied on top before comparing. Every enabled key was applied exactly once.
   5. MEDIANT. Every verse of the worktree cells prints exactly one ' : ',
      except the verses in w22_witness.MEDIANT_EXEMPT (empty unless RN-2 rules
      option b).
@@ -36,6 +37,7 @@ WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import w22_witness as X
 import w22_words_eye as WE
+import w25_witness as W25   # R18 chain: Wave 25's R24 apostrophes (and R25 keys) on top
 import w17_cells
 
 BASE = '710f635b7783f1e8188fa334ec75dca3e43a0220'
@@ -144,6 +146,7 @@ def main():
             check('containment %s: branch-base cell available' % f, False)
             continue
         want = strip_flags(rebuild(strip_flags(base), None, None, log))
+        want = W25.apply('1892', 'psalter/%s.md' % f, want)      # chained (R18)
         have = strip_flags(open(os.path.join(WT, 'editions/1892/psalter/%s.md' % f),
                                 encoding='utf-8').read())
         ok = want == have
@@ -203,7 +206,8 @@ def selftest():
     was = X.GROUPS['CASE_CAPS']
     X.GROUPS['CASE_CAPS'] = not was
     base = base_text('psalms-1-50')
-    want = strip_flags(rebuild(strip_flags(base), None, None, []))
+    want = W25.apply('1892', 'psalter/psalms-1-50.md',
+                     strip_flags(rebuild(strip_flags(base), None, None, [])))
     have = strip_flags(open(os.path.join(WT, 'editions/1892/psalter/psalms-1-50.md'),
                             encoding='utf-8').read())
     ok &= want != have

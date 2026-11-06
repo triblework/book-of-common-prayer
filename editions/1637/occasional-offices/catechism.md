@@ -74,7 +74,7 @@ x. Thou shalt not covet thy neighbours house, thou shalt not covet thy neighbour
 
 **Answer.** My dutie towards my neighbour is, to love him as myself, and to do to all men as I would they should do unto me. To love, honour, and succour my father and mother. To honour and obey the king and his ministers. To submit myself to all my governours, teachers, spirituall pastours, and masters. To order my self lowly and reverently to all my betters. To hurt no body by word nor deed. To be true and just in all my dealing. To bear no malice nor hatred in my heart. To keep my hands from picking and stealing, and my tongue from evil speaking, lying, and slandering. To keep my body in temperance, sobernesse, and chastitie. Not to covet nor desire other mens goods, but learn and labour truly to get mine own living, and to do my duty in that state of life, unto which it shall please God to call me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 **Question.** My good child know this, that thou art not able to do these things of thyself, nor to walk in the commandements of God, and to serve him, without his speciall grace, which thou must learn at all times to call for by diligent prayer. Let me hear therefore if thou canst say the Lords prayer.
 

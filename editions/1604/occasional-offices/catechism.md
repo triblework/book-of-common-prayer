@@ -74,7 +74,7 @@ X. Thou shalt not covet thy neyghbours house, thou shalt not covet thy neyghbour
 
 **Aunswere.** My dutye towardes my neyghbour is to love hym as my selfe: And to do to all men as I would they should do unto me. To love, honour, and succour my father and mother. To honour and obey the Kyng, and his minysters. To submitte my selfe to al my governours, teachers, spiritual Pastours and Maisters. To order my selfe lowly and reverently to all my betters. To hurte no body by worde, nor dede. To be true and juste in all my dealyng. To beare no malice nor hatred in my harte. To kepe my handes from pickyng and stealyng, and my tongue from evil speakyng, liyng and slaunderyng. To kepe my body in temperaunce, sobernes, and chastitie. Not to covet nor desire other mennes goodes. But learne and labour truely to get myne awne livyng, and to do my dutye in that state of life, unto whiche it shal please God to cal me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 **Question.** My good child know this, that thou art not able to do these thinges of thy self, nor to walke in the commaundementes of God, and to serve hym, wythout hys specyall grace, whyche thou must learne at al tymes to cal for by diligent prayer. Let me heare therfore, if thou canst saye the Lordes praier.
 

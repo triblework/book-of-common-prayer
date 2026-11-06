@@ -30,6 +30,7 @@ sys.path.insert(0, HERE)
 
 import w17_witness as W
 import w22_witness
+import w25_witness   # R18 chain: Wave 25's R24 apostrophes on top
 import w17_cells as C
 
 OCR = json.load(open(os.path.join(HERE, 'w17_scan_ocr.json'), encoding='utf-8'))
@@ -133,8 +134,10 @@ def main():
                 body, _ = w22_witness.apply_text(body, psalm, verse, [])
                 line = head + body
             out.append(line)
+        # Wave 25 (R24: every apostrophe U+2019) chained on top, as Wave 22's is (R18).
+        want = w25_witness.apply('1892', 'psalter/%s.md' % f, '\n'.join(out))
         check('containment %s: published + corrections == new cell' % f,
-              '\n'.join(out) == strip(new_txt))
+              want == strip(new_txt))
 
     # 5. pointing
     for p, v, _old, new in W.POINTING:

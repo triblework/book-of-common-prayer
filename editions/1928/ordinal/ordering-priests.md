@@ -68,7 +68,7 @@ Have always therefore printed in your remembrance, how great a treasure is commi
 
 Forasmuch then as your Office is both of so great excellency, and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well to show yourselves dutiful and thankful unto that Lord, who hath placed you in so high a dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend. Howbeit, ye cannot have a mind and will thereto of yourselves; for that will and ability is given of God alone: therefore ye ought, and have need, to pray earnestly for his Holy Spirit. And seeing that ye cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the Holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures; and for this self-same cause, how ye ought to forsake and set aside, as much as ye may, all worldly cares and studies.
 
-We have good hope that ye have well weighed these things with yourselves, long before this time; and that ye have clearly determined, by God's grace, to give yourselves wholly to this Office, whereunto it hath pleased God to call you: so that, as much as lieth in you, ye will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that ye will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing the Scriptures, ye may wax riper and stronger in your Ministry; and that ye may so endeavour yourselves, from time to time, to sanctify the lives of you and yours, and to fashion them after the Rule and Doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
+We have good hope that ye have well weighed these things with yourselves, long before this time; and that ye have clearly determined, by God’s grace, to give yourselves wholly to this Office, whereunto it hath pleased God to call you: so that, as much as lieth in you, ye will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that ye will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing the Scriptures, ye may wax riper and stronger in your Ministry; and that ye may so endeavour yourselves, from time to time, to sanctify the lives of you and yours, and to fashion them after the Rule and Doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
 
 And now, that this present Congregation of Christ may also understand your minds and wills in these things, and that this your promise may the more move you to do your duties; ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
 
@@ -86,7 +86,7 @@ DO you think in your heart, that you are truly called, according to the will of 
 
 **Answer.** I will so do, by the help of the Lord.
 
-**Bishop.** Will you be ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrines contrary to God's Word; and to use both public and private monitions and exhortations, as well to the sick as to the whole, within your Cures, as need shall require, and occasion shall be given?
+**Bishop.** Will you be ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrines contrary to God’s Word; and to use both public and private monitions and exhortations, as well to the sick as to the whole, within your Cures, as need shall require, and occasion shall be given?
 
 **Answer.** I will, the Lord being my helper.
 
@@ -172,7 +172,7 @@ To thee, the Gift of God most high;
 
 The Fount of life, the Fire of love,
 
-The soul's Anointing from above.
+The soul’s Anointing from above.
 
 The sevenfold gifts of grace are thine,
 

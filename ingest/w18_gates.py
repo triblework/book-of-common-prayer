@@ -34,6 +34,7 @@ sys.path.insert(0, HERE)
 import w13_1662
 import w17_cells
 import w18_witness as W
+import w25_witness   # R18 chain: Wave 25's R24 apostrophes on top
 
 # The base is the `authoring` commit the wave started from, NOT the live
 # tag: publishing rewrites every tag, so a gate pinned to v1662 would, after
@@ -134,13 +135,14 @@ def main():
                     body = body.replace(fix[0], fix[1])
                 line = head + body
             out.append(line)
+        # Wave 25 (R24: every apostrophe U+2019) chained on top (R18).
         check('containment %s: published + the two mediants == new cell' % f,
-              '\n'.join(out) == strip(new))
+              w25_witness.curl('\n'.join(out)) == strip(new))
 
     # 3b. containment -- structured cells (word for word). The published tree
     # is sentence-split, so lines do not correspond; words do.
     def words(t):
-        return re.findall(r"[\w']+", t)
+        return re.findall(r"[\w'\u2019]+", t)
     for rel in STRUCTURED:
         old = published('texts/original/%s' % rel)
         new = open(os.path.join(WT, 'editions/1662/%s' % rel),
@@ -155,6 +157,7 @@ def main():
                              'bless and preserve ' + BLANK + ',')
                     .replace("used in her Majesty's Navy every day",
                              "used in his Majesty's Navy every day"))
+        kept = w25_witness.curl(kept)          # Wave 25 (R24) chained on top (R18)
         check('containment %s: same words as published, less the chrome and '
               'the named royals' % rel, words(kept) == words(strip(new)))
 
@@ -181,8 +184,10 @@ def main():
               [n for n in LIVING if n in body])
     sea = open(os.path.join(WT, 'editions/1662/occasional-offices/'
                             'prayers-at-sea.md'), encoding='utf-8').read()
+    # the reading in R24's encoding (Wave 25): the apostrophe is U+2019
+    his, her = w25_witness.curl("his Majesty's Navy"), w25_witness.curl("her Majesty's Navy")
     check('at sea: the rubric reads "his Majesty\'s Navy"',
-          "his Majesty's Navy" in sea and "her Majesty's Navy" not in sea)
+          his in sea and her not in sea and "her Majesty's Navy" not in sea)
 
     # 5. the pointing is complete
     bad = [(n, v) for n in cells for v, t in cells[n].items()

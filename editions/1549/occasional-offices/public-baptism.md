@@ -55,7 +55,7 @@ Marke x.
 
 Frendes you heare in this gospell the woordes of our Saviour Christe, that he commaunded the children to be brought unto him: howe he blamed those that would have kept them from hym: howe he exhorteth all men to folowe their innocencie. Ye perceyve howe by his outwarde gesture and dede he declared his good wyll towarde them. For he embraced them in his armes, he layed his handes upon them, and blessed them: doubte ye not therfore, but earnestly beleve, that he wyll lykewyse favourably receyve these present infantes, that he wyll embrace them with the arms of his mercy, that he wyll geve unto them the blessyng of eternall lyfe: and make them partakers of his everlasting kingdome. Wherfore we beyng thus perswaded of the good wyll of our heavenly father towarde these infantes, declared by his sonne Jesus Christe; and nothyng doubtyng but that he favourably alloweth this charitable worke of ours, in bringing these children to his holy baptisme: let us faythfully and devoutly geve thankes unto him; And say the prayer which the Lorde himselfe taught. And in declaracion of our fayth, let us also recyte the articles conteyned in our Crede.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Here the minister with the Godfathers, Godmothers, and people presente, shall saye.
 

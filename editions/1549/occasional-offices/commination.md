@@ -35,7 +35,7 @@ Amen.
 
 **Answere.** Amen.
 
-**Minister.** Cursed is he that lieth with his neighbour's wyfe.
+**Minister.** Cursed is he that lieth with his neighbour’s wyfe.
 
 **Answere.** Amen.
 
@@ -144,7 +144,7 @@ Glorye to the father, &c.
 
 As it was in the beginning, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde have mercie upon us.
 

@@ -1,4 +1,4 @@
-# Saint John the Evangelist's Day
+# Saint John the Evangelist’s Day
 
 ## The Collect
 

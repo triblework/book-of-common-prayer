@@ -8,11 +8,11 @@ PEace be in this house, and to all that dwell in it.
 
 ## The Antiphon
 
-> When he cometh into the sick man's presence, he shall say, kneeling down.
+> When he cometh into the sick man’s presence, he shall say, kneeling down.
 
 REmember not Lord our iniquities, nor the iniquities of our forefathers. Spare us good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and be not angry with us forever.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lord have mercie upon us.
 
@@ -160,7 +160,7 @@ THe Almighty Lord, which is a most strong tower to all them that put their trust
 
 ## The Communion of the Sick
 
-> FOrasmuch as all mortall men be subject to many sudden perils, diseases, and sicknesses, and ever uncertain what time they shall depart out of this life: therefore, to the intent they may be alwayes in a readinesse to dye whensoever it shall please Almighty God to call them, the Presbyters or Curates shall diligently from time to time, but specially in the plague time, exhort their Parishioners to the oft receiving (in the Church) of the holy Communion of the body and blood of our Saviour Christ : which if they do, they shall have no cause in their sudden visitation to be unquieted for lack of the same. But if the sick person be not able to come to the church, and yet is desirous to receive the communion in his house, then he must give knowledge over night, or else early in the morning, to the Presbyter or Curate, signifying also how many be appointed to communicate with him : and having a convenient place in the sick man's house where the Presbyter or Curate may reverently minister, and a sufficient number, at least two or three to receive the Communion with the sick person, with all things necessary for the same, he shall there minister the Holy Communion.
+> FOrasmuch as all mortall men be subject to many sudden perils, diseases, and sicknesses, and ever uncertain what time they shall depart out of this life: therefore, to the intent they may be alwayes in a readinesse to dye whensoever it shall please Almighty God to call them, the Presbyters or Curates shall diligently from time to time, but specially in the plague time, exhort their Parishioners to the oft receiving (in the Church) of the holy Communion of the body and blood of our Saviour Christ : which if they do, they shall have no cause in their sudden visitation to be unquieted for lack of the same. But if the sick person be not able to come to the church, and yet is desirous to receive the communion in his house, then he must give knowledge over night, or else early in the morning, to the Presbyter or Curate, signifying also how many be appointed to communicate with him : and having a convenient place in the sick man’s house where the Presbyter or Curate may reverently minister, and a sufficient number, at least two or three to receive the Communion with the sick person, with all things necessary for the same, he shall there minister the Holy Communion.
 
 ## The Collect
 

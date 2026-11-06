@@ -32,7 +32,7 @@ THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of t
 
 ## EVENING PRAYER.
 
-> The Family being together, a little before bedtime, let the Master or Mistress, or any other who may be appointed, say as followeth, all kneeling, and repeating with him the Lord's Prayer.
+> The Family being together, a little before bedtime, let the Master or Mistress, or any other who may be appointed, say as followeth, all kneeling, and repeating with him the Lord’s Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation, But deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -46,7 +46,7 @@ OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will 
 
 ## MORNING.
 
-> After the reading of a brief portion of Holy Scripture, let the Head of the Household, or some other member of the family, say as followeth, all kneeling, and repeating with him the Lord's Prayer.
+> After the reading of a brief portion of Holy Scripture, let the Head of the Household, or some other member of the family, say as followeth, all kneeling, and repeating with him the Lord’s Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation, But deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -58,7 +58,7 @@ THE grace of our Lord Jesus Christ, and the love of God, and the fellowship of t
 
 ## EVENING.
 
-> After the reading of a brief portion of Holy Scripture, let the Head of the Household, or some other member of the family, say as followeth, all kneeling and repeating with him the Lord's Prayer.
+> After the reading of a brief portion of Holy Scripture, let the Head of the Household, or some other member of the family, say as followeth, all kneeling and repeating with him the Lord’s Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation, But deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -78,7 +78,7 @@ ALMIGHTY God, who pourest out on all who desire it, the spirit of grace and of s
 
 O GOD, the King eternal, who dividest the day from the darkness, and turnest the shadow of death into the morning; Drive far off from us all wrong desires, incline our hearts to keep thy law, and guide our feet into the way of peace; that having done thy will with cheerfulness while it was day, we may, when the night cometh, rejoice to give thee thanks; through Jesus Christ our Lord. Amen.
 
-ALMIGHTY God, who alone gavest us the breath of life, and alone canst keep alive in us the holy desires thou dost impart; We beseech thee, for thy compassion's sake, to sanctify all our thoughts and endeavours; that we may neither begin an action without a pure intention nor continue it without thy blessing. And grant that, having the eyes of the mind opened to behold things invisible and unseen, we may in heart be inspired by thy wisdom, and in work be upheld by thy strength, and in the end be accepted of thee as thy faithful servants; through Jesus Christ our Saviour. Amen.
+ALMIGHTY God, who alone gavest us the breath of life, and alone canst keep alive in us the holy desires thou dost impart; We beseech thee, for thy compassion’s sake, to sanctify all our thoughts and endeavours; that we may neither begin an action without a pure intention nor continue it without thy blessing. And grant that, having the eyes of the mind opened to behold things invisible and unseen, we may in heart be inspired by thy wisdom, and in work be upheld by thy strength, and in the end be accepted of thee as thy faithful servants; through Jesus Christ our Saviour. Amen.
 
 ## At Night.
 
@@ -104,7 +104,7 @@ O MOST loving Father, who willest us to give thanks for all things, to dread not
 
 O HEAVENLY Father, thou understandest all thy children; through thy gift of faith we bring our perplexities to the light of thy wisdom, and receive the blessed encouragement of thy sympathy, and a clearer knowledge of thy will. Glory be to thee for all thy gracious gifts. Amen.
 
-## For Joy in God's Creation.
+## For Joy in God’s Creation.
 
 O HEAVENLY Father, who hast filled the world with beauty; Open, we beseech thee, our eyes to behold thy gracious hand in all thy works; that rejoicing in thy whole creation, we may learn to serve thee with gladness; for the sake of him by whom all things were made, thy Son, Jesus Christ our Lord. Amen.
 

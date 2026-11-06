@@ -6,7 +6,7 @@
 
 ## The Private Baptism
 
-> First let the Minister of the Parish (or, in his absence, any other lawful Minister that can be procured) with them that are present call upon God, and say the Lord's Prayer, and so many of the Collects appointed to be said before in the form of Publick Baptism, as the time and present exigence will suffer. And then, the child being named by some one that is present, the Minister shall pour Water upon it, saying these words;
+> First let the Minister of the Parish (or, in his absence, any other lawful Minister that can be procured) with them that are present call upon God, and say the Lord’s Prayer, and so many of the Collects appointed to be said before in the form of Publick Baptism, as the time and present exigence will suffer. And then, the child being named by some one that is present, the Minister shall pour Water upon it, saying these words;
 
 N. I baptize thee in the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
@@ -52,7 +52,7 @@ They brought young children to Christ, that he should touch them; and his discip
 
 Beloved, ye hear in this Gospel the words of our Saviour Christ, that he commanded the children to be brought unto him; how he blamed those that would have kept them from him; how he exhorteth all men to follow their innocency. Ye perceive how by his outward gesture and deed he declared his good will toward them; for he embraced them in his arms, he laid his hands upon them, and blessed them. Doubt ye not therefore, but earnestly believe, that he will likewise favourably receive this present Infant; that he will embrace him with the arms of his mercy; that he will give unto him the blessing of eternal life, and make him partaker of his everlasting kingdom. Wherefore we being thus persuaded of the good will of our heavenly Father towards this Infant, declared by his Son Jesus Christ; and nothing doubting but that he favourably alloweth this charitable work of ours in bringing this Infant to his holy Baptism; let us faithfully and devoutly give thanks unto him, and say,
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven. Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil. Amen.
 
@@ -76,7 +76,7 @@ And dost thou believe in the Holy Ghost; the holy Catholick Church; the Communio
 
 **Answer.** All this I stedfastly believe.
 
-**Minister.** Wilt thou then obediently keep God's holy will and commandments, and walk in the same all the days of thy life?
+**Minister.** Wilt thou then obediently keep God’s holy will and commandments, and walk in the same all the days of thy life?
 
 **Answer.** I will.
 
@@ -84,15 +84,15 @@ And dost thou believe in the Holy Ghost; the holy Catholick Church; the Communio
 
 > Then the Priest shall say,
 
-We receive this Child into the Congregation of Christ's flock, *and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ's faithful soldier and servant unto his life's end. Amen.
+We receive this Child into the Congregation of Christ’s flock, *and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ’s faithful soldier and servant unto his life’s end. Amen.
 
-> *Here the Priest shall make a Cross upon the Child's forehead.
+> *Here the Priest shall make a Cross upon the Child’s forehead.
 
 ## The Reception
 
 > Then shall the Priest say,
 
-Seeing now, dearly beloved brethren, that this Child is by Baptism regenerate and grafted into the body of Christ's Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that he may lead the rest of his life according to this beginning.
+Seeing now, dearly beloved brethren, that this Child is by Baptism regenerate and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that he may lead the rest of his life according to this beginning.
 
 ## The Thanksgiving after Baptism
 
@@ -104,10 +104,10 @@ We yield thee hearty thanks, most merciful Father, that it hath pleased thee to 
 
 > Then, all standing up, the Minister shall make this exhortation to the Godfathers and Godmothers.
 
-Forasmuch as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise and profession he hath here made by you. And that he may know these things the better, ye shall call upon him to hear sermons; and chiefly ye shall provide that he may learn the Creed, the Lord's Prayer and the Ten Commandments in the vulgar tongue, and all other things which a Christian ought to know and believe to his soul's health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering alway, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that as he died and rose again for us, so should we, who are baptized, die from sin and rise again unto righteousness, continually mortifying all our evil and corrupt affections, and daily proceeding in all virtue and godliness of living.
+Forasmuch as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise and profession he hath here made by you. And that he may know these things the better, ye shall call upon him to hear sermons; and chiefly ye shall provide that he may learn the Creed, the Lord’s Prayer and the Ten Commandments in the vulgar tongue, and all other things which a Christian ought to know and believe to his soul’s health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering alway, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that as he died and rose again for us, so should we, who are baptized, die from sin and rise again unto righteousness, continually mortifying all our evil and corrupt affections, and daily proceeding in all virtue and godliness of living.
 
 ## Conditional Baptism
 
-> But if they which bring the Infant to the Church do make such uncertain answers to the Priest's questions, as that it cannot appear that the Child was baptized with Water, In the Name of the Father, and of the Son, and of the Holy Ghost, (which are essential parts of Baptism,) then let the Priest baptize it in the form before appointed for Publick Baptism of Infants: Saving that at the dipping of the Child in the Font, he shall use this form of words.
+> But if they which bring the Infant to the Church do make such uncertain answers to the Priest’s questions, as that it cannot appear that the Child was baptized with Water, In the Name of the Father, and of the Son, and of the Holy Ghost, (which are essential parts of Baptism,) then let the Priest baptize it in the form before appointed for Publick Baptism of Infants: Saving that at the dipping of the Child in the Font, he shall use this form of words.
 
 If thou art not already baptized, N. I baptize thee in the Name of the Father, and of the Son, and of the Holy Ghost. Amen.

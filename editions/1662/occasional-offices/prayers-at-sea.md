@@ -4,7 +4,7 @@
 
 > The Morning and Evening Service to be used daily at Sea shall be the same which is appointed in the Book of Common Prayer.
 
-> These two following Prayers are to be also used in his Majesty's Navy every day.
+> These two following Prayers are to be also used in his Majesty’s Navy every day.
 
 O Eternal Lord God, who alone spreadest out the heavens, and rulest the raging of the sea; who hast compassed the waters with bounds until day and night come to an end: Be pleased to receive into thy Almighty and most gracious protection the persons of us thy servants, and the Fleet in which we serve. Preserve us from the dangers of the sea, and from the violence of the enemy; that we may be a safeguard unto our most gracious Sovereign Lord, King CHARLES, and his Dominions, and a security for such as pass on the seas upon their lawful occasions; that the inhabitants of our Island may in peace and quietness serve thee our God; and that we may return in safety to enjoy the blessings of the land, with the fruits of our labours; and with a thankful remembrance of thy mercies to praise and glorify thy holy Name; through Jesus Christ our Lord. Amen.
 
@@ -14,7 +14,7 @@ Prevent us, O Lord, in all our doings, with thy most gracious favour, and furthe
 
 > Prayers to be used in Storms at Sea.
 
-O most powerful and glorious Lord God, at whose command the winds blow, and lift up the waves of the sea, and who stillest the rage thereof: We thy creatures, but miserable sinners, do in this our great distress cry unto thee for help: Save, Lord, or else we perish. We confess, when we have been safe, and seen all things quiet about us, we have forgot thee our God, and refused to hearken to the still voice of thy word, and to obey thy commandments: But now we see how terrible thou art in all thy works of wonder; the great God to be feared above all: And therefore we adore thy Divine Majesty, acknowledging thy power, and imploring thy goodness. Help, Lord, and save us for thy mercy's sake in Jesus Christ thy Son, our Lord. Amen.
+O most powerful and glorious Lord God, at whose command the winds blow, and lift up the waves of the sea, and who stillest the rage thereof: We thy creatures, but miserable sinners, do in this our great distress cry unto thee for help: Save, Lord, or else we perish. We confess, when we have been safe, and seen all things quiet about us, we have forgot thee our God, and refused to hearken to the still voice of thy word, and to obey thy commandments: But now we see how terrible thou art in all thy works of wonder; the great God to be feared above all: And therefore we adore thy Divine Majesty, acknowledging thy power, and imploring thy goodness. Help, Lord, and save us for thy mercy’s sake in Jesus Christ thy Son, our Lord. Amen.
 
 > Or this:
 
@@ -28,9 +28,9 @@ General Prayers.
 
 > Short Prayers for single persons that cannot meet to join in Prayer with others, by reason of the Fight, or Storm.
 
-Lord, be merciful to us sinners, and save us for thy mercy's sake.
+Lord, be merciful to us sinners, and save us for thy mercy’s sake.
 
-Thou art the great God, that hast made and rulest all things: O deliver us for thy Name's sake.
+Thou art the great God, that hast made and rulest all things: O deliver us for thy Name’s sake.
 
 Thou art the great God to be feared above all: O save us, that we may praise thee.
 
@@ -44,7 +44,7 @@ O Lord of hosts, fight for us, that we may glorify thee.
 
 O suffer us not to sink under the weight of our sins, or the violence of the enemy.
 
-O Lord, arise, help us, and deliver us for thy Name's sake.
+O Lord, arise, help us, and deliver us for thy Name’s sake.
 
 > Short Prayers in respect of a Storm.
 
@@ -70,7 +70,7 @@ Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will
 
 ## The Confession
 
-ALMIGHTY God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men: We acknowledge and bewail our manifold sins and wickedness, Which we from time to time most grievously have committed, By thought, word, and deed, Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ's sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
+ALMIGHTY God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men: We acknowledge and bewail our manifold sins and wickedness, Which we from time to time most grievously have committed, By thought, word, and deed, Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ’s sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
 
 > Then shall the Priest, if there be any in the Ship, pronounce this Absolution.
 

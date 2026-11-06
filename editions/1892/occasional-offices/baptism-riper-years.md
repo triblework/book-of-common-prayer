@@ -109,7 +109,7 @@ WE receive this Person into the congregation of Christ’s flock; and do sign hi
 
 SEEING now, dearly beloved brethren, that these Persons are regenerate, and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him, that they may lead the rest of their life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be said the Lord’s Prayer, all kneeling.
 

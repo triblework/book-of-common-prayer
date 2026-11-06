@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O Lord, we beseech thee, absolve thy people from their offences; that through thy bountiful goodness we may all be delivered from the bands of those sins, which by our frailty we have committed: Grant this, O heavenly Father, for Jesus Christ's sake, our blessed Lord and Saviour. Amen.
+O Lord, we beseech thee, absolve thy people from their offences; that through thy bountiful goodness we may all be delivered from the bands of those sins, which by our frailty we have committed: Grant this, O heavenly Father, for Jesus Christ’s sake, our blessed Lord and Saviour. Amen.
 
 ## The Epistle
 

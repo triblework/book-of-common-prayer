@@ -157,7 +157,7 @@ For thine is the kingdom, and the power, and the glory, for ever and ever.  Amen
 
 Let us pray.
 
-Almighty God, who hast promised to hear the petitions of those who ask in thy Son's Name: We beseech thee mercifully to incline thine ear to us who have now made our prayers and supplications unto thee; and grant that those things which we have asked faithfully according to thy will, may be obtained effectually, to the relief of our necessity, and to the setting forth of thy glory; through Jesus Christ our Lord. Amen.
+Almighty God, who hast promised to hear the petitions of those who ask in thy Son’s Name: We beseech thee mercifully to incline thine ear to us who have now made our prayers and supplications unto thee; and grant that those things which we have asked faithfully according to thy will, may be obtained effectually, to the relief of our necessity, and to the setting forth of thy glory; through Jesus Christ our Lord. Amen.
 
 > The Officiant may add other Prayers, and end the Litany, saying
 

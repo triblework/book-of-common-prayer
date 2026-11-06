@@ -85,7 +85,7 @@ As it was in the, &c.
 > Deus misereatur. Ps. lxvii.
 <!-- VERIFY: 'Deus misereatur. Ps. lxvii.' — the justus 1552 EP page names this alternative to the Nunc Dimittis by title only; the psalm body is not printed on the source page; confirm the body against a 1552 scan -->
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shal folowe the Crede, with other prayers as is before appointed at Morning prayer after Benedictus.
 > And with three Collects: First of the day: the second of peace: Third for aide against al perilles, as herafter foloweth: wiche two laste Collectes shalbe daiely said at Evening praier without alteracion.

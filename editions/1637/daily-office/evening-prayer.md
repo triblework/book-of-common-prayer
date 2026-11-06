@@ -96,7 +96,7 @@ God shall blesse us; and all the ends of the earth shall feare him.
 Glory be to the Father, etc.
 As it was in the, etc.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shall follow the Creede, with other prayers, as is before appointed at Morning prayer, after Benedictus, and with three Collects, First of the day. The second of peace. The third for aide against all perils, as hereafter followeth: which two last Collects shall be daily said at Evening Prayer without alteration.
 

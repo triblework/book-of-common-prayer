@@ -1,0 +1,53 @@
+# w25_eye.txt -- Wave 25: the possessive of small-capital LORD, read BY EYE, in the cells Wave 24
+# left unread. Crops by w25_possessive.py (4400px renders; the row with its neighbours, the row alone
+# at 2x, and for 1928 the word at 3x), labelled with the place only. The OCR line records located the
+# rows; they supplied no reading. Read 2026-11-06. Question asked of each crop: after the
+# apostrophe, a lower-case s or a small-capital S? Corpus encoding (R23): small capitals are set as
+# capitals, so a small-capital S is "S" and a lower-case s is "s".
+#
+# 1892 (1892Standard/1892standard.pdf, the witness of Waves 17, 22 and 24): ONE place, the Churching
+#   office's psalm. Lower-case s, the same form and size as the s's of "courts" and "house" on the
+#   same row -- as in all eleven 1892 Psalter verses (w24_eye.txt). R23 applies: LORD'S -> LORD's.
+#   Seen in passing, NOT acted on (pointing, outside this wave): the book prints the mediant
+#   "people :" where the cell, keyed as prose from justus's text-layer PDF, has "people;".
+# 1928 (1928/BCP1929.pdf, the original printing, R19; 1928Standard/1952std.pdf beside it, the second
+#   witness within limits): the same eleven Psalter verses as 1892's. In ALL ELEVEN, in BOTH printings,
+#   the letter after the apostrophe is a SMALL-CAPITAL S: it stands level with the small capitals
+#   O R D and above the lower-case s's of the same row (is, his, seat, song, leisure, house), in the
+#   capital's form. The 1929 printing shows it plainly; the 1952 facsimile's face sets its small
+#   capitals barely above the x-height, but its S stands with them there too. So the book prints the
+#   possessive all in small capitals, and the cells' LORD'S is already R23's encoding: NO CHANGE.
+#   (The 1929 scan's native spread is 1491px wide; the 4400px render is a 3x upscale. A pixel
+#   check on its grey image fragmented the glyphs and was discarded; the reading is the eye's.)
+# 1979 (Church Publishing's own file, R11): NOT a scan. Its pages rendered the same way show the
+#   glyph the font runs name (w25_fontruns.py): at all 13 places the eye and the runs agree. Read as
+#   EVIDENCE for the R11 question only -- no 1979 cell is changed on this record without a ruling.
+#
+# The 'book' column records CASE only; its apostrophe is written straight (apostrophe form is a
+# separate question, w25_apostrophes.py). The 'cell' column is the cell as it stood at Wave 25's base.
+# columns: place, edition, page, what, the book (as the eye read it), the cell, crop, note
+churching	1892	p331 (book p. 303)	possessive	LORD's	LORD'S	pos_1892_churching	the row also has "courts", "house": the same s
+Ps 11:4	1928	p. 354 (1929 scan 197L; 1952 scan 208L)	possessive	LORD'S	LORD’S	pos_1928_11_4_1929|1952, tight_11_4_1929|1952	small-capital S in both printings
+Ps 22:28	1928	p. 367 (1929 scan 203R; 1952 scan 214R)	possessive	LORD'S	LORD’S	pos_1928_22_28_1929|1952, tight_22_28_1929|1952	small-capital S in both printings
+Ps 24:1	1928	p. 368 (1929 scan 204L; 1952 scan 215L)	possessive	LORD'S	LORD'S	pos_1928_24_1_1929|1952, tight_24_1_1929|1952	small-capital S in both printings
+Ps 27:16	1928	p. 372 (1929 scan 206L; 1952 scan 217L)	possessive	LORD'S	LORD’S	pos_1928_27_16_1929|1952, tight_27_16_1929|1952	small-capital S in both printings
+Ps 56:10	1928	p. 409 (1929 scan 224R; 1952 scan 235R)	possessive	LORD'S	LORD’S	pos_1928_56_10_1929|1952, tight_56_10_1929|1952	small-capital S in both printings
+Ps 113:3	1928	p. 484 (1929 scan 262L; 1952 scan 273L)	possessive	LORD'S	LORD’S	pos_1928_113_3_1929|1952, tight_113_3_1929|1952	small-capital S in both printings
+Ps 115:16	1928	p. 486 (1929 scan 263L; 1952 scan 274L)	possessive	LORD'S	LORD’S	pos_1928_115_16_1929|1952, tight_115_16_1929|1952	small-capital S in both printings
+Ps 116:16	1928	p. 487 (1929 scan 263R; 1952 scan 274R)	possessive	LORD'S	LORD’S	pos_1928_116_16_1929|1952, tight_116_16_1929|1952	small-capital S in both printings
+Ps 118:23	1928	p. 489 (1929 scan 264R; 1952 scan 275R)	possessive	LORD'S	LORD’S	pos_1928_118_23_1929|1952, tight_118_23_1929|1952	small-capital S in both printings
+Ps 137:4	1928	p. 513 (1929 scan 276R; 1952 scan 287R)	possessive	LORD'S	LORD’S	pos_1928_137_4_1929|1952, tight_137_4_1929|1952	small-capital S in both printings
+Ps 147:11	1928	p. 523 (1929 scan 281R; 1952 scan 292R)	possessive	LORD'S	LORD’S	pos_1928_147_11_1929|1952, tight_147_11_1929|1952	small-capital S in both printings
+Ps 11:4	1979	PDF p. 596	possessive	LORD's	LORD'S	pos_1979_Ps_11_4	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 22:29	1979	PDF p. 612	possessive	LORD's	LORD'S	pos_1979_Ps_22_29	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 24:1	1979	PDF p. 613	possessive	LORD's	LORD'S	pos_1979_Ps_24_1	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 27:18	1979	PDF p. 619	possessive	LORD's	LORD'S	pos_1979_Ps_27_18	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 28:6	1979	PDF p. 619	possessive	LORD's	LORD'S	pos_1979_Ps_28_6	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 33:11	1979	PDF p. 626	possessive	LORD's	LORD'S	pos_1979_Ps_33_11	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 75:8	1979	PDF p. 691	possessive	LORD's	LORD'S	pos_1979_Ps_75_8	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 115:16	1979	PDF p. 758	possessive	LORD'S	LORD'S	pos_1979_Ps_115_16	font run of the s: Sabon-RomanSC; eye agrees
+Ps 116:17	1979	PDF p. 760	possessive	LORD'S	LORD'S	pos_1979_Ps_116_17	font run of the s: Sabon-RomanSC; eye agrees
+Ps 118:23	1979	PDF p. 762	possessive	LORD's	LORD'S	pos_1979_Ps_118_23	font run of the s: Sabon-Roman; eye agrees; the cell differs
+Ps 137:4	1979	PDF p. 792	possessive	LORD's	LORD'S	pos_1979_Ps_137_4	font run of the s: Sabon-Roman; eye agrees; the cell differs
+churching:93	1979	PDF p. 442	possessive	LORD'S	LORD'S	pos_1979_occasional_offices_churching_md_93	font run of the s: Sabon-RomanSC; eye agrees
+burial:235	1979	PDF p. 478	possessive	LORD'S	LORD's	pos_1979_occasional_offices_burial_md_235	font run of the s: Sabon-RomanSC; eye agrees; the cell differs

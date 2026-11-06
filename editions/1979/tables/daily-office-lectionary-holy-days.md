@@ -77,7 +77,7 @@ SS. Simon & Jude (October 28) | Morning Psalms: 66 | Morning 1: Isaiah 28:9-16 |
 
 Eve of All Saints | Evening Psalms: 34 | Evening 1: Wisdom 3:1-9 | Evening 2: Revelation 19:1, 4-10
 
-All Saints' Day (November 1) | Morning Psalms: 111, 112 | Morning 1: 2 Esdras 2:42-47 | Morning 2: Hebrews 11:32-12:2 | Evening Psalms: 148, 150 | Evening 1: Wisdom 5:1-5, 14-16 | Evening 2: Revelation 21:1-4, 22-22:5
+All Saints’ Day (November 1) | Morning Psalms: 111, 112 | Morning 1: 2 Esdras 2:42-47 | Morning 2: Hebrews 11:32-12:2 | Evening Psalms: 148, 150 | Evening 1: Wisdom 5:1-5, 14-16 | Evening 2: Revelation 21:1-4, 22-22:5
 <!-- VERIFY: '148, 150'; the witness (Church Publishing's PDF, p. 1000) prints '48, 150'; no second check settles it; carried as the e-text prints it (R11 addendum) -->
 
 Thanksgiving Day | Morning Psalms: 147 | Morning 1: Deuteronomy 26:1-11 | Morning 2: John 6:26-35 | Evening Psalms: 145 | Evening 1: Joel 2:21-27 | Evening 2: 1 Thessalonians 5:12-24

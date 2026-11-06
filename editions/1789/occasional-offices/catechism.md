@@ -12,11 +12,11 @@
 
 **Question.** What did your Sponsors then for you?
 
-**Answer.** They did promise and vow three things in my name. First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh. Secondly, that I should believe all the Articles of the Christian Faith. And Thirdly, that I should keep God's holy will and commandments, and walk in the same all the days of my life.
+**Answer.** They did promise and vow three things in my name. First, that I should renounce the devil and all his works, the pomps and vanity of this wicked world, and all the sinful lusts of the flesh. Secondly, that I should believe all the Articles of the Christian Faith. And Thirdly, that I should keep God’s holy will and commandments, and walk in the same all the days of my life.
 
 **Question.** Dost thou not think that thou art bound to believe, and to do, as they have promised for thee?
 
-**Answer.** Yes, verily; and by God's help so I will. And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour. And I pray unto God to give me his grace, that I may continue in the same unto my life's end.
+**Answer.** Yes, verily; and by God’s help so I will. And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour. And I pray unto God to give me his grace, that I may continue in the same unto my life’s end.
 
 ## The Creed
 
@@ -34,7 +34,7 @@ Thirdly, in God the Holy Ghost, who sanctifieth me, and all the people of God.
 
 ## The Ten Commandments
 
-**Question.** You said that your Sponsors did promise for you, that you should keep God's Commandments. Tell me how many there are?
+**Question.** You said that your Sponsors did promise for you, that you should keep God’s Commandments. Tell me how many there are?
 
 **Answer.** Ten.
 
@@ -60,7 +60,7 @@ VIII. Thou shalt not steal.
 
 IX. Thou shalt not bear false witness against thy neighbour.
 
-X. Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+X. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
 **Question.** What dost thou chiefly learn by these Commandments?
 
@@ -72,11 +72,11 @@ X. Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbou
 
 **Question.** What is thy duty towards thy Neighbour?
 
-**Answer.** My duty towards my Neighbour, is to love him as myself, and to do to all men, as I would they should do unto me: To love, honour, and succour my father and mother: To honour and obey the civil authority: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters: To hurt nobody by word or deed: To be true and just in all my dealings: To bear no malice nor hatred in my heart: To keep my hands from picking and stealing, and my tongue from evil speaking, lying, and slandering: To keep my body in temperance, soberness, and chastity: Not to covet nor desire other men's goods; but to learn and labour truly to get mine own living, and to do my duty in that state of life unto which it shall please God to call me.
+**Answer.** My duty towards my Neighbour, is to love him as myself, and to do to all men, as I would they should do unto me: To love, honour, and succour my father and mother: To honour and obey the civil authority: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters: To hurt nobody by word or deed: To be true and just in all my dealings: To bear no malice nor hatred in my heart: To keep my hands from picking and stealing, and my tongue from evil speaking, lying, and slandering: To keep my body in temperance, soberness, and chastity: Not to covet nor desire other men’s goods; but to learn and labour truly to get mine own living, and to do my duty in that state of life unto which it shall please God to call me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-**Catechist.** My good Child, know this; that thou art not able to do these things of thyself, nor to walk in the Commandments of God, and to serve him, without his special grace; which thou must learn at all times to call for by diligent prayer. Let me hear, therefore, if thou canst say the Lord's Prayer.
+**Catechist.** My good Child, know this; that thou art not able to do these things of thyself, nor to walk in the Commandments of God, and to serve him, without his special grace; which thou must learn at all times to call for by diligent prayer. Let me hear, therefore, if thou canst say the Lord’s Prayer.
 
 **Answer.** OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
 
@@ -114,25 +114,25 @@ X. Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbou
 
 **Answer.** Because they promise them both by their Sureties; which promise, when they come to age, themselves are bound to perform.
 
-**Question.** Why was the Sacrament of the Lord's Supper ordained?
+**Question.** Why was the Sacrament of the Lord’s Supper ordained?
 
 **Answer.** For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
 
-**Question.** What is the outward part or sign of the Lord's Supper?
+**Question.** What is the outward part or sign of the Lord’s Supper?
 
 **Answer.** Bread and Wine, which the Lord hath commanded to be received.
 
 **Question.** What is the inward part, or thing signified?
 
-**Answer.** The Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord's Supper.
+**Answer.** The Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord’s Supper.
 
 **Question.** What are the benefits whereof we are partakers thereby?
 
 **Answer.** The strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are by the Bread and Wine.
 
-**Question.** What is required of those who come to the Lord's Supper?
+**Question.** What is required of those who come to the Lord’s Supper?
 
-**Answer.** To examine themselves, whether they repent them truly of their former sins, steadfastly purposing to lead a new life; have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and be in charity with all men.
+**Answer.** To examine themselves, whether they repent them truly of their former sins, steadfastly purposing to lead a new life; have a lively faith in God’s mercy through Christ, with a thankful remembrance of his death; and be in charity with all men.
 
 ## The Rubrics
 
@@ -140,6 +140,6 @@ X. Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbou
 
 > And all Fathers, Mothers, Masters, and Mistresses, shall cause their Children, Servants, and Apprentices, who have not learned their Catechism, to come to the Church at the time appointed, and obediently to hear and to be ordered by the Minister, until such time as they have learned all that is here appointed for them to learn.
 
-> So soon as Children are come to a competent age, and can say the Creed, the Lord's Prayer, and the Ten Commandments, and can answer to the other questions of this short Catechism, they shall be brought to the Bishop.
+> So soon as Children are come to a competent age, and can say the Creed, the Lord’s Prayer, and the Ten Commandments, and can answer to the other questions of this short Catechism, they shall be brought to the Bishop.
 
 > And whensoever the Bishop shall give knowledge for Children to be brought unto him for their Confirmation, the Minister of every Parish shall either bring, or send in writing, with his hand subscribed thereunto, the Names of all such Persons within his Parish, as he shall think fit to be presented to the Bishop to be Confirmed.

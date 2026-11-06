@@ -8,7 +8,7 @@
 
 > Upon the date and at the tyme appoincted for the ministracion of the holy Communion, the Priest that shal execute the holy ministery, shall put upon hym the vesture appoincted for that ministracion, that is to saye: a white Albe plain, with a vestement or Cope. And where there be many Priestes, or Decons, there so many shalbe ready to helpe the Priest, in the ministracion, as shalbee requisite: And shall have upon them lykewise the vestures appointed for their ministery, that is to saye, Albes with tunacles. Then shall the Clerkes syng in Englishe for the office, or Introite, (as they call it,) a Psalme appointed for that daie.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The Priest standing humbly afore the middes of the Altar, shall saie the Lordes praier, with this Collect.
 
@@ -176,7 +176,7 @@ Holy, holy, holy, Lorde God of Hostes: heaven (& earth) are full of thy glory: O
 
 > This the Clerkes shall also syng.
 
-## The Prayer for the Whole State of Christ's Church
+## The Prayer for the Whole State of Christ’s Church
 
 > When the Clerkes have dooen syngyng, then shall the Priest, or Deacon, turne hym to the people, and saye,
 
@@ -201,7 +201,7 @@ Likewyse after supper he toke the cuppe, and when he had geven thankes, he gave 
 
 Wherfore, O Lorde and heavenly father, accordyng to the Instytucyon of thy derely beloved sonne, our saviour Jesu Christ, we thy humble servauntes do celebrate, and make here before thy divine Majestie, with these thy holy giftes, the memoryall whyche thy sonne hath wylled us to make, havyng in remembraunce his blessed passion, mightie resurreccyon, and gloryous ascencion, renderyng unto thee most hartie thankes, for the innumerable benefites procured unto us by the same, entierely desiryng thy fatherly goodnes, mercifully to accepte this our Sacrifice of praise and thankesgeving: most humbly beseching thee to graunt, that by the merites and death of thy sonne Jesus Christ, and through faith in his bloud, we and al thy whole church, may obteigne remission of our sinnes, and all other benefites of hys passyon. And here wee offre and present unto thee (O Lorde) oure selfe, oure soules, and bodies, to be a reasonable, holy, and lively sacrifice unto thee: humbly besechyng thee, that whosoever shalbee partakers of thys holy Communion, maye worthely receive the most precious body and bloude of thy sonne Jesus Christe: and bee fulfilled with thy grace and heavenly benediccion, and made one bodye with thy sonne Jesu Christe, that he maye dwell in them, and they in hym. And although we be unworthy (through our manyfolde synnes) to offre unto thee any Sacryfice: Yet we beseche thee to accepte thys our bounden duetie and service, and commaunde these our prayers and supplicacions, by the Ministery of thy holy Angels, to be brought up into thy holy Tabernacle before the syght of thy dyvine majestie; not waiyng our merites, but pardonyng our offences, through Christe our Lorde, by whome, and with whome, in the unitie of the holy Ghost: all honour and glory, be unto thee, O father almightie, world without ende. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Let us praye.
 

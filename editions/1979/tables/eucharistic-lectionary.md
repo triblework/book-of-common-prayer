@@ -507,7 +507,7 @@ St. James of Jerusalem (October 23) | Psalm: 1 | Acts 15:12-22a | 1 Corinthians 
 
 St. Simon & St. Jude (October 28) | Psalm: 119:89-96 | Deuteronomy 32:1-4 | Ephesians 2:13-22 | John 15:17-27
 
-All Saints' Day (November 1) | Psalm: 149 | Ecclesiasticus 44:1-10,13-14 | Revelation 7:2-4,9-17 | Matthew 5:1-12 or this 149 | Ecclesiasticus 2:(1-6)7-11 | Ephesians 1:(11-14)15-23 | Luke 6:20-26(27-36)
+All Saints’ Day (November 1) | Psalm: 149 | Ecclesiasticus 44:1-10,13-14 | Revelation 7:2-4,9-17 | Matthew 5:1-12 or this 149 | Ecclesiasticus 2:(1-6)7-11 | Ephesians 1:(11-14)15-23 | Luke 6:20-26(27-36)
 
 Thanksgiving Day | Psalm: 65 or 65:9-14 | Deuteronomy 8:1-3,6-10(17-20) | James 1:17-18,21-27 | Matthew 6:25-33
 

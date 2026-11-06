@@ -36,6 +36,7 @@ sys.path.insert(0, HERE)
 import w21_witness as W
 import w21_psalter as P
 from w13_render import mediant, _verify
+import w25_witness as W25   # R18 chain: Wave 25's R24 apostrophes on top
 
 BASE = '710f635b7783f1e8188fa334ec75dca3e43a0220'     # branch base, by full SHA
 FILES = ('psalms-1-50', 'psalms-51-100', 'psalms-101-150')
@@ -131,9 +132,11 @@ def main(policy='recommended'):
         cur = open(os.path.join(WT, 'editions/1928/psalter/%s.md' % f), encoding='utf-8').read()
         sim, applied, dropped = simulate(base, items)
         sim_all[f] = sim
-        if cur == base:
+        # Wave 25 (R24: every apostrophe U+2019) chained on top of either state (R18)
+        rel = 'psalter/%s.md' % f
+        if cur == W25.apply('1928', rel, base):
             st = 'unapplied'
-        elif cur == sim:
+        elif cur == W25.apply('1928', rel, sim):
             st, n_applied = 'applied', n_applied + len(applied)
         else:
             st = 'MOVED'

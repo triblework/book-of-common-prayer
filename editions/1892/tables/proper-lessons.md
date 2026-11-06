@@ -129,7 +129,7 @@ All Saints | Morning 1: Wisdom 2 to v.10 | Evening 1: Wisdom 5 to v.17 | Evening
 ## A TABLE OF LESSONS FOR THE FORTY DAYS OF LENT.
 
 LENT | Morning 1: — | Morning 2: — | Evening 1: — | Evening 2: —
-1 | Ash-wednesd'y | Morning 1: Isaiah— 58 | Morning 2: Luke— 15 | Evening 1: Jonah— 3 | Evening 2: Hebr. 12 to v.18
+1 | Ash-wednesd’y | Morning 1: Isaiah— 58 | Morning 2: Luke— 15 | Evening 1: Jonah— 3 | Evening 2: Hebr. 12 to v.18
 2 | Thursday | Morning 1: 59 to v.17 | Morning 2: Mark 11 v.12 | Evening 1: Jer. 3 v.12 | Evening 2: Romans— 1
 — | Morning 1: — | Morning 2: — | Evening 1: & 4 to v.3 | Evening 2: —
 3 | Friday | Morning 1: Micah— 7 | Morning 2: Matt. 12 to v.22 | Evening 1: Zephaniah— 1 | Evening 2: 3

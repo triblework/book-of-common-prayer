@@ -126,7 +126,7 @@ Glory be to the Father. &c.
 
 As it was in the be. &c. <!-- VERIFY: source prints 'As it was in the be. &c.'; reading unclear (likely 'in thee'); kept as printed; confirm against a page scan -->
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The Psalme ended, and the man and the woman knelyng afore the Lordes table: The Priest standyng at the Table, and turnyng hys face towarde them, shal saie,
 

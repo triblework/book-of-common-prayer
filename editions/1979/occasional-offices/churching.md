@@ -90,7 +90,7 @@ I will lift up the cup of salvation : and call upon the Name of the LORD.
 
 I will fulfill my vows to the LORD : in the presence of all his people.
 
-In the courts of the LORD'S house, : in the midst of you, O Jerusalem. Hallelujah!
+In the courts of the LORD’S house, : in the midst of you, O Jerusalem. Hallelujah!
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
@@ -100,7 +100,7 @@ The LORD is my shepherd; : I shall not be in want.
 
 He makes me lie down in green pastures : and leads me beside still waters.
 
-He revives my soul : and guides me along right pathways for his Name's sake.
+He revives my soul : and guides me along right pathways for his Name’s sake.
 
 Though I walk through the valley of the shadow of death, I shall fear no evil; : for you are with me; your rod and your staff, they comfort me.
 

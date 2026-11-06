@@ -4,7 +4,7 @@
 
 > After Mornyng praier, the people being called together by the ringing of a bell, and assembled in the Churche, the English Letany shalbe sayd after the accustomed maner: whiche ended, the Priest shall goe into the pulpite and saye thus
 
-BRETHREN, in the primative church there was a Godly discyplyne, that at the begynnyng of Lent suche persons as were notorious synners, wer put to open penaunce and punished in thys world, that their soules might be saved in the day of the lorde, and that others admonished by theyr example, myght be more afrayed to offende. In the stede wherof, untyl the sayd discipline may be restored againe, (which thing is much to be wyshed,) it is thought good, that at thys tyme (in your presence) should be read the general sentences of God's curssyng against impenitent sinners, gathered out of the xxvii. Chapiter of Deuteronomye, and other places of scripture: and that ye shoulde aunswere to every sentence, Amen. To thintent that you, beyng admonished of the great indignacion of God agaynst synners, may the rather be called to earneste and true repentaunce, and may walke more warely in these daungerous daies, fleeing from such vices, for the which ye affirme with your owne mouthes the curse of God to be due.
+BRETHREN, in the primative church there was a Godly discyplyne, that at the begynnyng of Lent suche persons as were notorious synners, wer put to open penaunce and punished in thys world, that their soules might be saved in the day of the lorde, and that others admonished by theyr example, myght be more afrayed to offende. In the stede wherof, untyl the sayd discipline may be restored againe, (which thing is much to be wyshed,) it is thought good, that at thys tyme (in your presence) should be read the general sentences of God’s curssyng against impenitent sinners, gathered out of the xxvii. Chapiter of Deuteronomye, and other places of scripture: and that ye shoulde aunswere to every sentence, Amen. To thintent that you, beyng admonished of the great indignacion of God agaynst synners, may the rather be called to earneste and true repentaunce, and may walke more warely in these daungerous daies, fleeing from such vices, for the which ye affirme with your owne mouthes the curse of God to be due.
 
 ## The Curses
 
@@ -18,7 +18,7 @@ Amen.
 
 **Aunswere.** Amen.
 
-**Minister.** Cursed is he that removeth awaye the marke of hys neighbour's lande.
+**Minister.** Cursed is he that removeth awaye the marke of hys neighbour’s lande.
 
 **Aunswere.** Amen.
 
@@ -34,7 +34,7 @@ Amen.
 
 **Aunswere.** Amen.
 
-**Minister.** Cursed is he that lyeth with his neighbour's wife.
+**Minister.** Cursed is he that lyeth with his neighbour’s wife.
 
 **Aunswere.** Amen.
 
@@ -102,7 +102,7 @@ Glory be to the father, and to the sonne, &c.
 
 As it was in the beginning, and is now, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lord, have mercy upon us.
 

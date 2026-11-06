@@ -14,5 +14,5 @@ Ascension-day | Morning: 8, 15, 21 | Evening: 24, 47, 108
 Whitsunday | Morning: 48, 68 | Evening: 104, 145
 Trinity-Sunday | Morning: 29, 33 | Evening: 93, 97, 150
 Transfiguration | Morning: 27, 61, 93 | Evening: 84, 99, 133
-St. Michael's | Morning: 91, 103 | Evening: 34, 148
-All Saints' Day | Morning: 1, 15, 146 | Evening: 112, 121, 149
+St. Michael’s | Morning: 91, 103 | Evening: 34, 148
+All Saints’ Day | Morning: 1, 15, 146 | Evening: 112, 121, 149

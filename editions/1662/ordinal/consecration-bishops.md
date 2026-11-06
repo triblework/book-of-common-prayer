@@ -20,7 +20,7 @@ This is a true saying, If a man desire the office of a bishop, he desireth a goo
 
 > For The Epistle.Acts 20.17
 
-From Miletus Paul sent to Ephesus, and called the elders of the Church. And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears, and temptations, which befel me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ. And now behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befal me there; save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry which I have received of the Lord Jesus, to testify the Gospel of the grace of God. And now behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more. Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare unto you all the counsel of God. Take heed therefore unto yourselves, and to all the flock over the which the Holy Ghost hath made you overseers, to feed the Church of God, which he hath purchased with his own blood. For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise speaking perverse things, to draw away disciples after them. Therefore watch, and remember that by the space of three years I ceased not to warn every one night and day with tears. And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no man's silver, or gold, or apparel: yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me. I have shewed you all things, how that so labouring ye ought to support the weak; and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+From Miletus Paul sent to Ephesus, and called the elders of the Church. And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears, and temptations, which befel me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ. And now behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befal me there; save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry which I have received of the Lord Jesus, to testify the Gospel of the grace of God. And now behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more. Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare unto you all the counsel of God. Take heed therefore unto yourselves, and to all the flock over the which the Holy Ghost hath made you overseers, to feed the Church of God, which he hath purchased with his own blood. For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise speaking perverse things, to draw away disciples after them. Therefore watch, and remember that by the space of three years I ceased not to warn every one night and day with tears. And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no man’s silver, or gold, or apparel: yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me. I have shewed you all things, how that so labouring ye ought to support the weak; and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 ## The Gospel
 
@@ -50,7 +50,7 @@ Most reverend Father in God, we present unto you this godly and well-learned man
 
 ## The Oath of Due Obedience
 
-> Then shall the Archbishop demand the King's Mandate for the Consecration, and cause it to be read. And then shall be ministered unto them the Oath of due obedience to the Archbishop, as followeth.
+> Then shall the Archbishop demand the King’s Mandate for the Consecration, and cause it to be read. And then shall be ministered unto them the Oath of due obedience to the Archbishop, as followeth.
 
 > The Oath of due obedience to the Archbishop
 
@@ -88,7 +88,7 @@ Are you persuaded that you be truly called to this ministration, according to th
 
 Are you persuaded that the holy Scriptures contain sufficiently all doctrine required of necessity for eternal salvation through faith in Jesus Christ? And are you determined out of the same holy Scriptures to instruct the people committed to your charge, and to teach or maintain nothing as required of necessity to eternal salvation, but that which you shall be persuaded may be concluded and proved by the same?
 
-**Answer.** I am so persuaded and determined, by God's grace.
+**Answer.** I am so persuaded and determined, by God’s grace.
 
 **The Archbishop.**
 
@@ -98,7 +98,7 @@ Will you then faithfully exercise yourself in the same holy Scriptures, and call
 
 **The Archbishop.**
 
-Be you ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrine contrary to God's Word; and both privately and openly to call upon and encourage others to the same?
+Be you ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrine contrary to God’s Word; and both privately and openly to call upon and encourage others to the same?
 
 **Answer.** I am ready, the Lord being my helper.
 
@@ -110,7 +110,7 @@ Will you deny all ungodliness and worldly lusts, and live soberly, righteously a
 
 **The Archbishop.**
 
-Will you maintain and set forward (as much as shall lie in you) quietness, peace, and love among all men; and such as be unquiet, disobedient and criminous within your Diocese, correct and punish, according to such authority as ye have by God's Word, and as to you shall be committed by the Ordinance of this Realm?
+Will you maintain and set forward (as much as shall lie in you) quietness, peace, and love among all men; and such as be unquiet, disobedient and criminous within your Diocese, correct and punish, according to such authority as ye have by God’s Word, and as to you shall be committed by the Ordinance of this Realm?
 
 **Answer.** I will so do, by the help of God.
 
@@ -122,9 +122,9 @@ Will you be faithful in ordaining, sending, or laying hands upon others?
 
 **The Archbishop.**
 
-Will you shew yourself gentle, and be merciful for Christ's sake to poor and needy people, and to all strangers destitute of help?
+Will you shew yourself gentle, and be merciful for Christ’s sake to poor and needy people, and to all strangers destitute of help?
 
-**Answer.** I will so shew myself, by God's help.
+**Answer.** I will so shew myself, by God’s help.
 
 > Then the Archbishop, standing up, shall say,
 
@@ -182,25 +182,25 @@ That truth and godliness we may pursue with full desire.
 
 Thou art the very Comforter in grief and all distress;
 
-The heav'nly gift of God most high, no tongue can it express;
+The heav’nly gift of God most high, no tongue can it express;
 
 The fountain and the living spring of joy celestial;
 
 The fire so bright, the love so sweet, the Unction spiritual.
 
-Thou in thy gifts art manifold, by them Christ's Church doth stand:
+Thou in thy gifts art manifold, by them Christ’s Church doth stand:
 
-In faithful hearts thou writ'st thy law, the finger of God's hand.
+In faithful hearts thou writ’st thy law, the finger of God’s hand.
 
 According to thy promise, Lord, thou givest speech with grace;
 
-That through thy help God's praises may resound in every place.
+That through thy help God’s praises may resound in every place.
 
-O Holy Ghost, into our minds send down thy heav'nly light;
+O Holy Ghost, into our minds send down thy heav’nly light;
 
 Kindle our hearts with fervent zeal to serve God day and night.
 
-Our weakness strengthen and confirm, (for, Lord, thou know'st us frail;)
+Our weakness strengthen and confirm, (for, Lord, thou know’st us frail;)
 
 That neither devil, world, nor flesh, against us may prevail.
 
@@ -214,7 +214,7 @@ We may escape the snares of sin, and never from thee slide.
 
 Such measures of thy powerful grace grant, Lord, to us, we pray;
 
-That thou may'st be our Comforter at the last dreadful day.
+That thou may’st be our Comforter at the last dreadful day.
 
 Of strife and of dissension dissolve, O Lord, the bands,
 
@@ -234,7 +234,7 @@ And to the Holy Spirit of grace, co-equal Three in One.
 
 And pray we, that our only Lord would please his Spirit to send
 
-On all that shall profess his Name, from hence to the world's end. Amen.
+On all that shall profess his Name, from hence to the world’s end. Amen.
 
 > As before in the Form for Ordering Priests.
 

@@ -12,7 +12,7 @@
 
 ## The Exhortation
 
-Dearly beloved, forasmuch as all men are conceived and born in sin, (and that which is born of the flesh is flesh,) and they that are in the flesh cannot please God, but live in sin, committing many actual transgressions; and that our Saviour Christ saith, none can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost; I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous goodness he will grant to these persons that which by nature they cannot have; that they may be baptized with Water and the Holy Ghost, and received into Christ's holy Church, and be made lively members of the same.
+Dearly beloved, forasmuch as all men are conceived and born in sin, (and that which is born of the flesh is flesh,) and they that are in the flesh cannot please God, but live in sin, committing many actual transgressions; and that our Saviour Christ saith, none can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost; I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous goodness he will grant to these persons that which by nature they cannot have; that they may be baptized with Water and the Holy Ghost, and received into Christ’s holy Church, and be made lively members of the same.
 
 ## The Flood Prayer
 
@@ -22,7 +22,7 @@ Dearly beloved, forasmuch as all men are conceived and born in sin, (and that wh
 
 > (And here all the Congregation shall kneel.)
 
-Almighty and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ, in the river Jordan, didst sanctify the element of water to the mystical washing away of sin: We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon these thy servants; wash them and sanctify them with the Holy Ghost; that they, being delivered from thy wrath, may be received into the ark of Christ's Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally they may come to the land of everlasting life, there to reign with thee world without end, through Jesus Christ our Lord. Amen.
+Almighty and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ, in the river Jordan, didst sanctify the element of water to the mystical washing away of sin: We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon these thy servants; wash them and sanctify them with the Holy Ghost; that they, being delivered from thy wrath, may be received into the ark of Christ’s Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally they may come to the land of everlasting life, there to reign with thee world without end, through Jesus Christ our Lord. Amen.
 
 ## The Second Prayer
 
@@ -34,13 +34,13 @@ Almighty and immortal God, the aid of all that need, the helper of all that flee
 
 Hear the words of the Gospel, written by Saint John in the third chapter, beginning at the first verse.
 
-There was a man of the Pharisees, named Nicodemus, a ruler of the Jews. The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God; for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? Can he enter the second time into his mother's womb, and be born? Jesus answered, Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof; but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
+There was a man of the Pharisees, named Nicodemus, a ruler of the Jews. The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God; for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? Can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof; but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
 
 ## The Exhortation upon the Gospel
 
 > After which he shall say this exhortation following.
 
-Beloved, ye hear in this Gospel the express words of our Saviour Christ, that except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. Whereby ye may perceive the great necessity of this Sacrament, where it may be had. Likewise, immediately before his ascension into heaven, (as we read in the last chapter of Saint Mark's Gospel,) he gave command to his disciples, saying, Go ye into all the world, and preach the Gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned. Which also sheweth unto us the great benefit we reap thereby. For which cause Saint Peter the Apostle, when upon his first preaching of the Gospel many were pricked at the heart, and said to him and the rest of the Apostles, Men and brethren, what shall we do? replied and said unto them, Repent, and be baptized every one of you for the remission of sins, and ye shall receive the gift of the Holy Ghost. For the promise is to you and your children, and to all that are afar off, even as many as the Lord our God shall call. And with many other words exhorted he them, saying, Save yourselves from this untoward generation. For (as the same Apostle testifieth in another place) even Baptism doth also now save us, (not the putting away of the filth of the flesh, but the answer of a good conscience towards God,) by the resurrection of Jesus Christ. Doubt ye not therefore, but earnestly believe, that he will favourably receive these present persons, truly repenting, and coming unto him by faith; that he will grant them remission of their sins, and bestow upon them the Holy Ghost; that he will give them the blessing of eternal life, and make them partakers of his everlasting kingdom. Wherefore we being thus persuaded of the good will of our heavenly Father towards these persons, declared by his Son Jesus Christ; let us faithfully and devoutly give thanks to him, and say,
+Beloved, ye hear in this Gospel the express words of our Saviour Christ, that except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. Whereby ye may perceive the great necessity of this Sacrament, where it may be had. Likewise, immediately before his ascension into heaven, (as we read in the last chapter of Saint Mark’s Gospel,) he gave command to his disciples, saying, Go ye into all the world, and preach the Gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned. Which also sheweth unto us the great benefit we reap thereby. For which cause Saint Peter the Apostle, when upon his first preaching of the Gospel many were pricked at the heart, and said to him and the rest of the Apostles, Men and brethren, what shall we do? replied and said unto them, Repent, and be baptized every one of you for the remission of sins, and ye shall receive the gift of the Holy Ghost. For the promise is to you and your children, and to all that are afar off, even as many as the Lord our God shall call. And with many other words exhorted he them, saying, Save yourselves from this untoward generation. For (as the same Apostle testifieth in another place) even Baptism doth also now save us, (not the putting away of the filth of the flesh, but the answer of a good conscience towards God,) by the resurrection of Jesus Christ. Doubt ye not therefore, but earnestly believe, that he will favourably receive these present persons, truly repenting, and coming unto him by faith; that he will grant them remission of their sins, and bestow upon them the Holy Ghost; that he will give them the blessing of eternal life, and make them partakers of his everlasting kingdom. Wherefore we being thus persuaded of the good will of our heavenly Father towards these persons, declared by his Son Jesus Christ; let us faithfully and devoutly give thanks to him, and say,
 
 ## The Thanksgiving
 
@@ -50,7 +50,7 @@ Almighty and everlasting God, heavenly Father, we give thee humble thanks, for t
 
 > Then the Priest shall speak to the persons to be baptized on this wise.
 
-Well-Beloved, who are come hither desiring to receive holy Baptism, ye have heard how the Congregation hath prayed that our Lord Jesus Christ would vouchsafe to receive you and bless you, to release you of your sins, to give you the kingdom of heaven and everlasting life. Ye have heard also that our Lord Jesus Christ hath promised in his holy Word, to grant all those things that we have prayed for; which promise he, for his part, will most surely keep and perform. Wherefore, after this promise made by Christ, ye must also faithfully, for your part, promise in the presence of these your witnesses, and this whole Congregation, that ye will renounce the devil and all his works, and constantly believe God's holy Word, and obediently keep his commandments.
+Well-Beloved, who are come hither desiring to receive holy Baptism, ye have heard how the Congregation hath prayed that our Lord Jesus Christ would vouchsafe to receive you and bless you, to release you of your sins, to give you the kingdom of heaven and everlasting life. Ye have heard also that our Lord Jesus Christ hath promised in his holy Word, to grant all those things that we have prayed for; which promise he, for his part, will most surely keep and perform. Wherefore, after this promise made by Christ, ye must also faithfully, for your part, promise in the presence of these your witnesses, and this whole Congregation, that ye will renounce the devil and all his works, and constantly believe God’s holy Word, and obediently keep his commandments.
 
 ## The Vows
 
@@ -72,7 +72,7 @@ And dost thou believe in the Holy Ghost; the holy Catholick Church; the Communio
 
 **Answer.** That is my desire.
 
-**Question.** Wilt thou then obediently keep God's holy will and commandments, and walk in the same all the days of thy life?
+**Question.** Wilt thou then obediently keep God’s holy will and commandments, and walk in the same all the days of thy life?
 
 **Answer.** I will endeavour so to do, God being my helper.
 
@@ -102,19 +102,19 @@ N. I baptize thee in the Name of the Father, and of the Son, and of the Holy Gho
 
 > Then shall the Priest say,
 
-We receive this person into the Congregation of Christ's flock; and *do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ's faithful soldier and servant unto his life's end. Amen.
+We receive this person into the Congregation of Christ’s flock; and *do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ’s faithful soldier and servant unto his life’s end. Amen.
 
-> *Here the Priest shall make a Cross upon the person's forehead.
+> *Here the Priest shall make a Cross upon the person’s forehead.
 
 ## The Reception
 
 > Then shall the Priest say,
 
-Seeing now, dearly beloved brethren, that these persons are regenerate and grafted into the body of Christ's Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that they may lead the rest of their life according to this beginning.
+Seeing now, dearly beloved brethren, that these persons are regenerate and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that they may lead the rest of their life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> Then shall be said the Lord's Prayer, all kneeling.
+> Then shall be said the Lord’s Prayer, all kneeling.
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven. Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil. Amen.
 
@@ -126,7 +126,7 @@ We yield thee humble thanks, O heavenly Father, that thou hast vouchsafed to cal
 
 > Then, all standing up, the Priest shall use this exhortation following; speaking to the Godfathers and Godmothers first.
 
-Forasmuch as these persons have promised in your presence to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your part and duty to put them in mind, what a solemn vow, promise, and profession they have now made before this Congregation, and especially before you their chosen witnesses. And ye are also to call upon them to use all diligence to be rightly instructed in God's holy Word; that so they may grow in grace, and in the knowledge of our Lord Jesus Christ, and live godly, righteously, and soberly in this present world.
+Forasmuch as these persons have promised in your presence to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your part and duty to put them in mind, what a solemn vow, promise, and profession they have now made before this Congregation, and especially before you their chosen witnesses. And ye are also to call upon them to use all diligence to be rightly instructed in God’s holy Word; that so they may grow in grace, and in the knowledge of our Lord Jesus Christ, and live godly, righteously, and soberly in this present world.
 
 > (And then, speaking to the new baptized persons, he shall proceed, and say,)
 

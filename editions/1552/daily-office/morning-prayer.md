@@ -143,7 +143,7 @@ Thy honourable, true, and onely son.
 Also the holy ghost the comforter.
 Thou art the king of glory, O Christ.
 Thou art the everlasting son of the father.
-When thou tookest upon thee to deliver man, thou dyddest not abhor the virgin's womb.
+When thou tookest upon thee to deliver man, thou dyddest not abhor the virgin’s womb.
 When thou hadst overcomed the sharpness of death, thou diddest open the kingdom of heaven to all beleevers.
 Thou sittest on the right hand of God, in the Glory of the father.
 We believe that thou shalt come to be our judge.
@@ -222,7 +222,7 @@ As it was in the beginning, is now, and ever shalbe : world wythout ende. Amen.
 
 > Or els thys Psalme, Jubilate Deo. Psalm c.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shall be sayd the Crede, by the Minister and the people, standinge.
 

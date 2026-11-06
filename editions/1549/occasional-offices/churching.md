@@ -32,7 +32,7 @@ Glorye to the father, &c.
 
 As it was in the beginning, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lord have mercie upon us.
 

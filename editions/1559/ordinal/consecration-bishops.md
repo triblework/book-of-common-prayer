@@ -66,7 +66,7 @@ Are you perswaded that you be truely called to thys ministracion according to th
 
 **Aunswere.** I wyll so doe, by the helpe of God.
 
-**The Archebisshoppe.** Be you ready with al faithful diligence, to banishe and drive away al erronious and straunge doctryne, contrary to god's worde, and both privately and openly to call upon, and encourage other to the same?
+**The Archebisshoppe.** Be you ready with al faithful diligence, to banishe and drive away al erronious and straunge doctryne, contrary to god’s worde, and both privately and openly to call upon, and encourage other to the same?
 
 **Aunswere.** I am ready, the lord beyng my helper.
 

@@ -194,7 +194,7 @@ OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will 
 
 **Minister.** O Lord, arise, help us;
 
-**Answer.** And deliver us for thy Name's sake.
+**Answer.** And deliver us for thy Name’s sake.
 
 **Minister.** Let thy priests be clothed with righteousness;
 

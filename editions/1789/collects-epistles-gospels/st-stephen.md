@@ -1,4 +1,4 @@
-# Saint Stephen's Day
+# Saint Stephen’s Day
 
 ## The Collect
 
@@ -8,7 +8,7 @@ The offices for St. Stephen, St. John the Evangelist, and Holy Innocents appear 
 
 Saint Stephen, Deacon and Martyr. in 1928
 
-> Then shall follow the Collect of the Nativity which shall be said continually until New-Year's Eve.
+> Then shall follow the Collect of the Nativity which shall be said continually until New-Year’s Eve.
 
 ## The Epistle
 

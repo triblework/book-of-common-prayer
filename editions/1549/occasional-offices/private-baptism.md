@@ -45,7 +45,7 @@ AT a certaine time thei brought children unto Christ that he should touch them, 
 
 FRENDES ye heare in this ghospell the woordes of our Saveoure Christ, that he commaunded the children to be brought unto him, how he blamed those that would have kept them from hym, howe he exhorted all men to folowe their innocencie: Ye perceive how by his outward gesture and dede he declared his good wyll towarde them, for he embraced them in his armes, he layed his handes upon them, and blessed them. Doubt you not therfore, but earnestly beleve, that he hath lykewyse favourably receyved this presente infante, that he hath embraced him with the armes of his mercy, that he hath geven unto him the blessing of eternal lyfe, and made him partaker of his everlasting kingdom. Wherfore we beyng thus persuaded of the good will of oure heavenly father, declared by his sonne Jesus Christ towardes this infante: Let us faythfully and devoutly geve thankes unto him, and saye the prayer whiche the Lorde himselfe taught; and in declaracion of our fayth, let us also recyte the articles conteined in our Crede.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Here the minister with the Godfathers and Godmothers shall saye.
 

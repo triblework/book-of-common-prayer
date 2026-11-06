@@ -10,13 +10,13 @@
 
 Dearly beloved: We have come together in the presence of God to witness and bless the joining together of this man and this woman in Holy Matrimony.  The bond and covenant of marriage was established by God in creation, and our Lord Jesus Christ adorned this manner of life by his presence and first miracle at a wedding in Cana of Galilee.  It signifies to us the mystery of the union between Christ and his Church, and Holy Scripture commends it to be honored among all people.
 
-The union of husband and wife in heart, body, and mind is intended by God for their mutual joy; for the help and comfort given one another in prosperity and adversity; and, when it is God's will, for the procreation of children and their nurture in the knowledge and love of the Lord.  Therefore marriage is not to be entered into unadvisedly or lightly, but reverently, deliberately, and in accordance with the purposes for which it was instituted by God.
+The union of husband and wife in heart, body, and mind is intended by God for their mutual joy; for the help and comfort given one another in prosperity and adversity; and, when it is God’s will, for the procreation of children and their nurture in the knowledge and love of the Lord.  Therefore marriage is not to be entered into unadvisedly or lightly, but reverently, deliberately, and in accordance with the purposes for which it was instituted by God.
 
 Into this holy union N. N. and N. N. now come to be joined.  If any of you can show just cause why they may not lawfully be married, speak now; or else for ever hold your peace.
 
 > Then the Celebrant says to the persons to be married
 
-I require and charge you both, here in the presence of God, that if either of you know any reason why you may not be united in marriage lawfully, and in accordance with God's Word, you do now confess it.
+I require and charge you both, here in the presence of God, that if either of you know any reason why you may not be united in marriage lawfully, and in accordance with God’s Word, you do now confess it.
 
 ## The Declaration of Consent
 
@@ -118,11 +118,11 @@ In the Name of God, I, N., take you, N., to be my husband, to have and to hold f
 
 > They loose their hands.
 
-> The Priest may ask God's blessing on a ring or rings as follows
+> The Priest may ask God’s blessing on a ring or rings as follows
 
 Bless, O Lord, this ring to be a sign of the vows by which this man and this woman have bound themselves to each other; through Jesus Christ our Lord.  Amen.
 
-> The giver places the ring on the ring-finger of the other's hand and says
+> The giver places the ring on the ring-finger of the other’s hand and says
 
 N., I give you this ring as a symbol of my vow, and with all that I am, and all that I have, I honor you, in the Name of the Father, and of the Son, and of the Holy Spirit (or in the Name of God).
 
@@ -147,7 +147,7 @@ Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will 
 
 Our Father in heaven, hallowed be your Name, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. Forgive us our sins as we forgive those who sin against us. Save us from the time of trial, and deliver us from evil. For the kingdom, the power, and the glory are yours, now and for ever.  Amen.
 
-> If Communion is to follow, the Lord's Prayer may be omitted here.
+> If Communion is to follow, the Lord’s Prayer may be omitted here.
 
 > The Deacon or other person appointed reads the following prayers, to which the People respond, saying, Amen.
 
@@ -161,9 +161,9 @@ Give them wisdom and devotion in the ordering of their common life, that each ma
 
 Grant that their wills may be so knit together in your will, and their spirits in your Spirit, that they may grow in love and peace with you and one another all the days of their life. Amen.
 
-Give them grace, when they hurt each other, to recognize and acknowledge their fault, and to seek each other's forgiveness and yours.  Amen.
+Give them grace, when they hurt each other, to recognize and acknowledge their fault, and to seek each other’s forgiveness and yours.  Amen.
 
-Make their life together a sign of Christ's love to this sinful and broken world, that unity may overcome estrangement, forgiveness heal guilt, and joy conquer despair.  Amen.
+Make their life together a sign of Christ’s love to this sinful and broken world, that unity may overcome estrangement, forgiveness heal guilt, and joy conquer despair.  Amen.
 
 Bestow on them, if it is your will, the gift and heritage of children, and the grace to bring them up to know you, to love you, and to serve you.  Amen.
 
@@ -274,7 +274,7 @@ In the Name of God, I, N., take you, N., to be my (wife) (husband), to have and 
 
 > or this
 
-I, N., take thee N., to my wedded (wife) (husband), to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I (plight) (give) thee my troth.
+I, N., take thee N., to my wedded (wife) (husband), to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I (plight) (give) thee my troth.
 
 5.  The Celebrant declares the union of the man and woman as husband and wife, in the Name of the Father, and of the Son, and of the Holy Spirit.
 
@@ -307,8 +307,8 @@ Who presents this woman and this man to be married to each other?
 
 > It is appropriate that all remain standing until the conclusion of the Collect.  Seating may be provided for the wedding party, so that all may be seated for the Lessons and the homily.
 
-> The Apostles' Creed may be recited after the Lessons, or after the homily, if there is one.
+> The Apostles’ Creed may be recited after the Lessons, or after the homily, if there is one.
 
 > When desired, some other suitable symbol of the vows may be used in place of the ring.
 
-> At the Offertory, it is desirable that the bread and wine be presented to the ministers by the newly married persons.  They may then remain before the Lord's Table and receive Holy Communion before other members of the congregation.
+> At the Offertory, it is desirable that the bread and wine be presented to the ministers by the newly married persons.  They may then remain before the Lord’s Table and receive Holy Communion before other members of the congregation.

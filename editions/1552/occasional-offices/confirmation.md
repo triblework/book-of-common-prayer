@@ -2,7 +2,7 @@
 
 ## The Preface
 
-> TO the ende that Confirmacion maye be ministred to the more edifying of such as shal receyve it (according unto saincte Paules doctrine, who teaches that al thinges should be done in the Churche to the edificacion of the same) it is thought good that none hereafter shalbe confirmed, but such as can say in their mother tongue the articles of the fayth, the Lord's prayer, and the x commaundements; And can also answere to suche questions of this short Catechism, as the Bisshop (or such as he shal appointe) shal by his discrecion appose them in. And this ordre is most conveniente to be observed for dyvers consideracions.
+> TO the ende that Confirmacion maye be ministred to the more edifying of such as shal receyve it (according unto saincte Paules doctrine, who teaches that al thinges should be done in the Churche to the edificacion of the same) it is thought good that none hereafter shalbe confirmed, but such as can say in their mother tongue the articles of the fayth, the Lord’s prayer, and the x commaundements; And can also answere to suche questions of this short Catechism, as the Bisshop (or such as he shal appointe) shal by his discrecion appose them in. And this ordre is most conveniente to be observed for dyvers consideracions.
 
 > First, because that when children come to the yeres of discrecion, and have learned what their godfathers and godmothers promised for them in baptisme, they may then themselves with their own mouth, and with their own consent, openly before the Churche, ratifie and confirme the same: and also promise that by the grace of god they wil evermore endevoure themselfes faithfully to observe and kepe suche thynges, as they by their owne mouth and confession have assented unto.
 

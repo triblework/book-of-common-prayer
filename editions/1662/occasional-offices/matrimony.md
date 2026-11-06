@@ -10,11 +10,11 @@
 
 > At the day and time appointed for solemnization of Matrimony, the persons to be married shall come into the Body of the Church with their friends and neighbours: and there standing together, the Man on the right hand, and the Woman on the left, the Priest shall say,
 
-Dearly beloved, we are gathered together here in the sight of God, and in the face of this Congregation, to join together this man and this woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man's innocency, signifying unto us the mystical union that is betwixt Christ and his Church; which holy estate Christ adorned and beautified with his presence, and first miracle that he wrought, in Cana of Galilee; and is commended of Saint Paul to be honourable among all men: and therefore is not by any to be enterprised, nor taken in hand, unadvisedly, lightly, or wantonly, to satisfy men's carnal lusts and appetites, like brute beasts that have no understanding; but reverently, discreetly, advisedly, soberly, and in the fear of God; duly considering the causes for which Matrimony was ordained.
+Dearly beloved, we are gathered together here in the sight of God, and in the face of this Congregation, to join together this man and this woman in holy Matrimony; which is an honourable estate, instituted of God in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church; which holy estate Christ adorned and beautified with his presence, and first miracle that he wrought, in Cana of Galilee; and is commended of Saint Paul to be honourable among all men: and therefore is not by any to be enterprised, nor taken in hand, unadvisedly, lightly, or wantonly, to satisfy men’s carnal lusts and appetites, like brute beasts that have no understanding; but reverently, discreetly, advisedly, soberly, and in the fear of God; duly considering the causes for which Matrimony was ordained.
 
 First, It was ordained for the procreation of children, to be brought up in the fear and nurture of the Lord, and to the praise of his holy Name.
 
-Secondly, It was ordained for a remedy against sin, and to avoid fornication; that such persons as have not the gift of continency might marry, and keep themselves undefiled members of Christ's body.
+Secondly, It was ordained for a remedy against sin, and to avoid fornication; that such persons as have not the gift of continency might marry, and keep themselves undefiled members of Christ’s body.
 
 Thirdly, It was ordained for the mutual society, help, and comfort, that the one ought to have of the other, both in prosperity and adversity. Into which holy estate these two persons present come now to be joined. Therefore if any man can shew any just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace.
 
@@ -22,15 +22,15 @@ Thirdly, It was ordained for the mutual society, help, and comfort, that the one
 
 > And also, speaking unto the persons that shall be married, he shall say,
 
-I require and charge you both, as ye will answer at the dreadful day of judgement, when the secrets of all hearts shall be disclosed, that if either of you know any impediment, why ye may not be lawfully joined together in Matrimony, ye do now confess it. For be ye well assured, that so many as are coupled together otherwise than God's Word doth allow are not joined together by God; neither is their Matrimony lawful.
+I require and charge you both, as ye will answer at the dreadful day of judgement, when the secrets of all hearts shall be disclosed, that if either of you know any impediment, why ye may not be lawfully joined together in Matrimony, ye do now confess it. For be ye well assured, that so many as are coupled together otherwise than God’s Word doth allow are not joined together by God; neither is their Matrimony lawful.
 
-> At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God's law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties; or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried.
+> At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God’s law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties; or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried.
 
 > If no impediment be alleged, then shall the Curate say unto the Man,
 
 ## The Consent
 
-N. wilt thou have this woman to thy wedded wife, to live together after God's ordinance in the holy estate of Matrimony? Wilt thou love her, comfort her, honour, and keep her, in sickness and in health; and, forsaking all other, keep thee only unto her, so long as ye both shall live?
+N. wilt thou have this woman to thy wedded wife, to live together after God’s ordinance in the holy estate of Matrimony? Wilt thou love her, comfort her, honour, and keep her, in sickness and in health; and, forsaking all other, keep thee only unto her, so long as ye both shall live?
 
 > The Man shall answer,
 
@@ -38,7 +38,7 @@ I will.
 
 > Then shall the Priest say unto the Woman,
 
-N. wilt thou have this man to thy wedded husband, to live together after God's ordinance in the holy estate of Matrimony? Wilt thou obey him, and serve him, love, honour, and keep him, in sickness and in health; and, forsaking all other, keep thee only unto him, so long as ye both shall live?
+N. wilt thou have this man to thy wedded husband, to live together after God’s ordinance in the holy estate of Matrimony? Wilt thou obey him, and serve him, love, honour, and keep him, in sickness and in health; and, forsaking all other, keep thee only unto him, so long as ye both shall live?
 
 > The Woman shall answer,
 
@@ -54,23 +54,23 @@ Who giveth this woman to be married to this man?
 
 > Then shall they give their troth to each other in this manner.
 
-> The Minister, receiving the Woman at her father's or friend's hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
+> The Minister, receiving the Woman at her father’s or friend’s hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
 
-I N. take thee N. to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
+I N. take thee N. to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.
 
 > Then shall they loose their hands; and the Woman, with her right hand taking the Man by his right hand, shall likewise say after the Minister,
 
-I N. take thee N. to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
+I N. take thee N. to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.
 
 ## The Ring
 
-> Then shall they again loose their hands; and the Man shall give unto the Woman a Ring, laying the same upon the book with the accustomed duty to the Priest and Clerk. And the Priest, taking the Ring, shall deliver it unto the Man, to put it upon the fourth finger of the Woman's left hand. And the Man holding the Ring there, and taught by the Priest, shall say,
+> Then shall they again loose their hands; and the Man shall give unto the Woman a Ring, laying the same upon the book with the accustomed duty to the Priest and Clerk. And the Priest, taking the Ring, shall deliver it unto the Man, to put it upon the fourth finger of the Woman’s left hand. And the Man holding the Ring there, and taught by the Priest, shall say,
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 ## The Prayer
 
-> Then the Man leaving the Ring upon the fourth finger of the Woman's left hand, they shall both kneel down, and the Minister shall say,
+> Then the Man leaving the Ring upon the fourth finger of the Woman’s left hand, they shall both kneel down, and the Minister shall say,
 
 > Let us pray.
 
@@ -96,7 +96,7 @@ God the Father, God the Son, God the Holy Ghost, bless, preserve, and keep you; 
 
 ## The Psalm
 
-> Then the Minister or Clerks, going to the Lord's Table, shall say or sing this Psalm following.
+> Then the Minister or Clerks, going to the Lord’s Table, shall say or sing this Psalm following.
 
 > Beati omnes. Psalm 128
 
@@ -112,7 +112,7 @@ Lo, thus shall the man be blessed : that feareth the Lord.
 
 The Lord from out of Sion shall so bless thee : that thou shalt see Jerusalem in prosperity all thy life long;
 
-Yea, that thou shalt see thy children's children : and peace upon Israel.
+Yea, that thou shalt see thy children’s children : and peace upon Israel.
 
 Glory be to the Father, and to the Son : and to the Holy Ghost;
 
@@ -140,9 +140,9 @@ Glory be to the Father, and to the Son : and to the Holy Ghost;
 
 As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> The Psalm ended, and the Man and the Woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,
+> The Psalm ended, and the Man and the Woman kneeling before the Lord’s Table, the Priest standing at the Table, and turning his face towards them, shall say,
 
 Lord, have mercy upon us.
 
@@ -174,7 +174,7 @@ Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will
 
 **Minister.**
 
-O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. Amen.
+O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives’ end; through Jesus Christ our Lord. Amen.
 
 > This Prayer next following shall be omitted, where the Woman is past child-bearing.
 
@@ -186,7 +186,7 @@ O God, who by thy mighty power hast made all things of nothing; who also (after 
 
 > Then shall the Priest say,
 
-Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. Amen.
+Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives’ end. Amen.
 
 ## The Homily
 

@@ -1,4 +1,4 @@
-# All Saints' Day
+# All Saints’ Day
 
 <!-- VERIFY: 'All Saint's Day' — 1979 appoints three reading sets for this day under the three-year lectionary, which the single Epistle/Gospel slot cannot represent; deferred to the lectionary-tables wave. -->
 

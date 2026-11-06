@@ -26,4 +26,4 @@ O God, you have caused this holy night to shine with the brightness of the true 
 
 Almighty God, you have given your only-begotten Son to take our nature upon him, and to be born [this day] of a pure virgin: Grant that we, who have been born again and made your children by adoption and grace, may daily be renewed by your Holy Spirit; through our Lord Jesus Christ, to whom with you and the same Spirit be honor and glory, now and for ever. Amen.
 
-> The Collect immediately preceding and any of the sets of Proper Lessons for Christmas Day serve for any weekdays between Holy Innocents' Day and the First Sunday after Christmas Day.
+> The Collect immediately preceding and any of the sets of Proper Lessons for Christmas Day serve for any weekdays between Holy Innocents’ Day and the First Sunday after Christmas Day.

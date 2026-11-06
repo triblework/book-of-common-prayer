@@ -1,4 +1,4 @@
-# Saint Philip and Saint James's Day
+# Saint Philip and Saint James’s Day
 
 ## The Collect
 

@@ -8,7 +8,7 @@ I am the resurrection and the life, saith the Lord; he that believeth in me, tho
 
 I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth; and though this body be destroyed, yet shall I see God; whom I shall see for myself and mine eyes shall behold, and not as a stranger.
 
-For none of us liveth to himself, and no man dieth to himself. For if we live, we live unto the Lord; and if we die, we die unto the Lord. Whether we live, therefore, or die, we are the Lord's.
+For none of us liveth to himself, and no man dieth to himself. For if we live, we live unto the Lord; and if we die, we die unto the Lord. Whether we live, therefore, or die, we are the Lord’s.
 
 Blessed are the dead who die in the Lord; even so saith the Spirit, for they rest from their labors.
 
@@ -186,7 +186,7 @@ Dominus regit me
 
 The LORD is my shepherd; : therefore can I lack nothing.
 
-He shall feed me in a green pasture, : and lead me forth in the paths of righteousness for his Name's sake.
+He shall feed me in a green pasture, : and lead me forth in the paths of righteousness for his Name’s sake.
 <!-- VERIFY: 'and lead me forth in the paths'; the 1993 keying fuses two verses of Psalm 23; the witness (Church Publishing's PDF, p. 476) prints the half-verse 'beside the waters of comfort' and the verse 'He shall convert my soul', but restoring them would take a mediant from the file (R11, R22), so the verse is carried as the e-text prints it -->
 
 Yea, though I walk through the valley of the shadow of death, I will fear no evil; : for thou art with me; thy rod and thy staff comfort me.
@@ -203,7 +203,7 @@ The LORD is my shepherd; : I shall not want.
 
 He maketh me to lie down in green pastures; : he leadeth me beside the still waters.
 
-He restoreth my soul; : he leadeth me in the paths of righteousness for his Name's sake.
+He restoreth my soul; : he leadeth me in the paths of righteousness for his Name’s sake.
 
 Yea, though I walk through the valley of the shadow of death, I will fear no evil; : for thou art with me; thy rod and thy staff, they comfort me.
 
@@ -232,7 +232,7 @@ My heart hath talked of thee, Seek ye my face. : Thy face, LORD, will I seek.
 O hide not thou thy face froRD in the land of the living.
 <!-- VERIFY: 'face froRD in the land of the living'; the 1993 keying fuses two verses of Psalm 27 ('froRD'); the witness (Church Publishing's PDF, p. 478) prints 'from me' and the next verse, but restoring them would take a mediant and the small-capital Name from the file (R11, R22), so the verse is carried as the e-text prints it -->
 
-O tarry thou the LORD's leisure; : be strong, and he shall comfort thine heart; and put thou thy trust in the LORD.
+O tarry thou the LORD’S leisure; : be strong, and he shall comfort thine heart; and put thou thy trust in the LORD.
 
 ## Psalm 106
 
@@ -289,7 +289,7 @@ John 10:11-16  (I am the good shepherd)
 
 John  11:21-27  (I am the resurrection and the life)
 
-John 14:1-6  (In my Father's house are many mansions)
+John 14:1-6  (In my Father’s house are many mansions)
 
 > At the end of the Gospel, the Reader says
 
@@ -300,9 +300,9 @@ Praise be to thee, O Christ.
 
 > A homily may be preached, the people being seated.
 
-> The Apostles' creed may be said, all standing.
+> The Apostles’ creed may be said, all standing.
 
-> If there is not to be a Communion, the Lord's Prayer is said here, and the service continues with the following prayer of intercession, or with one or more suitable prayers (see pages 487-489).
+> If there is not to be a Communion, the Lord’s Prayer is said here, and the service continues with the following prayer of intercession, or with one or more suitable prayers (see pages 487-489).
 
 > When there is a Communion, the following serves for the Prayers of the People.
 
@@ -314,7 +314,7 @@ In peace, let us pray to the Lord.
 
 Almighty God, who hast knit together thine elect in one communion and fellowship, in the mystical body of thy Son Christ our Lord:  Grant, we beseech thee, to thy whole Church in paradise and on earth, thy light and thy peace. Amen.
 
-Grant that all who have been baptized into Christ's death and resurrection may die to sin and rise to newness of life, and that through the grave and gate of death we may pass with him to our joyful resurrection.  Amen.
+Grant that all who have been baptized into Christ’s death and resurrection may die to sin and rise to newness of life, and that through the grave and gate of death we may pass with him to our joyful resurrection.  Amen.
 
 Grant to us who are still in our pilgrimage, and who walk as yet by faith, that thy Holy Spirit may lead us in holiness and righteousness all our days.  Amen.
 
@@ -498,7 +498,7 @@ I am Resurrection and I am Life, says the Lord. Whoever has faith in me shall ha
 
 As for me, I know that my Redeemer lives and that at the last he will stand upon the earth. After my awaking, he will raise me up; and in my body I shall see God. I myself shall see, and my eyes behold him who is my friend and not a stranger.
 
-For none of us has life in himself, and none becomes his own master when he dies. For if we have life, we are alive in the Lord, and if we die, we die in the Lord. So, then, whether we live or die, we are the Lord's possession.
+For none of us has life in himself, and none becomes his own master when he dies. For if we have life, we are alive in the Lord, and if we die, we die in the Lord. So, then, whether we live or die, we are the Lord’s possession.
 
 Happy from now on are those who die in the Lord! So it is, says the Spirit, for they rest from their labors.
 
@@ -602,7 +602,7 @@ John 10:11-16    (I am the good shepherd)
 
 John 11:21-27    (I am the resurrection and the life)
 
-John 14:1-6    (In my Father's house are many rooms)
+John 14:1-6    (In my Father’s house are many rooms)
 
 > At the end of the Gospel, the Reader says
 
@@ -613,7 +613,7 @@ Praise to you, Lord Christ.
 
 > Here there may be a homily by the Celebrant, or a member of the family, or a friend.
 
-> The Apostles' Creed may then be said, all standing.  The Celebrant may introduce the Creed with these or similar words
+> The Apostles’ Creed may then be said, all standing.  The Celebrant may introduce the Creed with these or similar words
 
 In the assurance of eternal life given at Baptism, let us proclaim our faith and say,
 
@@ -625,7 +625,7 @@ I believe in Jesus Christ, his only Son, our Lord. He was conceived by the power
 
 I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.  Amen.
 
-> If there is not to be a Communion, the Lord's Prayer is said here, and the service continues with the Prayers of the People, or with one or more suitable prayers (see pages 503-505).
+> If there is not to be a Communion, the Lord’s Prayer is said here, and the service continues with the Prayers of the People, or with one or more suitable prayers (see pages 503-505).
 
 > When there is a Communion, the following form of the Prayers of the People is used, or else the form on page 465 or 480.
 
@@ -649,7 +649,7 @@ Comfort us in our sorrows at the death of our brother (sister); let our faith be
 
 > The Celebrant concludes with one of the following or some other prayer
 
-Lord Jesus Christ, we commend to you our brother (sister) N., who was reborn by water and the Spirit in Holy Baptism. Grant that his death may recall to us your victory over death, and be an occasion for us to renew our trust in your Father's love.  Give us, we pray, the faith to follow where you have led the way; and where you live and reign with the Father and the Holy Spirit, to the ages of ages.  Amen.
+Lord Jesus Christ, we commend to you our brother (sister) N., who was reborn by water and the Spirit in Holy Baptism. Grant that his death may recall to us your victory over death, and be an occasion for us to renew our trust in your Father’s love.  Give us, we pray, the faith to follow where you have led the way; and where you live and reign with the Father and the Holy Spirit, to the ages of ages.  Amen.
 
 > or this
 
@@ -782,7 +782,7 @@ O God, whose days are without end, and whose mercies cannot be numbered: Make us
 
 O God, the King of saints, we praise and glorify your holy Name for all your servants who have finished their course in your faith and fear: for the blessed Virgin Mary; for the holy patriarchs, prophets, apostles, and martyrs; and for all your other righteous servants, known to us and unknown; and we pray that, encouraged by their examples, aided by their prayers, and strengthened by their fellowship, we also may be partakers of the inheritance of the saints in light; through the merits of your Son Jesus Christ our Lord. Amen.
 
-Lord Jesus Christ, by your death you took away the sting of death:  Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies' sake.  Amen.
+Lord Jesus Christ, by your death you took away the sting of death:  Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies’ sake.  Amen.
 
 Father of all, we pray to you for those we love, but see no longer: Grant them your peace; let light perpetual shine upon them; and, in your loving wisdom and almighty power, work in them the good purpose of your perfect will; through Jesus Christ our Lord.  Amen.
 
@@ -798,9 +798,9 @@ Almighty God, Father of mercies and giver of comfort: Deal graciously, we pray, 
 
 4.  One or more passages of Holy Scripture are read.  Psalms, hymns, or anthems may follow the readings.  If there is to be a Communion, the last Reading is from the Gospel.
 
-5.  A homily may follow the Readings, and the Apostles' Creed may be recited.
+5.  A homily may follow the Readings, and the Apostles’ Creed may be recited.
 
-6.  Prayer, including the Lord's Prayer, is offered for the deceased, for those who mourn, and for the Christian community, remembering the promises of God in Christ about eternal life.
+6.  Prayer, including the Lord’s Prayer, is offered for the deceased, for those who mourn, and for the Christian community, remembering the promises of God in Christ about eternal life.
 
 7.  The deceased is commended to God, and the body is committed to its resting place.  The committal may take place either where the preceding service has been held, or at the graveside.
 

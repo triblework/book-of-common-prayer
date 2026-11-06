@@ -107,7 +107,7 @@ Glory bee to the Father, and to the Sonne, and to the holy Ghoste.
 
 As it was in the beginning, is nowe, and ever shal be world without ende. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde have mercy upon us.
 

@@ -49,7 +49,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer: the people also kneeling, and repeating it with him.
+> Then the Minister shall kneel, and say the Lord’s Prayer: the people also kneeling, and repeating it with him.
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
 Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
@@ -71,7 +71,7 @@ Amen.
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 **Priest.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## The Psalms
 
@@ -147,9 +147,9 @@ God shall bless us : and all the ends of the world shall fear him.
 Glory be to the Father, and to the Son : and to the Holy Ghost;
 As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said or sung the Apostles' Creed, by the Minister and the people standing.
+> Then shall be said or sung the Apostles’ Creed, by the Minister and the people standing.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
 And in Jesus Christ his only Son our Lord, Who was conceived by the Holy Ghost, Born of the Virgin Mary, Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead; He ascended into heaven, And sitteth on the right hand of God the Father Almighty; From thence he shall come to judge the quick and the dead.
@@ -169,7 +169,7 @@ Amen.
 **Answer.** Christ, have mercy upon us.
 **Minister.** Lord, have mercy upon us.
 
-> Then the Minister, Clerks, and people shall say the Lord's Prayer with a loud voice.
+> Then the Minister, Clerks, and people shall say the Lord’s Prayer with a loud voice.
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
 Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
@@ -212,7 +212,7 @@ Amen.
 
 > In Quires and Places where they sing here followeth the Anthem.
 
-## A Prayer for the King's Majesty
+## A Prayer for the King’s Majesty
 
 O Lord, our heavenly Father, high and mighty, King of kings, Lord of lords, the only Ruler of princes, who dost from thy throne behold all the dwellers upon earth: Most heartily we beseech thee with thy favour to behold our most gracious Sovereign Lord, King CHARLES; and so replenish him with the grace of thy Holy Spirit, that he may alway incline to thy will, and walk in thy way.
 Endue him plenteously with heavenly gifts; grant him in health and wealth long to live; strengthen him that he may vanquish and overcome all his enemies; and finally after this life he may attain everlasting joy and felicity; through Jesus Christ our Lord.

@@ -16,7 +16,7 @@
 
 ## The Exhortation
 
-Dearly beloved, forasmuch as all men are conceived and born in sin, and that our Saviour Christ saith, none can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost: I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous mercy he will grant to this Child that thing which by nature he cannot have; that he may be baptized with Water and the Holy Ghost, and received into Christ's holy Church, and be made a lively member of the same.
+Dearly beloved, forasmuch as all men are conceived and born in sin, and that our Saviour Christ saith, none can enter into the kingdom of God, except he be regenerate and born anew of Water and of the Holy Ghost: I beseech you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous mercy he will grant to this Child that thing which by nature he cannot have; that he may be baptized with Water and the Holy Ghost, and received into Christ’s holy Church, and be made a lively member of the same.
 
 ## The Flood Prayer
 
@@ -24,7 +24,7 @@ Dearly beloved, forasmuch as all men are conceived and born in sin, and that our
 
 > Let us pray.
 
-ALMIGHTY and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ, in the river Jordan, didst sanctify Water to the mystical washing away of sin: We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon this Child; wash him and sanctify him with the Holy Ghost; that he, being delivered from thy wrath, may be received into the ark of Christ's Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally he may come to the land of everlasting life, there to reign with thee world without end, through Jesus Christ our Lord. Amen.
+ALMIGHTY and everlasting God, who of thy great mercy didst save Noah and his family in the ark from perishing by water; and also didst safely lead the children of Israel thy people through the Red Sea, figuring thereby thy holy Baptism; and by the Baptism of thy well-beloved Son Jesus Christ, in the river Jordan, didst sanctify Water to the mystical washing away of sin: We beseech thee, for thine infinite mercies, that thou wilt mercifully look upon this Child; wash him and sanctify him with the Holy Ghost; that he, being delivered from thy wrath, may be received into the ark of Christ’s Church; and being stedfast in faith, joyful through hope, and rooted in charity, may so pass the waves of this troublesome world, that finally he may come to the land of everlasting life, there to reign with thee world without end, through Jesus Christ our Lord. Amen.
 
 ## The Second Prayer
 
@@ -52,7 +52,7 @@ ALMIGHTY and everlasting God, heavenly Father, we give thee humble thanks that t
 
 > Then shall the Priest speak unto the Godfathers and Godmothers on this wise.
 
-Dearly beloved, ye have brought this Child here to be baptized; ye have prayed that our Lord Jesus Christ would vouchsafe to receive him, to release him of his sins, to sanctify him with the Holy Ghost, to give him the kingdom of heaven and everlasting life. Ye have heard also that our Lord Jesus Christ hath promised in his Gospel, to grant all these things that ye have prayed for: which promise he, for his part, will most surely keep and perform. Wherefore, after this promise made by Christ, this Infant must also faithfully, for his part, promise by you that are his sureties, (until he come of age to take it upon himself,) that he will renounce the devil and all his works, and constantly believe God's holy Word, and obediently keep his commandments.
+Dearly beloved, ye have brought this Child here to be baptized; ye have prayed that our Lord Jesus Christ would vouchsafe to receive him, to release him of his sins, to sanctify him with the Holy Ghost, to give him the kingdom of heaven and everlasting life. Ye have heard also that our Lord Jesus Christ hath promised in his Gospel, to grant all these things that ye have prayed for: which promise he, for his part, will most surely keep and perform. Wherefore, after this promise made by Christ, this Infant must also faithfully, for his part, promise by you that are his sureties, (until he come of age to take it upon himself,) that he will renounce the devil and all his works, and constantly believe God’s holy Word, and obediently keep his commandments.
 
 ## The Vows
 
@@ -74,7 +74,7 @@ And dost thou believe in the Holy Ghost; the holy Catholick Church; the Communio
 
 **Answer.** That is my desire.
 
-**Minister.** Wilt thou then obediently keep God's holy will and commandments, and walk in the same all the days of thy life?
+**Minister.** Wilt thou then obediently keep God’s holy will and commandments, and walk in the same all the days of thy life?
 
 **Answer.** I will.
 
@@ -108,17 +108,17 @@ N. I baptize thee in the Name of the Father, and of the Son, and of the Holy Gho
 
 > Then shall the Priest say,
 
-We receive this Child into the Congregation of Christ's flock, *and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ's faithful soldier and servant unto his life's end. Amen.
+We receive this Child into the Congregation of Christ’s flock, *and do sign him with the sign of the Cross, in token that hereafter he shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner against sin, the world, and the devil, and to continue Christ’s faithful soldier and servant unto his life’s end. Amen.
 
-> *Here the Priest shall make a Cross upon the Child's forehead.
+> *Here the Priest shall make a Cross upon the Child’s forehead.
 
 ## The Reception
 
 > Then shall the Priest say,
 
-Seeing now, dearly beloved brethren, that this Child is regenerate and grafted into the body of Christ's Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that this Child may lead the rest of his life according to this beginning.
+Seeing now, dearly beloved brethren, that this Child is regenerate and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits, and with one accord make our prayers unto him, that this Child may lead the rest of his life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be said, all kneeling,
 
@@ -134,15 +134,15 @@ We yield thee hearty thanks, most merciful Father, that it hath pleased thee to 
 
 > Then, all standing up, the Priest shall say to the Godfathers and Godmothers this exhortation following.
 
-Foreasmuch as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise and profession he hath here made by you. And that he may know these things the better, ye shall call upon him to hear sermons; and chiefly ye shall provide that he may learn the Creed, the Lord's Prayer and the Ten Commandments in the vulgar tongue, and all other things which a Christian ought to know and believe to his soul's health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering always, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that as he died and rose again for us, so should we, who are baptized, die from sin and rise again unto righteousness, continually mortifying all our evil and corrupt affections, and daily proceeding in all virtue and godliness of living.
+Foreasmuch as this Child hath promised by you his sureties to renounce the devil and all his works, to believe in God, and to serve him: Ye must remember that it is your parts and duties to see that this Infant be taught, so soon as he shall be able to learn, what a solemn vow, promise and profession he hath here made by you. And that he may know these things the better, ye shall call upon him to hear sermons; and chiefly ye shall provide that he may learn the Creed, the Lord’s Prayer and the Ten Commandments in the vulgar tongue, and all other things which a Christian ought to know and believe to his soul’s health; and that this Child may be virtuously brought up to lead a godly and a Christian life; remembering always, that Baptism doth represent unto us our profession; which is, to follow the example of our Saviour Christ, and to be made like unto him; that as he died and rose again for us, so should we, who are baptized, die from sin and rise again unto righteousness, continually mortifying all our evil and corrupt affections, and daily proceeding in all virtue and godliness of living.
 <!-- VERIFY: 'Foreasmuch'; CHECKED against the manuscript annexed to the Act of Uniformity 1662, in the type reproduction made from it by Her Majesty's Printing Office in 1892, which reads "Forasmuch as this childe hath promised" here (scan page 277) and "Forasmuch" in the private form too (scan page 283). The spelling is left as the Church of England prints it: that witness disclaims its own orthography -- its preface records that the printed Sealed Books differ from the manuscript considerably in spelling and in stops -- so it cannot settle a spelling, only a word -->
 
 ## The Rubrics
 
 > Then shall he add and say,
 
-Ye are to take care that this Child be brought to the Bishop to be confirmed by him, so soon as he can say the Creed, the Lord's Prayer and the Ten Commandments in the vulgar tongue, and be further instructed in the Church Catechism set forth for that purpose.
+Ye are to take care that this Child be brought to the Bishop to be confirmed by him, so soon as he can say the Creed, the Lord’s Prayer and the Ten Commandments in the vulgar tongue, and be further instructed in the Church Catechism set forth for that purpose.
 
-> It is certain by God's Word, that children which are baptized, dying before they commit actual sin, are undoubtedly saved.
+> It is certain by God’s Word, that children which are baptized, dying before they commit actual sin, are undoubtedly saved.
 
 > To take away all scruple concerning the use of the sign of the Cross in Baptism; the true explication thereof, and the just reasons for the retaining of it, may be seen in the xxxth Canon, first published in the year MDCIV.

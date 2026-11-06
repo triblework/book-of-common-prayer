@@ -720,6 +720,24 @@ The published branches and tags are build artifacts, regenerated from the
     (three files). (Published 2026-11-06; tips main `74283bb6` · scottish
     `d930a4fa` · american `2351758b`.)
 
+- **2026-11-06** — Wave 25: **one apostrophe, and the possessive of
+  small-capital LORD in each book's own form**.
+  - **The apostrophe**: the keyings had typed the printed apostrophe two ways
+    (`'` and `’`), so some words showed as changed between editions only
+    because of the character. Every apostrophe in every edition is now `’`
+    (`RULINGS.md` R24, maintainer): 1,250 in 265 files. No reading changed;
+    quotation marks are untouched. `tools/normalize.py` reads `’` as part of
+    a word, so modern spelling is otherwise unchanged.
+  - **The possessive**: 1892's Churching psalm now prints *LORD’s*, read off
+    the Standard Book scan (R23). 1928's book sets the possessive all in small
+    capitals in both printings, so its *LORD’S* stands. In 1979 the maintainer
+    reopened R11 for the possessive only (R25): its s follows the typeface
+    Church Publishing's file sets it in, where the rendered page agrees by
+    eye: 9 lower-case, 1 small capital, 3 unchanged.
+  - 11 possessive letters and 1,250 apostrophes; no flag opened or closed;
+    the independent change log still agrees 55 of 55.
+  - This changes `texts/original` and `texts/normalized` at every tag.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

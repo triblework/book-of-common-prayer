@@ -36,7 +36,7 @@ What reward shall I give unto the Lord : for all the benefits that he hath done 
 
 I will receive the cup of salvation : and call upon the name of the Lord.
 
-I will pay my vows now in the presence of all his people : in the courts of the Lord's house, even in the midst of thee, O Jerusalem. Praise the Lord.
+I will pay my vows now in the presence of all his people : in the courts of the Lord’s house, even in the midst of thee, O Jerusalem. Praise the Lord.
 
 Glory be to the Father, and to the Son : and to the Holy Ghost;
 
@@ -62,7 +62,7 @@ Glory be to the Father, and to the Son : and to the Holy Ghost;
 
 As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Priest say,
 

@@ -12,7 +12,7 @@ Peace be in this house, and to all that dwel in it. <!-- VERIFY: source prints '
 
 REMEMBRE not Lorde oure iniquities, nor the iniquities of our forefathers. Spare us good Lorde, spare thy people, whome thou hast redemed with thy most precious bloude and bee not angry with us for ever.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde have mercy upon us.
 

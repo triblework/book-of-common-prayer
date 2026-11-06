@@ -1,6 +1,6 @@
 <!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-# Saint Andrew's Day
+# Saint Andrew’s Day
 
 ## The Collect
 

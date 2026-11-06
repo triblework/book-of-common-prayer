@@ -1,4 +1,4 @@
-# The Scottish Liturgy: the Order for the Administration of the Lord's Supper or Holy Communion (Scottish, 1929).
+# The Scottish Liturgy: the Order for the Administration of the Lord’s Supper or Holy Communion (Scottish, 1929).
 
 > It is desirable that so many as intend to be partakers of the Holy Communion should signify their names to the Priest.
 > The Priest shall sing or say the Service in a distinct and audible voice.
@@ -57,7 +57,7 @@ God spake these words and said; I am the Lord thy God: Thou shalt have none othe
 
 **People.** Lord, have mercy upon us, and incline our hearts to keep this law.
 
-**Presbyter.** Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+**Presbyter.** Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
 **People.** Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
@@ -176,7 +176,7 @@ Joel 2. 28.
 
 > While the Presbyter distinctly pronounceth one or more of these Sentences for the Offertory, the Deacon, or (if no such be present) some other fit person, shall receive the devotions of the people there present, in a bason provided for that purpose. And when all have offered, he shall reverently bring the said bason, with the offerings therein, and deliver it to the Presbyter; who shall humbly present it before the Lord, and set it upon the Holy Table.
 
-> And the Presbyter shall then offer up, and place the bread and wine prepared for the Sacrament upon the Lord's Table; and shall say,
+> And the Presbyter shall then offer up, and place the bread and wine prepared for the Sacrament upon the Lord’s Table; and shall say,
 
 Blessed be thou, O Lord God, for ever and ever. Thine, O Lord, is the greatness, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine: thine is the kingdom, O Lord, and thou art exalted as head above all: both riches and honour come of thee, and of thine own do we give unto thee. Amen.
 
@@ -243,11 +243,11 @@ And although we be unworthy, through our manifold sins, to offer unto thee any s
 
 > * This rubric may be disregarded.
 
-## The Prayer for the Whole State of Christ's Church
+## The Prayer for the Whole State of Christ’s Church
 
 > Then shall the Presbyter or Deacon say,
 
-Let us pray for the whole state of Christ's Church.
+Let us pray for the whole state of Christ’s Church.
 
 > The Presbyter.
 
@@ -264,13 +264,13 @@ We commend to thy gracious keeping, O Lord, all thy servants departed this life 
 
 And we yield unto thee most high praise and hearty thanks, for the wonderful grace and virtue declared in all thy Saints, who have been the choice vessels of thy grace, and the lights of the world in their several generations: beseeching thee to give us grace to follow the example of their stedfastness in thy faith, and obedience to thy holy commandments, that at the day of the general resurrection, we, and all they who are of the mystical body of thy Son, may be set on his right hand, and hear his most joyful voice, Come ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.
 
-Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate. Amen.
+Grant this, O Father, for Jesus Christ’s sake, our only Mediator and Advocate. Amen.
 
 > * The Second Shorter Litany (without the final collect) may be used instead of, and in the place of, this Prayer for the Church.
 
-> On feasts of the Blessed Virgin and the Saints for which a Proper Preface is provided, this commemoration may be inserted with the Bishop's consent: and chiefly in the Blessed Virgin Mary, Mother of thy Son Jesus Christ our Lord and God, and in the Holy Patriarchs, Prophets, Apostles, and Martyrs, beseeching thee to give us grace, &c.
+> On feasts of the Blessed Virgin and the Saints for which a Proper Preface is provided, this commemoration may be inserted with the Bishop’s consent: and chiefly in the Blessed Virgin Mary, Mother of thy Son Jesus Christ our Lord and God, and in the Holy Patriarchs, Prophets, Apostles, and Martyrs, beseeching thee to give us grace, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Presbyter say,
 
@@ -301,7 +301,7 @@ Ye that do truly and earnestly repent you of your sins, and are in love and char
 
 > Then shall this general Confession be made by the people, along with the Presbyter; he first kneeling down.
 
-Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men: We acknowledge and bewail our manifold sins and wickedness, Which we from time to time most grievously have committed, By thought, word, and deed Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ's sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
+Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men: We acknowledge and bewail our manifold sins and wickedness, Which we from time to time most grievously have committed, By thought, word, and deed Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ’s sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
 
 > The Exhortation "Ye that do truly" and the Comfortable Words may be omitted on all weekdays.
 > On weekdays the bidding "Let us humbly confess our sins to Almighty God" and the shorter form of Confession and Absolution, as in Morning and Evening Prayer, may be used in place of the longer forms.
@@ -365,7 +365,7 @@ Amen.
 
 > If the consecrated Bread or Wine be all spent before all have communicated, the Presbyter is to consecrate more in both kinds, according to the Form appended to this Liturgy.
 
-> When all have communicated, he that celebrateth shall go to the Lord's Table, and cover with a fair linen cloth that which remaineth of the consecrated Elements.
+> When all have communicated, he that celebrateth shall go to the Lord’s Table, and cover with a fair linen cloth that which remaineth of the consecrated Elements.
 
 ## The Prayer of Thanksgiving
 

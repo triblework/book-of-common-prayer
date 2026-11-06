@@ -41,7 +41,7 @@ ALMIGHTY and everliving God, who hast vouchsafed to regenerate these thy servant
 
 DEFEND, O Lord, this thy child [or, this thy Servant] with Thy heavenly grace; that he may continue thine for ever; and daily increase in thy Holy Spirit more and more, until he come unto thy everlasting kingdom. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Bishop say,
 

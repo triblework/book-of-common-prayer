@@ -1,4 +1,4 @@
-# All Saints' Day
+# All Saints’ Day
 
 ## The Collect
 

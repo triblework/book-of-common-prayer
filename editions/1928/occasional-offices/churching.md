@@ -34,9 +34,9 @@ Glory be to the Father, and to the Son, and to the Holy Ghost;
 
 As it was in the beginning, is now, and ever shall be, world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> Then shall the Minister say the Lord's Prayer, with what followeth: but the Lord's Prayer may be omitted, if this be used with the Morning or Evening Prayer.
+> Then shall the Minister say the Lord’s Prayer, with what followeth: but the Lord’s Prayer may be omitted, if this be used with the Morning or Evening Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation, But deliver us from evil. Amen.
 

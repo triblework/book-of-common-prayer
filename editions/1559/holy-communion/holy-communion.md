@@ -8,7 +8,7 @@
 
 > Thesame order shall the Curate use with those, betwixt whome he perceyveth malice and hatred to raigne not suffering them to be partakers of the Lordes table untyll he know them to be reconciled. And if one of the parties so at variance, he content to forgeve from the bottome of hys hart, all that the other hath trespassed agaynste him, and to make amends for that he hymn self hath offended: and the other partye wyll not be perswaded to a godly unitye, but remain stil in his frowardnes and malice The Minister in that case, ought to admit the penitent person to the holy Communyon, and not hym that is obstinate
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The table, havyng at the Communion tyme a fayre whyte linnen cloth upon it, shall stand in the body of the churche or in the chauncell where mornyng prayer and evenyng prayour be appointed to be sayd. And the priest, standyng at the Northe syde of the table, shal say the Lordes prayour wyth this collecte followyng.
 
@@ -104,7 +104,7 @@ Blessed be the man that provydeth for the sycke, and nedy, the Lorde shall deliv
 
 <!-- VERIFY: the citation 'Psal. lxi.' is printed on its own line after the bidding 'Let us pray for the whole estate...'; it belongs to the preceding sentence 'Blessed be the man...' and is relocated here; the 1552 book cites this as 'Psal. xli.' (Psalm 41), so 'lxi' is likely a printer transposition; retained as printed; confirm against a page scan -->
 
-## The Prayer for the Whole State of Christ's Church
+## The Prayer for the Whole State of Christ’s Church
 
 > Then shal the Churchewardens, or some other by them appoyncted, gather the devocion of the people, and put the same into the poore mens boxe, and upon the offeryng daies appoincted, every man and woman shal pay to the Curate the due and accustomed offerings, after whiche done, the Priest shal saie.
 
@@ -228,7 +228,7 @@ THE bodie of our lord Jesu Christ, which was geven for the, preserve thy body an
 
 THE bloude of our lorde Jesu Christ, which was shedd for the, preserve thy body and soule into everlasting life: and drinke this in remembraunce that Christes bloude was shedde for thee, and be thankeful.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the priest say the Lordes prayer, the people repetynge after him every peticion.
 

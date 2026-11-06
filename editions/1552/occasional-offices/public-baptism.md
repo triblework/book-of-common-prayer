@@ -84,9 +84,9 @@ N. I Baptyse thee in the name of the father, and of the sonne, and of the holy g
 
 ## The Signing with the Cross
 
-> Then the Priest shall make a crosse upon the chyld's forehead, sayinge.
+> Then the Priest shall make a crosse upon the chyld’s forehead, sayinge.
 
-We receyve this child into the congregacion of Christes flocke, and doe signe him with the signe of the crosse, in token that hereafter he shal not be ashamed to confesse the fayth of Christ crucified, and manfully to fight under his banner agaynst synne, the world, and the devyll, and to continue Christ's faythfull souldiour and servaunt unto his lyves end. Amen.
+We receyve this child into the congregacion of Christes flocke, and doe signe him with the signe of the crosse, in token that hereafter he shal not be ashamed to confesse the fayth of Christ crucified, and manfully to fight under his banner agaynst synne, the world, and the devyll, and to continue Christ’s faythfull souldiour and servaunt unto his lyves end. Amen.
 
 ## The Reception
 
@@ -94,7 +94,7 @@ We receyve this child into the congregacion of Christes flocke, and doe signe hi
 
 Seeyng nowe, derely beloved brethren, that these chyldren be regenerate and grafted into the bodye of Christes congregacion: lette us geve thankes unto God for these benefites, and with one accorde make our praiers unto almighty god, that they may leade the rest of theyr lyfe according to this beginninge.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be sayde.
 
@@ -114,4 +114,4 @@ Forasmuche as these chyldren have promysed by you to forsake the Devyl and all h
 
 ## The Rubrics
 
-> The Minister shal commaunde that the chyldren be brought to the Bisshop to be confirmed of him, so sone as they can saie in theyr vulgare tongue the articles of the fayth, the lord's prayer, and the x commaundements, and be further instructed in the Catechisme, set forth for that purpose, accordingly as it is there expressed.
+> The Minister shal commaunde that the chyldren be brought to the Bisshop to be confirmed of him, so sone as they can saie in theyr vulgare tongue the articles of the fayth, the lord’s prayer, and the x commaundements, and be further instructed in the Catechisme, set forth for that purpose, accordingly as it is there expressed.

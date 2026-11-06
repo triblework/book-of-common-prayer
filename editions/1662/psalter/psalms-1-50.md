@@ -38,7 +38,7 @@ Why do the heathen so furiously rage together : and why do the people imagine a 
 
 8 Desire of me, and I shall give thee the nations for thine inheritance, : and the utmost parts of the earth for thy possession.
 
-9 Thou shalt bruise them with a rod of iron : and break them in pieces like a potter's vessel.
+9 Thou shalt bruise them with a rod of iron : and break them in pieces like a potter’s vessel.
 
 10 Be wise now therefore, O ye kings : be learned, ye that are judges of the earth.
 
@@ -128,7 +128,7 @@ O Lord, rebuke me not in thine indignation : neither chasten me in thy displeasu
 
 3 My soul also is sore troubled : but, Lord, how long wilt thou punish me?
 
-4 Turn thee, O Lord, and deliver my soul : O save me for thy mercy's sake.
+4 Turn thee, O Lord, and deliver my soul : O save me for thy mercy’s sake.
 
 5 For in death no man remembereth thee : and who will give thee thanks in the pit?
 
@@ -256,7 +256,7 @@ Why standest thou so far off, O Lord : and hidest thy face in the needful time o
 
 2 The ungodly for his own lust doth persecute the poor : let them be taken in the crafty wiliness that they have imagined.
 
-3 For the ungodly hath made boast of his own heart's desire : and speaketh good of the covetous, whom God abhorreth.
+3 For the ungodly hath made boast of his own heart’s desire : and speaketh good of the covetous, whom God abhorreth.
 
 4 The ungodly is so proud, that he careth not for God : neither is God in all his thoughts.
 
@@ -302,7 +302,7 @@ In the Lord put I my trust : how say ye then to my soul, that she should flee as
 
 3 For the foundations will be cast down : and what hath the righteous done?
 
-4 The Lord is in his holy temple : the Lord's seat is in heaven.
+4 The Lord is in his holy temple : the Lord’s seat is in heaven.
 
 5 His eyes consider the poor : and his eye-lids try the children of men.
 
@@ -324,7 +324,7 @@ Help me, Lord, for there is not one godly man left : for the faithful are minish
 
 4 Which have said, With our tongue will we prevail : we are they that ought to speak, who is lord over us?
 
-5 Now for the comfortless trouble's sake of the needy : and because of the deep sighing of the poor,
+5 Now for the comfortless trouble’s sake of the needy : and because of the deep sighing of the poor,
 
 6 I will up, saith the Lord : and will help every one from him that swelleth against him, and will set him at rest.
 
@@ -432,7 +432,7 @@ Hear the right, O Lord, consider my complaint : and hearken unto my prayer, that
 
 3 Thou hast proved and visited mine heart in the night-season; thou hast tried me, and shalt find no wickedness in me : for I am utterly purposed that my mouth shall not offend.
 
-4 Because of men's works, that are done against the words of thy lips : I have kept me from the ways of the destroyer.
+4 Because of men’s works, that are done against the words of thy lips : I have kept me from the ways of the destroyer.
 
 5 O hold thou up my goings in thy paths : that my footsteps slip not.
 
@@ -448,7 +448,7 @@ Hear the right, O Lord, consider my complaint : and hearken unto my prayer, that
 
 11 They lie waiting in our way on every side : turning their eyes down to the ground;
 
-12 Like as a lion that is greedy of his prey : and as it were a lion's whelp, lurking in secret places.
+12 Like as a lion that is greedy of his prey : and as it were a lion’s whelp, lurking in secret places.
 
 13 Up, Lord, disappoint him, and cast him down : deliver my soul from the ungodly, which is a sword of thine;
 
@@ -526,7 +526,7 @@ I will love thee, O Lord, my strength; the Lord is my stony rock, and my defence
 
 32 It is God, that girdeth me with strength of war : and maketh my way perfect.
 
-33 He maketh my feet like harts' feet : and setteth me up on high.
+33 He maketh my feet like harts’ feet : and setteth me up on high.
 
 34 He teacheth mine hands to fight : and mine arms shall break even a bow of steel.
 
@@ -608,7 +608,7 @@ The Lord hear thee in the day of trouble : the Name of the God of Jacob defend t
 
 3 Remember all thy offerings : and accept thy burnt-sacrifice;
 
-4 Grant thee thy heart's desire : and fulfil all thy mind.
+4 Grant thee thy heart’s desire : and fulfil all thy mind.
 
 5 We will rejoice in thy salvation, and triumph in the Name of the Lord our God : the Lord perform all thy petitions.
 
@@ -626,7 +626,7 @@ The Lord hear thee in the day of trouble : the Name of the God of Jacob defend t
 
 The King shall rejoice in thy strength, O Lord : exceeding glad shall he be of thy salvation.
 
-2 Thou hast given him his heart's desire : and hast not denied him the request of his lips.
+2 Thou hast given him his heart’s desire : and hast not denied him the request of his lips.
 
 3 For thou shalt prevent him with the blessings of goodness : and shalt set a crown of pure gold upon his head.
 
@@ -670,9 +670,9 @@ My God, my God, look upon me; why hast thou forsaken me : and art so far from my
 
 8 He trusted in God, that he would deliver him : let him deliver him, if he will have him.
 
-9 But thou art he that took me out of my mother's womb : thou wast my hope, when I hanged yet upon my mother's breasts.
+9 But thou art he that took me out of my mother’s womb : thou wast my hope, when I hanged yet upon my mother’s breasts.
 
-10 I have been left unto thee ever since I was born : thou art my God, even from my mother's womb.
+10 I have been left unto thee ever since I was born : thou art my God, even from my mother’s womb.
 
 11 O go not from me, for trouble is hard at hand : and there is none to help me.
 
@@ -694,7 +694,7 @@ My God, my God, look upon me; why hast thou forsaken me : and art so far from my
 
 20 Deliver my soul from the sword : my darling from the power of the dog.
 
-21 Save me from the lion's mouth : thou hast heard me also from among the horns of the unicorns.
+21 Save me from the lion’s mouth : thou hast heard me also from among the horns of the unicorns.
 
 22 I will declare thy Name unto my brethren : in the midst of the congregation will I praise thee.
 
@@ -708,7 +708,7 @@ My God, my God, look upon me; why hast thou forsaken me : and art so far from my
 
 27 All the ends of the world shall remember themselves, and be turned unto the Lord : and all the kindreds of the nations shall worship before him.
 
-28 For the kingdom is the Lord's : and he is the Governor among the people.
+28 For the kingdom is the Lord’s : and he is the Governor among the people.
 
 29 All such as be fat upon earth : have eaten and worshipped.
 
@@ -726,7 +726,7 @@ The Lord is my shepherd : therefore can I lack nothing.
 
 2 He shall feed me in a green pasture : and lead me forth beside the waters of comfort.
 
-3 He shall convert my soul : and bring me forth in the paths of righteousness, for his Name's sake.
+3 He shall convert my soul : and bring me forth in the paths of righteousness, for his Name’s sake.
 
 4 Yea, though I walk through the valley of the shadow of death, I will fear no evil : for thou art with me; thy rod and thy staff comfort me.
 
@@ -738,7 +738,7 @@ The Lord is my shepherd : therefore can I lack nothing.
 
 > Domini est terra
 
-The earth is the Lord's, and all that therein is : the compass of the world, and they that dwell therein.
+The earth is the Lord’s, and all that therein is : the compass of the world, and they that dwell therein.
 
 2 For he hath founded it upon the seas : and prepared it upon the floods.
 
@@ -780,7 +780,7 @@ Unto thee, O Lord, will I lift up my soul; my God, I have put my trust in thee :
 
 9 All the paths of the Lord are mercy and truth : unto such as keep his covenant and his testimonies.
 
-10 For thy Name's sake, O Lord : be merciful unto my sin, for it is great.
+10 For thy Name’s sake, O Lord : be merciful unto my sin, for it is great.
 
 11 What man is he that feareth the Lord : him shall he teach in the way that he shall choose.
 
@@ -866,7 +866,7 @@ The Lord is my light and my salvation; whom then shall I fear : the Lord is the 
 
 15 I should utterly have fainted : but that I believe verily to see the goodness of the Lord in the land of the living.
 
-16 O tarry thou the Lord's leisure : be strong, and he shall comfort thine heart; and put thou thy trust in the Lord.
+16 O tarry thou the Lord’s leisure : be strong, and he shall comfort thine heart; and put thou thy trust in the Lord.
 
 ## Psalm 28
 
@@ -956,7 +956,7 @@ In thee, O Lord, have I put my trust : let me never be put to confusion, deliver
 
 3 And be thou my strong rock, and house of defence : that thou mayest save me.
 
-4 For thou art my strong rock, and my castle : be thou also my guide, and lead me for thy Name's sake.
+4 For thou art my strong rock, and my castle : be thou also my guide, and lead me for thy Name’s sake.
 
 5 Draw me out of the net that they have laid privily for me : for thou art my strength.
 
@@ -984,7 +984,7 @@ In thee, O Lord, have I put my trust : let me never be put to confusion, deliver
 
 17 My time is in thy hand; deliver me from the hand of mine enemies : and from them that persecute me.
 
-18 Shew thy servant the light of thy countenance : and save me for thy mercy's sake.
+18 Shew thy servant the light of thy countenance : and save me for thy mercy’s sake.
 
 19 Let me not be confounded, O Lord, for I have called upon thee : let the ungodly be put to confusion, and be put to silence in the grave.
 
@@ -1224,7 +1224,7 @@ Fret not thyself because of the ungodly : neither be thou envious against the ev
 
 3 Put thou thy trust in the Lord, and be doing good : dwell in the land, and verily thou shalt be fed.
 
-4 Delight thou in the Lord : and he shall give thee thy heart's desire.
+4 Delight thou in the Lord : and he shall give thee thy heart’s desire.
 
 5 Commit thy way unto the Lord, and put thy trust in him : and he shall bring it to pass.
 
@@ -1262,7 +1262,7 @@ Fret not thyself because of the ungodly : neither be thou envious against the ev
 
 22 Such as are blessed of God shall possess the land : and they that are cursed of him shall be rooted out.
 
-23 The Lord ordereth a good man's going : and maketh his way acceptable to himself.
+23 The Lord ordereth a good man’s going : and maketh his way acceptable to himself.
 
 24 Though he fall, he shall not be cast away : for the Lord upholdeth him with his hand.
 
@@ -1562,7 +1562,7 @@ We have heard with our ears, O God, our fathers have told us : what thou hast do
 
 25 For our soul is brought low, even unto the dust : our belly cleaveth unto the ground.
 
-26 Arise, and help us : and deliver us for thy mercy's sake.
+26 Arise, and help us : and deliver us for thy mercy’s sake.
 
 ## Psalm 45
 
@@ -1578,7 +1578,7 @@ My heart is inditing of a good matter : I speak of the things which I have made 
 
 5 Good luck have thou with thine honour : ride on, because of the word of truth, of meekness, and righteousness; and thy right hand shall teach thee terrible things.
 
-6 Thy arrows are very sharp, and the people shall be subdued unto thee : even in the midst among the King's enemies.
+6 Thy arrows are very sharp, and the people shall be subdued unto thee : even in the midst among the King’s enemies.
 
 7 Thy seat, O God, endureth for ever : the sceptre of thy kingdom is a right sceptre.
 
@@ -1586,19 +1586,19 @@ My heart is inditing of a good matter : I speak of the things which I have made 
 
 9 All thy garments smell of myrrh, aloes, and cassia : out of the ivory palaces, whereby they have made thee glad.
 
-10 Kings' daughters were among thy honourable women : upon thy right hand did stand the queen in a vesture of gold, wrought about with divers colours.
+10 Kings’ daughters were among thy honourable women : upon thy right hand did stand the queen in a vesture of gold, wrought about with divers colours.
 
-11 Hearken, O daughter, and consider, incline thine ear : forget also thine own people, and thy father's house.
+11 Hearken, O daughter, and consider, incline thine ear : forget also thine own people, and thy father’s house.
 
 12 So shall the King have pleasure in thy beauty : for he is thy Lord God, and worship thou him.
 
 13 And the daughter of Tyre shall be there with a gift : like as the rich also among the people shall make their supplication before thee.
 
-14 The King's daughter is all glorious within : her clothing is of wrought gold.
+14 The King’s daughter is all glorious within : her clothing is of wrought gold.
 
 15 She shall be brought unto the King in raiment of needle-work : the virgins that be her fellows shall bear her company, and shall be brought unto thee.
 
-16 With joy and gladness shall they be brought : and shall enter into the King's palace.
+16 With joy and gladness shall they be brought : and shall enter into the King’s palace.
 
 17 Instead of thy fathers thou shalt have children : whom thou mayest make princes in all lands.
 
@@ -1672,7 +1672,7 @@ Great is the Lord, and highly to be praised : in the city of our God, even upon 
 
 8 We wait for thy loving-kindness, O God : in the midst of thy temple.
 
-9 O God, according to thy Name, so is thy praise unto the world's end : thy right hand is full of righteousness.
+9 O God, according to thy Name, so is thy praise unto the world’s end : thy right hand is full of righteousness.
 
 10 Let the mount Sion rejoice, and the daughters of Judah be glad : because of thy judgements.
 
@@ -1754,7 +1754,7 @@ The Lord, even the most mighty God, hath spoken : and called the world, from the
 
 12 If I be hungry, I will not tell thee : for the whole world is mine, and all that is therein.
 
-13 Thinkest thou that I will eat bulls' flesh : and drink the blood of goats?
+13 Thinkest thou that I will eat bulls’ flesh : and drink the blood of goats?
 
 14 Offer unto God thanksgiving : and pay thy vows unto the most Highest.
 
@@ -1768,7 +1768,7 @@ The Lord, even the most mighty God, hath spoken : and called the world, from the
 
 19 Thou hast let thy mouth speak wickedness : and with thy tongue thou hast set forth deceit.
 
-20 Thou satest, and spakest against thy brother : yea, and hast slandered thine own mother's son.
+20 Thou satest, and spakest against thy brother : yea, and hast slandered thine own mother’s son.
 
 21 These things hast thou done, and I held my tongue, and thou thoughtest wickedly, that I am even such a one as thyself : but I will reprove thee, and set before thee the things that thou hast done.
 

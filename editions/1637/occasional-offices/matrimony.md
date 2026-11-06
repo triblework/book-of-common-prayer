@@ -126,7 +126,7 @@ Glory be to the Father, and to the Sonne, and to the holy Ghost.
 
 As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The Psalm ended, and the man and the woman kneeling afore the Lords Table, the Presbyter standing at the Table, and turning his face toward them, shall say.
 
@@ -170,7 +170,7 @@ O GOD of Abraham, God of Isaac, God of Jacob, blesse these thy servants, and sow
 
 > This prayer next following, shall be omitted, where the woman is past childe-birth.
 
-O Merciful LORD and heavenly Father, by whose gracious gift mankind is increased : wee beseech thee assist with thy blessing these two persons, that they may both be fruitfull in procreation of children, and also live together so long in godly love and honesty, that they may see their children's children, unto the third and fourth generation, unto thy praise and honour, through Jesus Christ our Lord. Amen.
+O Merciful LORD and heavenly Father, by whose gracious gift mankind is increased : wee beseech thee assist with thy blessing these two persons, that they may both be fruitfull in procreation of children, and also live together so long in godly love and honesty, that they may see their children’s children, unto the third and fourth generation, unto thy praise and honour, through Jesus Christ our Lord. Amen.
 
 O GOD which by thy mightie power hast made all things of nought, which also (after other things set in order) didst appoint that out of man (created after thine own image and similitude) woman should take her beginning : and knitting them together didst teach that it should never be lawfull to put asunder those whom thou by Matrimonie hast made one : O God, which hast consecrated the state of Matrimonie to such an excellent mysterie, that in it is signified and represented the spirituall marriage and unity betwixt Christ and his Church : Look mercifully upon these thy servants, that both this man may love his wife, according to thy word, as Christ did love thy spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh : and also that this woman may be loving and amiable to her husband as Rachel, wise as Rebecca, faithfull and obedient as Sara, and in all quietnesse, sobrietie, and peace be a follower of holy and godly matrons. O Lord, blesse them both, and grant them to inherit thy everlasting kingdome, through Jesus Christ our Lord. Amen.
 

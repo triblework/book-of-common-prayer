@@ -4,7 +4,7 @@
 
 > The following Service, or any part thereof, may be used at the discretion of the Minister.
 
-> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person's presence, shall say,
+> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person’s presence, shall say,
 
 PEACE be to this house, and to all that dwell in it.
 
@@ -16,7 +16,7 @@ PEACE be to this house, and to all that dwell in it.
 
 > Then the Minister shall say,
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Let us pray.
 
@@ -182,7 +182,7 @@ O SAVIOUR of the world, who by thy Cross and precious Blood hast redeemed us; Sa
 
 ## The Absolution
 
-> Then shall the sick person be moved to make a special confession of his sins, if he feel his conscience troubled with any matter; after which confession, on evidence of his repentance, the Minister shall assure him of God's mercy and forgiveness.
+> Then shall the sick person be moved to make a special confession of his sins, if he feel his conscience troubled with any matter; after which confession, on evidence of his repentance, the Minister shall assure him of God’s mercy and forgiveness.
 
 > Then the Minister shall say,
 
@@ -198,7 +198,7 @@ THE Almighty Lord, who is a most strong tower to all those who put their trust i
 
 > Here the Minister may use any part of the service of the Book, which, in his discretion, he shall think convenient to the occasion; and after that shall say,
 
-UNTO God's gracious mercy and protection we commit thee. The Lord bless thee, and keep thee. The Lord make his face to shine upon thee, and be gracious unto thee. The Lord lift up his countenance upon thee, and give thee peace, both now and evermore. Amen.
+UNTO God’s gracious mercy and protection we commit thee. The Lord bless thee, and keep thee. The Lord make his face to shine upon thee, and be gracious unto thee. The Lord lift up his countenance upon thee, and give thee peace, both now and evermore. Amen.
 
 ## Prayers
 
@@ -206,7 +206,7 @@ UNTO God's gracious mercy and protection we commit thee. The Lord bless thee, an
 
 > A Prayer for Recovery.
 
-O GOD of heavenly powers, who, by the might of thy command, drivest away from men's bodies all sickness and all infirmity; Be present in thy goodness with this thy servant, that his weakness may be banished and his strength recalled; that his health being thereupon restored, he may bless thy holy Name; through Jesus Christ our Lord. Amen.
+O GOD of heavenly powers, who, by the might of thy command, drivest away from men’s bodies all sickness and all infirmity; Be present in thy goodness with this thy servant, that his weakness may be banished and his strength recalled; that his health being thereupon restored, he may bless thy holy Name; through Jesus Christ our Lord. Amen.
 
 > A Prayer for Healing.
 
@@ -372,16 +372,16 @@ JESUS said, Verily, verily, I say unto you, He that believeth on me hath everlas
 
 > When circumstances render it expedient to shorten the Service, the following form shall suffice:
 
-The Confession and the Absolution; Lift up your hearts, etc., through the Sanctus; The Prayer of Consecration, ending with these words, partakers of his most blessed Body and Blood; The Prayer of Humble Access; The Communion; The Lord's Prayer; The Blessing. And NOTE, That for the Confession and Absolution the following may be used.
+The Confession and the Absolution; Lift up your hearts, etc., through the Sanctus; The Prayer of Consecration, ending with these words, partakers of his most blessed Body and Blood; The Prayer of Humble Access; The Communion; The Lord’s Prayer; The Blessing. And NOTE, That for the Confession and Absolution the following may be used.
 
 > The Confession.
 
-O ALMIGHTY Father, Lord of heaven and earth, we confess that we have sinned against thee in thought, word, and deed. Have mercy upon us, O God, after thy great goodness; according to the multitude of thy mercies, do away our offences and cleanse us from our sins; for Jesus Christ's sake. Amen.
+O ALMIGHTY Father, Lord of heaven and earth, we confess that we have sinned against thee in thought, word, and deed. Have mercy upon us, O God, after thy great goodness; according to the multitude of thy mercies, do away our offences and cleanse us from our sins; for Jesus Christ’s sake. Amen.
 
 > The Absolution.
 
 THE Almighty and merciful Lord grant you Absolution and Remission of all your sins, true repentance, amendment of life, and the grace and consolation of his Holy Spirit. Amen.
 
-> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or by any other just impediment, do not receive the Sacrament of Christ's Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and stedfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his soul's health, although he do not receive the Sacrament with his mouth.
+> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or by any other just impediment, do not receive the Sacrament of Christ’s Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and stedfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his soul’s health, although he do not receive the Sacrament with his mouth.
 
 > This Office may be used with aged and bed-ridden persons, or such as are not able to attend the public Ministration in Church, substituting the Collect, Epistle, and Gospel for the Day, for those appointed above.

@@ -1,6 +1,6 @@
 <!-- BCP 1662 — reproduced with the Crown-copyright acknowledgment required in the UK; see NOTICE.md -->
 
-# Saint Stephen's Day
+# Saint Stephen’s Day
 
 ## The Collect
 
@@ -8,7 +8,7 @@ Grant, O Lord, that in all our sufferings here upon earth, for the testimony of 
 
 > December 26.
 
-> Then shall follow the Collect of the Nativity, which shall be said continually unto New-year's Eve.
+> Then shall follow the Collect of the Nativity, which shall be said continually unto New-year’s Eve.
 
 ## The Epistle
 

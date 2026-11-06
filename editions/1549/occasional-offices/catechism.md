@@ -72,7 +72,7 @@ X. Thou shalt not covet thy neighbours wife, nor his servaunt, nor his mayde, no
 
 **Answere.** My duetie towardes my neighbour is, to love hym as myselfe. And to do to al men as I would they should do to me. To love, honour, and succoure my father and mother. To honour and obey the kyng and his ministers. To submitte myselfe to all my governours, teachers, spirituall pastours, and maisters. To ordre myselfe lowlye and reverentelye to al my betters. To hurte no bodie by woorde nor dede. To bee true and just in al my dealing. To beare no malice nor hatred in my heart. To kepe my handes from picking and stealing, and my tongue from evill speaking, liyng, and slaundring. To kepe my bodie in temperaunce, sobreness, and chastitie. Not to covet nor desire other mennes goodes. But learne and laboure truely to geate my owne living, and to doe my duetie in that state of life: unto which it shal please God to cal me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 **Question.** My good sonne, knowe this, that thou arte not hable to do these thinges of thyself, nor to walke in the commaundementes of God and to serve him, without his speciall grace, which thou muste leame at all times to cal for by diligent prayer. Leat me heare therfore if thou canst say the Lordes prayer.
 

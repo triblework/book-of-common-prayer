@@ -44,7 +44,7 @@ AT a certaine time they brought children unto Christ that he should touche them,
 
 FRENDES, ye heare in this Gospell the wordes of oure saviour Christe, that he commaunded the chyldren to bee brought unto hym: howe he blamed those that woulde have kepte theym from him, howe he exhorted all men to folowe their innocencye: Ye perceive how by his outward gesture in dede he declared his good wil toward them. For he embraced them in his armes, he laied his hands upon them, and blessed them, doubt not you therefore, but earnestly beleve, that he hath likewise fauourably received this present infant, that he hathe embraced hym wyth the armes of hys mercy, that he hath geven unto him the blessing of eternal life, and made him partaker of his everlasting kingdom. Wherfore we beyng thus perswaded of the good wil of our heavenly father declared by his sonne Jesus Christ towards this infant, Let us faithfully and devoutly geve thankes unto him, and say the praier, which the lord him self taught, and in declaracion of our faith, let us recite the articles conteined in our Crede.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Here the Minister with the Godfathers, and Godmothers shall say.
 

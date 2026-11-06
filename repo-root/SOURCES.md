@@ -532,7 +532,8 @@ as its stops do (`RULINGS.md` R23). Wave 22's 94 keyed differences are switched
 on: 23 of the small-capital divine name (LORD, GOD, JEHOVAH), 22 verse-1
 openings, 49 other capitals. Nothing but letter case changed (86 verse lines).
 The ruling reaches no born-digital text layer: the 1979 Psalter's case still
-comes from its keying (R11). The possessive was ruled separately: the book sets
+comes from its keying (R11), except the possessive, which Wave 25 took from the
+publisher's font runs (below). The possessive was ruled separately: the book sets
 small-capital LORD, an apostrophe and a **lower-case s**, so these cells now
 print "LORD's" where they printed "LORD'S" (11 verses, each read by eye,
 `ingest/w24_eye.txt`). Small capitals are set as capitals; a lower-case letter
@@ -598,7 +599,50 @@ notes, refused glyph readings, the flagged verses, a running head).
 **Not taken.** Letter case (the PDF's font runs name the small capitals, so
 the small-capital LORD is recoverable; a pass of its own is queued), and 26
 lines that open an e-text italic mark never closed (not one of the ruled
-patterns).
+patterns). Wave 25 took the possessive of small-capital LORD from those font
+runs (below); the rest of that pass is still queued.
+
+### The apostrophe, and the possessive of small-capital LORD (Wave 25)
+
+**The apostrophe is one character in every edition (2026-11-06).** The keyings
+this repository was built from typed the printed apostrophe two ways, the
+straight `'` and the typographic `’`, sometimes both in one file, so a word could
+show as changed between two editions only because of the character. The
+maintainer ruled that every apostrophe in every cell is set as `’` (U+2019)
+(`RULINGS.md` R24): 1,250 apostrophes in 265 files of all twelve editions,
+nothing else in those files changed. No book prints a typewriter apostrophe,
+so this changes no reading; a file may now differ from its source's text in
+this one character. Quotation marks are not apostrophes and are left as they
+are: the 1979 text's single quotation marks stay straight. Three marks look
+like keying slips and are left for a reading against a page (a mark before
+*deliver* in the 1789, 1892 and 1928 collect for the Fourth Sunday in Advent;
+one after *may* in the 1892 prayer For Rain; a `‘` before *who seek* in the
+1928 Public Baptism). Prose in this document keeps the straight apostrophe.
+
+**The possessive of small-capital LORD**, outside the 1892 Psalter that Wave 24
+read:
+
+- **1892, the Churching office's psalm**: read by eye off the Standard Book
+  scan (scan page 331, book p. 303), a lower-case s, as in the Psalter. Now
+  *LORD’s* (R23).
+- **1928, the eleven Psalter verses**: read by eye in both printings, the
+  original 1928 printing and the 1952 facsimile. The book sets the whole
+  possessive in small capitals, including the S, so the files' *LORD’S* was
+  already right (small capitals are set as capitals). No change.
+- **1979, thirteen places**: Church Publishing's file cannot settle case from
+  its letters (R11), but it names the typeface of every glyph. The maintainer
+  reopened R11 for the possessive only (R25): the s takes its case from its
+  typeface, where an eye read of the rendered page agrees. Nine are a
+  lower-case s (Psalms 11:4, 22:29, 24:1, 27:18, 28:6, 33:11, 75:8, 118:23,
+  137:4); four are a small-capital S (Psalms 115:16 and 116:17, the copy of
+  116:17 in the Thanksgiving for the Birth or Adoption of a Child, and the
+  Burial office's "leisure" line, which the file had printed with a lower-case
+  s). 10 letters changed. The file is the publisher's typesetting, not a scan
+  of a 1979 printing; a scan of a pre-2006 printing would reopen it.
+
+This changes `texts/original` and `texts/normalized` at every tag (the
+apostrophe), with the possessives at `v1892` and `v1979`. No flag opened or
+closed.
 
 ---
 

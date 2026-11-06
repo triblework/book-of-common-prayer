@@ -90,7 +90,7 @@ The foolish body hath said in his heart : There is no God.
 
 > Deus, in nomine
 
-Save me, O God, for thy Name's sake : and avenge me in thy strength.
+Save me, O God, for thy Name’s sake : and avenge me in thy strength.
 
 2 Hear my prayer, O God : and hearken unto the words of my mouth.
 
@@ -180,7 +180,7 @@ Be merciful unto me, O God, for man goeth about to devour me : he is daily fight
 
 9 Whensoever I call upon thee, then shall mine enemies be put to flight : this I know; for God is on my side.
 
-10 In God's word will I rejoice : in the Lord's word will I comfort me.
+10 In God’s word will I rejoice : in the Lord’s word will I comfort me.
 
 11 Yea, in God have I put my trust : I will not be afraid what man can do unto me.
 
@@ -224,7 +224,7 @@ Are your minds set upon righteousness, O ye congregation : and do ye judge the t
 
 2 Yea, ye imagine mischief in your heart upon the earth : and your hands deal with wickedness.
 
-3 The ungodly are froward, even from their mother's womb : as soon as they are born, they go astray, and speak lies.
+3 The ungodly are froward, even from their mother’s womb : as soon as they are born, they go astray, and speak lies.
 
 4 They are as venomous as the poison of a serpent : even like the deaf adder that stoppeth her ears;
 
@@ -528,9 +528,9 @@ Let God arise, and let his enemies be scattered : let them also that hate him fl
 
 14 When the Almighty scattered kings for their sake : then were they as white as snow in Salmon.
 
-15 As the hill of Basan, so is God's hill : even an high hill, as the hill of Basan.
+15 As the hill of Basan, so is God’s hill : even an high hill, as the hill of Basan.
 
-16 Why hop ye so, ye high hills? this is God's hill, in the which it pleaseth him to dwell : yea, the Lord will abide in it for ever.
+16 Why hop ye so, ye high hills? this is God’s hill, in the which it pleaseth him to dwell : yea, the Lord will abide in it for ever.
 
 17 The chariots of God are twenty thousand, even thousands of angels : and the Lord is among them, as in the holy place of Sinai.
 
@@ -556,11 +556,11 @@ Let God arise, and let his enemies be scattered : let them also that hate him fl
 
 28 Thy God hath sent forth strength for thee : stablish the thing, O God, that thou hast wrought in us,
 
-29 For thy temple's sake at Jerusalem : so shall kings bring presents unto thee.
+29 For thy temple’s sake at Jerusalem : so shall kings bring presents unto thee.
 
 30 When the company of the spear-men, and multitude of the mighty are scattered abroad among the beasts of the people, so that they humbly bring pieces of silver : and when he hath scattered the people that delight in war;
 
-31 Then shall the princes come out of Egypt : the Morians' land shall soon stretch out her hands unto God.
+31 Then shall the princes come out of Egypt : the Morians’ land shall soon stretch out her hands unto God.
 
 32 Sing unto God, O ye kingdoms of the earth : O sing praises unto the Lord;
 
@@ -588,7 +588,7 @@ Save me, O God : for the waters are come in, even unto my soul.
 
 7 And why? for thy sake have I suffered reproof : shame hath covered my face.
 
-8 I am become a stranger unto my brethren : even an alien unto my mother's children.
+8 I am become a stranger unto my brethren : even an alien unto my mother’s children.
 
 9 For the zeal of thine house hath even eaten me : and the rebukes of them that rebuked thee are fallen upon me.
 
@@ -676,7 +676,7 @@ In thee, O Lord, have I put my trust, let me never be put to confusion : but rid
 
 4 For thou, O Lord God, art the thing that I long for : thou art my hope, even from my youth.
 
-5 Through thee have I been holden up ever since I was born : thou art he that took me out of my mother's womb; my praise shall be always of thee.
+5 Through thee have I been holden up ever since I was born : thou art he that took me out of my mother’s womb; my praise shall be always of thee.
 
 6 I am become as it were a monster unto many : but my sure trust is in thee.
 
@@ -716,7 +716,7 @@ In thee, O Lord, have I put my trust, let me never be put to confusion : but rid
 
 > Deus, judicium
 
-Give the King thy judgements, O God : and thy righteousness unto the King's son.
+Give the King thy judgements, O God : and thy righteousness unto the King’s son.
 
 2 Then shall he judge thy people according unto right : and defend the poor.
 
@@ -730,7 +730,7 @@ Give the King thy judgements, O God : and thy righteousness unto the King's son.
 
 7 In his time shall the righteous flourish : yea, and abundance of peace, so long as the moon endureth.
 
-8 His dominion shall be also from the one sea to the other : and from the flood unto the world's end.
+8 His dominion shall be also from the one sea to the other : and from the flood unto the world’s end.
 
 9 They that dwell in the wilderness shall kneel before him : his enemies shall lick the dust.
 
@@ -1018,7 +1018,7 @@ Hear my law, O my people : incline your ears unto the words of my mouth.
 
 25 He rained down manna also upon them for to eat : and gave them food from heaven.
 
-26 So man did eat angels' food : for he sent them meat enough.
+26 So man did eat angels’ food : for he sent them meat enough.
 
 27 He caused the east-wind to blow under heaven : and through his power he brought in the south-west-wind.
 
@@ -1090,7 +1090,7 @@ Hear my law, O my people : incline your ears unto the words of my mouth.
 
 61 So that he forsook the tabernacle in Silo : even the tent that he had pitched among men.
 
-62 He delivered their power into captivity : and their beauty into the enemy's hand.
+62 He delivered their power into captivity : and their beauty into the enemy’s hand.
 
 63 He gave his people over also unto the sword : and was wroth with his inheritance.
 
@@ -1134,11 +1134,11 @@ O God, the heathen are come into thine inheritance : thy holy temple have they d
 
 8 O remember not our old sins, but have mercy upon us, and that soon : for we are come to great misery.
 
-9 Help us, O God of our salvation, for the glory of thy Name : O deliver us, and be merciful unto our sins, for thy Name's sake.
+9 Help us, O God of our salvation, for the glory of thy Name : O deliver us, and be merciful unto our sins, for thy Name’s sake.
 
 10 Wherefore do the heathen say : Where is now their God?
 
-11 O let the vengeance of thy servants' blood that is shed : be openly shewed upon the heathen in our sight.
+11 O let the vengeance of thy servants’ blood that is shed : be openly shewed upon the heathen in our sight.
 
 12 O let the sorrowful sighing of the prisoners come before thee : according to the greatness of thy power, preserve thou those that are appointed to die.
 
@@ -1216,7 +1216,7 @@ Sing we merrily unto God our strength : make a cheerful noise unto the God of Ja
 
 12 But my people would not hear my voice : and Israel would not obey me.
 
-13 So I gave them up unto their own hearts' lusts : and let them follow their own imaginations.
+13 So I gave them up unto their own hearts’ lusts : and let them follow their own imaginations.
 
 14 O that my people would have hearkened unto me : for if Israel had walked in my ways,
 
@@ -1836,7 +1836,7 @@ The Lord is King, be the people never so unpatient : he sitteth between the cher
 
 3 They shall give thanks unto thy Name : which is great, wonderful, and holy.
 
-4 The King's power loveth judgement; thou hast prepared equity : thou hast executed judgement and righteousness in Jacob.
+4 The King’s power loveth judgement; thou hast prepared equity : thou hast executed judgement and righteousness in Jacob.
 
 5 O magnify the Lord our God : and fall down before his footstool, for he is holy.
 

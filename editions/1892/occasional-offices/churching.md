@@ -26,15 +26,15 @@ What reward shall I give unto the LORD, for all the benefits that he hath done u
 
 I will receive the cup of salvation, and call upon the Name of the LORD.
 
-I will pay my vows now in the presence of all his people; in the courts of the LORD'S house, even in the midst of thee, O Jerusalem. Praise the LORD.
+I will pay my vows now in the presence of all his people; in the courts of the LORD’s house, even in the midst of thee, O Jerusalem. Praise the LORD.
 
 Glory be to the Father, and to the Son, and to the Holy Ghost;
 
 As it was in the beginning, is now, and ever shall be, world without end.  Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> ¶ Then shall the Minister say the Lord's prayer, with what follows: but the Lord's Prayer may be omitted, if this be used with the Morning or Evening Prayer.
+> ¶ Then shall the Minister say the Lord’s prayer, with what follows: but the Lord’s Prayer may be omitted, if this be used with the Morning or Evening Prayer.
 <!-- VERIFY: 'sf' source (1892 PDF) prints 'sf this be used'; obvious OCR for 'if'; corrected; confirm against a page scan -->
 
 OUR Father, who art in heaven, Hallowed be thy Name.  Thy kingdom come.  Thy will be done on earth, As it is in heaven.  Give us this day our daily bread.  And forgive us our trespasses, As we forgive those who trespass against us.  And lead us not into temptation; But deliver us from evil. Amen.

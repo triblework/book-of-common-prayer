@@ -128,7 +128,7 @@ Glory to the father, &c.
 
 As it was in the beginning, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The psalme ended, and the maune and woman knelyng afore the aulter: the prieste standyng ot the aulter, and turnyng his face towarde them, shall saye.
 

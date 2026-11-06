@@ -55,7 +55,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer: the people also kneeling, and repeating it with him, both here, and wheresover else it is used in Divine Service.
+> Then the Minister shall kneel, and say the Lord’s Prayer: the people also kneeling, and repeating it with him, both here, and wheresover else it is used in Divine Service.
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
 Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
@@ -77,7 +77,7 @@ Amen.
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 **Priest.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## Venite
 
@@ -127,7 +127,7 @@ Thine honourable, true : and only Son;
 Also the Holy Ghost : the Comforter.
 Thou art the King of Glory : O Christ.
 Thou art the everlasting Son : of the Father.
-When thou tookest upon thee to deliver man : thou didst not abhor the Virgin's womb.
+When thou tookest upon thee to deliver man : thou didst not abhor the Virgin’s womb.
 When thou hadst overcome the sharpness of death : thou didst open the kingdom of heaven to all believers.
 Thou sittest at the right hand of God : in the glory of the Father.
 We believe that thou shalt come : to be our Judge.
@@ -184,7 +184,7 @@ As it was in the beginning, is now, and ever shall be : world without end. Amen.
 ## The Second Lesson
 
 > Then shall be read in like manner the Second Lesson, taken out of the New Testament.
-> And after that the Hymn following: Except when that shall happen to be read in the Chapter for the day, or for the Gospel on Saint John Baptist's Day.
+> And after that the Hymn following: Except when that shall happen to be read in the Chapter for the day, or for the Gospel on Saint John Baptist’s Day.
 
 ## Benedictus
 
@@ -216,9 +216,9 @@ For the Lord is gracious, his mercy is everlasting : and his truth endureth from
 Glory be to the Father, and to the Son : and to the Holy Ghost;
 As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be sung or said the Apostles' Creed, by the Minister and the people standing: Except only such days as the Creed of Saint Athanasius is appointed to be read.
+> Then shall be sung or said the Apostles’ Creed, by the Minister and the people standing: Except only such days as the Creed of Saint Athanasius is appointed to be read.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
 And in Jesus Christ his only Son our Lord, Who was conceived by the Holy Ghost, Born of the Virgin Mary, Suffered under Pontius Pilate, Was crucified, dead, and buried: He descended into hell; The third day he rose again from the dead; He ascended into heaven, And sitteth on the right hand of God the Father Almighty; From thence he shall come to judge the quick and the dead.
@@ -238,7 +238,7 @@ Amen.
 **Answer.** Christ, have mercy upon us.
 **Minister.** Lord, have mercy upon us.
 
-> Then the Minister, Clerks, and people shall say the Lord's Prayer with a loud voice.
+> Then the Minister, Clerks, and people shall say the Lord’s Prayer with a loud voice.
 
 Our Father, which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven.
 Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil.
@@ -284,7 +284,7 @@ Amen.
 
 > Then these five Prayers following are to be read here: Except when the Litany is read; and then only the two last are to be read, as they are there placed.
 
-## A Prayer for the King's Majesty
+## A Prayer for the King’s Majesty
 
 O Lord, our heavenly Father, high and mighty, King of kings, Lord of lords, the only Ruler of princes, who dost from thy throne behold all the dwellers upon earth: Most heartily we beseech thee with thy favour to behold our most gracious Sovereign Lord, King CHARLES; and so replenish him with the grace of thy Holy Spirit, that he may alway incline to thy will, and walk in thy way.
 Endue him plenteously with heavenly gifts; grant him in health and wealth long to live; strengthen him that he may vanquish and overcome all his enemies; and finally after this life he may attain everlasting joy and felicity; through Jesus Christ our Lord.

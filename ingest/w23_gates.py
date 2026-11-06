@@ -44,6 +44,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 WT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import w23_witness as W
+import w25_witness as W25   # R18 chain: Wave 25's R24 apostrophes and R25 keys on top
 
 findings = []
 COMPOSITE = ('tables/calendar.md', 'tables/eucharistic-lectionary.md')
@@ -156,6 +157,8 @@ def main():
             bad.append((rel, 'new cell not declared in this wave'))
             continue
         want = W.expected(rel, b, stage, bw)
+        if want is not None:
+            want = W25.apply('1979', rel, want)     # Wave 25 chained on top (R18)
         if want is None:
             bad.append((rel, 'present before its stage'))
         elif want != now(rel):
@@ -187,7 +190,9 @@ def main():
     check('no item targets calendar.md or eucharistic-lectionary.md',
           not tgt, tgt[:3])
     for rel in COMPOSITE:
-        check('%s is the base text' % rel, now(rel) == base(rel))
+        # Wave 25's R24 (apostrophe encoding, not a reading from the file) chained (R18);
+        # w25_gates checks that it is the ONLY change there.
+        check('%s is the base text' % rel, now(rel) == W25.apply('1979', rel, base(rel)))
 
     # 5. markup
     left = {}

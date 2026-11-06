@@ -89,7 +89,7 @@ N. I baptize thee in the name of the Father, and of the Sonne, and of the holy G
 
 > Then the Presbyter shall make a cross upon the Childes forehead, saying.
 
-We receive this Childe into the Church of Christ's flock, and do signe him with the signe of the Crosse, in token that hereafter he shall not be ashamed to confesse the Faith of Christ crucified, and stoutly to resist sin, the world, and the devil, and to continue Christs faithfull souldier and servant unto his lives end. Amen.
+We receive this Childe into the Church of Christ’s flock, and do signe him with the signe of the Crosse, in token that hereafter he shall not be ashamed to confesse the Faith of Christ crucified, and stoutly to resist sin, the world, and the devil, and to continue Christs faithfull souldier and servant unto his lives end. Amen.
 
 ## The Reception
 
@@ -97,7 +97,7 @@ We receive this Childe into the Church of Christ's flock, and do signe him with 
 
 Seeing now, dearly beloved brethren, that these children be regenerate and grafted into the body of Christs Church, let us give thanks unto God for these benefits, and with one accord make our prayers unto Almighty God, that they may lead the rest of their life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be said.
 

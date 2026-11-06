@@ -1,10 +1,10 @@
-# The Order for the Administration of the Lord's Supper, or Holy Communion.
+# The Order for the Administration of the Lord’s Supper, or Holy Communion.
 
 > If among those who come to be partakers of the Holy Communion, the Minister shall know any to be an open and notorious evil liver, or to have done any wrong to his neighbours by word or deed, so that the Congregation be hereby offended; he shall advertise him, that he presume not to come to the Lord’s Table, until he have openly declared himself to have truly repented and amended his former evil life, that the Congregation may thereby be satisfied; and that he hath recompensed the parties to whom he hath done wrong; or at least declare himself to be in full purpose so to do, as soon as he conveniently may.
 
 > The same order shall the Minister use with those, betwixt whom he perceiveth malice and hatred to reign; not suffering them to be partakers of the Lord’s Table, until he know them to be reconciled. And if one of the parties, so at variance, be content to forgive from the bottom of his heart all that the other hath trespassed against him, and to make amends for that wherein he himself hath offended; and the other party will not be persuaded to a godly unity, but remain still in his forwardness and malice; the Minister in that case ought to admit the penitent person to the Holy Communion, and not him that is obstinate. Provided, that every Minister so repelling any, as is herein specified, shall be obliged to give an account of the same to the Ordinary, within fourteen days after, at the farthest.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > The Table, at the Communion-time having a fair white linen cloth upon it, shall stand in the body of the Church, or in the Chancel. And the Minister, standing at the right side of the Table, or where Morning and Evening Prayer are appointed to be said, shall say the Lord’s Prayer and the Collect following, the People kneeling; but the Lord’s Prayer may be omitted, if Morning Prayer hath been said immediately before.
 
@@ -129,7 +129,7 @@ All things come of thee, O Lord, and of thine own have we given thee. 1 Chron. x
 
 <!-- VERIFY: spine prints 'under the direction the Minister'; a word ("of") appears to be dropped (received text: "under the direction of the Minister"); kept as printed; confirm against a page scan -->
 
-## The Prayer for the Whole State of Christ's Church
+## The Prayer for the Whole State of Christ’s Church
 
 > Then shall the Priest say,
 
@@ -263,7 +263,7 @@ THE Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body a
 
 > When all have communicated, the Minister shall return to the Lord’s Table and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Minister say the Lord’s Prayer, the People repeating after him every Petition.
 

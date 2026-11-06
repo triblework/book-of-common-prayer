@@ -122,7 +122,7 @@ We receive this Child into the congregation of Christ’s flock; and do sign him
 
 Seeing now dearly beloved brethren that this Child is regenerate and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him, that this Child may lead the rest of his life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be said, all kneeling,
 

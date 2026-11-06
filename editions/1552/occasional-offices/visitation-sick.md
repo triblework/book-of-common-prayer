@@ -2,17 +2,17 @@
 
 ## The Introduction
 
-> The Priest entering into the sicke person's house, shall saye,
+> The Priest entering into the sicke person’s house, shall saye,
 
 Peace be in this house, and to all that dwell in it.
 
 ## The Antiphon
 
-> When he cometh into the sick man's presence, he shall saye, kneling downe.
+> When he cometh into the sick man’s presence, he shall saye, kneling downe.
 
 REMEMBRE not, Lorde, oure iniquities, nor the iniquities of our forefathers. Spare us, good Lord, spare thy people, whom thou hast redemed with thy most precious bloud, and be not angry with us for ever.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde, have mercy upon us.
 
@@ -54,17 +54,17 @@ And leade us not into temptacion.
 
 O LORD, loke downe from heaven, behold, visite, and releve this thy servaunt: Looke upon him with the eyes of thy mercy, geve him comforte, and sure confidence in thee: Defende him from the daunger of the enemye, and keepe him in perpetuall peace, and safetie: through Jesus Christ our Lord. Amen.
 
-Heare us, almightie and most mercyful God and saviour. Extend thy accustomed goodnes to this thy servaunt, which is grieved with sicknes: Visite him, O Lorde, as thou diddeste visite Peter's wyve's mother and the Captayne's servaunt. So visite and restore unto this sycke person his former health, (yf it bee thy wyl) or els geve him grace so to take thy vysitacion, that after this paynfull lyfe ended, he maye dwell with thee in lyfe everlasting. Amen.
+Heare us, almightie and most mercyful God and saviour. Extend thy accustomed goodnes to this thy servaunt, which is grieved with sicknes: Visite him, O Lorde, as thou diddeste visite Peter’s wyve’s mother and the Captayne’s servaunt. So visite and restore unto this sycke person his former health, (yf it bee thy wyl) or els geve him grace so to take thy vysitacion, that after this paynfull lyfe ended, he maye dwell with thee in lyfe everlasting. Amen.
 
 ## The Exhortation
 
 > Then shall the Minister exhorte the sicke person after this fourme or other lyke.
 
-DERELY beloved, know this: that almightie God is the Lord of lyfe and death, and over all thinges to them perteyning, as youth, strength, health, age, weakenes, and sickenesse. Wherfore, whatsoever your sickenesse is, know you certaynlye that it is god's visitacion. And for what cause soever this sickenesse is sente unto you: whether it be to trie youre pacience for the example of other, and that your fayth may be found in the day of the lord laudable, glorious, and honorable, to the encrease of glory, and endlesse felicitie: Or els it be sent unto you to correct and amend in you, whatsoever doeth offend the eyes of our heavenly father: know you certainly, that yf you truely repent you of your sinnes, and beare your sickenes paciently, trustinge in god's mercye, for his dere sonne Jesus Christes sake, and rendre unto him humble thankes for his fatherly visitacion, submittinge yourself wholy to his wyll; it shall turne to your profit, and helpe you forward in the right way that leadeth unto everlasting lyfe.
+DERELY beloved, know this: that almightie God is the Lord of lyfe and death, and over all thinges to them perteyning, as youth, strength, health, age, weakenes, and sickenesse. Wherfore, whatsoever your sickenesse is, know you certaynlye that it is god’s visitacion. And for what cause soever this sickenesse is sente unto you: whether it be to trie youre pacience for the example of other, and that your fayth may be found in the day of the lord laudable, glorious, and honorable, to the encrease of glory, and endlesse felicitie: Or els it be sent unto you to correct and amend in you, whatsoever doeth offend the eyes of our heavenly father: know you certainly, that yf you truely repent you of your sinnes, and beare your sickenes paciently, trustinge in god’s mercye, for his dere sonne Jesus Christes sake, and rendre unto him humble thankes for his fatherly visitacion, submittinge yourself wholy to his wyll; it shall turne to your profit, and helpe you forward in the right way that leadeth unto everlasting lyfe.
 
 > Yf the person vysyted be very sicke, then the curate maye ende hys exhortacion in this place.
 
-Take therefore in good worth the chastement of the Lorde. For whom the Lorde loveth, he chastiseth. Yea, (as Sainct Paul sayth,) he skourgeth every sonne which he receyveth: yf you indure chastisement, he offreth him self unto you as unto his owne children. What sonne is he that the father chastiseth not? Yf ye be not under correccion (whereof all true children are partakers), then are ye bastardes and not children. Therfore seing that whan our carnal fathers do correcte us, we reverentlye obeye them: shall we not now much rather be obedient to our spiritual father, and so lyve? And they for a fewe dayes dooe chastise us after theyr owne pleasure: but he doeth chastise us for our profyt, to the intent he may make us partakers of his holynes. These wordes, good brother, are God's wordes, and written in holy scripture for oure comfort and instruccion, that we shoulde paciently and with thankesgeving beare our heavenly father's correccion, whansoever by anye maner of adversytie it shall please his gracious goodnes to vysit us. And there should be no greater comfort to christian persons, then to be made lyke unto Christe, by sufferinge paciently adversities, troubles, and sickenesses. For he himself went not up to joye, but fyrst he suffered payne: he entred not into his glorye before he was crucifyed. So truely oure waye to eternall joye is to suffre here with Christ, and our doore to entre into eternall lyfe is gladlye to dye with Christ, that we may ryse agayne from death, and dwel with him in everlastinge lyfe. Now therfore taking your sicknesse which is thus profytable for you, pacientely: I exhorte you in the name of God, to remembre the profession which you made unto God in your Baptisme. And forasmuch as after this lyfe there is accoumpte to be geven unto the righteous judge, of whom all muste be judged without respecte of persones: I requyre you to examine your self, and your state, both towarde God and man : so that accusing and condemning your self for your owne faultes, you may fynd mercy at our heavenly father's hande for Christ's sake, and not be accused and condemned in that feareful judgement. Therfore I shall shortely rehearse the articles of our faythe, that ye maye knowe whether you do beleve as a Christian man should, or no.
+Take therefore in good worth the chastement of the Lorde. For whom the Lorde loveth, he chastiseth. Yea, (as Sainct Paul sayth,) he skourgeth every sonne which he receyveth: yf you indure chastisement, he offreth him self unto you as unto his owne children. What sonne is he that the father chastiseth not? Yf ye be not under correccion (whereof all true children are partakers), then are ye bastardes and not children. Therfore seing that whan our carnal fathers do correcte us, we reverentlye obeye them: shall we not now much rather be obedient to our spiritual father, and so lyve? And they for a fewe dayes dooe chastise us after theyr owne pleasure: but he doeth chastise us for our profyt, to the intent he may make us partakers of his holynes. These wordes, good brother, are God’s wordes, and written in holy scripture for oure comfort and instruccion, that we shoulde paciently and with thankesgeving beare our heavenly father’s correccion, whansoever by anye maner of adversytie it shall please his gracious goodnes to vysit us. And there should be no greater comfort to christian persons, then to be made lyke unto Christe, by sufferinge paciently adversities, troubles, and sickenesses. For he himself went not up to joye, but fyrst he suffered payne: he entred not into his glorye before he was crucifyed. So truely oure waye to eternall joye is to suffre here with Christ, and our doore to entre into eternall lyfe is gladlye to dye with Christ, that we may ryse agayne from death, and dwel with him in everlastinge lyfe. Now therfore taking your sicknesse which is thus profytable for you, pacientely: I exhorte you in the name of God, to remembre the profession which you made unto God in your Baptisme. And forasmuch as after this lyfe there is accoumpte to be geven unto the righteous judge, of whom all muste be judged without respecte of persones: I requyre you to examine your self, and your state, both towarde God and man : so that accusing and condemning your self for your owne faultes, you may fynd mercy at our heavenly father’s hande for Christ’s sake, and not be accused and condemned in that feareful judgement. Therfore I shall shortely rehearse the articles of our faythe, that ye maye knowe whether you do beleve as a Christian man should, or no.
 
 ## The Examination
 
@@ -108,7 +108,7 @@ Deliver me (O my God) out of the hand of the ungodly : out of the hand of the un
 
 For thou (O Lorde God) art the thinge that I long for : thou art my hope, even from my youth.
 
-Throughe thee have I been holden up ever since I was borne; thou art he that toke me out of my mother's wombe; my prayse shall alway be of thee.
+Throughe thee have I been holden up ever since I was borne; thou art he that toke me out of my mother’s wombe; my prayse shall alway be of thee.
 
 I am become as it were a monstre unto many : but my sure trust is in thee.
 
@@ -160,7 +160,7 @@ THE almightie Lorde, which is a most stronge tower to all them that put their tr
 
 ## The Communion of the Sick
 
-> Forasmuch as all mortal men be subject to many sodayne perilles, diseases and sickenesses, and ever uncertayne what time they shal depart out of this lyfe: Therfore to thintent they may be alwayes in a readinesse to dye, whensoever it shal please almightie God to call them, the Curates shal diligentlye from tyme to tyme, but speciallye in the plague tyme, exhorte theyr parishioners to the oft receyving in the church of the holye communion of the body and bloud of our saviour Christ. Which (yf they do,) they shal have no cause, in theyr sodaine visitacion, to be unquieted for lacke of the same. But yf the sycke person be not liable to come to the church, and yet is desyrous to receyve the communion in hys house then he must geve knowledge overnyght, or els early in the morning to the Curate, signifyinge also howe manye be appoynted to communicate with hym. And havinge a convenient place in the syke man's house, where the Curate maye reverently minister, and a good nombre to receyve the communion wyth the sycke personne, with al thinges necessarye for thesame, he shall there minister the holye communion.
+> Forasmuch as all mortal men be subject to many sodayne perilles, diseases and sickenesses, and ever uncertayne what time they shal depart out of this lyfe: Therfore to thintent they may be alwayes in a readinesse to dye, whensoever it shal please almightie God to call them, the Curates shal diligentlye from tyme to tyme, but speciallye in the plague tyme, exhorte theyr parishioners to the oft receyving in the church of the holye communion of the body and bloud of our saviour Christ. Which (yf they do,) they shal have no cause, in theyr sodaine visitacion, to be unquieted for lacke of the same. But yf the sycke person be not liable to come to the church, and yet is desyrous to receyve the communion in hys house then he must geve knowledge overnyght, or els early in the morning to the Curate, signifyinge also howe manye be appoynted to communicate with hym. And havinge a convenient place in the syke man’s house, where the Curate maye reverently minister, and a good nombre to receyve the communion wyth the sycke personne, with al thinges necessarye for thesame, he shall there minister the holye communion.
 
 ## The Collect
 

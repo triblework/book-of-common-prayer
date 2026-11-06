@@ -46,7 +46,7 @@ Mark x.
 
 FRENDES, youe heare in this Gospell the wordes of our Saviour Christe, that he commaunded the chyldren to bee broughte unto him: howe he blamed those that woulde have kepte them from him: howe he exhorted all men to folow their innocencie: ye perceyne howe by his outwarde gesture and dede he declared his good wyll toward them. For he embrased them in his arms, he layde his handes upon them, and blessed them. Doubt ye not therefore, but earnestly believe, that he hath lykewise favourably receyved thys present infante, that he hath embrased him with the armes of his mercie, that he hath geven unto him the blessinge of eternall lyfe, and made him partaker of his everlasting kyngdome. Wherfore we beeing thus perswaded of the good wyll of our heavenly father, declared by hys sonne Jesus Christ towardes this infant: Let us faythfully and devoutly geve thankes unto hym, and saye the prayer which the Lorde himselfe taught; and in declaracion of our fayth, let us recyte the articles conteyned in our Crede.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Here the Ministre with the Godfathers and Godmothers shall say.
 

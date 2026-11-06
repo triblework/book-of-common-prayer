@@ -16,7 +16,7 @@ through Jesus Christ our Lorde. Amen.
 
 Introduced. Amen.
 
-in the late 1500's:. Amen.
+in the late 1500’s:. Amen.
 
 ALMYGHTIE. Amen.
 

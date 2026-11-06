@@ -4,7 +4,7 @@
 
 > In case of illness, the Minister of the Congregation is to be notified.
 
-> At the ministration, one or more parts of the following service are used, as appropriate; but when two or more are used together, they are used in the order indicated.  The Lord's Prayer is always included.
+> At the ministration, one or more parts of the following service are used, as appropriate; but when two or more are used together, they are used in the order indicated.  The Lord’s Prayer is always included.
 
 > Part One of this service may always be led by a deacon or lay person.
 
@@ -54,7 +54,7 @@ John 6:47-51    (I am the bread of life)
 
 > Prayers may be offered according to the occasion.
 
-> The Priest may suggest the making of a special confession, if the sick person's conscience is troubled, and use the form for the Reconciliation of a Penitent.
+> The Priest may suggest the making of a special confession, if the sick person’s conscience is troubled, and use the form for the Reconciliation of a Penitent.
 
 > Or else the following general confession may be said
 
@@ -84,7 +84,7 @@ N., I lay my hands upon you in the Name of the Father, and of the Son, and of th
 
 N., I lay my hands upon you in the Name of our Lord and Savior Jesus Christ, beseeching him to uphold you and fill you with his grace, that you may know the healing power of his love.  Amen.
 
-> If the person is to be anointed, the Priest dips a thumb in the holy oil, and makes the sign of the cross on the sick person's forehead, saying
+> If the person is to be anointed, the Priest dips a thumb in the holy oil, and makes the sign of the cross on the sick person’s forehead, saying
 
 N., I anoint you with oil in the Name of the Father, and of the Son, and of the Holy Spirit.  Amen.
 
@@ -94,7 +94,7 @@ As you are outwardly anointed with this holy oil, so may our heavenly Father gra
 
 > In cases of necessity, a deacon or lay person may perform the anointing, using oil blessed by a bishop or priest.
 
-> If Communion is not to follow, the Lord's Prayer is now said.
+> If Communion is not to follow, the Lord’s Prayer is now said.
 
 > The Priest concludes
 
@@ -104,7 +104,7 @@ The Almighty Lord, who is a strong tower to all who put their trust in him, to w
 
 > If the Eucharist is to be celebrated, the Priest begins with the [Peace and] Offertory.
 
-If Communion is to be administered from the reserved Sacrament, the form for Communion under Special Circumstances is used, beginning with the [Peace and] Lord's Prayer on page 398.
+If Communion is to be administered from the reserved Sacrament, the form for Communion under Special Circumstances is used, beginning with the [Peace and] Lord’s Prayer on page 398.
 
 > If the sick person cannot receive either the consecrated Bread or the Wine, it is suitable to administer the Sacrament in one kind only.
 
@@ -138,7 +138,7 @@ Heavenly Father, watch with us over your child N., and grant that he may be rest
 
 > or this
 
-Lord Jesus Christ, Good Shepherd of the sheep, you gather the lambs in your arms and carry them in your bosom: We commend to your loving care this child N.  Relieve his pain, guard him from all danger, restore to him your gifts of gladness and strength, and raise him up to a life of service to you.  Hear us, we pray, for your dear Name's sake. Amen.
+Lord Jesus Christ, Good Shepherd of the sheep, you gather the lambs in your arms and carry them in your bosom: We commend to your loving care this child N.  Relieve his pain, guard him from all danger, restore to him your gifts of gladness and strength, and raise him up to a life of service to you.  Hear us, we pray, for your dear Name’s sake. Amen.
 
 Before an Operation
 
@@ -170,7 +170,7 @@ O Lord, your compassions never fail and your mercies are new every morning: We g
 
 In Pain
 
-Lord Jesus Christ, by your patience in suffering you hallowed earthly pain and gave us the example of obedience to your Father's will: Be near me in my time of weakness and pain; sustain me by your grace, that my strength and courage may not fail; heal me according to your will; and help me always to believe that what happens to me here is of little account if you hold me in eternal life, my Lord and my God. Amen.
+Lord Jesus Christ, by your patience in suffering you hallowed earthly pain and gave us the example of obedience to your Father’s will: Be near me in my time of weakness and pain; sustain me by your grace, that my strength and courage may not fail; heal me according to your will; and help me always to believe that what happens to me here is of little account if you hold me in eternal life, my Lord and my God. Amen.
 
 For Sleep
 

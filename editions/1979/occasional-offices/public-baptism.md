@@ -4,7 +4,7 @@
 
 ## Concerning the Service
 
-> Holy Baptism is full initiation by water and the Holy Spirit into Christ's Body the Church.  The bond which God establishes in Baptism is indissoluble.
+> Holy Baptism is full initiation by water and the Holy Spirit into Christ’s Body the Church.  The bond which God establishes in Baptism is indissoluble.
 
 > Holy Baptism is appropriately administered within the Eucharist as the chief service on a Sunday or other feast.
 
@@ -44,7 +44,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 There is one Body and one Spirit;
 
-**People.**  There is one hope in God's call to us;
+**People.**  There is one hope in God’s call to us;
 
 **Celebrant.**  One Lord, one Faith, one Baptism;
 
@@ -130,7 +130,7 @@ Will you be responsible for seeing that the child you present is brought up in t
 
 **Parents and Godparents.**
 
-I will, with God's help.
+I will, with God’s help.
 
 **Celebrant.**
 
@@ -138,7 +138,7 @@ Will you by your prayers and witness help this child to grow into the full statu
 
 **Parents and Godparents.**
 
-I will, with God's help.
+I will, with God’s help.
 
 > Then the Celebrant asks the following questions of the candidates who can speak for themselves, and of the parents and godparents who speak on behalf of the infants and younger children
 
@@ -192,7 +192,7 @@ Do you renew your commitment to Jesus Christ?
 
 > Candidate
 
-I do, and with God's grace I will follow him as my Savior and Lord.
+I do, and with God’s grace I will follow him as my Savior and Lord.
 
 > After all have been presented, the Celebrant addresses the congregation, saying
 
@@ -220,25 +220,25 @@ He was conceived by the power of the Holy Spirit and born of the Virgin Mary. He
 
 **People.**  I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.
 
-**Celebrant.**  Will you continue in the apostles' teaching and fellowship, in the breaking of bread, and in the prayers?
+**Celebrant.**  Will you continue in the apostles’ teaching and fellowship, in the breaking of bread, and in the prayers?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Celebrant.**  Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord.
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Celebrant.**  Will you proclaim by word and example the Good News of God in Christ?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Celebrant.**  Will you seek and serve Christ in all persons, loving your neighbor as yourself?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Celebrant.**  Will you strive for justice and peace among all people, and respect the dignity of every human being?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 ## Prayers for the Candidates
 
@@ -322,9 +322,9 @@ Let us pray.
 
 Heavenly Father, we thank you that by water and the Holy Spirit you have bestowed upon these your servants the forgiveness of sin, and have raised them to the new life of grace.  Sustain them, O Lord, in your Holy Spirit.  Give them an inquiring and discerning heart, the courage to will and to persevere, a spirit to know and to love you, and the gift of joy and wonder in all your works.  Amen.
 
-> Then the Bishop or Priest places a hand on the person's head, marking on the forehead the sign of the cross [using Chrism if desired] and saying to each one
+> Then the Bishop or Priest places a hand on the person’s head, marking on the forehead the sign of the cross [using Chrism if desired] and saying to each one
 
-N., you are sealed by the Holy Spirit in Baptism and marked as Christ's own for ever.  Amen.
+N., you are sealed by the Holy Spirit in Baptism and marked as Christ’s own for ever.  Amen.
 
 > Or this action may be done immediately after the administration of the water and before the preceding prayer.
 
@@ -390,7 +390,7 @@ Almighty and everliving God, let your fatherly hand ever be over these your serv
 
 ## Alternative Ending
 
-> If there is no celebration of the Eucharist, the service continues with the Lord's Prayer
+> If there is no celebration of the Eucharist, the service continues with the Lord’s Prayer
 
 Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -406,7 +406,7 @@ Almighty God, the Father of our Lord Jesus Christ, from whom every family in hea
 
 ## Additional Directions
 
-> Holy Baptism is especially appropriate at the Easter Vigil, on the Day of Pentecost, on All Saints' Day or the Sunday after All Saints' Day, and on the Feast of the Baptism of our Lord (the First Sunday after the Epiphany).  It is recommended that, as far as possible, Baptisms be reserved for these occasions or when a bishop is present.
+> Holy Baptism is especially appropriate at the Easter Vigil, on the Day of Pentecost, on All Saints’ Day or the Sunday after All Saints’ Day, and on the Feast of the Baptism of our Lord (the First Sunday after the Epiphany).  It is recommended that, as far as possible, Baptisms be reserved for these occasions or when a bishop is present.
 
 > If on any one of the above-named days the ministry of a bishop or priest cannot be obtained, the bishop may specially authorize a deacon to preside.  In that case, the deacon omits the prayer over the candidates, page 308, and the formula and action which follow.
 

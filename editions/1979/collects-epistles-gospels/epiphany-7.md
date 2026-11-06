@@ -4,7 +4,7 @@
 
 ## The Collect
 
-O Lord, who hast taught us that all our doings without charity are nothing worth: Send thy Holy Ghost and pour into our hearts that most excellent gift of charity, the very bond of peace and of all virtues, without which whosoever liveth is counted dead before thee. Grant this for thine only Son Jesus Christ's sake, who liveth and reigneth with thee and the same Holy Ghost, one God, now and for ever. Amen.
+O Lord, who hast taught us that all our doings without charity are nothing worth: Send thy Holy Ghost and pour into our hearts that most excellent gift of charity, the very bond of peace and of all virtues, without which whosoever liveth is counted dead before thee. Grant this for thine only Son Jesus Christ’s sake, who liveth and reigneth with thee and the same Holy Ghost, one God, now and for ever. Amen.
 
 ## The Collect (Contemporary)
 

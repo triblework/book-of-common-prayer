@@ -18,6 +18,49 @@ wave guide.
 
 ---
 
+## CURRENT — WAVE 25 (the apostrophe, R24; the possessive of small-capital LORD, R25) BUILT + COMMITTED, NOT YET PUBLISHED
+
+A side session of the Wave 24 session, to clear Wave 24's queue. Guide:
+`ingest/WAVE25_GUIDE.md`. Two maintainer rulings, asked and answered in the
+Wave 25 session (2026-11-06):
+
+- **R24 — "Curly, all cells"** (my recommendation was straight; not taken):
+  every apostrophe in every cell is `’` (U+2019). 1,250 apostrophes in 265
+  cells of all twelve editions; quotation marks are not apostrophes (1979's
+  ten pairs of single quotation marks stay straight); comments untouched.
+  `tools/normalize.py` reads `’` as part of a word.
+- **R25** — the possessive outside the 1892 Psalter. 1892 Churching: eye
+  read off the scan (p. 331), lower-case s, R23 applies: 1 correction. 1928:
+  both printings set the S as a small capital, so `LORD’S` stands: no change.
+  1979: **R11 reopened for the possessive only** ("Reopen for the possessive
+  (Recommended)"): the s takes its case from the font run where the rendered
+  page agrees: 9 S → s, Burial s → S, 3 unchanged.
+
+Scripts: `w25_crop.py`, `w25_possessive.py`, `w25_fontruns.py`,
+`w25_eye.txt`, `w25_witness.py` (curl + POSSESSIVES + apply; run it to apply,
+`--check` to dry-run), `w25_apostrophes.py` (survey), `w25_gates.py`
+(`--selftest`), `gen_wave25_provenance.py` (265 records). Amended under R18:
+`w17_gates`, `w18_gates`, `w21_gates`, `w22_gates`, `w23_gates` (Wave 25
+chained on the expected side), `w14_fidelity` (folds `’` before attesting),
+`w13_render` (applies Wave 25 last, so the three Psalter builders still
+reproduce their cells), `gen_wave24_provenance.py` (keeps a later sentence).
+
+Gates: `w25_gates` 0 (containment vs `4bdec46e` over all 1,277 cells; only
+apostrophes and the 11 s's moved); every earlier gate 0; `w13_changelog`
+55/55; `verify_index --check` OK (350 / 438). No flag opened or closed.
+
+**Queue from this wave:** (1) three stray marks that look like keying slips,
+never read against a page: before *deliver* in the Advent 4 collect
+(1789/1892/1928), after *may* in 1892 For Rain (now `’`), a `‘` before *who
+seek* in 1928 Public Baptism; (2) the 1892 Churching psalm is keyed as prose
+(`people;`) where the book prints the mediant (`people :`) — the cell was
+never read against the scan, and its two flags (`sf`, `he applied`) could be
+closed off the same page (scan p. 331–332); (3) the rest of 1979's
+small-capital LORD (R11's queued pass; the font runs make it a mechanical pass
+with an eye check, as this wave did for 13 places).
+
+---
+
 ## CURRENT — WAVE 24 (letter case in the 1892 Psalter, R23) DONE + PUBLISHED (2026-11-06)
 
 **PUBLISHED 2026-11-06 (force-pushed with the maintainer's go-ahead, given in
@@ -77,6 +120,7 @@ commit, as always); `verify_index --check` OK (350 inline / 438 provenance).
 against the scan; the 1892 Psalter cells mix straight and curly apostrophes
 (18 curly, e.g. 147:11) — a normalization question, not case; 1928's and
 1979's possessives (*LORD'S*) have not been asked.
+*All three done in Wave 25 (R24, R25; block above).*
 
 ---
 
@@ -1811,8 +1855,9 @@ cost. Nothing over 5 MB was downloaded by the survey.
   2008 Calendar (R11 addendum); they need a scan of a pre-2006 printing. The
   file's font runs (Sabon-RomanSC) could recover the small-capital LORD — a
   pass of its own with its own gate, if the case limit in R11 is reopened.
-  Letter case in the 1892 Psalter (94 keyed differences, Wave 22) awaits a
-  ruling.
+  (Reopened for the POSSESSIVE only in Wave 25, R25: 13 places done; the rest
+  stays queued.) Letter case in the 1892 Psalter (94 keyed differences, Wave
+  22) was ruled in Wave 24 (R23).
 - **Not on justus (do not re-survey):** no 1549, 1552, 1559 or 1637 book scan
   (archive.org / Google Books links only, off the allow-list); every printed
   1662 book there is late (1717 Sturt, 1762 Baskerville as a re-setting, 1775,

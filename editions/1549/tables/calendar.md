@@ -326,7 +326,7 @@ October 30 | Sunday Letter: b | Psalter Day: 30 | Morning 1: Eccls. 2 | Morning 
 October 31 | Sunday Letter: c | Psalter Day: 30 | Morning 1: 4 | Morning 2: 17 | Evening 1: 5 | Evening 2: Collos. 1 | Kalendar Note: —
 ## November
 
-November 1 | Sunday Letter: d | Psalter Day: 1 | Morning 1: Sap. 3 | Morning 2: He 11,12 | Evening 1: Sap. 5 | Evening 2: Apoc. 1* | Kalendar Note: All Saints'
+November 1 | Sunday Letter: d | Psalter Day: 1 | Morning 1: Sap. 3 | Morning 2: He 11,12 | Evening 1: Sap. 5 | Evening 2: Apoc. 1* | Kalendar Note: All Saints’
 November 2 | Sunday Letter: e | Psalter Day: 2 | Morning 1: Eccle. 6 | Morning 2: Lu. 18 | Evening 1: Eccle. 7 | Evening 2: Collos. 2 | Kalendar Note: Andr. Ap.
 November 3 | Sunday Letter: f | Psalter Day: 3 | Morning 1: 8 | Morning 2: 19 | Evening 1: 9 | Evening 2: 3 | Kalendar Note: —
 November 4 | Sunday Letter: g | Psalter Day: 4 | Morning 1: 10 | Morning 2: 20 | Evening 1: 11 | Evening 2: 4 | Kalendar Note: —

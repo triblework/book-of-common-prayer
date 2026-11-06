@@ -62,7 +62,7 @@ Ye shall receive power, after that the Holy Ghost is come upon you; and ye shall
 
 Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.  Revelation 4:8
 
-> All Saints and other Major Saints' Days
+> All Saints and other Major Saints’ Days
 
 We give thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light. Colossians 1:12
 
@@ -165,7 +165,7 @@ Father, Son, and Holy Ghost, one God:  O come, let us adore him.
 
 > On other Sundays and weekdays
 
-The earth is the Lord's for he made it:  O come, let us adore him.
+The earth is the Lord’s for he made it:  O come, let us adore him.
 
 > or this
 
@@ -181,7 +181,7 @@ The mercy of the Lord is everlasting:  O come, let us adore him.
 
 [Alleluia.] The Word was made flesh and dwelt among us:  O come, let us adore him. [Alleluia.]
 
-> On all Saints and other Major Saints' Days
+> On all Saints and other Major Saints’ Days
 
 [Alleluia.]  The Lord is glorious in his saints:  O come, let us adore him.  [Alleluia.]
 
@@ -459,7 +459,7 @@ The glorious company of the apostles praise thee. The goodly fellowship of the p
 
 Thou art the King of glory, O Christ. Thou art the everlasting Son of the Father. When thou tookest upon thee to deliver man, thou didst humble thyself to be born of a Virgin. When thou hadst overcome the sharpness of death, thou didst open the kingdom of heaven to all believers. Thou sittest at the right hand of God, in the glory of the Father. We believe that thou shalt come to be our judge. We therefore pray thee, help thy servants, whom thou hast redeemed with thy precious blood. Make them to be numbered with thy saints, in glory everlasting.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Officiant and People together, all standing
 
@@ -621,7 +621,7 @@ Glory to God whose power, working in us, can do infinitely more than we can ask 
 
 ## Rite Two
 
-> The contemporary-language rite. Its opening — 'Lord, open our lips. / And our mouth shall proclaim your praise.' — is the tradition's most dramatic modernization.
+> The contemporary-language rite. Its opening — 'Lord, open our lips. / And our mouth shall proclaim your praise.' — is the tradition’s most dramatic modernization.
 
 > The Officiant begins the service with one or more of these sentences of Scripture, or with the versicle "Lord, open our lips" on page 80.
 
@@ -683,7 +683,7 @@ You shall receive power when the Holy Spirit has come upon you; and you shall be
 
 Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come!  Revelation 4:8
 
-> All Saints and other Major Saints' Days
+> All Saints and other Major Saints’ Days
 
 We give thanks to the Father, who has made us worthy to share in the inheritance of the saints in light.  Colossians 1:12
 
@@ -786,7 +786,7 @@ Father, Son, and Holy Spirit, one God:  Come let us adore him.
 
 > On other Sundays and weekdays
 
-The earth is the Lord's, for he made it:  Come let us adore him.
+The earth is the Lord’s, for he made it:  Come let us adore him.
 
 > or this
 
@@ -802,7 +802,7 @@ The mercy of the Lord is everlasting:  Come let us adore him.
 
 [Alleluia] The Word was made flesh and dwelt among us: Come let us adore him. [Alleluia]
 
-> On all Saints and other Major Saints' Days
+> On all Saints and other Major Saints’ Days
 
 [Alleluia.]  The Lord is glorious in his saints:  Come let us adore him.  [Alleluia.]
 
@@ -1262,9 +1262,9 @@ You are God:  we praise you; You are the Lord: we acclaim you; You are the etern
 
 The glorious company of apostles praise you. The noble fellowship of prophets praise you. The white-robed army of martyrs praise you. Throughout the world the holy Church acclaims you; Father, of majesty unbounded, your true and only Son, worthy of all worship, and the Holy Spirit, advocate and guide.
 
-You, Christ, are the king of glory, the eternal Son of the Father. When you became man to set us free you did not shun the Virgin's womb. You overcame the sting of death and opened the kingdom of heaven to all believers. You are seated at God's right hand in glory. We believe that you will come and be our judge. Come then, Lord, and help your people, bought with the price of your own blood, and bring us with your saints to glory everlasting.
+You, Christ, are the king of glory, the eternal Son of the Father. When you became man to set us free you did not shun the Virgin’s womb. You overcame the sting of death and opened the kingdom of heaven to all believers. You are seated at God’s right hand in glory. We believe that you will come and be our judge. Come then, Lord, and help your people, bought with the price of your own blood, and bring us with your saints to glory everlasting.
 
-### The Apostles' Creed
+### The Apostles’ Creed
 
 > Officiant and People together, all standing
 

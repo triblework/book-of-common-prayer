@@ -130,7 +130,7 @@ The Gospel of the Lord.
 
 > All now sit, except the bishop-elect, who stands facing the bishops. The Presiding Bishop addresses the bishop-elect
 
-My brother, the people have chosen you and have affirmed their trust in you by acclaiming your election.  A bishop in God's holy Church is called to be one with the apostles in proclaiming Christ's resurrection and interpreting the Gospel, and to testify to Christ's sovereignty as Lord of lords and Kings of kings.
+My brother, the people have chosen you and have affirmed their trust in you by acclaiming your election.  A bishop in God’s holy Church is called to be one with the apostles in proclaiming Christ’s resurrection and interpreting the Gospel, and to testify to Christ’s sovereignty as Lord of lords and Kings of kings.
 
 You are called to guard the faith, unity, and discipline of the Church; to celebrate and to provide for the administration of the sacraments of the New Covenant; to ordain priests and deacons and to join in ordaining bishops; and to be in all things a faithful pastor and wholesome example for the entire flock of Christ.
 
@@ -154,7 +154,7 @@ Are you persuaded that God has called you to the office of bishop?
 
 **Answer.**  I will, in the power of the Spirit.
 
-**Bishop.**  As a chief priest and pastor, will you encourage and support all baptized people in their gifts and ministries, nourish them from the riches of God's grace, pray for them without ceasing, and celebrate with them the sacraments of our redemption?
+**Bishop.**  As a chief priest and pastor, will you encourage and support all baptized people in their gifts and ministries, nourish them from the riches of God’s grace, pray for them without ceasing, and celebrate with them the sacraments of our redemption?
 
 **Answer.**  I will, in the name of Christ, the Shepherd and Bishop of our souls.
 
@@ -172,7 +172,7 @@ Are you persuaded that God has called you to the office of bishop?
 
 > All stand.  The Presiding Bishop then says
 
-N., through these promises you have committed yourself to God, to serve his Church in the office of bishop.  We therefore call upon you, chosen to be a guardian of the Church's faith, to lead us in confessing that faith.
+N., through these promises you have committed yourself to God, to serve his Church in the office of bishop.  We therefore call upon you, chosen to be a guardian of the Church’s faith, to lead us in confessing that faith.
 
 > Bishop-elect
 
@@ -240,7 +240,7 @@ The peace of the Lord be always with you.
 
 > Deacons prepare the Table.
 
-> Then the new Bishop goes to the Lord's Table as chief Celebrant and, joined by other bishops and presbyters, proceeds with the celebration of the Eucharist.
+> Then the new Bishop goes to the Lord’s Table as chief Celebrant and, joined by other bishops and presbyters, proceeds with the celebration of the Eucharist.
 
 ## After Communion
 

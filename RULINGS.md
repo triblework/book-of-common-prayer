@@ -152,6 +152,10 @@ the case limit above stands for now and its reopening is queued in
 `HANDOFF.md` §8 as a pass of its own with its own gate. *Reopened by:* a
 scan of a pre-2006 printing.
 
+*Second addendum (maintainer, 2026-11-06, Wave 25):* **reopened for the
+possessive of small-capital LORD only** — its s takes its case from the font
+run, where the eye agrees (R25). The case limit stands for everything else.
+
 ## R9 — Normalization is spelling only
 *Standing (`tools/normalization_rules.yaml`).*
 
@@ -516,6 +520,107 @@ case differently, or a decision to encode small capitals as such corpus-wide
 (which would reopen every LORD in the repo). *Not decided by this:* 1928's
 and 1979's possessives (their cells print "LORD'S" from their own carriers);
 each needs its own witness read for case — 1979's file cannot give it (R11).
+*(Both settled in Wave 25: see R25.)*
+
+## R24 — The apostrophe is encoded as ’ (U+2019), in every cell
+*(maintainer), 2026-11-06, Wave 25. Closes Wave 24's queued apostrophe question.*
+
+The question, as put to the maintainer in the Wave 25 session: the cells
+encoded the one printed apostrophe two ways — 1,247 straight (`'`, U+0027)
+and 202 curly (`’`, U+2019), the curly ones in 35 cells of 1637 (9), 1789
+(30), 1892 (89) and 1928 (74); 22 cells mixed both, and about 177 words showed
+as false changes between same-path cells of the American line (1662|1789 25,
+1789|1892 43, 1892|1928 74, 1928|1979 35; the viewer's Compare tokenizes on
+whitespace). Four options: straight in all cells (my recommendation: the
+majority form, and what the tooling and every doc use); straight in the 1892
+Psalter only; in `texts/normalized` only (which R9 would have had to widen);
+curly in all cells. The maintainer's answer: **"Curly, all cells".**
+
+- **Ruled:** every apostrophe in every cell, of every edition, is `’`. No book
+  prints a typewriter apostrophe; both characters were encodings of the one
+  printed mark, so no reading changes. Applied by script
+  (`ingest/w25_witness.curl`), file → file; `texts/original` and
+  `texts/normalized` both follow, since the build derives both from the cells.
+- **Governs:** every cell, present and future, and every builder that writes
+  one. A gate (`ingest/w25_gates.py`, R10) refuses a straight apostrophe in
+  any cell's text, and so any cell that mixes the two.
+- *My calls in carrying it out (2026-11-06; the maintainer may overturn any):*
+  (a) **A quotation mark is not an apostrophe.** The rule that tells them
+  apart: a straight mark after a letter or digit, followed by a letter (`don't`,
+  `1500's`) or by a non-letter (`Apostles' Creed`, the plural possessive), is
+  an apostrophe; a mark NOT after a letter or digit is a quotation mark and is
+  left as it is. Checked against the whole corpus before applying: 1979's ten
+  opening single quotation marks each pair with a closing one set after
+  punctuation (`praise.'`, `more,'`), so no closing quotation mark follows a
+  letter where the rule would take it for a possessive. 1979's quotation
+  marks stay straight; typographic quotation marks were not asked.
+  (b) **Three strays are left for a reading pass, not "fixed".** The Fourth
+  Sunday in Advent collect in 1789, 1892 and 1928 sets a mark before
+  `deliver` (not after a letter, so by the rule a quotation mark with no
+  partner: untouched); 1892's For Rain sets one after `may` (after a letter,
+  so by the rule an apostrophe: set `’` like the rest); 1928's Public Baptism
+  sets a `‘` (U+2018) before `who seek` (a quotation mark: untouched). Each
+  looks like a keying artifact of its carrier and is queued in HANDOFF; none
+  has been read against a page.
+  (c) **Comments are not cell text.** Inline `<!-- VERIFY -->` keys are
+  delimited by straight single quotes and must match `provenance.yaml` and
+  `SOURCES.md`; they are untouched, as are the published docs (README, NOTICE,
+  SOURCES), which are prose about the cells, not cells.
+  (d) **`tools/normalize.py` learns `’`** as a letter of a word, as it already
+  had `'`, so that normalization is unchanged apart from the character itself
+  (otherwise `Lord’s` would split into `Lord` + `s` and a whole-word rule could
+  start matching inside a possessive).
+  (e) **Headings change too** (`## The Apostles’ Creed`): in every edition
+  alike, so the cross-edition anchors still match; no slug or file path
+  changes (R5).
+- *Reopened by:* a decision to set typographic quotation marks as well, or a
+  tool that must have ASCII.
+
+## R25 — The possessive of small-capital LORD outside the 1892 Psalter; R11 reopened for the possessive
+*Wave 25, 2026-11-06. The 1892 and 1928 parts apply R23 as it stands; the 1979
+part is a maintainer ruling reopening R11 for this one class.*
+
+- **1892, the Churching office's psalm** (`occasional-offices/churching.md`,
+  the one "LORD'S" Wave 24 left): read by eye off the 1892 Standard Book scan,
+  page 331 (book p. 303): a lower-case s, as in all eleven Psalter verses.
+  R23 applies: one correction, S → s.
+- **1928, the eleven Psalter verses** (the same verses as 1892's): read by eye
+  in BOTH printings, the original (`1928/BCP1929.pdf`, R19) and the 1952
+  facsimile. In all eleven the letter after the apostrophe is a
+  **small-capital S** — level with the small capitals O R D and above the
+  lower-case s's of the same row. So the 1928 book sets the possessive all in
+  small capitals, and under R23's encoding (small capitals as capitals) the
+  cells' `LORD'S` was already right. **No case change in 1928.** (A pixel check
+  on the 1929 scan's grey image fragmented the glyphs and was discarded; the
+  reading is the eye's, `ingest/w25_eye.txt`.)
+- **1979: R11 reopened for the possessive (maintainer).** The question, as
+  put: R11 forbids taking case from Church Publishing's text layer, but its
+  font runs name each glyph's face; at the 13 places the 1979 cells print the
+  possessive of small-capital LORD, the runs and an eye read of the rendered
+  pages agree — 9 a lower-case s (Ps 11:4, 22:29, 24:1, 27:18, 28:6, 33:11,
+  75:8, 118:23, 137:4), 4 a small-capital S (Ps 115:16, Ps 116:17, the
+  Thanksgiving for a Child's copy of 116:17, and Burial's "leisure" line, where
+  the cell printed `LORD's`); following the book changes 10 letters; caveat:
+  the file is the publisher's typesetting, not a scan of a 1979 printing. My
+  recommendation was to reopen for the possessive only. The maintainer's
+  answer: **"Reopen for the possessive (Recommended)".**
+  - **Ruled:** a 1979 possessive's s takes its case from the face the file's
+    font run names for that glyph (Sabon-Roman → `s`, Sabon-RomanSC → `S`),
+    where an eye read of the rendered page agrees. 10 corrections (9 S → s,
+    Burial s → S). `ingest/w25_fontruns.py` is the evidence; `w25_gates`
+    checks every 1979 possessive against its run.
+  - **Not reopened:** the rest of 1979's small-capital LORD (the text layer's
+    "Lord" for the book's small capitals elsewhere) stays under R11 and its
+    queued pass (HANDOFF §8).
+  - *Reopened by:* a scan of a pre-2006 printing that sets a possessive
+    differently (the R11 addendum's condition).
+- **Why the three differ:** each book is followed as it prints. The 1892
+  Standard Book sets a lower-case s; the 1928 book sets a small-capital S;
+  Church Publishing's 1979 file sets a lower-case s in nine places and a
+  small-capital S in four — an inconsistency of that typesetting, carried as
+  printed.
+- *Interaction with R24:* every possessive is written with `’`
+  (`LORD’s`, `LORD’S`).
 
 ---
 

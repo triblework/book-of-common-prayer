@@ -227,7 +227,7 @@ O go your way into his gates wyth thankesgeving, and into his courtes wyth prays
 For the Lorde is gracious, his mercy is everlastyng : and his truth endureth from generacion to generacyon.
 Glory be to the Father, &c. As it was in the, &c. Amen.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shal be sayd the Crede, by the Minister and the people, standyng.
 

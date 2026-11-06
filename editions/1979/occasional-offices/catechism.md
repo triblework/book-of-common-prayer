@@ -6,7 +6,7 @@
 
 > This catechism is primarily intended for use by parish priests, deacons, and lay catechists, to give an outline for instruction. It is a commentary on the creeds, but is not meant to be a complete statement of belief and practice; rather, it is a point of departure for the teacher, and it is cast in the traditional question and answer form for ease of reference.
 
-> The second use of this catechism is to provide a brief summary of the Church's teaching for an inquiring stranger who picks up a Prayer Book.
+> The second use of this catechism is to provide a brief summary of the Church’s teaching for an inquiring stranger who picks up a Prayer Book.
 
 > It may also be used to form a simple service; since the matter is arranged under headings, it is suitable for selective use, and the leader may introduce prayers and hymns as needed.
 
@@ -14,7 +14,7 @@
 
 **Q.** What are we by nature?
 
-**A.** We are part of God's creation, made in the image of God.
+**A.** We are part of God’s creation, made in the image of God.
 
 **Q.** What does it mean to be created in the image of God?
 
@@ -48,7 +48,7 @@
 
 **Q.** What does this mean about our place in the universe?
 
-**A.** It means that the world belongs to its creator; and that we are called to enjoy it and to care for it in accordance with God's purposes.
+**A.** It means that the world belongs to its creator; and that we are called to enjoy it and to care for it in accordance with God’s purposes.
 
 **Q.** What does this mean about human life?
 
@@ -80,9 +80,9 @@
 
 **A.** The covenant with the Hebrew people is to be found in the books which we call the Old Testament.
 
-**Q.** Where in the Old Testament is God's will for us shown most clearly?
+**Q.** Where in the Old Testament is God’s will for us shown most clearly?
 
-**A.** God's will for us is shown most clearly in the Ten Commandments.
+**A.** God’s will for us is shown most clearly in the Ten Commandments.
 
 ## The Ten Commandments
 
@@ -106,7 +106,7 @@ II To put nothing in the place of God;
 
 III To show God respect in thought, word, and deed;
 
-IV And to set aside regular times for worship, prayer, and the study of God's ways.
+IV And to set aside regular times for worship, prayer, and the study of God’s ways.
 
 **Q.** What is our duty to our neighbors?
 
@@ -122,7 +122,7 @@ VIII To be honest and fair in our dealings; to seek justice, freedom, and the ne
 
 IX To speak the truth, and not to mislead others by our silence;
 
-X To resist temptations to envy, greed, and jealousy; to rejoice in other people's gifts and graces; and to do our duty for the love of God, who has called us into fellowship with him.
+X To resist temptations to envy, greed, and jealousy; to rejoice in other people’s gifts and graces; and to do our duty for the love of God, who has called us into fellowship with him.
 
 **Q.** What is the purpose of the Ten Commandments?
 
@@ -170,17 +170,17 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What do we mean when we say that Jesus was conceived by the power of the Holy Spirit and became incarnate from the Virgin Mary?
 
-**A.** We mean that by God's own act, his divine Son received our human nature from the Virgin Mary, his mother.
+**A.** We mean that by God’s own act, his divine Son received our human nature from the Virgin Mary, his mother.
 
 **Q.** Why did he take our human nature?
 
-**A.** The divine Son became human, so that in him human beings might be adopted as children of God, and be made heirs of God's kingdom.
+**A.** The divine Son became human, so that in him human beings might be adopted as children of God, and be made heirs of God’s kingdom.
 
-**Q.** What is the great importance of Jesus' suffering and death?
+**Q.** What is the great importance of Jesus’ suffering and death?
 
 **A.** By his obedience, even to suffering and death, Jesus made the offering which we could not make; in him we are freed from the power of sin and reconciled to God.
 
-**Q.** What is the significance of Jesus' resurrection?
+**Q.** What is the significance of Jesus’ resurrection?
 
 **A.** By his resurrection, Jesus overcame death and opened for us the way of eternal life.
 
@@ -236,11 +236,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** How many creeds does this Church use in its worship?
 
-**A.** This Church uses two creeds: The Apostles' Creed and the Nicene Creed.
+**A.** This Church uses two creeds: The Apostles’ Creed and the Nicene Creed.
 
-**Q.** What is the Apostles' Creed?
+**Q.** What is the Apostles’ Creed?
 
-**A.** The Apostles' Creed is the ancient creed of Baptism; it is used in the Church's daily worship to recall our Baptismal Covenant.
+**A.** The Apostles’ Creed is the ancient creed of Baptism; it is used in the Church’s daily worship to recall our Baptismal Covenant.
 
 **Q.** What is the Nicene Creed?
 
@@ -322,7 +322,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** Why is the Church described as holy?
 
-**A.** The Church is holy, because the Holy Spirit dwells in it, consecrates its members, and guides them to do God's work.
+**A.** The Church is holy, because the Holy Spirit dwells in it, consecrates its members, and guides them to do God’s work.
 
 **Q.** Why is the Church described as catholic?
 
@@ -330,7 +330,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** Why is the Church described as apostolic?
 
-**A.** The Church is apostolic, because it continues in the teaching and fellowship of the apostles and is sent to carry out Christ's mission to all people.
+**A.** The Church is apostolic, because it continues in the teaching and fellowship of the apostles and is sent to carry out Christ’s mission to all people.
 
 **Q.** What is the mission of the Church?
 
@@ -352,11 +352,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is the ministry of the laity?
 
-**A.** The ministry of lay persons is to represent Christ and his Church; to bear witness to him wherever they may be and, according to the gifts given them, to carry on Christ's work of reconciliation in the world; and to take their place in the life, worship, and governance of the Church.
+**A.** The ministry of lay persons is to represent Christ and his Church; to bear witness to him wherever they may be and, according to the gifts given them, to carry on Christ’s work of reconciliation in the world; and to take their place in the life, worship, and governance of the Church.
 
 **Q.** What is the ministry of a bishop?
 
-**A.** The ministry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ's name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ's ministry.
+**A.** The ministry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ’s name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ’s ministry.
 
 **Q.** What is the ministry of a priest or presbyter?
 
@@ -382,7 +382,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What prayer did Christ teach us?
 
-**A.** Our Lord gave us the example of prayer known as the Lord's Prayer.
+**A.** Our Lord gave us the example of prayer known as the Lord’s Prayer.
 
 > See page 364.
 
@@ -392,11 +392,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is adoration?
 
-**A.** Adoration is the lifting up of the heart and mind to God, asking nothing but to enjoy God's presence.
+**A.** Adoration is the lifting up of the heart and mind to God, asking nothing but to enjoy God’s presence.
 
 **Q.** Why do we praise God?
 
-**A.** We praise God, not to obtain anything, but because God's Being draws praise from us.
+**A.** We praise God, not to obtain anything, but because God’s Being draws praise from us.
 
 **Q.** For what do we offer thanksgiving?
 
@@ -412,11 +412,11 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What are intercession and petition?
 
-**A.** Intercession brings before god the needs of others; in petition, we present our own needs, that God's will may be done.
+**A.** Intercession brings before god the needs of others; in petition, we present our own needs, that God’s will may be done.
 
 **Q.** What is corporate worship?
 
-**A.** In corporate worship, we unite ourselves with others to acknowledge the holiness of God, to hear God's Word, to offer prayer, and to celebrate the sacraments.
+**A.** In corporate worship, we unite ourselves with others to acknowledge the holiness of God, to hear God’s Word, to offer prayer, and to celebrate the sacraments.
 
 ## The Sacraments
 
@@ -426,7 +426,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is grace?
 
-**A.** Grace is God's favor towards us, unearned and undeserved; by grace God forgives our sins, enlightens our minds, stirs our hearts, and strengthens our wills.
+**A.** Grace is God’s favor towards us, unearned and undeserved; by grace God forgives our sins, enlightens our minds, stirs our hearts, and strengthens our wills.
 
 **Q.** What are the two great sacraments of the Gospel?
 
@@ -436,7 +436,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is Holy Baptism?
 
-**A.** Holy Baptism is the sacrament by which God adopts us as his children and makes us members of Christ's Body, the Church, and inheritors of the kingdom of God.
+**A.** Holy Baptism is the sacrament by which God adopts us as his children and makes us members of Christ’s Body, the Church, and inheritors of the kingdom of God.
 
 **Q.** What is the outward and visible sign in Baptism?
 
@@ -444,7 +444,7 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** What is the inward and spiritual grace in Baptism?
 
-**A.** The inward and spiritual grace in Baptism is union with Christ in his death and resurrection, birth into God's family the Church, forgiveness of sins, and new life in the Holy Spirit.
+**A.** The inward and spiritual grace in Baptism is union with Christ in his death and resurrection, birth into God’s family the Church, forgiveness of sins, and new life in the Holy Spirit.
 
 **Q.** What is required of us at Baptism?
 
@@ -466,21 +466,21 @@ X To resist temptations to envy, greed, and jealousy; to rejoice in other people
 
 **Q.** Why is the Eucharist called a sacrifice?
 
-**A.** Because the Eucharist, the Church's sacrifice of praise and thanksgiving, is the way by which the sacrifice of Christ is made present, and in which he unites us to his one offering of himself.
+**A.** Because the Eucharist, the Church’s sacrifice of praise and thanksgiving, is the way by which the sacrifice of Christ is made present, and in which he unites us to his one offering of himself.
 
 **Q.** By what other names is this service known?
 
-**A.** The Holy Eucharist is called the Lord's Supper, and Holy Communion; it is also known as the Divine Liturgy, the Mass, and the Great Offering.
+**A.** The Holy Eucharist is called the Lord’s Supper, and Holy Communion; it is also known as the Divine Liturgy, the Mass, and the Great Offering.
 
 **Q.** What is the outward and visible sign in the Eucharist?
 
-**A.** The outward and visible sign in the Eucharist is bread and wine, given and received according to Christ's command.
+**A.** The outward and visible sign in the Eucharist is bread and wine, given and received according to Christ’s command.
 
 **Q.** What is the inward and spiritual grace given in the Eucharist?
 
 **A.** The inward and spiritual grace in the Holy Communion is the Body and Blood of Christ given to his people, and received by faith.
 
-**Q.** What are the benefits which we receive in the Lord's Supper?
+**Q.** What are the benefits which we receive in the Lord’s Supper?
 
 **A.** The benefits we receive are the forgiveness of our sins, the strengthening of our union with Christ and one another, and the foretaste of the heavenly banquet which is our nourishment in eternal life.
 
@@ -522,9 +522,9 @@ priests, and deacons, through prayer and the laying on of hands by bishops.
 
 **Q.** What is Unction of the Sick?
 
-**A.** Unction is the rite of anointing the sick with oil, or the laying on of hands, by which God's grace is given for the healing of spirit, mind, and body.
+**A.** Unction is the rite of anointing the sick with oil, or the laying on of hands, by which God’s grace is given for the healing of spirit, mind, and body.
 
-**Q.** Is God's activity limited to these rites?
+**Q.** Is God’s activity limited to these rites?
 
 **A.** God does not limit himself to these rites; they are patterns of countless ways by which God uses material things to reach out to us.
 
@@ -536,7 +536,7 @@ priests, and deacons, through prayer and the laying on of hands by bishops.
 
 **Q.** What is the Christian hope?
 
-**A.** The Christian hope is to live with confidence in newness and fullness of life, and to await the coming of Christ in glory, and the completion of God's purpose for the world.
+**A.** The Christian hope is to live with confidence in newness and fullness of life, and to await the coming of Christ in glory, and the completion of God’s purpose for the world.
 
 **Q.** What do we mean by the coming of Christ in glory?
 
@@ -548,7 +548,7 @@ priests, and deacons, through prayer and the laying on of hands by bishops.
 
 **Q.** Why do we pray for the dead?
 
-**A.** We pray for them, because we still hold them in our love, and because we trust that in God's presence those who have chosen to serve him will grow in his love, until they see him as he is.
+**A.** We pray for them, because we still hold them in our love, and because we trust that in God’s presence those who have chosen to serve him will grow in his love, until they see him as he is.
 
 **Q.** What do we mean by the last judgment?
 

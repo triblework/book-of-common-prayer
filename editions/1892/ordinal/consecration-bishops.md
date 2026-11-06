@@ -24,7 +24,7 @@ THIS is a true saying, If a man desire the Office of a Bishop, he desireth a goo
 
 > For the Epistle. Acts xx. 17.
 
-FROM Miletus, Paul sent to Ephesus, and called the Elders of the Church. And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears and temptations, which befell me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have showed you, and have taught you publicly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ. And now behold, I go bound in the spirit unto Jerusalem, not knowing the thing that shall befall me there; save that the Holy Ghost witnesseth in every city, saying, That bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry which I have received of the Lord Jesus, to testify the Gospel of the grace of God And now, behold, I know that ye all, among whom I have gone preaching the Kingdom of God, shall see my face no more. Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare unto you all the counsel of God. Take heed, therefore, unto yourselves, and to all the flock, over the which the Holy Ghost hath made you Overseers, to feed the Church of God, which he hath purchased with his own blood. For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them. Therefore watch, and remember, that by the space of three years, I ceased not to warn every one, night and day, with tears. And now, brethren, I commend you to God, and to the Word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no man's silver, or gold, or apparel; yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me. I have showed you all things, how that so labouring ye ought to support the weak; and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+FROM Miletus, Paul sent to Ephesus, and called the Elders of the Church. And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears and temptations, which befell me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have showed you, and have taught you publicly, and from house to house, testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ. And now behold, I go bound in the spirit unto Jerusalem, not knowing the thing that shall befall me there; save that the Holy Ghost witnesseth in every city, saying, That bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry which I have received of the Lord Jesus, to testify the Gospel of the grace of God And now, behold, I know that ye all, among whom I have gone preaching the Kingdom of God, shall see my face no more. Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare unto you all the counsel of God. Take heed, therefore, unto yourselves, and to all the flock, over the which the Holy Ghost hath made you Overseers, to feed the Church of God, which he hath purchased with his own blood. For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them. Therefore watch, and remember, that by the space of three years, I ceased not to warn every one, night and day, with tears. And now, brethren, I commend you to God, and to the Word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no man’s silver, or gold, or apparel; yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me. I have showed you all things, how that so labouring ye ought to support the weak; and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 ## The Gospel
 
@@ -90,7 +90,7 @@ ARE you persuaded that you are truly called to this Ministration, according to t
 
 ARE you persuaded that the Holy Scriptures contain all doctrine required as necessary for eternal salvation through faith in Jesus Christ? And are you determined out of the same Holy Scriptures to instruct the people committed to your charge; and to teach or maintain nothing, as necessary to eternal salvation, but that which you shall be persuaded may be concluded and proved by the same?
 
-**Answer.** I am so persuaded, and determined, by God's grace.
+**Answer.** I am so persuaded, and determined, by God’s grace.
 
 **The Presiding Bishop.**
 
@@ -100,7 +100,7 @@ WILL you then faithfully exercise yourself in the Holy Scriptures, and call upon
 
 **The Presiding Bishop.**
 
-ARE you ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrine contrary to God's Word; and both privately and openly to call upon and encourage others to the same?
+ARE you ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrine contrary to God’s Word; and both privately and openly to call upon and encourage others to the same?
 
 **Answer.** I am ready, the Lord being my helper.
 
@@ -112,7 +112,7 @@ WILL you deny all ungodliness and worldly lusts, and live soberly, righteously, 
 
 **The Presiding Bishop.**
 
-WILL you maintain and set forward, as much as shall lie in you, quietness, love, and peace among all men; and diligently exercise such discipline as by the authority of God's Word, and by the order of this Church, is committed to you?
+WILL you maintain and set forward, as much as shall lie in you, quietness, love, and peace among all men; and diligently exercise such discipline as by the authority of God’s Word, and by the order of this Church, is committed to you?
 
 **Answer.** I will so do, by the help of God.
 
@@ -124,9 +124,9 @@ WILL you be faithful in Ordaining, sending, or laying hands upon others?
 
 **The Presiding Bishop.**
 
-WILL you show yourself gentle, and be merciful for Christ's sake to poor and needy people, and to all strangers destitute of help?
+WILL you show yourself gentle, and be merciful for Christ’s sake to poor and needy people, and to all strangers destitute of help?
 
-**Answer.** I will so show myself, by God's help.
+**Answer.** I will so show myself, by God’s help.
 
 > Then the Presiding Bishop, standing up, shall say,
 

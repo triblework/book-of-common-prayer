@@ -1,4 +1,4 @@
-# A Commination, or Denouncing of God's Anger and Judgements against Sinners, with certain prayers to be used on the first day of Lent, and at other times, as the ordinary shall appoint.
+# A Commination, or Denouncing of God’s Anger and Judgements against Sinners, with certain prayers to be used on the first day of Lent, and at other times, as the ordinary shall appoint.
 
 ## The Introduction
 
@@ -6,7 +6,7 @@
 
 BRETHREN, in the primitive Church there was a godly discipline, that, at the beginning of Lent, such persons as stood convicted of notorious sin were put to open penance, and punished in this world, that their souls might be saved in the day of the Lord; and that others, admonished by their example, might be the more afraid to offend.
 
-Instead whereof, until the said discipline may be restored again, (which is much to be wished,) it is thought good that at this time (in the presence of you all) should be read the general sentences of God's cursing against impenitent sinners, gathered out of the seven and twentieth chapter of Deuteronomy, and other places of Scripture; and that ye should answer to every sentence, Amen: To the intent that, being admonished of the great indignation of God against sinners, ye may the rather be moved to earnest and true repentance; and may walk more warily in these dangerous days; fleeing from such vices, for which ye affirm with your own mouths the curse of God to be due.
+Instead whereof, until the said discipline may be restored again, (which is much to be wished,) it is thought good that at this time (in the presence of you all) should be read the general sentences of God’s cursing against impenitent sinners, gathered out of the seven and twentieth chapter of Deuteronomy, and other places of Scripture; and that ye should answer to every sentence, Amen: To the intent that, being admonished of the great indignation of God against sinners, ye may the rather be moved to earnest and true repentance; and may walk more warily in these dangerous days; fleeing from such vices, for which ye affirm with your own mouths the curse of God to be due.
 
 ## The Curses
 
@@ -20,7 +20,7 @@ Amen.
 
 **Answer.** Amen.
 
-**Minister.** Cursed is he that removeth his neighbour's land-mark.
+**Minister.** Cursed is he that removeth his neighbour’s land-mark.
 
 **Answer.** Amen.
 
@@ -36,7 +36,7 @@ Amen.
 
 **Answer.** Amen.
 
-**Minister.** Cursed is he that lieth with his neighbour's wife.
+**Minister.** Cursed is he that lieth with his neighbour’s wife.
 
 **Answer.** Amen.
 
@@ -104,7 +104,7 @@ Glory be to the Father, and to the Son : and to the Holy Ghost;
 
 **Answer.** As it was in the beginning, is now, and ever shall be : world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lord, have mercy upon us.
 
@@ -126,7 +126,7 @@ Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will
 
 **Minister.** Help us, O God our Saviour.
 
-**Answer.** And for the glory of thy Name deliver us; be merciful unto us sinners, for thy Name's sake.
+**Answer.** And for the glory of thy Name deliver us; be merciful unto us sinners, for thy Name’s sake.
 
 **Minister.** O Lord, hear our prayer.
 

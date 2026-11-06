@@ -16,13 +16,13 @@ DEARLY beloved, we are gathered together here in the sight of God, and in the fa
 
 > And also speaking unto the Persons who are to be married, he shall say,
 
-I REQUIRE and charge you both, (as ye will answer at the dreadful day of judgment when the secrets of all hearts shall be disclosed), that if either of you know any impediment why ye may not be lawfully joined together in Matrimony, ye do now confess it. For be ye well assured, that if any persons are joined together otherwise than as God's Word doth allow, their marriage is not lawful.
+I REQUIRE and charge you both, (as ye will answer at the dreadful day of judgment when the secrets of all hearts shall be disclosed), that if either of you know any impediment why ye may not be lawfully joined together in Matrimony, ye do now confess it. For be ye well assured, that if any persons are joined together otherwise than as God’s Word doth allow, their marriage is not lawful.
 
 > The Minister, if he shall have reason to doubt of the lawfulness of the proposed Marriage, may demand sufficient surety for his indemnification: but if no impediment shall be alleged, or suspected, the Minister shall say to the Man,
 
 ## The Consent
 
-M. WILT thou have this Woman to thy wedded wife, to live together after God's ordinance in the holy estate of Matrimony? Wilt thou love her, comfort her honour and keep her in sickness and in health; and, forsaking all others, keep thee only unto her, so long as ye both shall live?
+M. WILT thou have this Woman to thy wedded wife, to live together after God’s ordinance in the holy estate of Matrimony? Wilt thou love her, comfort her honour and keep her in sickness and in health; and, forsaking all others, keep thee only unto her, so long as ye both shall live?
 
 > The Man shall answer,
 
@@ -44,23 +44,23 @@ Who giveth this Woman to be married to this Man?
 
 ## The Vows
 
-> Then shall they give their troth to each other in this manner. The Minister, receiving the Woman at her father's or friend's hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
+> Then shall they give their troth to each other in this manner. The Minister, receiving the Woman at her father’s or friend’s hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
 
-I M. take thee N. to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
+I M. take thee N. to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.
 
 > Then shall they loose their hands; and the Woman with her right hand taking the Man by his right hand, shall likewise say after the Minister:
 
-I N. take thee M. to my wedded husband, to have and to hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
+I N. take thee M. to my wedded husband, to have and to hold, from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.
 
 ## The Ring
 
-> Then shall they again loose their hands and the Man shall give unto the Woman a Ring. And the Minister taking the Ring shall deliver it unto the Man, to put it upon the fourth finger of the Woman's left hand. And the Man holding the Ring there, and taught by the Minister, shall say,
+> Then shall they again loose their hands and the Man shall give unto the Woman a Ring. And the Minister taking the Ring shall deliver it unto the Man, to put it upon the fourth finger of the Woman’s left hand. And the Man holding the Ring there, and taught by the Minister, shall say,
 
 WITH this Ring I thee wed, and with all my worldly goods I thee endow: In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 ## The Prayer
 
-> Then the Man, leaving the Ring upon the fourth finger of the Woman's left hand, the Minister shall say,
+> Then the Man, leaving the Ring upon the fourth finger of the Woman’s left hand, the Minister shall say,
 
 > Let us pray
 

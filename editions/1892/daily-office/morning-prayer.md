@@ -6,7 +6,7 @@
 
 > On any day not a Sunday, he may omit the Exhortation following, saying instead thereof, Let us humbly confess our sins unto Almighty God, and may end the Morning Prayer with the Collect for Grace and 2 Cor. xiii. 14.
 
-> On any day when the Holy Communion is immediately to follow, the Minister may, at his discretion, pass at once from the Sentences to the Lord's Prayer, first pronouncing, The Lord be with you.
+> On any day when the Holy Communion is immediately to follow, the Minister may, at his discretion, pass at once from the Sentences to the Lord’s Prayer, first pronouncing, The Lord be with you.
 > Answer.
 > And with thy spirit.
 > Minister.
@@ -102,7 +102,7 @@ Wherefore let us beseech him to grant us true repentance, and his Holy Spirit, t
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
+> Then the Minister shall kneel, and say the Lord’s Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
 
 Our Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -127,7 +127,7 @@ Amen.
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 **Minister.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## Venite
 
@@ -266,9 +266,9 @@ Be ye sure that the LORD he is God; it is he that hath made us, and not we ourse
 O go your way into his gates with thanksgiving, and into his courts with praise : be thankful unto him, and speak good of his Name.
 For the LORD is gracious, his mercy is everlasting : and his truth endureth from generation to generation.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> Then shall be said the Apostles’ Creed by the Minister and the People, standing.
 > And any Churches may, instead of the words, He descended into hell, use the words, He went into the place of departed Spirits, which are considered as words of the same meaning in the Creed.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
@@ -333,7 +333,7 @@ Amen.
 O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations.
 More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life.
 Finally, we commend to thy fatherly goodness all those who are any ways afflicted, or distressed, in mind, body, or estate; [especially those for whom our prayers are desired;] that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions.
-And this we beg for Jesus Christ's sake.
+And this we beg for Jesus Christ’s sake.
 Amen.
 
 ## A General Thanksgiving

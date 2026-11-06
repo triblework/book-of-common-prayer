@@ -59,7 +59,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then shall the Presbyter or Minister begin the Lord's Prayer with a loud voice.
+> Then shall the Presbyter or Minister begin the Lord’s Prayer with a loud voice.
 > And in this, and in all other places of the Liturgy, where the last words, for thine is the kingdom, &c.
 > are expressed, the Presbyter shall reade them.
 > But in all places where they are not expressed, he shall end at the words, but deliver us from evil.
@@ -146,7 +146,7 @@ Thine honorable, true : and only Sonne.
 Also the Holy Ghost : the Comforter.
 Thou art the King of glory : O Christ.
 Thou art the everlasting Sonne : of the Father.
-When thou tookest upon thee to deliver man : thou didst not abhorre the Virgin's wombe.
+When thou tookest upon thee to deliver man : thou didst not abhorre the Virgin’s wombe.
 When thou haddest overcome the sharpnesse of death : thou didst open the kingdom of heaven to all believers.
 Thou sittest on the right hand of God : in the glory of the Father.
 We believe that thou shalt come : to be our Judge.
@@ -209,7 +209,7 @@ For the Lord is good; his mercy is everlasting : and his truth endureth to all g
 Glory be to the Father, and to the Son, &c.
 As it was in the beginning, is now, &c.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Then shall be said or sung the Creed by the Presbyter or Minister and the people standing.
 
@@ -230,7 +230,7 @@ Amen.
 **Answer.** Christ have mercy upon us.
 **Presbyter.** Lord have mercy upon us.
 
-> Then the Presbyter, Clerks, and People, shall say the Lord's Prayer, with a loud voice.
+> Then the Presbyter, Clerks, and People, shall say the Lord’s Prayer, with a loud voice.
 
 Our Father which art in heaven, hallowed be thy Name.
 Thy Kingdom come.

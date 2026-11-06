@@ -62,14 +62,14 @@ VERILY, verily, I say unto you, He that entereth not by the door into the sheep-
 
 > Then the Bishop shall say unto them as followeth.
 
-YE have heard, Brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel, and the writings of the Apostles, of what dignity, and of how great importance this Office is, whereunto ye are called. And now again we exhort you, in the Name of our Lord Jesus Christ, that ye have in remembrance, into how high a Dignity, and to how weighty an Office and Charge ye are called: that is to say, to the Messengers, Watchmen, and Stewards of the Lord; to teach, and to premonish, to feed and provide for the Lord's family; to seek for Christ's sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
+YE have heard, Brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel, and the writings of the Apostles, of what dignity, and of how great importance this Office is, whereunto ye are called. And now again we exhort you, in the Name of our Lord Jesus Christ, that ye have in remembrance, into how high a Dignity, and to how weighty an Office and Charge ye are called: that is to say, to the Messengers, Watchmen, and Stewards of the Lord; to teach, and to premonish, to feed and provide for the Lord’s family; to seek for Christ’s sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
 
 Have always therefore printed in your remembrance, how great a treasure is committed to your charge. For they are the sheep of Christ, which he bought with his death, and for whom he shed his blood. The Church and Congregation whom you must serve, is his Spouse, and his Body. And if it shall happen that the same Church, or any Member thereof, do take any hurt or hindrance by reason of your negligence ye know the greatness of the fault, and also the horrible punishment that will ensue. Wherefore consider with yourselves the end of the Ministry towards the children of God, towards the Spouse and Body of Christ; and see that ye never cease your labour, your care and diligence, until ye have done all that lieth in you, according to your bounden duty, to bring all such as are or shall be committed to your charge, unto that agreement in the faith and knowledge of God, and to that ripeness and perfectness of age in Christ that there be no place left among you, either for error in religion, or for viciousness in life.
 
 Forasmuch then as your Office is both of so great excellency, and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well to show yourselves dutiful and thankful unto that Lord, who hath placed you in so high a Dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend. Howbeit ye cannot have a mind and will thereto of yourselves; for that and ability is given of God alone: therefore ye ought, and have need, to pray earnestly for his Holy Spirit. And seeing that ye cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the Holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures; and for this self-same cause, how ye ought to forsake and set aside, as much as ye may, all worldly cares and studies.
 <!-- VERIFY: 'for that and ability'; the 1662 reads 'for that will and ability'; the 1789 justus HTML likely dropped 'will' in OCR; kept as printed; confirm against a 1789 page scan -->
 
-We have good hope that ye have well weighed these things with yourselves, long before this time; and that ye have clearly determined, by God's grace, to give yourselves wholly to this Office, whereunto it hath pleased God to call you: so that, as much as lieth in you, ye will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that ye will continually pray to God the Father, by the Mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing the Scriptures, ye may wax riper and stronger in your Ministry; and that ye may so endeavour yourselves, from time to time, to sanctify the lives of you and yours, and to fashion them after the Rule and Doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
+We have good hope that ye have well weighed these things with yourselves, long before this time; and that ye have clearly determined, by God’s grace, to give yourselves wholly to this Office, whereunto it hath pleased God to call you: so that, as much as lieth in you, ye will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that ye will continually pray to God the Father, by the Mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing the Scriptures, ye may wax riper and stronger in your Ministry; and that ye may so endeavour yourselves, from time to time, to sanctify the lives of you and yours, and to fashion them after the Rule and Doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
 
 And now, that this present Congregation of Christ may also understand your minds and wills in these things, and that this your promise may the more move you to do your duties; ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
 
@@ -83,7 +83,7 @@ DO you think in your heart, that you are truly called, according to the will of 
 
 ARE you persuaded that the Holy Scriptures contain all Doctrine required as necessary for eternal salvation through faith in Jesus Christ? And are you determined, out of the said Scriptures to instruct the people committed to your charge, and to teach nothing, as necessary to eternal salvation, but that which you shall be persuaded may be concluded and proved by the Scripture?
 
-**Answer.** I am so persuaded, and have so determined, by God's grace.
+**Answer.** I am so persuaded, and have so determined, by God’s grace.
 
 **The Bishop.**
 
@@ -93,7 +93,7 @@ WILL you then give your faithful diligence always so to minister the Doctrine an
 
 **The Bishop.**
 
-WILL you be ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrines contrary to God's Word; and to use both public and private monitions and exhortations, as well to the sick as to the whole, within your Cures, as need shall require, and occasion shall be given?
+WILL you be ready, with all faithful diligence, to banish and drive away from the Church all erroneous and strange doctrines contrary to God’s Word; and to use both public and private monitions and exhortations, as well to the sick as to the whole, within your Cures, as need shall require, and occasion shall be given?
 
 **Answer.** I will, the Lord being my helper.
 
@@ -206,17 +206,17 @@ The Unction spiritual.
 
 Thou in Thy gifts art manifold,
 
-By them Christ's Church doth stand:
+By them Christ’s Church doth stand:
 
-In faithful hearts Thou writ'st Thy law,
+In faithful hearts Thou writ’st Thy law,
 
-The finger of God's hand.
+The finger of God’s hand.
 
 According to Thy promise, Lord,
 
 Thou givest speech with grace;
 
-That, through Thy help, God's praises may
+That, through Thy help, God’s praises may
 
 Resound in every place.
 
@@ -230,7 +230,7 @@ To serve God day and night.
 
 Our weakness strengthen and confirm,
 
-(For, Lord, Thou know'st us frail;)
+(For, Lord, Thou know’st us frail;)
 
 That neither devil, world, nor
 <!-- VERIFY: 'That neither devil, world, nor'; the following metrical line likely began 'flesh,' (dropped in OCR — cf. 1662 'nor flesh, against us'); kept as printed; confirm against a 1789 page scan -->
@@ -257,7 +257,7 @@ Such measures of Thy powerful grace
 
 Grant, Lord, to us, we pray;
 
-That Thou may'st be our comforter
+That Thou may’st be our comforter
 
 At the last dreadful day.
 
@@ -299,7 +299,7 @@ Would please his Spirit to send
 
 On all that shall profess His Name,
 
-From hence to the world's end. Amen.
+From hence to the world’s end. Amen.
 
 ## The Ordering
 

@@ -1,10 +1,10 @@
 # The Order of Confirmation, Or Laying on of Hands upon Those that are Baptized, and come to Years of Discretion.
 
-> So soon as Children are come to a competent age, and can say the Creed, the Lord's Prayer, and the Ten Commandments and are sufficiently instructed in the matter contained in these Offices they shall be brought to the Bishop to be confirmed by him.
+> So soon as Children are come to a competent age, and can say the Creed, the Lord’s Prayer, and the Ten Commandments and are sufficiently instructed in the matter contained in these Offices they shall be brought to the Bishop to be confirmed by him.
 
 ## The Presentation
 
-> Upon the day appointed, all that are to be confirmed shall stand in order before the Bishop, sitting in his chair near to the Holy Table, the People all standing until the Lord's Prayer; and the Minister shall say,
+> Upon the day appointed, all that are to be confirmed shall stand in order before the Bishop, sitting in his chair near to the Holy Table, the People all standing until the Lord’s Prayer; and the Minister shall say,
 
 REVEREND Father in God, I present unto you these persons to receive the Laying on of Hands.
 
@@ -58,7 +58,7 @@ ALMIGHTY and everliving God, who hast vouchsafed to regenerate these thy servant
 
 DEFEND, O Lord, this thy Child with thy heavenly grace; that he may continue thine for ever; and daily increase in thy Holy Spirit more and more, until he come unto thy everlasting kingdom. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Bishop say,
 
@@ -69,7 +69,7 @@ The Lord be with you.
 
 **Bishop.** Let us pray.
 
-> Then shall the Bishop say the Lord's Prayer, the People kneeling and repeating it with him.
+> Then shall the Bishop say the Lord’s Prayer, the People kneeling and repeating it with him.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation, But deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -89,6 +89,6 @@ THE Blessing of God Almighty, the Father, the Son, and the Holy Ghost, be upon y
 
 ## The Rubrics
 
-> The Minister shall not omit earnestly to move the Persons confirmed to come, without delay, to the Lord's Supper.
+> The Minister shall not omit earnestly to move the Persons confirmed to come, without delay, to the Lord’s Supper.
 
 > And there shall none be admitted to the Holy Communion, until such time as he be confirmed, or be ready and desirous to be confirmed.

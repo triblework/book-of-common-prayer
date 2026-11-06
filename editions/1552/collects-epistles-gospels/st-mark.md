@@ -16,7 +16,7 @@ through Jesus Christ our Lorde.
 
 Introduced
 
-in the late 1500's:
+in the late 1500’s:
 
 ALMYGHTIE
 

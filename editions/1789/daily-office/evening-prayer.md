@@ -63,7 +63,7 @@ ALMIGHTY God, our heavenly Father, who of his great mercy hath promised forgiven
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
+> Then the Minister shall kneel, and say the Lord’s Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
 
 OUR Father who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 
@@ -80,7 +80,7 @@ O Lord, open thou our lips.
 **Minister.** Glory be to the Father, and to the Son, and to the Holy Ghost;
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end. Amen.
 **Minister.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## The Psalms
 
@@ -146,9 +146,9 @@ O praise the Lord, ye Angels of his, ye that excel in strength; ye that fulfil h
 O praise the Lord, all ye his hosts; ye servants of his that do his pleasure.
 O speak good of the Lord, all ye works of his, in all places of his dominion; praise thou the Lord, O my soul.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> Then shall be said the Apostles’ Creed by the Minister and the People, standing.
 
 I BELIEVE in God the Father Almighty, Maker of heaven and earth:
 And in Jesus Christ his only Son our Lord; Who was conceived by the Holy Ghost, Born of the Virgin Mary; Suffered under Pontius Pilate, Was crucified, dead, and buried; He descended into hell; The third day he rose from the dead; He ascended into heaven, And sitteth on the right hand of God the Father Almighty; From thence he shall come to judge the quick and the dead.
@@ -201,7 +201,7 @@ ALMIGHTY and everlasting God, from whom cometh every good and perfect gift; Send
 
 ## A Prayer for all Conditions of Men
 
-O GOD, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations. More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life. Finally, we commend to thy fatherly goodness all those who are any ways afflicted or distressed, in mind, body, or estate; that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions. And this we beg for Jesus Christ's sake. Amen.
+O GOD, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations. More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life. Finally, we commend to thy fatherly goodness all those who are any ways afflicted or distressed, in mind, body, or estate; that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions. And this we beg for Jesus Christ’s sake. Amen.
 
 ## A General Thanksgiving
 

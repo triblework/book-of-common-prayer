@@ -1,8 +1,8 @@
-# The Order for the Administration of the Lord's Supper, or Holy Communion.
+# The Order for the Administration of the Lord’s Supper, or Holy Communion.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> At the Communion time the Holy Table shall have upon it a fair white linen cloth, and the Priest, standing reverently before the Holy Table, shall say the Lord's Prayer and the Collect following, the people kneeling; but the Lord's Prayer may be omitted at the discretion of the Priest.
+> At the Communion time the Holy Table shall have upon it a fair white linen cloth, and the Priest, standing reverently before the Holy Table, shall say the Lord’s Prayer and the Collect following, the people kneeling; but the Lord’s Prayer may be omitted at the discretion of the Priest.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
 
@@ -68,7 +68,7 @@ Lord, have mercy upon us, and incline our hearts to keep this law.
 
 Thou shalt not covet
 
-thy neighbor's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+thy neighbor’s house, thou shalt not covet thy neighbour’s wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
 Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
@@ -122,7 +122,7 @@ Praise be to thee, O Christ.
 
 ## The Nicene Creed
 
-> ¶ Then shall be said the Creed commonly called the Nicene, or else the Apostles' Creed; but the Creed may be omitted, if it hath been said immediately before in Morning Prayer; Provided, That the Nicene creed shall be said on Christmas-day, Easter-day, Ascension-day, Whitsunday, and Trinity-Sunday.
+> ¶ Then shall be said the Creed commonly called the Nicene, or else the Apostles’ Creed; but the Creed may be omitted, if it hath been said immediately before in Morning Prayer; Provided, That the Nicene creed shall be said on Christmas-day, Easter-day, Ascension-day, Whitsunday, and Trinity-Sunday.
 
 I BELIEVE in one God the Father Almighty, Maker of heaven and earth, And of all things visible and invisible:
 
@@ -146,9 +146,9 @@ Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt
 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. St. Matt. vii. 21.
 He that soweth little shall reap little; and he that soweth plenteously shall reap plenteously. Let every man do according as he is disposed in his heart, not grudgingly, or of necessity; for God loveth a cheerful giver. 2 Cor. ix. 6, 7.
 While we have time, let us do good unto all men; and especially unto them that are of the household of faith. Gal. vi. 10.
-God is not unrighteous, that he will forget your works, and labour that proceedeth of love; which love ye have showed for his Name's sake, who have ministered unto the saints, and yet do minister. Heb. vi. 10.
+God is not unrighteous, that he will forget your works, and labour that proceedeth of love; which love ye have showed for his Name’s sake, who have ministered unto the saints, and yet do minister. Heb. vi. 10.
 To do good, and to distribute, forget not; for with such sacrifices God is well pleased. Heb. xiii. 16.
-Whoso hath this world's goods, and seeth his brother have need, and shutteth up his compassion from him, how dwelleth the love of God in him? 1 St. John iii. 17.
+Whoso hath this world’s goods, and seeth his brother have need, and shutteth up his compassion from him, how dwelleth the love of God in him? 1 St. John iii. 17.
 Be merciful after thy power. If thou hast much, give plenteously; if thou hast little, do thy diligence gladly to give of that little: for so gatherest thou thyself a good reward in the day of necessity. Tobit iv. 8,9.
 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me. St. Matt. xxv. 40.
 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? and how shall they preach, except they be sent? Rom. x. 14, 15.
@@ -167,11 +167,11 @@ All things come of thee, O LORD, and of thine own have we given thee. 1 Chron. x
 
 > ¶ Here the Priest may ask the secret intercessions of the Congregation for any who have desired the prayers of the Church.
 
-## The Prayer for the Whole State of Christ's Church
+## The Prayer for the Whole State of Christ’s Church
 
 > ¶ Then shall the Priest say,
 
-Let us pray for the whole state of Christ's Church.
+Let us pray for the whole state of Christ’s Church.
 
 ALMIGHTY and everliving God, who by thy holy Apostle hast taught us to make prayers, and supplications, and to give thanks for all men; We humbly beseech thee most mercifully to accept our [alms and] oblations, and to receive these our prayers, which we offer unto thy Divine Majesty; beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord: And grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
 
@@ -185,7 +185,7 @@ And to all thy People give thy heavenly grace; and especially to this congregati
 
 And we most humbly beseech thee, of thy goodness, O Lord, to comfort and succour all those who, in this transitory life, are in trouble, sorrow, need, sickness, or any other adversity.
 
-And we also bless thy holy Name for all thy servants departed this life in thy faith and fear; beseeching thee to grant them continual growth in thy love and service, and to give us grace so to follow their good examples, that with them we may be partakers of thy heavenly kingdom. Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate. Amen.
+And we also bless thy holy Name for all thy servants departed this life in thy faith and fear; beseeching thee to grant them continual growth in thy love and service, and to give us grace so to follow their good examples, that with them we may be partakers of thy heavenly kingdom. Grant this, O Father, for Jesus Christ’s sake, our only Mediator and Advocate. Amen.
 
 ## The Invitation
 
@@ -197,7 +197,7 @@ YE who do truly and earnestly repent you of your sins, and are in love and chari
 
 > Then shall this General Confession be made, by the Priest and all those who are minded to receive the Holy Communion, humbly kneeling.
 
-ALMIGHTY God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men; We acknowledge and bewail our manifold sins and wickedness, Which we, from time to time, most grievously have committed, By thought, word, and deed, Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ's sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
+ALMIGHTY God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men; We acknowledge and bewail our manifold sins and wickedness, Which we, from time to time, most grievously have committed, By thought, word, and deed, Against thy Divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ’s sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee In newness of life, To the honour and glory of thy Name; Through Jesus Christ our Lord. Amen.
 
 ## The Absolution
 
@@ -312,7 +312,7 @@ Therefore with Angels, etc.
 
 ALL SAINTS.
 
-> Upon All Saints' Day, and seven days after.
+> Upon All Saints’ Day, and seven days after.
 
 WHO, in the multitude of thy saints, hast compassed us about with so great a cloud of witnesses that we, rejoicing in their fellowship, may run with patience the race that is set before us, and together with them may receive the crown of glory that fadeth not away.
 
@@ -328,13 +328,13 @@ ALL glory be to thee, Almighty God, our heavenly Father, for that thou, of thy t
 
 WHEREFORE O Lord and heavenly Father, according to the institution of thy dearly beloved Son our Saviour Jesus Christ, we, thy humble servants, do celebrate and make here before thy Divine Majesty, with these thy holy gifts, which we now offer unto thee, the memorial thy Son hath commanded us to make; having in remembrance his blessed passion and precious death, his mighty resurrection and glorious ascension; rendering unto thee most hearty thanks for the innumerable benefits procured unto us by the same.
 
-AND we most humbly beseech thee, O merciful Father, to hear us; and, of thy almighty goodness, vouchsafe to bless and sanctify, with thy Word and Holy Spirit, these thy gifts and creatures of bread and wine; that we, receiving them according to thy Son our Saviour Jesus Christ's holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood.
+AND we most humbly beseech thee, O merciful Father, to hear us; and, of thy almighty goodness, vouchsafe to bless and sanctify, with thy Word and Holy Spirit, these thy gifts and creatures of bread and wine; that we, receiving them according to thy Son our Saviour Jesus Christ’s holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood.
 
 ## The Prayer of Oblation
 
 AND we earnestly desire thy fatherly goodness, mercifully to accept this our sacrifice of praise and thanksgiving; most humbly beseeching thee to grant that, by the merits and death of thy Son Jesus Christ, and through faith in his blood, we, and all thy whole Church, may obtain remission of our sins, and all other benefits of his passion. And here we offer and present unto thee, O Lord, our selves, our souls and bodies, to be a reasonable, holy, and living sacrifice unto thee; humbly beseeching thee, that we, and all others who shall be partakers of this Holy Communion, may worthily receive the most precious Body and Blood of thy Son Jesus Christ, be filled with thy grace and heavenly benediction, and made one body with him, that he may dwell in us, and we in him. And although we are unworthy, through our manifold sins, to offer unto thee any sacrifice; yet we beseech thee to accept this our bounden duty and service; not weighing our merits, but pardoning our offences, through Jesus Christ our Lord; by whom, and with whom, in the unity of the Holy Ghost, all honour and glory be unto thee, O Father Almighty, world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 And now, as our Saviour Christ hath taught us, we are bold to say,
 
@@ -342,7 +342,7 @@ OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will 
 
 ## The Prayer of Humble Access
 
-> ¶ Then shall the Priest, kneeling down at the Lord's Table, say, in the name of all those who shall receive the Communion, this Prayer following.
+> ¶ Then shall the Priest, kneeling down at the Lord’s Table, say, in the name of all those who shall receive the Communion, this Prayer following.
 
 WE do not presume to come to this thy Table, O merciful Lord, trusting in our own righteousness, but in thy manifold and great mercies. We are not worthy so much as to gather up the crumbs under thy Table. But thou art the same Lord, whose property is always to have mercy: Grant us therefore, gracious Lord, so to eat the flesh of thy dear Son Jesus Christ, and to drink his blood, that our sinful bodies may be made clean by his Body, and our souls washed through his most precious Blood, and that we may evermore dwell in him, and he in us. Amen.
 
@@ -356,11 +356,11 @@ THE Body of our Lord Jesus Christ, which was given for thee, preserve thy body a
 
 > ¶ And the Minister who delivereth the Cup shall say,
 
-THE Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body and soul unto everlasting life. Drink this in remembrance that Christ's Blood was shed for thee, and be thankful.
+THE Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body and soul unto everlasting life. Drink this in remembrance that Christ’s Blood was shed for thee, and be thankful.
 
 > If the consecrated Bread or Wine be spent before all have communicated, the Priest is to consecrate more, according to the Form before prescribed; beginning at, All glory be to thee, Almighty God, and ending with these words, partakers of his most blessed Body and Blood.
 
-> ¶ When all have communicated, the Priest shall return to the Lord's Table, and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.
+> ¶ When all have communicated, the Priest shall return to the Lord’s Table, and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.
 
 ## The Prayer of Thanksgiving
 
@@ -394,9 +394,9 @@ THE Peace of God, which passeth all understanding, keep your hearts and minds in
 
 > ¶ And if any of the consecrated Bread and Wine remain after the Communion, it shall not be carried out of the Church; but the Minister and other Communicants shall, immediately after the Blessing, reverently eat and drink the same.
 
-> ¶ If among those who come to be partakers of the Holy Communion, the Minister shall know any to be an open and notorious evil liver, or to have done any wrong to his neighbours by word or deed, so that the Congregation be thereby offended; he shall advertise him, that he presume not to come to the Lord's Table, until he have openly declared himself to have truly repented and amended his former evil life, that the Congregation may thereby be satisfied; and that he hath recompensed the parties to whom he hath done wrong; or at least declare himself to be in full purpose so to do, as soon as he conveniently may.
+> ¶ If among those who come to be partakers of the Holy Communion, the Minister shall know any to be an open and notorious evil liver, or to have done any wrong to his neighbours by word or deed, so that the Congregation be thereby offended; he shall advertise him, that he presume not to come to the Lord’s Table, until he have openly declared himself to have truly repented and amended his former evil life, that the Congregation may thereby be satisfied; and that he hath recompensed the parties to whom he hath done wrong; or at least declare himself to be in full purpose so to do, as soon as he conveniently may.
 
-> The same order shall the Minister use with those, betwixt whom he perceiveth malice and hatred to reign; not suffering them to be partakers of the Lord's Table, until he know them to be reconciled. And if one of the parties, so at variance, be content to forgive from the bottom of his heart all that the other hath trespassed against him, and to make amends for that wherein he himself hath offended; and the other party will not be persuaded to a godly unity, but remain still in his forwardness and malice; the Minister in that case ought to admit the penitent person to the Holy Communion, and not him that is obstinate. Provided, That every Minister so repelling any, as is herein specified, shall be obliged to give an account of the same to the Ordinary, within fourteen days after, at the farthest.
+> The same order shall the Minister use with those, betwixt whom he perceiveth malice and hatred to reign; not suffering them to be partakers of the Lord’s Table, until he know them to be reconciled. And if one of the parties, so at variance, be content to forgive from the bottom of his heart all that the other hath trespassed against him, and to make amends for that wherein he himself hath offended; and the other party will not be persuaded to a godly unity, but remain still in his forwardness and malice; the Minister in that case ought to admit the penitent person to the Holy Communion, and not him that is obstinate. Provided, That every Minister so repelling any, as is herein specified, shall be obliged to give an account of the same to the Ordinary, within fourteen days after, at the farthest.
 
 ## The Exhortations
 
@@ -406,12 +406,12 @@ DEARLY beloved in the Lord, ye who mind to come to the holy Communion of the Bod
 
 > ¶ When the Minister giveth warning for the Celebration of the Holy Communion, (which he shall always do upon the Sunday, or some Holy-day, immediately preceding,) he shall read this Exhortation following, or so much thereof as, in his discretion, he may think convenient.
 
-DEARLY beloved, on——day next I purpose, through God's assistance, to administer to all such as shall be religiously and devoutly disposed the most comfortable Sacrament of the Body and Blood of Christ; to be by them received in remembrance of his meritorious Cross and Passion; whereby alone we obtain remission of our sins, and are made partakers of the Kingdom of heaven. Wherefore it is our duty to render most humble and hearty thanks to Almighty God, our heavenly Father, for that he hath given his Son our Saviour Jesus Christ, not only to die for us, but also to be our spiritual food and sustenance in that holy Sacrament. Which being so divine and comfortable a thing to them who receive it worthily, and so dangerous to those who will presume to receive it unworthily; my duty is to exhort you, in the mean season to consider the dignity of that holy mystery, and the great peril of the unworthy receiving thereof; and so to search and examine your own consciences, and that not lightly, and after the manner of dissemblers with God; but so that ye may come holy and clean to such a heavenly Feast, in the marriage-garment required by God in holy Scripture, and be received as worthy partakers of that holy Table.
+DEARLY beloved, on——day next I purpose, through God’s assistance, to administer to all such as shall be religiously and devoutly disposed the most comfortable Sacrament of the Body and Blood of Christ; to be by them received in remembrance of his meritorious Cross and Passion; whereby alone we obtain remission of our sins, and are made partakers of the Kingdom of heaven. Wherefore it is our duty to render most humble and hearty thanks to Almighty God, our heavenly Father, for that he hath given his Son our Saviour Jesus Christ, not only to die for us, but also to be our spiritual food and sustenance in that holy Sacrament. Which being so divine and comfortable a thing to them who receive it worthily, and so dangerous to those who will presume to receive it unworthily; my duty is to exhort you, in the mean season to consider the dignity of that holy mystery, and the great peril of the unworthy receiving thereof; and so to search and examine your own consciences, and that not lightly, and after the manner of dissemblers with God; but so that ye may come holy and clean to such a heavenly Feast, in the marriage-garment required by God in holy Scripture, and be received as worthy partakers of that holy Table.
 
-The way and means thereto is: First, to examine your lives and conversations by the rule of God's commandments; and whereinsoever ye shall perceive yourselves to have offended, either by will, word, or deed, there to bewail your own sinfulness, and to confess yourselves to Almighty God, with full purpose of amendment of life. And if ye shall perceive your offences to be such as are not only against God, but also against your neighbours; then ye shall reconcile yourselves unto them; being ready to make restitution and satisfaction, according to the uttermost of your powers, for all injuries and wrongs done by you to any other; and being likewise ready to forgive others who have offended you, as ye would have forgiveness of your offences at God's hand: for otherwise the receiving of the holy Communion doth nothing else but increase your condemnation. Therefore, if any of you be a blasphemer of God, an hinderer or slanderer of his Word, an adulterer, or be in malice, or envy, or in any other grievous crime; repent you of your sins, or else come not to that holy Table.
+The way and means thereto is: First, to examine your lives and conversations by the rule of God’s commandments; and whereinsoever ye shall perceive yourselves to have offended, either by will, word, or deed, there to bewail your own sinfulness, and to confess yourselves to Almighty God, with full purpose of amendment of life. And if ye shall perceive your offences to be such as are not only against God, but also against your neighbours; then ye shall reconcile yourselves unto them; being ready to make restitution and satisfaction, according to the uttermost of your powers, for all injuries and wrongs done by you to any other; and being likewise ready to forgive others who have offended you, as ye would have forgiveness of your offences at God’s hand: for otherwise the receiving of the holy Communion doth nothing else but increase your condemnation. Therefore, if any of you be a blasphemer of God, an hinderer or slanderer of his Word, an adulterer, or be in malice, or envy, or in any other grievous crime; repent you of your sins, or else come not to that holy Table.
 
-And because it is requisite that no man should come to the holy Communion, but with a full trust in God's mercy, and with a quiet conscience; therefore, if there be any of you, who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other Minister of God's Word, and open his grief; that he may receive such godly counsel and advice, as may tend to the quieting of his conscience, and the removing of all scruple and doubtfulness.
+And because it is requisite that no man should come to the holy Communion, but with a full trust in God’s mercy, and with a quiet conscience; therefore, if there be any of you, who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other Minister of God’s Word, and open his grief; that he may receive such godly counsel and advice, as may tend to the quieting of his conscience, and the removing of all scruple and doubtfulness.
 
 > ¶ Or, in case he shall see the People negligent to come to the Holy Communion, instead of the former, he may use this Exhortation.
 
-DEARLY beloved brethren, on——I intend, by God's grace, to celebrate the Lord's Supper: unto which, in God's behalf, I bid you all who are here present; and beseech you, for the Lord Jesus Christ's sake, that ye will not refuse to come thereto, being so lovingly called and bidden by God himself. Ye know how grievous and unkind a thing it is, when a man hath prepared a rich feast, decked his table with all kind of provision, so that there lacketh nothing but the guests to sit down; and yet they who are called, without any cause, most unthankfully refuse to come. Which of you in such a case would not be moved? Who would not think a great injury and wrong done unto him? Wherefore, most dearly beloved in Christ, take ye good heed, lest ye, withdrawing yourselves from this holy Supper, provoke God's indignation against you. It is an easy matter for a man to say, I will not communicate, because I am otherwise hindered with worldly business. But such excuses are not so easily accepted and allowed before God. If any man say, I am a grievous sinner, and therefore am afraid to come: wherefore then do ye not repent and amend? When God calleth you, are ye not ashamed to say ye will not come? When ye should return to God, will ye excuse yourselves, and say ye are not ready? Consider earnestly with yourselves how little such feigned excuses will avail before God. Those who refused the feast in the Gospel, because they had bought a farm, or would try their yokes of oxen, or because they were married, were not so excused, but counted unworthy of the heavenly feast. Wherefore, according to mine office, I bid you in the Name of God, I call you in Christ's behalf, I exhort you, as ye love your own salvation, that ye will be partakers of this holy Communion. And as the Son of God did vouchsafe to yield up his soul by death upon the Cross for your salvation; so it is your duty to receive the Communion in remembrance of the sacrifice of his death, as he himself hath commanded: which if ye shall neglect to do, consider with yourselves how great is your ingratitude to God, and how sore punishment hangeth over your heads for the same; when ye wilfully abstain from the Lord's Table, and separate from your brethren, who come to feed on the banquet of that most heavenly food. These things if ye earnestly consider, ye will by God's grace return to a better mind: for the obtaining whereof we shall not cease to make our humble petitions unto Almighty God, our heavenly Father.
+DEARLY beloved brethren, on——I intend, by God’s grace, to celebrate the Lord’s Supper: unto which, in God’s behalf, I bid you all who are here present; and beseech you, for the Lord Jesus Christ’s sake, that ye will not refuse to come thereto, being so lovingly called and bidden by God himself. Ye know how grievous and unkind a thing it is, when a man hath prepared a rich feast, decked his table with all kind of provision, so that there lacketh nothing but the guests to sit down; and yet they who are called, without any cause, most unthankfully refuse to come. Which of you in such a case would not be moved? Who would not think a great injury and wrong done unto him? Wherefore, most dearly beloved in Christ, take ye good heed, lest ye, withdrawing yourselves from this holy Supper, provoke God’s indignation against you. It is an easy matter for a man to say, I will not communicate, because I am otherwise hindered with worldly business. But such excuses are not so easily accepted and allowed before God. If any man say, I am a grievous sinner, and therefore am afraid to come: wherefore then do ye not repent and amend? When God calleth you, are ye not ashamed to say ye will not come? When ye should return to God, will ye excuse yourselves, and say ye are not ready? Consider earnestly with yourselves how little such feigned excuses will avail before God. Those who refused the feast in the Gospel, because they had bought a farm, or would try their yokes of oxen, or because they were married, were not so excused, but counted unworthy of the heavenly feast. Wherefore, according to mine office, I bid you in the Name of God, I call you in Christ’s behalf, I exhort you, as ye love your own salvation, that ye will be partakers of this holy Communion. And as the Son of God did vouchsafe to yield up his soul by death upon the Cross for your salvation; so it is your duty to receive the Communion in remembrance of the sacrifice of his death, as he himself hath commanded: which if ye shall neglect to do, consider with yourselves how great is your ingratitude to God, and how sore punishment hangeth over your heads for the same; when ye wilfully abstain from the Lord’s Table, and separate from your brethren, who come to feed on the banquet of that most heavenly food. These things if ye earnestly consider, ye will by God’s grace return to a better mind: for the obtaining whereof we shall not cease to make our humble petitions unto Almighty God, our heavenly Father.

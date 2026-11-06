@@ -30,7 +30,7 @@ Almighty God, to you all hearts are open, all desires known, and from you no sec
 
 > The bishop and people sit.  A Priest and a Lay Person, and additional presenters if desired, standing before the bishop, present the ordinand, saying
 
-N., Bishop in the Church of God, on behalf of the clergy and people of the Diocese of N., we present to you N.N. to be ordained a deacon in Christ's holy catholic Church.
+N., Bishop in the Church of God, on behalf of the clergy and people of the Diocese of N., we present to you N.N. to be ordained a deacon in Christ’s holy catholic Church.
 
 **Bishop.**
 
@@ -144,7 +144,7 @@ We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from th
 
 My brother, every Christian is called to follow Jesus Christ, serving God the Father, through the power of the Holy Spirit. God now calls you to a special ministry of servanthood directly under your bishop. In the name of Jesus Christ, you are to serve all people, particularly the poor, the weak, the sick, and the lonely.
 
-As a deacon in the Church, you are to study the Holy Scriptures, to seek nourishment from them, and to model your life upon them.  You are to make Christ and his redemptive love known, by your word and example, to those among whom you live, and work, and worship.  You are to interpret to the Church the needs, concerns, and hopes of the world.  You are to assist the bishop and priests in public worship and in the ministration of God's Word and Sacraments, and you are to carry out other duties assigned to you from time to time.  At all times, your life and teaching are to show Christ's people that in serving the helpless they are serving Christ himself.
+As a deacon in the Church, you are to study the Holy Scriptures, to seek nourishment from them, and to model your life upon them.  You are to make Christ and his redemptive love known, by your word and example, to those among whom you live, and work, and worship.  You are to interpret to the Church the needs, concerns, and hopes of the world.  You are to assist the bishop and priests in public worship and in the ministration of God’s Word and Sacraments, and you are to carry out other duties assigned to you from time to time.  At all times, your life and teaching are to show Christ’s people that in serving the helpless they are serving Christ himself.
 
 My brother, do you believe that you are truly called by God and his Church to the life and work of a deacon?
 
@@ -194,7 +194,7 @@ Therefore, Father, through Jesus Christ your Son, give your Holy Spirit to N.; f
 
 > The Bishop continues
 
-Make him, O Lord, modest and humble, strong and constant, to observe the discipline of Christ.  Let his life and teaching so reflect your commandments, that through him many may come to know you and love you.  As your Son came not to be served but to serve, may this deacon share in Christ's service, and come to the unending glory of him who, with you and the Holy Spirit, lives and reigns, one God, for ever and ever.
+Make him, O Lord, modest and humble, strong and constant, to observe the discipline of Christ.  Let his life and teaching so reflect your commandments, that through him many may come to know you and love you.  As your Son came not to be served but to serve, may this deacon share in Christ’s service, and come to the unending glory of him who, with you and the Holy Spirit, lives and reigns, one God, for ever and ever.
 
 **The People in a loud voice respond.** Amen.
 
@@ -202,7 +202,7 @@ Make him, O Lord, modest and humble, strong and constant, to observe the discipl
 
 > The Bishop gives a Bible to the newly ordained, saying
 
-Receive this Bible as the sign of your authority to proclaim God's Word and to assist in the ministration of his holy Sacraments.
+Receive this Bible as the sign of your authority to proclaim God’s Word and to assist in the ministration of his holy Sacraments.
 
 ## The Peace
 
@@ -222,7 +222,7 @@ The peace of the Lord be always with you.
 
 > The liturgy continues with the Offertory.
 
-> The newly ordained Deacon prepares the bread, pours sufficient wine (and a little water) into the chalice, and places the vessels on the Lord's Table.
+> The newly ordained Deacon prepares the bread, pours sufficient wine (and a little water) into the chalice, and places the vessels on the Lord’s Table.
 
 > The Bishop goes to the Table and begins the Great Thanksgiving.
 
@@ -322,7 +322,7 @@ R.  And also with you.
 
 Let us pray.
 
-Everliving God, whose power is limitless, we place before you, with our praise and thanks, these tokens of your servant's ministry and dignity.  Grant that N., who has been called to leadership in your Church, and bears these signs, may faithfully serve you and share in the fullness of your life-giving Spirit; through the high priest and good shepherd of us all, Jesus Christ our Lord.  Amen.
+Everliving God, whose power is limitless, we place before you, with our praise and thanks, these tokens of your servant’s ministry and dignity.  Grant that N., who has been called to leadership in your Church, and bears these signs, may faithfully serve you and share in the fullness of your life-giving Spirit; through the high priest and good shepherd of us all, Jesus Christ our Lord.  Amen.
 
 > At the Ordination of a Bishop
 

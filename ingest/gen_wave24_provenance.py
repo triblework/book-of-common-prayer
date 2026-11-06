@@ -8,8 +8,8 @@ book, with this file's counts read from w22_witness (so the note cannot drift
 from the switches), and what is still off. The verify_items are untouched:
 Wave 24 opens and closes no flag.
 
-Re-runnable: the Wave 24 sentence is the note's last, and a second run
-replaces it (so a later ruling on the possessive is a switch, a rebuild and
+Re-runnable: the Wave 24 sentence is the note's last but for a later wave's
+(Wave 25's, kept after it), and a second run replaces it (so a later ruling on the possessive is a switch, a rebuild and
 this).
 """
 from __future__ import annotations
@@ -73,8 +73,13 @@ def main():
         if not nm or 'Wave 22:' not in nm.group(1):
             raise SystemExit('Wave 22 note not found: %s' % f)
         was = re.sub(r'\\(.)', r'\1', nm.group(1))
+        # a later wave's sentence (" Wave 25: ...") stays where it is, after this one
+        later = ''
+        if ' Wave 25: ' in was:
+            was, later = was.split(' Wave 25: ', 1)
+            later = ' Wave 25: ' + later
         was = SENT.sub('', was)
-        blk = blk[:nm.start()] + '    note: ' + q(was + note_for(f, per)) + blk[nm.end():]
+        blk = blk[:nm.start()] + '    note: ' + q(was + note_for(f, per) + later) + blk[nm.end():]
         body = body[:m.start()] + blk + body[end:]
         print('  1892 psalter/%-16s case %d on, possessive %d %s'
               % (f, sum(per[(f, g)] for g in ('CASE_LORD', 'CASE_OPENING', 'CASE_CAPS')),

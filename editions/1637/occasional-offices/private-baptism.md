@@ -44,7 +44,7 @@ AT a certain time they brought children to Christ that he should touch them, and
 
 FRiends, you heare in this Gospel the words of our Saviour Christ, that he commanded the children to be brought unto him : how he blamed those that would have kept them from him : how he exhorted all men to follow their innocency. Ye perceive how by his outward gesture and deed he declared his good will toward them : for he embraced them in his arms, he laid his hands upon them, and blessed them. Doubt ye not therefore, but stedfastly beleeve, that he hath likewise favourably received this present Infant, that he hath embraced him with the arms of his mercy, that he hath given unto him the blessing of eternall life, and made him partaker of his everlasting Kingdome. Wherefore wee being thus perswaded of the good will of our heavenly Father, declared by his Sonne Jesus Christ toward this Infant, let us faithfully and devoutly give thanks unto him, and say the prayer which the Lord himself taught, and in declaration of our Faith, let us recite the Articles contained in our Creede.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Here the Presbyter or Minister with the Godfathers and Godmothers shall say.
 

@@ -14,7 +14,7 @@
 
 5 And so you are justified when you speak : and upright in your judgment.
 
-6 Indeed, I have been wicked from my birth, : a sinner from my mother's womb.
+6 Indeed, I have been wicked from my birth, : a sinner from my mother’s womb.
 
 7 For behold, you look for truth deep within me, : and will make me understand wisdom secretly.
 
@@ -80,7 +80,7 @@
 
 5 See how greatly they tremble, such trembling as never was; : for God has scattered the bones of the enemy; they are put to shame, because God has rejected them.
 
-6 Oh, that Israel's deliverance would come out of Zion! : when God restores the fortunes of his people Jacob will rejoice and Israel be glad.
+6 Oh, that Israel’s deliverance would come out of Zion! : when God restores the fortunes of his people Jacob will rejoice and Israel be glad.
 
 ## Psalm 54
 
@@ -248,7 +248,7 @@
 
 4 Not because of any guilt of mine : they run and prepare themselves for battle.
 
-5 Rouse yourself, come to my side, and see; : for you, LORD God of hosts, are Israel's God.
+5 Rouse yourself, come to my side, and see; : for you, LORD God of hosts, are Israel’s God.
 
 6 Awake, and punish all the ungodly; : show no mercy to those who are faithless and evil.
 
@@ -322,7 +322,7 @@
 
 5 For you, O God, have heard my vows; : you have granted me the heritage of those who fear your Name.
 
-6 Add length of days to the king's life; : let his years extend over many generations.
+6 Add length of days to the king’s life; : let his years extend over many generations.
 
 7 Let him sit enthroned before God for ever; : bid love and faithfulness watch over him.
 
@@ -406,7 +406,7 @@
 
 8 He will make them trip over their tongues, : and all who see them will shake their heads.
 
-9 Everyone will stand in awe and declare God's deeds; : they will recognize his works.
+9 Everyone will stand in awe and declare God’s deeds; : they will recognize his works.
 
 10 The righteous will rejoice in the LORD and put their trust in him, : and all who are true of heart will glory.
 
@@ -560,7 +560,7 @@
 
 28 Send forth your strength, O God; : establish, O God, what you have wrought for us.
 
-29 Kings shall bring gifts to you, : for your temple's sake at Jerusalem.
+29 Kings shall bring gifts to you, : for your temple’s sake at Jerusalem.
 
 30 Rebuke the wild beast of the reeds, : and the peoples, a herd of wild bulls with its calves.
 
@@ -596,7 +596,7 @@
 
 8 Surely, for your sake have I suffered reproach, : and shame has covered my face.
 
-9 I have become a stranger to my own kindred, : an alien to my mother's children.
+9 I have become a stranger to my own kindred, : an alien to my mother’s children.
 
 10 Zeal for your house has eaten me up; : the scorn of those who scorn you has fallen upon me.
 
@@ -686,7 +686,7 @@
 
 5 For you are my hope, O LORD God, : my confidence since I was young.
 
-6 I have been sustained by you ever since I was born; from my mother's womb you have been my strength; : my praise shall be always of you.
+6 I have been sustained by you ever since I was born; from my mother’s womb you have been my strength; : my praise shall be always of you.
 
 7 I have become a portent to many; : but you are my refuge and my strength.
 
@@ -728,7 +728,7 @@
 
 > Deus, judicium
 
-1 Give the King your justice, O God, : and your righteousness to the King's son;
+1 Give the King your justice, O God, : and your righteousness to the King’s son;
 
 2 That he may rule your people righteously : and the poor with justice.
 
@@ -894,7 +894,7 @@
 
 7 It is God who judges; : he puts down one and lifts up another.
 
-8 For in the LORD'S hand there is a cup, full of spiced and foaming wine, which he pours out, : and all the wicked of the earth shall drink and drain the dregs.
+8 For in the LORD’s hand there is a cup, full of spiced and foaming wine, which he pours out, : and all the wicked of the earth shall drink and drain the dregs.
 
 9 But I will rejoice for ever; : I will sing praises to the God of Jacob.
 
@@ -1038,7 +1038,7 @@
 
 30 But they did not stop their craving, : though the food was still in their mouths.
 
-31 So God's anger mounted against them; : he slew their strongest men and laid low the youth of Israel.
+31 So God’s anger mounted against them; : he slew their strongest men and laid low the youth of Israel.
 
 32 In spite of all this, they went on sinning : and had no faith in his wonderful works.
 
@@ -1102,7 +1102,7 @@
 
 60 He forsook the shrine at Shiloh, : the tabernacle where he had lived among his people.
 
-61 He delivered the ark into captivity, : his glory into the adversary's hand.
+61 He delivered the ark into captivity, : his glory into the adversary’s hand.
 
 62 He gave his people to the sword : and was angered against his inheritance.
 
@@ -1146,9 +1146,9 @@
 
 8 Remember not our past sins; let your compassion be swift to meet us; : for we have been brought very low.
 
-9 Help us, O God our Savior, for the glory of your Name; : deliver us and forgive us our sins, for your Name's sake.
+9 Help us, O God our Savior, for the glory of your Name; : deliver us and forgive us our sins, for your Name’s sake.
 
-10 Why should the heathen say, "Where is their God?" : Let it be known among the heathen and in our sight that you avenge the shedding of your servants' blood.
+10 Why should the heathen say, "Where is their God?" : Let it be known among the heathen and in our sight that you avenge the shedding of your servants’ blood.
 
 11 Let the sorrowful sighing of the prisoners come before you, : and by your great might spare those who are condemned to die.
 
@@ -1204,7 +1204,7 @@
 
 2 Raise a song and sound the timbrel, : the merry harp, and the lyre.
 
-3 Blow the ram's-horn at the new moon, : and at the full moon, the day of our feast.
+3 Blow the ram’s-horn at the new moon, : and at the full moon, the day of our feast.
 
 4 For this is a statute for Israel, : a law of the God of Jacob.
 
@@ -1302,7 +1302,7 @@
 
 3 Happy are they who dwell in your house! : they will always be praising you.
 
-4 Happy are the people whose strength is in you! : whose hearts are set on the pilgrims' way.
+4 Happy are the people whose strength is in you! : whose hearts are set on the pilgrims’ way.
 
 5 Those who go through the desolate valley will find it a place of springs, : for the early rains have covered it with pools of water.
 

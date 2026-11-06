@@ -1,6 +1,6 @@
 # Concerning the Service of the Church
 
-The Holy Eucharist, the principal act of Christian worship on the Lord's Day and other major Feasts, and Daily Morning and Evening Prayer, as set forth in this Book, are the regular services appointed for public worship in this Church.
+The Holy Eucharist, the principal act of Christian worship on the Lord’s Day and other major Feasts, and Daily Morning and Evening Prayer, as set forth in this Book, are the regular services appointed for public worship in this Church.
 
 In addition to these services and the other rites contained in this Book, other forms set forth by authority within this Church may be used. Also, subject to the direction of the bishop, special devotions taken from this Book, or from Holy Scripture, may be used when the needs of the congregation so require.
 

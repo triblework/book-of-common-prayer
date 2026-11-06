@@ -84,7 +84,7 @@ Christ, have mercy upon us.
 Lord, have mercy upon us.
 Lord, have mercy upon us.
 
-> Then shall the Minister, and the People with him, say the Lord's Prayer.
+> Then shall the Minister, and the People with him, say the Lord’s Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
 
@@ -97,7 +97,7 @@ OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will 
 
 O God, merciful Father, who despisest not the sighing of a contrite heart, nor the desire of such as are sorrowful; Mercifully assist our prayers which we make before thee in all our troubles and adversities whensoever they oppress us; and graciously hear us that those evils which the craft and subtilty of the devil or man worketh against us may, by thy good providence, be brought to nought; that we thy servants, being hurt by no persecutions, may evermore give thanks unto thee in thy holy Church; through Jesus Christ our Lord.
 <!-- VERIFY: 'whensoever they oppress us; and graciously hear us' — raw scrape prints 'oppress us . and graciously', a damaged semicolon (stray space + period + lowercase 'and'); read against 1662 'oppress us; and graciously hear us'. Confirm against a page scan. -->
-O Lord, arise, help us, and deliver us for thy Name's sake.
+O Lord, arise, help us, and deliver us for thy Name’s sake.
 O God, we have heard with our ears, and our fathers have declared unto us, the noble works that thou didst in their days, and in the old time before them.
 O Lord, arise, help us, and deliver us for thine honour.
 Glory be to the Father, and to the Son, and to the Holy Ghost;

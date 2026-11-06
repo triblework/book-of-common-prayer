@@ -130,7 +130,7 @@
 
 3 My spirit shakes with terror; : how long, O LORD, how long?
 
-4 Turn, O LORD, and deliver me; : save me for your mercy's sake.
+4 Turn, O LORD, and deliver me; : save me for your mercy’s sake.
 
 5 For in death no one remembers you; : and who will give you thanks in the grave?
 
@@ -260,7 +260,7 @@
 
 2 The wicked arrogantly persecute the poor, : but they are trapped in the schemes they have devised.
 
-3 The wicked boast of their heart's desire; : the covetous curse and revile the LORD.
+3 The wicked boast of their heart’s desire; : the covetous curse and revile the LORD.
 
 4 The wicked are so proud that they care not for God; : their only thought is, "God does not matter."
 
@@ -304,7 +304,7 @@
 
 3 When the foundations are being destroyed, : what can the righteous do?"
 
-4 The LORD is in his holy temple; : the LORD'S throne is in heaven.
+4 The LORD is in his holy temple; : the LORD’s throne is in heaven.
 
 5 His eyes behold the inhabited world; : his piercing eye weighs our worth.
 
@@ -366,7 +366,7 @@
 
 6 Their aim is to confound the plans of the afflicted, : but the LORD is their refuge.
 
-7 Oh, that Israel's deliverance would come out of Zion! : when the LORD restores the fortunes of his people, Jacob will rejoice and Israel be glad.
+7 Oh, that Israel’s deliverance would come out of Zion! : when the LORD restores the fortunes of his people, Jacob will rejoice and Israel be glad.
 
 ## Psalm 15
 
@@ -600,7 +600,7 @@
 
 3 Remember all your offerings : and accept your burnt sacrifice;
 
-4 Grant you your heart's desire : and prosper all your plans.
+4 Grant you your heart’s desire : and prosper all your plans.
 
 5 We will shout for joy at your victory and triumph in the Name of our God; : may the LORD grant all your requests.
 
@@ -618,7 +618,7 @@
 
 1 The king rejoices in your strength, O LORD; : how greatly he exults in your victory!
 
-2 You have given him his heart's desire; : you have not denied him the request of his lips.
+2 You have given him his heart’s desire; : you have not denied him the request of his lips.
 
 3 For you meet him with blessings of prosperity, : and set a crown of fine gold upon his head.
 
@@ -664,9 +664,9 @@
 
 8 "He trusted in the LORD; let him deliver him; : let him rescue him, if he delights in him."
 
-9 Yet you are he who took me out of the womb, : and kept me safe upon my mother's breast.
+9 Yet you are he who took me out of the womb, : and kept me safe upon my mother’s breast.
 
-10 I have been entrusted to you ever since I was born; : you were my God when I was still in my mother's womb.
+10 I have been entrusted to you ever since I was born; : you were my God when I was still in my mother’s womb.
 
 11 Be not far from me, for trouble is near, : and there is none to help.
 
@@ -686,11 +686,11 @@
 
 19 Save me from the sword, : my life from the power of the dog.
 
-20 Save me from the lion's mouth, : my wretched body from the horns of wild bulls.
+20 Save me from the lion’s mouth, : my wretched body from the horns of wild bulls.
 
 21 I will declare your Name to my brethren; : in the midst of the congregation I will praise you.
 
-22 Praise the LORD, you that fear him; : stand in awe of him, O offspring of Israel; all you of Jacob's line, give glory.
+22 Praise the LORD, you that fear him; : stand in awe of him, O offspring of Israel; all you of Jacob’s line, give glory.
 
 23 For he does not despise nor abhor the poor in their poverty; neither does he hide his face from them; : but when they cry to him he hears them.
 
@@ -704,7 +704,7 @@
 
 28 To him alone all who sleep in the earth bow down in worship; : all who go down to the dust fall before him.
 
-29 My soul shall live for him; my descendants shall serve him; : they shall be known as the LORD'S for ever.
+29 My soul shall live for him; my descendants shall serve him; : they shall be known as the LORD’s for ever.
 
 30 They shall come and make known to a people yet unborn : the saving deeds that he has done.
 
@@ -716,7 +716,7 @@
 
 2 He makes me lie down in green pastures : and leads me beside still waters.
 
-3 He revives my soul : and guides me along right pathways for his Name's sake.
+3 He revives my soul : and guides me along right pathways for his Name’s sake.
 
 4 Though I walk through the valley of the shadow of death, I shall fear no evil; : for you are with me; your rod and your staff, they comfort me.
 
@@ -728,7 +728,7 @@
 
 > Domini est terra
 
-1 The earth is the LORD'S and all that is in it, : the world and all who dwell therein.
+1 The earth is the LORD’s and all that is in it, : the world and all who dwell therein.
 
 2 For it is he who founded it upon the seas : and made it firm upon the rivers of the deep.
 
@@ -770,7 +770,7 @@
 
 9 All the paths of the LORD are love and faithfulness : to those who keep his covenant and his testimonies.
 
-10 For your Name's sake, O LORD, : forgive my sin, for it is great.
+10 For your Name’s sake, O LORD, : forgive my sin, for it is great.
 
 11 Who are they who fear the LORD? : he will teach them the way that they should choose.
 
@@ -860,7 +860,7 @@
 
 17 What if I had not believed that I should see the goodness of the LORD : in the land of the living!
 
-18 O tarry and await the LORD'S pleasure; be strong, and he shall comfort your heart; : wait patiently for the LORD.
+18 O tarry and await the LORD’s pleasure; be strong, and he shall comfort your heart; : wait patiently for the LORD.
 
 ## Psalm 28
 
@@ -876,7 +876,7 @@
 
 5 According to the work of their hands repay them, : and give them their just deserts.
 
-6 They have no understanding of the LORD'S doings, nor of the works of his hands; : therefore he will break them down and not build them up.
+6 They have no understanding of the LORD’s doings, nor of the works of his hands; : therefore he will break them down and not build them up.
 
 7 Blessed is the LORD! : for he has heard the voice of my prayer.
 
@@ -1048,7 +1048,7 @@
 
 10 The LORD brings the will of the nations to naught; : he thwarts the designs of the peoples.
 
-11 But the LORD'S will stands fast for ever, : and the designs of his heart from age to age.
+11 But the LORD’s will stands fast for ever, : and the designs of his heart from age to age.
 
 12 Happy is the nation whose God is the LORD! : happy the people he has chosen to be his own!
 
@@ -1220,7 +1220,7 @@
 
 3 Put your trust in the LORD and do good; : dwell in the land and feed on its riches.
 
-4 Take delight in the LORD, : and he shall give you your heart's desire.
+4 Take delight in the LORD, : and he shall give you your heart’s desire.
 
 5 Commit your way to the LORD and put your trust in him, : and he will bring it to pass.
 
@@ -1576,7 +1576,7 @@
 
 5 Your right hand will show you marvelous things; : your arrows are very sharp, O mighty warrior.
 
-6 The peoples are falling at your feet, : and the king's enemies are losing heart.
+6 The peoples are falling at your feet, : and the king’s enemies are losing heart.
 
 7 Your throne, O God, endures for ever and ever, : a scepter of righteousness is the scepter of your kingdom; you love righteousness and hate iniquity.
 
@@ -1584,9 +1584,9 @@
 
 9 All your garments are fragrant with myrrh, aloes, and cassia, : and the music of strings from ivory palaces makes you glad.
 
-10 Kings' daughters stand among the ladies of the court; : on your right hand is the queen, adorned with the gold of Ophir.
+10 Kings’ daughters stand among the ladies of the court; : on your right hand is the queen, adorned with the gold of Ophir.
 
-11 "Hear, O daughter; consider and listen closely; : forget your people and your father's house.
+11 "Hear, O daughter; consider and listen closely; : forget your people and your father’s house.
 
 12 The king will have pleasure in your beauty; : he is your master; therefore do him honor.
 
@@ -1642,7 +1642,7 @@
 
 4 He chooses our inheritance for us, : the pride of Jacob whom he loves.
 
-5 God has gone up with a shout, : the LORD with the sound of the ram's-horn.
+5 God has gone up with a shout, : the LORD with the sound of the ram’s-horn.
 
 6 Sing praises to God, sing praises; : sing praises to our King, sing praises.
 
@@ -1674,7 +1674,7 @@
 
 8 We have waited in silence on your loving-kindness, O God, : in the midst of your temple.
 
-9 Your praise, like your Name, O God, reaches to the world's end; : your right hand is full of justice.
+9 Your praise, like your Name, O God, reaches to the world’s end; : your right hand is full of justice.
 
 10 Let Mount Zion be glad and the cities of Judah rejoice, : because of your judgments.
 
@@ -1770,7 +1770,7 @@
 
 19 You have loosed your lips for evil, : and harnessed your tongue to a lie.
 
-20 You are always speaking evil of your brother : and slandering your own mother's son.
+20 You are always speaking evil of your brother : and slandering your own mother’s son.
 
 21 These things you have done, and I kept still, : and you thought that I am like you."
 

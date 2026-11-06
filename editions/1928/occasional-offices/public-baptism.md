@@ -100,7 +100,7 @@ Well-beloved, you have come hither desiring to receive holy Baptism. We have pra
 
 Dost thou renounce the devil and all his works, the vain pomp and glory of the world, with all covetous desires of the same, and the sinful desires of the flesh, so that thou wilt not follow, nor be led by them?
 
-**Answer.** I renounce them all; and, by God's help, will endeavour not to follow, nor be led by them.
+**Answer.** I renounce them all; and, by God’s help, will endeavour not to follow, nor be led by them.
 
 **Minister.** Dost thou believe in Jesus the Christ, the Son of the Living God?
 
@@ -110,7 +110,7 @@ Dost thou renounce the devil and all his works, the vain pomp and glory of the w
 
 **Answer.** I do.
 
-**Minister.** Dost thou believe all the Articles of the Christian Faith, as contained in the Apostles' Creed?
+**Minister.** Dost thou believe all the Articles of the Christian Faith, as contained in the Apostles’ Creed?
 
 **Answer.** I do.
 
@@ -118,9 +118,9 @@ Dost thou renounce the devil and all his works, the vain pomp and glory of the w
 
 **Answer.** That is my desire.
 
-**Minister.** Wilt thou then obediently keep God's holy will and commandments, and walk in the same all the days of thy life?
+**Minister.** Wilt thou then obediently keep God’s holy will and commandments, and walk in the same all the days of thy life?
 
-**Answer.** I will, by God's help.
+**Answer.** I will, by God’s help.
 
 ## The Prayer over the Children
 
@@ -176,7 +176,7 @@ We receive this Child (or person) into the congregation of Christ’s flock; and
 
 Seeing now, dearly beloved brethren, that this Child (or this Person) is regenerate, and grafted into the body of Christ’s Church, let us give thanks unto Almighty God for these benefits; and with one accord make our prayers unto him, that this Child (or this Person) may lead the rest of his life according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be said,
 

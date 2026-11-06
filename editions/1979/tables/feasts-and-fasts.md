@@ -1,6 +1,6 @@
 # Tables and Rules for the Feasts and Fasts
 
-The Church Year consists of two cycles of feasts and holy days: one is dependent upon the movable date of the Sunday of the Resurrection or Easter Day; the other, upon the fixed date of December 25, the Feast of our Lord's Nativity or Christmas Day.
+The Church Year consists of two cycles of feasts and holy days: one is dependent upon the movable date of the Sunday of the Resurrection or Easter Day; the other, upon the fixed date of December 25, the Feast of our Lord’s Nativity or Christmas Day.
 
 Easter Day is always the first Sunday after the full moon that falls on or after March 21. It cannot occur before March 22 or after April 25.
 
@@ -18,13 +18,13 @@ The Day of Pentecost
 
 Trinity Sunday
 
-All Saints' Day : November 1
+All Saints’ Day : November 1
 
 Christmas Day : December 25
 
 The Epiphany : January 6
 
-These feasts take precedence of any other day or observance. All Saints' Day may always be observed on the Sunday following November 1, in addition to its observance on the fixed date.
+These feasts take precedence of any other day or observance. All Saints’ Day may always be observed on the Sunday following November 1, in addition to its observance on the fixed date.
 
 ## 2. Sundays
 
@@ -96,7 +96,7 @@ Feasts appointed on fixed days in the Calendar are not observed on the days of H
 
 Feasts appointed on fixed days in the Calendar do not take precedence of Ash Wednesday.
 
-Feasts of our Lord and other Major Feasts appointed on fixed days, which fall upon or are transferred to a weekday, may be observed on any open day within the week. This provision does not apply to Christmas Day, the Epiphany, and All Saints' Day.
+Feasts of our Lord and other Major Feasts appointed on fixed days, which fall upon or are transferred to a weekday, may be observed on any open day within the week. This provision does not apply to Christmas Day, the Epiphany, and All Saints’ Day.
 
 ## 4. Days of Special Devotion
 
@@ -104,7 +104,7 @@ The following days are observed by special acts of discipline and self-denial:
 
 Ash Wednesday and the other weekdays of Lent and of Holy Week, except the feast of the Annunciation.
 
-Good Friday and all other Fridays of the year, in commemoration of the Lord's crucifixion, except for Fridays in the Christmas and Easter seasons, and any Feasts of our Lord which occur on a Friday.
+Good Friday and all other Fridays of the year, in commemoration of the Lord’s crucifixion, except for Fridays in the Christmas and Easter seasons, and any Feasts of our Lord which occur on a Friday.
 
 ## 5. Days of Optional Observance
 

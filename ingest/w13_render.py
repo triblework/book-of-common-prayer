@@ -89,6 +89,10 @@ def render(edition, psalms, mark, title="The Psalter", number_first=False):
                                          "source_reading": key, "note": note})
                 lines.append("")
         text = re.sub(r"\n{3,}", "\n\n", "\n".join(lines).rstrip("\n")) + "\n"
+        # Wave 25, as the last step: R24 (every apostrophe is U+2019) and the
+        # R23/R25 possessive keys, so that a rebuild reproduces the cells.
+        import w25_witness
+        text = w25_witness.apply(str(edition), "psalter/%s.md" % name, text)
         with open(os.path.join(out_dir, name + ".md"), "w", encoding="utf-8") as fh:
             fh.write(text)
     return anomalies, manifest

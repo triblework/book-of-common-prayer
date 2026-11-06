@@ -38,7 +38,9 @@ except ModuleNotFoundError:  # pragma: no cover
 
 # A "word" for whole-word replacement: a run of letters plus a few in-word
 # marks (apostrophe, thorn). Markdown punctuation is treated as a boundary.
-_WORD_RE = re.compile(r"[A-Za-zþÞ']+")
+# The apostrophe is U+2019 in every cell (RULINGS R24, Wave 25); U+0027 stays
+# in the class so that a word reads as one word whichever character it carries.
+_WORD_RE = re.compile(r"[A-Za-zþÞ'’]+")
 
 _RE_FLAG_MAP = {"i": re.IGNORECASE, "m": re.MULTILINE, "s": re.DOTALL}
 

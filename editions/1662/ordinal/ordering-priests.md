@@ -58,13 +58,13 @@ Verily, verily I say unto you, He that entereth not by the door into the sheep-f
 
 > Then the Bishop, sitting in his Chair, shall say unto them as hereafter followeth.
 
-You have heard, brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel and the writings of the Apostles, of what dignity and of how great importance this office is, whereunto ye are called. And now again we exhort you, in the Name of our Lord Jesus Christ, that you have in remembrance, into how high a dignity, and to how weighty an office and charge ye are called: that is to say, to be messengers, watchmen, and stewards of the Lord; to teach and to premonish, to feed and provide for the Lord's family; to seek for Christ's sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
+You have heard, brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel and the writings of the Apostles, of what dignity and of how great importance this office is, whereunto ye are called. And now again we exhort you, in the Name of our Lord Jesus Christ, that you have in remembrance, into how high a dignity, and to how weighty an office and charge ye are called: that is to say, to be messengers, watchmen, and stewards of the Lord; to teach and to premonish, to feed and provide for the Lord’s family; to seek for Christ’s sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.
 
 Have always therefore printed in your remembrance, how great a treasure is committed to your charge. For they are the sheep of Christ, which he bought with his death, and for whom he shed his blood. The Church and Congregation whom you must serve, is his spouse and his body. And if it shall happen the same Church, or any member thereof, to take any hurt or hindrance by reason of your negligence, ye know the greatness of the fault, and also the horrible punishment that will ensue. Wherefore consider with yourselves the end of your ministry towards the children of God, towards the spouse and body of Christ; and see that you never cease your labour, your care and diligence, until you have done all that lieth in you, according to your bounden duty, to bring all such as are or shall be committed to your charge, unto that agreement in the faith and knowledge of God, and to that ripeness and perfectness of age in Christ, that there be no place left among you, either for error in religion, or for viciousness in life.
 
 Forasmuch then as your office is both of so great excellency and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well that ye may shew yourselves dutiful and thankful unto that Lord, who hath placed you in so high a dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend. Howbeit, ye cannot have a mind and will thereto of yourselves; for that will and ability is given of God alone. Therefore ye ought, and have need, to pray earnestly for his Holy Spirit. And seeing that you cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures: and for this self-same cause, how ye ought to forsake and set aside (as much as you may) all worldly cares and studies.
 
-We have good hope that you have well weighed and pondered these things with yourselves long before this time; and that you have clearly determined, by God's grace, to give yourselves wholly to this office, whereunto it hath pleased God to call you: so that, as much as lieth in you, you will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that you will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing of the Scriptures, ye may wax riper and stronger in your ministry; and that ye may so endeavour yourselves from time to time to sanctify the lives of you and yours, and to fashion them after the rule and doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
+We have good hope that you have well weighed and pondered these things with yourselves long before this time; and that you have clearly determined, by God’s grace, to give yourselves wholly to this office, whereunto it hath pleased God to call you: so that, as much as lieth in you, you will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that you will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing of the Scriptures, ye may wax riper and stronger in your ministry; and that ye may so endeavour yourselves from time to time to sanctify the lives of you and yours, and to fashion them after the rule and doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.
 
 And now, that this present Congregation of Christ here assembled may also understand your minds and wills in these things, and that this your promise may the more move you to do your duties, ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
 
@@ -76,13 +76,13 @@ Do you think in your heart that you be truly called, according to the will of ou
 
 **The Bishop.** Are you persuaded that the holy Scriptures contain sufficiently all doctrine required of necessity for eternal salvation through faith in Jesus Christ? And are you determined out of the said Scriptures to instruct the people committed to your charge, and to teach nothing (as required of necessity to eternal salvation) but that which you shall be persuaded may be concluded and proved by the Scripture?
 
-**Answer.** I am so persuaded, and have so determined by God's grace.
+**Answer.** I am so persuaded, and have so determined by God’s grace.
 
 **The Bishop.** Will you then give your faithful diligence always so to minister the doctrine and sacraments, and the discipline of Christ, as the Lord hath commanded, and as this Church and Realm hath received the same, according to the commandments of God; so that you may teach the people committed to your cure and charge with all diligence to keep and observe the same?
 
 **Answer.** I will so do, by the help of the Lord.
 
-**The Bishop.** Will you be ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrines contrary to God's Word; and to use both publick and private monitions and exhortations, as well to the sick as to the whole, within your cures, as need shall require, and occasion shall be given?
+**The Bishop.** Will you be ready, with all faithful diligence, to banish and drive away all erroneous and strange doctrines contrary to God’s Word; and to use both publick and private monitions and exhortations, as well to the sick as to the whole, within your cures, as need shall require, and occasion shall be given?
 
 **Answer.** I will, the Lord being my helper.
 
@@ -162,25 +162,25 @@ That truth and godliness we may pursue with full desire.
 
 Thou art the very Comforter in grief and all distress;
 
-The heav'nly gift of God most high, no tongue can it express;
+The heav’nly gift of God most high, no tongue can it express;
 
 The fountain and the living spring of joy celestial;
 
 The fire so bright, the love so sweet, the Unction spiritual.
 
-Thou in thy gifts art manifold, by them Christ's Church doth stand:
+Thou in thy gifts art manifold, by them Christ’s Church doth stand:
 
-In faithful hearts thou writ'st thy law, the finger of God's hand.
+In faithful hearts thou writ’st thy law, the finger of God’s hand.
 
 According to thy promise, Lord, thou givest speech with grace;
 
-That through thy help God's praises may resound in every place.
+That through thy help God’s praises may resound in every place.
 
-O Holy Ghost, into our minds send down thy heav'nly light;
+O Holy Ghost, into our minds send down thy heav’nly light;
 
 Kindle our hearts with fervent zeal to serve God day and night.
 
-Our weakness strengthen and confirm, (for, Lord, thou know'st us frail;)
+Our weakness strengthen and confirm, (for, Lord, thou know’st us frail;)
 
 That neither devil, world, nor flesh, against us may prevail.
 
@@ -194,7 +194,7 @@ We may escape the snares of sin, and never from thee slide.
 
 Such measures of thy powerful grace grant, Lord, to us, we pray;
 
-That thou may'st be our Comforter at the last dreadful day.
+That thou may’st be our Comforter at the last dreadful day.
 
 Of strife and of dissension dissolve, O Lord, the bands,
 
@@ -214,7 +214,7 @@ And to the Holy Spirit of grace, co-equal Three in One.
 
 And pray we, that our only Lord would please his Spirit to send
 
-On all that shall profess his Name, from hence to the world's end. Amen.
+On all that shall profess his Name, from hence to the world’s end. Amen.
 
 ## The Ordering
 

@@ -46,7 +46,7 @@ As it was in the beginning, &c.
 
 REMEMBRE not Lord our iniquities, nor the iniquities of our forefathers. Spare us good Lord, spare thy people, whom thou hast redemed with thy most precious bloud, and be not angry with us for ever.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde have mercye upon us.
 

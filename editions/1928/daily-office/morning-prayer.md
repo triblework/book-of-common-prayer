@@ -4,9 +4,9 @@
 
 > The Minister shall begin the Morning Prayer by reading one or more of the following Sentences of Scripture.
 
-> On any day, save a Day of Fasting or Abstinence, or on any day when the Litany or Holy Communion is immediately to follow, the Minister may, at his discretion, pass at once from the Sentences to the Lord's Prayer, first pronouncing, The Lord be with you. Answer. And with thy spirit. Minister. Let us pray.
+> On any day, save a Day of Fasting or Abstinence, or on any day when the Litany or Holy Communion is immediately to follow, the Minister may, at his discretion, pass at once from the Sentences to the Lord’s Prayer, first pronouncing, The Lord be with you. Answer. And with thy spirit. Minister. Let us pray.
 
-> And Note, that when the Confession and Absolution are omitted, the Minister may, after the Sentences, pass to the Versicles, O Lord open thou our lips, etc., in which case the Lord's Prayer shall be said with the other prayers, immediately after The Lord be with you, etc., and before the Versicles and Responses which follow, or, in the Litany, as there appointed.
+> And Note, that when the Confession and Absolution are omitted, the Minister may, after the Sentences, pass to the Versicles, O Lord open thou our lips, etc., in which case the Lord’s Prayer shall be said with the other prayers, immediately after The Lord be with you, etc., and before the Versicles and Responses which follow, or, in the Litany, as there appointed.
 
 The Lord is in his holy temple: let all the earth keep silence before him.
 Hab. ii. 20.
@@ -99,7 +99,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel, and say the Lord's Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
+> Then the Minister shall kneel, and say the Lord’s Prayer; the People still kneeling, and repeating it with him, both here, and wheresoever else it is used in Divine Service.
 
 Our Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -121,7 +121,7 @@ Amen.
 **Minister.** Glory be to the Father, and to the Son, and to the Holy Ghost;
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end. Amen.
 **Minister.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## Venite
 
@@ -288,9 +288,9 @@ Be ye sure that the Lord he is God; it is he that hath made us, and not we ourse
 O go your way into his gates with thanksgiving, and into his courts with praise : be thankful unto him, and speak good of his Name.
 For the Lord is gracious, his mercy is everlasting : and his truth endureth from generation to generation.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> Then shall be said the Apostles’ Creed by the Minister and the People, standing.
 > And any Churches may, instead of the words, He descended into hell, use the words, He went into the place of departed spirits, which are considered as words of the same meaning in the Creed.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
@@ -307,7 +307,7 @@ Amen.
 
 > Minister. Let us pray.
 
-> Here, if it hath not already been said, shall follow the Lord's Prayer.
+> Here, if it hath not already been said, shall follow the Lord’s Prayer.
 
 **Minister.** O Lord, show thy mercy upon us.
 **Answer.** And grant us thy salvation.
@@ -366,7 +366,7 @@ Amen.
 O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations.
 More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life.
 Finally, we commend to thy fatherly goodness all those who are any ways afflicted, or distressed, in mind, body, or estate; [especially those for whom our prayers are desired;] that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions.
-And this we beg for Jesus Christ's sake.
+And this we beg for Jesus Christ’s sake.
 Amen.
 
 ## A General Thanksgiving

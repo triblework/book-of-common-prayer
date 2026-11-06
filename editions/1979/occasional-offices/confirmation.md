@@ -40,7 +40,7 @@ Alleluia.  Christ is risen.
 
 There is one Body and one Spirit;
 
-**People.**  There is one hope in God's call to us;
+**People.**  There is one hope in God’s call to us;
 
 **Bishop.**  One Lord, one Faith, one Baptism;
 
@@ -116,7 +116,7 @@ Do you renew your commitment to Jesus Christ?
 
 **Candidate.**
 
-I do, and with God's grace I will follow him as my Savior and Lord.
+I do, and with God’s grace I will follow him as my Savior and Lord.
 
 > After all have been presented, the Bishop addresses the congregation, saying
 
@@ -164,25 +164,25 @@ the resurrection of the body,
 
 and the life everlasting.
 
-**Bishop.**  Will you continue in the apostles' teaching and fellowship, in the breaking of bread, and in the prayers?
+**Bishop.**  Will you continue in the apostles’ teaching and fellowship, in the breaking of bread, and in the prayers?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Bishop.**  Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Bishop.**  Will you proclaim by word and example the Good News of God in Christ?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Bishop.**  Will you seek and serve Christ in all persons, loving your neighbor as yourself?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 **Bishop.**  Will you strive for justice and peace among all people, and respect the dignity of every human being?
 
-**People.**  I will, with God's help.
+**People.**  I will, with God’s help.
 
 ## Prayers for the Candidates
 
@@ -228,6 +228,6 @@ Almighty and everliving God, let your fatherly hand ever be over these your serv
 
 > The service then continues with the Prayers of the People or the Offertory of the Eucharist, at which the Bishop should be the principal celebrant.
 
-> If there is no celebration of the Eucharist, the service continues with the Lord's Prayer and such other devotions as the Bishop may direct.
+> If there is no celebration of the Eucharist, the service continues with the Lord’s Prayer and such other devotions as the Bishop may direct.
 
 > The Bishop may consecrate oil of Chrism for use at Baptism, using the prayer on page 307.

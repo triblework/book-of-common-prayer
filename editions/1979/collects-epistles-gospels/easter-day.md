@@ -8,11 +8,11 @@ O God, who for our redemption didst give thine only-begotten Son to the death of
 
 > Or this
 
-O God, who didst make this most holy night to shine with the glory of the Lord's resurrection: Stir up in thy Church that Spirit of adoption which is given to us in Baptism, that we, being renewed both in body and mind, may worship thee in sincerity and truth; through the same Jesus Christ our Lord, who liveth and reigneth with thee in the unity of the same Spirit, one God, now and for ever. Amen.
+O God, who didst make this most holy night to shine with the glory of the Lord’s resurrection: Stir up in thy Church that Spirit of adoption which is given to us in Baptism, that we, being renewed both in body and mind, may worship thee in sincerity and truth; through the same Jesus Christ our Lord, who liveth and reigneth with thee in the unity of the same Spirit, one God, now and for ever. Amen.
 
 > Or this
 
-Almighty God, who through thine only-begotten Son Jesus Christ hast overcome death and opened unto us the gate of everlasting life: Grant that we, who celebrate with joy the day of the Lord's resurrection, may be raised from the death of sin by thy life-giving Spirit; through the same Jesus Christ our Lord, who liveth and reigneth with thee and the same Spirit ever, one God, world without end. Amen.
+Almighty God, who through thine only-begotten Son Jesus Christ hast overcome death and opened unto us the gate of everlasting life: Grant that we, who celebrate with joy the day of the Lord’s resurrection, may be raised from the death of sin by thy life-giving Spirit; through the same Jesus Christ our Lord, who liveth and reigneth with thee and the same Spirit ever, one God, world without end. Amen.
 
 ## The Collect (Contemporary)
 
@@ -20,8 +20,8 @@ O God, who for our redemption gave your only-begotten Son to the death of the cr
 
 > Or this
 
-O God, who made this most holy night to shine with the glory of the Lord's resurrection: Stir up in your Church that Spirit of adoption which is given to us in Baptism, that we, being renewed both in body and mind, may worship you in sincerity and truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.
+O God, who made this most holy night to shine with the glory of the Lord’s resurrection: Stir up in your Church that Spirit of adoption which is given to us in Baptism, that we, being renewed both in body and mind, may worship you in sincerity and truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.
 
 > or this
 
-Almighty God, who through your only-begotten Son Jesus Christ overcame death and opened to us the gate of everlasting life: Grant that we, who celebrate with joy the day of the Lord's resurrection, may be raised from the death of sin by your life-giving Spirit; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.
+Almighty God, who through your only-begotten Son Jesus Christ overcame death and opened to us the gate of everlasting life: Grant that we, who celebrate with joy the day of the Lord’s resurrection, may be raised from the death of sin by your life-giving Spirit; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.

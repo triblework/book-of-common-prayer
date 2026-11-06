@@ -190,7 +190,7 @@ Glory be to the Father, and to the Sonne : and to the holy Ghost.
 
 As it was in the beginning, and is now, and ever shall be : world without end. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lord have mercy upon us.
 

@@ -28,7 +28,7 @@ LORD of all power and might, Who art the author and giver of all good things; Gr
 
 **Question.** Do you not think that you are bound so to do?
 
-**Answer.** Yes, verily; and by God's help so I will. And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour. And I pray unto God to give me his grace, that I may continue in the same unto my life’s end.
+**Answer.** Yes, verily; and by God’s help so I will. And I heartily thank our heavenly Father, that he hath called me to this state of salvation, through Jesus Christ our Saviour. And I pray unto God to give me his grace, that I may continue in the same unto my life’s end.
 
 ## The Creed
 
@@ -36,7 +36,7 @@ LORD of all power and might, Who art the author and giver of all good things; Gr
 
 YOU said that your Sponsors promised and vowed that you should believe all the Articles of the Christian Faith. Recite the Articles of the Christian Faith as contained in the Apostles’ Creed.
 
-> Then, all standing, shall be said the Apostles' Creed by the Minister and People.
+> Then, all standing, shall be said the Apostles’ Creed by the Minister and People.
 
 I BELIEVE in God the Father Almighty, Maker of heaven and earth:
 
@@ -72,7 +72,7 @@ YOU said that your Sponsors promised and vowed that you should keep God’s holy
 
 > Then shall the Minister say,
 
-Let us ask God's help to know and to keep them.
+Let us ask God’s help to know and to keep them.
 
 The Lord be with you.
 
@@ -132,7 +132,7 @@ Lord, have mercy upon us, and incline our hearts to keep this law.
 
 X. Thou shalt not covet
 
-thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
+thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his servant, nor his maid, nor his ox, nor his ass, nor any thing that is his.
 
 Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
@@ -174,15 +174,15 @@ VIII. To keep my hands from picking and stealing: To be true and just in all my 
 
 IX. To keep my tongue from evil speaking, lying, and slandering:
 
-X. Not to covet nor desire other men's goods; But to learn and labour truly to earn mine own living, And to do my duty in that state of life unto which it shall please God to call me.
+X. Not to covet nor desire other men’s goods; But to learn and labour truly to earn mine own living, And to do my duty in that state of life unto which it shall please God to call me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall be sung a Hymn, after which the Minister shall say as followeth.
 
 KNOW this; that you are not able to do these things of yourself, nor to walk in the Commandments of God, and to serve him, without his special grace; which you must learn at all times to call for by diligent prayer. What is the prayer that our Lord taught us to pray?
 
-**Answer.** The Lord's Prayer.
+**Answer.** The Lord’s Prayer.
 
 **Minister.** Let us pray, as our Saviour Christ hath taught us, and say,
 
@@ -234,7 +234,7 @@ WHEN were you made a member of the Church?
 
 **Answer.** The Church is the Body of which Jesus Christ is the Head, and all baptized people are the members.
 
-**Question.** How is the Church described in the Apostles' and Nicene Creeds?
+**Question.** How is the Church described in the Apostles’ and Nicene Creeds?
 
 **Answer.** The Church is described in the Creeds as One, Holy, Catholic, and Apostolic.
 
@@ -248,7 +248,7 @@ Holy; because the Holy Spirit dwells in it, and sanctifies its members;
 
 Catholic; because it is universal, holding earnestly the Faith for all time, in all countries, and for all people; and is sent to preach the Gospel to the whole world;
 
-Apostolic; because it continues stedfastly in the Apostles' teaching and fellowship.
+Apostolic; because it continues stedfastly in the Apostles’ teaching and fellowship.
 
 **Question.** What is your bounden duty as a member of the Church?
 
@@ -292,27 +292,27 @@ HOW many Sacraments hath Christ ordained in his Church?
 
 **Question.** Why then are infants baptized, when by reason of their tender age they cannot perform them?
 
-**Answer.** Because, by the faith of their Sponsors, infants are received into Christ's Church, become the recipients of his grace, and are trained in the household of faith.
+**Answer.** Because, by the faith of their Sponsors, infants are received into Christ’s Church, become the recipients of his grace, and are trained in the household of faith.
 
-**Question.** Why was the Sacrament of the Lord's Supper ordained?
+**Question.** Why was the Sacrament of the Lord’s Supper ordained?
 
-**Answer.** The Sacrament of the Lord's Supper was ordained for the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
+**Answer.** The Sacrament of the Lord’s Supper was ordained for the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.
 
-**Question.** What is the outward part or sign of the Lord's Supper?
+**Question.** What is the outward part or sign of the Lord’s Supper?
 
-**Answer.** The outward part or sign of the Lord's Supper is, Bread and Wine, which the Lord hath commanded to be received.
+**Answer.** The outward part or sign of the Lord’s Supper is, Bread and Wine, which the Lord hath commanded to be received.
 
 **Question.** What is the inward part, or thing signified?
 
-**Answer.** The inward part, or thing signified, is the Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord's Supper.
+**Answer.** The inward part, or thing signified, is the Body and Blood of Christ, which are spiritually taken and received by the faithful in the Lord’s Supper.
 
-**Question.** What are the benefits whereof we are partakers in the Lord's Supper?
+**Question.** What are the benefits whereof we are partakers in the Lord’s Supper?
 
 **Answer.** The benefits whereof we are partakers in the Lord’s Supper are the strengthening and refreshing of our souls by the Body and Blood of Christ, as our bodies are strengthened and refreshed by the Bread and Wine.
 
-**Question.** What is required of those who come to the Lord's Supper?
+**Question.** What is required of those who come to the Lord’s Supper?
 
-**Answer.** It is required of those who come to the Lord's Supper to examine themselves, whether they repent them truly of their former sins, with stedfast purpose to lead a new life; to have a lively faith in God's mercy through Christ, with a thankful remembrance of his death; and to be in charity with all men.
+**Answer.** It is required of those who come to the Lord’s Supper to examine themselves, whether they repent them truly of their former sins, with stedfast purpose to lead a new life; to have a lively faith in God’s mercy through Christ, with a thankful remembrance of his death; and to be in charity with all men.
 
 ## The Ministry
 
@@ -328,7 +328,7 @@ WHAT orders of Ministers are there in the Church?
 
 **Question.** What is the office of a Priest?
 
-**Answer.** The office of a Priest is, to minister to the people committed to his care; to preach the Word of God; to baptize; to celebrate the Holy Communion; and to pronounce Absolution and Blessing in God's Name.
+**Answer.** The office of a Priest is, to minister to the people committed to his care; to preach the Word of God; to baptize; to celebrate the Holy Communion; and to pronounce Absolution and Blessing in God’s Name.
 
 **Question.** What is the office of a Deacon?
 
@@ -342,7 +342,7 @@ The Lord be with you.
 
 Let us pray.
 
-GRANT, O Lord, that they who shall renew the promises and vows of their Baptism, and be confirmed by the Bishop, may receive such a measure of thy Holy Spirit, that they may grow in grace unto their life's end; through Jesus Christ our Lord. Amen.
+GRANT, O Lord, that they who shall renew the promises and vows of their Baptism, and be confirmed by the Bishop, may receive such a measure of thy Holy Spirit, that they may grow in grace unto their life’s end; through Jesus Christ our Lord. Amen.
 
 GRANT, O Father, that when we receive the blessed Sacrament of the Body and Blood of Christ, coming to those holy mysteries in faith, and love, and true repentance, we may receive remission of our sins, and be filled with thy grace and heavenly benediction; through Jesus Christ our Lord. Amen.
 

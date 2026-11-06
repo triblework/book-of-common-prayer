@@ -2,19 +2,19 @@
 
 ## The Introduction
 
-> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person's house, shall say,
+> When any person is sick, notice shall be given thereof to the Minister of the Parish; who, coming into the sick person’s house, shall say,
 
 PEACE be to this house, and to all that dwell in it.
 
 ## The Antiphon
 
-> When he cometh into the sick person's presence, he shall say, kneeling down,
+> When he cometh into the sick person’s presence, he shall say, kneeling down,
 
 REMEMBER not, Lord, our iniquities, nor the iniquities of our forefathers; Spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and be not angry with us for ever.
 
 **Answer.** Spare us good Lord.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then the Minister shall say,
 
@@ -62,11 +62,11 @@ HEAR us, Almighty and most merciful God and Saviour. extend thy accustomed goodn
 
 > Then shall the Minister exhort the sick Person after this form, or other like,
 
-DEARLY beloved, know this, that Almighty God is the Lord of life and death, and of all things to them pertaining; as youth, strength, health, age, weakness, and sickness. Wherefore, whatsoever your sickness be, know you certainly that it is God's visitation. And for what cause soever this sickness be sent unto you; whether it be to try your patience for the example of others, and that your faith may be found, in the day of the Lord, laudable, glorious, and honourable, to the increase of glory and endless felicity, or else it be sent unto you to correct and amend in you whatsoever doth offend the eyes of your heavenly Father; know you certainly that if thou truly repent you of your sins, and bear your sickness patiently, trusting in God's mercy for his dear Son Jesus Christ's sake, and render unto him humble thanks for his fatherly visitation, submitting yourself wholly unto his will, it shall turn to your profit, and help you forward in the right way that leadeth unto everlasting life.
+DEARLY beloved, know this, that Almighty God is the Lord of life and death, and of all things to them pertaining; as youth, strength, health, age, weakness, and sickness. Wherefore, whatsoever your sickness be, know you certainly that it is God’s visitation. And for what cause soever this sickness be sent unto you; whether it be to try your patience for the example of others, and that your faith may be found, in the day of the Lord, laudable, glorious, and honourable, to the increase of glory and endless felicity, or else it be sent unto you to correct and amend in you whatsoever doth offend the eyes of your heavenly Father; know you certainly that if thou truly repent you of your sins, and bear your sickness patiently, trusting in God’s mercy for his dear Son Jesus Christ’s sake, and render unto him humble thanks for his fatherly visitation, submitting yourself wholly unto his will, it shall turn to your profit, and help you forward in the right way that leadeth unto everlasting life.
 
 > If the Person visited is very sick, then the Minister may end his Exhortation in this place, or else proceed.
 
-TAKE therefore in good part the chastisement of the Lord: For (as St. Paul saith in the twelfth Chapter to the Hebrews) whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the Father chasteneth not?. But if ye be without chastenment, whereof all are partakers, then are ye bastards, and not sons. <!-- VERIFY: source prints 'chastenment'; likely OCR / period variant of 'chastisement'; kept as printed; confirm against a page scan --> Furthermore, we have had fathers of our flesh, which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. These words, good brother, are written in holy Scripture for our comfort and instruction; that we should patiently, and with thanksgiving, bear our heavenly Father's correction, whensoever, by any manner of adversity, it shall please his gracious goodness to visit us. And there should be no greater comfort to Christian persons, than to be made like unto Christ, by suffering patiently adversities, troubles, and sicknesses. For He Himself went not up to joy, but first He suffered pain; He entered not into His glory before He was crucified. So truly our way to eternal joy is to suffer here with Christ; and our door to enter into eternal life is gladly to die with Christ; that we may rise again from death, and dwell with him in everlasting life. Now therefore, taking your sickness, which is thus profitable for you, patiently, I exhort you, in the Name of God, to remember the profession which you made unto God in your Baptism. And forasmuch as after this life there is an account to be given unto the righteous Judge, by whom all must be judged, without respect of persons, I require you to examine yourself and your estate, both toward God and man; so that, accusing and condemning yourself for your own faults, you may find mercy at our heavenly Father's hand for Christ's sake, and not be accused and condemned in that fearful judgment. Therefore I shall rehearse to you the Articles of our Faith; that you may know whether you do believe as a Christian man should, or no.
+TAKE therefore in good part the chastisement of the Lord: For (as St. Paul saith in the twelfth Chapter to the Hebrews) whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the Father chasteneth not?. But if ye be without chastenment, whereof all are partakers, then are ye bastards, and not sons. <!-- VERIFY: source prints 'chastenment'; likely OCR / period variant of 'chastisement'; kept as printed; confirm against a page scan --> Furthermore, we have had fathers of our flesh, which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. These words, good brother, are written in holy Scripture for our comfort and instruction; that we should patiently, and with thanksgiving, bear our heavenly Father’s correction, whensoever, by any manner of adversity, it shall please his gracious goodness to visit us. And there should be no greater comfort to Christian persons, than to be made like unto Christ, by suffering patiently adversities, troubles, and sicknesses. For He Himself went not up to joy, but first He suffered pain; He entered not into His glory before He was crucified. So truly our way to eternal joy is to suffer here with Christ; and our door to enter into eternal life is gladly to die with Christ; that we may rise again from death, and dwell with him in everlasting life. Now therefore, taking your sickness, which is thus profitable for you, patiently, I exhort you, in the Name of God, to remember the profession which you made unto God in your Baptism. And forasmuch as after this life there is an account to be given unto the righteous Judge, by whom all must be judged, without respect of persons, I require you to examine yourself and your estate, both toward God and man; so that, accusing and condemning yourself for your own faults, you may find mercy at our heavenly Father’s hand for Christ’s sake, and not be accused and condemned in that fearful judgment. Therefore I shall rehearse to you the Articles of our Faith; that you may know whether you do believe as a Christian man should, or no.
 
 ## The Examination
 
@@ -132,7 +132,7 @@ THE Almighty Lord, who is a most strong tower to all those who put their trust i
 
 > Here the Minister may use any part of the service of this book, which, in his discretion, he shall think convenient to the occasion; and after that shall say,
 
-UNTO God's gracious mercy and protection we commit thee. The Lord bless thee, and keep thee. The Lord make his face to shine upon thee, and be gracious unto thee. The Lord lift up his countenance upon thee, and give thee peace, both now and evermore. Amen.
+UNTO God’s gracious mercy and protection we commit thee. The Lord bless thee, and keep thee. The Lord make his face to shine upon thee, and be gracious unto thee. The Lord lift up his countenance upon thee, and give thee peace, both now and evermore. Amen.
 
 ## Additional Prayers
 
@@ -140,7 +140,7 @@ UNTO God's gracious mercy and protection we commit thee. The Lord bless thee, an
 
 > A Prayer for a sick Child.
 
-O ALMIGHTY God, and merciful Father, to whom alone belong the issues of life and death; Look down from heaven, we humbly beseech thee, with the eyes of mercy upon this child, now lying upon the bed of sickness: Visit him, O Lord, with thy salvation; deliver him in thy good appointed time from his bodily pain, and save his soul for thy mercies' sake: That, if it shall be thy pleasure to prolong his days here on earth, he may live to thee, and be an instrument of thy glory, by serving thee faithfully, and doing good in his generation; or else receive him into those heavenly habitations, where the souls of those who sleep in the Lord Jesus enjoy perpetual rest and felicity. Grant this, O Lord, for thy mercies' sake, in the same thy Son our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, ever one God, world without end. Amen.
+O ALMIGHTY God, and merciful Father, to whom alone belong the issues of life and death; Look down from heaven, we humbly beseech thee, with the eyes of mercy upon this child, now lying upon the bed of sickness: Visit him, O Lord, with thy salvation; deliver him in thy good appointed time from his bodily pain, and save his soul for thy mercies’ sake: That, if it shall be thy pleasure to prolong his days here on earth, he may live to thee, and be an instrument of thy glory, by serving thee faithfully, and doing good in his generation; or else receive him into those heavenly habitations, where the souls of those who sleep in the Lord Jesus enjoy perpetual rest and felicity. Grant this, O Lord, for thy mercies’ sake, in the same thy Son our Lord Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, ever one God, world without end. Amen.
 
 > A Prayer for a sick Person, when there appeareth but small hope of recovery.
 
@@ -190,7 +190,7 @@ VERILY, verily, I say unto you, He that heareth my Word and believeth on Him tha
 
 > At the time of the distribution of the holy Sacrament, the Minister shall first receive the Communion himself and after minister unto those who are appointed to communicate with the sick, and last of all to the sick person.
 
-> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or for lack of company to receive with him, or by any other just impediment, do not receive the Sacrament of Christ's Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and steadfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his Soul's health, although he do not receive the Sacrament with his mouth.
+> But if a man, either by reason of extremity of sickness, or for want of warning in due time to the Minister, or for lack of company to receive with him, or by any other just impediment, do not receive the Sacrament of Christ’s Body and Blood, the Minister shall instruct him, that if he do truly repent him of his sins, and steadfastly believe that Jesus Christ hath suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefor, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his Soul’s health, although he do not receive the Sacrament with his mouth.
 
 > When the sick person is visited, and receiveth the Holy Communion all at one time, then the Minister, for more expedition, shall cut off the form of the Visitation at the Psalm, and go straight to the Communion.
 

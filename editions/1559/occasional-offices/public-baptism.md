@@ -95,7 +95,7 @@ We receive this Childe into the congregacion of Christes flocke, and do sygne hi
 
 Seying now, derely beloved brethren that these children be regenerate and graffed into the bodye of Christes congregacion, let us geve thankes unto God for these benefites, and with one accorde make our praiours unto almighty God, that thei may lead the reste of their lyfe according to this beginning.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shal be sayd.
 

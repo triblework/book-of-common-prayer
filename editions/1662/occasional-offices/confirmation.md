@@ -6,7 +6,7 @@ or Laying on of Hands upon those that are baptized and come to years of discreti
 
 > Upon the day appointed, all that are to be then confirmed, being placed, and standing in order before the Bishop; he (or some other Minister appointed by him) shall read this Preface following.
 
-> To the end that Confirmation may be ministered to the more edifying of such as shall receive it, the Church hath thought good to order, That none hereafter shall be confirmed, but such as can say the Creed, the Lord's Prayer, and the Ten Commandments; and can also answer to such other Questions, as in the short Catechism are contained: which order is very convenient to be observed; to the end that children being now come to the years of discretion, and having learned what their Godfathers and Godmothers promised for them in Baptism, they may themselves, with their own mouth and consent, openly before the Church, ratify and confirm the same; and also promise, that by the grace of God they will evermore endeavour themselves faithfully to observe such things, as they by their own confession have assented unto.
+> To the end that Confirmation may be ministered to the more edifying of such as shall receive it, the Church hath thought good to order, That none hereafter shall be confirmed, but such as can say the Creed, the Lord’s Prayer, and the Ten Commandments; and can also answer to such other Questions, as in the short Catechism are contained: which order is very convenient to be observed; to the end that children being now come to the years of discretion, and having learned what their Godfathers and Godmothers promised for them in Baptism, they may themselves, with their own mouth and consent, openly before the Church, ratify and confirm the same; and also promise, that by the grace of God they will evermore endeavour themselves faithfully to observe such things, as they by their own confession have assented unto.
 
 ## The Renewal of Vows
 
@@ -42,7 +42,7 @@ Almighty and everliving God, who hast vouchsafed to regenerate these thy servant
 
 Defend, O Lord, this thy Child [or this thy Servant] with thy heavenly grace, that he may continue thine for ever; and daily increase in thy Holy Spirit, more and more, until he come unto thy everlasting kingdom. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 > Then shall the Bishop say,
 

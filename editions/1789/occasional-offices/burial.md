@@ -88,9 +88,9 @@ FORASMUCH as it hath pleased Almighty God, in his wise providence, to take out o
 
 I HEARD a voice from heaven, saying unto me, Write, From henceforth blessed are the dead who die in the Lord: even so saith the Spirit; for they rest from their labours. Rev. xiv. 13.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> Then the Minister shall say the Lord's Prayer. <!-- VERIFY: source prints 'Then the Minister shall say [the Lord's Prayer]' with a bracket-and-asterisk footnote ("omitted in 1892 BCP"); brackets/asterisk dropped as editorial apparatus, words kept as printed; confirm against a page scan -->
+> Then the Minister shall say the Lord’s Prayer. <!-- VERIFY: source prints 'Then the Minister shall say [the Lord's Prayer]' with a bracket-and-asterisk footnote ("omitted in 1892 BCP"); brackets/asterisk dropped as editorial apparatus, words kept as printed; confirm against a page scan -->
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.
 
@@ -112,7 +112,7 @@ MOST merciful Father, who hast been pleased to take unto thyself the soul of thi
 
 O LORD Jesus Christ, who by thy death didst take away the sting of death; Grant unto us thy servants so to follow in faith where thou hast led the way, that we may at length fall asleep peacefully in thee, and awake up after thy likeness; through thy mercy, who livest with the Father and the Holy Ghost, one God, world without end. Amen.
 
-ALMIGHTY and everliving God, we yield unto thee most high praise and hearty thanks, for the wonderful grace and virtue declared in all thy saints, who have been the choice vessels of thy grace and the lights of the world in their several generations; most humbly beseeching thee to give us grace so to follow the example of their stedfastness in thy faith, and obedience to thy holy commandments, that at the day of the general Resurrection, we, with all those who are of the mystical body of thy Son, may be set on his right hand, and hear that his most joyful voice: Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world. Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate. Amen.
+ALMIGHTY and everliving God, we yield unto thee most high praise and hearty thanks, for the wonderful grace and virtue declared in all thy saints, who have been the choice vessels of thy grace and the lights of the world in their several generations; most humbly beseeching thee to give us grace so to follow the example of their stedfastness in thy faith, and obedience to thy holy commandments, that at the day of the general Resurrection, we, with all those who are of the mystical body of thy Son, may be set on his right hand, and hear that his most joyful voice: Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world. Grant this, O Father, for Jesus Christ’s sake, our only Mediator and Advocate. Amen.
 
 > Inasmuch it may sometimes be expedient to say under shelter of the Church the whole or a part of the service appointed to be said at the Grave, the same is hereby allowed for weighty cause.
 

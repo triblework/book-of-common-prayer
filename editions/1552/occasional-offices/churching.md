@@ -30,7 +30,7 @@ Glory be to the father, and to the sonne, and to, &c.
 
 As it was in the begynnyng, is nowe, and ever, &c.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 Lorde, have mercy upon us.
 

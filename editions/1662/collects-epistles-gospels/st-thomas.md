@@ -4,7 +4,7 @@
 
 ## The Collect
 
-Almighty and everliving God, who for the more confirmation of the faith didst suffer thy holy Apostle Thomas to be doubtful in thy Son's resurrection: Grant us so perfectly, and without all doubt, to believe in thy Son Jesus Christ, that our faith in thy sight may never be reproved. Hear us, O Lord, through the same Jesus Christ, to whom, with thee and the Holy Ghost, be all honour and glory, now and for evermore. Amen.
+Almighty and everliving God, who for the more confirmation of the faith didst suffer thy holy Apostle Thomas to be doubtful in thy Son’s resurrection: Grant us so perfectly, and without all doubt, to believe in thy Son Jesus Christ, that our faith in thy sight may never be reproved. Hear us, O Lord, through the same Jesus Christ, to whom, with thee and the Holy Ghost, be all honour and glory, now and for evermore. Amen.
 
 > December 21.
 

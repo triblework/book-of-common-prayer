@@ -140,7 +140,7 @@ To be a light to lighten the Gentiles, : and to be the glory of thy people Israe
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
 > Officiant and People together, all standing
 
@@ -228,7 +228,7 @@ Lord God, whose Son our Savior Jesus Christ triumphed over the powers of death a
 
 > A Collect for Fridays
 
-O Lord Jesus Christ, who by thy death didst take away the sting of death:  Grant unto us thy servants so to follow in faith where thou hast led the way, that we may at length fall asleep peacefully in thee, and awake up after thy likeness; for thy tender mercies' sake.  Amen.
+O Lord Jesus Christ, who by thy death didst take away the sting of death:  Grant unto us thy servants so to follow in faith where thou hast led the way, that we may at length fall asleep peacefully in thee, and awake up after thy likeness; for thy tender mercies’ sake.  Amen.
 
 > A Collect for Saturdays
 
@@ -424,7 +424,7 @@ A Light to enlighten the nations, : and the glory of your people Israel.
 
 Glory to the Father, and to the Son, and to the Holy Spirit: : as it was in the beginning, is now, and will be for ever.  Amen.
 
-### The Apostles' Creed
+### The Apostles’ Creed
 
 > Officiant and People together, all standing
 
@@ -518,7 +518,7 @@ Lord God, whose Son our Savior Jesus Christ triumphed over the powers of death a
 
 > A Collect for Fridays
 
-Lord Jesus Christ, by your death you took away the sting of death: Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies' sake. Amen.
+Lord Jesus Christ, by your death you took away the sting of death: Grant to us your servants so to follow in faith where you have led the way, that we may at length fall asleep peacefully in you and wake up in your likeness; for your tender mercies’ sake. Amen.
 
 > A Collect for Saturdays
 
@@ -546,7 +546,7 @@ O God and Father of all, whom the whole heavens adore: Let the whole earth also 
 
 > or this
 
-Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  Amen.
+Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love’s sake.  Amen.
 
 > or the following
 

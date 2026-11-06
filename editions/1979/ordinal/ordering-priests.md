@@ -30,7 +30,7 @@ Almighty God, to you all hearts are open, all desires known, and from you no sec
 
 > The bishop and people sit.  A Priest and a Lay Person, and additional presenters if desired, standing before the bishop, present the ordinand, saying
 
-N., Bishop in the Church of God, on behalf of the clergy and people of the Diocese of N., we present to you N.N. to be ordained a priest in Christ's holy catholic Church.
+N., Bishop in the Church of God, on behalf of the clergy and people of the Diocese of N., we present to you N.N. to be ordained a priest in Christ’s holy catholic Church.
 
 **Bishop.**
 
@@ -148,9 +148,9 @@ We believe in one holy catholic and apostolic Church. We acknowledge one baptism
 
 My brother, the Church is the family of God, the body of Christ, and the temple of the Holy Spirit.  All baptized people are called to make Christ known as Savior and Lord, and to share in the renewing of his world.  Now you are called to work as a pastor, priest, and teacher, together with your bishop and fellow presbyters, and to take your share in the councils of the Church.
 
-As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts.  You are to love and serve the people among whom you work, caring alike for young and old, strong and weak, rich and poor. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
+As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts.  You are to love and serve the people among whom you work, caring alike for young and old, strong and weak, rich and poor. You are to preach, to declare God’s forgiveness to penitent sinners, to pronounce God’s blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ’s Body and Blood, and to perform the other ministrations entrusted to you.
 
-In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come.
+In all that you do, you are to nourish Christ’s people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come.
 
 My brother, do you believe that you are truly called by God and his Church to this priesthood?
 
@@ -180,7 +180,7 @@ My brother, do you believe that you are truly called by God and his Church to th
 
 **Answer.**  I will.
 
-**Bishop.**  Will you persevere in prayer, both in public and in private, asking God's grace, both for yourself and for others, offering all your labors to God, through the mediation of Jesus Christ, and in the sanctification of the Holy Spirit?
+**Bishop.**  Will you persevere in prayer, both in public and in private, asking God’s grace, both for yourself and for others, offering all your labors to God, through the mediation of Jesus Christ, and in the sanctification of the Holy Spirit?
 
 **Answer.**  I will.
 
@@ -232,7 +232,7 @@ The peace of the Lord be always with you.
 
 > The liturgy continues with the Offertory.  Deacons prepare the Table.
 
-> Standing at the Lord's Table, with the Bishop and other presbyters, the newly ordained Priest joins in the celebration of the Holy Eucharist and in the Breaking of the Bread.
+> Standing at the Lord’s Table, with the Bishop and other presbyters, the newly ordained Priest joins in the celebration of the Holy Eucharist and in the Breaking of the Bread.
 
 After Communion
 

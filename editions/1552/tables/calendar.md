@@ -294,7 +294,7 @@ September 30 | Sunday Letter: g | Psalter Day: 30 | Morning 1: 9 | Morning 2: 3 
 ## October
 
 October 1 | Sunday Letter: A | Psalter Day: 1 | Morning 1: Zach. 11 | Morning 2: Mark 4 | Evening 1: Zach. 12 | Evening 2: 1 Cor. 16 | Kalendar Note: Terme beg.
-October 2 | Sunday Letter: b | Psalter Day: 2 | Morning 1: 13 | Morning 2: 5 | Evening 1: 14 | Evening 2: 2 Cor. 1 | Kalendar Note: Sol.in Scor Nov'mbris Luc. Evan. Sim. & Ju.
+October 2 | Sunday Letter: b | Psalter Day: 2 | Morning 1: 13 | Morning 2: 5 | Evening 1: 14 | Evening 2: 2 Cor. 1 | Kalendar Note: Sol.in Scor Nov’mbris Luc. Evan. Sim. & Ju.
 October 3 | Sunday Letter: c | Psalter Day: 3 | Morning 1: Malach. 1 | Morning 2: 6 | Evening 1: Mala 2 | Evening 2: 2 | Kalendar Note: —
 October 4 | Sunday Letter: d | Psalter Day: 4 | Morning 1: 3 | Morning 2: 7 | Evening 1: 4 | Evening 2: 3 | Kalendar Note: —
 October 5 | Sunday Letter: e | Psalter Day: 5 | Morning 1: Toby. 1 | Morning 2: 8 | Evening 1: Toby. 2 | Evening 2: 4 | Kalendar Note: —

@@ -16,7 +16,7 @@ If you are not already baptized, N., I baptize you in the Name of the Father, an
 
 I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.
 
-The Lord's Prayer is then said.*
+The Lord’s Prayer is then said.*
 
 *Other prayers, such as the following, may be added
 

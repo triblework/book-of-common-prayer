@@ -38,13 +38,13 @@ Who giveth this Woman to be married to this Man?
 
 ## The Vows
 
-> Then shall they give their troth to each other in this manner. The Minister, receiving the Woman at her father's or friend's hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
+> Then shall they give their troth to each other in this manner. The Minister, receiving the Woman at her father’s or friend’s hands, shall cause the Man with his right hand to take the Woman by her right hand, and to say after him as followeth.
 
-I N. take thee N. to my wedded Wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
+I N. take thee N. to my wedded Wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.
 
 > Then shall they loose their hands; and the Woman with her right hand taking the Man by his right hand, shall likewise say after the Minister,
 
-I N. take thee N. to my wedded Husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
+I N. take thee N. to my wedded Husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.
 
 ## The Ring
 
@@ -54,15 +54,15 @@ WITH this Ring I thee wed: In the Name of the Father, and of the Son, and of the
 
 > And, before delivering the Ring to the Man, the Minister may say as followeth.
 
-BLESS, O Lord, this Ring, that he who gives it and she who wears it may abide in thy peace, and continue in thy favour, unto their life's end; through Jesus Christ our Lord. Amen.
+BLESS, O Lord, this Ring, that he who gives it and she who wears it may abide in thy peace, and continue in thy favour, unto their life’s end; through Jesus Christ our Lord. Amen.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
-> Then, the Man leaving the Ring upon the fourth finger of the Woman's left hand, the Minister shall say,
+> Then, the Man leaving the Ring upon the fourth finger of the Woman’s left hand, the Minister shall say,
 
 Let us pray.
 
-> Then shall the Minister and the People, still standing, say the Lord's Prayer.
+> Then shall the Minister and the People, still standing, say the Lord’s Prayer.
 
 OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done, On earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive, those who trespass against us. And lead us not into temptation, But deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.
 

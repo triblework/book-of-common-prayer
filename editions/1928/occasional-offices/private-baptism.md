@@ -8,7 +8,7 @@
 
 N. I baptize thee In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
-> After which shall be said the Lord's Prayer, and the Thanksgiving from the Office, beginning, We yield thee hearty thanks, etc.
+> After which shall be said the Lord’s Prayer, and the Thanksgiving from the Office, beginning, We yield thee hearty thanks, etc.
 
 > But NOTE, That in the case of an Adult, the Minister shall first ask the questions provided in this Office for the Baptism of Adults.
 

@@ -22,7 +22,7 @@ OUR Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will 
 
 O Lord, save thy servants; That put their trust in thee. Send unto them help from above. And evermore mightily defend them.
 
-Help us, O God our Saviour. And for the glory of thy Name deliver us; be merciful to us sinners, for thy Name's sake. O Lord, hear our prayer. And let our cry come unto thee.
+Help us, O God our Saviour. And for the glory of thy Name deliver us; be merciful to us sinners, for thy Name’s sake. O Lord, hear our prayer. And let our cry come unto thee.
 
 ## Let us pray.
 

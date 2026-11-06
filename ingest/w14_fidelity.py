@@ -63,7 +63,10 @@ SUPPLIED = {
     'week', 'january', 'february', 'march', 'april', 'may', 'june', 'july',
     'august', 'september', 'october', 'november', 'december', 'verify',
 }
-TOKEN = re.compile(r"[A-Za-z][A-Za-z']+")
+TOKEN = re.compile(r"[A-Za-z][A-Za-z'\u2019]+")
+# Wave 25 (R24): the cells' apostrophe is U+2019; a source may carry either
+# character. Attestation is of the WORD, so both sides fold it to "'".
+FOLD = lambda tok: tok.lower().replace('\u2019', "'")
 
 
 # Wave 23: words the e-text swallowed, restored from Church Publishing's
@@ -94,7 +97,7 @@ def source_tokens(urls):
                           re.sub(r'<[^>]+>', '', dehyph)])
         for t in variants:
             for m in TOKEN.finditer(t):
-                toks.add(m.group(0).lower())
+                toks.add(FOLD(m.group(0)))
     return toks
 
 
@@ -109,7 +112,7 @@ def pdf_tokens():
         r = pypdf.PdfReader(io.BytesIO(urllib.request.urlopen(req, timeout=60).read()))
         for pg in r.pages:
             for m in TOKEN.finditer(pg.extract_text() or ''):
-                toks.add(m.group(0).lower())
+                toks.add(FOLD(m.group(0)))
     return toks
 
 
@@ -123,7 +126,7 @@ def cell_tokens(path):
             line = ' '.join(re.sub(r'^[^:]{0,24}:\s*', '', f)
                             for f in line.split(' | '))
         for m in TOKEN.finditer(line):
-            toks.add(m.group(0).lower())
+            toks.add(FOLD(m.group(0)))
     return toks
 
 

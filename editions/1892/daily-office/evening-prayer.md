@@ -3,7 +3,7 @@
 ## The Opening Sentences
 
 > The Minister shall begin the Evening Prayer by reading one or more of the following Sentences of Scripture; and then he shall say that which is written after them.
-> But on days other than the Lord's Day, he may, at his discretion, pass at once from the Sentences to the Lord's Prayer.
+> But on days other than the Lord’s Day, he may, at his discretion, pass at once from the Sentences to the Lord’s Prayer.
 
 The Lord is in his holy temple: let all the earth keep silence before him.
 Hab. ii. 20.
@@ -103,7 +103,7 @@ Amen.
 
 ## The Lordes Prayer
 
-> Then the Minister shall kneel and say the Lord's Prayer; the People still kneeling, and repeating it with him.
+> Then the Minister shall kneel and say the Lord’s Prayer; the People still kneeling, and repeating it with him.
 
 Our Father, who art in heaven, Hallowed be thy Name.
 Thy kingdom come.
@@ -127,7 +127,7 @@ Amen.
 **Answer.** As it was in the beginning, is now, and ever shall be, world without end.
 Amen.
 **Minister.** Praise ye the Lord.
-**Answer.** The Lord's Name be praised.
+**Answer.** The Lord’s Name be praised.
 
 ## The Psalms
 
@@ -234,9 +234,9 @@ O praise the LORD, ye angels of his, ye that excel in strength : ye that fulfil 
 O praise the LORD, all ye his hosts : ye servants of his that do his pleasure.
 O speak good of the LORD, all ye works of his, in all places of his dominion : praise thou the Lord, O my soul.
 
-## The Apostles' Creed
+## The Apostles’ Creed
 
-> Then shall be said the Apostles' Creed by the Minister and the People, standing.
+> Then shall be said the Apostles’ Creed by the Minister and the People, standing.
 > And any Churches may, instead of the words, He descended into hell, use the words, He went into the place of departed Spirits, which are considered as words of the same meaning in the Creed.
 
 I believe in God the Father Almighty, Maker of heaven and earth:
@@ -317,7 +317,7 @@ Amen.
 O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations.
 More especially we pray for thy holy Church universal; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life.
 Finally, we commend to thy fatherly goodness all those who are any ways afflicted, or distressed, in mind, body, or estate; [especially those for whom our prayers are desired;] that it may please thee to comfort and relieve them, according to their several necessities; giving them patience under their sufferings, and a happy issue out of all their afflictions.
-And this we beg for Jesus Christ's sake.
+And this we beg for Jesus Christ’s sake.
 Amen.
 
 ## A General Thanksgiving

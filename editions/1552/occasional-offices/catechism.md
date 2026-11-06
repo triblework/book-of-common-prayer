@@ -62,7 +62,7 @@ VIII. Thou shalt not steale.
 
 IX. Thou shalt not bear false witnesse agaynste thy neighbour.
 
-X. Thou shalt not covite thy neighbour's house, thou shalt not covite thy neighbour's wife, nor his servaunt, nor his maide, nor his oxe, nor hys asse, nor any thyng that is hys.
+X. Thou shalt not covite thy neighbour’s house, thou shalt not covite thy neighbour’s wife, nor his servaunt, nor his maide, nor his oxe, nor hys asse, nor any thyng that is hys.
 
 **Question.** What doest thou chieflye learne by these commaundementes?
 
@@ -74,9 +74,9 @@ X. Thou shalt not covite thy neighbour's house, thou shalt not covite thy neighb
 
 **Question.** What is thy duetie towardes thy neyghbour?
 
-**Answer.** My duetie towards my neighboure is, to love hym as myself. And to doe to al men as I would they should do unto me. To love, honour and succour my father and mother. To honour and obey the kyng and hys ministers. To submit my self to all my governours, teachers, spiritual Pastours, and maisters. To ordre myself lowly and reverently to al my betters. To hurte no body by worde nor dede. To be true and juste in al my dealynge. To beare no malice nor hatred in my heart. To kepe my handes from pickyng and stealing, and my tongue from evil speaking, lying, and slaunderyng. To kepe my body in temperaunce, soberness, and chastitie. Not to covet nor desyre other men's goodes. But learne and labour truly to geat myne owne living, and to do my duetie in that state of lyfe, unto which it shall please god to call me.
+**Answer.** My duetie towards my neighboure is, to love hym as myself. And to doe to al men as I would they should do unto me. To love, honour and succour my father and mother. To honour and obey the kyng and hys ministers. To submit my self to all my governours, teachers, spiritual Pastours, and maisters. To ordre myself lowly and reverently to al my betters. To hurte no body by worde nor dede. To be true and juste in al my dealynge. To beare no malice nor hatred in my heart. To kepe my handes from pickyng and stealing, and my tongue from evil speaking, lying, and slaunderyng. To kepe my body in temperaunce, soberness, and chastitie. Not to covet nor desyre other men’s goodes. But learne and labour truly to geat myne owne living, and to do my duetie in that state of lyfe, unto which it shall please god to call me.
 
-## The Lord's Prayer
+## The Lord’s Prayer
 
 **Question.** My good chylde, knowe this, that thou art not able to doe these thyngs of thy selfe, nor to walke in the commaundementes of god, and to serve him, without hys speciall grace, which thou must learne at all tymes to cal for by diligent praier. Let me heare therefore if thou canst say the Lordes prayer.
 

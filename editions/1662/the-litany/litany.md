@@ -89,7 +89,7 @@ Christ, have mercy upon us.
 Lord, have mercy upon us.
 Lord, have mercy upon us.
 
-> Then shall the Priest, and the people with him, say the Lord's Prayer.
+> Then shall the Priest, and the people with him, say the Lord’s Prayer.
 
 Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will be done, in earth as it is in heaven. Give us this day our daily bread; And forgive us our trespasses, As we forgive them that trespass against us; And lead us not into temptation, But deliver us from evil. Amen.
 
@@ -101,7 +101,7 @@ Our Father which art in heaven, Hallowed be thy Name, Thy kingdom come, Thy will
 > Let us pray.
 
 O God, merciful Father, that despisest not the sighing of a contrite heart, nor the desire of such as be sorrowful: Mercifully assist our prayers that we make before thee in all our troubles and adversities, whensoever they oppress us; and graciously hear us, that those evils, which the craft and subtilty of the devil or man worketh against us, be brought to nought, and by the providence of thy goodness they may be dispersed; that we thy servants, being hurt by no persecutions, may evermore give thanks unto thee in thy holy Church; through Jesus Christ our Lord.
-O Lord, arise, help us, and deliver us for thy Name's sake.
+O Lord, arise, help us, and deliver us for thy Name’s sake.
 O God, we have heard with our ears, and our fathers have declared unto us, the noble works that thou didst in their days, and in the old time before them.
 O Lord, arise, help us, and deliver us for thine honour.
 **Priest.** Glory be to the Father, and to the Son: and to the Holy Ghost;

@@ -114,7 +114,7 @@ And in one Lord Jesus Christ, the only-begotten Son of God, begotten of his Fath
 
 > The Deacon or other person appointed says
 
-Let us pray for the whole state of Christ's Church and the world.
+Let us pray for the whole state of Christ’s Church and the world.
 
 > After each paragraph of this prayer, the People may make an appropriate response, as directed.
 
@@ -134,7 +134,7 @@ And we most humbly beseech thee, of thy goodness, O Lord, to comfort and succor 
 
 And we also bless thy holy Name for all thy servants departed this life in thy faith and fear [especially __________], beseeching thee to grant them continual growth in thy love and service; and to grant us grace so to follow the good examples of [__________ and of] all thy saints, that with them we may be partakers of thy heavenly kingdom.
 
-Grant these our prayers, O Father, for Jesus Christ's sake, our only Mediator and Advocate.  Amen.
+Grant these our prayers, O Father, for Jesus Christ’s sake, our only Mediator and Advocate.  Amen.
 
 > If there is no celebration of the Communion, or if a priest is not available, the service is concluded as directed on page 406.
 
@@ -154,7 +154,7 @@ Let us humbly confess our sins unto Almighty God.
 
 > Minister and People
 
-Almighty God, Father of our Lord Jesus Christ, maker of all things, judge of all men: We acknowledge and bewail our manifold sins and wickedness, which we from time to time most grievously have committed, by thought, word, and deed, against thy divine Majesty, provoking most justly thy wrath and indignation against us. We do earnestly repent, and are heartily sorry for these our misdoings; the remembrance of them is grievous unto us, the burden of them is intolerable. Have mercy upon us, have mercy upon us, most merciful Father; for thy Son our Lord Jesus Christ's sake, forgive us all that is past; and grant that we may ever hereafter serve and please thee in newness of life, to the honor and glory of thy Name; through Jesus Christ our Lord.  Amen.
+Almighty God, Father of our Lord Jesus Christ, maker of all things, judge of all men: We acknowledge and bewail our manifold sins and wickedness, which we from time to time most grievously have committed, by thought, word, and deed, against thy divine Majesty, provoking most justly thy wrath and indignation against us. We do earnestly repent, and are heartily sorry for these our misdoings; the remembrance of them is grievous unto us, the burden of them is intolerable. Have mercy upon us, have mercy upon us, most merciful Father; for thy Son our Lord Jesus Christ’s sake, forgive us all that is past; and grant that we may ever hereafter serve and please thee in newness of life, to the honor and glory of thy Name; through Jesus Christ our Lord.  Amen.
 
 > or this
 
@@ -192,7 +192,7 @@ The peace of the Lord be always with you.
 
 > During the Offertory, a hymn, psalm, or anthem may be sung.
 
-> Representatives of the congregation bring the people's offerings of bread and wine, and money or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
+> Representatives of the congregation bring the people’s offerings of bread and wine, and money or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
 
 ## The Great Thanksgiving
 
@@ -244,7 +244,7 @@ Likewise, after supper, he took the cup; and when he had given thanks, he gave i
 
 Wherefore, O Lord and heavenly Father, according to the institution of thy dearly beloved Son our Savior Jesus Christ, we, thy humble servants, do celebrate and make here before thy divine Majesty, with these thy holy gifts, which we now offer unto thee, the memorial thy Son hath commanded us to make; having in remembrance his blessed passion and precious death, his mighty resurrection and glorious ascension; rendering unto thee most hearty thanks for the innumerable benefits procured unto us by the same.
 
-And we most humbly beseech thee, O merciful Father, to hear us; and, of thy almighty goodness, vouchsafe to bless and sanctify, with thy Word and Holy Spirit, these thy gifts and creatures of bread and wine; that we, receiving them according to thy Son our Savior Jesus Christ's holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood.
+And we most humbly beseech thee, O merciful Father, to hear us; and, of thy almighty goodness, vouchsafe to bless and sanctify, with thy Word and Holy Spirit, these thy gifts and creatures of bread and wine; that we, receiving them according to thy Son our Savior Jesus Christ’s holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood.
 
 And we earnestly desire thy fatherly goodness mercifully to accept this our sacrifice of praise and thanksgiving; most humbly beseeching thee to grant that, by the merits and death of thy Son Jesus Christ, and through faith in his blood, we, and all thy whole Church, may obtain remission of our sins, and all other benefits of his passion.
 
@@ -296,7 +296,7 @@ Take them in remembrance that Christ died for you, and feed on him in your heart
 
 The Body of our Lord Jesus Christ, which was given for thee, preserve thy body and soul unto everlasting life.  Take and eat this in remembrance that  Christ died for thee, and feed on him in thy heart by faith, with thanksgiving.
 
-The Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body and soul unto everlasting life.  Drink this in remembrance that Christ's Blood was shed for thee, and be thankful.
+The Blood of our Lord Jesus Christ, which was shed for thee, preserve thy body and soul unto everlasting life.  Drink this in remembrance that Christ’s Blood was shed for thee, and be thankful.
 
 > or with these words
 
@@ -412,7 +412,7 @@ By whom, and with whom, and in whom, in the unity of the Holy Ghost all honor an
 
 And now, as our Savior Christ hath taught us, we are bold to say,
 
-> Continue with the Lord's Prayer be used
+> Continue with the Lord’s Prayer be used
 
 Offer to God a sacrifice of thanksgiving, and make good thy vows unto the Most High.  Psalm 50:14
 
@@ -436,7 +436,7 @@ Let us with gladness present the offerings and oblations of our life and labor t
 
 ## Proper Prefaces
 
-## Preface of the Lord's Day
+## Preface of the Lord’s Day
 
 > To be used on Sundays as appointed, but not on the succeeding weekdays
 
@@ -723,7 +723,7 @@ The peace of the Lord be always with you.
 
 > During the Offertory, a hymn, psalm, or anthem may be sung.
 
-> Representatives of the congregation bring the people's offerings of bread and wine, and money or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
+> Representatives of the congregation bring the people’s offerings of bread and wine, and money or other gifts, to the deacon or celebrant. The people stand while the offerings are presented and placed on the Altar.
 
 ### The Great Thanksgiving
 
@@ -925,7 +925,7 @@ And now, as our Savior Christ has taught us, we are bold to say,
 
 As our Savior Christ has taught us, we now pray,
 
-> Continue with the Lord's Prayer on page 364.
+> Continue with the Lord’s Prayer on page 364.
 
 ### Eucharistic Prayer C
 
@@ -973,7 +973,7 @@ And now, as our Savior Christ has taught us, we are bold to say,
 
 As our Savior Christ has taught us, we now pray,
 
-> Continue with the Lord's Prayer on page 364.
+> Continue with the Lord’s Prayer on page 364.
 
 ### Eucharistic Prayer D
 
@@ -1019,7 +1019,7 @@ When the hour had come for him to be glorified by you, his heavenly Father, havi
 
 After supper he took the cup of wine; and when he had given thanks, he gave it to them, and said, "Drink this, all of you: This is my Blood of the new Covenant, which is shed for you and for many for the forgiveness of sins.  Whenever you drink it, do this for the remembrance of me."
 
-Father, we now celebrate this memorial of our redemption. Recalling Christ's death and his descent among the dead, proclaiming his resurrection and ascension to your right hand, awaiting his coming in glory; and offering to you, from the gifts you have given us, this bread and this cup, we praise you and we bless you.
+Father, we now celebrate this memorial of our redemption. Recalling Christ’s death and his descent among the dead, proclaiming his resurrection and ascension to your right hand, awaiting his coming in glory; and offering to you, from the gifts you have given us, this bread and this cup, we praise you and we bless you.
 
 > Celebrant and People
 
@@ -1041,7 +1041,7 @@ And now, as our Savior Christ has taught us, we are bold to say,
 
 As our Savior Christ has taught us, we now pray,
 
-> Continue with the Lord's Prayer on page 364.
+> Continue with the Lord’s Prayer on page 364.
 
 ### Offertory Sentences
 
@@ -1069,7 +1069,7 @@ Let us with gladness present the offerings and oblations of our life and labor t
 
 ### Proper Prefaces
 
-### Preface of the Lord's Day
+### Preface of the Lord’s Day
 
 > To be used on Sundays as appointed, but not on the succeeding weekdays
 
@@ -1243,7 +1243,7 @@ In the communion of [ ___________ and of all the] saints, let us commend ourselv
 
 > In the course of the silence after each bidding, the People offer their own prayers, either silently or aloud.
 
-I ask your prayers for God's people throughout the world; for our Bishop(s) ___________ ; for this gathering; and for all ministers and people.
+I ask your prayers for God’s people throughout the world; for our Bishop(s) ___________ ; for this gathering; and for all ministers and people.
 
 Pray for the Church.
 
