@@ -2,20 +2,14 @@
 
 **▶ [Read it in the parallel viewer →](https://triblework.github.io/book-of-common-prayer/)** —
 compare editions of the prayer book side by side in your browser, with a
-GitHub-style diff of exactly what changed. No git required. *(Beta: the viewer
-and the texts are still being built and audited.)*
+GitHub-style diff of exactly what changed. No git required.
 
-> # 🚧 Work in progress
-> **The full texts of the Book of Common Prayer are actively being transcribed
-> and added edition by edition — more services are coming soon.** The repository
-> structure, tooling, and diff mechanism are complete; today the transcribed
-> text covers **every service family the project set out to carry** — the
-> offices, the Litany, Holy Communion, the occasional offices, the Ordinal, the
-> propers, the Psalter and the tables — across every edition that has them;
-> what remains are recorded gaps and uncertain readings. No
-> text is ever invented — everything is sourced from faithful public-domain
-> transcriptions (see [`SOURCES.md`](SOURCES.md)). See
-> [Transcription status](#transcription-status) for what's here and what's next.
+**The transcription is complete as scoped, and the corpus was frozen on
+2026-11-06.** What remains is recorded gaps and uncertain readings, each listed
+in [`SOURCES.md`](SOURCES.md#recorded-gaps-and-open-questions-close-out-register-2026-11-06)
+— no text is ever invented to fill one. To propose new scholarship, such as a
+page scan that settles a flagged reading, open an issue; accepted work is added
+as a new wave and the history rebuilt.
 
 A public, version-controlled edition of the **Book of Common Prayer (BCP)** in
 which the historical evolution of the book is expressed as **git history** —
@@ -93,12 +87,6 @@ see `NOTICE.md`.)*
 | 1979 | American | `american` | `v1979` | Current American book (public domain). |
 
 ## Transcription status
-
-> **🚧 Work in progress.** The full text of every service is actively being
-> transcribed and will be added edition by edition — check back soon. The
-> repository structure, tooling, and diff mechanism are already complete; the
-> text is being filled in against faithful public-domain sources (no text is
-> ever invented — see `SOURCES.md`).
 
 The **structure is complete**: all three branches and all twelve tags exist, and
 the diff mechanism works end-to-end. The **transcribed text** covers every

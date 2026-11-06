@@ -1,5 +1,122 @@
 # BCP build-out — handoff for a fresh chat instance
 
+## PROJECT CLOSED — corpus frozen (2026-11-06)
+
+**The build-out is complete as scoped and the corpus is frozen (RULINGS R26,
+spec §2.6).** Waves 0–25 are published; the close-out added one records-only
+republish (`texts/` byte-identical at all twelve tags; only NOTICE, README and
+SOURCES changed). Nothing is rebuilt again except for genuinely new
+scholarship, brought as a new wave (procedure below). If you are a fresh
+session reading this file, start here; the wave blocks below are history.
+
+**Published tips after the close-out:** PUBLISH_TIPS_PLACEHOLDER
+
+### The register (computed from the repo on 2026-11-06, after Wave 25)
+
+**Ten cells are `inherited-unreviewed`** (`provenance.yaml`), all recorded
+gaps (decision: no further transcription, R26):
+
+| Edition | Service | Carries | Why |
+|---|---|---|---|
+| 1604 | `tables/calendar` | 1559's | No 1604 source transcribed (same gap as the 1604 propers). Candidate: `1559/BCP1634.pdf` (Q2). |
+| 1604 | `front-matter/order-how-psalter-appointed` | 1559's | As above. |
+| 1604 | `front-matter/order-how-rest-of-scripture` | 1559's | As above. |
+| 1637 | `tables/calendar` | 1604's | Scottish line transcribed for the Communion only. Source in hand: justus keyed HTML (Q6). Not closed by maintainer decision (R27). |
+| 1637 | `front-matter/order-how-psalter-appointed` | 1604's | As above. |
+| 1637 | `front-matter/order-how-rest-of-scripture` | 1604's | As above. |
+| 1892 | `tables/calendar` | 1789's | justus HTML lost the row structure. Source in hand: cached `1892Standard/1892standard.pdf` pp. 12–23 (Q0). Not closed by maintainer decision (R27). |
+| 1789 | `psalter/psalms-1-50` | 1662's | No source for the 1789 Psalter; backward derivation rejected (R2). Candidate: 1795 folio `psalms.pdf` (Q1c). |
+| 1789 | `psalter/psalms-51-100` | 1662's | As above. |
+| 1789 | `psalter/psalms-101-150` | 1662's | As above. |
+
+The maintainer on the two with sources in hand (2026-11-06): "Just record
+them as gaps. In reality the Kalendar may not have been updated per edition
+but inherited wholesale." A reason not to spend the time, never evidence;
+reading those sources reopens them (R27).
+
+**438 verify_items open** (unchanged by Waves 24–25). By edition: 1979 131,
+1559 64, 1892 46, 1549 40, 1552 40, 1928 29, 1789 28, 1604 25, 1637 21,
+1662 9, 1764 3, 1929 2. By family: collects-epistles-gospels 173,
+occasional-offices 130, tables 41, daily-office 24, holy-communion 23,
+ordinal 15, the-litany 12, psalter 11, prayers-and-thanksgivings 5,
+front-matter 4. Nearly all need a page scan; 100 of 1979's need a pre-2006
+printing (R11 addendum).
+
+**Open questions (RULINGS "Open questions"):** the 1662 communion admission
+rubric; the 1945 lectionary revision; the 1789 Psalter under R2. Each carries
+its reopener there. (1892 letter case was settled by R23.)
+
+**Source queue (§8, "THE QUEUE, re-surveyed 2026-10-16"):** Q0 the cached
+scans (1892 Kalendar + up to 42 v1892 flags; 22 v1928 flags); Q1 the 1789
+book in its 1790/1795 printings (both Proper Psalms leads, November Kalendar,
+the 1789 Psalter); Q2 the 1604 text in the 1623/1634 printings; Q3 the
+Convocation Book (three 1662 Kalendar flags); Q4 done (Wave 21); Q5 justus's
+single-page photographs (six flags; the 1549 ordering-of-priests tail, to the
+maintainer first); Q6 the 1637 Kalendar and rubrics. Queued from Waves
+23–25: 100 1979 flags needing a pre-2006 scan; the rest of 1979's
+small-capital LORD; three stray marks (Advent 4 `deliver` ×3, 1892 For Rain
+`may’`, 1928 Public Baptism `‘`); the 1892 Churching psalm keyed as prose
+(two flags closable off scan pp. 331–332); `Scotland/BCP1929.pdf` for both
+v1929 flags.
+
+**Viewer deferred (`authoring/viewer/DEFERRED.md`):** (1) anchor ordering
+when 1979 Rite II is in view; (2) fonts from the Google Fonts CDN; (3)
+provenance is edition-level only; (4) no source link for 1604/1637/1789/1892/
+1928 (the `SOURCES.md` parse quirk, recorded at the close-out); plus the QA
+pass's low items. None blocks the viewer.
+
+### Where each kind of open item lives
+
+- **Editorial decisions and open questions** → `RULINGS.md` (R1–R27, then
+  "Queued rulings" and "Open questions awaiting a ruling").
+- **Sources that could settle things, with method and priority** → this
+  file, §8.
+- **Per-reading flags, gaps for readers** → `repo-root/SOURCES.md`
+  ("Recorded gaps and open questions" register; "Uncertain passages" table,
+  which the published-context `verify_index` reads — never reorder it by
+  hand) and `provenance.yaml` (`verify_items`, `status`).
+- **Viewer** → `authoring/viewer/DEFERRED.md`.
+- **The specs** → `BCP-FULL-TRANSCRIPTION-SPEC.md` and `BCP-VIEWER-SPEC.md`
+  at the root of `authoring` (committed at the close-out; §0).
+
+### Reopening (new scholarship only; R26)
+
+1. `git -C /Users/wtrible/Developer/bcp worktree prune`, then a fresh
+   worktree of `authoring` in the session scratchpad; `git fetch origin` and
+   confirm it is at `origin/authoring`. One `cd $WT && …` chain per command
+   (a failed `cd` must stop everything). Check `git worktree list` for
+   another worktree holding `authoring`; if one is clean and at origin,
+   remove it (copy its ignored `ingest/.cache` first).
+2. Precondition: `python3 $WT/tools/build_history.py --authoring $WT
+   --live-repo /Users/wtrible/Developer/bcp --check` passes.
+3. Take the new wave number from `repo-root/NOTICE.md`'s rebuild log (the
+   last is Wave 25; the close-out entry is not a wave). Read RULINGS first.
+4. Do the wave on `authoring`; record every decision in RULINGS as it is
+   made; gates per §5 (texts change on purpose: no `--check`).
+5. Ask the maintainer for the go-ahead (R4). Then publish per §5 — tags
+   pushed BY NAME, never `--tags` — and verify 28 refs local == remote.
+6. Record in NOTICE (inside the log, before `## A note on transcription`),
+   this file and the memory; push `authoring` (that push rebuilds the
+   viewer); run the viewer parity check below.
+
+### Viewer parity check (the closing condition of every publish)
+
+1. Wait for `viewer` + `Authoring CI` on `authoring` and `CI` on main,
+   scottish, american: `GH_TOKEN=$(gh auth token --user triblework) gh run
+   list --repo triblework/book-of-common-prayer --limit 10`; all green.
+2. `python3 $WT/tools/build_viewer_data.py --repo /Users/wtrible/Developer/bcp
+   --out <scratch>/viewer-data --schema-dir $WT/viewer/data/schema`.
+3. `curl -sf` (never without `-f`) and `cmp`: every `<scratch>/viewer-data/*.json`
+   against `https://triblework.github.io/book-of-common-prayer/viewer/data/<file>`;
+   `index.html`, `app.js`, `diff.js`, `styles.css` from
+   `$WT/authoring/viewer/` against the site root; the two schemas against
+   `…/viewer/data/schema/<file>`. All byte-identical (280 data + 4 + 2 at the
+   close-out); any difference or missing file is a failure.
+4. Open the viewer, Compare 1549 | 1552 Morning Prayer, confirm paired lines
+   show word-level highlights.
+
+---
+
 You are continuing the transcription of the **Book of Common Prayer** as git
 history. Read this whole file first, then read the spec and the two prior briefs.
 **Prime directive: source every word from an allow-listed public-domain source,
@@ -1570,11 +1687,16 @@ done and what remains:
 ## 0. First actions (do these in order)
 
 1. `cd /Users/wtrible/Developer/bcp` and read:
-   - `/Users/wtrible/Developer/bcp/BCP-FULL-TRANSCRIPTION-SPEC.md` — the full spec
+   - `BCP-FULL-TRANSCRIPTION-SPEC.md` at the root of `authoring` — the full spec
      (waves, depth tiers §3, canonical anchors §3.2, sourcing §4, presence matrix
-     §6.1, verification §7, licensing §8). **Authoritative.** Lives in the repo root
-     but is git-ignored (via `.git/info/exclude`), so it is present locally yet
-     never tracked/published. (Was formerly at `~/Downloads/`.)
+     §6.1, verification §7, licensing §8). **Authoritative.** Committed to
+     `authoring` at the close-out (2026-11-06) so it survives this Mac; until
+     then it lived only in the primary repo's root, git-ignored via
+     `.git/info/exclude` (formerly at `~/Downloads/`). That local copy and its
+     exclude line remain; the committed one is the record. `authoring` is never
+     stamped into published commits, so committing it publishes nothing.
+   - `BCP-VIEWER-SPEC.md` at the root of `authoring` — the reader's viewer spec
+     (also committed at the close-out; formerly only in `~/Downloads/`).
    - `CONTRIBUTING.md` (on `main`) — the authoring workflow + format rules.
    - Your memory note `bcp-build-out-waves` (auto-loaded) — current status.
 2. Create a fresh authoring worktree (the old one was in session scratch):
@@ -1960,6 +2082,18 @@ planning around them.
    are 1896 printings (the 1892 book — noted for the 1892 pointing collation),
    and LoC's 1930 record has no digital copy. The 1928 cells already published
    are unaffected; what is blocked is reading anything further against justus.
+
+   **The 403 was confirmed GLOBAL on 2026-09-25** (recorded at the close-out,
+   2026-11-06): the maintainer opened the same address on a phone over
+   cellular data that day and got the same Apache "Forbidden" page, so it was
+   the server's rule for everyone, not this network. Timeline: last
+   successful justus fetch 2026-09-11 evening (`1892Standard/1892standard.pdf`);
+   first failure 2026-09-18 16:50 UTC, of a different kind (no connection at
+   all on ports 80 and 443 — "TCP refused" above is looser than the actual
+   errors); 403 on `bcp/` first seen 2026-09-25; the tree back 2026-10-16
+   (the re-survey above). Precedent: down at Wave 7 (2026-08-13, a TLS
+   failure), back within a day. The contact, if it happens again:
+   websexton@justus.anglican.org.
 4. **Offline and self-contained, any time:** ~~the full 1892 pointing collation~~
    (DONE, Wave 22, 2026-10-16: every mediant read by eye); the 1789 Ascension
    "24, 47, 103" lead; the 1637 missing-page span; the 1892 Kalendar's lost row

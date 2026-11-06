@@ -622,6 +622,86 @@ part is a maintainer ruling reopening R11 for this one class.*
 - *Interaction with R24:* every possessive is written with `’`
   (`LORD’s`, `LORD’S`).
 
+## R26 — The corpus is frozen (spec §2.6)
+*(maintainer), 2026-11-06, the close-out. Closes the build-out.*
+
+Spec §2.6 anticipated it: "Once the corpus is essentially complete, the
+project may **freeze**: stop rebuilding and only append genuinely new future
+scholarship forward. Force-push churn is a build-out-phase phenomenon." The
+maintainer closed the project on 2026-11-06 with one records-only republish
+(`texts/` byte-identical at all twelve tags; only `NOTICE.md`, `README.md` and
+`SOURCES.md` changed), and decided, in the close-out brief: **no further
+transcription** — every remaining `inherited-unreviewed` cell stays a recorded
+gap.
+
+- **Ruled:** the build-out is complete as scoped. No rebuild or force-push
+  happens again except for **genuinely new scholarship brought as a new
+  wave**: cut from `authoring` in a fresh worktree, numbered from the next
+  number in `NOTICE.md`'s rebuild log, passing every gate, and published only
+  with the maintainer's go-ahead given in that session (R4, unchanged). A
+  documentation fix on its own is not a reason to republish: it waits on
+  `authoring` for the next wave. SHAs remain outside the interface (spec
+  §2.6): tags and diffs are the interface.
+- **What stays recorded, not done:** the ten `inherited-unreviewed` cells
+  (1604 and 1637 Kalendar and both table rubrics; 1892 Kalendar; the 1789
+  Psalter ×3), 438 flagged readings, the open questions below, the source
+  queue in `HANDOFF.md` §8 and the viewer's `authoring/viewer/DEFERRED.md`.
+  The register is in the close-out block at the top of `HANDOFF.md` and,
+  for readers, in `SOURCES.md` ("Recorded gaps and open questions").
+- *My calls in carrying it out (2026-11-06; the maintainer may overturn any):*
+  (a) **The freeze follows Wave 25, not Wave 24.** The close-out brief named
+  Wave 24 as the last content wave; Wave 25 (R24, R25) was published the same
+  day by a side session, before the close-out ran. The precondition was
+  checked against both (authoring `7ac8acf` rebuilds the live tags' `texts/`
+  byte for byte; the only other difference was Wave 25's own post-publish
+  tip line in `NOTICE.md`). (b) **The close-out's `NOTICE.md` entry carries no
+  published tips**, unlike the wave entries: a tip line added after the
+  publish would ship only with a next rebuild that the freeze rules out, and
+  without it `authoring` reproduces the published commits exactly. The tips
+  are in `HANDOFF.md` and the project memory. (c) **The viewer's wording only**
+  (`authoring/viewer/index.html` banner, `app.js` About note) changed from
+  "Beta / work in progress" to the frozen status; class names, styles and
+  behaviour are untouched. (d) **A latent viewer quirk is recorded, not
+  fixed** (tools are frozen with the corpus): `build_viewer_data.py`'s
+  `parse_sources_urls` takes the FIRST `SOURCES.md` table row whose first
+  cell is a bare year, and the recorded-gaps table precedes the per-edition
+  source tables, so the viewer shows no source link for 1604, 1637, 1789,
+  1892 and 1928. The close-out kept that table's year rows in the same order
+  and position so the viewer's output is unchanged, and added no new
+  year-keyed table rows. Logged in `authoring/viewer/DEFERRED.md`. (e) The
+  register's flag counts are computed from `provenance.yaml`, not carried
+  from memory: 438, the same as before Waves 24–25 (neither opened or
+  closed a flag).
+- *Reopened by:* genuinely new scholarship (a page scan or source that settles
+  a flagged reading, closes a recorded gap, or answers an open question),
+  brought as a new wave with the maintainer's go-ahead; or the maintainer
+  lifting the freeze.
+
+## R27 — The 1892 and 1637 Kalendars stay recorded gaps, with sources in hand
+*(maintainer), 2026-11-06, the close-out.*
+
+Two of the ten gap cells have a source in hand: the **1892 Kalendar** is
+printed in the cached 1892 Standard Book scan (`1892Standard/1892standard.pdf`,
+scan pp. 12–23; HANDOFF §8 Q0), and the **1637 Kalendar and both table
+rubrics** are served by justus as keyed HTML (`Scotland/Kalendar_1637.htm`,
+`Scotland/Lectionary_1637.htm`, the cached `front_matter_1637.htm`; Q6). The
+maintainer chose not to close them, in these words: **"Just record them as
+gaps. In reality the Kalendar may not have been updated per edition but
+inherited wholesale."**
+
+- **Ruled:** both stay `inherited-unreviewed`, recorded in `SOURCES.md` with
+  the source that could close them.
+- **What the maintainer's remark is, and is not:** a reason not to spend the
+  time, **never evidence** about either book. It does not license
+  `reviewed-unchanged`: that status means a cell was checked against its own
+  source and found equal to its parent, and it would need the scan (1892) or
+  the HTML (1637) read. Nothing in the repo says the 1892 Kalendar equals
+  1789's or the 1637 Kalendar 1604's.
+- *Reopened by:* reading those sources — a wave that transcribes the 1892
+  Kalendar from the scan (the Wave-20 table pipeline on the 1789 row model,
+  per the queued ruling below) or the 1637 Kalendar and rubrics from the HTML
+  (the Wave-14 parser), under R26's procedure.
+
 ---
 
 ## Queued rulings (provisional; made 2026-10-16 on the justus survey, to be confirmed when each step is started)
@@ -659,6 +739,10 @@ last checked.
 
 ## Open questions awaiting a ruling
 
+*Close-out register (2026-11-06, R26): three remain, each frozen as it
+stands, each with what would reopen it.* (Wave 22's 1892 letter-case
+question was settled by R23 and is no longer listed.)
+
 - **The 1662 communion admission rubric.** What the carrier prints (an account
   to the Ordinary, seven days, an opportunity for interview) is no part of the
   1662 text: the Annexed Book prints the "open and notorious evil liver" rubric
@@ -668,10 +752,15 @@ last checked.
   text, not a blank. Options: leave it flagged as now; set the Annexed Book's
   rubric in the MS's spelling, marked; or wait for a printed-1662 scan.
   Flagged inline and in `SOURCES.md`.
+  *Reopened by:* a scan of a printed 1662 book, or the maintainer choosing one
+  of the options.
 - **The 1945 lectionary revision** (Wave 14, maintainer-ruled to omit). justus
   publishes the 1928 lectionary twice; `v1928` carries the original (in use
   1928–1944). If the 1945 revision is ever wanted it needs its own
   representation — a second node or a sibling file — never a silent overwrite.
+  *Reopened by:* the maintainer deciding the repo should carry the revision.
 - **The 1789 Psalter** remains a recorded gap under R2; justus's dated change
   table could inform a future attempt, but the maintainer ruled it out as a
   source to derive from.
+  *Reopened by:* a scan of the 1789 Psalter itself; justus's 1795 folio
+  `1789/1795%20folio/psalms.pdf` (HANDOFF §8 Q1c) is the candidate, unread.

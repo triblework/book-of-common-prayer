@@ -51,3 +51,16 @@ high/medium findings were all fixed; these remain, each low-risk and non-blockin
 spec §13 graceful fallback (edition status + a link to `SOURCES.md`) as the
 normal path. If per-service provenance rows are ever added upstream, the builder
 and popover can surface them without a schema change (fields already nullable).
+
+## 4. Source links missing for five editions (recorded at the close-out, 2026-11-06)
+`tools/build_viewer_data.py::parse_sources_urls` takes the FIRST table row in
+`SOURCES.md` whose first cell is a bare year. The recorded-gaps table (now in
+the close-out register, "Recorded gaps and open questions") comes before the
+per-edition source tables, so its rows win for 1604, 1637, 1789, 1892 and
+1928, and the viewer shows no source link for those editions. The close-out
+kept that table's year rows in the same order and position, so the viewer's
+output did not change; tools are frozen with the corpus (`RULINGS.md` R26).
+
+_Possible fixes to weigh:_ read only the tables under the English / Scottish /
+American line headings; or skip rows whose second cell has no URL instead of
+recording `None`.

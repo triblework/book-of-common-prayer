@@ -71,20 +71,8 @@ Several tables are also carried for some editions but not others; where an editi
 could not be sourced it INHERITS its parent's and is marked
 `inherited-unreviewed` in `provenance.yaml`. **That is a transcription gap, not a
 claim that the edition reprinted its parent unchanged.** The gaps are listed
-below. Where an edition could not be sourced cleanly, that is always stated
+in the close-out register, *Recorded gaps and open questions*, below. Where an edition could not be sourced cleanly, that is always stated
 explicitly rather than filled with invented text.
-
-### Recorded gaps in the tables
-
-| Edition | Table | Why |
-|---|---|---|
-| 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). |
-| 1789 | the Psalter | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. |
-| 1604 | Kalendar, both rubrics | No allow-listed 1604 source exists — the same gap recorded for the 1604 propers. |
-| 1637 | Kalendar, both rubrics | The Scottish line is transcribed for the Communion; the 1637 book does print these. |
-| 1892 | Kalendar | The source HTML has lost the table's row structure — several days are packed into one line-break slot, the packing differs column by column, and continuation lines interleave. No structural rule recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. |
-| 1928 | the 1945 revision of the lectionary | The 1928 book's lectionary exists in two forms: the original (1928–1944), which `v1928` carries, and the 1945 revision (*Psalms and Lessons for the Christian Year*, in use 1945–1978). One edition node cannot carry both; the revision is deliberately omitted. It is not a gap in `v1928`, which is complete as printed in 1928. |
-| 1549–1604 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion (as recorded from their own sources in Wave 14; not re-checked since). The 1662 book does NOT: it prints one table that the row model fits, transcribed in Wave 20. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. |
 
 ### The 1928 tables (Wave 15)
 
@@ -113,8 +101,8 @@ and Fasts 10, Proper Psalms and Selections 13, rubrics 2, Tables of Lessons
 190; Wave 16 withdrew one, below). No value was computed: the Calendar's seven-day letter cycle *found* its
 defects, and the scan supplied every missing value.
 
-This is the original lectionary (1928–1944), not the 1945 revision — see the
-recorded gaps above.
+This is the original lectionary (1928–1944), not the 1945 revision — see
+*Recorded gaps and open questions* below.
 
 | Cell | Source | Book pages | Rows |
 |---|---|---|---|
@@ -643,6 +631,99 @@ read:
 This changes `texts/original` and `texts/normalized` at every tag (the
 apostrophe), with the possessives at `v1892` and `v1979`. No flag opened or
 closed.
+
+---
+
+## Recorded gaps and open questions (close-out register, 2026-11-06)
+
+The transcription is complete as scoped, and the corpus was frozen on
+2026-11-06: the history is rebuilt again only for new scholarship. This is
+what it does not carry, and what could settle each item. Nothing here is
+filled by reconstruction.
+
+### Recorded gaps
+
+Ten files are `inherited-unreviewed` in `provenance.yaml`: the edition's own
+text was never transcribed, so the file carries its parent's. **That is a
+transcription gap, not a claim that the edition reprinted its parent
+unchanged.** The other rows are gaps with no file to inherit, or a form
+deliberately not carried.
+
+| Edition | Files or table | Why it is a gap | What could close it |
+|---|---|---|---|
+| 1789 | the Psalter (`psalter/psalms-1-50`, `-51-100`, `-101-150`; 1789 carries 1662's) | justus's 1789 index points its Psalter link at the shared 1928 page, and the 1790 folio's text layer is unusable OCR. Deriving it backwards from 1892 or 1928 was rejected: an apparatus is only as complete as its editor, so silence is not evidence of no change. | A scan of the 1789 Psalter. justus's scan of the 1795 folio printing (`1789/1795%20folio/psalms.pdf`) is a candidate; it has not been read. |
+| 1604 | the Kalendar (`tables/calendar`) and both rubrics (`front-matter/order-how-psalter-appointed`, `order-how-rest-of-scripture`); 1604 carries 1559's | No 1604 source has been transcribed, the same gap recorded for the 1604 propers. | justus holds a 1623 printing of the 1604 text (`1559/BCP1623.pdf`, its front leaves missing) and an imperfect 1634 printing (`1559/BCP1634.pdf`) that may print the Kalendar and rubrics. Neither has been read; the 1634 copy names King Charles, so nothing that depends on the reign can come from it. |
+| 1637 | the Kalendar and both rubrics (the same three files); 1637 carries 1604's | The Scottish line was transcribed for the Communion; the 1637 book does print all three. | justus serves them as keyed HTML (`Scotland/Kalendar_1637.htm`, `Scotland/Lectionary_1637.htm`, `front_matter_1637.htm`). Deliberately not transcribed at the close-out (below). |
+| 1892 | the Kalendar (`tables/calendar`); 1892 carries 1789's | The source HTML has lost the table's row structure — several days are packed into one line-break slot, the packing differs column by column, and continuation lines interleave. No structural rule recovers per-day rows, and a wrong reconstruction would silently misdate a year of lessons. | The 1892 Standard Book scan this project already uses for the Psalter prints it (scan pages 12–23). Deliberately not read at the close-out (below). |
+| 1549–1604 | the Psalter | No allow-listed source; the Psalter enters the history at 1662 (see above). | A source for those books' Psalter. The 1634 printing's Psalter (`1559/Psalter1634.pdf`) could serve 1604 only. |
+| 1549–1604 | Proper Lessons | These books print their proper lessons as some thirty small per-occasion tables whose column heights vary with the occasion (as recorded from their own sources in Wave 14; not re-checked since). The 1662 book does NOT: it prints one table that the row model fits, transcribed in Wave 20. No single row model fits them, and applying one only where it succeeds would publish a file reading as "these occasions only" — a false historical claim. | A scan showing whether those books' tables fit the row model after all. |
+| 1928 | the 1945 revision of the lectionary | The 1928 book's lectionary exists in two forms: the original (1928–1944), which `v1928` carries, and the 1945 revision (*Psalms and Lessons for the Christian Year*, in use 1945–1978). One edition node cannot carry both; the revision is deliberately omitted. It is not a gap in `v1928`, which is complete as printed in 1928. | A decision to carry the revision as a node or file of its own. |
+
+**The 1892 and 1637 Kalendars have sources in hand and were deliberately left
+as gaps.** The maintainer, 2026-11-06: "Just record them as gaps. In reality
+the Kalendar may not have been updated per edition but inherited wholesale."
+That is a reason not to spend the time, not evidence about either book: both
+stay `inherited-unreviewed`, because calling them unchanged would need the
+scan and the HTML read, and reading those sources is what would reopen them.
+
+### Open editorial questions
+
+- **The 1662 communion admission rubric**: the file prints the Church of
+  England's current rubric, which is no part of the 1662 text; the Annexed
+  Book prints the older "open and notorious evil liver" rubric. Flagged
+  inline. A scan of a printed 1662 book, or a ruling on how to set the
+  manuscript's paragraph, would settle it.
+- **The 1945 lectionary revision**: deliberately omitted (the table above).
+- **The 1789 Psalter**: a recorded gap until a source for the 1789 book
+  itself is read (the table above).
+
+### Flagged readings
+
+**438 readings are flagged inline** (`<!-- VERIFY -->`) and listed under
+*Uncertain passages* below. By edition: 1979 131, 1559 64, 1892 46, 1549 40,
+1552 40, 1928 29, 1789 28, 1604 25, 1637 21, 1662 9, 1764 3, 1929 2. By
+service family: collects, epistles and gospels 173, occasional offices 130,
+tables 41, daily office 24, Holy Communion 23, Ordinal 15, the Litany 12,
+Psalter 11, prayers and thanksgivings 5, front-matter 4. Nearly all need a
+page scan of that edition, not more transcription; 100 of the 1979 flags need
+a printing from before 2006, because the publisher's file this project read
+carries a later Calendar and Sunday lectionary.
+
+### Sources that could settle them
+
+Found by a survey of the justus collection on 2026-10-16; none has been read
+for these items. The full queue, with method and priority, is in `HANDOFF.md`
+§8 on the `authoring` branch.
+
+- **1892 and 1928, already cached**: the 1892 Standard Book scan (the 1892
+  Kalendar and up to 42 of 1892's flags); the original 1928 printing (22 of
+  1928's flags outside the Psalter).
+- **1789**: justus's scans of the 1795 folio and the 1790 partial folio — the
+  1789 Psalter, the two Proper Psalms readings that may be OCR slips
+  (Ascension 103 or 108, Good Friday 64 or 69), the November Kalendar's blank
+  cells, and the other 1789 flags.
+- **1604**: the 1623 and 1634 printings — all 25 of 1604's flags, the 1604
+  propers, the Kalendar and rubrics.
+- **1662**: the Convocation Book (a 1636 print with the 1661 revision in pen)
+  — the three 1662 Kalendar flags, read layer by layer.
+- **justus's single-page photographs**: six flags, and a possible correction
+  to the 1549 ordering of priests (a closing phrase that may only enter in
+  1552), to be put to the maintainer before it is applied.
+- **1637**: the Kalendar and rubrics as keyed HTML (the table above).
+- **1929 (Scottish)**: the full book (`Scotland/BCP1929.pdf`), which could
+  settle both of 1929's flags.
+- **1979**: a scan of a printing from before 2006 for the 100 flags above;
+  and the rest of 1979's small-capital LORD (the publisher's file records the
+  typeface, so it is a pass of its own).
+- **Not yet read against a page**: three marks that look like keying slips
+  (before *deliver* in the Fourth Sunday in Advent collect of 1789, 1892 and
+  1928; after *may* in 1892's For Rain; before *who seek* in 1928's Public
+  Baptism), and 1892's Churching psalm, keyed as prose where the book prints
+  the Psalter's pointing.
+
+To propose new scholarship — a scan that settles a flagged reading, or a
+source for a recorded gap — open an issue. Accepted work is added as a new
+wave and the history rebuilt.
 
 ---
 

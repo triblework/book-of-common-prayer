@@ -678,9 +678,9 @@ function showAbout() {
   m.innerHTML = `
     <button class="icon-btn close-x" aria-label="Close">✕</button>
     <h3>The Book of Common Prayer, in Parallel</h3>
-    <p class="beta-note"><b>Beta.</b> This viewer and the underlying texts are still being constructed and
-       audited. Coverage is incomplete, some readings are still marked for verification, and both the
-       transcription and the interface may change. Please don't cite it as a settled edition yet.</p>
+    <p class="beta-note"><b>Complete as scoped.</b> The transcription was frozen on 6 November 2026. Some
+       files still carry their parent edition's text (recorded gaps), and some readings are marked for
+       verification against a page scan; both are listed in SOURCES.md.</p>
     <p>A reader's window onto a repository that expresses the prayer book's history as
        <b>git history</b>: every edition is a tag, every tradition a branch. Set editions side
        by side and, with one toggle, see exactly what changed — the way a scholar reads

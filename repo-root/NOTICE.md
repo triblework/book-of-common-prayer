@@ -740,6 +740,20 @@ The published branches and tags are build artifacts, regenerated from the
     (Published 2026-11-06; tips main `3378506c` · scottish `1f1231dd` ·
     american `d1614cc5`.)
 
+- **2026-11-06** — Close-out republish (records only): **no text changed at
+  any tag**; `texts/` is byte-identical to the Wave 25 publish at all twelve.
+  Only the documents changed:
+  - `SOURCES.md` gains a close-out register, *Recorded gaps and open
+    questions*: the ten files that still carry their parent's text and why,
+    the other recorded gaps, the open editorial questions, the 438 flagged
+    readings counted by edition and by service family, and the sources that
+    could settle them.
+  - The README's work-in-progress notices are replaced by a statement that the
+    transcription is complete as scoped, and how to propose new scholarship.
+  - This log records the Wave 25 publish above.
+  - **The corpus is frozen** (2026-11-06). The history is rebuilt again only
+    for genuinely new scholarship, brought as a new wave.
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally
