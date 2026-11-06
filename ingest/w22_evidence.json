@@ -11,7 +11,7 @@
   "eye": "song",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 475,
   "strip": "cs_02, um_16"
  },
@@ -130,7 +130,7 @@
   "eye": "Praise",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 481,
   "strip": "cs_02, case_whole_00"
  },
@@ -172,7 +172,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 482,
   "strip": "cs2_00, q1_36"
  },
@@ -222,7 +222,7 @@
   "eye": "Red Sea",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 486,
   "strip": "cs_02, cs_03, q1_47"
  },
@@ -272,7 +272,7 @@
   "eye": "And",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 487,
   "strip": "cs_02, case_whole_00"
  },
@@ -303,7 +303,7 @@
   "eye": "Red Sea",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 485,
   "strip": "cs_02, cs_03, q1_47"
  },
@@ -312,7 +312,7 @@
   "eye": "Red Sea",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 485,
   "strip": "cs_02, cs_03, q1_47"
  },
@@ -328,7 +328,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 488,
   "strip": "cs_02"
  },
@@ -611,7 +611,7 @@
   "eye": "GOD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 365,
   "strip": "um_01"
  },
@@ -631,7 +631,7 @@
   "eye": "Priest",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 494,
   "strip": "cs_02"
  },
@@ -642,6 +642,17 @@
   "page": 495,
   "read": "W33",
   "strip": "wd_01"
+ },
+ "113:3:case:113:3:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 495,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_113_3"
  },
  "113:5:punct:353": {
   "cell": "?",
@@ -654,6 +665,17 @@
   "source": "ocr",
   "strip": "pu_08"
  },
+ "115:16:case:115:16:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 497,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_115_16"
+ },
  "115:1:punct:354": {
   "cell": "-",
   "class": "comma-added",
@@ -664,6 +686,28 @@
   "page": 496,
   "source": "ocr",
   "strip": "pu_08"
+ },
+ "116:16:case:116:16:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 499,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_116_16"
+ },
+ "118:23:case:118:23:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 500,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_118_23"
  },
  "118:26:spacing:luck , ye": {
   "eye": "luck, ye",
@@ -754,7 +798,7 @@
   "eye": "soul",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 502,
   "strip": "cs_02, um_20"
  },
@@ -763,7 +807,7 @@
   "eye": "soul",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 506,
   "strip": "um_20"
  },
@@ -805,9 +849,20 @@
   "eye": "the",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 366,
   "strip": "cs_00"
+ },
+ "11:4:case:11:4:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 367,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_11_4"
  },
  "120:1:punct:378": {
   "cell": "-",
@@ -847,7 +902,7 @@
   "eye": "the",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 515,
   "strip": "cs_02, um_22"
  },
@@ -944,7 +999,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 519,
   "strip": "cs_03"
  },
@@ -964,7 +1019,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 520,
   "strip": "cs_03"
  },
@@ -995,7 +1050,7 @@
   "eye": "Mighty",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 519,
   "strip": "cs_03"
  },
@@ -1078,7 +1133,7 @@
   "eye": "Red Sea",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 523,
   "strip": "cs_02, cs_03, q1_47"
  },
@@ -1087,7 +1142,7 @@
   "eye": "Red Sea",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 523,
   "strip": "cs_02, cs_03, q1_47"
  },
@@ -1140,7 +1195,7 @@
   "eye": "the",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 523,
   "strip": "cs_03, um_24"
  },
@@ -1154,6 +1209,17 @@
   "page": 524,
   "source": "ocr",
   "strip": "pu_10"
+ },
+ "137:4:case:137:4:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 524,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_137_4"
  },
  "137:8:punct:405": {
   "cell": ",",
@@ -1226,7 +1292,7 @@
   "eye": "Depart",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 526,
   "strip": "cs_03"
  },
@@ -1275,7 +1341,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 526,
   "strip": "cs2_00, cs2_01"
  },
@@ -1284,7 +1350,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 525,
   "strip": "cs2_00, cs2_01"
  },
@@ -1329,7 +1395,7 @@
   "eye": "highest",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 368,
   "strip": "cs_00, cs2_00"
  },
@@ -1349,7 +1415,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1358,7 +1424,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 526,
   "strip": "cs2_00, cs2_01"
  },
@@ -1378,7 +1444,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1387,7 +1453,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1396,7 +1462,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1405,7 +1471,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1414,7 +1480,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 527,
   "strip": "cs2_00, cs2_01"
  },
@@ -1434,7 +1500,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 528,
   "strip": "cs2_00, cs2_01"
  },
@@ -1454,7 +1520,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 528,
   "strip": "cs2_00, cs2_01"
  },
@@ -1474,7 +1540,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 528,
   "strip": "cs2_00, cs2_01"
  },
@@ -1483,7 +1549,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 528,
   "strip": "cs2_00, cs2_01"
  },
@@ -1514,7 +1580,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 528,
   "strip": "cs2_00, cs2_01"
  },
@@ -1534,7 +1600,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 530,
   "strip": "cs2_00, cs2_01"
  },
@@ -1550,7 +1616,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 529,
   "strip": "cs2_00, cs2_01"
  },
@@ -1559,7 +1625,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 529,
   "strip": "cs2_00, cs2_01"
  },
@@ -1568,7 +1634,7 @@
   "eye": "LORD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 529,
   "strip": "cs2_00, cs2_01"
  },
@@ -1690,6 +1756,17 @@
   "source": "ocr",
   "strip": "pu_10"
  },
+ "147:11:case:147:11:LORD’S#1": {
+  "cell": "LORD’S",
+  "eye": "LORD’s",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 534,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_147_11"
+ },
  "147:7:punct:433": {
   "cell": ";",
   "class": "final",
@@ -1790,7 +1867,7 @@
   "eye": "GOD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 370,
   "strip": "um_02"
  },
@@ -1983,7 +2060,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 375,
   "strip": "cs4_00"
  },
@@ -2068,7 +2145,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 377,
   "strip": "cs2_00"
  },
@@ -2119,7 +2196,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 378,
   "strip": "cs_00"
  },
@@ -2158,7 +2235,7 @@
   "eye": "God",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 378,
   "strip": "um_03"
  },
@@ -2217,6 +2294,17 @@
   "source": "ocr",
   "strip": "pu_01"
  },
+ "22:28:case:22:28:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 380,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_22_28"
+ },
  "22:29:punct:76": {
   "cell": "-",
   "class": "comma-added",
@@ -2233,7 +2321,7 @@
   "eye": "Worship",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 379,
   "strip": "cs_00"
  },
@@ -2269,9 +2357,20 @@
   "eye": "Even",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 382,
   "strip": "cs_00"
+ },
+ "24:1:case:24:1:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 381,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_24_1"
  },
  "24:7:punct:79": {
   "cell": ",",
@@ -2289,7 +2388,7 @@
   "eye": "It",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 382,
   "strip": "cs_00"
  },
@@ -2331,7 +2430,7 @@
   "eye": "thou",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 383,
   "strip": "um_04, case_whole_00"
  },
@@ -2340,7 +2439,7 @@
   "eye": "Judge",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 383,
   "strip": "um_04, case_whole_00"
  },
@@ -2365,6 +2464,17 @@
   "page": 384,
   "source": "ocr",
   "strip": "pu_02"
+ },
+ "27:16:case:27:16:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 385,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_27_16"
  },
  "27:16:spacing:heart ; and": {
   "eye": ";",
@@ -2447,7 +2557,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 386,
   "strip": "cs_00"
  },
@@ -2478,7 +2588,7 @@
   "eye": "Lord",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 358,
   "strip": "cs2_00"
  },
@@ -2580,7 +2690,7 @@
   "eye": "thee",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 388,
   "strip": "cs_00"
  },
@@ -2795,7 +2905,7 @@
   "eye": "heart",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 396,
   "strip": "cs_00"
  },
@@ -2815,7 +2925,7 @@
   "eye": "how",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 397,
   "strip": "cs_00, case_whole_00"
  },
@@ -3169,7 +3279,7 @@
   "eye": "have",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 407,
   "strip": "cs_00, um_07"
  },
@@ -3233,7 +3343,7 @@
   "eye": "heart",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 409,
   "strip": "cs_00, um_07"
  },
@@ -3242,7 +3352,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 409,
   "strip": "cs_00"
  },
@@ -3258,7 +3368,7 @@
   "eye": "God",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 410,
   "strip": "um_07"
  },
@@ -3267,7 +3377,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 411,
   "strip": "cs_00"
  },
@@ -3317,7 +3427,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 415,
   "strip": "cs2_00"
  },
@@ -3326,7 +3436,7 @@
   "eye": "Mighty",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 414,
   "strip": "cs_00"
  },
@@ -3335,7 +3445,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 414,
   "strip": "cs_00"
  },
@@ -3480,12 +3590,23 @@
   "source": "ocr",
   "strip": "pu_04"
  },
+ "56:10:case:56:10:LORD'S#1": {
+  "cell": "LORD'S",
+  "eye": "LORD's",
+  "found_by": "Wave 22 eye pass (24:1); the other ten read in Wave 24 off w24_possessive.py crops",
+  "group": "CASE_POSSESSIVE",
+  "kind": "possessive",
+  "note": "the possessive of small-capital LORD -- the book sets LORD's (lower-case s); the encoding is not ruled (R23); group off",
+  "page": 421,
+  "read": "w24_eye.txt",
+  "strip": "w24 pos_56_10"
+ },
  "56:1:case:56:1:MERCIFUL#1": {
   "cell": "MERCIFUL",
   "eye": "merciful",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 421,
   "strip": "case_whole_00, um_08"
  },
@@ -3494,7 +3615,7 @@
   "eye": "merciful",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 422,
   "strip": "case_whole_00, um_09"
  },
@@ -3514,7 +3635,7 @@
   "eye": "High",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 422,
   "strip": "cs_01"
  },
@@ -3523,7 +3644,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 422,
   "strip": "cs_01"
  },
@@ -3620,7 +3741,7 @@
   "eye": "soul",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 426,
   "strip": "cs_01, um_10"
  },
@@ -3728,7 +3849,7 @@
   "eye": "God",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 431,
   "strip": "um_11"
  },
@@ -3822,7 +3943,7 @@
   "eye": "Father",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 432,
   "strip": "cs_01"
  },
@@ -3897,7 +4018,7 @@
   "eye": "GOD",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 438,
   "strip": "um_12"
  },
@@ -3939,7 +4060,7 @@
   "eye": "thee",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 437,
   "strip": "um_11, case_whole_00"
  },
@@ -4046,7 +4167,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 441,
   "strip": "cs_01"
  },
@@ -4088,7 +4209,7 @@
   "eye": "leviathan",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 443,
   "strip": "cs_01"
  },
@@ -4124,7 +4245,7 @@
   "eye": "Jewry",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 445,
   "strip": "um_12, case_whole_00"
  },
@@ -4144,7 +4265,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 446,
   "strip": "cs_01"
  },
@@ -4189,7 +4310,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 448,
   "strip": "cs_01"
  },
@@ -4228,7 +4349,7 @@
   "eye": "High",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 449,
   "strip": "cs_01"
  },
@@ -4259,7 +4380,7 @@
   "eye": "High",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 451,
   "strip": "cs_01"
  },
@@ -4268,7 +4389,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 451,
   "strip": "cs_01"
  },
@@ -4332,7 +4453,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 362,
   "strip": "um_fix_00, look/p362_0718"
  },
@@ -4394,7 +4515,7 @@
   "eye": "God",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 456,
   "strip": "um_14"
  },
@@ -4414,7 +4535,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 456,
   "strip": "cs_01"
  },
@@ -4423,7 +4544,7 @@
   "eye": "JEHOVAH",
   "group": "CASE_LORD",
   "kind": "lord",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 457,
   "strip": "q1_28, cs_01"
  },
@@ -4432,7 +4553,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 457,
   "strip": "cs_01"
  },
@@ -4474,7 +4595,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 458,
   "strip": "cs_01"
  },
@@ -4524,7 +4645,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 461,
   "strip": "cs_01"
  },
@@ -4566,7 +4687,7 @@
   "eye": "song",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 462,
   "strip": "cs_01, um_15"
  },
@@ -4586,7 +4707,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 464,
   "strip": "cs_02, chk_89_37"
  },
@@ -4625,7 +4746,7 @@
   "eye": "anointed",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 465,
   "strip": "cs2_00, q1_31"
  },
@@ -4667,7 +4788,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 467,
   "strip": "cs_02"
  },
@@ -4695,7 +4816,7 @@
   "eye": "is",
   "group": "CASE_OPENING",
   "kind": "opening",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 468,
   "strip": "cs_02, um_15"
  },
@@ -4704,7 +4825,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 468,
   "strip": "cs_02"
  },
@@ -4842,7 +4963,7 @@
   "eye": "Most",
   "group": "CASE_CAPS",
   "kind": "caps",
-  "note": "letter case -- NOT RULED (group off)",
+  "note": "letter case -- R23 (maintainer 2026-11-06): case follows the book; group on",
   "page": 364,
   "strip": "cs_00"
  },

@@ -29,7 +29,7 @@ WHY do the heathen so furiously rage together : and why do the people imagine a 
 
 3 Let us break their bonds asunder : and cast away their cords from us.
 
-4 He that dwelleth in heaven shall laugh them to scorn : the LORD shall have them in derision.
+4 He that dwelleth in heaven shall laugh them to scorn : the Lord shall have them in derision.
 
 5 Then shall he speak unto them in his wrath : and vex them in his sore displeasure:
 
@@ -181,7 +181,7 @@ O LORD my God, in thee have I put my trust : save me from all them that persecut
 
 17 For his travail shall come upon his own head : and his wickedness shall fall on his own pate.
 
-18 I will give thanks unto the LORD, according to his righteousness : and I will praise the Name of the LORD most High.
+18 I will give thanks unto the LORD, according to his righteousness : and I will praise the Name of the LORD Most High.
 
 ## Psalm 8
 
@@ -211,7 +211,7 @@ O LORD our Governor, how excellent is thy Name in all the world : thou that hast
 
 I WILL give thanks unto thee, O LORD, with my whole heart : I will speak of all thy marvellous works.
 
-2 I will be glad and rejoice in thee : yea, my songs will I make of thy Name, O thou most Highest.
+2 I will be glad and rejoice in thee : yea, my songs will I make of thy Name, O thou Most Highest.
 
 3 While mine enemies are driven back : they shall fall and perish at thy presence.
 
@@ -257,7 +257,7 @@ WHY standest thou so far off, O LORD : and hidest thy face in the needful time o
 
 2 The ungodly, for his own lust, doth persecute the poor : let them be taken in the crafty wiliness that they have imagined.
 
-3 For the ungodly hath made boast of his own heart's desire : and speaketh good of the covetous, whom God abhorreth.
+3 For the ungodly hath made boast of his own heart's desire : and speaketh good of the covetous, whom GOD abhorreth.
 
 4 The ungodly is so proud, that he careth not for God : neither is God in all his thoughts.
 
@@ -297,7 +297,7 @@ WHY standest thou so far off, O LORD : and hidest thy face in the needful time o
 
 > In Domino confido
 
-IN THE LORD put I my trust : how say ye then to my soul, that she should flee as a bird unto the hill?
+IN the LORD put I my trust : how say ye then to my soul, that she should flee as a bird unto the hill?
 
 2 For lo, the ungodly bend their bow, and make ready their arrows within the quiver : that they may privily shoot at them which are true of heart.
 
@@ -349,7 +349,7 @@ HOW long wilt thou forget me, O LORD; for ever : how long wilt thou hide thy fac
 
 5 But my trust is in thy mercy : and my heart is joyful in thy salvation.
 
-6 I will sing of the LORD, because he hath dealt so lovingly with me : yea, I will praise the Name of the Lord most Highest.
+6 I will sing of the LORD, because he hath dealt so lovingly with me : yea, I will praise the Name of the Lord most highest.
 
 ## Psalm 14
 
@@ -415,7 +415,7 @@ PRESERVE me, O God : for in thee have I put my trust.
 
 8 I will thank the LORD for giving me warning : my reins also chasten me in the night season.
 
-9 I have set God alway before me : for he is on my right hand, therefore I shall not fall.
+9 I have set GOD alway before me : for he is on my right hand, therefore I shall not fall.
 
 10 Wherefore my heart was glad, and my glory rejoiced : my flesh also shall rest in hope.
 
@@ -563,7 +563,7 @@ I WILL love thee, O LORD, my strength. The LORD is my stony rock, and my defence
 
 50 For this cause will I give thanks unto thee, O LORD, among the Gentiles : and sing praises unto thy Name.
 
-51 Great prosperity giveth he unto his King : and showeth loving-kindness unto David his Anointed, and unto his seed for evermore.
+51 Great prosperity giveth he unto his King : and showeth loving-kindness unto David his anointed, and unto his seed for evermore.
 
 ## Psalm 19
 
@@ -613,7 +613,7 @@ THE LORD hear thee in the day of trouble : the Name of the God of Jacob defend t
 
 5 We will rejoice in thy salvation, and triumph in the Name of the Lord our God : the LORD perform all thy petitions.
 
-6 Now know I that the LORD helpeth his Anointed, and will hear him from his holy heaven : even with the wholesome strength of his right hand.
+6 Now know I that the LORD helpeth his anointed, and will hear him from his holy heaven : even with the wholesome strength of his right hand.
 
 7 Some put their trust in chariots, and some in horses : but we will remember the Name of the LORD our God.
 
@@ -637,7 +637,7 @@ THE King shall rejoice in thy strength, O LORD : exceeding glad shall he be of t
 
 6 For thou shalt give him everlasting felicity : and make him glad with the joy of thy countenance.
 
-7 And why? because the King putteth his trust in the LORD : and in the mercy of the most Highest he shall not miscarry.
+7 And why? because the King putteth his trust in the LORD : and in the mercy of the Most Highest he shall not miscarry.
 
 8 All thine enemies shall feel thine hand : thy right hand shall find out them that hate thee.
 
@@ -655,11 +655,11 @@ THE King shall rejoice in thy strength, O LORD : exceeding glad shall he be of t
 
 > Deus, Deus meus.
 
-MY GOD, my God, look upon me; why hast thou forsaken me : and art so far from my health, and from the words of my complaint?
+MY God, my God, look upon me; why hast thou forsaken me : and art so far from my health, and from the words of my complaint?
 
 2 O my God, I cry in the day-time, but thou hearest not : and in the night season also I take no rest.
 
-3 And thou continuest holy : O thou worship of Israel.
+3 And thou continuest holy : O thou Worship of Israel.
 
 4 Our fathers hoped in thee : they trusted in thee, and thou didst deliver them.
 
@@ -753,11 +753,11 @@ THE earth is the LORD'S, and all that therein is : the compass of the world, and
 
 7 Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors : and the King of glory shall come in.
 
-8 Who is this King of glory : it is the LORD strong and mighty, even the LORD mighty in battle.
+8 Who is this King of glory : It is the LORD strong and mighty, even the LORD mighty in battle.
 
 9 Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors : and the King of glory shall come in.
 
-10 Who is this King of glory : even the LORD of hosts, he is the King of glory.
+10 Who is this King of glory : Even the LORD of hosts, he is the King of glory.
 
 ## Psalm 25
 
@@ -809,7 +809,7 @@ UNTO thee, O LORD, will I lift up my soul; my God, I have put my trust in thee :
 
 > Judica me, Domine.
 
-BE THOU my judge, O LORD, for I have walked innocently : my trust hath been also in the LORD, therefore shall I not fall.
+BE thou my Judge, O LORD, for I have walked innocently : my trust hath been also in the LORD, therefore shall I not fall.
 
 2 Examine me, O LORD, and prove me : try out my reins and my heart.
 
@@ -889,7 +889,7 @@ UNTO thee will I cry, O LORD, my strength : think no scorn of me; lest, if thou 
 
 8 The LORD is my strength, and my shield; my heart hath trusted in him, and I am helped : therefore my heart danceth for joy, and in my song will I praise him.
 
-9 The LORD is my strength : and he is the wholesome defence of his Anointed.
+9 The LORD is my strength : and he is the wholesome defence of his anointed.
 
 10 O save thy people, and give thy blessing unto thine inheritance : feed them, and set them up for ever.
 
@@ -951,7 +951,7 @@ I WILL magnify thee, O LORD; for thou hast set me up : and not made my foes to t
 
 > In te, Domine, speravi.
 
-IN THEE, O LORD, have I put my trust : let me never be put to confusion; deliver me in thy righteousness.
+IN thee, O LORD, have I put my trust : let me never be put to confusion; deliver me in thy righteousness.
 
 2 Bow down thine ear to me : make haste to deliver me.
 
@@ -1191,7 +1191,7 @@ PLEAD thou my cause, O LORD, with them that strive with me : and fight thou agai
 
 > Dixit injustus.
 
-MY HEART showeth me the wickedness of the ungodly : that there is no fear of God before his eyes.
+MY heart showeth me the wickedness of the ungodly : that there is no fear of God before his eyes.
 
 2 For he flattereth himself in his own sight : until his abominable sin be found out.
 
@@ -1203,7 +1203,7 @@ MY HEART showeth me the wickedness of the ungodly : that there is no fear of God
 
 6 Thy righteousness standeth like the strong mountains : thy judgments are like the great deep.
 
-7 Thou, LORD, shalt save both man and beast; How excellent is thy mercy, O God : and the children of men shall put their trust under the shadow of thy wings.
+7 Thou, LORD, shalt save both man and beast; how excellent is thy mercy, O God : and the children of men shall put their trust under the shadow of thy wings.
 
 8 They shall be satisfied with the plenteousness of thy house : and thou shalt give them drink of thy pleasures, as out of the river.
 
@@ -1513,7 +1513,7 @@ GIVE sentence with me, O God, and defend my cause against the ungodly people : O
 
 > Deus, auribus.
 
-WE HAVE heard with our ears, O God, our fathers have told us : what thou hast done in their time of old:
+WE have heard with our ears, O God, our fathers have told us : what thou hast done in their time of old:
 
 2 How thou hast driven out the heathen with thy hand, and planted them in : how thou hast destroyed the nations, and cast them out.
 
@@ -1569,13 +1569,13 @@ WE HAVE heard with our ears, O God, our fathers have told us : what thou hast do
 
 > Eructavit cor meum.
 
-MY HEART is inditing of a good matter : I speak of the things which I have made unto the King.
+MY heart is inditing of a good matter : I speak of the things which I have made unto the King.
 
 2 My tongue is the pen : of a ready writer.
 
 3 Thou art fairer than the children of men : full of grace are thy lips, because God hath blessed thee for ever.
 
-4 Gird thee with thy sword upon thy thigh, O thou most Mighty : according to thy worship and renown.
+4 Gird thee with thy sword upon thy thigh, O thou Most Mighty : according to thy worship and renown.
 
 5 Good luck have thou with thine honour : ride on, because of the word of truth, of meekness, and righteousness; and thy right hand shall teach thee terrible things.
 
@@ -1609,13 +1609,13 @@ MY HEART is inditing of a good matter : I speak of the things which I have made 
 
 > Deus noster refugium.
 
-GOD is our hope and strength : a very present help in trouble.
+God is our hope and strength : a very present help in trouble.
 
 2 Therefore will we not fear, though the earth be moved : and though the hills be carried into the midst of the sea;
 
 3 Though the waters thereof rage and swell : and though the mountains shake at the tempest of the same.
 
-4 The rivers of the flood thereof shall make glad the city of God : the holy place of the tabernacle of the most Highest.
+4 The rivers of the flood thereof shall make glad the city of God : the holy place of the tabernacle of the Most Highest.
 
 5 God is in the midst of her, therefore shall she not be removed : God shall help her, and that right early.
 
@@ -1731,7 +1731,7 @@ O HEAR ye this, all ye people : ponder it with your ears, all ye that dwell in t
 
 > Deus deorum.
 
-THE LORD, even the most mighty God, hath spoken : and called the world, from the rising up of the sun unto the going down thereof.
+THE LORD, even the Most Mighty God, hath spoken : and called the world, from the rising up of the sun unto the going down thereof.
 
 2 Out of Sion hath God appeared : in perfect beauty.
 
@@ -1757,7 +1757,7 @@ THE LORD, even the most mighty God, hath spoken : and called the world, from the
 
 13 Thinkest thou that I will eat bulls' flesh : and drink the blood of goats?
 
-14 Offer unto God thanksgiving : and pay thy vows unto the most Highest.
+14 Offer unto God thanksgiving : and pay thy vows unto the Most Highest.
 
 15 And call upon me in the time of trouble : so will I hear thee, and thou shalt praise me.
 

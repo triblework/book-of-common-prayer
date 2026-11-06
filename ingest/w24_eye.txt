@@ -1,0 +1,26 @@
+# w24_eye.txt -- Wave 24: the possessive of small-capital LORD in the 1892 Psalter,
+# read BY EYE off 4400px crops of the 1892 Standard Book scan (1892Standard/1892standard.pdf),
+# made by w24_possessive.py: each crop the printed row with the rows above and below, and the
+# row alone at 2x, labelled (file name) with the verse only. The OCR line record
+# (w22_scan_ocr.json) located the row; it supplied no reading.
+# Read 2026-11-06. Question asked of each crop: after the apostrophe, a lower-case s or a
+# small-capital S? Answer in all 11: capital L, small capitals ORD, apostrophe, an s of the
+# same form and size as the lower-case s's of the same row (is, his, God's, man's).
+# A pixel check (w24_measure.py) found that this face's small capitals stand AT the x-height
+# (11:4: O R D tops 762, the e of "the" 763, the s 765, page pixels), so height cannot tell a
+# small-capital S from a lower-case s. In the 8 rows it measured, the possessive's s is 35-38px
+# high and 27-30 wide; the lower-case s of "is" on the same row 35-36 by 28-29 (22:28, 24:1,
+# 137:4), and of "God's" on 56:10's row 38 by 30, the same as that row's LORD's. The pixel check
+# corroborates; the reading is the eye's.
+# columns: verse, scan page, what, the book (as the eye read it), the cell, crop, note
+11:4	p367	possessive	LORD's	LORD'S	pos_11_4	
+22:28	p380	possessive	LORD's	LORD'S	pos_22_28	
+24:1	p381	possessive	LORD's	LORD'S	pos_24_1	also read in Wave 22 (U087, strip um_03); located by hand (a verse-1 row, drop capital)
+27:16	p385	possessive	LORD's	LORD'S	pos_27_16	
+56:10	p421	possessive	LORD's	LORD'S	pos_56_10	same row: "God's" ends in the same s (pixel check: 38px high, 30px wide, both)
+113:3	p495	possessive	LORD's	LORD'S	pos_113_3	
+115:16	p497	possessive	LORD's	LORD'S	pos_115_16	
+116:16	p499	possessive	LORD's	LORD'S	pos_116_16	the second row of the verse
+118:23	p500	possessive	LORD's	LORD'S	pos_118_23	
+137:4	p524	possessive	LORD's	LORD'S	pos_137_4	
+147:11	p534	possessive	LORD's	LORD’S	pos_147_11	the row above: "man's" ends in the same s; the cell's apostrophe is curly (kept)

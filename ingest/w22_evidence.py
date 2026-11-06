@@ -20,6 +20,17 @@ import w22_words_eye as WE
 
 OUT = os.path.join(HERE, 'w22_evidence.json')
 
+# Letter case: the notes as ruled (R23). Wave 24 wrote these records into the
+# JSON by w24_evidence.py, file -> file, because main() needs the alignment
+# record of the (transient) render dir; this is the same shape, so a full re-run
+# reproduces them.
+CASE_NOTE = {g: 'letter case -- R23 (maintainer 2026-11-06): case follows the book; group on'
+             for g in ('CASE_LORD', 'CASE_OPENING', 'CASE_CAPS')}
+CASE_NOTE['CASE_POSSESSIVE'] = ("the possessive of small-capital LORD -- the book sets LORD's "
+                                "(lower-case s); the encoding is not ruled (R23); group off")
+CASE_EXTRA = {'CASE_POSSESSIVE': {'read': 'w24_eye.txt', 'found_by': 'Wave 22 eye pass (24:1); '
+                                  'the other ten read in Wave 24 off w24_possessive.py crops'}}
+
 MEDIANT = {
     '39:14:mediant': {'page': 402, 'eye': "thee, and a so-|journer : as all",
                       'strip': 'mq_06 (and pivot_nocolon_00)', 'group': 'POINTING_MOVE',
@@ -120,10 +131,10 @@ def main():
             'note': 'R20: the closing line is book furniture; deleted'}
     for k in json.load(open(os.path.join(HERE, 'w22_case_keys.json'), encoding='utf-8')):
         ref = '%d:%d' % (k['psalm'], k['verse'])
-        ev['%s:case:%s' % (ref, k['id'])] = {
+        ev['%s:case:%s' % (ref, k['id'])] = dict({
             'page': pages[ref], 'eye': k['book'], 'cell': k['cell'], 'kind': k['kind'],
             'strip': k['strip'], 'group': k['group'],
-            'note': 'letter case -- NOT RULED (group off)'}
+            'note': CASE_NOTE[k['group']]}, **CASE_EXTRA.get(k['group'], {}))
     for (p, v), (key, note) in K.VERIFY.items():
         if (p, v) == (1, 3):
             continue

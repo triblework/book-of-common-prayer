@@ -191,6 +191,12 @@ CASE_SAME = ['10:9 For', '38:15 For', '51:3 For', '73:26 For', '89:18 For', '103
              '13:6 most', '37:24 LORD', '68:18 LORD', '104:35 LORD', '110:2 LORD', '118:19 LORD',
              '135:5 Lord', '136:3 Lord', '136:27 Lord', '145:15 Lord', '138:1 Lord', '147:5 Lord']
 # Covered by PUNCT (a capital after a new full stop): 18:1 The, 68:35 Blessed, 104:35 Praise (2nd).
-# NOT keyed -- an encoding question for a ruling: the book sets the possessive of small-capital
-# LORD as LORD's (lower-case s); the cells print LORD'S in 11 verses (11:4, 22:28, 24:1, 27:16,
-# 56:10, 113:3, 115:16, 116:16, 118:23, 137:4, 147:11).
+# THE POSSESSIVE (Wave 24, 2026-11-06; an encoding question, R23): the book sets the possessive
+# of small-capital LORD as LORD's -- capital L, small capitals ORD, apostrophe, LOWER-CASE s --
+# where the cells print LORD'S (147:11 with a curly apostrophe, kept). All 11 read by eye off
+# 4400px crops (w24_possessive.py; record w24_eye.txt); keyed as group CASE_POSSESSIVE, OFF until
+# the encoding is ruled.
+CASE += [(r, w, 1, w[:-1] + 's', 'possessive', 'w24 pos_%s' % r.replace(':', '_')) for r, w in (
+    ('11:4', "LORD'S"), ('22:28', "LORD'S"), ('24:1', "LORD'S"), ('27:16', "LORD'S"),
+    ('56:10', "LORD'S"), ('113:3', "LORD'S"), ('115:16', "LORD'S"), ('116:16', "LORD'S"),
+    ('118:23', "LORD'S"), ('137:4', "LORD'S"), ('147:11', "LORD\u2019S"))]

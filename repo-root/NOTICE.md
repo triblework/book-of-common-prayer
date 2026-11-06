@@ -703,6 +703,22 @@ The published branches and tags are build artifacts, regenerated from the
     flags need a pre-2006 scan. Flags 19 closed, 23 opened.
   - This changes `texts/original` and `texts/normalized` only at `v1979`.
 
+- **2026-11-06** — Wave 24: **letter case in the 1892 Psalter now follows the
+  book**. Wave 22 had read the 94 places where the cells' capitals differ from
+  the 1892 Standard Book scan, and left them unchanged pending a ruling. The
+  maintainer ruled that case read off a page scan follows the book, as its
+  punctuation does (`RULINGS.md` R23).
+  - **94 corrections in 86 verse lines**: the small-capital LORD the keying
+    had set as "Lord" (sixteen times in Psalms 139–143), GOD and JEHOVAH; the
+    book's verse-1 openings, which capitalize only the first word; and *Most
+    High*, *anointed*, *Red Sea* and other capitals. Only letter case changed.
+  - **Not yet applied**: the possessive. The book sets small-capital LORD's with
+    a lower-case s where the cells print "LORD'S" (11 verses), which is an
+    encoding question still open. All 11 are read by eye and keyed.
+  - No flag opened or closed. The independent change log still agrees 55 of 55.
+  - This changes `texts/original` and `texts/normalized` only at `v1892`
+    (three files).
+
 ## A note on transcription
 
 These transcriptions follow public-domain source transcriptions (principally

@@ -518,13 +518,24 @@ In all, 378 edits in 315 verses, every one an eye read with its scan page
 (`ingest/w22_evidence.json`, 477 records; the eye record is
 `ingest/w22_eye.txt`). The independent change log still agrees 55 of 55.
 
-**Not taken, and recorded.** Letter case: the book and the cells differ in 94
-places (small-capital LORD printed "Lord" sixteen times in Psalms 139–143;
-the book capitalizing only the first word of a verse 1; *Most High*, *anointed*,
-*Red Sea* and the like). They are eye-read, keyed and switched off pending a
-ruling (`RULINGS.md`, open questions). The hyphen at 1:3 *water-side* stays
-flagged: the book breaks the word at a line end, and a search of all 596 pages
-finds no other occurrence.
+**Not taken in Wave 22, and recorded.** Letter case: the book and the cells
+differ in 94 places (small-capital LORD printed "Lord" sixteen times in Psalms
+139–143; the book capitalizing only the first word of a verse 1; *Most High*,
+*anointed*, *Red Sea* and the like). They were eye-read, keyed and switched off
+pending a ruling, which Wave 24 made (below). The hyphen at 1:3 *water-side*
+stays flagged: the book breaks the word at a line end, and a search of all 596
+pages finds no other occurrence.
+
+**Letter case, taken in Wave 24 (2026-11-06).** The maintainer ruled that where
+an edition is read by eye against a page scan its letter case follows the book,
+as its stops do (`RULINGS.md` R23). Wave 22's 94 keyed differences are switched
+on: 23 of the small-capital divine name (LORD, GOD, JEHOVAH), 22 verse-1
+openings, 49 other capitals. Nothing but letter case changed (86 verse lines).
+The ruling reaches no born-digital text layer: the 1979 Psalter's case still
+comes from its keying (R11). Still open: the possessive. The book sets it as
+small-capital LORD, an apostrophe and a **lower-case s** ("LORD's") where these
+cells print "LORD'S", in 11 verses. All 11 were read by eye (`ingest/w24_eye.txt`)
+and keyed, but they are not applied until the encoding is ruled.
 
 ### The rest of the 1979 text against the publisher's own file (Wave 23)
 
