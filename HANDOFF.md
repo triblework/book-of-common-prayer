@@ -18,10 +18,25 @@ wave guide.
 
 ---
 
-## CURRENT — WAVE 24 (letter case in the 1892 Psalter, R23) BUILT + COMMITTED, NOT YET PUBLISHED (2026-11-06)
+## CURRENT — WAVE 24 (letter case in the 1892 Psalter, R23) DONE + PUBLISHED (2026-11-06)
 
-**Status: committed on `authoring`; full build checked; publish awaits the
-maintainer's go-ahead (R4).**
+**PUBLISHED 2026-11-06 (force-pushed with the maintainer's go-ahead, given in
+the Wave 24 session). Published tips: `main 74283bb6 · scottish d930a4fa ·
+american 2351758b` (identical to the pre-publish scratch build: the build is
+deterministic); branches pushed with `--force-with-lease`, all 12 tags pushed
+BY NAME (no scratch tags existed); `authoring` pushed (0b3d946 → fa719ab, then
+this record); local==remote verified for 28 refs (4 heads, 12 tag objects, 12
+peeled commits; 0 mismatched, no stray refs). Against the previous tags
+`texts/` changed ONLY at v1892 (6 files: the three Psalter cells in
+`original/` and `normalized/`, 194 lines, letter case only); the other eleven
+tags differ only in NOTICE/README/SOURCES. Every tag and branch passes
+`sentence_split --check`, `normalize --check` and published-context
+`verify_index`; no tag carries U+FFFD. CI (3 branches), Authoring CI and
+viewer runs green; all 280 viewer data files byte-identical to the live site;
+the live Compare view (1892 | 1928, Psalms 101–150) pairs word-level
+highlights and shows 1892's new "LORD's". Pre/post refs:
+`scratchpad/pre-publish-refs-w24.txt`, `post-publish-refs-w24.txt`
+(scratchpad, not durable).**
 
 A small wave from a side session of the coordinator session (Wave 20's), to
 close Wave 22's open ruling. Guide: `ingest/WAVE24_GUIDE.md`. Ruling **R23**

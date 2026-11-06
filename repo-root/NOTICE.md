@@ -717,7 +717,8 @@ The published branches and tags are build artifacts, regenerated from the
   - 105 corrections in all, each an eye read with its scan page. No flag
     opened or closed; the independent change log still agrees 55 of 55.
   - This changes `texts/original` and `texts/normalized` only at `v1892`
-    (three files).
+    (three files). (Published 2026-11-06; tips main `74283bb6` · scottish
+    `d930a4fa` · american `2351758b`.)
 
 ## A note on transcription
 
