@@ -51,6 +51,7 @@ a:hover{text-decoration:underline}
   font-size:.85rem;border-bottom:1px solid #7d3626;
 }
 .beta-banner b{color:#fff;font-weight:600}
+.beta-banner a{color:#fff;text-decoration:underline;text-underline-offset:2px}
 .beta-pill{
   font-variant:small-caps;letter-spacing:.13em;font-weight:600;font-size:.72rem;
   background:#F7F1E8;color:var(--rubric);border-radius:99px;padding:.06rem .55rem;white-space:nowrap;
