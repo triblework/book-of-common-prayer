@@ -4,10 +4,12 @@
 compare editions of the prayer book side by side in your browser, with a
 GitHub-style diff of exactly what changed. No git required.
 
-**The transcription is complete as scoped, and the corpus was frozen on
-2026-11-06.** What remains is recorded gaps and uncertain readings, each listed
-in [`SOURCES.md`](SOURCES.md#recorded-gaps-and-open-questions-close-out-register-2026-11-06)
-— no text is ever invented to fill one. To propose new scholarship, such as a
+> **⚠️ This project is experimental.** Recorded gaps and readings still marked
+> for verification are listed in
+> [`SOURCES.md`](SOURCES.md#recorded-gaps-and-open-questions-close-out-register-2026-11-06).
+> Additional gaps may be undocumented.
+
+No text is ever invented to fill a gap. To propose new scholarship, such as a
 page scan that settles a flagged reading, open an issue; accepted work is added
 as a new wave and the history rebuilt.
 
@@ -91,7 +93,8 @@ see `NOTICE.md`.)*
 The **structure is complete**: all three branches and all twelve tags exist, and
 the diff mechanism works end-to-end. The **transcribed text** covers every
 service family the project set out to carry (below); what remains is recorded
-gaps and uncertain readings, listed in `SOURCES.md`. It begins with the
+gaps and uncertain readings, listed in `SOURCES.md`, and possibly gaps not yet
+documented. It begins with the
 **Daily Office — Morning Prayer and Evening Prayer — the Litany, Holy
 Communion, and the initiation offices (Baptism and Confirmation)** at full Tier-1
 depth across every edition that has them — the richest
