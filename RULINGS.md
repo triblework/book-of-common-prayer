@@ -704,6 +704,23 @@ inherited wholesale."**
 
 ---
 
+## R28 — The viewer presents the project as experimental; acknowledgments sit at the foot of the page
+*(maintainer), 2026-11-10.*
+
+- **Ruled:** the viewer's status banner and the About panel's top note read
+  "This project is experimental. Recorded gaps and readings still marked for
+  verification are listed in SOURCES.md. Additional gaps may be undocumented."
+  The "Complete" chip is gone. "Complete as scoped" stays true of R26's
+  freeze; it is no longer how the viewer describes the project.
+- **Ruled:** the About panel carries no colophon (licence, fonts, build date,
+  wave note). Those facts remain in `LICENSE`, `NOTICE.md` and the data index.
+- **Ruled:** a rights acknowledgment for a shown column (today the 1662
+  Crown-copyright notice) is a page footer, not a dismissible banner under the
+  header. The "BCP 1662" mark on the 1662 column head stays where it is.
+- *Reopened by:* the maintainer.
+
+---
+
 ## Queued rulings (provisional; made 2026-10-16 on the justus survey, to be confirmed when each step is started)
 
 The survey (`ingest/WAVE23_GUIDE.md`, HANDOFF §8) found page scans the
