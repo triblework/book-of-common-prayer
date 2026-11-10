@@ -248,7 +248,6 @@ del{background:var(--del-bg-word);color:var(--del-text);text-decoration:line-thr
 .modal .beta-note{background:color-mix(in srgb,var(--rubric) 10%,transparent);border:1px solid var(--rule-strong);
   border-left:3px solid var(--rubric);border-radius:var(--radius);padding:.6rem .8rem;color:var(--ink)}
 .modal .close-x{position:absolute;top:.7rem;right:.9rem}
-.modal .colophon{font-size:.82rem;color:var(--ink-muted);border-top:1px solid var(--rule);margin-top:1.2rem;padding-top:.8rem}
 
 /* Small screens: chips + single column */
 .edition-chips{display:none}

@@ -672,9 +672,6 @@ function showAbout() {
   m.setAttribute("role", "dialog");
   m.setAttribute("aria-modal", "true");
   m.setAttribute("aria-label", "About this project");
-  const built = INDEX.built ? new Date(INDEX.built).toISOString().slice(0, 10) : "";
-  const noticeLink = safeUrl(INDEX.notice && INDEX.notice.notice_url) || "#";
-  const sourcesLink = safeUrl(INDEX.notice && INDEX.notice.sources_url) || "#";
   m.innerHTML = `
     <button class="icon-btn close-x" aria-label="Close">✕</button>
     <h3>The Book of Common Prayer, in Parallel</h3>
@@ -698,14 +695,7 @@ function showAbout() {
     <p>Each column's ⓘ shows where its text came from. The 1662 book is public domain outside the UK and
        Crown copyright within it; it is shown with the required acknowledgment, <b>BCP 1662</b>.
        Editorial uncertainties are surfaced honestly with a <span class="verify-mark">❓</span> marker
-       rather than silently corrected.</p>
-    <div class="colophon">
-       The viewer's <b>code</b> is under the repository's MIT <code>LICENSE</code>; the <b>texts</b> are
-       governed by <a href="${esc(noticeLink)}" target="_blank" rel="noopener">NOTICE.md</a>
-       (see <a href="${esc(sourcesLink)}" target="_blank" rel="noopener">SOURCES.md</a> for per-edition sources).
-       Fonts: EB Garamond &amp; Source Serif 4 via Google Fonts.
-       Data built ${built} from <code>${esc(INDEX.repo || "")}</code>.${INDEX.wave_note ? " " + esc(INDEX.wave_note) : ""}
-    </div>`;
+       rather than silently corrected.</p>`;
   document.body.appendChild(ov);
   document.body.appendChild(m);
   const close = () => { ov.remove(); m.remove(); };
