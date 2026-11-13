@@ -721,6 +721,34 @@ inherited wholesale."**
 
 ---
 
+## R29 — The README's status note is a documentation commit on `main`, not a republish
+*(maintainer), 2026-11-12. An exception to R26 for one file on one branch.*
+
+The close-out (R26) replaced the README's "Work in progress" box with "complete
+as scoped, frozen". R28 changed how the viewer describes the project; the
+maintainer asked for the README to say the same, and chose how it reaches
+GitHub.
+
+- **Ruled:** the README opens with "⚠️ This project is experimental. Recorded
+  gaps and readings still marked for verification are listed in SOURCES.md.
+  Additional gaps may be undocumented." (`repo-root/README.md`; the
+  Transcription status section adds "possibly gaps not yet documented").
+- **Ruled:** it is published as one README-only commit on top of `main`
+  (`41a898d`, parent `d3cebda` = `v1662`), pushed fast-forward. No rebuild, no
+  force-push, no tag moved; `scottish` and `american` are untouched (their
+  READMEs still say "complete as scoped" — GitHub's front page shows `main`).
+- **What it costs:** `main`'s tip is no longer an edition commit, so
+  `git diff v1662 main` shows this README change. The viewer and CI only test
+  that each tag is an ancestor of its branch tip, which still holds.
+- **For the next wave:** a rebuild from `authoring` regenerates `main` from the
+  scaffold and drops `41a898d`; nothing is lost, because `authoring` carries the
+  same README. The publish's `--force-with-lease` must expect `main` at
+  `41a898d`, not `d3cebda`.
+- *Reopened by:* the maintainer, or the next wave's republish (which folds the
+  README into the scaffold commit as usual).
+
+---
+
 ## Queued rulings (provisional; made 2026-10-16 on the justus survey, to be confirmed when each step is started)
 
 The survey (`ingest/WAVE23_GUIDE.md`, HANDOFF §8) found page scans the

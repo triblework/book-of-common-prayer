@@ -12,6 +12,9 @@ session reading this file, start here; the wave blocks below are history.
 **Published tips after the close-out (2026-11-06, force-pushed under the
 maintainer's go-ahead in the close-out brief, R4):** `main d3cebda1 ·
 scottish 2f6f1bb5 · american 9dbadc57` (identical to the gated scratch build).
+**Since then (2026-11-12, R29):** `main` is `41a898d`, one README-only commit
+on top of `d3cebda` (`v1662`), pushed fast-forward; tags and the other branches
+are unchanged. A next publish must lease `main` against `41a898d`.
 Branches pushed with `--force-with-lease`; the twelve tags pushed BY NAME (no
 scratch tags existed; the scratch build's `refs/live/*` never left it);
 local == remote verified for 28 refs (4 heads, 12 tag objects, 12 peeled
